@@ -1,0 +1,1612 @@
+[
+  {
+    "id": 1976,
+    "name": "пл. Героїв Небесної Сотні (Руднєва)",
+    "arStreetID": null
+  },
+  {
+    "id": 1999,
+    "name": "вул. Ново-Садова (Фрунз.) (Садова)",
+    "arStreetID": null
+  },
+  {
+    "id": 1088,
+    "name": "вул. 2-14)",
+    "arStreetID": null
+  },
+  {
+    "id": 1,
+    "name": "пос. 71-ВЗ - Оздоровчий комбінат",
+    "arStreetID": null
+  },
+  {
+    "id": 2939,
+    "name": "вул. 7й гвардейской армии",
+    "arStreetID": null
+  },
+  {
+    "id": 1073,
+    "name": "вул. Євгена Котляра (Конарєва (Червоноармійська)",
+    "arStreetID": null
+  },
+  {
+    "id": 1821,
+    "name": "вул. Івана Багмута (Потапенка П.Р.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2921,
+    "name": "вул. Івана Сусаніна",
+    "arStreetID": null
+  },
+  {
+    "id": 817,
+    "name": "б-рв-д Індустріальна",
+    "arStreetID": null
+  },
+  {
+    "id": 2469,
+    "name": "пр. Індустріальний (Фрунзе)",
+    "arStreetID": null
+  },
+  {
+    "id": 819,
+    "name": "пл. Інженерний",
+    "arStreetID": null
+  },
+  {
+    "id": 1074,
+    "name": "пров. Аверіна (Червоноармійський пр-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 1179,
+    "name": "вул. Аверина (Куусінська)",
+    "arStreetID": null
+  },
+  {
+    "id": 40,
+    "name": "пр. Академіка Курчатова",
+    "arStreetID": null
+  },
+  {
+    "id": 65,
+    "name": "сп. Алуштинський",
+    "arStreetID": null
+  },
+  {
+    "id": 67,
+    "name": "пров. Алябєва",
+    "arStreetID": null
+  },
+  {
+    "id": 1618,
+    "name": "пр. Архітектора Альошина (Орджонікідзе Серго)",
+    "arStreetID": null
+  },
+  {
+    "id": 109,
+    "name": "в-д Аскольдівський (у т.ч. Чернігівський (Ком.) пров.)",
+    "arStreetID": null
+  },
+  {
+    "id": 113,
+    "name": "пров. Астрономічний",
+    "arStreetID": null
+  },
+  {
+    "id": 408,
+    "name": "вул. Біблика (Другої Пятирічки)",
+    "arStreetID": null
+  },
+  {
+    "id": 185,
+    "name": "сп. Білгородський",
+    "arStreetID": null
+  },
+  {
+    "id": 196,
+    "name": "пров. Біломорський",
+    "arStreetID": null
+  },
+  {
+    "id": 134,
+    "name": "пл. Базарний",
+    "arStreetID": null
+  },
+  {
+    "id": 1501,
+    "name": "пр-д Балашовський (Нехаєнка Г.П. вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2892,
+    "name": "0 Березнева",
+    "arStreetID": null
+  },
+  {
+    "id": 2846,
+    "name": "пров. БЛЕСТЯЩИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2138,
+    "name": "пос. БМП-166",
+    "arStreetID": null
+  },
+  {
+    "id": 646,
+    "name": "пос. БОС №7",
+    "arStreetID": null
+  },
+  {
+    "id": 279,
+    "name": "пр-д Бугрименка 2-й",
+    "arStreetID": null
+  },
+  {
+    "id": 283,
+    "name": "пл. Бугримової",
+    "arStreetID": null
+  },
+  {
+    "id": 2242,
+    "name": "б-рв-д Будівельна",
+    "arStreetID": null
+  },
+  {
+    "id": 294,
+    "name": "сп. Бурсацький",
+    "arStreetID": null
+  },
+  {
+    "id": 992,
+    "name": "вул. Бучми (Командарма Уборевіча)",
+    "arStreetID": null
+  },
+  {
+    "id": 2705,
+    "name": "вул. была Павлика) + Транспортная Колонна пос.)",
+    "arStreetID": null
+  },
+  {
+    "id": 297,
+    "name": "дорога В Ващенківськім Бору",
+    "arStreetID": null
+  },
+  {
+    "id": 1652,
+    "name": "пос. Відрадне",
+    "arStreetID": null
+  },
+  {
+    "id": 304,
+    "name": "вул. Валерянівська",
+    "arStreetID": null
+  },
+  {
+    "id": 305,
+    "name": "пров. Валерянівський",
+    "arStreetID": null
+  },
+  {
+    "id": 1951,
+    "name": "пров. Ванди Беневської (Джерельний)",
+    "arStreetID": null
+  },
+  {
+    "id": 2919,
+    "name": "вул. Василя Клочкова",
+    "arStreetID": null
+  },
+  {
+    "id": 2888,
+    "name": "вул. Велишевская",
+    "arStreetID": null
+  },
+  {
+    "id": 2887,
+    "name": "вул. Венгеровского (Інд. раніше сел. Фрунзе)",
+    "arStreetID": null
+  },
+  {
+    "id": 336,
+    "name": "б-рв-д Верещаківка",
+    "arStreetID": null
+  },
+  {
+    "id": 1079,
+    "name": "пр-д Верещаківський (Червоного Міліціонера вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 340,
+    "name": "вул. Верхнєгиївська",
+    "arStreetID": null
+  },
+  {
+    "id": 1631,
+    "name": "вул. Визволення",
+    "arStreetID": null
+  },
+  {
+    "id": 1630,
+    "name": "пров. Визволення",
+    "arStreetID": null
+  },
+  {
+    "id": 2816,
+    "name": "пров. Волосний (Ногіна (Жовтн.))",
+    "arStreetID": null
+  },
+  {
+    "id": 1205,
+    "name": "вул. Вячеслава Чорновола (Лебедєва Павла)",
+    "arStreetID": null
+  },
+  {
+    "id": 1377,
+    "name": "вул. Гідроркова (Міліціонера)",
+    "arStreetID": null
+  },
+  {
+    "id": 429,
+    "name": "пр. Гагаріна",
+    "arStreetID": null
+  },
+  {
+    "id": 439,
+    "name": "вул. Гаркуші",
+    "arStreetID": null
+  },
+  {
+    "id": 448,
+    "name": "вул. Гвардійців- Залізничників",
+    "arStreetID": null
+  },
+  {
+    "id": 449,
+    "name": "вул. Гвардійців- Широнінців",
+    "arStreetID": null
+  },
+  {
+    "id": 450,
+    "name": "вул. Генерала Шумілова",
+    "arStreetID": null
+  },
+  {
+    "id": 2142,
+    "name": "пл. Георгіївський (Радянський)",
+    "arStreetID": null
+  },
+  {
+    "id": 459,
+    "name": "пр. Героїв Сталінграда",
+    "arStreetID": null
+  },
+  {
+    "id": 2847,
+    "name": "в-д ГИЕВСКИЙ 2-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2849,
+    "name": "сп. ГИЕВСКИЙ 3-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2850,
+    "name": "вул. ГМЫРИ",
+    "arStreetID": null
+  },
+  {
+    "id": 2309,
+    "name": "пров. Гончарний (Тельмана в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2851,
+    "name": "пр-д ГОРНЫЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2941,
+    "name": "вул. Горяевская",
+    "arStreetID": null
+  },
+  {
+    "id": 500,
+    "name": "пос. Готель-Інтернат",
+    "arStreetID": null
+  },
+  {
+    "id": 2852,
+    "name": "вул. ГУМИЛЕВСКОГО",
+    "arStreetID": null
+  },
+  {
+    "id": 531,
+    "name": "вул. Гурєвська",
+    "arStreetID": null
+  },
+  {
+    "id": 532,
+    "name": "пров. Гурєвський",
+    "arStreetID": null
+  },
+  {
+    "id": 533,
+    "name": "пр-д Гурєвський",
+    "arStreetID": null
+  },
+  {
+    "id": 2470,
+    "name": "вул. д. 1-17",
+    "arStreetID": null
+  },
+  {
+    "id": 872,
+    "name": "шосе д. 2-5",
+    "arStreetID": null
+  },
+  {
+    "id": 542,
+    "name": "пос. Данилівське Лісництво",
+    "arStreetID": null
+  },
+  {
+    "id": 545,
+    "name": "сп. Данилівський",
+    "arStreetID": null
+  },
+  {
+    "id": 550,
+    "name": "вул. Даряльська",
+    "arStreetID": null
+  },
+  {
+    "id": 551,
+    "name": "пров. Даряльський",
+    "arStreetID": null
+  },
+  {
+    "id": 554,
+    "name": "пос. Дачі № 7",
+    "arStreetID": null
+  },
+  {
+    "id": 553,
+    "name": "пос. Дача № 55",
+    "arStreetID": null
+  },
+  {
+    "id": 573,
+    "name": "вул. Демяна Бєдного",
+    "arStreetID": null
+  },
+  {
+    "id": 586,
+    "name": "вул. Деревянка",
+    "arStreetID": null
+  },
+  {
+    "id": 595,
+    "name": "пр. Дзюби",
+    "arStreetID": null
+  },
+  {
+    "id": 2841,
+    "name": "пос. Докучаево",
+    "arStreetID": null
+  },
+  {
+    "id": 2272,
+    "name": "вул. дом 1",
+    "arStreetID": null
+  },
+  {
+    "id": 631,
+    "name": "пос. Дома завода Трансзвязок",
+    "arStreetID": null
+  },
+  {
+    "id": 2853,
+    "name": "пр-д ДОНБАССКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 632,
+    "name": "пров. Донбаський",
+    "arStreetID": null
+  },
+  {
+    "id": 638,
+    "name": "дорога дорога",
+    "arStreetID": null
+  },
+  {
+    "id": 1724,
+    "name": "вул. Дорошенківська (Петровського 2-й в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 1121,
+    "name": "пр-д Достоєвського (Кривомазова пров.)",
+    "arStreetID": null
+  },
+  {
+    "id": 662,
+    "name": "пос. Дубовий Гай",
+    "arStreetID": null
+  },
+  {
+    "id": 2125,
+    "name": "б-р Жасминовий (Слинька Петра вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2854,
+    "name": "вул. ЖЕЛЯБОВА",
+    "arStreetID": null
+  },
+  {
+    "id": 2940,
+    "name": "вул. Животноводов",
+    "arStreetID": null
+  },
+  {
+    "id": 694,
+    "name": "пр-д Жихорський (Желєзнякова)",
+    "arStreetID": null
+  },
+  {
+    "id": 713,
+    "name": "пр. Жуковського",
+    "arStreetID": null
+  },
+  {
+    "id": 719,
+    "name": "сп. Журавлівський",
+    "arStreetID": null
+  },
+  {
+    "id": 716,
+    "name": "в-д Журавлівський 1-й",
+    "arStreetID": null
+  },
+  {
+    "id": 2149,
+    "name": "вул. Зєднана",
+    "arStreetID": null
+  },
+  {
+    "id": 2895,
+    "name": "пл. Заїки",
+    "arStreetID": null
+  },
+  {
+    "id": 736,
+    "name": "б-рв-д Залютино",
+    "arStreetID": null
+  },
+  {
+    "id": 745,
+    "name": "пос. Зарічне",
+    "arStreetID": null
+  },
+  {
+    "id": 2843,
+    "name": "пос. Затишье",
+    "arStreetID": null
+  },
+  {
+    "id": 404,
+    "name": "пл. Захисників України (Повстання)",
+    "arStreetID": null
+  },
+  {
+    "id": 2047,
+    "name": "вул. Звязку",
+    "arStreetID": null
+  },
+  {
+    "id": 755,
+    "name": "наб. Здоровя",
+    "arStreetID": null
+  },
+  {
+    "id": 756,
+    "name": "пров. Здоровя",
+    "arStreetID": null
+  },
+  {
+    "id": 783,
+    "name": "вул. Знамянська",
+    "arStreetID": null
+  },
+  {
+    "id": 844,
+    "name": "пос. Кабанова Дача",
+    "arStreetID": null
+  },
+  {
+    "id": 857,
+    "name": "вул. Камянець-Подільська",
+    "arStreetID": null
+  },
+  {
+    "id": 856,
+    "name": "пл. Камянець-Подільський",
+    "arStreetID": null
+  },
+  {
+    "id": 858,
+    "name": "пров. Камянець-Подільський",
+    "arStreetID": null
+  },
+  {
+    "id": 2886,
+    "name": "в-д Карамзина",
+    "arStreetID": null
+  },
+  {
+    "id": 875,
+    "name": "пл. Карла Маркса",
+    "arStreetID": null
+  },
+  {
+    "id": 887,
+    "name": "сп. Карпівський",
+    "arStreetID": null
+  },
+  {
+    "id": 888,
+    "name": "вул. Кар’єрна",
+    "arStreetID": null
+  },
+  {
+    "id": 889,
+    "name": "пров. Кар’єрний",
+    "arStreetID": null
+  },
+  {
+    "id": 901,
+    "name": "вул. Квітки-Основяненка",
+    "arStreetID": null
+  },
+  {
+    "id": 731,
+    "name": "пр-д Кедровий (Загорський пров.)",
+    "arStreetID": null
+  },
+  {
+    "id": 917,
+    "name": "пров. Кибальчича",
+    "arStreetID": null
+  },
+  {
+    "id": 2812,
+    "name": "в-д Киев.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2882,
+    "name": "вул. Кирпичова (Червонопрапорна буд. 16 17А 21)",
+    "arStreetID": null
+  },
+  {
+    "id": 1678,
+    "name": "сп. Клочківський (Пассіонарії)",
+    "arStreetID": null
+  },
+  {
+    "id": 2929,
+    "name": "пров. Ков`язький",
+    "arStreetID": null
+  },
+  {
+    "id": 2855,
+    "name": "пров. КОЛОНТАЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2842,
+    "name": "пос. Коммунист",
+    "arStreetID": null
+  },
+  {
+    "id": 1011,
+    "name": "пл. Конституції",
+    "arStreetID": null
+  },
+  {
+    "id": 1033,
+    "name": "пр-д Корсиківський (Косіора пров.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2827,
+    "name": "вул. Косарєва (Соколова (Ордж.))",
+    "arStreetID": null
+  },
+  {
+    "id": 847,
+    "name": "пров. Костянтина Калініна (Калініна 2-й в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2932,
+    "name": "вул. Крамаренковская",
+    "arStreetID": null
+  },
+  {
+    "id": 2858,
+    "name": "пров. КРАСНОМАЯЦКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2925,
+    "name": "вул. Кремечуцька",
+    "arStreetID": null
+  },
+  {
+    "id": 2856,
+    "name": "пров. КУБАСОВА",
+    "arStreetID": null
+  },
+  {
+    "id": 1150,
+    "name": "пос. Кузінський Шляхопровід",
+    "arStreetID": null
+  },
+  {
+    "id": 1723,
+    "name": "пров. Кузнецький (Петровського 1-й в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2832,
+    "name": "вул. Куліничі (усі вулиці)",
+    "arStreetID": null
+  },
+  {
+    "id": 1921,
+    "name": "сп. Куликівський (Революції вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2878,
+    "name": "вул. Кулиничевская",
+    "arStreetID": null
+  },
+  {
+    "id": 1165,
+    "name": "вул. Купянська",
+    "arStreetID": null
+  },
+  {
+    "id": 2857,
+    "name": "пров. КУРГАНСКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 1578,
+    "name": "пров. Лаврентіївський (Ногіна (Лен.))",
+    "arStreetID": null
+  },
+  {
+    "id": 2644,
+    "name": "в-д Лебяжий (Щорса Миколая)",
+    "arStreetID": null
+  },
+  {
+    "id": 1208,
+    "name": "б-рв-д Левада",
+    "arStreetID": null
+  },
+  {
+    "id": 1212,
+    "name": "вул. Лейтенанта Шмідта",
+    "arStreetID": null
+  },
+  {
+    "id": 2874,
+    "name": "пос. Лесной",
+    "arStreetID": null
+  },
+  {
+    "id": 2889,
+    "name": "вул. Леся Курбаса",
+    "arStreetID": null
+  },
+  {
+    "id": 1237,
+    "name": "пос. Литвинівка",
+    "arStreetID": null
+  },
+  {
+    "id": 1252,
+    "name": "б-рв-д Лосеве",
+    "arStreetID": null
+  },
+  {
+    "id": 1271,
+    "name": "вул. Лукянівська",
+    "arStreetID": null
+  },
+  {
+    "id": 2860,
+    "name": "сп. ЛЫСОГОРСКИЙ 1-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 1889,
+    "name": "пр. Льва Ландау (Пятдесятиріччя СРСР)",
+    "arStreetID": null
+  },
+  {
+    "id": 1820,
+    "name": "пр. Любові Малої (Постишева)",
+    "arStreetID": null
+  },
+  {
+    "id": 1286,
+    "name": "пр. Людвіга Свободи",
+    "arStreetID": null
+  },
+  {
+    "id": 2016,
+    "name": "пров. Людмили Гурченко (Саммерівський)",
+    "arStreetID": null
+  },
+  {
+    "id": 1386,
+    "name": "б-рв-д Мінутка",
+    "arStreetID": null
+  },
+  {
+    "id": 1311,
+    "name": "вул. Мало-Гончарівська",
+    "arStreetID": null
+  },
+  {
+    "id": 386,
+    "name": "пров. Мало-Черновський (Володарського в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 1316,
+    "name": "вул. Маломясницька",
+    "arStreetID": null
+  },
+  {
+    "id": 1053,
+    "name": "вул. Марївська (Котовського)",
+    "arStreetID": null
+  },
+  {
+    "id": 1051,
+    "name": "в-д Марївський (Котовського)",
+    "arStreetID": null
+  },
+  {
+    "id": 1334,
+    "name": "вул. Марїнська",
+    "arStreetID": null
+  },
+  {
+    "id": 1335,
+    "name": "пров. Маряненка",
+    "arStreetID": null
+  },
+  {
+    "id": 1339,
+    "name": "вул. Матросова Олександра",
+    "arStreetID": null
+  },
+  {
+    "id": 1345,
+    "name": "пр. Машинобудівників",
+    "arStreetID": null
+  },
+  {
+    "id": 1358,
+    "name": "шосе Мерефянське",
+    "arStreetID": null
+  },
+  {
+    "id": 1559,
+    "name": "шосе Мерефянське (Новопролетарська вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2486,
+    "name": "вул. Мещанинова)",
+    "arStreetID": null
+  },
+  {
+    "id": 2264,
+    "name": "вул. МЖК Интернаціоналіст (Сучасна)",
+    "arStreetID": null
+  },
+  {
+    "id": 2523,
+    "name": "пров. Мороховецький (Чапаєва в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 1427,
+    "name": "пр. Московський",
+    "arStreetID": null
+  },
+  {
+    "id": 1444,
+    "name": "пров. Мясний",
+    "arStreetID": null
+  },
+  {
+    "id": 1052,
+    "name": "пр-д Ніконівський (Котовського пров.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1215,
+    "name": "пр. Науки (Леніна)",
+    "arStreetID": null
+  },
+  {
+    "id": 1375,
+    "name": "пл. Національної Гвардії (Міліціонера)",
+    "arStreetID": null
+  },
+  {
+    "id": 1827,
+    "name": "пр. Незалежності (Правди)",
+    "arStreetID": null
+  },
+  {
+    "id": 2806,
+    "name": "вул. нет домов)",
+    "arStreetID": null
+  },
+  {
+    "id": 2813,
+    "name": "пров. нет домов)",
+    "arStreetID": null
+  },
+  {
+    "id": 1506,
+    "name": "вул. Нижнєгиївська",
+    "arStreetID": null
+  },
+  {
+    "id": 2862,
+    "name": "пров. НИЖНЕ-ГИЕВСКОЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2861,
+    "name": "сп. НИЖНЕГИЕВСКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 1507,
+    "name": "сп. Нижньогиївський 1-й",
+    "arStreetID": null
+  },
+  {
+    "id": 1509,
+    "name": "сп. Нижньогиївський 2-й",
+    "arStreetID": null
+  },
+  {
+    "id": 1510,
+    "name": "сп. Нижньогиївський 3-й",
+    "arStreetID": null
+  },
+  {
+    "id": 1511,
+    "name": "сп. Нижньогиївський 4-й",
+    "arStreetID": null
+  },
+  {
+    "id": 1512,
+    "name": "сп. Нижньогиївський 5-й",
+    "arStreetID": null
+  },
+  {
+    "id": 1513,
+    "name": "сп. Нижньогиївський 6-й",
+    "arStreetID": null
+  },
+  {
+    "id": 2877,
+    "name": "в-д Нова 2 (Тестова прграмiста) 222",
+    "arStreetID": null
+  },
+  {
+    "id": 1576,
+    "name": "4 Новий",
+    "arStreetID": null
+  },
+  {
+    "id": 814,
+    "name": "пр. Ново-Баварський (Ілліча)",
+    "arStreetID": null
+  },
+  {
+    "id": 1536,
+    "name": "б-рв-д Новожанове",
+    "arStreetID": null
+  },
+  {
+    "id": 1547,
+    "name": "вул. Новомясницька",
+    "arStreetID": null
+  },
+  {
+    "id": 1598,
+    "name": "дорога Окружна",
+    "arStreetID": null
+  },
+  {
+    "id": 1034,
+    "name": "пр. Олександрівський (Косіора)",
+    "arStreetID": null
+  },
+  {
+    "id": 50,
+    "name": "пл. Олександра Невського",
+    "arStreetID": null
+  },
+  {
+    "id": 1621,
+    "name": "вул. Орєшкова Сергія",
+    "arStreetID": null
+  },
+  {
+    "id": 2433,
+    "name": "пров. Оскільський (Фабрика-Кухня вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1638,
+    "name": "наб. Основянська",
+    "arStreetID": null
+  },
+  {
+    "id": 1639,
+    "name": "вул. Основянська",
+    "arStreetID": null
+  },
+  {
+    "id": 1640,
+    "name": "в-д Основянський",
+    "arStreetID": null
+  },
+  {
+    "id": 1641,
+    "name": "пров. Основянський",
+    "arStreetID": null
+  },
+  {
+    "id": 1655,
+    "name": "вул. Отто Шмідта",
+    "arStreetID": null
+  },
+  {
+    "id": 1654,
+    "name": "пров. Отто Шмидта",
+    "arStreetID": null
+  },
+  {
+    "id": 1952,
+    "name": "пл. Павлівська (Рози Люксембурґ)",
+    "arStreetID": null
+  },
+  {
+    "id": 1668,
+    "name": "пр-д Панасівський (у т. ч. Панасівський 2-й пр-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2801,
+    "name": "пров. Партизанський (Бакуліна вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1764,
+    "name": "пос. Перемога 1-е",
+    "arStreetID": null
+  },
+  {
+    "id": 1770,
+    "name": "пр. Перемоги",
+    "arStreetID": null
+  },
+  {
+    "id": 1685,
+    "name": "пл. Першого Травня",
+    "arStreetID": null
+  },
+  {
+    "id": 1333,
+    "name": "пр. Петра Григоренка (Маршала Жукова)",
+    "arStreetID": null
+  },
+  {
+    "id": 1762,
+    "name": "пров. Плідний 1-й (у т.ч. Джерельна вул. (Фрунз.))",
+    "arStreetID": null
+  },
+  {
+    "id": 1757,
+    "name": "пос. Плиткове",
+    "arStreetID": null
+  },
+  {
+    "id": 1759,
+    "name": "б-рдорога Плитковий",
+    "arStreetID": null
+  },
+  {
+    "id": 435,
+    "name": "пров. Подільський (Гамарника вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1824,
+    "name": "пл. Поезії",
+    "arStreetID": null
+  },
+  {
+    "id": 1804,
+    "name": "пос. Поля Фільтрації",
+    "arStreetID": null
+  },
+  {
+    "id": 1805,
+    "name": "вул. Поля Фільтрації",
+    "arStreetID": null
+  },
+  {
+    "id": 1807,
+    "name": "пос. Помірки",
+    "arStreetID": null
+  },
+  {
+    "id": 1808,
+    "name": "пос. Помірки-Бакпрепарати",
+    "arStreetID": null
+  },
+  {
+    "id": 2835,
+    "name": "вул. пос.Затишье (все ул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1834,
+    "name": "пл. Привокзальний",
+    "arStreetID": null
+  },
+  {
+    "id": 1850,
+    "name": "вул. Прирічна (Поздовжня Фрунз.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2825,
+    "name": "пр-д промзона))",
+    "arStreetID": null
+  },
+  {
+    "id": 2863,
+    "name": "в-д ПУТИВЛЬСКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2060,
+    "name": "пров. Пушкарівський (Селявкіна вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 2864,
+    "name": "пров. ПУШКАРЕВСКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 1892,
+    "name": "пос. Пятий цегельний завод",
+    "arStreetID": null
+  },
+  {
+    "id": 1890,
+    "name": "вул. Пятисотницька",
+    "arStreetID": null
+  },
+  {
+    "id": 1891,
+    "name": "вул. Пятихатська",
+    "arStreetID": null
+  },
+  {
+    "id": 2702,
+    "name": "наб. р. Лопань",
+    "arStreetID": null
+  },
+  {
+    "id": 2703,
+    "name": "наб. р. Харьков",
+    "arStreetID": null
+  },
+  {
+    "id": 1895,
+    "name": "пос. Радіостанція №2",
+    "arStreetID": null
+  },
+  {
+    "id": 1918,
+    "name": "сп. Революції 1905 року",
+    "arStreetID": null
+  },
+  {
+    "id": 1985,
+    "name": "вул. Рибалка Маршала",
+    "arStreetID": null
+  },
+  {
+    "id": 1989,
+    "name": "пл. Рибний",
+    "arStreetID": null
+  },
+  {
+    "id": 1991,
+    "name": "пров. Риківський",
+    "arStreetID": null
+  },
+  {
+    "id": 1940,
+    "name": "вул. Робеспєра",
+    "arStreetID": null
+  },
+  {
+    "id": 1939,
+    "name": "пров. Робеспєра",
+    "arStreetID": null
+  },
+  {
+    "id": 2865,
+    "name": "пров. РОБЕСПЬЕРА 1Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2866,
+    "name": "пров. РОБЕСПЬЕРА 2Й",
+    "arStreetID": null
+  },
+  {
+    "id": 1945,
+    "name": "б-рдорога Роганський",
+    "arStreetID": null
+  },
+  {
+    "id": 1946,
+    "name": "б-рв-д Рогань",
+    "arStreetID": null
+  },
+  {
+    "id": 2875,
+    "name": "пос. Родичи",
+    "arStreetID": null
+  },
+  {
+    "id": 2670,
+    "name": "пров. Розїзний (Юного Ленінця вул.)",
+    "arStreetID": null
+  },
+  {
+    "id": 1970,
+    "name": "пров. Руденка Федора",
+    "arStreetID": null
+  },
+  {
+    "id": 1971,
+    "name": "вул. Руденка Федора",
+    "arStreetID": null
+  },
+  {
+    "id": 1972,
+    "name": "вул. Рудика Григорія",
+    "arStreetID": null
+  },
+  {
+    "id": 2884,
+    "name": "вул. Румянцівська (Орджонікідзе (Ордж.))",
+    "arStreetID": null
+  },
+  {
+    "id": 2885,
+    "name": "вул. Румянцевская",
+    "arStreetID": null
+  },
+  {
+    "id": 2867,
+    "name": "в-д РЫКОВСКИЙ",
+    "arStreetID": null
+  },
+  {
+    "id": 2050,
+    "name": "вул. Сіверсько-Донецька",
+    "arStreetID": null
+  },
+  {
+    "id": 1202,
+    "name": "вул. Січових Стрільців (Латиських Стрільців (Латиських Червоних Стрільців)",
+    "arStreetID": null
+  },
+  {
+    "id": 2868,
+    "name": "пр-д САМАРКАНДСКИЙ 1-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2869,
+    "name": "пр-д САМАРКАНДСКИЙ 2-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2040,
+    "name": "вул. Свинаренка",
+    "arStreetID": null
+  },
+  {
+    "id": 2873,
+    "name": "вул. СВИРСКОГО",
+    "arStreetID": null
+  },
+  {
+    "id": 2046,
+    "name": "пл. Свободи",
+    "arStreetID": null
+  },
+  {
+    "id": 2073,
+    "name": "вул. Северина Потоцького (Сімнадцятого Партзїзду)",
+    "arStreetID": null
+  },
+  {
+    "id": 2072,
+    "name": "пров. Северина Потоцького (Сімнадцятого Партзїзду)",
+    "arStreetID": null
+  },
+  {
+    "id": 1854,
+    "name": "пл. Сергіївський (Пролетарський)",
+    "arStreetID": null
+  },
+  {
+    "id": 2836,
+    "name": "пров. Серебряковський",
+    "arStreetID": null
+  },
+  {
+    "id": 2104,
+    "name": "пров. Симонівський",
+    "arStreetID": null
+  },
+  {
+    "id": 2121,
+    "name": "пос. Скурідіна Дача",
+    "arStreetID": null
+  },
+  {
+    "id": 2122,
+    "name": "пр. Слави",
+    "arStreetID": null
+  },
+  {
+    "id": 2123,
+    "name": "вул. Словянська",
+    "arStreetID": null
+  },
+  {
+    "id": 2141,
+    "name": "вул. Собінова Леоніда",
+    "arStreetID": null
+  },
+  {
+    "id": 2154,
+    "name": "пос. Сокільники",
+    "arStreetID": null
+  },
+  {
+    "id": 2151,
+    "name": "вул. Соколовська (Соколова (Лен.))",
+    "arStreetID": null
+  },
+  {
+    "id": 2153,
+    "name": "дорога Сокольники",
+    "arStreetID": null
+  },
+  {
+    "id": 2164,
+    "name": "вул. Солідарності",
+    "arStreetID": null
+  },
+  {
+    "id": 2179,
+    "name": "вул. Сохора Антоніна",
+    "arStreetID": null
+  },
+  {
+    "id": 2187,
+    "name": "пров. Спартаківський (Спартаківський)",
+    "arStreetID": null
+  },
+  {
+    "id": 2186,
+    "name": "вул. Спартака (Спартака)",
+    "arStreetID": null
+  },
+  {
+    "id": 2204,
+    "name": "вул. Станційна (у т.ч. ст. Нова Баварія та ст. Минутка)",
+    "arStreetID": null
+  },
+  {
+    "id": 1787,
+    "name": "вул. Стара Озерянка (Познанська (КиЇв.))",
+    "arStreetID": null
+  },
+  {
+    "id": 712,
+    "name": "пров. Старо-Іскринський (Жовтневий (Моск.))",
+    "arStreetID": null
+  },
+  {
+    "id": 2870,
+    "name": "в-д СТАРО-КРЫМСКИЙ 1-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2871,
+    "name": "в-д СТАРО-КРЫМСКИЙ 2-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2221,
+    "name": "вул. Старомалоосновянська",
+    "arStreetID": null
+  },
+  {
+    "id": 2222,
+    "name": "вул. Старомосковська",
+    "arStreetID": null
+  },
+  {
+    "id": 2223,
+    "name": "вул. Старомясницька",
+    "arStreetID": null
+  },
+  {
+    "id": 1645,
+    "name": "пров. Стельмаха (Островського в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2231,
+    "name": "вул. Степана Разіна",
+    "arStreetID": null
+  },
+  {
+    "id": 2872,
+    "name": "пров. СТЕПНОЙ 2-Й",
+    "arStreetID": null
+  },
+  {
+    "id": 2253,
+    "name": "пров. Суворова",
+    "arStreetID": null
+  },
+  {
+    "id": 2259,
+    "name": "пров. Сусаніна",
+    "arStreetID": null
+  },
+  {
+    "id": 2260,
+    "name": "вул. Сусаніна",
+    "arStreetID": null
+  },
+  {
+    "id": 2283,
+    "name": "вул. Танєєва",
+    "arStreetID": null
+  },
+  {
+    "id": 2294,
+    "name": "вул. Тархова Сергія",
+    "arStreetID": null
+  },
+  {
+    "id": 2301,
+    "name": "пл. Театральний",
+    "arStreetID": null
+  },
+  {
+    "id": 2303,
+    "name": "сп. Театральний",
+    "arStreetID": null
+  },
+  {
+    "id": 2358,
+    "name": "пр. Тракторобудівників",
+    "arStreetID": null
+  },
+  {
+    "id": 2360,
+    "name": "пос. Транспортна Колона",
+    "arStreetID": null
+  },
+  {
+    "id": 2383,
+    "name": "вул. Тунгуська",
+    "arStreetID": null
+  },
+  {
+    "id": 1857,
+    "name": "сп. Тюрінський (Пролетарський)",
+    "arStreetID": null
+  },
+  {
+    "id": 2422,
+    "name": "пос. Урочище Помірки",
+    "arStreetID": null
+  },
+  {
+    "id": 2438,
+    "name": "вул. Федоренка Маршала",
+    "arStreetID": null
+  },
+  {
+    "id": 2441,
+    "name": "пл. Фейербаха",
+    "arStreetID": null
+  },
+  {
+    "id": 2876,
+    "name": "пос. Флоринка",
+    "arStreetID": null
+  },
+  {
+    "id": 2459,
+    "name": "в-д Франка Івана",
+    "arStreetID": null
+  },
+  {
+    "id": 2468,
+    "name": "пос. Фрунзе",
+    "arStreetID": null
+  },
+  {
+    "id": 2479,
+    "name": "сп. Халтуріна",
+    "arStreetID": null
+  },
+  {
+    "id": 2844,
+    "name": "вул. Хотомлянская",
+    "arStreetID": null
+  },
+  {
+    "id": 2522,
+    "name": "вул. Чайковського",
+    "arStreetID": null
+  },
+  {
+    "id": 2088,
+    "name": "пр-д частный сектор))",
+    "arStreetID": null
+  },
+  {
+    "id": 2575,
+    "name": "в-д Чкалова",
+    "arStreetID": null
+  },
+  {
+    "id": 2530,
+    "name": "пров. Чоботарський 1-й",
+    "arStreetID": null
+  },
+  {
+    "id": 2531,
+    "name": "пров. Чоботарський 2-й",
+    "arStreetID": null
+  },
+  {
+    "id": 2804,
+    "name": "вул. Чуніхінська (Донецька (Фр.))",
+    "arStreetID": null
+  },
+  {
+    "id": 2593,
+    "name": "вул. Шатілова Дача",
+    "arStreetID": null
+  },
+  {
+    "id": 224,
+    "name": "пров. Шляхетний",
+    "arStreetID": null
+  },
+  {
+    "id": 2633,
+    "name": "пл. Шуберта",
+    "arStreetID": null
+  },
+  {
+    "id": 2640,
+    "name": "пос. Щедрінський Квартал",
+    "arStreetID": null
+  },
+  {
+    "id": 2230,
+    "name": "вул. Щоголівська (Стаханова)",
+    "arStreetID": null
+  },
+  {
+    "id": 1888,
+    "name": "пр. Ювілейний (Пятдесятиріччя ВЛКСМ)",
+    "arStreetID": null
+  },
+  {
+    "id": 2675,
+    "name": "б-р Юрєва",
+    "arStreetID": null
+  },
+  {
+    "id": 2676,
+    "name": "вул. Юрївська",
+    "arStreetID": null
+  },
+  {
+    "id": 2677,
+    "name": "пров. Юрївський",
+    "arStreetID": null
+  },
+  {
+    "id": 1160,
+    "name": "пров. Юрія Кондратюка (Кулика Івана в-д)",
+    "arStreetID": null
+  },
+  {
+    "id": 2355,
+    "name": "вул. Юрія Лавріненка (Тореза Моріса)",
+    "arStreetID": null
+  },
+  {
+    "id": 2883,
+    "name": "0 Кирпичова (Фрунзе буд. 21 22) вул.",
+    "arStreetID": null
+  },
+  {
+    "id": 939,
+    "name": "пров. Клеверний (в.т.ч. Перемоги 2 сел., буд. 1А, 1, 12-18)",
+    "arStreetID": null
+  },
+  {
+    "id": 962,
+    "name": "пров. Коксовий (у т.ч. Перемога 1 сел. (все), Перемога 2 сел., буд.1В)",
+    "arStreetID": null
+  },
+  {
+    "id": 2834,
+    "name": "вул. Юбілейна",
+    "arStreetID": null
+  },
+  {
+    "id": 1765,
+    "name": "пров. Ячмінний (Перемога 2-е сел., буд.7,9-11)",
+    "arStreetID": null
+  }
+]
