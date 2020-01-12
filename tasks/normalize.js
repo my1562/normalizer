@@ -53,11 +53,15 @@ const RE_MEANINGLESS = new RegExp(`[^${CYR_RANGE}a-z0-9\\s]+`, 'gi');
 
 */
 
-const normalizeString = string =>
-    string
+const normalizeString = string => {
+    const tokens = string
         .replace(RE_MEANINGLESS, ' ')
         .replace(/\s+/g, ' ')
-        .toLowerCase();
+        .toLowerCase()
+        .split(' ');
+    tokens.sort();
+    return tokens.join(' ');
+};
 
 const replaceShortType = shortType => {
     const replacement = {
@@ -104,7 +108,7 @@ const strictEqualityMatch = (streetsAR, streets1562) => {
     const name1562IndexAR = _(streetsAR.items)
         .keyBy(streetAR => normalizeString(streetAR.nameLike1562))
         .value();
-
+    debugger;
     const pairs = streets1562.items.map(street1562 => ({
         street1562,
         streetAR: name1562IndexAR[normalizeString(street1562.name)]

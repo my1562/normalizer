@@ -30,11 +30,6 @@
     "arStreetID": null
   },
   {
-    "id": 2921,
-    "name": "вул. Івана Сусаніна",
-    "arStreetID": null
-  },
-  {
     "id": 817,
     "name": "б-рв-д Індустріальна",
     "arStreetID": null
@@ -162,11 +157,6 @@
   {
     "id": 1951,
     "name": "пров. Ванди Беневської (Джерельний)",
-    "arStreetID": null
-  },
-  {
-    "id": 2919,
-    "name": "вул. Василя Клочкова",
     "arStreetID": null
   },
   {
@@ -605,11 +595,6 @@
     "arStreetID": null
   },
   {
-    "id": 1212,
-    "name": "вул. Лейтенанта Шмідта",
-    "arStreetID": null
-  },
-  {
     "id": 2874,
     "name": "пос. Лесной",
     "arStreetID": null
@@ -837,11 +822,6 @@
   {
     "id": 1641,
     "name": "пров. Основянський",
-    "arStreetID": null
-  },
-  {
-    "id": 1655,
-    "name": "вул. Отто Шмідта",
     "arStreetID": null
   },
   {
