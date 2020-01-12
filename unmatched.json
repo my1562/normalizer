@@ -1,10 +1,5 @@
 [
   {
-    "id": 1976,
-    "name": "пл. Героїв Небесної Сотні (Руднєва)",
-    "arStreetID": null
-  },
-  {
     "id": 1999,
     "name": "вул. Ново-Садова (Фрунз.) (Садова)",
     "arStreetID": null
@@ -42,11 +37,6 @@
   {
     "id": 817,
     "name": "б-рв-д Індустріальна",
-    "arStreetID": null
-  },
-  {
-    "id": 819,
-    "name": "пл. Інженерний",
     "arStreetID": null
   },
   {
@@ -100,11 +90,6 @@
     "arStreetID": null
   },
   {
-    "id": 134,
-    "name": "пл. Базарний",
-    "arStreetID": null
-  },
-  {
     "id": 1501,
     "name": "пр-д Балашовський (Нехаєнка Г.П. вул.)",
     "arStreetID": null
@@ -132,11 +117,6 @@
   {
     "id": 279,
     "name": "пр-д Бугрименка 2-й",
-    "arStreetID": null
-  },
-  {
-    "id": 283,
-    "name": "пл. Бугримової",
     "arStreetID": null
   },
   {
@@ -247,11 +227,6 @@
   {
     "id": 450,
     "name": "вул. Генерала Шумілова",
-    "arStreetID": null
-  },
-  {
-    "id": 2142,
-    "name": "пл. Георгіївський (Радянський)",
     "arStreetID": null
   },
   {
@@ -440,11 +415,6 @@
     "arStreetID": null
   },
   {
-    "id": 2895,
-    "name": "пл. Заїки",
-    "arStreetID": null
-  },
-  {
     "id": 736,
     "name": "б-рв-д Залютино",
     "arStreetID": null
@@ -457,11 +427,6 @@
   {
     "id": 2843,
     "name": "пос. Затишье",
-    "arStreetID": null
-  },
-  {
-    "id": 404,
-    "name": "пл. Захисників України (Повстання)",
     "arStreetID": null
   },
   {
@@ -510,11 +475,6 @@
     "arStreetID": null
   },
   {
-    "id": 875,
-    "name": "пл. Карла Маркса",
-    "arStreetID": null
-  },
-  {
     "id": 887,
     "name": "сп. Карпівський",
     "arStreetID": null
@@ -557,11 +517,6 @@
   {
     "id": 2842,
     "name": "пос. Коммунист",
-    "arStreetID": null
-  },
-  {
-    "id": 1011,
-    "name": "пл. Конституції",
     "arStreetID": null
   },
   {
@@ -775,11 +730,6 @@
     "arStreetID": null
   },
   {
-    "id": 1375,
-    "name": "пл. Національної Гвардії (Міліціонера)",
-    "arStreetID": null
-  },
-  {
     "id": 2806,
     "name": "вул. нет домов)",
     "arStreetID": null
@@ -860,11 +810,6 @@
     "arStreetID": null
   },
   {
-    "id": 50,
-    "name": "пл. Олександра Невського",
-    "arStreetID": null
-  },
-  {
     "id": 1621,
     "name": "вул. Орєшкова Сергія",
     "arStreetID": null
@@ -925,11 +870,6 @@
     "arStreetID": null
   },
   {
-    "id": 1685,
-    "name": "пл. Першого Травня",
-    "arStreetID": null
-  },
-  {
     "id": 1762,
     "name": "пров. Плідний 1-й (у т.ч. Джерельна вул. (Фрунз.))",
     "arStreetID": null
@@ -947,11 +887,6 @@
   {
     "id": 435,
     "name": "пров. Подільський (Гамарника вул.)",
-    "arStreetID": null
-  },
-  {
-    "id": 1824,
-    "name": "пл. Поезії",
     "arStreetID": null
   },
   {
@@ -977,11 +912,6 @@
   {
     "id": 2835,
     "name": "вул. пос.Затишье (все ул.)",
-    "arStreetID": null
-  },
-  {
-    "id": 1834,
-    "name": "пл. Привокзальний",
     "arStreetID": null
   },
   {
@@ -1047,11 +977,6 @@
   {
     "id": 1985,
     "name": "вул. Рибалка Маршала",
-    "arStreetID": null
-  },
-  {
-    "id": 1989,
-    "name": "пл. Рибний",
     "arStreetID": null
   },
   {
@@ -1160,11 +1085,6 @@
     "arStreetID": null
   },
   {
-    "id": 2046,
-    "name": "пл. Свободи",
-    "arStreetID": null
-  },
-  {
     "id": 2073,
     "name": "вул. Северина Потоцького (Сімнадцятого Партзїзду)",
     "arStreetID": null
@@ -1172,11 +1092,6 @@
   {
     "id": 2072,
     "name": "пров. Северина Потоцького (Сімнадцятого Партзїзду)",
-    "arStreetID": null
-  },
-  {
-    "id": 1854,
-    "name": "пл. Сергіївський (Пролетарський)",
     "arStreetID": null
   },
   {
@@ -1320,11 +1235,6 @@
     "arStreetID": null
   },
   {
-    "id": 2301,
-    "name": "пл. Театральний",
-    "arStreetID": null
-  },
-  {
     "id": 2303,
     "name": "сп. Театральний",
     "arStreetID": null
@@ -1352,11 +1262,6 @@
   {
     "id": 2438,
     "name": "вул. Федоренка Маршала",
-    "arStreetID": null
-  },
-  {
-    "id": 2441,
-    "name": "пл. Фейербаха",
     "arStreetID": null
   },
   {
@@ -1422,11 +1327,6 @@
   {
     "id": 224,
     "name": "пров. Шляхетний",
-    "arStreetID": null
-  },
-  {
-    "id": 2633,
-    "name": "пл. Шуберта",
     "arStreetID": null
   },
   {

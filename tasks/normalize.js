@@ -61,7 +61,8 @@ const normalizeString = string =>
 
 const replaceShortType = shortType => {
     const replacement = {
-        'просп.': 'пр.'
+        'просп.': 'пр.',
+        'м-н': 'пл.'
     }[shortType];
     return replacement || shortType;
 };
