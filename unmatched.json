@@ -45,11 +45,6 @@
     "arStreetID": null
   },
   {
-    "id": 2469,
-    "name": "пр. Індустріальний (Фрунзе)",
-    "arStreetID": null
-  },
-  {
     "id": 819,
     "name": "пл. Інженерний",
     "arStreetID": null
@@ -62,11 +57,6 @@
   {
     "id": 1179,
     "name": "вул. Аверина (Куусінська)",
-    "arStreetID": null
-  },
-  {
-    "id": 40,
-    "name": "пр. Академіка Курчатова",
     "arStreetID": null
   },
   {
@@ -250,11 +240,6 @@
     "arStreetID": null
   },
   {
-    "id": 429,
-    "name": "пр. Гагаріна",
-    "arStreetID": null
-  },
-  {
     "id": 439,
     "name": "вул. Гаркуші",
     "arStreetID": null
@@ -267,11 +252,6 @@
   {
     "id": 2142,
     "name": "пл. Георгіївський (Радянський)",
-    "arStreetID": null
-  },
-  {
-    "id": 459,
-    "name": "пр. Героїв Сталінграда",
     "arStreetID": null
   },
   {
@@ -380,11 +360,6 @@
     "arStreetID": null
   },
   {
-    "id": 595,
-    "name": "пр. Дзюби",
-    "arStreetID": null
-  },
-  {
     "id": 2841,
     "name": "пос. Докучаево",
     "arStreetID": null
@@ -447,11 +422,6 @@
   {
     "id": 694,
     "name": "пр-д Жихорський (Желєзнякова)",
-    "arStreetID": null
-  },
-  {
-    "id": 713,
-    "name": "пр. Жуковського",
     "arStreetID": null
   },
   {
@@ -720,16 +690,6 @@
     "arStreetID": null
   },
   {
-    "id": 1820,
-    "name": "пр. Любові Малої (Постишева)",
-    "arStreetID": null
-  },
-  {
-    "id": 1286,
-    "name": "пр. Людвіга Свободи",
-    "arStreetID": null
-  },
-  {
     "id": 2016,
     "name": "пров. Людмили Гурченко (Саммерівський)",
     "arStreetID": null
@@ -780,11 +740,6 @@
     "arStreetID": null
   },
   {
-    "id": 1345,
-    "name": "пр. Машинобудівників",
-    "arStreetID": null
-  },
-  {
     "id": 1358,
     "name": "шосе Мерефянське",
     "arStreetID": null
@@ -810,11 +765,6 @@
     "arStreetID": null
   },
   {
-    "id": 1427,
-    "name": "пр. Московський",
-    "arStreetID": null
-  },
-  {
     "id": 1444,
     "name": "пров. Мясний",
     "arStreetID": null
@@ -825,18 +775,8 @@
     "arStreetID": null
   },
   {
-    "id": 1215,
-    "name": "пр. Науки (Леніна)",
-    "arStreetID": null
-  },
-  {
     "id": 1375,
     "name": "пл. Національної Гвардії (Міліціонера)",
-    "arStreetID": null
-  },
-  {
-    "id": 1827,
-    "name": "пр. Незалежності (Правди)",
     "arStreetID": null
   },
   {
@@ -905,11 +845,6 @@
     "arStreetID": null
   },
   {
-    "id": 814,
-    "name": "пр. Ново-Баварський (Ілліча)",
-    "arStreetID": null
-  },
-  {
     "id": 1536,
     "name": "б-рв-д Новожанове",
     "arStreetID": null
@@ -922,11 +857,6 @@
   {
     "id": 1598,
     "name": "дорога Окружна",
-    "arStreetID": null
-  },
-  {
-    "id": 1034,
-    "name": "пр. Олександрівський (Косіора)",
     "arStreetID": null
   },
   {
@@ -995,18 +925,8 @@
     "arStreetID": null
   },
   {
-    "id": 1770,
-    "name": "пр. Перемоги",
-    "arStreetID": null
-  },
-  {
     "id": 1685,
     "name": "пл. Першого Травня",
-    "arStreetID": null
-  },
-  {
-    "id": 1333,
-    "name": "пр. Петра Григоренка (Маршала Жукова)",
     "arStreetID": null
   },
   {
@@ -1275,11 +1195,6 @@
     "arStreetID": null
   },
   {
-    "id": 2122,
-    "name": "пр. Слави",
-    "arStreetID": null
-  },
-  {
     "id": 2123,
     "name": "вул. Словянська",
     "arStreetID": null
@@ -1412,11 +1327,6 @@
   {
     "id": 2303,
     "name": "сп. Театральний",
-    "arStreetID": null
-  },
-  {
-    "id": 2358,
-    "name": "пр. Тракторобудівників",
     "arStreetID": null
   },
   {

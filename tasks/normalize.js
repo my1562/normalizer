@@ -59,10 +59,18 @@ const normalizeString = string =>
         .replace(/\s+/g, ' ')
         .toLowerCase();
 
+const replaceShortType = shortType => {
+    const replacement = {
+        'просп.': 'пр.'
+    }[shortType];
+    return replacement || shortType;
+};
+
 const add1562LikeNameToARStreet = arStreet => {
     expect(arStreet.shortTypeUKR).to.be.a('string');
     expect(arStreet.name_ukr).to.be.a('string');
-    const nameLike1562 = `${arStreet.shortTypeUKR} ${arStreet.name_ukr}`;
+    const shortType = replaceShortType(arStreet.shortTypeUKR);
+    const nameLike1562 = `${shortType} ${arStreet.name_ukr}`;
     arStreet.nameLike1562 = nameLike1562;
 };
 
