@@ -50,11 +50,6 @@
     "arStreetID": null
   },
   {
-    "id": 67,
-    "name": "пров. Алябєва",
-    "arStreetID": null
-  },
-  {
     "id": 1618,
     "name": "пр. Архітектора Альошина (Орджонікідзе Серго)",
     "arStreetID": null
@@ -67,11 +62,6 @@
   {
     "id": 113,
     "name": "пров. Астрономічний",
-    "arStreetID": null
-  },
-  {
-    "id": 408,
-    "name": "вул. Біблика (Другої Пятирічки)",
     "arStreetID": null
   },
   {
@@ -145,16 +135,6 @@
     "arStreetID": null
   },
   {
-    "id": 304,
-    "name": "вул. Валерянівська",
-    "arStreetID": null
-  },
-  {
-    "id": 305,
-    "name": "пров. Валерянівський",
-    "arStreetID": null
-  },
-  {
     "id": 1951,
     "name": "пров. Ванди Беневської (Джерельний)",
     "arStreetID": null
@@ -197,11 +177,6 @@
   {
     "id": 2816,
     "name": "пров. Волосний (Ногіна (Жовтн.))",
-    "arStreetID": null
-  },
-  {
-    "id": 1205,
-    "name": "вул. Вячеслава Чорновола (Лебедєва Павла)",
     "arStreetID": null
   },
   {
@@ -260,21 +235,6 @@
     "arStreetID": null
   },
   {
-    "id": 531,
-    "name": "вул. Гурєвська",
-    "arStreetID": null
-  },
-  {
-    "id": 532,
-    "name": "пров. Гурєвський",
-    "arStreetID": null
-  },
-  {
-    "id": 533,
-    "name": "пр-д Гурєвський",
-    "arStreetID": null
-  },
-  {
     "id": 2470,
     "name": "вул. д. 1-17",
     "arStreetID": null
@@ -295,16 +255,6 @@
     "arStreetID": null
   },
   {
-    "id": 550,
-    "name": "вул. Даряльська",
-    "arStreetID": null
-  },
-  {
-    "id": 551,
-    "name": "пров. Даряльський",
-    "arStreetID": null
-  },
-  {
     "id": 554,
     "name": "пос. Дачі № 7",
     "arStreetID": null
@@ -312,16 +262,6 @@
   {
     "id": 553,
     "name": "пос. Дача № 55",
-    "arStreetID": null
-  },
-  {
-    "id": 573,
-    "name": "вул. Демяна Бєдного",
-    "arStreetID": null
-  },
-  {
-    "id": 586,
-    "name": "вул. Деревянка",
     "arStreetID": null
   },
   {
@@ -400,11 +340,6 @@
     "arStreetID": null
   },
   {
-    "id": 2149,
-    "name": "вул. Зєднана",
-    "arStreetID": null
-  },
-  {
     "id": 736,
     "name": "б-рв-д Залютино",
     "arStreetID": null
@@ -420,43 +355,8 @@
     "arStreetID": null
   },
   {
-    "id": 2047,
-    "name": "вул. Звязку",
-    "arStreetID": null
-  },
-  {
-    "id": 755,
-    "name": "наб. Здоровя",
-    "arStreetID": null
-  },
-  {
-    "id": 756,
-    "name": "пров. Здоровя",
-    "arStreetID": null
-  },
-  {
-    "id": 783,
-    "name": "вул. Знамянська",
-    "arStreetID": null
-  },
-  {
     "id": 844,
     "name": "пос. Кабанова Дача",
-    "arStreetID": null
-  },
-  {
-    "id": 857,
-    "name": "вул. Камянець-Подільська",
-    "arStreetID": null
-  },
-  {
-    "id": 856,
-    "name": "пл. Камянець-Подільський",
-    "arStreetID": null
-  },
-  {
-    "id": 858,
-    "name": "пров. Камянець-Подільський",
     "arStreetID": null
   },
   {
@@ -470,8 +370,13 @@
     "arStreetID": null
   },
   {
-    "id": 901,
-    "name": "вул. Квітки-Основяненка",
+    "id": 888,
+    "name": "вул. Кар’єрна",
+    "arStreetID": null
+  },
+  {
+    "id": 889,
+    "name": "пров. Кар’єрний",
     "arStreetID": null
   },
   {
@@ -570,11 +475,6 @@
     "arStreetID": null
   },
   {
-    "id": 1165,
-    "name": "вул. Купянська",
-    "arStreetID": null
-  },
-  {
     "id": 2857,
     "name": "пров. КУРГАНСКИЙ",
     "arStreetID": null
@@ -615,18 +515,8 @@
     "arStreetID": null
   },
   {
-    "id": 1271,
-    "name": "вул. Лукянівська",
-    "arStreetID": null
-  },
-  {
     "id": 2860,
     "name": "сп. ЛЫСОГОРСКИЙ 1-Й",
-    "arStreetID": null
-  },
-  {
-    "id": 1889,
-    "name": "пр. Льва Ландау (Пятдесятиріччя СРСР)",
     "arStreetID": null
   },
   {
@@ -650,38 +540,8 @@
     "arStreetID": null
   },
   {
-    "id": 1316,
-    "name": "вул. Маломясницька",
-    "arStreetID": null
-  },
-  {
-    "id": 1053,
-    "name": "вул. Марївська (Котовського)",
-    "arStreetID": null
-  },
-  {
-    "id": 1051,
-    "name": "в-д Марївський (Котовського)",
-    "arStreetID": null
-  },
-  {
-    "id": 1334,
-    "name": "вул. Марїнська",
-    "arStreetID": null
-  },
-  {
-    "id": 1335,
-    "name": "пров. Маряненка",
-    "arStreetID": null
-  },
-  {
     "id": 1339,
     "name": "вул. Матросова Олександра",
-    "arStreetID": null
-  },
-  {
-    "id": 1358,
-    "name": "шосе Мерефянське",
     "arStreetID": null
   },
   {
@@ -702,11 +562,6 @@
   {
     "id": 2523,
     "name": "пров. Мороховецький (Чапаєва в-д)",
-    "arStreetID": null
-  },
-  {
-    "id": 1444,
-    "name": "пров. Мясний",
     "arStreetID": null
   },
   {
@@ -785,11 +640,6 @@
     "arStreetID": null
   },
   {
-    "id": 1547,
-    "name": "вул. Новомясницька",
-    "arStreetID": null
-  },
-  {
     "id": 1598,
     "name": "дорога Окружна",
     "arStreetID": null
@@ -802,26 +652,6 @@
   {
     "id": 2433,
     "name": "пров. Оскільський (Фабрика-Кухня вул.)",
-    "arStreetID": null
-  },
-  {
-    "id": 1638,
-    "name": "наб. Основянська",
-    "arStreetID": null
-  },
-  {
-    "id": 1639,
-    "name": "вул. Основянська",
-    "arStreetID": null
-  },
-  {
-    "id": 1640,
-    "name": "в-д Основянський",
-    "arStreetID": null
-  },
-  {
-    "id": 1641,
-    "name": "пров. Основянський",
     "arStreetID": null
   },
   {
@@ -925,16 +755,6 @@
     "arStreetID": null
   },
   {
-    "id": 1890,
-    "name": "вул. Пятисотницька",
-    "arStreetID": null
-  },
-  {
-    "id": 1891,
-    "name": "вул. Пятихатська",
-    "arStreetID": null
-  },
-  {
     "id": 2702,
     "name": "наб. р. Лопань",
     "arStreetID": null
@@ -962,16 +782,6 @@
   {
     "id": 1991,
     "name": "пров. Риківський",
-    "arStreetID": null
-  },
-  {
-    "id": 1940,
-    "name": "вул. Робеспєра",
-    "arStreetID": null
-  },
-  {
-    "id": 1939,
-    "name": "пров. Робеспєра",
     "arStreetID": null
   },
   {
@@ -1065,16 +875,6 @@
     "arStreetID": null
   },
   {
-    "id": 2073,
-    "name": "вул. Северина Потоцького (Сімнадцятого Партзїзду)",
-    "arStreetID": null
-  },
-  {
-    "id": 2072,
-    "name": "пров. Северина Потоцького (Сімнадцятого Партзїзду)",
-    "arStreetID": null
-  },
-  {
     "id": 2836,
     "name": "пров. Серебряковський",
     "arStreetID": null
@@ -1087,11 +887,6 @@
   {
     "id": 2121,
     "name": "пос. Скурідіна Дача",
-    "arStreetID": null
-  },
-  {
-    "id": 2123,
-    "name": "вул. Словянська",
     "arStreetID": null
   },
   {
@@ -1160,18 +955,8 @@
     "arStreetID": null
   },
   {
-    "id": 2221,
-    "name": "вул. Старомалоосновянська",
-    "arStreetID": null
-  },
-  {
     "id": 2222,
     "name": "вул. Старомосковська",
-    "arStreetID": null
-  },
-  {
-    "id": 2223,
-    "name": "вул. Старомясницька",
     "arStreetID": null
   },
   {
@@ -1317,26 +1102,6 @@
   {
     "id": 2230,
     "name": "вул. Щоголівська (Стаханова)",
-    "arStreetID": null
-  },
-  {
-    "id": 1888,
-    "name": "пр. Ювілейний (Пятдесятиріччя ВЛКСМ)",
-    "arStreetID": null
-  },
-  {
-    "id": 2675,
-    "name": "б-р Юрєва",
-    "arStreetID": null
-  },
-  {
-    "id": 2676,
-    "name": "вул. Юрївська",
-    "arStreetID": null
-  },
-  {
-    "id": 2677,
-    "name": "пров. Юрївський",
     "arStreetID": null
   },
   {

@@ -7,6 +7,8 @@ const CYR_RANGE =
     'аАбБвВгГдДеЕёЁжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩъЪыЫьЬэЭюЮяЯґҐєЄїЇіІ';
 const RE_MEANINGLESS = new RegExp(`[^${CYR_RANGE}a-z0-9\\s]+`, 'gi');
 
+const RE_APOSTROPHE = /['"`ʼ]/g;
+
 /*
 
 "{
@@ -55,6 +57,7 @@ const RE_MEANINGLESS = new RegExp(`[^${CYR_RANGE}a-z0-9\\s]+`, 'gi');
 
 const normalizeString = string => {
     const tokens = string
+        .replace(RE_APOSTROPHE, '')
         .replace(RE_MEANINGLESS, ' ')
         .replace(/\s+/g, ' ')
         .toLowerCase()
