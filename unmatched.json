@@ -260,16 +260,6 @@
     "arStreetID": null
   },
   {
-    "id": 448,
-    "name": "вул. Гвардійців- Залізничників",
-    "arStreetID": null
-  },
-  {
-    "id": 449,
-    "name": "вул. Гвардійців- Широнінців",
-    "arStreetID": null
-  },
-  {
     "id": 450,
     "name": "вул. Генерала Шумілова",
     "arStreetID": null
@@ -560,16 +550,6 @@
     "arStreetID": null
   },
   {
-    "id": 888,
-    "name": "вул. Кар’єрна",
-    "arStreetID": null
-  },
-  {
-    "id": 889,
-    "name": "пров. Кар’єрний",
-    "arStreetID": null
-  },
-  {
     "id": 901,
     "name": "вул. Квітки-Основяненка",
     "arStreetID": null
@@ -597,11 +577,6 @@
   {
     "id": 1678,
     "name": "сп. Клочківський (Пассіонарії)",
-    "arStreetID": null
-  },
-  {
-    "id": 2929,
-    "name": "пров. Ков`язький",
     "arStreetID": null
   },
   {

@@ -2,6 +2,11 @@ const _ = require('lodash');
 const { expect } = require('chai');
 const client = require('../lib/client');
 const fs = require('fs').promises;
+
+const CYR_RANGE =
+    'аАбБвВгГдДеЕёЁжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩъЪыЫьЬэЭюЮяЯґҐєЄїЇіІ';
+const RE_MEANINGLESS = new RegExp(`[^${CYR_RANGE}a-z0-9\\s]+`, 'gi');
+
 /*
 
 "{
@@ -48,6 +53,12 @@ const fs = require('fs').promises;
 
 */
 
+const normalizeString = string =>
+    string
+        .replace(RE_MEANINGLESS, ' ')
+        .replace(/\s+/g, ' ')
+        .toLowerCase();
+
 const add1562LikeNameToARStreet = arStreet => {
     expect(arStreet.shortTypeUKR).to.be.a('string');
     expect(arStreet.name_ukr).to.be.a('string');
@@ -82,12 +93,12 @@ const addDecommunizedNameToARStreet = (arStreets, arStreet) => {
 
 const strictEqualityMatch = (streetsAR, streets1562) => {
     const name1562IndexAR = _(streetsAR.items)
-        .keyBy('nameLike1562')
+        .keyBy(streetAR => normalizeString(streetAR.nameLike1562))
         .value();
 
     const pairs = streets1562.items.map(street1562 => ({
         street1562,
-        streetAR: name1562IndexAR[street1562.name]
+        streetAR: name1562IndexAR[normalizeString(street1562.name)]
     }));
 
     const matched = pairs.filter(({ streetAR }) => streetAR);
@@ -101,12 +112,13 @@ const strictEqualityMatch = (streetsAR, streets1562) => {
 };
 const decommunizedMatch = (streetsAR, streets1562) => {
     const decommunizedNameIndexAR = _(streetsAR.items)
-        .keyBy('decommunizedName')
+        .filter('decommunizedName')
+        .keyBy(streetAR => normalizeString(streetAR.decommunizedName))
         .value();
 
     const pairs = streets1562.map(street1562 => ({
         street1562,
-        streetAR: decommunizedNameIndexAR[street1562.name]
+        streetAR: decommunizedNameIndexAR[normalizeString(street1562.name)]
     }));
 
     const matched = pairs.filter(({ streetAR }) => streetAR);
@@ -122,10 +134,20 @@ const decommunizedMatch = (streetsAR, streets1562) => {
 const main = async () => {
     console.time('client.get1562Streets');
     const streets1562 = await client.get1562Streets();
+    await fs.writeFile(
+        './streets1562.json',
+        JSON.stringify(streets1562, false, 2),
+        'utf8'
+    );
     console.timeEnd('client.get1562Streets');
 
     console.time('client.getARStreets');
     const streetsAR = await client.getARStreets();
+    await fs.writeFile(
+        './streetsAR.json',
+        JSON.stringify(streetsAR, false, 2),
+        'utf8'
+    );
     streetsAR.items.forEach(add1562LikeNameToARStreet);
     streetsAR.items.forEach(
         addDecommunizedNameToARStreet.bind(null, streetsAR)
