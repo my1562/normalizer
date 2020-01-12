@@ -45,11 +45,6 @@
     "arStreetID": null
   },
   {
-    "id": 65,
-    "name": "сп. Алуштинський",
-    "arStreetID": null
-  },
-  {
     "id": 1618,
     "name": "пр. Архітектора Альошина (Орджонікідзе Серго)",
     "arStreetID": null
@@ -62,11 +57,6 @@
   {
     "id": 113,
     "name": "пров. Астрономічний",
-    "arStreetID": null
-  },
-  {
-    "id": 185,
-    "name": "сп. Білгородський",
     "arStreetID": null
   },
   {
@@ -107,11 +97,6 @@
   {
     "id": 2242,
     "name": "б-рв-д Будівельна",
-    "arStreetID": null
-  },
-  {
-    "id": 294,
-    "name": "сп. Бурсацький",
     "arStreetID": null
   },
   {
@@ -250,11 +235,6 @@
     "arStreetID": null
   },
   {
-    "id": 545,
-    "name": "сп. Данилівський",
-    "arStreetID": null
-  },
-  {
     "id": 554,
     "name": "пос. Дачі № 7",
     "arStreetID": null
@@ -330,11 +310,6 @@
     "arStreetID": null
   },
   {
-    "id": 719,
-    "name": "сп. Журавлівський",
-    "arStreetID": null
-  },
-  {
     "id": 716,
     "name": "в-д Журавлівський 1-й",
     "arStreetID": null
@@ -365,11 +340,6 @@
     "arStreetID": null
   },
   {
-    "id": 887,
-    "name": "сп. Карпівський",
-    "arStreetID": null
-  },
-  {
     "id": 888,
     "name": "вул. Кар’єрна",
     "arStreetID": null
@@ -397,11 +367,6 @@
   {
     "id": 2882,
     "name": "вул. Кирпичова (Червонопрапорна буд. 16 17А 21)",
-    "arStreetID": null
-  },
-  {
-    "id": 1678,
-    "name": "сп. Клочківський (Пассіонарії)",
     "arStreetID": null
   },
   {
@@ -595,36 +560,6 @@
     "arStreetID": null
   },
   {
-    "id": 1507,
-    "name": "сп. Нижньогиївський 1-й",
-    "arStreetID": null
-  },
-  {
-    "id": 1509,
-    "name": "сп. Нижньогиївський 2-й",
-    "arStreetID": null
-  },
-  {
-    "id": 1510,
-    "name": "сп. Нижньогиївський 3-й",
-    "arStreetID": null
-  },
-  {
-    "id": 1511,
-    "name": "сп. Нижньогиївський 4-й",
-    "arStreetID": null
-  },
-  {
-    "id": 1512,
-    "name": "сп. Нижньогиївський 5-й",
-    "arStreetID": null
-  },
-  {
-    "id": 1513,
-    "name": "сп. Нижньогиївський 6-й",
-    "arStreetID": null
-  },
-  {
     "id": 2877,
     "name": "в-д Нова 2 (Тестова прграмiста) 222",
     "arStreetID": null
@@ -767,11 +702,6 @@
   {
     "id": 1895,
     "name": "пос. Радіостанція №2",
-    "arStreetID": null
-  },
-  {
-    "id": 1918,
-    "name": "сп. Революції 1905 року",
     "arStreetID": null
   },
   {
@@ -1000,11 +930,6 @@
     "arStreetID": null
   },
   {
-    "id": 2303,
-    "name": "сп. Театральний",
-    "arStreetID": null
-  },
-  {
     "id": 2360,
     "name": "пос. Транспортна Колона",
     "arStreetID": null
@@ -1012,11 +937,6 @@
   {
     "id": 2383,
     "name": "вул. Тунгуська",
-    "arStreetID": null
-  },
-  {
-    "id": 1857,
-    "name": "сп. Тюрінський (Пролетарський)",
     "arStreetID": null
   },
   {
@@ -1042,11 +962,6 @@
   {
     "id": 2468,
     "name": "пос. Фрунзе",
-    "arStreetID": null
-  },
-  {
-    "id": 2479,
-    "name": "сп. Халтуріна",
     "arStreetID": null
   },
   {
