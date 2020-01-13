@@ -100,12 +100,7 @@ const addDecommunizedNameToARStreet = (arStreets, arStreet) => {
             `Double decommunization: ${arStreet.name_ukr} -> ${newStreet.decommunizedName}`
         );
     }
-    // try {
-    //     expect(newStreet.decommunizedName).to.equal(undefined);
-    // } catch (e) {
-    //     debugger;
-    //     throw e;
-    // }
+
     newStreet.decommunizedName = `${newStreet.nameLike1562} (${arStreet.name_ukr})`;
 };
 
@@ -174,6 +169,38 @@ const manualMatch = (streetsAR, manualMatches, streets1562) => {
     };
 };
 
+const mergeMatches = match => {
+    const _1562ToAR = {};
+    const arTo1562 = {};
+
+    match.forEach(({ street1562, streetAR }) => {
+        _1562ToAR[street1562.id] = streetAR.id;
+        arTo1562[streetAR.id] = street1562.id;
+    });
+
+    return { '1562ToAR': _1562ToAR, arTo1562 };
+};
+
+const analyzeDuplications = matches => {
+    const groups = _(matches)
+        .groupBy('streetAR.id')
+        .filter(group => group.length > 1)
+        .value();
+
+    if (!groups.length) {
+        return;
+    }
+    console.log(`Duplications (${groups.length}):`);
+    groups.forEach((group, i) => {
+        console.log(`\n#${i + 1}`);
+        group.forEach(({ street1562, streetAR }) => {
+            console.log(
+                `${street1562.name}(ID:${street1562.id}) = ${streetAR.shortTypeUKR} ${streetAR.name_ukr}(ID:${streetAR.id})`
+            );
+        });
+    });
+};
+
 const main = async () => {
     const manualMatches = await getManualMatches();
 
@@ -228,6 +255,23 @@ const main = async () => {
         2
     );
     await fs.writeFile('./unmatched.json', unmatchedJson, 'utf8');
+
+    analyzeDuplications([
+        ...strictMatchResult.matched,
+        ...decommunizedMatchResult.matched,
+        ...manualMatchResults.matched
+    ]);
+
+    const result = mergeMatches([
+        ...strictMatchResult.matched,
+        ...decommunizedMatchResult.matched,
+        ...manualMatchResults.matched
+    ]);
+    await fs.writeFile(
+        './mapping.json',
+        JSON.stringify(result, false, 1),
+        'utf8'
+    );
 };
 
 main().catch(e => {
