@@ -112,7 +112,6 @@ const strictEqualityMatch = (streetsAR, streets1562) => {
     const name1562IndexAR = _(streetsAR.items)
         .keyBy(streetAR => normalizeString(streetAR.nameLike1562))
         .value();
-    debugger;
     const pairs = streets1562.items.map(street1562 => ({
         street1562,
         streetAR: name1562IndexAR[normalizeString(street1562.name)]
@@ -148,7 +147,35 @@ const decommunizedMatch = (streetsAR, streets1562) => {
     };
 };
 
+const getManualMatches = async () =>
+    JSON.parse(await fs.readFile('./manual.json', 'utf8'));
+
+const manualMatch = (streetsAR, manualMatches, streets1562) => {
+    const index = _(manualMatches)
+        .keyBy('id')
+        .value();
+
+    const pairs = streets1562.map(street1562 => {
+        const match = index[street1562.id];
+        const arStreetID = match ? match.arStreetID : null;
+        return {
+            street1562,
+            streetAR: arStreetID ? streetsAR.byId[arStreetID] : null
+        };
+    });
+    const matched = pairs.filter(({ streetAR }) => streetAR);
+    const notMatched = pairs
+        .filter(({ streetAR }) => !streetAR)
+        .map(({ street1562 }) => street1562);
+    return {
+        matched,
+        notMatched
+    };
+};
+
 const main = async () => {
+    const manualMatches = await getManualMatches();
+
     console.time('client.get1562Streets');
     const streets1562 = await client.get1562Streets();
     await fs.writeFile(
@@ -184,8 +211,14 @@ const main = async () => {
 
     console.log('Unmatched:', decommunizedMatchResult.notMatched.length);
 
+    const manualMatchResults = manualMatch(
+        streetsAR,
+        manualMatches,
+        decommunizedMatchResult.notMatched
+    );
+
     const unmatchedJson = JSON.stringify(
-        decommunizedMatchResult.notMatched.map(item => {
+        manualMatchResults.notMatched.map(item => {
             return {
                 ...item,
                 arStreetID: null
