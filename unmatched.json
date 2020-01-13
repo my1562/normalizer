@@ -5,11 +5,6 @@
     "arStreetID": null
   },
   {
-    "id": 817,
-    "name": "б-рв-д Індустріальна",
-    "arStreetID": null
-  },
-  {
     "id": 113,
     "name": "пров. Астрономічний",
     "arStreetID": null
@@ -17,11 +12,6 @@
   {
     "id": 196,
     "name": "пров. Біломорський",
-    "arStreetID": null
-  },
-  {
-    "id": 2242,
-    "name": "б-рв-д Будівельна",
     "arStreetID": null
   },
   {
@@ -57,11 +47,6 @@
   {
     "id": 2887,
     "name": "вул. Венгеровского (Інд. раніше сел. Фрунзе)",
-    "arStreetID": null
-  },
-  {
-    "id": 336,
-    "name": "б-рв-д Верещаківка",
     "arStreetID": null
   },
   {
@@ -220,11 +205,6 @@
     "arStreetID": null
   },
   {
-    "id": 736,
-    "name": "б-рв-д Залютино",
-    "arStreetID": null
-  },
-  {
     "id": 745,
     "name": "пос. Зарічне",
     "arStreetID": null
@@ -355,11 +335,6 @@
     "arStreetID": null
   },
   {
-    "id": 1208,
-    "name": "б-рв-д Левада",
-    "arStreetID": null
-  },
-  {
     "id": 2874,
     "name": "пос. Лесной",
     "arStreetID": null
@@ -370,11 +345,6 @@
     "arStreetID": null
   },
   {
-    "id": 1252,
-    "name": "б-рв-д Лосеве",
-    "arStreetID": null
-  },
-  {
     "id": 2860,
     "name": "сп. ЛЫСОГОРСКИЙ 1-Й",
     "arStreetID": null
@@ -382,11 +352,6 @@
   {
     "id": 2016,
     "name": "пров. Людмили Гурченко (Саммерівський)",
-    "arStreetID": null
-  },
-  {
-    "id": 1386,
-    "name": "б-рв-д Мінутка",
     "arStreetID": null
   },
   {
@@ -462,11 +427,6 @@
   {
     "id": 1576,
     "name": "4 Новий",
-    "arStreetID": null
-  },
-  {
-    "id": 1536,
-    "name": "б-рв-д Новожанове",
     "arStreetID": null
   },
   {
@@ -597,11 +557,6 @@
   {
     "id": 1945,
     "name": "б-рдорога Роганський",
-    "arStreetID": null
-  },
-  {
-    "id": 1946,
-    "name": "б-рв-д Рогань",
     "arStreetID": null
   },
   {
