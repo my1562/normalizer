@@ -210,14 +210,13 @@ const main = async () => {
     );
     console.timeEnd('decommunizedMatch');
 
-    console.log('Unmatched:', decommunizedMatchResult.notMatched.length);
-
     const manualMatchResults = manualMatch(
         streetsAR,
         manualMatches,
         decommunizedMatchResult.notMatched
     );
 
+    console.log('Unmatched:', manualMatchResults.notMatched.length);
     const unmatchedJson = JSON.stringify(
         manualMatchResults.notMatched.map(item => {
             return {
