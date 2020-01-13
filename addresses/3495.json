@@ -1,0 +1,102 @@
+[
+ {
+  "id": 169695,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3495,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.278934143,
+  "lati": 49.952189152900004,
+  "FullNameUA": "проїзд Орловський 1-й, 6"
+ },
+ {
+  "id": 169696,
+  "postcode": 61105,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3495,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.278968795100006,
+  "lati": 49.9520460361,
+  "FullNameUA": "проїзд Орловський 1-й, 8"
+ },
+ {
+  "id": 169697,
+  "postcode": 61105,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3495,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.279001378000004,
+  "lati": 49.9519210666,
+  "FullNameUA": "проїзд Орловський 1-й, 10"
+ },
+ {
+  "id": 169698,
+  "postcode": 61105,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3495,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2790310919,
+  "lati": 49.9517770677,
+  "FullNameUA": "проїзд Орловський 1-й, 12"
+ }
+]

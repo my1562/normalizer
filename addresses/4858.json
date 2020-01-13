@@ -1,0 +1,27 @@
+[
+ {
+  "id": 157904,
+  "postcode": 61019,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4858,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.01.2019 10:14:06",
+  "longt": 36.129453189699994,
+  "lati": 49.9556135595,
+  "FullNameUA": "вулиця Пісочинська, 7"
+ }
+]

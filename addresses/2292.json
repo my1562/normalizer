@@ -1,0 +1,102 @@
+[
+ {
+  "id": 159089,
+  "postcode": 61010,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2292,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2330934991,
+  "lati": 49.9784830393,
+  "FullNameUA": "в'їзд Ващенківський, 4"
+ },
+ {
+  "id": 159091,
+  "postcode": 61010,
+  "number": 16,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2292,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.239021181000005,
+  "lati": 49.979079838,
+  "FullNameUA": "в'їзд Ващенківський, 16-А"
+ },
+ {
+  "id": 159092,
+  "postcode": 61010,
+  "number": 16,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2292,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 405, 10.12.2003",
+  "reg_date": "",
+  "longt": 36.236516438500004,
+  "lati": 49.979156774799996,
+  "FullNameUA": "в'їзд Ващенківський, 16-Б"
+ },
+ {
+  "id": 159090,
+  "postcode": 61010,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2292,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2381789674,
+  "lati": 49.979222999499996,
+  "FullNameUA": "в'їзд Ващенківський, 16"
+ }
+]

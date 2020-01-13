@@ -1,0 +1,52 @@
+[
+ {
+  "id": 175541,
+  "postcode": 61098,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2818,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.173102939900005,
+  "lati": 49.9777717077,
+  "FullNameUA": "провулок Каракозова, 6"
+ },
+ {
+  "id": 149935,
+  "postcode": 61098,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2818,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1732095333,
+  "lati": 49.9776668858,
+  "FullNameUA": "провулок Каракозова, 8"
+ }
+]

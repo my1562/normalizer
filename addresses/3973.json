@@ -1,0 +1,77 @@
+[
+ {
+  "id": 170557,
+  "postcode": 61037,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3973,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2846907054,
+  "lati": 49.9762305144,
+  "FullNameUA": "вулиця Соїча, 1"
+ },
+ {
+  "id": 170558,
+  "postcode": 61037,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3973,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2857480413,
+  "lati": 49.9761431129,
+  "FullNameUA": "вулиця Соїча, 2"
+ },
+ {
+  "id": 170559,
+  "postcode": 61037,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3973,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2857736467,
+  "lati": 49.976592009499996,
+  "FullNameUA": "вулиця Соїча, 4"
+ }
+]

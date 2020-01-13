@@ -1,0 +1,52 @@
+[
+ {
+  "id": 115649,
+  "postcode": 61145,
+  "number": 22,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2317,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.207069901800004,
+  "lati": 50.017374478499995,
+  "FullNameUA": "вулиця Весела, 22-А"
+ },
+ {
+  "id": 115648,
+  "postcode": 61145,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2317,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2066171385,
+  "lati": 50.0172492153,
+  "FullNameUA": "вулиця Весела, 22"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178442,
+  "postcode": 61107,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 4886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3320488356,
+  "lati": 50.0378446762,
+  "FullNameUA": "проїзд Рогозовий, 23"
+ },
+ {
+  "id": 178443,
+  "postcode": 61107,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 4886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3316991504,
+  "lati": 50.0380145624,
+  "FullNameUA": "проїзд Рогозовий, 25"
+ }
+]

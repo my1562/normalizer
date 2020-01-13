@@ -1,0 +1,102 @@
+[
+ {
+  "id": 129704,
+  "postcode": 61013,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4345,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271748010900005,
+  "lati": 50.0080739654,
+  "FullNameUA": "провулок Черемушний, 1"
+ },
+ {
+  "id": 129705,
+  "postcode": 61013,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4345,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271286795900004,
+  "lati": 50.0081833221,
+  "FullNameUA": "провулок Черемушний, 2"
+ },
+ {
+  "id": 129706,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4345,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271749228100006,
+  "lati": 50.0058586813,
+  "FullNameUA": "провулок Черемушний, 5"
+ },
+ {
+  "id": 129707,
+  "postcode": 61013,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4345,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271132008100004,
+  "lati": 50.0065586894,
+  "FullNameUA": "провулок Черемушний, 14"
+ }
+]

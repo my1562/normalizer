@@ -1,0 +1,102 @@
+[
+ {
+  "id": 143048,
+  "postcode": 61177,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3512,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1607705065,
+  "lati": 49.9786259427,
+  "FullNameUA": "в'їзд Остапа Вишні, 1"
+ },
+ {
+  "id": 143049,
+  "postcode": 61177,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3512,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.16110676540001,
+  "lati": 49.9785469216,
+  "FullNameUA": "в'їзд Остапа Вишні, 3"
+ },
+ {
+  "id": 143050,
+  "postcode": 61177,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3512,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.160906379900005,
+  "lati": 49.9781816232,
+  "FullNameUA": "в'їзд Остапа Вишні, 5"
+ },
+ {
+  "id": 143051,
+  "postcode": 61177,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3512,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.160811590600005,
+  "lati": 49.978393741299996,
+  "FullNameUA": "в'їзд Остапа Вишні, 7"
+ }
+]

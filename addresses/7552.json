@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178985,
+  "postcode": 61013,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7552,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.348416805300005,
+  "lati": 50.0436360766,
+  "FullNameUA": "вулиця Данилівська (сел. Циркуни), 3"
+ },
+ {
+  "id": 178987,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 7552,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.348647083900005,
+  "lati": 50.0439119372,
+  "FullNameUA": "вулиця Данилівська (сел. Циркуни), 5"
+ }
+]

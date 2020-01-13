@@ -1,0 +1,102 @@
+[
+ {
+  "id": 161913,
+  "postcode": 61109,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2838,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2270452417,
+  "lati": 49.921667074,
+  "FullNameUA": "провулок Кар'єрний, 2"
+ },
+ {
+  "id": 161914,
+  "postcode": 61109,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2838,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.226940023,
+  "lati": 49.9217977293,
+  "FullNameUA": "провулок Кар'єрний, 4"
+ },
+ {
+  "id": 161915,
+  "postcode": 61109,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2838,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2268104294,
+  "lati": 49.9219271069,
+  "FullNameUA": "провулок Кар'єрний, 6"
+ },
+ {
+  "id": 161916,
+  "postcode": 61109,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2838,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2267270289,
+  "lati": 49.9221606635,
+  "FullNameUA": "провулок Кар'єрний, 8"
+ }
+]

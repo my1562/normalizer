@@ -1,0 +1,52 @@
+[
+ {
+  "id": 101411,
+  "postcode": 61066,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2344,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3627412254,
+  "lati": 49.9736494633,
+  "FullNameUA": "проїзд Високогірний 3-й, 6"
+ },
+ {
+  "id": 101412,
+  "postcode": 61066,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2344,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3625696858,
+  "lati": 49.9734543195,
+  "FullNameUA": "проїзд Високогірний 3-й, 8"
+ }
+]

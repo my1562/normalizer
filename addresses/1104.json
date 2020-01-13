@@ -1,0 +1,27 @@
+[
+ {
+  "id": 178244,
+  "postcode": 61110,
+  "number": 31,
+  "suffix": "/34",
+  "block": "",
+  "streetid": 1104,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "778, 16.11.1954",
+  "reg_date": "",
+  "longt": 36.3202750683,
+  "lati": 49.9924299782,
+  "FullNameUA": "вулиця Лафарга, 31/34"
+ }
+]

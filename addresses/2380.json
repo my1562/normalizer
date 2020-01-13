@@ -1,0 +1,27 @@
+[
+ {
+  "id": 121519,
+  "postcode": 61033,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2380,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2859130112,
+  "lati": 50.0192926172,
+  "FullNameUA": "в'їзд Вологодський, 6"
+ }
+]

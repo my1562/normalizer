@@ -1,0 +1,27 @@
+[
+ {
+  "id": 141536,
+  "postcode": 61052,
+  "number": 8,
+  "suffix": "/9",
+  "block": "",
+  "streetid": 3056,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2013534207,
+  "lati": 49.997808039,
+  "FullNameUA": "в'їзд Кузинський Двір, 8/9"
+ }
+]

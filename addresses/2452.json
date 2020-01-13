@@ -1,0 +1,52 @@
+[
+ {
+  "id": 148438,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2452,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2125850469,
+  "lati": 49.9821176968,
+  "FullNameUA": "провулок Гончарівський, 3"
+ },
+ {
+  "id": 148439,
+  "postcode": 61052,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2452,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.212802862400004,
+  "lati": 49.981903005700005,
+  "FullNameUA": "провулок Гончарівський, 5"
+ }
+]

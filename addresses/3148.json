@@ -1,0 +1,52 @@
+[
+ {
+  "id": 141922,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3148,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2260651588,
+  "lati": 49.9891027062,
+  "FullNameUA": "набережна Лопанська, 1"
+ },
+ {
+  "id": 141923,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3148,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2256923318,
+  "lati": 49.9897355868,
+  "FullNameUA": "набережна Лопанська, 3"
+ }
+]

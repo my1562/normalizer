@@ -1,0 +1,27 @@
+[
+ {
+  "id": 114642,
+  "postcode": 61047,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4869,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.01.2019 11:47:41",
+  "longt": 36.415736519400006,
+  "lati": 49.9269166367,
+  "FullNameUA": "проїзд Граківський, 9"
+ }
+]

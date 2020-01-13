@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177806,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7515,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1669975519,
+  "lati": 49.91982788280001,
+  "FullNameUA": "вулиця Нова (сел. Покотилівка), 4"
+ }
+]

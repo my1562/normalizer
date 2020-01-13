@@ -1,0 +1,27 @@
+[
+ {
+  "id": 119352,
+  "postcode": 61070,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4106,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "794, 12.12.2012",
+  "reg_date": "16.01.2019 12:13:19",
+  "longt": 36.2655349823,
+  "lati": 50.057553537800004,
+  "FullNameUA": "вулиця Тернова, 13"
+ }
+]

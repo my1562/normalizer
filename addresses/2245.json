@@ -1,0 +1,52 @@
+[
+ {
+  "id": 158672,
+  "postcode": 61080,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2245,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2503115305,
+  "lati": 49.9332189605,
+  "FullNameUA": "в'їзд Бригадний, 1"
+ },
+ {
+  "id": 158673,
+  "postcode": 61080,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2245,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2507132676,
+  "lati": 49.9332590645,
+  "FullNameUA": "в'їзд Бригадний, 2"
+ }
+]

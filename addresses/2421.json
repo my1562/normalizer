@@ -1,0 +1,77 @@
+[
+ {
+  "id": 159809,
+  "postcode": 61010,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2421,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2426146852,
+  "lati": 49.9722253789,
+  "FullNameUA": "в'їзд Георгіївський 1-й, 1"
+ },
+ {
+  "id": 159810,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2421,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2425254281,
+  "lati": 49.9724170897,
+  "FullNameUA": "в'їзд Георгіївський 1-й, 3"
+ },
+ {
+  "id": 159811,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2421,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2425061857,
+  "lati": 49.9726874399,
+  "FullNameUA": "в'їзд Георгіївський 1-й, 5"
+ }
+]

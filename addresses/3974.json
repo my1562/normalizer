@@ -1,0 +1,77 @@
+[
+ {
+  "id": 178009,
+  "postcode": 61070,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3974,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2621941445,
+  "lati": 50.033880197100004,
+  "FullNameUA": " Сокільники, 6"
+ },
+ {
+  "id": 119100,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 3974,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2523344585,
+  "lati": 50.0276584591,
+  "FullNameUA": " Сокільники, 12/2"
+ },
+ {
+  "id": 119101,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 3974,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2527398286,
+  "lati": 50.027749626600006,
+  "FullNameUA": " Сокільники, 12/3"
+ }
+]

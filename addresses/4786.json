@@ -1,0 +1,102 @@
+[
+ {
+  "id": 176727,
+  "postcode": 61090,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.03.2017 10:33:41",
+  "longt": 36.133499159900005,
+  "lati": 49.9298571462,
+  "FullNameUA": "проїзд Жилинський 6-й, 1"
+ },
+ {
+  "id": 176725,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.03.2017 10:31:23",
+  "longt": 36.133123440300004,
+  "lati": 49.929909909900005,
+  "FullNameUA": "проїзд Жилинський 6-й, 3"
+ },
+ {
+  "id": 176728,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.03.2017 10:36:45",
+  "longt": 36.133346184100006,
+  "lati": 49.9305067124,
+  "FullNameUA": "проїзд Жилинський 6-й, 4"
+ },
+ {
+  "id": 176726,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.03.2017 10:33:02",
+  "longt": 36.1327624662,
+  "lati": 49.9299650342,
+  "FullNameUA": "проїзд Жилинський 6-й, 5"
+ }
+]

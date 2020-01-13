@@ -1,0 +1,102 @@
+[
+ {
+  "id": 176162,
+  "postcode": 61108,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7438,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2191348277,
+  "lati": 50.0828059142,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Черкаська Лозова), 7"
+ },
+ {
+  "id": 179853,
+  "postcode": 61108,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7438,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.217267888,
+  "lati": 50.0813707822,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Черкаська Лозова), 15"
+ },
+ {
+  "id": 176323,
+  "postcode": 61174,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 7438,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2158556813,
+  "lati": 50.0808531614,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Черкаська Лозова), 16"
+ },
+ {
+  "id": 176321,
+  "postcode": 61174,
+  "number": 18,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 7438,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2151968479,
+  "lati": 50.0800226828,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Черкаська Лозова), 18/1"
+ }
+]

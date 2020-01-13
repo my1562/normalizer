@@ -1,0 +1,77 @@
+[
+ {
+  "id": 175697,
+  "postcode": 61096,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4762,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 1, п. 10_1",
+  "reg_date": "20.11.2017 16:11:41",
+  "longt": 36.3208767575,
+  "lati": 49.9306556768,
+  "FullNameUA": "провулок Панютинський, 3"
+ },
+ {
+  "id": 178355,
+  "postcode": 61096,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4762,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 1, п. 11",
+  "reg_date": "21.11.2017 10:03:49",
+  "longt": 36.3200362362,
+  "lati": 49.9308166148,
+  "FullNameUA": "провулок Панютинський, 4"
+ },
+ {
+  "id": 175696,
+  "postcode": 61096,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4762,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 1, п. 10_2",
+  "reg_date": "21.11.2017 09:22:07",
+  "longt": 36.320477373,
+  "lati": 49.9305472651,
+  "FullNameUA": "провулок Панютинський, 5"
+ }
+]

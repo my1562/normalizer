@@ -1,0 +1,52 @@
+[
+ {
+  "id": 163871,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3336,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2270618577,
+  "lati": 49.9066708807,
+  "FullNameUA": "провулок Надбірний, 3"
+ },
+ {
+  "id": 163872,
+  "postcode": 61109,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3336,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2271816531,
+  "lati": 49.9067938354,
+  "FullNameUA": "провулок Надбірний, 5"
+ }
+]

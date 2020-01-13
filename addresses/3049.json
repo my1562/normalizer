@@ -1,0 +1,102 @@
+[
+ {
+  "id": 141448,
+  "postcode": 61016,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3049,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.192230879,
+  "lati": 49.995950077900005,
+  "FullNameUA": "провулок Крутий, 3"
+ },
+ {
+  "id": 141449,
+  "postcode": 61016,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3049,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.192708416399995,
+  "lati": 49.996332255300004,
+  "FullNameUA": "провулок Крутий, 4"
+ },
+ {
+  "id": 141447,
+  "postcode": 61016,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3049,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М 1:2000",
+  "reg_date": "",
+  "longt": 36.1921960655,
+  "lati": 49.996120751700005,
+  "FullNameUA": "провулок Крутий, 5"
+ },
+ {
+  "id": 141450,
+  "postcode": 61016,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3049,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.192427881099995,
+  "lati": 49.9963089339,
+  "FullNameUA": "провулок Крутий, 6"
+ }
+]

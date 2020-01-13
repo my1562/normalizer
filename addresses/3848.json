@@ -1,0 +1,102 @@
+[
+ {
+  "id": 135323,
+  "postcode": 61038,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3848,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.300858471800005,
+  "lati": 49.9813701264,
+  "FullNameUA": "провулок Садовських, 2"
+ },
+ {
+  "id": 135324,
+  "postcode": 61038,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3848,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.301024928400004,
+  "lati": 49.9811338553,
+  "FullNameUA": "провулок Садовських, 3"
+ },
+ {
+  "id": 135325,
+  "postcode": 61038,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3848,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.300938107600004,
+  "lati": 49.980935626500006,
+  "FullNameUA": "провулок Садовських, 5"
+ },
+ {
+  "id": 135326,
+  "postcode": 61038,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3848,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.300082704400005,
+  "lati": 49.981376627900005,
+  "FullNameUA": "провулок Садовських, 8"
+ }
+]

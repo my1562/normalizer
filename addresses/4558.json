@@ -1,0 +1,77 @@
+[
+ {
+  "id": 175662,
+  "postcode": 61070,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4558,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2483788887,
+  "lati": 50.029303126600006,
+  "FullNameUA": "в'їзд Сокільницький 2-й, 1"
+ },
+ {
+  "id": 119884,
+  "postcode": 61070,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4558,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.249003918700005,
+  "lati": 50.02918945770001,
+  "FullNameUA": "в'їзд Сокільницький 2-й, 2"
+ },
+ {
+  "id": 175663,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4558,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2480187896,
+  "lati": 50.0288552103,
+  "FullNameUA": "в'їзд Сокільницький 2-й, 3"
+ }
+]

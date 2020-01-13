@@ -1,0 +1,102 @@
+[
+ {
+  "id": 171626,
+  "postcode": 61162,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4730,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 480, 24.07.2013; 1251, 25.09.2013",
+  "reg_date": "04.06.2018 12:02:18",
+  "longt": 36.314208546100005,
+  "lati": 49.9256875186,
+  "FullNameUA": "в'їзд Федецького, 2"
+ },
+ {
+  "id": 171627,
+  "postcode": 61162,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4730,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 480, 24.07.13",
+  "reg_date": "04.06.2018 12:15:04",
+  "longt": 36.3144212148,
+  "lati": 49.9255275677,
+  "FullNameUA": "в'їзд Федецького, 4"
+ },
+ {
+  "id": 171628,
+  "postcode": 61162,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4730,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 480, 24.07.13",
+  "reg_date": "04.06.2018 12:15:41",
+  "longt": 36.3147695134,
+  "lati": 49.9252602057,
+  "FullNameUA": "в'їзд Федецького, 6"
+ },
+ {
+  "id": 171629,
+  "postcode": 61162,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4730,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014; Рішення ВК ХМР № 369, 18.06.2014 внесення змін",
+  "reg_date": "04.06.2018 12:17:06",
+  "longt": 36.3148932537,
+  "lati": 49.9250243759,
+  "FullNameUA": "в'їзд Федецького, 8"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 181125,
+  "postcode": 61026,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 7446,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.11.2019 16:53:13",
+  "longt": 36.4104183218,
+  "lati": 49.9741138348,
+  "FullNameUA": "вулиця Польова (сел. Заїки), 2"
+ },
+ {
+  "id": 178174,
+  "postcode": 61026,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7446,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4083348414,
+  "lati": 49.9731413613,
+  "FullNameUA": "вулиця Польова (сел. Заїки), 15"
+ },
+ {
+  "id": 178162,
+  "postcode": 61026,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 7446,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.407887108699995,
+  "lati": 49.9730364394,
+  "FullNameUA": "вулиця Польова (сел. Заїки), 17"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 178688,
+  "postcode": 61026,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 7404,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3698503375,
+  "lati": 49.983761690600005,
+  "FullNameUA": "вулиця Першотравнева (сел. Перемога), 8"
+ },
+ {
+  "id": 178330,
+  "postcode": 61026,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 7404,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.369756048,
+  "lati": 49.983974654,
+  "FullNameUA": "вулиця Першотравнева (сел. Перемога), 10"
+ },
+ {
+  "id": 176278,
+  "postcode": 61026,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 7404,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3690813494,
+  "lati": 49.985242187900006,
+  "FullNameUA": "вулиця Першотравнева (сел. Перемога), 20"
+ },
+ {
+  "id": 179703,
+  "postcode": 61026,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 7404,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3687545366,
+  "lati": 49.9857625424,
+  "FullNameUA": "вулиця Першотравнева (сел. Перемога), 22"
+ }
+]

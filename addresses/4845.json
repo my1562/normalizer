@@ -1,0 +1,102 @@
+[
+ {
+  "id": 175811,
+  "postcode": 61107,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.303910274900005,
+  "lati": 50.0415945158,
+  "FullNameUA": "провулок Чуйківський 4-й, 7"
+ },
+ {
+  "id": 181057,
+  "postcode": 61107,
+  "number": 7,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.303954897100006,
+  "lati": 50.0413460665,
+  "FullNameUA": "провулок Чуйківський 4-й, 7-А"
+ },
+ {
+  "id": 181058,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.304045090500004,
+  "lati": 50.040797990899996,
+  "FullNameUA": "провулок Чуйківський 4-й, 8-А"
+ },
+ {
+  "id": 180544,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3039987295,
+  "lati": 50.0410589193,
+  "FullNameUA": "провулок Чуйківський 4-й, 8"
+ }
+]

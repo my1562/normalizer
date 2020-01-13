@@ -1,0 +1,52 @@
+[
+ {
+  "id": 121818,
+  "postcode": 61108,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2590076143,
+  "lati": 50.0893227438,
+  "FullNameUA": "вулиця Гаркуші Іллі, 1"
+ },
+ {
+  "id": 121819,
+  "postcode": 61108,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2578567563,
+  "lati": 50.089629113099996,
+  "FullNameUA": "вулиця Гаркуші Іллі, 3"
+ }
+]

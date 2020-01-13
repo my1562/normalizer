@@ -1,0 +1,102 @@
+[
+ {
+  "id": 171680,
+  "postcode": 61031,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4857,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "1902, 24.06.2015; 204, 22.03.2017",
+  "reg_date": "30.03.2017 12:43:26",
+  "longt": 36.2864757533,
+  "lati": 49.91398144910001,
+  "FullNameUA": "проїзд Пілотів, 1"
+ },
+ {
+  "id": 177812,
+  "postcode": 61031,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4857,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "670, 21.06.2017, дод. 5, п.1",
+  "reg_date": "07.07.2017 10:14:45",
+  "longt": 36.2803853103,
+  "lati": 49.9120770046,
+  "FullNameUA": "проїзд Пілотів, 4"
+ },
+ {
+  "id": 178329,
+  "postcode": 61031,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4857,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 3, п. 2",
+  "reg_date": "20.11.2017 12:27:14",
+  "longt": 36.2834128873,
+  "lati": 49.9126983127,
+  "FullNameUA": "проїзд Пілотів, 10-А"
+ },
+ {
+  "id": 178362,
+  "postcode": 61031,
+  "number": 10,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4857,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 1, п. 33",
+  "reg_date": "21.11.2017 12:15:01",
+  "longt": 36.283787560200004,
+  "lati": 49.9125178023,
+  "FullNameUA": "проїзд Пілотів, 10-Б"
+ }
+]

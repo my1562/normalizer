@@ -1,0 +1,52 @@
+[
+ {
+  "id": 163757,
+  "postcode": 61109,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3288,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2483223003,
+  "lati": 49.9125742159,
+  "FullNameUA": "в'їзд Мічуріна, 8"
+ },
+ {
+  "id": 163758,
+  "postcode": 61109,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3288,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.247964382700005,
+  "lati": 49.912573354200006,
+  "FullNameUA": "в'їзд Мічуріна, 10"
+ }
+]

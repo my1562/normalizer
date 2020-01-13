@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178450,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4892,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3208455618,
+  "lati": 50.0399881898,
+  "FullNameUA": "вулиця Кітляров Ручай, 2"
+ },
+ {
+  "id": 180775,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4892,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3215465702,
+  "lati": 50.039998202,
+  "FullNameUA": "вулиця Кітляров Ручай, 4"
+ }
+]

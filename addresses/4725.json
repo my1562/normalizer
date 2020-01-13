@@ -1,0 +1,27 @@
+[
+ {
+  "id": 176324,
+  "postcode": 61174,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4725,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2159073679,
+  "lati": 50.080838793299996,
+  "FullNameUA": "в'їзд Санаторний, 2"
+ }
+]

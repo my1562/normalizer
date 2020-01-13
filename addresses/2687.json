@@ -1,0 +1,77 @@
+[
+ {
+  "id": 161533,
+  "postcode": 61009,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2687,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237899102600004,
+  "lati": 49.943119668399994,
+  "FullNameUA": "провулок Заводський, 7"
+ },
+ {
+  "id": 161535,
+  "postcode": 61009,
+  "number": 9,
+  "suffix": "/6",
+  "block": "",
+  "streetid": 2687,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237942190800005,
+  "lati": 49.943527751999994,
+  "FullNameUA": "провулок Заводський, 9/6"
+ },
+ {
+  "id": 161534,
+  "postcode": 61009,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2687,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237860388600005,
+  "lati": 49.942747067,
+  "FullNameUA": "провулок Заводський, 9"
+ }
+]

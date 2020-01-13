@@ -1,0 +1,52 @@
+[
+ {
+  "id": 125265,
+  "postcode": 61003,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3253,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.232899675700004,
+  "lati": 49.9928371278,
+  "FullNameUA": "провулок Мечнікова, 4"
+ },
+ {
+  "id": 125266,
+  "postcode": 61003,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3253,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2337530487,
+  "lati": 49.992953232000005,
+  "FullNameUA": "провулок Мечнікова, 6"
+ }
+]

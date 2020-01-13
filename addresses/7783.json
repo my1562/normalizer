@@ -1,0 +1,102 @@
+[
+ {
+  "id": 179100,
+  "postcode": 61143,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 7783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення 878_17, 20.12.2017, дод. 1",
+  "reg_date": "",
+  "longt": 36.446049213399995,
+  "lati": 49.9117337862,
+  "FullNameUA": "вулиця Сергія Дрімцова, 9"
+ },
+ {
+  "id": 179099,
+  "postcode": 61143,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 7783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення 878_17, 20.12.2017, дод. 1",
+  "reg_date": "",
+  "longt": 36.446526662299995,
+  "lati": 49.911900583400005,
+  "FullNameUA": "вулиця Сергія Дрімцова, 13"
+ },
+ {
+  "id": 179098,
+  "postcode": 61143,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення 878_17, 20.12.2017, дод. 1",
+  "reg_date": "",
+  "longt": 36.4469220024,
+  "lati": 49.912029891100005,
+  "FullNameUA": "вулиця Сергія Дрімцова, 15"
+ },
+ {
+  "id": 179097,
+  "postcode": 61143,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 7783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення 878_17, 20.12.2017, дод. 1",
+  "reg_date": "",
+  "longt": 36.447335881099995,
+  "lati": 49.9121720081,
+  "FullNameUA": "вулиця Сергія Дрімцова, 17"
+ }
+]

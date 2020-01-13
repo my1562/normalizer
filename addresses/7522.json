@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176250,
+  "postcode": 61108,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7522,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.26329422,
+  "lati": 50.097513964200004,
+  "FullNameUA": "вулиця П'ятихатська (сел. Лісне), 15"
+ },
+ {
+  "id": 176251,
+  "postcode": 61108,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 7522,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2625968456,
+  "lati": 50.0977135523,
+  "FullNameUA": "вулиця П'ятихатська (сел. Лісне), 16"
+ }
+]

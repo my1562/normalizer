@@ -1,0 +1,102 @@
+[
+ {
+  "id": 158090,
+  "postcode": 61124,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2033,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2567055989,
+  "lati": 49.9550995271,
+  "FullNameUA": "в'їзд Азербайджанський, 2"
+ },
+ {
+  "id": 158091,
+  "postcode": 61124,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2033,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2567098805,
+  "lati": 49.9549870604,
+  "FullNameUA": "в'їзд Азербайджанський, 3"
+ },
+ {
+  "id": 158092,
+  "postcode": 61124,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2033,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2566922345,
+  "lati": 49.9548579355,
+  "FullNameUA": "в'їзд Азербайджанський, 4"
+ },
+ {
+  "id": 158093,
+  "postcode": 61124,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 2033,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2563986624,
+  "lati": 49.9550452756,
+  "FullNameUA": "в'їзд Азербайджанський, 11"
+ }
+]

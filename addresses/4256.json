@@ -1,0 +1,102 @@
+[
+ {
+  "id": 107135,
+  "postcode": 61099,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.364821389599996,
+  "lati": 49.959352281200005,
+  "FullNameUA": "вулиця Хабарова, 1"
+ },
+ {
+  "id": 178646,
+  "postcode": 61099,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3593012094,
+  "lati": 49.9609388553,
+  "FullNameUA": "вулиця Хабарова, 2-А"
+ },
+ {
+  "id": 107136,
+  "postcode": 61099,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.365280497,
+  "lati": 49.96524083,
+  "FullNameUA": "вулиця Хабарова, 2"
+ },
+ {
+  "id": 107137,
+  "postcode": 61099,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3639672616,
+  "lati": 49.9632278101,
+  "FullNameUA": "вулиця Хабарова, 7"
+ }
+]

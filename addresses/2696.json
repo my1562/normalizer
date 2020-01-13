@@ -1,0 +1,27 @@
+[
+ {
+  "id": 161539,
+  "postcode": 61010,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2696,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.239706690300004,
+  "lati": 49.9774426472,
+  "FullNameUA": "вулиця Заливна, 13"
+ }
+]

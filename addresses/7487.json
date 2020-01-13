@@ -1,0 +1,77 @@
+[
+ {
+  "id": 179749,
+  "postcode": 61096,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7487,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.319781186,
+  "lati": 49.9321394513,
+  "FullNameUA": "вулиця Степова (сел. Павленки), 7"
+ },
+ {
+  "id": 179750,
+  "postcode": 61096,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 7487,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3200384317,
+  "lati": 49.9320316992,
+  "FullNameUA": "вулиця Степова (сел. Павленки), 9"
+ },
+ {
+  "id": 178357,
+  "postcode": 61096,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 7487,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3197973954,
+  "lati": 49.9314057956,
+  "FullNameUA": "вулиця Степова (сел. Павленки), 12"
+ }
+]

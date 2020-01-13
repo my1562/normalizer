@@ -1,0 +1,52 @@
+[
+ {
+  "id": 141838,
+  "postcode": 61016,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3123,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1929412274,
+  "lati": 49.997117247,
+  "FullNameUA": "в'їзд Лисогірський 1-й, 1"
+ },
+ {
+  "id": 141839,
+  "postcode": 61016,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3123,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1932489146,
+  "lati": 49.9971151365,
+  "FullNameUA": "в'їзд Лисогірський 1-й, 2"
+ }
+]

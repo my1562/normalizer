@@ -1,0 +1,77 @@
+[
+ {
+  "id": 146634,
+  "postcode": 61093,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4598,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1873915022,
+  "lati": 49.9945750321,
+  "FullNameUA": "в'їзд Верхньогиївський, 2"
+ },
+ {
+  "id": 146635,
+  "postcode": 61093,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4598,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1873983207,
+  "lati": 49.9943378835,
+  "FullNameUA": "в'їзд Верхньогиївський, 3"
+ },
+ {
+  "id": 146636,
+  "postcode": 61093,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4598,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1872214905,
+  "lati": 49.9945007139,
+  "FullNameUA": "в'їзд Верхньогиївський, 5"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 176685,
+  "postcode": 61108,
+  "number": 1,
+  "suffix": "/11",
+  "block": "",
+  "streetid": 7521,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2618473321,
+  "lati": 50.1001245846,
+  "FullNameUA": "провулок Університетський (сел. Лісне), 1/11"
+ },
+ {
+  "id": 177442,
+  "postcode": 61108,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7521,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.265121145399995,
+  "lati": 50.1000839267,
+  "FullNameUA": "провулок Університетський (сел. Лісне), 4"
+ },
+ {
+  "id": 181170,
+  "postcode": 61108,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 7521,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "27.11.2019 14:39:42",
+  "longt": 36.264695189499996,
+  "lati": 50.1001627634,
+  "FullNameUA": "провулок Університетський (сел. Лісне), 6"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 101387,
+  "postcode": 61066,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3674618885,
+  "lati": 49.9744103636,
+  "FullNameUA": "проїзд Високогірний, 4"
+ },
+ {
+  "id": 101388,
+  "postcode": 61066,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3675211965,
+  "lati": 49.9742727183,
+  "FullNameUA": "проїзд Високогірний, 6"
+ },
+ {
+  "id": 101389,
+  "postcode": 61066,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.367554596699996,
+  "lati": 49.9741396684,
+  "FullNameUA": "проїзд Високогірний, 8"
+ }
+]

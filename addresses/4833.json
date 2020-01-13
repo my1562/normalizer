@@ -1,0 +1,27 @@
+[
+ {
+  "id": 180860,
+  "postcode": 61070,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4833,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "18.06.2019 09:16:44",
+  "longt": 36.264662734999995,
+  "lati": 50.058813661100004,
+  "FullNameUA": "вулиця Харченківська, 1"
+ }
+]

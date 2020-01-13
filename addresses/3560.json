@@ -1,0 +1,77 @@
+[
+ {
+  "id": 164671,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3560,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.230041167,
+  "lati": 49.916713799700005,
+  "FullNameUA": "в'їзд Першого Травня, 1"
+ },
+ {
+  "id": 164672,
+  "postcode": 61109,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3560,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2301011058,
+  "lati": 49.9169230087,
+  "FullNameUA": "в'їзд Першого Травня, 2"
+ },
+ {
+  "id": 164673,
+  "postcode": 61109,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3560,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.230264020300005,
+  "lati": 49.9172740085,
+  "FullNameUA": "в'їзд Першого Травня, 6"
+ }
+]

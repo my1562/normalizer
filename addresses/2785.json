@@ -1,0 +1,77 @@
+[
+ {
+  "id": 123499,
+  "postcode": 61033,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2785,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2751062723,
+  "lati": 50.0033629157,
+  "FullNameUA": "в'їзд Ісаївський 1-й, 2"
+ },
+ {
+  "id": 123500,
+  "postcode": 61033,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2785,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.275261840400006,
+  "lati": 50.003507729,
+  "FullNameUA": "в'їзд Ісаївський 1-й, 3"
+ },
+ {
+  "id": 123501,
+  "postcode": 61033,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2785,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2753932687,
+  "lati": 50.0033887752,
+  "FullNameUA": "в'їзд Ісаївський 1-й, 5"
+ }
+]

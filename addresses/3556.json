@@ -1,0 +1,102 @@
+[
+ {
+  "id": 153766,
+  "postcode": 61064,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3556,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1849403411,
+  "lati": 49.982455714100006,
+  "FullNameUA": "провулок Пермський, 3"
+ },
+ {
+  "id": 153767,
+  "postcode": 61064,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3556,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.184298705399996,
+  "lati": 49.9823724923,
+  "FullNameUA": "провулок Пермський, 6"
+ },
+ {
+  "id": 153768,
+  "postcode": 61064,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3556,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1844903851,
+  "lati": 49.982248968200004,
+  "FullNameUA": "провулок Пермський, 8"
+ },
+ {
+  "id": 153769,
+  "postcode": 61064,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3556,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1847550142,
+  "lati": 49.9819714806,
+  "FullNameUA": "провулок Пермський, 10"
+ }
+]

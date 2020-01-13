@@ -1,0 +1,102 @@
+[
+ {
+  "id": 149606,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2709,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.142282136700004,
+  "lati": 49.9369268827,
+  "FullNameUA": "проїзд Звенигородський, 3"
+ },
+ {
+  "id": 149607,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2709,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1423915986,
+  "lati": 49.9367775398,
+  "FullNameUA": "проїзд Звенигородський, 5"
+ },
+ {
+  "id": 149609,
+  "postcode": 61090,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2709,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1423426834,
+  "lati": 49.9365373099,
+  "FullNameUA": "проїзд Звенигородський, 8"
+ },
+ {
+  "id": 149610,
+  "postcode": 61090,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2709,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1425300827,
+  "lati": 49.9363465704,
+  "FullNameUA": "проїзд Звенигородський, 10"
+ }
+]

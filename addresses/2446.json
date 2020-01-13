@@ -1,0 +1,52 @@
+[
+ {
+  "id": 148404,
+  "postcode": 61157,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2446,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2090442298,
+  "lati": 49.9646256925,
+  "FullNameUA": "провулок Головинський, 1"
+ },
+ {
+  "id": 148405,
+  "postcode": 61157,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2446,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.208905105,
+  "lati": 49.9643269389,
+  "FullNameUA": "провулок Головинський, 4"
+ }
+]

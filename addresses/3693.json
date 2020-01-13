@@ -1,0 +1,77 @@
+[
+ {
+  "id": 154365,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3693,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1480868644,
+  "lati": 49.9366800575,
+  "FullNameUA": "проїзд Приміський 5-й, 3"
+ },
+ {
+  "id": 154366,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3693,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1483826579,
+  "lati": 49.9368142636,
+  "FullNameUA": "проїзд Приміський 5-й, 5"
+ },
+ {
+  "id": 154367,
+  "postcode": 61090,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3693,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1486782041,
+  "lati": 49.9368498402,
+  "FullNameUA": "проїзд Приміський 5-й, 9"
+ }
+]

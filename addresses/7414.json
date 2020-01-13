@@ -1,0 +1,27 @@
+[
+ {
+  "id": 178146,
+  "postcode": 61026,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 7414,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.409104466399995,
+  "lati": 49.9701952251,
+  "FullNameUA": "вулиця Пролетарська (сел. Заїки), 11"
+ }
+]

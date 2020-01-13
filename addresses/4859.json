@@ -1,0 +1,27 @@
+[
+ {
+  "id": 131283,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4859,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2019 16:55:31",
+  "longt": 36.320366902,
+  "lati": 50.0345797186,
+  "FullNameUA": "провулок Затоківський, 3"
+ }
+]

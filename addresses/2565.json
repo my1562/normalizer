@@ -1,0 +1,52 @@
+[
+ {
+  "id": 139075,
+  "postcode": 61177,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1559763371,
+  "lati": 49.9750355809,
+  "FullNameUA": "провулок Динамівський, 4"
+ },
+ {
+  "id": 139076,
+  "postcode": 61177,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 2565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1581891692,
+  "lati": 49.9742078722,
+  "FullNameUA": "провулок Динамівський, 11"
+ }
+]

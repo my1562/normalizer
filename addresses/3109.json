@@ -1,0 +1,102 @@
+[
+ {
+  "id": 141782,
+  "postcode": 61016,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1947913477,
+  "lati": 49.999811116100005,
+  "FullNameUA": "в'їзд Курилівський, 1"
+ },
+ {
+  "id": 141783,
+  "postcode": 61016,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.195155463599995,
+  "lati": 49.9998609476,
+  "FullNameUA": "в'їзд Курилівський, 2"
+ },
+ {
+  "id": 141784,
+  "postcode": 61016,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.194803275299996,
+  "lati": 50.0000013604,
+  "FullNameUA": "в'їзд Курилівський, 3"
+ },
+ {
+  "id": 141785,
+  "postcode": 61016,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.194590072299995,
+  "lati": 50.0000506799,
+  "FullNameUA": "в'їзд Курилівський, 4"
+ }
+]

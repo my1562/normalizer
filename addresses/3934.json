@@ -1,0 +1,27 @@
+[
+ {
+  "id": 165829,
+  "postcode": 61030,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3934,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.23042130460001,
+  "lati": 49.9540663481,
+  "FullNameUA": "вулиця Сільськогосподарська, 1"
+ }
+]

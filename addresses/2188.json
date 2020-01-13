@@ -1,0 +1,27 @@
+[
+ {
+  "id": 115345,
+  "postcode": 61051,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2188,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "132, 24.02.2016",
+  "reg_date": "04.03.2019 09:31:21",
+  "longt": 36.206752478800006,
+  "lati": 50.0402597524,
+  "FullNameUA": "проїзд Білогорський, 1"
+ }
+]

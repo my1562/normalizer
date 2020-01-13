@@ -1,0 +1,52 @@
+[
+ {
+  "id": 142778,
+  "postcode": 61016,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1782102984,
+  "lati": 50.0058563238,
+  "FullNameUA": "провулок Новий Побут, 1"
+ },
+ {
+  "id": 142779,
+  "postcode": 61016,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1778907673,
+  "lati": 50.0057366927,
+  "FullNameUA": "провулок Новий Побут, 2"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 158231,
+  "postcode": 61124,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2083,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2584345498,
+  "lati": 49.959256915900006,
+  "FullNameUA": "провулок Арматурний, 4"
+ },
+ {
+  "id": 158232,
+  "postcode": 61124,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2083,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2584110137,
+  "lati": 49.958992931500006,
+  "FullNameUA": "провулок Арматурний, 5"
+ },
+ {
+  "id": 158233,
+  "postcode": 61124,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2083,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2582943871,
+  "lati": 49.9592477132,
+  "FullNameUA": "провулок Арматурний, 6"
+ }
+]

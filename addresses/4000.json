@@ -1,0 +1,27 @@
+[
+ {
+  "id": 119230,
+  "postcode": 61003,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4000,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2309620531,
+  "lati": 49.9912340146,
+  "FullNameUA": "провулок Спартаківський, 3"
+ }
+]

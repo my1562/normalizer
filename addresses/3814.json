@@ -1,0 +1,52 @@
+[
+ {
+  "id": 165344,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2161644101,
+  "lati": 49.8989745351,
+  "FullNameUA": "в'їзд Росинського, 1"
+ },
+ {
+  "id": 165345,
+  "postcode": 61109,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2165474183,
+  "lati": 49.8988047343,
+  "FullNameUA": "в'їзд Росинського, 2"
+ }
+]

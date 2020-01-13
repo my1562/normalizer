@@ -1,0 +1,27 @@
+[
+ {
+  "id": 164334,
+  "postcode": 61140,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3466,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.245863671900004,
+  "lati": 49.974495855099995,
+  "FullNameUA": "майдан Олександра Невського, 12"
+ }
+]

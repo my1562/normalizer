@@ -1,0 +1,77 @@
+[
+ {
+  "id": 170301,
+  "postcode": 61001,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3905,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.267556532,
+  "lati": 49.9737860374,
+  "FullNameUA": "в'їзд Середньоуральський, 9"
+ },
+ {
+  "id": 170303,
+  "postcode": 61001,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3905,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2673192168,
+  "lati": 49.9734404128,
+  "FullNameUA": "в'їзд Середньоуральський, 11-А"
+ },
+ {
+  "id": 170302,
+  "postcode": 61001,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 3905,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.267462598099996,
+  "lati": 49.9736715463,
+  "FullNameUA": "в'їзд Середньоуральський, 11"
+ }
+]

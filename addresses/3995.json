@@ -1,0 +1,102 @@
+[
+ {
+  "id": 144646,
+  "postcode": 61093,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3995,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1854941374,
+  "lati": 49.985402031700005,
+  "FullNameUA": "провулок Володимира Усенка, 2"
+ },
+ {
+  "id": 144647,
+  "postcode": 61093,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 3995,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.18637753,
+  "lati": 49.9861028838,
+  "FullNameUA": "провулок Володимира Усенка, 19"
+ },
+ {
+  "id": 144648,
+  "postcode": 61093,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 3995,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1864896618,
+  "lati": 49.9855063635,
+  "FullNameUA": "провулок Володимира Усенка, 25"
+ },
+ {
+  "id": 144649,
+  "postcode": 61093,
+  "number": 25,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3995,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1862528304,
+  "lati": 49.985789351300006,
+  "FullNameUA": "провулок Володимира Усенка, 25-А"
+ }
+]

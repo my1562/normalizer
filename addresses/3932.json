@@ -1,0 +1,27 @@
+[
+ {
+  "id": 165828,
+  "postcode": 61030,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.248471542800004,
+  "lati": 49.9646979869,
+  "FullNameUA": "в'їзд Сіверськодонецький, 4"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "id": 179849,
+  "postcode": 61032,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7454,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4324866235,
+  "lati": 49.9364159723,
+  "FullNameUA": "вулиця Сонячна (сел. Затишшя (БМП-166)), 7"
+ },
+ {
+  "id": 179850,
+  "postcode": 61032,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 7454,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4329077303,
+  "lati": 49.9363244746,
+  "FullNameUA": "вулиця Сонячна (сел. Затишшя (БМП-166)), 9"
+ }
+]

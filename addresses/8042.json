@@ -1,0 +1,52 @@
+[
+ {
+  "id": 179524,
+  "postcode": 61026,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 8042,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3744342327,
+  "lati": 49.9783562618,
+  "FullNameUA": "вулиця Кулиничівська (сел. Кулиничі), 17"
+ },
+ {
+  "id": 180318,
+  "postcode": 61026,
+  "number": 79,
+  "suffix": "А",
+  "block": "",
+  "streetid": 8042,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.02.2019 11:55:18",
+  "longt": 36.3834249435,
+  "lati": 49.982297358400004,
+  "FullNameUA": "вулиця Кулиничівська (сел. Кулиничі), 79-А"
+ }
+]

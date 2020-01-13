@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131948,
+  "postcode": 61038,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2191,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3001767765,
+  "lati": 49.9951260243,
+  "FullNameUA": "в'їзд Білостоцький, 2"
+ },
+ {
+  "id": 131949,
+  "postcode": 61038,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2191,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2994896673,
+  "lati": 49.9944276425,
+  "FullNameUA": "в'їзд Білостоцький, 3"
+ }
+]

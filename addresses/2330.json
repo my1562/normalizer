@@ -1,0 +1,77 @@
+[
+ {
+  "id": 121396,
+  "postcode": 61033,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.277646457500005,
+  "lati": 50.0051760476,
+  "FullNameUA": "провулок Винахідницький, 3"
+ },
+ {
+  "id": 121397,
+  "postcode": 61033,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.277504092,
+  "lati": 50.0049538193,
+  "FullNameUA": "провулок Винахідницький, 4"
+ },
+ {
+  "id": 121395,
+  "postcode": 61033,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.277705560200005,
+  "lati": 50.0050104974,
+  "FullNameUA": "провулок Винахідницький, 5"
+ }
+]

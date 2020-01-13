@@ -1,0 +1,77 @@
+[
+ {
+  "id": 161536,
+  "postcode": 61009,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2688,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2412627696,
+  "lati": 49.9414448402,
+  "FullNameUA": "в'їзд Заводський, 1"
+ },
+ {
+  "id": 161537,
+  "postcode": 61009,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2688,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.241261713700005,
+  "lati": 49.9417450348,
+  "FullNameUA": "в'їзд Заводський, 2"
+ },
+ {
+  "id": 161538,
+  "postcode": 61009,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2688,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.241828098700005,
+  "lati": 49.9416239324,
+  "FullNameUA": "в'їзд Заводський, 3"
+ }
+]

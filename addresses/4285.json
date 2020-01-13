@@ -1,0 +1,77 @@
+[
+ {
+  "id": 166590,
+  "postcode": 61010,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4285,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.233500144100006,
+  "lati": 49.9737142738,
+  "FullNameUA": "в'їзд Цигарівський, 4"
+ },
+ {
+  "id": 166591,
+  "postcode": 61010,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4285,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2338192245,
+  "lati": 49.973835757799996,
+  "FullNameUA": "в'їзд Цигарівський, 6"
+ },
+ {
+  "id": 166592,
+  "postcode": 61010,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4285,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23411617,
+  "lati": 49.9738377984,
+  "FullNameUA": "в'їзд Цигарівський, 8"
+ }
+]

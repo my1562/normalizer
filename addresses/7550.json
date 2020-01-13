@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176699,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 7550,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3508188153,
+  "lati": 50.045265650699996,
+  "FullNameUA": "провулок Дружби (сел. Циркуни), 5"
+ },
+ {
+  "id": 176701,
+  "postcode": 61013,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 7550,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3505010471,
+  "lati": 50.0453483471,
+  "FullNameUA": "провулок Дружби (сел. Циркуни), 6"
+ }
+]

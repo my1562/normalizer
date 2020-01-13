@@ -1,0 +1,77 @@
+[
+ {
+  "id": 150188,
+  "postcode": 61019,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2841,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.136054463600004,
+  "lati": 49.9478436051,
+  "FullNameUA": "в'їзд Катаєва, 1"
+ },
+ {
+  "id": 150189,
+  "postcode": 61019,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2841,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1361084842,
+  "lati": 49.948057514199995,
+  "FullNameUA": "в'їзд Катаєва, 2"
+ },
+ {
+  "id": 150190,
+  "postcode": 61019,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2841,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1357824585,
+  "lati": 49.9479063301,
+  "FullNameUA": "в'їзд Катаєва, 3"
+ }
+]

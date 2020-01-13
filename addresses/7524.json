@@ -1,0 +1,102 @@
+[
+ {
+  "id": 176735,
+  "postcode": 61090,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7524,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.132128834700005,
+  "lati": 49.9287545971,
+  "FullNameUA": "провулок Вознесенський (сел. Пісочин), 1"
+ },
+ {
+  "id": 176733,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7524,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.132611632300005,
+  "lati": 49.9281088278,
+  "FullNameUA": "провулок Вознесенський (сел. Пісочин), 4"
+ },
+ {
+  "id": 176732,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 7524,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.132992506,
+  "lati": 49.928630278600004,
+  "FullNameUA": "провулок Вознесенський (сел. Пісочин), 5"
+ },
+ {
+  "id": 176734,
+  "postcode": 61090,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7524,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.133416295100005,
+  "lati": 49.9285853857,
+  "FullNameUA": "провулок Вознесенський (сел. Пісочин), 7"
+ }
+]

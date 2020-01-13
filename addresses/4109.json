@@ -1,0 +1,102 @@
+[
+ {
+  "id": 166129,
+  "postcode": 61030,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2505000588,
+  "lati": 49.9588917155,
+  "FullNameUA": "провулок Тетянівський, 4"
+ },
+ {
+  "id": 166130,
+  "postcode": 61030,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2500973408,
+  "lati": 49.958550528100005,
+  "FullNameUA": "провулок Тетянівський, 9"
+ },
+ {
+  "id": 166131,
+  "postcode": 61030,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 4109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2501039965,
+  "lati": 49.9587436154,
+  "FullNameUA": "провулок Тетянівський, 11"
+ },
+ {
+  "id": 166132,
+  "postcode": 61030,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4109,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2499773532,
+  "lati": 49.95887132,
+  "FullNameUA": "провулок Тетянівський, 13"
+ }
+]

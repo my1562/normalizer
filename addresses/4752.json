@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131185,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4752,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "09.04.2019 17:40:40",
+  "longt": 36.3047239599,
+  "lati": 50.051691708300005,
+  "FullNameUA": "набережна Очеретянська, 3"
+ },
+ {
+  "id": 131186,
+  "postcode": 61107,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 4752,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "09.04.2019 17:42:59",
+  "longt": 36.3067810073,
+  "lati": 50.0521667817,
+  "FullNameUA": "набережна Очеретянська, 11"
+ }
+]

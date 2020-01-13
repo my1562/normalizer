@@ -1,0 +1,52 @@
+[
+ {
+  "id": 157900,
+  "postcode": 61090,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1735, 24.12.2014",
+  "reg_date": "",
+  "longt": 36.134594853500005,
+  "lati": 49.9333778299,
+  "FullNameUA": "проїзд Жилинський 3-й, 2"
+ },
+ {
+  "id": 157901,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4783,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "257, 06.07.2016",
+  "reg_date": "",
+  "longt": 36.134215396100004,
+  "lati": 49.9334210866,
+  "FullNameUA": "проїзд Жилинський 3-й, 4"
+ }
+]

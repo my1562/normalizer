@@ -1,0 +1,77 @@
+[
+ {
+  "id": 179856,
+  "postcode": 61138,
+  "number": 62,
+  "suffix": "",
+  "block": "",
+  "streetid": 7435,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3982066512,
+  "lati": 49.9214045752,
+  "FullNameUA": "вулиця Зеленодільська (Хроли (Логачівка-2)), 62"
+ },
+ {
+  "id": 176153,
+  "postcode": 61138,
+  "number": 67,
+  "suffix": "",
+  "block": "",
+  "streetid": 7435,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.396280048,
+  "lati": 49.921883789700004,
+  "FullNameUA": "вулиця Зеленодільська (Хроли (Логачівка-2)), 67"
+ },
+ {
+  "id": 176269,
+  "postcode": 61138,
+  "number": 69,
+  "suffix": "",
+  "block": "",
+  "streetid": 7435,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3955048859,
+  "lati": 49.9221396291,
+  "FullNameUA": "вулиця Зеленодільська (Хроли (Логачівка-2)), 69"
+ }
+]

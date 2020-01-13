@@ -1,0 +1,102 @@
+[
+ {
+  "id": 108696,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4718,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.3730608153,
+  "lati": 49.9789448599,
+  "FullNameUA": "в'їзд Кулиничівський, 1"
+ },
+ {
+  "id": 108697,
+  "postcode": 61026,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4718,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 717, 06.11.13",
+  "reg_date": "06.11.2013 00:00:00",
+  "longt": 36.3735473124,
+  "lati": 49.9783182984,
+  "FullNameUA": "в'їзд Кулиничівський, 2"
+ },
+ {
+  "id": 108698,
+  "postcode": 61026,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4718,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 717, 06.11.13",
+  "reg_date": "06.11.2013 00:00:00",
+  "longt": 36.3733548977,
+  "lati": 49.9789552217,
+  "FullNameUA": "в'їзд Кулиничівський, 3"
+ },
+ {
+  "id": 108699,
+  "postcode": 61026,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4718,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 717, 06.11.13",
+  "reg_date": "06.11.2013 00:00:00",
+  "longt": 36.373841601799995,
+  "lati": 49.978928677999996,
+  "FullNameUA": "в'їзд Кулиничівський, 4"
+ }
+]

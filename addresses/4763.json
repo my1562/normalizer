@@ -1,0 +1,102 @@
+[
+ {
+  "id": 157878,
+  "postcode": 61019,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4763,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 809, 11.12.13",
+  "reg_date": "11.12.2013 00:00:00",
+  "longt": 36.128241173599996,
+  "lati": 49.953250048,
+  "FullNameUA": "в'їзд Пісочинський, 1"
+ },
+ {
+  "id": 157879,
+  "postcode": 61019,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4763,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 809, 11.12.13",
+  "reg_date": "11.06.2018 10:20:54",
+  "longt": 36.128198757899995,
+  "lati": 49.952861160400005,
+  "FullNameUA": "в'їзд Пісочинський, 2"
+ },
+ {
+  "id": 157880,
+  "postcode": 61019,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4763,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 809, 11.12.13",
+  "reg_date": "11.12.2013 00:00:00",
+  "longt": 36.1285526859,
+  "lati": 49.953243756400006,
+  "FullNameUA": "в'їзд Пісочинський, 3"
+ },
+ {
+  "id": 157881,
+  "postcode": 61019,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4763,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 809, 11.12.13",
+  "reg_date": "11.12.2013 00:00:00",
+  "longt": 36.1287585145,
+  "lati": 49.953008036,
+  "FullNameUA": "в'їзд Пісочинський, 4"
+ }
+]

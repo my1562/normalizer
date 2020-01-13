@@ -1,0 +1,102 @@
+[
+ {
+  "id": 131313,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4881,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3271106789,
+  "lati": 50.0367426352,
+  "FullNameUA": "в'їзд Піщаний 1-й, 1"
+ },
+ {
+  "id": 131314,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4881,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3268254533,
+  "lati": 50.0370805534,
+  "FullNameUA": "в'їзд Піщаний 1-й, 3"
+ },
+ {
+  "id": 131315,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4881,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3266813791,
+  "lati": 50.0372625745,
+  "FullNameUA": "в'їзд Піщаний 1-й, 4"
+ },
+ {
+  "id": 131317,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4881,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3267770705,
+  "lati": 50.0367848466,
+  "FullNameUA": "в'їзд Піщаний 1-й, 8"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 158698,
+  "postcode": 61140,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2268,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "11.03.2019 16:17:15",
+  "longt": 36.2541224525,
+  "lati": 49.9708128985,
+  "FullNameUA": "вулиця Бутлерівська, 1"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 149932,
+  "postcode": 61020,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2811,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1769185204,
+  "lati": 49.952794153300005,
+  "FullNameUA": "провулок Канатний, 2"
+ },
+ {
+  "id": 149933,
+  "postcode": 61020,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2811,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1771917481,
+  "lati": 49.9531490776,
+  "FullNameUA": "провулок Канатний, 4"
+ },
+ {
+  "id": 149934,
+  "postcode": 61020,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2811,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1773621198,
+  "lati": 49.953253107,
+  "FullNameUA": "провулок Канатний, 6"
+ }
+]

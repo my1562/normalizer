@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179434,
+  "postcode": 61107,
+  "number": 74,
+  "suffix": "",
+  "block": "",
+  "streetid": 7532,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3492290975,
+  "lati": 50.041619588399996,
+  "FullNameUA": "провулок Гаражний (сел. Циркуни), 74"
+ }
+]

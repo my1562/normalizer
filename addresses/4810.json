@@ -1,0 +1,102 @@
+[
+ {
+  "id": 131276,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4810,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.01.2019 16:34:43",
+  "longt": 36.3295350334,
+  "lati": 50.05248004640001,
+  "FullNameUA": "провулок Ландау, 1"
+ },
+ {
+  "id": 131277,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4810,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "15.10.2014 00:00:00",
+  "longt": 36.3289546282,
+  "lati": 50.052152246400006,
+  "FullNameUA": "провулок Ландау, 2"
+ },
+ {
+  "id": 176215,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4810,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3297969858,
+  "lati": 50.0522143971,
+  "FullNameUA": "провулок Ландау, 3"
+ },
+ {
+  "id": 131278,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4810,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.01.2019 15:30:47",
+  "longt": 36.329257686300004,
+  "lati": 50.05190043700001,
+  "FullNameUA": "провулок Ландау, 4"
+ }
+]

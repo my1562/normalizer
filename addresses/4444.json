@@ -1,0 +1,27 @@
+[
+ {
+  "id": 171049,
+  "postcode": 61105,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4444,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.273827521600005,
+  "lati": 49.945945136,
+  "FullNameUA": "вулиця Щукіна, 1"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 134191,
+  "postcode": 61001,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3088,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2579678302,
+  "lati": 49.9939042621,
+  "FullNameUA": "провулок Ладозький, 1-А"
+ },
+ {
+  "id": 134192,
+  "postcode": 61001,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3088,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2584011875,
+  "lati": 49.9935227065,
+  "FullNameUA": "провулок Ладозький, 4"
+ },
+ {
+  "id": 134193,
+  "postcode": 61001,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3088,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2584687891,
+  "lati": 49.9937437746,
+  "FullNameUA": "провулок Ладозький, 6"
+ },
+ {
+  "id": 178040,
+  "postcode": 61001,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3088,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2586553462,
+  "lati": 49.993800381,
+  "FullNameUA": "провулок Ладозький, 8"
+ }
+]

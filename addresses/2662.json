@@ -1,0 +1,102 @@
+[
+ {
+  "id": 139753,
+  "postcode": 61017,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 2662,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1965220886,
+  "lati": 50.0051414483,
+  "FullNameUA": "провулок Жигулівський, 48"
+ },
+ {
+  "id": 139754,
+  "postcode": 61017,
+  "number": 48,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2662,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.196582988799996,
+  "lati": 50.0050656151,
+  "FullNameUA": "провулок Жигулівський, 48-А"
+ },
+ {
+  "id": 139755,
+  "postcode": 61017,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 2662,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.196597254699995,
+  "lati": 50.0053545002,
+  "FullNameUA": "провулок Жигулівський, 49"
+ },
+ {
+  "id": 139756,
+  "postcode": 61017,
+  "number": 50,
+  "suffix": "",
+  "block": "",
+  "streetid": 2662,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1962994305,
+  "lati": 50.0054285334,
+  "FullNameUA": "провулок Жигулівський, 50"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177507,
+  "postcode": 61030,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3524,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "адреса юр. особи",
+  "reg_date": "",
+  "longt": 36.2243684485,
+  "lati": 49.951485687200005,
+  "FullNameUA": "вулиця Охтирська, 15"
+ }
+]

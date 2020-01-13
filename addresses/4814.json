@@ -1,0 +1,102 @@
+[
+ {
+  "id": 171677,
+  "postcode": 61096,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.01.2019 16:23:46",
+  "longt": 36.3217143839,
+  "lati": 49.9333075334,
+  "FullNameUA": "провулок Орільський, 1"
+ },
+ {
+  "id": 171678,
+  "postcode": 61096,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.01.2019 16:19:06",
+  "longt": 36.3220598054,
+  "lati": 49.933159094,
+  "FullNameUA": "провулок Орільський, 3"
+ },
+ {
+  "id": 171679,
+  "postcode": 61096,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.01.2019 16:11:39",
+  "longt": 36.3224689037,
+  "lati": 49.9331650935,
+  "FullNameUA": "провулок Орільський, 5"
+ },
+ {
+  "id": 181356,
+  "postcode": 61096,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4814,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3220284318,
+  "lati": 49.9326010315,
+  "FullNameUA": "провулок Орільський, 14"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 119461,
+  "postcode": 61070,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "568, 03.08.2011",
+  "reg_date": "16.01.2019 15:44:49",
+  "longt": 36.264624862199994,
+  "lati": 50.0527579481,
+  "FullNameUA": "провулок Тульський, 1"
+ }
+]

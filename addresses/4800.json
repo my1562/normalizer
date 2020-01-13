@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178700,
+  "postcode": 61051,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4800,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 4, п. 2",
+  "reg_date": "25.01.2018 10:28:13",
+  "longt": 36.1865850094,
+  "lati": 50.0371589351,
+  "FullNameUA": "провулок Буковий, 10"
+ },
+ {
+  "id": 175431,
+  "postcode": 61051,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 4800,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 679, 05.11.2014; Рішення ХМР № 549, 22.02.2017, дод. 3, п. 1",
+  "reg_date": "05.12.2016 10:21:33",
+  "longt": 36.1881664515,
+  "lati": 50.0354634257,
+  "FullNameUA": "провулок Буковий, 27"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 119928,
+  "postcode": 61070,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4843,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.01.2019 11:48:20",
+  "longt": 36.266415398,
+  "lati": 50.0569657997,
+  "FullNameUA": "в'їзд Нескучний 1-й, 8"
+ }
+]

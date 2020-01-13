@@ -1,0 +1,27 @@
+[
+ {
+  "id": 160466,
+  "postcode": 61010,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 2598,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2440981421,
+  "lati": 49.9815329664,
+  "FullNameUA": "провулок Донецький, 18"
+ }
+]

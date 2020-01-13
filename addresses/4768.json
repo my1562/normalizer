@@ -1,0 +1,27 @@
+[
+ {
+  "id": 146713,
+  "postcode": 61019,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4768,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "05.04.2019 16:34:55",
+  "longt": 36.129999814399994,
+  "lati": 49.969147780600004,
+  "FullNameUA": "провулок Надточіївський, 2"
+ }
+]

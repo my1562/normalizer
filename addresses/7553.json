@@ -1,0 +1,27 @@
+[
+ {
+  "id": 178503,
+  "postcode": 61195,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7553,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "перейменовано",
+  "reg_date": "",
+  "longt": 36.3597613777,
+  "lati": 50.0431184651,
+  "FullNameUA": "вулиця Приміська (сел. Кулиничі), 6-А"
+ }
+]

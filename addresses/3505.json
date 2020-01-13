@@ -1,0 +1,77 @@
+[
+ {
+  "id": 104557,
+  "postcode": 61091,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3505,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3300647262,
+  "lati": 49.9511363251,
+  "FullNameUA": "проїзд Осипенко, 4"
+ },
+ {
+  "id": 104558,
+  "postcode": 61091,
+  "number": 6,
+  "suffix": "/62",
+  "block": "",
+  "streetid": 3505,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.330347221299995,
+  "lati": 49.95095913,
+  "FullNameUA": "проїзд Осипенко, 6/62"
+ },
+ {
+  "id": 104560,
+  "postcode": 61091,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3505,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3309770538,
+  "lati": 49.9505989414,
+  "FullNameUA": "проїзд Осипенко, 10"
+ }
+]

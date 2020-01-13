@@ -1,0 +1,102 @@
+[
+ {
+  "id": 114369,
+  "postcode": 61026,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 480, 24.07.2013",
+  "reg_date": "04.06.2018 11:42:47",
+  "longt": 36.4112219734,
+  "lati": 49.9688926067,
+  "FullNameUA": "провулок Шиллінгера, 4"
+ },
+ {
+  "id": 114370,
+  "postcode": 61026,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 271, 24.04.2013",
+  "reg_date": "24.04.2013 00:00:00",
+  "longt": 36.411522374300006,
+  "lati": 49.9691332146,
+  "FullNameUA": "провулок Шиллінгера, 6"
+ },
+ {
+  "id": 114371,
+  "postcode": 61026,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 271, 24.04.2013",
+  "reg_date": "24.04.2013 00:00:00",
+  "longt": 36.41167088660001,
+  "lati": 49.9692497204,
+  "FullNameUA": "провулок Шиллінгера, 8"
+ },
+ {
+  "id": 114372,
+  "postcode": 61026,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 271, 24.04.2013; Рішення ХМР № 732, 20.09.2017, дод. 1, п. 20",
+  "reg_date": "20.10.2017 16:19:19",
+  "longt": 36.411947608000006,
+  "lati": 49.9693481644,
+  "FullNameUA": "провулок Шиллінгера, 10"
+ }
+]

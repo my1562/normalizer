@@ -1,0 +1,52 @@
+[
+ {
+  "id": 118974,
+  "postcode": 61058,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3861,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.232182434200006,
+  "lati": 50.011709656499995,
+  "FullNameUA": "провулок Самокіша, 2-А"
+ },
+ {
+  "id": 118975,
+  "postcode": 61058,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3861,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.231631333200006,
+  "lati": 50.012157020699995,
+  "FullNameUA": "провулок Самокіша, 3"
+ }
+]

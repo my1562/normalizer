@@ -1,0 +1,102 @@
+[
+ {
+  "id": 154743,
+  "postcode": 61004,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3759,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2186375931,
+  "lati": 49.983072202200006,
+  "FullNameUA": "провулок Райрадівський, 1"
+ },
+ {
+  "id": 154744,
+  "postcode": 61004,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3759,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2206035294,
+  "lati": 49.982197877100006,
+  "FullNameUA": "провулок Райрадівський, 3"
+ },
+ {
+  "id": 154745,
+  "postcode": 61004,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3759,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2207267106,
+  "lati": 49.9817076308,
+  "FullNameUA": "провулок Райрадівський, 5"
+ },
+ {
+  "id": 154746,
+  "postcode": 61004,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3759,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2206683196,
+  "lati": 49.9818457064,
+  "FullNameUA": "провулок Райрадівський, 5-А"
+ }
+]

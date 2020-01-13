@@ -1,0 +1,52 @@
+[
+ {
+  "id": 146947,
+  "postcode": 61019,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2096,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.1458042889,
+  "lati": 49.9485226884,
+  "FullNameUA": "в'їзд Архангельський, 4"
+ },
+ {
+  "id": 146948,
+  "postcode": 61019,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2096,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1459689451,
+  "lati": 49.948293637999996,
+  "FullNameUA": "в'їзд Архангельський, 8"
+ }
+]

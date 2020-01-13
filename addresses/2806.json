@@ -1,0 +1,27 @@
+[
+ {
+  "id": 149891,
+  "postcode": 61098,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2806,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1772539938,
+  "lati": 49.9789053219,
+  "FullNameUA": "провулок Каляєва, 3"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177431,
+  "postcode": 61107,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 7536,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.339906520199996,
+  "lati": 50.052609737400005,
+  "FullNameUA": "вулиця Гранітна (сел. Циркуни), 25"
+ }
+]

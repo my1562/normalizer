@@ -1,0 +1,77 @@
+[
+ {
+  "id": 119545,
+  "postcode": 61145,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4269,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
+  "reg_date": "",
+  "longt": 36.2173935771,
+  "lati": 50.0081604851,
+  "FullNameUA": "провулок Херсонський, 1-Б"
+ },
+ {
+  "id": 178514,
+  "postcode": 61145,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4269,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
+  "reg_date": "",
+  "longt": 36.2172843167,
+  "lati": 50.0087194727,
+  "FullNameUA": "провулок Херсонський, 7"
+ },
+ {
+  "id": 119546,
+  "postcode": 61145,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4269,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
+  "reg_date": "",
+  "longt": 36.2170314789,
+  "lati": 50.0089103314,
+  "FullNameUA": "провулок Херсонський, 9"
+ }
+]

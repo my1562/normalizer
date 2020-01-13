@@ -1,0 +1,77 @@
+[
+ {
+  "id": 150571,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2890,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2212119321,
+  "lati": 49.9856633603,
+  "FullNameUA": "провулок Клещівський, 3"
+ },
+ {
+  "id": 150572,
+  "postcode": 61052,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2890,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2208211946,
+  "lati": 49.985733086900005,
+  "FullNameUA": "провулок Клещівський, 4"
+ },
+ {
+  "id": 150573,
+  "postcode": 61052,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2890,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2209839983,
+  "lati": 49.985837439600004,
+  "FullNameUA": "провулок Клещівський, 5"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 101315,
+  "postcode": 61046,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3393749189,
+  "lati": 49.943485988199996,
+  "FullNameUA": "в'їзд Високовольтний 1-й, 1"
+ },
+ {
+  "id": 101316,
+  "postcode": 61046,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.336041845699995,
+  "lati": 49.9478142371,
+  "FullNameUA": "в'їзд Високовольтний 1-й, 3"
+ },
+ {
+  "id": 101317,
+  "postcode": 61046,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.336190871999996,
+  "lati": 49.947620248099994,
+  "FullNameUA": "в'їзд Високовольтний 1-й, 4"
+ },
+ {
+  "id": 101318,
+  "postcode": 61046,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3363831405,
+  "lati": 49.9477138899,
+  "FullNameUA": "в'їзд Високовольтний 1-й, 6"
+ }
+]

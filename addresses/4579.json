@@ -1,0 +1,52 @@
+[
+ {
+  "id": 167297,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.242545287300004,
+  "lati": 49.9219819231,
+  "FullNameUA": "в'їзд Кутаїський 2-й, 1"
+ },
+ {
+  "id": 167298,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2422121334,
+  "lati": 49.9220575718,
+  "FullNameUA": "в'їзд Кутаїський 2-й, 3"
+ }
+]

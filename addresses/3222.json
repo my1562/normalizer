@@ -1,0 +1,102 @@
+[
+ {
+  "id": 134447,
+  "postcode": 61038,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3222,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.308241925000004,
+  "lati": 49.9808813404,
+  "FullNameUA": "провулок Матеріалістичний, 3"
+ },
+ {
+  "id": 134448,
+  "postcode": 61038,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3222,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.308761946400004,
+  "lati": 49.980615872600005,
+  "FullNameUA": "провулок Матеріалістичний, 4"
+ },
+ {
+  "id": 134449,
+  "postcode": 61038,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3222,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.308511389,
+  "lati": 49.981131388600005,
+  "FullNameUA": "провулок Матеріалістичний, 5"
+ },
+ {
+  "id": 134450,
+  "postcode": 61038,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3222,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3090230278,
+  "lati": 49.980851690200005,
+  "FullNameUA": "провулок Матеріалістичний, 6"
+ }
+]

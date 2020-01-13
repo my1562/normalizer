@@ -1,0 +1,102 @@
+[
+ {
+  "id": 125579,
+  "postcode": 61002,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3317,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.03.2019 15:03:19",
+  "longt": 36.239856291,
+  "lati": 49.9923760987,
+  "FullNameUA": "в'їзд Музичний, 2"
+ },
+ {
+  "id": 180501,
+  "postcode": 61002,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3317,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23983973400001,
+  "lati": 49.9920145712,
+  "FullNameUA": "в'їзд Музичний, 2"
+ },
+ {
+  "id": 180502,
+  "postcode": 61002,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3317,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля літ. \"А-2-3\" - навчальний корпус, нежитлова будівля літ. \"В-1\" - гараж",
+  "confrm": "",
+  "reg_date": "28.03.2019 15:19:34",
+  "longt": 36.239856267300006,
+  "lati": 49.9923713413,
+  "FullNameUA": "в'їзд Музичний, 4"
+ },
+ {
+  "id": 125580,
+  "postcode": 61057,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3317,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.240525882200004,
+  "lati": 49.991773536100006,
+  "FullNameUA": "в'їзд Музичний, 6"
+ }
+]

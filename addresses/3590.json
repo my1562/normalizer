@@ -1,0 +1,77 @@
+[
+ {
+  "id": 143236,
+  "postcode": 61052,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3590,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.224682487399996,
+  "lati": 49.9936768068,
+  "FullNameUA": "вулиця Пискунівська, 2"
+ },
+ {
+  "id": 143237,
+  "postcode": 61052,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 3590,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2192302324,
+  "lati": 49.9938710227,
+  "FullNameUA": "вулиця Пискунівська, 11"
+ },
+ {
+  "id": 143238,
+  "postcode": 61052,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3590,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2188592282,
+  "lati": 49.9944336839,
+  "FullNameUA": "вулиця Пискунівська, 12"
+ }
+]

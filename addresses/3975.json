@@ -1,0 +1,102 @@
+[
+ {
+  "id": 119102,
+  "postcode": 61070,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3975,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.256484298,
+  "lati": 50.0292467772,
+  "FullNameUA": "вулиця Сокільницька, 10"
+ },
+ {
+  "id": 119103,
+  "postcode": 61070,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 3975,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2575850807,
+  "lati": 50.0279098649,
+  "FullNameUA": "вулиця Сокільницька, 28"
+ },
+ {
+  "id": 119104,
+  "postcode": 61070,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 3975,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2593448441,
+  "lati": 50.0281587954,
+  "FullNameUA": "вулиця Сокільницька, 30"
+ },
+ {
+  "id": 119105,
+  "postcode": 61070,
+  "number": 40,
+  "suffix": "",
+  "block": "",
+  "streetid": 3975,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2569250856,
+  "lati": 50.0282162948,
+  "FullNameUA": "вулиця Сокільницька, 40"
+ }
+]

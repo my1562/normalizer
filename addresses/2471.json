@@ -1,0 +1,27 @@
+[
+ {
+  "id": 115668,
+  "postcode": 61057,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2471,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2319944819,
+  "lati": 49.9953465656,
+  "FullNameUA": "провулок Грабовського, 4"
+ }
+]

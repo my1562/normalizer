@@ -1,0 +1,77 @@
+[
+ {
+  "id": 143052,
+  "postcode": 61052,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3531,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.206525502400005,
+  "lati": 50.0000319909,
+  "FullNameUA": "проїзд Панасівський, 20-А"
+ },
+ {
+  "id": 143053,
+  "postcode": 61052,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3531,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2065957429,
+  "lati": 49.9997147459,
+  "FullNameUA": "проїзд Панасівський, 22"
+ },
+ {
+  "id": 143054,
+  "postcode": 61052,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 3531,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2062753366,
+  "lati": 49.999375842300005,
+  "FullNameUA": "проїзд Панасівський, 24"
+ }
+]

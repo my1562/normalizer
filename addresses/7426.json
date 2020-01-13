@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178182,
+  "postcode": 61108,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7426,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.263186931599996,
+  "lati": 50.096777545500004,
+  "FullNameUA": "провулок Підлісний (сел. Лісне), 4"
+ },
+ {
+  "id": 176118,
+  "postcode": 61108,
+  "number": 8,
+  "suffix": "/20",
+  "block": "",
+  "streetid": 7426,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.262262097,
+  "lati": 50.096955712900005,
+  "FullNameUA": "провулок Підлісний (сел. Лісне), 8/20"
+ }
+]

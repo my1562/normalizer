@@ -1,0 +1,102 @@
+[
+ {
+  "id": 149624,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2712,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1373287065,
+  "lati": 49.9316149346,
+  "FullNameUA": "провулок Звенигородський 2-й, 3"
+ },
+ {
+  "id": 149625,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2712,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.137176895100005,
+  "lati": 49.9312152524,
+  "FullNameUA": "провулок Звенигородський 2-й, 4"
+ },
+ {
+  "id": 149626,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2712,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.137536076500005,
+  "lati": 49.9315261893,
+  "FullNameUA": "провулок Звенигородський 2-й, 5"
+ },
+ {
+  "id": 149627,
+  "postcode": 61090,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2712,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1375757691,
+  "lati": 49.9311790861,
+  "FullNameUA": "провулок Звенигородський 2-й, 6"
+ }
+]

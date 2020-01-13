@@ -1,0 +1,102 @@
+[
+ {
+  "id": 147407,
+  "postcode": 61064,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2217,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1818716371,
+  "lati": 49.98127259540001,
+  "FullNameUA": "провулок Болгарський, 3"
+ },
+ {
+  "id": 147408,
+  "postcode": 61064,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2217,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1819784485,
+  "lati": 49.981132365,
+  "FullNameUA": "провулок Болгарський, 5"
+ },
+ {
+  "id": 147409,
+  "postcode": 61064,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2217,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1821739044,
+  "lati": 49.98083065870001,
+  "FullNameUA": "провулок Болгарський, 7"
+ },
+ {
+  "id": 147410,
+  "postcode": 61064,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2217,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1818016694,
+  "lati": 49.980409192100005,
+  "FullNameUA": "провулок Болгарський, 10"
+ }
+]

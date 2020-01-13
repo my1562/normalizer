@@ -1,0 +1,102 @@
+[
+ {
+  "id": 152433,
+  "postcode": 61020,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3185,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.165634946500006,
+  "lati": 49.9468973062,
+  "FullNameUA": "в'їзд Майкова, 2"
+ },
+ {
+  "id": 152434,
+  "postcode": 61020,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3185,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1656327617,
+  "lati": 49.9467730207,
+  "FullNameUA": "в'їзд Майкова, 2-А"
+ },
+ {
+  "id": 152435,
+  "postcode": 61020,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3185,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.16515301530001,
+  "lati": 49.9464313818,
+  "FullNameUA": "в'їзд Майкова, 3"
+ },
+ {
+  "id": 152436,
+  "postcode": 61020,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3185,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.165798604500004,
+  "lati": 49.946611696999994,
+  "FullNameUA": "в'їзд Майкова, 4"
+ }
+]

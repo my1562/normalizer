@@ -1,0 +1,52 @@
+[
+ {
+  "id": 162786,
+  "postcode": 61009,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3089,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.214946017100004,
+  "lati": 49.9376438567,
+  "FullNameUA": "провулок Лазарівський, 7"
+ },
+ {
+  "id": 162787,
+  "postcode": 61009,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 3089,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2152725019,
+  "lati": 49.9373007159,
+  "FullNameUA": "провулок Лазарівський, 11"
+ }
+]

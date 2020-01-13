@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177914,
+  "postcode": 61172,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 7468,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.4234509964,
+  "lati": 49.9007277249,
+  "FullNameUA": "вулиця Безлюдівська (сел. Комуніст), 2"
+ }
+]

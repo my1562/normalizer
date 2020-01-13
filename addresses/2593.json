@@ -1,0 +1,77 @@
+[
+ {
+  "id": 139481,
+  "postcode": 61177,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2593,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1423585984,
+  "lati": 49.978628278,
+  "FullNameUA": "проїзд Докучаєва 1-й, 3"
+ },
+ {
+  "id": 139482,
+  "postcode": 61177,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2593,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1421056722,
+  "lati": 49.9786194791,
+  "FullNameUA": "проїзд Докучаєва 1-й, 4"
+ },
+ {
+  "id": 139483,
+  "postcode": 61177,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2593,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1423537131,
+  "lati": 49.9784788444,
+  "FullNameUA": "проїзд Докучаєва 1-й, 5"
+ }
+]

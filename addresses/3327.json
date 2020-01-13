@@ -1,0 +1,52 @@
+[
+ {
+  "id": 163865,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3327,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.227842953,
+  "lati": 49.9825139515,
+  "FullNameUA": "провулок М'ясний, 3"
+ },
+ {
+  "id": 163866,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3327,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2274053707,
+  "lati": 49.982029555400004,
+  "FullNameUA": "провулок М'ясний, 5"
+ }
+]

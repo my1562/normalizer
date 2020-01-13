@@ -1,0 +1,102 @@
+[
+ {
+  "id": 165107,
+  "postcode": 61010,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3650,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.230310969600005,
+  "lati": 49.9738017051,
+  "FullNameUA": "в'їзд Полтавський, 1"
+ },
+ {
+  "id": 165108,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3650,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2302509188,
+  "lati": 49.974047991,
+  "FullNameUA": "в'їзд Полтавський, 3"
+ },
+ {
+  "id": 165110,
+  "postcode": 61010,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3650,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23015910470001,
+  "lati": 49.9742618859,
+  "FullNameUA": "в'їзд Полтавський, 4-А"
+ },
+ {
+  "id": 165109,
+  "postcode": 61010,
+  "number": 4,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 3650,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2311072548,
+  "lati": 49.9740508609,
+  "FullNameUA": "в'їзд Полтавський, 4/2"
+ }
+]

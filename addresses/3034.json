@@ -1,0 +1,102 @@
+[
+ {
+  "id": 151716,
+  "postcode": 61090,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3034,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1564486775,
+  "lati": 49.9366913207,
+  "FullNameUA": "в'їзд Крилова, 2"
+ },
+ {
+  "id": 151717,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3034,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1561675954,
+  "lati": 49.9368202481,
+  "FullNameUA": "в'їзд Крилова, 4"
+ },
+ {
+  "id": 151718,
+  "postcode": 61090,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3034,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1559773651,
+  "lati": 49.9369306689,
+  "FullNameUA": "в'їзд Крилова, 6"
+ },
+ {
+  "id": 151719,
+  "postcode": 61090,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3034,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.155806757,
+  "lati": 49.936774709,
+  "FullNameUA": "в'їзд Крилова, 8"
+ }
+]

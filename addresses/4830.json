@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177409,
+  "postcode": 61107,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 4830,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3322733009,
+  "lati": 50.043711533199996,
+  "FullNameUA": "вулиця Відрадна, 17"
+ }
+]

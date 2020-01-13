@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177451,
+  "postcode": 61089,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7476,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3755563486,
+  "lati": 49.927305057400005,
+  "FullNameUA": "вулиця Лермонтова (сел. Хроли (Логачівка-2)), 4"
+ }
+]

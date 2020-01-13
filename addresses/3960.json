@@ -1,0 +1,77 @@
+[
+ {
+  "id": 128098,
+  "postcode": 61003,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3960,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23586729590001,
+  "lati": 49.9899152476,
+  "FullNameUA": "провулок Слюсарний, 1"
+ },
+ {
+  "id": 175758,
+  "postcode": 61003,
+  "number": 1,
+  "suffix": "/11",
+  "block": "",
+  "streetid": 3960,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": " фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.23590417210001,
+  "lati": 49.989534902500004,
+  "FullNameUA": "провулок Слюсарний, 1/11"
+ },
+ {
+  "id": 128099,
+  "postcode": 61003,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3960,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 28, 18.01.2017 (квартира)",
+  "reg_date": "",
+  "longt": 36.2363004684,
+  "lati": 49.9906702344,
+  "FullNameUA": "провулок Слюсарний, 10"
+ }
+]

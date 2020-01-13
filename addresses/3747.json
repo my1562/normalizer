@@ -1,0 +1,102 @@
+[
+ {
+  "id": 154648,
+  "postcode": 61039,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1872487103,
+  "lati": 49.9667510298,
+  "FullNameUA": "в'їзд Раднянський, 1"
+ },
+ {
+  "id": 154649,
+  "postcode": 61039,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1870940322,
+  "lati": 49.9668385388,
+  "FullNameUA": "в'їзд Раднянський, 2"
+ },
+ {
+  "id": 154650,
+  "postcode": 61039,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1868823764,
+  "lati": 49.966555377700004,
+  "FullNameUA": "в'їзд Раднянський, 3"
+ },
+ {
+  "id": 154651,
+  "postcode": 61039,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1868341969,
+  "lati": 49.9667013006,
+  "FullNameUA": "в'їзд Раднянський, 4"
+ }
+]

@@ -7,9 +7,17 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Normalize",
             "skipFiles": ["<node_internals>/**"],
             "program": "${workspaceFolder}/tasks/normalize.js",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Load addresses",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${workspaceFolder}/tasks/load-addresses.js",
             "console": "integratedTerminal"
         }
     ]

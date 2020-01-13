@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179709,
+  "postcode": 61090,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 7516,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.164755707000005,
+  "lati": 49.919808113500004,
+  "FullNameUA": "вулиця Радгоспна (сел. Покотилівка), 2"
+ }
+]

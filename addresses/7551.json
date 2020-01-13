@@ -1,0 +1,52 @@
+[
+ {
+  "id": 180897,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 7551,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.06.2019 14:19:05",
+  "longt": 36.348715820900004,
+  "lati": 50.0435468047,
+  "FullNameUA": "вулиця Салтівська (сел. Циркуни), 8"
+ },
+ {
+  "id": 176351,
+  "postcode": 61107,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 7551,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.349529922,
+  "lati": 50.044455991599996,
+  "FullNameUA": "вулиця Салтівська (сел. Циркуни), 16"
+ }
+]

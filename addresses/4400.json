@@ -1,0 +1,77 @@
+[
+ {
+  "id": 119787,
+  "postcode": 61045,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4400,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2138156508,
+  "lati": 50.0316013144,
+  "FullNameUA": "провулок Шекспіра, 3"
+ },
+ {
+  "id": 119788,
+  "postcode": 61045,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4400,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2129253766,
+  "lati": 50.0319967483,
+  "FullNameUA": "провулок Шекспіра, 5"
+ },
+ {
+  "id": 119789,
+  "postcode": 61045,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4400,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2121132846,
+  "lati": 50.03222247,
+  "FullNameUA": "провулок Шекспіра, 7"
+ }
+]

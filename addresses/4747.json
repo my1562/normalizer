@@ -1,0 +1,77 @@
+[
+ {
+  "id": 119902,
+  "postcode": 61070,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 624, 02.10.2013",
+  "reg_date": "16.05.2018 14:57:09",
+  "longt": 36.2531283793,
+  "lati": 50.0657090547,
+  "FullNameUA": "вулиця Тиха Четверта, 5"
+ },
+ {
+  "id": 119903,
+  "postcode": 61070,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 625, 02.10.2013",
+  "reg_date": "16.05.2018 15:02:41",
+  "longt": 36.2531669545,
+  "lati": 50.066018198500004,
+  "FullNameUA": "вулиця Тиха Четверта, 7"
+ },
+ {
+  "id": 119904,
+  "postcode": 61070,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4747,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 623, 02.10.2013",
+  "reg_date": "16.05.2018 14:34:01",
+  "longt": 36.2531945026,
+  "lati": 50.0663368759,
+  "FullNameUA": "вулиця Тиха Четверта, 9"
+ }
+]

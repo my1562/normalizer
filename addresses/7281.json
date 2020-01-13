@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176986,
+  "postcode": 61045,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 7281,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1991305055,
+  "lati": 50.0301936155,
+  "FullNameUA": "в'їзд Петровського 2-й, 6"
+ },
+ {
+  "id": 176987,
+  "postcode": 61045,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 7281,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1992411225,
+  "lati": 50.0298054239,
+  "FullNameUA": "в'їзд Петровського 2-й, 12"
+ }
+]

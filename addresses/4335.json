@@ -1,0 +1,102 @@
+[
+ {
+  "id": 175869,
+  "postcode": 61002,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "869, 14.12.2016",
+  "reg_date": "05.01.2017 10:39:16",
+  "longt": 36.2483489513,
+  "lati": 49.9990191767,
+  "FullNameUA": "вулиця Кирпичова, 2"
+ },
+ {
+  "id": 180723,
+  "postcode": 61002,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "07.05.2019 10:12:13",
+  "longt": 36.247865479800005,
+  "lati": 49.999453008,
+  "FullNameUA": "вулиця Кирпичова, 5"
+ },
+ {
+  "id": 180724,
+  "postcode": 61002,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "07.05.2019 10:18:13",
+  "longt": 36.2481697049,
+  "lati": 49.999768722300004,
+  "FullNameUA": "вулиця Кирпичова, 9"
+ },
+ {
+  "id": 129667,
+  "postcode": 61002,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 4335,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "удалить",
+  "reg_date": "",
+  "longt": 36.2464606762,
+  "lati": 49.9983398663,
+  "FullNameUA": "вулиця Кирпичова, 16"
+ }
+]

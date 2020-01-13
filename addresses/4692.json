@@ -1,0 +1,52 @@
+[
+ {
+  "id": 171535,
+  "postcode": 61126,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4692,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.317773827100005,
+  "lati": 49.9283407741,
+  "FullNameUA": "провулок Кучеренка, 1"
+ },
+ {
+  "id": 171536,
+  "postcode": 61126,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4692,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.3178759485,
+  "lati": 49.9284606198,
+  "FullNameUA": "провулок Кучеренка, 3"
+ }
+]

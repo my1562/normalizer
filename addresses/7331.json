@@ -1,0 +1,102 @@
+[
+ {
+  "id": 175735,
+  "postcode": 61038,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.30183620260001,
+  "lati": 49.980551651000006,
+  "FullNameUA": "провулок Балаклавський, 3"
+ },
+ {
+  "id": 175734,
+  "postcode": 61038,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3015519006,
+  "lati": 49.980713302400005,
+  "FullNameUA": "провулок Балаклавський, 4"
+ },
+ {
+  "id": 175736,
+  "postcode": 61038,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 7331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.301666334900005,
+  "lati": 49.9804046133,
+  "FullNameUA": "провулок Балаклавський, 5"
+ },
+ {
+  "id": 175737,
+  "postcode": 61038,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.301549113200004,
+  "lati": 49.9802407875,
+  "FullNameUA": "провулок Балаклавський, 7"
+ }
+]

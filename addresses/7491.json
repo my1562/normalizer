@@ -1,0 +1,77 @@
+[
+ {
+  "id": 176668,
+  "postcode": 61096,
+  "number": 9,
+  "suffix": "/14",
+  "block": "",
+  "streetid": 7491,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3111956144,
+  "lati": 49.9332592426,
+  "FullNameUA": "вулиця Рєпіна (сел. Павленки), 9/14"
+ },
+ {
+  "id": 176667,
+  "postcode": 61096,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 7491,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3106289723,
+  "lati": 49.9333963487,
+  "FullNameUA": "вулиця Рєпіна (сел. Павленки), 11"
+ },
+ {
+  "id": 180119,
+  "postcode": 61096,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 7491,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.12.2018 15:04:48",
+  "longt": 36.3098144531,
+  "lati": 49.9339342518,
+  "FullNameUA": "вулиця Рєпіна (сел. Павленки), 18"
+ }
+]

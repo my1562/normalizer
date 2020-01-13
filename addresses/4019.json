@@ -1,0 +1,27 @@
+[
+ {
+  "id": 155465,
+  "postcode": 61020,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4019,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.164479197400006,
+  "lati": 49.956043153900005,
+  "FullNameUA": "в'їзд Станційний, 4"
+ }
+]

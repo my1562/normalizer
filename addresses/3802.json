@@ -1,0 +1,77 @@
+[
+ {
+  "id": 118891,
+  "postcode": 61058,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3802,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.220913904999996,
+  "lati": 49.998930559,
+  "FullNameUA": "проїзд Рогатинський, 3"
+ },
+ {
+  "id": 118893,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3802,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2200895902,
+  "lati": 49.9986252742,
+  "FullNameUA": "проїзд Рогатинський, 4-Б"
+ },
+ {
+  "id": 118892,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3802,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської райради 18_3, 06.02.2007",
+  "reg_date": "18.01.2019 12:16:32",
+  "longt": 36.2190290109,
+  "lati": 49.9975038858,
+  "FullNameUA": "проїзд Рогатинський, 4"
+ }
+]

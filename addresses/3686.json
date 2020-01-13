@@ -1,0 +1,102 @@
+[
+ {
+  "id": 143597,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3686,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.204540913,
+  "lati": 49.9889988369,
+  "FullNameUA": "майдан Привокзальний, 1"
+ },
+ {
+  "id": 176563,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3686,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2070977329,
+  "lati": 49.9897821615,
+  "FullNameUA": "майдан Привокзальний, 1-А"
+ },
+ {
+  "id": 143598,
+  "postcode": 61052,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3686,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2064606113,
+  "lati": 49.9902635873,
+  "FullNameUA": "майдан Привокзальний, 2"
+ },
+ {
+  "id": 143599,
+  "postcode": 61052,
+  "number": 2,
+  "suffix": "М",
+  "block": "",
+  "streetid": 3686,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
+  "reg_date": "18.06.2014 00:00:00",
+  "longt": 36.2051167571,
+  "lati": 49.9900397345,
+  "FullNameUA": "майдан Привокзальний, 2-М"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 181162,
+  "postcode": 61026,
+  "number": 77,
+  "suffix": "",
+  "block": "",
+  "streetid": 8040,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "27.11.2019 17:58:00",
+  "longt": 36.3934583423,
+  "lati": 50.000777317,
+  "FullNameUA": "вулиця Лаврика (сел. Кулиничі), 77"
+ },
+ {
+  "id": 180883,
+  "postcode": 61026,
+  "number": 85,
+  "suffix": "",
+  "block": "",
+  "streetid": 8040,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.06.2019 09:57:18",
+  "longt": 36.3950548628,
+  "lati": 50.0012800802,
+  "FullNameUA": "вулиця Лаврика (сел. Кулиничі), 85"
+ },
+ {
+  "id": 179506,
+  "postcode": 61026,
+  "number": 90,
+  "suffix": "",
+  "block": "",
+  "streetid": 8040,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4030373096,
+  "lati": 50.004584333,
+  "FullNameUA": "вулиця Лаврика (сел. Кулиничі), 90"
+ },
+ {
+  "id": 179526,
+  "postcode": 61026,
+  "number": 121,
+  "suffix": "",
+  "block": "",
+  "streetid": 8040,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.403809523999996,
+  "lati": 50.0053637129,
+  "FullNameUA": "вулиця Лаврика (сел. Кулиничі), 121"
+ }
+]

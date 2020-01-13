@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131326,
+  "postcode": 61038,
+  "number": 193,
+  "suffix": "",
+  "block": "",
+  "streetid": 2012,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3132177987,
+  "lati": 49.9958422343,
+  "FullNameUA": "вулиця Автострадна, 193"
+ },
+ {
+  "id": 131327,
+  "postcode": 61038,
+  "number": 195,
+  "suffix": "",
+  "block": "",
+  "streetid": 2012,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлові приміщення № 11-22 в літ. \"А-1\" СТО автомобілів",
+  "confrm": "371, 11.11.2008",
+  "reg_date": "15.01.2019 17:32:54",
+  "longt": 36.313284990700005,
+  "lati": 49.996134539500005,
+  "FullNameUA": "вулиця Автострадна, 195"
+ }
+]

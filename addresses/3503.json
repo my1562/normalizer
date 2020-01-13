@@ -1,0 +1,77 @@
+[
+ {
+  "id": 142995,
+  "postcode": 61016,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1788704499,
+  "lati": 50.0024664241,
+  "FullNameUA": "провулок Осетинський, 2-А"
+ },
+ {
+  "id": 142996,
+  "postcode": 61016,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1786169362,
+  "lati": 50.0023212918,
+  "FullNameUA": "провулок Осетинський, 4"
+ },
+ {
+  "id": 142997,
+  "postcode": 61016,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1783908275,
+  "lati": 50.002222977,
+  "FullNameUA": "провулок Осетинський, 6"
+ }
+]

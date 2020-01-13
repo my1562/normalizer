@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131307,
+  "postcode": 61108,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4872,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "виробнича будівля з адміністративними та складськими приміщеннями літ. \"В-1-7\"",
+  "confrm": "",
+  "reg_date": "20.01.2016 00:00:00",
+  "longt": 36.2427286792,
+  "lati": 50.089812163699996,
+  "FullNameUA": "вулиця Обреїмова, 12"
+ },
+ {
+  "id": 179737,
+  "postcode": 61108,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 4872,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "06.09.2018 17:13:29",
+  "longt": 36.2404974008,
+  "lati": 50.0912609704,
+  "FullNameUA": "вулиця Обреїмова, 20"
+ }
+]

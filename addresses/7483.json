@@ -1,0 +1,27 @@
+[
+ {
+  "id": 180401,
+  "postcode": 61162,
+  "number": 2,
+  "suffix": "/4",
+  "block": "",
+  "streetid": 7483,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "19.03.2019 11:52:34",
+  "longt": 36.3146424615,
+  "lati": 49.9309436272,
+  "FullNameUA": "провулок Богдана Хмельницького (сел. Павленки), 2/4"
+ }
+]

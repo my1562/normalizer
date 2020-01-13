@@ -1,0 +1,52 @@
+[
+ {
+  "id": 130284,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4408,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2878270461,
+  "lati": 50.03984137,
+  "FullNameUA": "провулок Шишківський, 12"
+ },
+ {
+  "id": 130285,
+  "postcode": 61070,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4408,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2878416909,
+  "lati": 50.0399480276,
+  "FullNameUA": "провулок Шишківський, 14"
+ }
+]

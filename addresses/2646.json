@@ -1,0 +1,102 @@
+[
+ {
+  "id": 122793,
+  "postcode": 61108,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2646,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2545565581,
+  "lati": 50.0869512424,
+  "FullNameUA": "проїзд Євпаторійський, 1"
+ },
+ {
+  "id": 122794,
+  "postcode": 61108,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2646,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.255095789,
+  "lati": 50.087453744499996,
+  "FullNameUA": "проїзд Євпаторійський, 2"
+ },
+ {
+  "id": 122795,
+  "postcode": 61108,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2646,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2542027867,
+  "lati": 50.0874237372,
+  "FullNameUA": "проїзд Євпаторійський, 3"
+ },
+ {
+  "id": 122796,
+  "postcode": 61108,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2646,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2535186849,
+  "lati": 50.0876800115,
+  "FullNameUA": "проїзд Євпаторійський, 5"
+ }
+]

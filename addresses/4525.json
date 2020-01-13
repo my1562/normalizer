@@ -1,0 +1,77 @@
+[
+ {
+  "id": 177580,
+  "postcode": 61105,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4525,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2794905658,
+  "lati": 49.9394551685,
+  "FullNameUA": "в'їзд Безперчого, 1"
+ },
+ {
+  "id": 177582,
+  "postcode": 61105,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4525,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.280130228000004,
+  "lati": 49.939024598,
+  "FullNameUA": "в'їзд Безперчого, 2"
+ },
+ {
+  "id": 177579,
+  "postcode": 61105,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4525,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2802098029,
+  "lati": 49.9395462032,
+  "FullNameUA": "в'їзд Безперчого, 5"
+ }
+]

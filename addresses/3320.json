@@ -1,0 +1,102 @@
+[
+ {
+  "id": 142310,
+  "postcode": 61093,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3320,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.195839421399995,
+  "lati": 49.994280902700005,
+  "FullNameUA": "провулок Озерянський, 4"
+ },
+ {
+  "id": 142311,
+  "postcode": 61093,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3320,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1954727789,
+  "lati": 49.994317151800004,
+  "FullNameUA": "провулок Озерянський, 6"
+ },
+ {
+  "id": 142312,
+  "postcode": 61093,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3320,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.19529744,
+  "lati": 49.9945513359,
+  "FullNameUA": "провулок Озерянський, 8"
+ },
+ {
+  "id": 142313,
+  "postcode": 61093,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3320,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1951990499,
+  "lati": 49.994672746300004,
+  "FullNameUA": "провулок Озерянський, 10"
+ }
+]

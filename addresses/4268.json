@@ -1,0 +1,102 @@
+[
+ {
+  "id": 119541,
+  "postcode": 61145,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4268,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
+  "reg_date": "",
+  "longt": 36.216174597700004,
+  "lati": 50.0078115449,
+  "FullNameUA": "вулиця Херсонська, 12"
+ },
+ {
+  "id": 119542,
+  "postcode": 61145,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 4268,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2149224351,
+  "lati": 50.0075997889,
+  "FullNameUA": "вулиця Херсонська, 16"
+ },
+ {
+  "id": 119543,
+  "postcode": 61145,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 4268,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
+  "reg_date": "",
+  "longt": 36.2146399676,
+  "lati": 50.0075741461,
+  "FullNameUA": "вулиця Херсонська, 18"
+ },
+ {
+  "id": 119544,
+  "postcode": 61145,
+  "number": 20,
+  "suffix": "/12",
+  "block": "",
+  "streetid": 4268,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2143296497,
+  "lati": 50.0075104951,
+  "FullNameUA": "вулиця Херсонська, 20/12"
+ }
+]

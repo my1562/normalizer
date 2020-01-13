@@ -1,0 +1,52 @@
+[
+ {
+  "id": 119925,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4813,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.01.2019 09:56:18",
+  "longt": 36.2635503984,
+  "lati": 50.057430137800004,
+  "FullNameUA": "вулиця Задорна, 3"
+ },
+ {
+  "id": 119926,
+  "postcode": 61070,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4813,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 820, 23.12.2014; Рішення ХМР № 859, 20.12.2017, дод. 2, п. 10",
+  "reg_date": "25.01.2018 12:29:26",
+  "longt": 36.263833110899995,
+  "lati": 50.058406281500005,
+  "FullNameUA": "вулиця Задорна, 6"
+ }
+]

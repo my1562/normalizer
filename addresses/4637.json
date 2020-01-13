@@ -1,0 +1,52 @@
+[
+ {
+  "id": 108496,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4637,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 628, 02.10.13",
+  "reg_date": "02.10.2013 00:00:00",
+  "longt": 36.3788602339,
+  "lati": 49.9808395493,
+  "FullNameUA": "провулок Кулиничівський, 1"
+ },
+ {
+  "id": 108497,
+  "postcode": 61026,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4637,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 628, 02.10.13",
+  "reg_date": "02.10.2013 00:00:00",
+  "longt": 36.3787709891,
+  "lati": 49.98098375240001,
+  "FullNameUA": "провулок Кулиничівський, 3"
+ }
+]

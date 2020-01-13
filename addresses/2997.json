@@ -1,0 +1,102 @@
+[
+ {
+  "id": 117043,
+  "postcode": 61145,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 2997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2188863509,
+  "lati": 50.0171963751,
+  "FullNameUA": "вулиця Коцюбинського, 12"
+ },
+ {
+  "id": 117044,
+  "postcode": 61145,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.218241058800004,
+  "lati": 50.016921383799996,
+  "FullNameUA": "вулиця Коцюбинського, 13"
+ },
+ {
+  "id": 117045,
+  "postcode": 61145,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.217644065,
+  "lati": 50.017536807,
+  "FullNameUA": "вулиця Коцюбинського, 15"
+ },
+ {
+  "id": 178721,
+  "postcode": 61145,
+  "number": 15,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.219228713,
+  "lati": 50.017917681499995,
+  "FullNameUA": "вулиця Коцюбинського, 15-А"
+ }
+]

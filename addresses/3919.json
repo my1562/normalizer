@@ -1,0 +1,77 @@
+[
+ {
+  "id": 165718,
+  "postcode": 61010,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3919,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2416655872,
+  "lati": 49.9776070275,
+  "FullNameUA": "провулок Сидельниківський, 18"
+ },
+ {
+  "id": 165719,
+  "postcode": 61010,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3919,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.243726108000004,
+  "lati": 49.9763788897,
+  "FullNameUA": "провулок Сидельниківський, 22"
+ },
+ {
+  "id": 165720,
+  "postcode": 61010,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 3919,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2438570066,
+  "lati": 49.976099968999996,
+  "FullNameUA": "провулок Сидельниківський, 24"
+ }
+]

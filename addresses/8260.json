@@ -1,0 +1,77 @@
+[
+ {
+  "id": 178883,
+  "postcode": 61026,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 8260,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 79, 14.02.2018",
+  "reg_date": "27.02.2018 15:25:26",
+  "longt": 36.379191718099996,
+  "lati": 49.991490383300004,
+  "FullNameUA": "вулиця Сьомої Гвардійської Армії (сел. Кулиничі), 3"
+ },
+ {
+  "id": 180317,
+  "postcode": 61026,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 8260,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.02.2019 11:43:07",
+  "longt": 36.382844818900004,
+  "lati": 49.985198924500004,
+  "FullNameUA": "вулиця Сьомої Гвардійської Армії (сел. Кулиничі), 9-А"
+ },
+ {
+  "id": 180315,
+  "postcode": 61026,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 8260,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.02.2019 11:31:55",
+  "longt": 36.3842911013,
+  "lati": 49.987530030500004,
+  "FullNameUA": "вулиця Сьомої Гвардійської Армії (сел. Кулиничі), 16"
+ }
+]

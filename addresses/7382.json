@@ -1,0 +1,52 @@
+[
+ {
+  "id": 180316,
+  "postcode": 61026,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7382,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "25.02.2019 11:40:00",
+  "longt": 36.384920517800005,
+  "lati": 49.986421847,
+  "FullNameUA": "вулиця Ювілейна (сел. Кулиничі), 2-А"
+ },
+ {
+  "id": 178886,
+  "postcode": 61026,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 7382,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 79, 14.02.2018",
+  "reg_date": "27.02.2018 16:43:29",
+  "longt": 36.389828126400005,
+  "lati": 49.98747287050001,
+  "FullNameUA": "вулиця Ювілейна (сел. Кулиничі), 10"
+ }
+]

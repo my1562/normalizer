@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178359,
+  "postcode": 61162,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 7482,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3167484322,
+  "lati": 49.9300505,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Павленки), 14"
+ },
+ {
+  "id": 179744,
+  "postcode": 61162,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 7482,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3185969911,
+  "lati": 49.929243856,
+  "FullNameUA": "вулиця Богдана Хмельницького (сел. Павленки), 26"
+ }
+]

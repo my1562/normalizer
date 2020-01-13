@@ -1,0 +1,52 @@
+[
+ {
+  "id": 126839,
+  "postcode": 61023,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3558,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2508292234,
+  "lati": 50.0138539601,
+  "FullNameUA": "майдан Першого Травня, 1"
+ },
+ {
+  "id": 126840,
+  "postcode": 61023,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3558,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2510717356,
+  "lati": 50.014219500799996,
+  "FullNameUA": "майдан Першого Травня, 2"
+ }
+]

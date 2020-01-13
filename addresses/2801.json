@@ -1,0 +1,102 @@
+[
+ {
+  "id": 149887,
+  "postcode": 61019,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2801,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.140499236400004,
+  "lati": 49.956347471200004,
+  "FullNameUA": "провулок Костянтина Калініна, 1"
+ },
+ {
+  "id": 149888,
+  "postcode": 61019,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2801,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1403228128,
+  "lati": 49.9564187856,
+  "FullNameUA": "провулок Костянтина Калініна, 3"
+ },
+ {
+  "id": 149889,
+  "postcode": 61019,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2801,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1400812037,
+  "lati": 49.9564916486,
+  "FullNameUA": "провулок Костянтина Калініна, 5"
+ },
+ {
+  "id": 149890,
+  "postcode": 61019,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2801,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.140335387600004,
+  "lati": 49.9567677543,
+  "FullNameUA": "провулок Костянтина Калініна, 6"
+ }
+]

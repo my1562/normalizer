@@ -1,0 +1,52 @@
+[
+ {
+  "id": 121826,
+  "postcode": 61013,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2412,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2681865692,
+  "lati": 50.0023724847,
+  "FullNameUA": "вулиця Гастелло, 6"
+ },
+ {
+  "id": 121827,
+  "postcode": 61013,
+  "number": 11,
+  "suffix": "/13",
+  "block": "",
+  "streetid": 2412,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2660222014,
+  "lati": 50.0020840905,
+  "FullNameUA": "вулиця Гастелло, 11/13"
+ }
+]

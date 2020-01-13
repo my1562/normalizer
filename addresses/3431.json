@@ -1,0 +1,77 @@
+[
+ {
+  "id": 118096,
+  "postcode": 61103,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3431,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2368275274,
+  "lati": 50.033630749800004,
+  "FullNameUA": "вулиця Новопрудна, 1"
+ },
+ {
+  "id": 118097,
+  "postcode": 61103,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3431,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237507743,
+  "lati": 50.0354906726,
+  "FullNameUA": "вулиця Новопрудна, 4"
+ },
+ {
+  "id": 118098,
+  "postcode": 61103,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3431,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2375413796,
+  "lati": 50.034448742900004,
+  "FullNameUA": "вулиця Новопрудна, 9-А"
+ }
+]

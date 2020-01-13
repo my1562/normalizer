@@ -1,0 +1,27 @@
+[
+ {
+  "id": 158382,
+  "postcode": 61003,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2146,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "38, 03.02.2010",
+  "reg_date": "16.01.2019 12:33:34",
+  "longt": 36.2284340625,
+  "lati": 49.985847723700005,
+  "FullNameUA": "провулок Банний, 1"
+ }
+]

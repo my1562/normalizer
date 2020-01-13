@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179307,
+  "postcode": 61033,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 7653,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 28",
+  "reg_date": "14.05.2018 13:56:18",
+  "longt": 36.30213410260001,
+  "lati": 50.0229910994,
+  "FullNameUA": "вулиця Коротченківська, 9"
+ }
+]

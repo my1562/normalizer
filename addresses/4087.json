@@ -1,0 +1,77 @@
+[
+ {
+  "id": 170765,
+  "postcode": 61068,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4087,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.269652668199996,
+  "lati": 49.983226362900005,
+  "FullNameUA": "в'їзд Тарасівський, 3"
+ },
+ {
+  "id": 170766,
+  "postcode": 61068,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4087,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2734099794,
+  "lati": 49.9831934301,
+  "FullNameUA": "в'їзд Тарасівський, 4"
+ },
+ {
+  "id": 170767,
+  "postcode": 61068,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4087,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2680177969,
+  "lati": 49.9837844978,
+  "FullNameUA": "в'їзд Тарасівський, 12"
+ }
+]

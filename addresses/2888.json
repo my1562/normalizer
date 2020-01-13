@@ -1,0 +1,102 @@
+[
+ {
+  "id": 168768,
+  "postcode": 61068,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2888,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.272614474300006,
+  "lati": 49.98386487610001,
+  "FullNameUA": "вулиця Клеменівська, 6"
+ },
+ {
+  "id": 168769,
+  "postcode": 61068,
+  "number": 13,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2888,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2720938339,
+  "lati": 49.9849367049,
+  "FullNameUA": "вулиця Клеменівська, 13-А"
+ },
+ {
+  "id": 168770,
+  "postcode": 61068,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2888,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.272183465800005,
+  "lati": 49.98520904830001,
+  "FullNameUA": "вулиця Клеменівська, 15"
+ },
+ {
+  "id": 168771,
+  "postcode": 61068,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2888,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.272305719600006,
+  "lati": 49.98558143300001,
+  "FullNameUA": "вулиця Клеменівська, 17"
+ }
+]

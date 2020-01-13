@@ -1,0 +1,52 @@
+[
+ {
+  "id": 108700,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4732,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "11.09.2013 00:00:00",
+  "longt": 36.3874994533,
+  "lati": 49.9884779535,
+  "FullNameUA": "провулок Ювілейний, 1"
+ },
+ {
+  "id": 108701,
+  "postcode": 61026,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4732,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "Нежитлова будівля літ. &Prime;Г-2&Prime;",
+  "confrm": "88, 10.02.2016",
+  "reg_date": "10.02.2016 00:00:00",
+  "longt": 36.3872402837,
+  "lati": 49.9874464617,
+  "FullNameUA": "провулок Ювілейний, 2"
+ }
+]

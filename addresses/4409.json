@@ -1,0 +1,102 @@
+[
+ {
+  "id": 121269,
+  "postcode": 61013,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2706487294,
+  "lati": 50.0031448655,
+  "FullNameUA": "провулок Шишкінський, 4"
+ },
+ {
+  "id": 130286,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2703338605,
+  "lati": 50.0030177694,
+  "FullNameUA": "провулок Шишкінський, 5"
+ },
+ {
+  "id": 130287,
+  "postcode": 61013,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.270336209300005,
+  "lati": 50.0034951963,
+  "FullNameUA": "провулок Шишкінський, 6"
+ },
+ {
+  "id": 130288,
+  "postcode": 61013,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.27005105240001,
+  "lati": 50.0033103567,
+  "FullNameUA": "провулок Шишкінський, 9"
+ }
+]

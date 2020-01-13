@@ -1,0 +1,52 @@
+[
+ {
+  "id": 149222,
+  "postcode": 61039,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2585,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.19809986,
+  "lati": 49.9633241808,
+  "FullNameUA": "провулок Доватора, 3"
+ },
+ {
+  "id": 149223,
+  "postcode": 61039,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2585,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1974942556,
+  "lati": 49.9633666704,
+  "FullNameUA": "провулок Доватора, 4"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": 178374,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7422,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3318346163,
+  "lati": 50.0560491139,
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 1"
+ },
+ {
+  "id": 178375,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7422,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3320782478,
+  "lati": 50.0559015043,
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 3"
+ },
+ {
+  "id": 176000,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 7422,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3317693941,
+  "lati": 50.0553379277,
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 8"
+ }
+]

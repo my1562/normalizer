@@ -1,0 +1,27 @@
+[
+ {
+  "id": 167331,
+  "postcode": 61009,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4863,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "82, 10.02.2016; 257, 06.07.2016; 800, 08.11.2017",
+  "reg_date": "20.11.2017 10:18:43",
+  "longt": 36.2133321103,
+  "lati": 49.9321844282,
+  "FullNameUA": "проїзд Щербачівський, 2"
+ }
+]

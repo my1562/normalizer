@@ -1,0 +1,102 @@
+[
+ {
+  "id": 157918,
+  "postcode": 61071,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1892472957,
+  "lati": 49.930673413,
+  "FullNameUA": "провулок Ячмінний, 7"
+ },
+ {
+  "id": 157919,
+  "postcode": 61071,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1882354646,
+  "lati": 49.929644236,
+  "FullNameUA": "провулок Ячмінний, 9"
+ },
+ {
+  "id": 157920,
+  "postcode": 61071,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1886199144,
+  "lati": 49.9289436596,
+  "FullNameUA": "провулок Ячмінний, 10"
+ },
+ {
+  "id": 157921,
+  "postcode": 61071,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 4879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.188093058599996,
+  "lati": 49.9300923778,
+  "FullNameUA": "провулок Ячмінний, 11"
+ }
+]

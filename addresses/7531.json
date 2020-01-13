@@ -1,0 +1,27 @@
+[
+ {
+  "id": 180594,
+  "postcode": 61085,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7531,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.11.2019 16:53:49",
+  "longt": 36.3033492702,
+  "lati": 50.0522774378,
+  "FullNameUA": "узвіз Вишневий (сел. Циркуни), 4"
+ }
+]

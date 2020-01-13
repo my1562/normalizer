@@ -1,0 +1,77 @@
+[
+ {
+  "id": 155216,
+  "postcode": 61157,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3889,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2204035952,
+  "lati": 49.9616684654,
+  "FullNameUA": "провулок Селянський, 7"
+ },
+ {
+  "id": 155217,
+  "postcode": 61157,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3889,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2202940925,
+  "lati": 49.9615097916,
+  "FullNameUA": "провулок Селянський, 8"
+ },
+ {
+  "id": 155218,
+  "postcode": 61157,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3889,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2203344754,
+  "lati": 49.9612190985,
+  "FullNameUA": "провулок Селянський, 9"
+ }
+]

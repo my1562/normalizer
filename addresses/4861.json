@@ -1,0 +1,77 @@
+[
+ {
+  "id": 131289,
+  "postcode": 61085,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 4861,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2019 15:22:06",
+  "longt": 36.280306472,
+  "lati": 50.0526242122,
+  "FullNameUA": "вулиця Литвинівська, 15"
+ },
+ {
+  "id": 131290,
+  "postcode": 61085,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 4861,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2019 12:56:05",
+  "longt": 36.2823989152,
+  "lati": 50.0540080182,
+  "FullNameUA": "вулиця Литвинівська, 22"
+ },
+ {
+  "id": 131291,
+  "postcode": 61085,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 4861,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2019 12:54:51",
+  "longt": 36.2816522049,
+  "lati": 50.0542500783,
+  "FullNameUA": "вулиця Литвинівська, 24"
+ }
+]

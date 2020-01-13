@@ -1,0 +1,102 @@
+[
+ {
+  "id": 157905,
+  "postcode": 61090,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4865,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "1985, 23.09.2015; Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 23",
+  "reg_date": "24.07.2018 15:27:33",
+  "longt": 36.136054258,
+  "lati": 49.9309029694,
+  "FullNameUA": "проїзд Звенигородський 2-й, 13"
+ },
+ {
+  "id": 157906,
+  "postcode": 61090,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 4865,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "1985, 23.09.2015; Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 23; Рішення № 1120, 20.06.2018, дод. 3, п. 11",
+  "reg_date": "11.05.2018 11:34:36",
+  "longt": 36.136050573000006,
+  "lati": 49.9309029737,
+  "FullNameUA": "проїзд Звенигородський 2-й, 15"
+ },
+ {
+  "id": 157907,
+  "postcode": 61090,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 4865,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "1985, 23.09.2015; Рішення № 1120, 20.06.2018, дод. 3, п. 11",
+  "reg_date": "24.07.2018 15:29:48",
+  "longt": 36.1359521071,
+  "lati": 49.9306140749,
+  "FullNameUA": "проїзд Звенигородський 2-й, 17"
+ },
+ {
+  "id": 178994,
+  "postcode": 61090,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 4865,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 984, 21.02.2018, дод. 1, п. 11",
+  "reg_date": "20.03.2018 12:22:36",
+  "longt": 36.1358768865,
+  "lati": 49.930336609,
+  "FullNameUA": "проїзд Звенигородський 2-й, 19"
+ }
+]

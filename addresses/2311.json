@@ -1,0 +1,27 @@
+[
+ {
+  "id": 175601,
+  "postcode": 61016,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2311,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1963895974,
+  "lati": 49.9959716579,
+  "FullNameUA": "провулок Верхнєудінський, 4"
+ }
+]

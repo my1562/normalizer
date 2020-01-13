@@ -1,0 +1,27 @@
+[
+ {
+  "id": 138062,
+  "postcode": 61017,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2202,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2051562142,
+  "lati": 50.0014817281,
+  "FullNameUA": "вулиця Дрінова, 17"
+ }
+]

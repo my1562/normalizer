@@ -1,0 +1,27 @@
+[
+ {
+  "id": 146532,
+  "postcode": 61177,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4484,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1531686301,
+  "lati": 49.993030358700004,
+  "FullNameUA": "провулок Вербний 3-й, 6"
+ }
+]

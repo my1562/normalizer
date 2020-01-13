@@ -1,0 +1,27 @@
+[
+ {
+  "id": 119871,
+  "postcode": 61023,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4505,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2502240591,
+  "lati": 50.0276085109,
+  "FullNameUA": "вулиця Кипарисова, 7"
+ }
+]

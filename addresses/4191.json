@@ -1,0 +1,77 @@
+[
+ {
+  "id": 166263,
+  "postcode": 61109,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4191,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2242531274,
+  "lati": 49.916839397900006,
+  "FullNameUA": "провулок Удянський, 6"
+ },
+ {
+  "id": 166264,
+  "postcode": 61109,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4191,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2238564865,
+  "lati": 49.9168798974,
+  "FullNameUA": "провулок Удянський, 7"
+ },
+ {
+  "id": 166265,
+  "postcode": 61109,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4191,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2236440387,
+  "lati": 49.917006680600004,
+  "FullNameUA": "провулок Удянський, 9"
+ }
+]

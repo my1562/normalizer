@@ -1,0 +1,52 @@
+[
+ {
+  "id": 119790,
+  "postcode": 61051,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4405,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.191200945,
+  "lati": 50.0485252537,
+  "FullNameUA": "вулиця Широніна, 2"
+ },
+ {
+  "id": 119791,
+  "postcode": 61051,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4405,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1896228756,
+  "lati": 50.0495421835,
+  "FullNameUA": "вулиця Широніна, 3"
+ }
+]

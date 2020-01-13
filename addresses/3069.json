@@ -1,0 +1,52 @@
+[
+ {
+  "id": 151855,
+  "postcode": 61039,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3069,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1871294158,
+  "lati": 49.9650719742,
+  "FullNameUA": "в'їзд Володимира Рідченка, 2-А"
+ },
+ {
+  "id": 151856,
+  "postcode": 61039,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3069,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1873388722,
+  "lati": 49.9654030404,
+  "FullNameUA": "в'їзд Володимира Рідченка, 7"
+ }
+]

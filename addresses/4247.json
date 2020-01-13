@@ -1,0 +1,77 @@
+[
+ {
+  "id": 177956,
+  "postcode": 61070,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4247,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської райради № 145/25, 11.10.2005",
+  "reg_date": "05.03.2019 15:07:28",
+  "longt": 36.2515163577,
+  "lati": 50.033931450400004,
+  "FullNameUA": "вулиця Фронтова, 2"
+ },
+ {
+  "id": 119522,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4247,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2531527817,
+  "lati": 50.0340206641,
+  "FullNameUA": "вулиця Фронтова, 3"
+ },
+ {
+  "id": 119523,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4247,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2546668138,
+  "lati": 50.0343575028,
+  "FullNameUA": "вулиця Фронтова, 3-А"
+ }
+]

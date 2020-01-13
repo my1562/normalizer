@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177548,
+  "postcode": 61143,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3196,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.4403199897,
+  "lati": 49.9274166708,
+  "FullNameUA": "вулиця Мала Кільцева, 3"
+ }
+]

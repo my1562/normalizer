@@ -1,0 +1,27 @@
+[
+ {
+  "id": 157899,
+  "postcode": 61071,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4779,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.1751639371,
+  "lati": 49.9267340047,
+  "FullNameUA": "проїзд Городищенський, 2"
+ }
+]

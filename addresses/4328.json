@@ -1,0 +1,77 @@
+[
+ {
+  "id": 157107,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4328,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2232195501,
+  "lati": 49.986132200700006,
+  "FullNameUA": "провулок Конторський, 3"
+ },
+ {
+  "id": 157108,
+  "postcode": 61052,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4328,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2228108601,
+  "lati": 49.986309009900005,
+  "FullNameUA": "провулок Конторський, 4"
+ },
+ {
+  "id": 157109,
+  "postcode": 61052,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4328,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2227755996,
+  "lati": 49.9861956406,
+  "FullNameUA": "провулок Конторський, 6"
+ }
+]

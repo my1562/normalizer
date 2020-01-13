@@ -1,0 +1,77 @@
+[
+ {
+  "id": 124559,
+  "postcode": 61013,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2653678999,
+  "lati": 50.0082136517,
+  "FullNameUA": "провулок Кречетівський, 1"
+ },
+ {
+  "id": 124560,
+  "postcode": 61013,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.265384172,
+  "lati": 50.0075584761,
+  "FullNameUA": "провулок Кречетівський, 3"
+ },
+ {
+  "id": 124561,
+  "postcode": 61013,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.265804148499996,
+  "lati": 50.007551538,
+  "FullNameUA": "провулок Кречетівський, 8"
+ }
+]

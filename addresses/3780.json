@@ -1,0 +1,52 @@
+[
+ {
+  "id": 165279,
+  "postcode": 61004,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3780,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2245250901,
+  "lati": 49.9792275445,
+  "FullNameUA": "в'їзд Рибасівський, 6"
+ },
+ {
+  "id": 165280,
+  "postcode": 61004,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3780,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2245729152,
+  "lati": 49.9794220004,
+  "FullNameUA": "в'їзд Рибасівський, 8"
+ }
+]

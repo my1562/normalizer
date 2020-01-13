@@ -1,0 +1,52 @@
+[
+ {
+  "id": 177257,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7740,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3406383991,
+  "lati": 50.054789854800006,
+  "FullNameUA": "вулиця Бузкова (сел. Циркуни), 3"
+ },
+ {
+  "id": 177256,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 7740,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.34031116960001,
+  "lati": 50.0543972087,
+  "FullNameUA": "вулиця Бузкова (сел. Циркуни), 8"
+ }
+]

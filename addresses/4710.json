@@ -1,0 +1,77 @@
+[
+ {
+  "id": 114350,
+  "postcode": 61089,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4710,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "826, 23.12.2014, 1735, 24.12.2014",
+  "reg_date": "23.12.2014 00:00:00",
+  "longt": 36.373732446599995,
+  "lati": 49.9271841885,
+  "FullNameUA": "бульвар Дністровський, 2"
+ },
+ {
+  "id": 175428,
+  "postcode": 61089,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4710,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.373985817,
+  "lati": 49.9269967938,
+  "FullNameUA": "бульвар Дністровський, 4"
+ },
+ {
+  "id": 175429,
+  "postcode": 61089,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4710,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 604, 20.09.2017; Рішення ХМР № 732, 20.09.2017, дод. 1, п. 17",
+  "reg_date": "02.10.2017 15:34:02",
+  "longt": 36.3743108511,
+  "lati": 49.9267689152,
+  "FullNameUA": "бульвар Дністровський, 6"
+ }
+]

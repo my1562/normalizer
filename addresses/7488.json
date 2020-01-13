@@ -1,0 +1,27 @@
+[
+ {
+  "id": 178999,
+  "postcode": 61096,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7488,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.311592290200004,
+  "lati": 49.9325258167,
+  "FullNameUA": "вулиця Жукова (сел. Павленки), 15"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177254,
+  "postcode": 61162,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 7507,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3173675537,
+  "lati": 49.925480768300005,
+  "FullNameUA": "вулиця 50 років Жовтня (сел. Федірці), 18"
+ }
+]

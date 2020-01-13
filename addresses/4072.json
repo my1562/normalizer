@@ -1,0 +1,77 @@
+[
+ {
+  "id": 145121,
+  "postcode": 61177,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4072,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.132528111,
+  "lati": 49.9924641792,
+  "FullNameUA": "провулок Таборовий 3-й, 4"
+ },
+ {
+  "id": 145122,
+  "postcode": 61177,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4072,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1329035791,
+  "lati": 49.992187603000005,
+  "FullNameUA": "провулок Таборовий 3-й, 5"
+ },
+ {
+  "id": 145123,
+  "postcode": 61177,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4072,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.132518091200005,
+  "lati": 49.992235333100005,
+  "FullNameUA": "провулок Таборовий 3-й, 6"
+ }
+]

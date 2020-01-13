@@ -1,0 +1,102 @@
+[
+ {
+  "id": 153607,
+  "postcode": 61071,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3492,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2065282664,
+  "lati": 49.9404769048,
+  "FullNameUA": "вулиця Оріхівська, 2"
+ },
+ {
+  "id": 153608,
+  "postcode": 61071,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3492,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.206344019300005,
+  "lati": 49.9400550106,
+  "FullNameUA": "вулиця Оріхівська, 6"
+ },
+ {
+  "id": 153609,
+  "postcode": 61071,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3492,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2069893993,
+  "lati": 49.9401430626,
+  "FullNameUA": "вулиця Оріхівська, 10"
+ },
+ {
+  "id": 177859,
+  "postcode": 61071,
+  "number": 56,
+  "suffix": "",
+  "block": "",
+  "streetid": 3492,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.2053562261,
+  "lati": 49.9393538182,
+  "FullNameUA": "вулиця Оріхівська, 56"
+ }
+]

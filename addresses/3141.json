@@ -1,0 +1,102 @@
+[
+ {
+  "id": 103365,
+  "postcode": 61099,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3141,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3626333426,
+  "lati": 49.9657764095,
+  "FullNameUA": "вулиця Лодзька, 7"
+ },
+ {
+  "id": 178622,
+  "postcode": 61046,
+  "number": 7,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3141,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля літ. «П-1»",
+  "confrm": "",
+  "reg_date": "09.01.2019 11:38:40",
+  "longt": 36.374666321,
+  "lati": 49.9710943641,
+  "FullNameUA": "вулиця Лодзька, 7-Б"
+ },
+ {
+  "id": 103366,
+  "postcode": 61099,
+  "number": 7,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3141,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3728421604,
+  "lati": 49.968727718400004,
+  "FullNameUA": "вулиця Лодзька, 7-А"
+ },
+ {
+  "id": 103367,
+  "postcode": 61099,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3141,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.372814974499995,
+  "lati": 49.967803886300004,
+  "FullNameUA": "вулиця Лодзька, 8-А"
+ }
+]

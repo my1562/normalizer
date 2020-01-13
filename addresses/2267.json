@@ -1,0 +1,77 @@
+[
+ {
+  "id": 181805,
+  "postcode": 61013,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2267,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2497325471,
+  "lati": 49.9939048608,
+  "FullNameUA": "в'їзд Бутівський, 2"
+ },
+ {
+  "id": 121267,
+  "postcode": 61013,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2267,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2504084849,
+  "lati": 49.9943711601,
+  "FullNameUA": "в'їзд Бутівський, 7"
+ },
+ {
+  "id": 121268,
+  "postcode": 61013,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2267,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2505083224,
+  "lati": 49.9941653165,
+  "FullNameUA": "в'їзд Бутівський, 9"
+ }
+]

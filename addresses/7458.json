@@ -1,0 +1,27 @@
+[
+ {
+  "id": 176334,
+  "postcode": 61019,
+  "number": 21,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 7458,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.129977703099996,
+  "lati": 49.954119231600004,
+  "FullNameUA": "вулиця Крупської (сел. Пісочин), 21/3"
+ }
+]

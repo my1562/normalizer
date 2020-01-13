@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176144,
+  "postcode": 61032,
+  "number": 7,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 7433,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4322777915,
+  "lati": 49.9375601547,
+  "FullNameUA": "вулиця Армійська (Затишшя (БМП-166)), 7/1"
+ },
+ {
+  "id": 179851,
+  "postcode": 61032,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 7433,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4327172935,
+  "lati": 49.9370063872,
+  "FullNameUA": "вулиця Армійська (Затишшя (БМП-166)), 18"
+ }
+]

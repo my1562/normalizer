@@ -1,0 +1,77 @@
+[
+ {
+  "id": 166050,
+  "postcode": 61010,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4052,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.236942163500004,
+  "lati": 49.9738125701,
+  "FullNameUA": "в'їзд Струницький, 1"
+ },
+ {
+  "id": 166051,
+  "postcode": 61010,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4052,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23712447810001,
+  "lati": 49.9739025788,
+  "FullNameUA": "в'їзд Струницький, 6"
+ },
+ {
+  "id": 166052,
+  "postcode": 61010,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4052,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237273471,
+  "lati": 49.9739812037,
+  "FullNameUA": "в'їзд Струницький, 10"
+ }
+]

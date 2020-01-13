@@ -1,0 +1,27 @@
+[
+ {
+  "id": 127599,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3751,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3199078537,
+  "lati": 50.0448944822,
+  "FullNameUA": "провулок Георгіївський 2-й, 2"
+ }
+]

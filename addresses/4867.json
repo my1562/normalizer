@@ -1,0 +1,27 @@
+[
+ {
+  "id": 181482,
+  "postcode": 61162,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4867,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136900:06:010:0030), житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "28.10.2019 14:49:15",
+  "longt": 36.303239844400004,
+  "lati": 49.9366653331,
+  "FullNameUA": "провулок Федоренка, 9"
+ }
+]

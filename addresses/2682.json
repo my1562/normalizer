@@ -1,0 +1,102 @@
+[
+ {
+  "id": 123001,
+  "postcode": 61013,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2682,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2545808203,
+  "lati": 49.9992582316,
+  "FullNameUA": "в'їзд Журавлівський 3-й, 3"
+ },
+ {
+  "id": 123002,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2682,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2542529273,
+  "lati": 49.9993812067,
+  "FullNameUA": "в'їзд Журавлівський 3-й, 5"
+ },
+ {
+  "id": 123003,
+  "postcode": 61013,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2682,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 159-7, 15.08.2006",
+  "reg_date": "01.04.2019 12:32:58",
+  "longt": 36.2539739809,
+  "lati": 49.9995406209,
+  "FullNameUA": "в'їзд Журавлівський 3-й, 7"
+ },
+ {
+  "id": 123004,
+  "postcode": 61013,
+  "number": 7,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2682,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 159-7, 15.08.2006",
+  "reg_date": "01.04.2019 12:32:21",
+  "longt": 36.25408958,
+  "lati": 49.999735370500005,
+  "FullNameUA": "в'їзд Журавлівський 3-й, 7-А"
+ }
+]

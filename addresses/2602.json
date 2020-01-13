@@ -1,0 +1,102 @@
+[
+ {
+  "id": 149224,
+  "postcode": 61093,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2602,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2025028305,
+  "lati": 49.98497864310001,
+  "FullNameUA": "провулок Дорохівський, 3"
+ },
+ {
+  "id": 149225,
+  "postcode": 61093,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2602,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2023752073,
+  "lati": 49.985135188200005,
+  "FullNameUA": "провулок Дорохівський, 4"
+ },
+ {
+  "id": 149226,
+  "postcode": 61093,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2602,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2021616158,
+  "lati": 49.9849390302,
+  "FullNameUA": "провулок Дорохівський, 5"
+ },
+ {
+  "id": 179655,
+  "postcode": 61093,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2602,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.202063606900005,
+  "lati": 49.985362138000006,
+  "FullNameUA": "провулок Дорохівський, 6"
+ }
+]

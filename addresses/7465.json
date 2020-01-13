@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179549,
+  "postcode": 61172,
+  "number": 7,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 7465,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.426276417800004,
+  "lati": 49.901782971399996,
+  "FullNameUA": "вулиця Пролетарська (сел. Комуніст), 7-Б"
+ }
+]

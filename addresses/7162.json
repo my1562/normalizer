@@ -1,0 +1,102 @@
+[
+ {
+  "id": 176460,
+  "postcode": 61107,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 7162,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3157555373,
+  "lati": 50.0496453799,
+  "FullNameUA": "вулиця Прелесна, 6"
+ },
+ {
+  "id": 176461,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 7162,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3160001035,
+  "lati": 50.0497193641,
+  "FullNameUA": "вулиця Прелесна, 8"
+ },
+ {
+  "id": 176462,
+  "postcode": 61107,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 7162,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.316351555400004,
+  "lati": 50.049796903,
+  "FullNameUA": "вулиця Прелесна, 10"
+ },
+ {
+  "id": 176463,
+  "postcode": 61107,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 7162,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.316648057200005,
+  "lati": 50.0499097259,
+  "FullNameUA": "вулиця Прелесна, 12"
+ }
+]

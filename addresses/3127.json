@@ -1,0 +1,52 @@
+[
+ {
+  "id": 141854,
+  "postcode": 61177,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3127,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1601814309,
+  "lati": 49.981930465000005,
+  "FullNameUA": "провулок Листяний, 1"
+ },
+ {
+  "id": 141855,
+  "postcode": 61177,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3127,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1604634353,
+  "lati": 49.981693829200005,
+  "FullNameUA": "провулок Листяний, 5"
+ }
+]

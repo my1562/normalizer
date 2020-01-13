@@ -1,0 +1,102 @@
+[
+ {
+  "id": 120155,
+  "postcode": 61161,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2062,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.304743139100005,
+  "lati": 50.0017397126,
+  "FullNameUA": "провулок Амурський, 1"
+ },
+ {
+  "id": 120156,
+  "postcode": 61161,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2062,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля",
+  "confrm": "78-8, 01.04.2003",
+  "reg_date": "27.02.2019 11:43:20",
+  "longt": 36.304892934,
+  "lati": 50.0018257351,
+  "FullNameUA": "провулок Амурський, 9"
+ },
+ {
+  "id": 120157,
+  "postcode": 61161,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2062,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3046639124,
+  "lati": 50.0016747377,
+  "FullNameUA": "провулок Амурський, 15"
+ },
+ {
+  "id": 176551,
+  "postcode": 61161,
+  "number": 36,
+  "suffix": "",
+  "block": "",
+  "streetid": 2062,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3038717904,
+  "lati": 50.000875002,
+  "FullNameUA": "провулок Амурський, 36"
+ }
+]

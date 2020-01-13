@@ -1,0 +1,102 @@
+[
+ {
+  "id": 102376,
+  "postcode": 61029,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2831,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.342509862,
+  "lati": 49.98662931770001,
+  "FullNameUA": "проїзд Карпатський 1-й, 3"
+ },
+ {
+  "id": 102377,
+  "postcode": 61029,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2831,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.342538796300005,
+  "lati": 49.986415710100005,
+  "FullNameUA": "проїзд Карпатський 1-й, 4"
+ },
+ {
+  "id": 102378,
+  "postcode": 61029,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2831,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.342739140800006,
+  "lati": 49.986658426000005,
+  "FullNameUA": "проїзд Карпатський 1-й, 5"
+ },
+ {
+  "id": 102379,
+  "postcode": 61029,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2831,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.342795043600006,
+  "lati": 49.9864424191,
+  "FullNameUA": "проїзд Карпатський 1-й, 6"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 176950,
+  "postcode": 61085,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4750,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.303221713000006,
+  "lati": 50.0524651711,
+  "FullNameUA": "вулиця Дрожжинська, 2"
+ },
+ {
+  "id": 180663,
+  "postcode": 61085,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.303054610100006,
+  "lati": 50.052124783100005,
+  "FullNameUA": "вулиця Дрожжинська, 4"
+ },
+ {
+  "id": 176948,
+  "postcode": 61085,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка",
+  "confrm": "",
+  "reg_date": "26.04.2019 16:20:20",
+  "longt": 36.303427436300005,
+  "lati": 50.0522150899,
+  "FullNameUA": "вулиця Дрожжинська, 4-А"
+ },
+ {
+  "id": 176949,
+  "postcode": 61085,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3033133699,
+  "lati": 50.051974012900004,
+  "FullNameUA": "вулиця Дрожжинська, 6"
+ }
+]

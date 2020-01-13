@@ -1,0 +1,102 @@
+[
+ {
+  "id": 115583,
+  "postcode": 61058,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 2233,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.222870457199996,
+  "lati": 49.9965744343,
+  "FullNameUA": "вулиця Ботанічна, 20"
+ },
+ {
+  "id": 115584,
+  "postcode": 61058,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2233,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2228147392,
+  "lati": 49.9963352448,
+  "FullNameUA": "вулиця Ботанічна, 22"
+ },
+ {
+  "id": 115585,
+  "postcode": 61058,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 2233,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2228892583,
+  "lati": 49.9964906682,
+  "FullNameUA": "вулиця Ботанічна, 24"
+ },
+ {
+  "id": 115586,
+  "postcode": 61058,
+  "number": 26,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2233,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2225797938,
+  "lati": 49.996438931,
+  "FullNameUA": "вулиця Ботанічна, 26/1"
+ }
+]

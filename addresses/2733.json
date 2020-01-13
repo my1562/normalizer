@@ -1,0 +1,102 @@
+[
+ {
+  "id": 139993,
+  "postcode": 61177,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2733,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.150364058099996,
+  "lati": 49.978252173499996,
+  "FullNameUA": "провулок Земовський, 2"
+ },
+ {
+  "id": 139994,
+  "postcode": 61177,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2733,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1494712286,
+  "lati": 49.978263634099996,
+  "FullNameUA": "провулок Земовський, 4"
+ },
+ {
+  "id": 139995,
+  "postcode": 61177,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2733,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1488154134,
+  "lati": 49.9782768676,
+  "FullNameUA": "провулок Земовський, 6"
+ },
+ {
+  "id": 139996,
+  "postcode": 61177,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2733,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1478302368,
+  "lati": 49.9782969547,
+  "FullNameUA": "провулок Земовський, 8"
+ }
+]

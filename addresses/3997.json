@@ -1,0 +1,52 @@
+[
+ {
+  "id": 119229,
+  "postcode": 61070,
+  "number": 7,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2528535012,
+  "lati": 50.030467274,
+  "FullNameUA": "вулиця Освітянська, 7-А"
+ },
+ {
+  "id": 119228,
+  "postcode": 61070,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3997,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2537645768,
+  "lati": 50.0303005473,
+  "FullNameUA": "вулиця Освітянська, 7"
+ }
+]

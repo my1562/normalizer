@@ -1,0 +1,52 @@
+[
+ {
+  "id": 119919,
+  "postcode": 61051,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4799,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "Нежитлова будівля літ. \"Р-1\" (павільйон свердловини № 103)",
+  "confrm": "",
+  "reg_date": "31.01.2019 15:06:58",
+  "longt": 36.1898604342,
+  "lati": 50.0403747083,
+  "FullNameUA": "в'їзд Буковий, 2-А"
+ },
+ {
+  "id": 119920,
+  "postcode": 61051,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4799,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "31.01.2019 15:03:39",
+  "longt": 36.1878959202,
+  "lati": 50.040282047299996,
+  "FullNameUA": "в'їзд Буковий, 6"
+ }
+]

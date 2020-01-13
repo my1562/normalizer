@@ -1,0 +1,52 @@
+[
+ {
+  "id": 179473,
+  "postcode": 61026,
+  "number": 5,
+  "suffix": "В",
+  "block": "",
+  "streetid": 8022,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "26.03.2019 10:39:05",
+  "longt": 36.3759871213,
+  "lati": 49.991024768100004,
+  "FullNameUA": "вулиця Тваринників (сел. Кулиничі), 5-В"
+ },
+ {
+  "id": 179472,
+  "postcode": 61026,
+  "number": 5,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 8022,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "26.03.2019 10:33:51",
+  "longt": 36.3764629476,
+  "lati": 49.9914799358,
+  "FullNameUA": "вулиця Тваринників (сел. Кулиничі), 5-Б"
+ }
+]

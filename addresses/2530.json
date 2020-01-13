@@ -1,0 +1,77 @@
+[
+ {
+  "id": 168296,
+  "postcode": 61068,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 2530,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.269749284999996,
+  "lati": 49.9796812309,
+  "FullNameUA": "провулок Дегтярьова, 12"
+ },
+ {
+  "id": 168297,
+  "postcode": 61068,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 2530,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2699668789,
+  "lati": 49.9797389401,
+  "FullNameUA": "провулок Дегтярьова, 14"
+ },
+ {
+  "id": 168298,
+  "postcode": 61068,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2530,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.269954596599995,
+  "lati": 49.980078882200004,
+  "FullNameUA": "провулок Дегтярьова, 16"
+ }
+]

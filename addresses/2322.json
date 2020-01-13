@@ -1,0 +1,102 @@
+[
+ {
+  "id": 159197,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2322,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.241521176,
+  "lati": 49.9261647003,
+  "FullNameUA": "провулок Вешенський, 1"
+ },
+ {
+  "id": 159198,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2322,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2413015125,
+  "lati": 49.9261757773,
+  "FullNameUA": "провулок Вешенський, 3"
+ },
+ {
+  "id": 159199,
+  "postcode": 61109,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2322,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2410269582,
+  "lati": 49.9259922036,
+  "FullNameUA": "провулок Вешенський, 5"
+ },
+ {
+  "id": 159200,
+  "postcode": 61109,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2322,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.240999387,
+  "lati": 49.9261983962,
+  "FullNameUA": "провулок Вешенський, 7"
+ }
+]

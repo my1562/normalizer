@@ -1,0 +1,52 @@
+[
+ {
+  "id": 180372,
+  "postcode": 61070,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7645,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.266785655599996,
+  "lati": 50.051434655600005,
+  "FullNameUA": "провулок Павленківський, 1"
+ },
+ {
+  "id": 178663,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7645,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "удалить",
+  "reg_date": "18.01.2018 12:20:22",
+  "longt": 36.2660273836,
+  "lati": 50.050961642100006,
+  "FullNameUA": "провулок Павленківський, 3"
+ }
+]

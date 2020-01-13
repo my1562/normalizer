@@ -1,0 +1,27 @@
+[
+ {
+  "id": 178325,
+  "postcode": 61026,
+  "number": 37,
+  "suffix": "",
+  "block": "",
+  "streetid": 7394,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3948315053,
+  "lati": 49.98063558690001,
+  "FullNameUA": "вулиця Наукова (сел. Кулиничі), 37"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179004,
+  "postcode": 61162,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7502,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3141456298,
+  "lati": 49.9291878808,
+  "FullNameUA": "вулиця Гагаріна (сел. Федірці), 1"
+ }
+]

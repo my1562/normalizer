@@ -1,0 +1,102 @@
+[
+ {
+  "id": 117845,
+  "postcode": 61166,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3280,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2276743874,
+  "lati": 50.023410146900005,
+  "FullNameUA": "провулок Мінський, 1"
+ },
+ {
+  "id": 117846,
+  "postcode": 61166,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3280,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.228068185699996,
+  "lati": 50.0236883281,
+  "FullNameUA": "провулок Мінський, 2-А"
+ },
+ {
+  "id": 117847,
+  "postcode": 61166,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3280,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2280415263,
+  "lati": 50.0238202971,
+  "FullNameUA": "провулок Мінський, 4-А"
+ },
+ {
+  "id": 117848,
+  "postcode": 61166,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3280,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2274053922,
+  "lati": 50.02464838,
+  "FullNameUA": "провулок Мінський, 10"
+ }
+]

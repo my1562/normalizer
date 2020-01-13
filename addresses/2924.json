@@ -1,0 +1,102 @@
+[
+ {
+  "id": 150886,
+  "postcode": 61090,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2924,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1378773633,
+  "lati": 49.940527941999996,
+  "FullNameUA": "провулок Колонний 2-й, 1"
+ },
+ {
+  "id": 150887,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2924,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.137964822700006,
+  "lati": 49.9408013598,
+  "FullNameUA": "провулок Колонний 2-й, 3"
+ },
+ {
+  "id": 150888,
+  "postcode": 61090,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2924,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1380597495,
+  "lati": 49.9410879297,
+  "FullNameUA": "провулок Колонний 2-й, 5"
+ },
+ {
+  "id": 150889,
+  "postcode": 61090,
+  "number": 7,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2924,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1381907267,
+  "lati": 49.9413909488,
+  "FullNameUA": "провулок Колонний 2-й, 7/1"
+ }
+]

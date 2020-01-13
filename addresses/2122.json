@@ -1,0 +1,102 @@
+[
+ {
+  "id": 131801,
+  "postcode": 61001,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2122,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2703867675,
+  "lati": 49.989802773,
+  "FullNameUA": "провулок Байкальський, 1"
+ },
+ {
+  "id": 131802,
+  "postcode": 61001,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2122,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.269758024999994,
+  "lati": 49.98953068630001,
+  "FullNameUA": "провулок Байкальський, 2"
+ },
+ {
+  "id": 131803,
+  "postcode": 61001,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2122,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.270752891,
+  "lati": 49.989592706,
+  "FullNameUA": "провулок Байкальський, 3"
+ },
+ {
+  "id": 131804,
+  "postcode": 61001,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2122,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.270317170400006,
+  "lati": 49.9892344264,
+  "FullNameUA": "провулок Байкальський, 4"
+ }
+]

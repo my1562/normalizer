@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176240,
+  "postcode": 61107,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 7549,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3506528484,
+  "lati": 50.0437179346,
+  "FullNameUA": "вулиця Дружби (сел. Циркуни), 19"
+ },
+ {
+  "id": 176352,
+  "postcode": 61107,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 7549,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3503801823,
+  "lati": 50.0441803915,
+  "FullNameUA": "вулиця Дружби (сел. Циркуни), 20"
+ }
+]

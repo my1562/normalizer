@@ -1,0 +1,27 @@
+[
+ {
+  "id": 181004,
+  "postcode": 61105,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2100,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\" з прибудовою літ. \"а<sup>3</sup>\", сіни літ. \"а<sup>5</sup>\", тамбур літ. \"а<sup>6</sup>\", ганок літ. \"А<sup>7</sup>\" з надвірними будівлями (а саме: навісом літ. \"Ж\", огорожами № 5-9)",
+  "confrm": "",
+  "reg_date": "22.07.2019 15:05:08",
+  "longt": 36.2773357876,
+  "lati": 49.951095340900004,
+  "FullNameUA": "в'їзд Аскольдівський, 16"
+ }
+]

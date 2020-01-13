@@ -1,0 +1,102 @@
+[
+ {
+  "id": 145740,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2249619531,
+  "lati": 49.9931167351,
+  "FullNameUA": "вулиця Червоні Ряди, 1"
+ },
+ {
+  "id": 145741,
+  "postcode": 61052,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.224935306,
+  "lati": 49.992095883800005,
+  "FullNameUA": "вулиця Червоні Ряди, 14"
+ },
+ {
+  "id": 145742,
+  "postcode": 61052,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 4319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.224461078,
+  "lati": 49.991994994,
+  "FullNameUA": "вулиця Червоні Ряди, 15"
+ },
+ {
+  "id": 145743,
+  "postcode": 61052,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 4319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2248666714,
+  "lati": 49.9927403776,
+  "FullNameUA": "вулиця Червоні Ряди, 16"
+ }
+]

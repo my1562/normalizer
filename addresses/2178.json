@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131946,
+  "postcode": 61037,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2178,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2860516498,
+  "lati": 49.981039438100005,
+  "FullNameUA": "провулок Бетховена, 1"
+ },
+ {
+  "id": 131947,
+  "postcode": 61037,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2178,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2856547712,
+  "lati": 49.9811282097,
+  "FullNameUA": "провулок Бетховена, 2"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 181351,
+  "postcode": 61038,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4260,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "19.09.2019 09:52:37",
+  "longt": 36.2975503858,
+  "lati": 49.9882509588,
+  "FullNameUA": "вулиця Халтуріна, 6"
+ }
+]

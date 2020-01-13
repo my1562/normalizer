@@ -1,0 +1,102 @@
+[
+ {
+  "id": 163867,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2284617994,
+  "lati": 49.908585579,
+  "FullNameUA": "вулиця Надбірна, 3"
+ },
+ {
+  "id": 163868,
+  "postcode": 61109,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2282691326,
+  "lati": 49.9069425513,
+  "FullNameUA": "вулиця Надбірна, 4"
+ },
+ {
+  "id": 163869,
+  "postcode": 61109,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2285600859,
+  "lati": 49.9068080396,
+  "FullNameUA": "вулиця Надбірна, 4-Б"
+ },
+ {
+  "id": 163870,
+  "postcode": 61109,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3335,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2287790874,
+  "lati": 49.9066922249,
+  "FullNameUA": "вулиця Надбірна, 12"
+ }
+]

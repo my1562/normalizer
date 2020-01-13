@@ -1,0 +1,102 @@
+[
+ {
+  "id": 143958,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3788,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2122964393,
+  "lati": 49.9971244073,
+  "FullNameUA": "провулок Різниківський, 1"
+ },
+ {
+  "id": 143959,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3788,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2125803499,
+  "lati": 49.997559949300005,
+  "FullNameUA": "провулок Різниківський, 1-А"
+ },
+ {
+  "id": 176654,
+  "postcode": 61052,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3788,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "156, 01.02.2017; Рішення ХМР № 800, 08.11.2017, дод. 2, п. 10",
+  "reg_date": "13.03.2017 11:53:48",
+  "longt": 36.213586181400004,
+  "lati": 49.9970053555,
+  "FullNameUA": "провулок Різниківський, 4"
+ },
+ {
+  "id": 143960,
+  "postcode": 61052,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3788,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2137841731,
+  "lati": 49.996584588800005,
+  "FullNameUA": "провулок Різниківський, 6"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "id": 159812,
+  "postcode": 61010,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2422,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.243283633800004,
+  "lati": 49.9723013103,
+  "FullNameUA": "в'їзд Георгіївський 2-й, 4"
+ },
+ {
+  "id": 159813,
+  "postcode": 61010,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2422,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.243202547100005,
+  "lati": 49.9725332158,
+  "FullNameUA": "в'їзд Георгіївський 2-й, 6"
+ }
+]

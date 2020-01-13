@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177957,
+  "postcode": 61001,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2369,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Комінтернівської  райради № 172-3, 16.07.2004",
+  "reg_date": "28.02.2019 11:24:02",
+  "longt": 36.2606773151,
+  "lati": 49.9839334194,
+  "FullNameUA": "провулок Власівський, 4"
+ }
+]

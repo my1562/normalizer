@@ -1,0 +1,77 @@
+[
+ {
+  "id": 156487,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4211,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2053148834,
+  "lati": 49.98631062410001,
+  "FullNameUA": "в'їзд Усівський 3-й, 3"
+ },
+ {
+  "id": 156489,
+  "postcode": 61052,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4211,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.205545702500004,
+  "lati": 49.986174071200004,
+  "FullNameUA": "в'їзд Усівський 3-й, 5-А"
+ },
+ {
+  "id": 156488,
+  "postcode": 61052,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4211,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.205283352900004,
+  "lati": 49.9861874029,
+  "FullNameUA": "в'їзд Усівський 3-й, 5"
+ }
+]

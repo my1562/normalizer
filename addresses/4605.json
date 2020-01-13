@@ -1,0 +1,102 @@
+[
+ {
+  "id": 180304,
+  "postcode": 61177,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4605,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1526356441,
+  "lati": 49.995487705500004,
+  "FullNameUA": "вулиця Гумілевського, 2"
+ },
+ {
+  "id": 146637,
+  "postcode": 61177,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4605,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1528347061,
+  "lati": 49.9948440033,
+  "FullNameUA": "вулиця Гумілевського, 4"
+ },
+ {
+  "id": 146638,
+  "postcode": 61177,
+  "number": 6,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 4605,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.152796936499996,
+  "lati": 49.994569314100005,
+  "FullNameUA": "вулиця Гумілевського, 6/2"
+ },
+ {
+  "id": 146639,
+  "postcode": 61177,
+  "number": 8,
+  "suffix": "/22",
+  "block": "",
+  "streetid": 4605,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.153094321299996,
+  "lati": 49.994097941,
+  "FullNameUA": "вулиця Гумілевського, 8/22"
+ }
+]

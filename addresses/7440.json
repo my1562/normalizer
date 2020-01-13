@@ -1,0 +1,27 @@
+[
+ {
+  "id": 179699,
+  "postcode": 61019,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 7440,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1329254508,
+  "lati": 49.9653334806,
+  "FullNameUA": "вулиця Червонобаварська (сел. Пісочин), 21"
+ }
+]

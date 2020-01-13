@@ -1,0 +1,52 @@
+[
+ {
+  "id": 163873,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2289441984,
+  "lati": 49.9062477819,
+  "FullNameUA": "в'їзд Надбірний, 1"
+ },
+ {
+  "id": 163874,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3337,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.229029979799996,
+  "lati": 49.9060351808,
+  "FullNameUA": "в'їзд Надбірний, 3"
+ }
+]

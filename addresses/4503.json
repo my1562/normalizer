@@ -1,0 +1,77 @@
+[
+ {
+  "id": 146583,
+  "postcode": 61040,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1702025695,
+  "lati": 50.0400300099,
+  "FullNameUA": "вулиця Зарічна, 1"
+ },
+ {
+  "id": 146584,
+  "postcode": 61040,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.169884126300005,
+  "lati": 50.039724926,
+  "FullNameUA": "вулиця Зарічна, 2"
+ },
+ {
+  "id": 146585,
+  "postcode": 61040,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4503,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.170053132,
+  "lati": 50.039740978000005,
+  "FullNameUA": "вулиця Зарічна, 4"
+ }
+]

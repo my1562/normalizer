@@ -1,0 +1,102 @@
+[
+ {
+  "id": 146709,
+  "postcode": 61019,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4767,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "08.04.2019 11:15:48",
+  "longt": 36.128860916499995,
+  "lati": 49.9709987983,
+  "FullNameUA": "вулиця Надточіївська, 2"
+ },
+ {
+  "id": 146710,
+  "postcode": 61019,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4767,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.05.2018 12:26:14",
+  "longt": 36.1286382642,
+  "lati": 49.9718696501,
+  "FullNameUA": "вулиця Надточіївська, 3"
+ },
+ {
+  "id": 146711,
+  "postcode": 61019,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4767,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "08.04.2019 11:14:42",
+  "longt": 36.1296027506,
+  "lati": 49.971195404199996,
+  "FullNameUA": "вулиця Надточіївська, 4"
+ },
+ {
+  "id": 146712,
+  "postcode": 61019,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4767,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "08.04.2019 09:58:21",
+  "longt": 36.1299378814,
+  "lati": 49.97238438,
+  "FullNameUA": "вулиця Надточіївська, 5"
+ }
+]

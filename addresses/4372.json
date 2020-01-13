@@ -1,0 +1,102 @@
+[
+ {
+  "id": 146221,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4372,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2110747297,
+  "lati": 49.9939553171,
+  "FullNameUA": "в'їзд Чоботарський 1-й, 1"
+ },
+ {
+  "id": 146222,
+  "postcode": 61052,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4372,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.211410356900004,
+  "lati": 49.9937838661,
+  "FullNameUA": "в'їзд Чоботарський 1-й, 2"
+ },
+ {
+  "id": 146223,
+  "postcode": 61052,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4372,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.211267958600004,
+  "lati": 49.99419733,
+  "FullNameUA": "в'їзд Чоботарський 1-й, 3"
+ },
+ {
+  "id": 146224,
+  "postcode": 61052,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4372,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2115816815,
+  "lati": 49.9940870781,
+  "FullNameUA": "в'їзд Чоботарський 1-й, 4"
+ }
+]

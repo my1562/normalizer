@@ -1,0 +1,77 @@
+[
+ {
+  "id": 181513,
+  "postcode": 61107,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 8220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:13:009:0256)\n\n\n",
+  "confrm": "",
+  "reg_date": "29.10.2019 09:25:26",
+  "longt": 36.3261278612,
+  "lati": 50.0325606094,
+  "FullNameUA": "вулиця Тисова, 13"
+ },
+ {
+  "id": 181512,
+  "postcode": 61107,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 8220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:13:009:0255)\n\n\n",
+  "confrm": "",
+  "reg_date": "29.10.2019 09:24:54",
+  "longt": 36.3262106396,
+  "lati": 50.0327026389,
+  "FullNameUA": "вулиця Тисова, 15"
+ },
+ {
+  "id": 181511,
+  "postcode": 61107,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 8220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:13:009:0254)\n\n\n",
+  "confrm": "",
+  "reg_date": "29.10.2019 09:21:49",
+  "longt": 36.3262890251,
+  "lati": 50.0328554241,
+  "FullNameUA": "вулиця Тисова, 17"
+ }
+]

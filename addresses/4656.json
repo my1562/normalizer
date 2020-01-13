@@ -1,0 +1,102 @@
+[
+ {
+  "id": 114057,
+  "postcode": 61028,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4656,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 628, 02.10.13",
+  "reg_date": "02.10.2013 00:00:00",
+  "longt": 36.420040468500005,
+  "lati": 49.9546570369,
+  "FullNameUA": "провулок Затишнянський, 1"
+ },
+ {
+  "id": 114058,
+  "postcode": 61028,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4656,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 764, 20.11.2013",
+  "reg_date": "20.11.2013 00:00:00",
+  "longt": 36.418917101400005,
+  "lati": 49.953989597500005,
+  "FullNameUA": "провулок Затишнянський, 2"
+ },
+ {
+  "id": 114059,
+  "postcode": 61028,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4656,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 628, 02.10.13",
+  "reg_date": "02.10.2013 00:00:00",
+  "longt": 36.4202223152,
+  "lati": 49.9547938682,
+  "FullNameUA": "провулок Затишнянський, 3"
+ },
+ {
+  "id": 114060,
+  "postcode": 61028,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4656,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.4190635125,
+  "lati": 49.9541225126,
+  "FullNameUA": "провулок Затишнянський, 4"
+ }
+]

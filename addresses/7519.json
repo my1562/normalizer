@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177444,
+  "postcode": 61108,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 7519,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2650868462,
+  "lati": 50.099058385000006,
+  "FullNameUA": "вулиця Каразіна (сел. Лісне), 16"
+ }
+]

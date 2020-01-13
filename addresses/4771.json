@@ -1,0 +1,102 @@
+[
+ {
+  "id": 177440,
+  "postcode": 61108,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4771,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "23.05.2017 14:22:07",
+  "longt": 36.2649981423,
+  "lati": 50.100109229400005,
+  "FullNameUA": "провулок Лейпунського, 2"
+ },
+ {
+  "id": 181169,
+  "postcode": 61108,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4771,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка ",
+  "confrm": "",
+  "reg_date": "03.09.2019 11:27:22",
+  "longt": 36.2646971092,
+  "lati": 50.1001737989,
+  "FullNameUA": "провулок Лейпунського, 4"
+ },
+ {
+  "id": 131198,
+  "postcode": 61108,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4771,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "15.02.2019 16:31:26",
+  "longt": 36.2643813436,
+  "lati": 50.1002485973,
+  "FullNameUA": "провулок Лейпунського, 6"
+ },
+ {
+  "id": 131199,
+  "postcode": 61108,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4771,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "15.02.2019 16:32:58",
+  "longt": 36.264045208199995,
+  "lati": 50.1003183431,
+  "FullNameUA": "провулок Лейпунського, 8"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 157766,
+  "postcode": 61090,
+  "number": 24,
+  "suffix": "/9",
+  "block": "",
+  "streetid": 4526,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1412158791,
+  "lati": 49.930335434999996,
+  "FullNameUA": "проїзд Бугрименка, 24/9"
+ }
+]

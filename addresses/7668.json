@@ -1,0 +1,52 @@
+[
+ {
+  "id": 177953,
+  "postcode": 61067,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 7668,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Ленінської райради 608, 07.12.2004",
+  "reg_date": "20.12.2019 16:23:03",
+  "longt": 36.165207259000006,
+  "lati": 50.0029569594,
+  "FullNameUA": "провулок Робесп'єра, 11"
+ },
+ {
+  "id": 177958,
+  "postcode": 61067,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 7668,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.164614772600004,
+  "lati": 50.0028354782,
+  "FullNameUA": "провулок Робесп'єра, 20"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 142411,
+  "postcode": 61040,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1639997862,
+  "lati": 50.0401660554,
+  "FullNameUA": "в'їзд Набережний, 4"
+ },
+ {
+  "id": 142412,
+  "postcode": 61040,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.164279532200005,
+  "lati": 50.040135630099996,
+  "FullNameUA": "в'їзд Набережний, 4-А"
+ },
+ {
+  "id": 142413,
+  "postcode": 61040,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.163152390200004,
+  "lati": 50.0402953878,
+  "FullNameUA": "в'їзд Набережний, 5"
+ },
+ {
+  "id": 142414,
+  "postcode": 61040,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3330,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.163504729,
+  "lati": 50.0402327429,
+  "FullNameUA": "в'їзд Набережний, 7"
+ }
+]

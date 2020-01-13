@@ -1,0 +1,77 @@
+[
+ {
+  "id": 179325,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 8000,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3211226463,
+  "lati": 50.0522685974,
+  "FullNameUA": "вулиця Острівна (сел. Циркуни), 1-Б"
+ },
+ {
+  "id": 179323,
+  "postcode": 61107,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 8000,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "уточнення в адресі: поблизу вул. Річної м. Харкова",
+  "reg_date": "",
+  "longt": 36.3234076797,
+  "lati": 50.051249703500005,
+  "FullNameUA": "вулиця Острівна (сел. Циркуни), 20"
+ },
+ {
+  "id": 179872,
+  "postcode": 61107,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 8000,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3231000978,
+  "lati": 50.051084543500004,
+  "FullNameUA": "вулиця Острівна (сел. Циркуни), 22"
+ }
+]

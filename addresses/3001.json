@@ -1,0 +1,77 @@
+[
+ {
+  "id": 168844,
+  "postcode": 61037,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3001,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2880625928,
+  "lati": 49.9766665389,
+  "FullNameUA": "вулиця Кошкіна, 2"
+ },
+ {
+  "id": 168845,
+  "postcode": 61037,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3001,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.287872549,
+  "lati": 49.9762072139,
+  "FullNameUA": "вулиця Кошкіна, 4"
+ },
+ {
+  "id": 168846,
+  "postcode": 61037,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3001,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2876000197,
+  "lati": 49.9756243011,
+  "FullNameUA": "вулиця Кошкіна, 10"
+ }
+]

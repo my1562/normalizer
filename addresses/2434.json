@@ -1,0 +1,77 @@
+[
+ {
+  "id": 138779,
+  "postcode": 61067,
+  "number": 1,
+  "suffix": "/7",
+  "block": "",
+  "streetid": 2434,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.182777694,
+  "lati": 50.0105897412,
+  "FullNameUA": "провулок Гірський, 1/7"
+ },
+ {
+  "id": 138780,
+  "postcode": 61067,
+  "number": 2,
+  "suffix": "/7",
+  "block": "",
+  "streetid": 2434,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.182654999,
+  "lati": 50.010866528099996,
+  "FullNameUA": "провулок Гірський, 2/7"
+ },
+ {
+  "id": 138781,
+  "postcode": 61067,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2434,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1820651333,
+  "lati": 50.0107268541,
+  "FullNameUA": "провулок Гірський, 4"
+ }
+]

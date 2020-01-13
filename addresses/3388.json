@@ -1,0 +1,52 @@
+[
+ {
+  "id": 142540,
+  "postcode": 61093,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3388,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1828729208,
+  "lati": 49.996725916500004,
+  "FullNameUA": "узвіз Нижньогиївський 6-й, 3"
+ },
+ {
+  "id": 142541,
+  "postcode": 61093,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3388,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1830762251,
+  "lati": 49.9968183649,
+  "FullNameUA": "узвіз Нижньогиївський 6-й, 4"
+ }
+]

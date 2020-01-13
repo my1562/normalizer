@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177703,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7741,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "794, 12.12.2012; 387, 21.06.2017; 670, 21.06.2017",
+  "reg_date": "03.07.2017 12:34:05",
+  "longt": 36.2655420777,
+  "lati": 50.057557587000005,
+  "FullNameUA": "в'їзд Харченківський, 3"
+ }
+]

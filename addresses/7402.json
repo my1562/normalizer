@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178151,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7402,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.371590151,
+  "lati": 49.98278577520001,
+  "FullNameUA": "вулиця Перемоги (сел. Перемога), 1"
+ },
+ {
+  "id": 176335,
+  "postcode": 61026,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7402,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3710877426,
+  "lati": 49.982987090600005,
+  "FullNameUA": "вулиця Перемоги (сел. Перемога), 4"
+ }
+]

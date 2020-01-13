@@ -1,0 +1,77 @@
+[
+ {
+  "id": 108878,
+  "postcode": 61032,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 7282,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.430102779,
+  "lati": 49.9410286781,
+  "FullNameUA": " Плиткове сел., 12"
+ },
+ {
+  "id": 108880,
+  "postcode": 61032,
+  "number": 13,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7282,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.4301036578,
+  "lati": 49.9395999659,
+  "FullNameUA": " Плиткове сел., 13-А"
+ },
+ {
+  "id": 108879,
+  "postcode": 61032,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 7282,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.4303014098,
+  "lati": 49.940284305199995,
+  "FullNameUA": " Плиткове сел., 13"
+ }
+]

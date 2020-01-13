@@ -1,0 +1,52 @@
+[
+ {
+  "id": 108711,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4739,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.11.2013 00:00:00",
+  "longt": 36.388278552500005,
+  "lati": 49.986203216300005,
+  "FullNameUA": "в'їзд Ювілейний, 1"
+ },
+ {
+  "id": 108712,
+  "postcode": 61026,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4739,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.04.2019 11:37:24",
+  "longt": 36.388762504300004,
+  "lati": 49.9862848503,
+  "FullNameUA": "в'їзд Ювілейний, 3"
+ }
+]

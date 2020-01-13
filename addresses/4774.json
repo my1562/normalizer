@@ -1,0 +1,27 @@
+[
+ {
+  "id": 114404,
+  "postcode": 61028,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4774,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 51, 22.01.14",
+  "reg_date": "22.01.2014 00:00:00",
+  "longt": 36.4218014312,
+  "lati": 49.9557833247,
+  "FullNameUA": "вулиця Орджонікідзе, 5"
+ }
+]

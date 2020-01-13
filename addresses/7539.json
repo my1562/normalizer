@@ -1,0 +1,102 @@
+[
+ {
+  "id": 178119,
+  "postcode": 61107,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 7539,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3313767314,
+  "lati": 50.054817408800005,
+  "FullNameUA": "вулиця Колосиста (сел. Циркуни), 24"
+ },
+ {
+  "id": 178120,
+  "postcode": 61107,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 7539,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3311246037,
+  "lati": 50.054965511300004,
+  "FullNameUA": "вулиця Колосиста (сел. Циркуни), 26"
+ },
+ {
+  "id": 180930,
+  "postcode": 61107,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 7539,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "26.06.2019 16:13:44",
+  "longt": 36.3308683616,
+  "lati": 50.055185563200006,
+  "FullNameUA": "вулиця Колосиста (сел. Циркуни), 28"
+ },
+ {
+  "id": 178377,
+  "postcode": 61107,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 7539,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3304889202,
+  "lati": 50.05537192960001,
+  "FullNameUA": "вулиця Колосиста (сел. Циркуни), 30"
+ }
+]

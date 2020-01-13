@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178354,
+  "postcode": 61096,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 7501,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.320475162,
+  "lati": 49.9305472712,
+  "FullNameUA": "в'їзд Ломоносова (сел Павленки), 5"
+ },
+ {
+  "id": 178341,
+  "postcode": 61096,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 7501,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3208731121,
+  "lati": 49.9306616337,
+  "FullNameUA": "в'їзд Ломоносова (сел Павленки), 7"
+ }
+]

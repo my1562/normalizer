@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176297,
+  "postcode": 61067,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7217,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "рішення ВК ХМР 69, 01.02.2017",
+  "reg_date": "",
+  "longt": 36.187354029299996,
+  "lati": 50.0114869246,
+  "FullNameUA": "провулок Донбасівський, 1"
+ },
+ {
+  "id": 176298,
+  "postcode": 61067,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7217,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "рішення ВК ХМР 69, 01.02.2017; Рішення ВК ХМР № 423, 22.06.2018 внесення змін",
+  "reg_date": "02.07.2018 16:11:11",
+  "longt": 36.1870189011,
+  "lati": 50.0117777392,
+  "FullNameUA": "провулок Донбасівський, 3"
+ }
+]

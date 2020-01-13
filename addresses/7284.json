@@ -1,0 +1,102 @@
+[
+ {
+  "id": 179269,
+  "postcode": 61026,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7284,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3670474291,
+  "lati": 49.9859623229,
+  "FullNameUA": "вулиця Нагорна (сел. Перемога), 3-А"
+ },
+ {
+  "id": 178326,
+  "postcode": 61026,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 7284,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3674048334,
+  "lati": 49.9845058812,
+  "FullNameUA": "вулиця Нагорна (сел. Перемога), 9"
+ },
+ {
+  "id": 179268,
+  "postcode": 61026,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 7284,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.36685431,
+  "lati": 49.9856829379,
+  "FullNameUA": "вулиця Нагорна (сел. Перемога), 14"
+ },
+ {
+  "id": 179267,
+  "postcode": 61026,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 7284,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3667041063,
+  "lati": 49.98619686720001,
+  "FullNameUA": "вулиця Нагорна (сел. Перемога), 16"
+ }
+]

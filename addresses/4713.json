@@ -1,0 +1,77 @@
+[
+ {
+  "id": 171567,
+  "postcode": 61162,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4713,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 204, 26.03.2014; 1662, 29.10.2014; 598, 19.04.2017",
+  "reg_date": "25.05.2017 11:39:22",
+  "longt": 36.320869396,
+  "lati": 49.9273660193,
+  "FullNameUA": "в'їзд Коновченка, 1"
+ },
+ {
+  "id": 171568,
+  "postcode": 61162,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4713,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 809, 11.12.13; 1518, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.3208938955,
+  "lati": 49.926998365,
+  "FullNameUA": "в'їзд Коновченка, 2"
+ },
+ {
+  "id": 171569,
+  "postcode": 61162,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4713,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 142, 05.03 2014; 1518, 26.03.2014",
+  "reg_date": "26.03.2014 00:00:00",
+  "longt": 36.3211389068,
+  "lati": 49.9272750967,
+  "FullNameUA": "в'їзд Коновченка, 3"
+ }
+]

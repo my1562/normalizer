@@ -1,0 +1,102 @@
+[
+ {
+  "id": 144351,
+  "postcode": 61016,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3950,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1924039672,
+  "lati": 50.0042981277,
+  "FullNameUA": "в'їзд Сковородинівський, 2"
+ },
+ {
+  "id": 144352,
+  "postcode": 61016,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3950,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.192278242,
+  "lati": 50.0041184341,
+  "FullNameUA": "в'їзд Сковородинівський, 3"
+ },
+ {
+  "id": 144353,
+  "postcode": 61016,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3950,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1919692507,
+  "lati": 50.0041728592,
+  "FullNameUA": "в'їзд Сковородинівський, 4"
+ },
+ {
+  "id": 144354,
+  "postcode": 61016,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3950,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1921638284,
+  "lati": 50.00441568,
+  "FullNameUA": "в'їзд Сковородинівський, 5"
+ }
+]

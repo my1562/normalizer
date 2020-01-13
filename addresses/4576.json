@@ -1,0 +1,102 @@
+[
+ {
+  "id": 175741,
+  "postcode": 61090,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4576,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.1480857023,
+  "lati": 49.928804275800005,
+  "FullNameUA": "провулок Руденка, 1"
+ },
+ {
+  "id": 175742,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4576,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.1481975092,
+  "lati": 49.9286182561,
+  "FullNameUA": "провулок Руденка, 3"
+ },
+ {
+  "id": 175743,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4576,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.1484629972,
+  "lati": 49.9284724606,
+  "FullNameUA": "провулок Руденка, 3-А"
+ },
+ {
+  "id": 175744,
+  "postcode": 61090,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4576,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.148973093100004,
+  "lati": 49.928990032200005,
+  "FullNameUA": "провулок Руденка, 7"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 149231,
+  "postcode": 61098,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2634,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.174036620900004,
+  "lati": 49.9751867147,
+  "FullNameUA": "в'їзд Електричний, 2"
+ }
+]

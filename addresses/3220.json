@@ -1,0 +1,102 @@
+[
+ {
+  "id": 125145,
+  "postcode": 61057,
+  "number": 1,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 3220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.235035488,
+  "lati": 49.996207123000005,
+  "FullNameUA": "провулок Мар'яненка, 1/3"
+ },
+ {
+  "id": 179710,
+  "postcode": 61057,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23483218610001,
+  "lati": 49.9958454286,
+  "FullNameUA": "провулок Мар'яненка, 1"
+ },
+ {
+  "id": 125146,
+  "postcode": 61057,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.235167772100006,
+  "lati": 49.9957901012,
+  "FullNameUA": "провулок Мар'яненка, 3"
+ },
+ {
+  "id": 125147,
+  "postcode": 61057,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3220,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.23512832390001,
+  "lati": 49.995492232000004,
+  "FullNameUA": "провулок Мар'яненка, 4"
+ }
+]

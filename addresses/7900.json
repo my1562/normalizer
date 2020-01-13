@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178993,
+  "postcode": 61090,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 7900,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.136567890600006,
+  "lati": 49.933677872,
+  "FullNameUA": "вулиця Звенигородська (сел. Пісочин), 12"
+ },
+ {
+  "id": 178995,
+  "postcode": 61090,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 7900,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.135875880700006,
+  "lati": 49.9303353141,
+  "FullNameUA": "вулиця Звенигородська (сел. Пісочин), 30"
+ }
+]

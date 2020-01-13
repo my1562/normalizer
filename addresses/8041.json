@@ -1,0 +1,77 @@
+[
+ {
+  "id": 176100,
+  "postcode": 61026,
+  "number": 32,
+  "suffix": "",
+  "block": "",
+  "streetid": 8041,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.373104285699995,
+  "lati": 49.9913348328,
+  "FullNameUA": "вулиця Волошкова (сел. Кулиничі), 32"
+ },
+ {
+  "id": 180110,
+  "postcode": 61026,
+  "number": 45,
+  "suffix": "",
+  "block": "",
+  "streetid": 8041,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.372756042199995,
+  "lati": 49.991867593100004,
+  "FullNameUA": "вулиця Волошкова (сел. Кулиничі), 45"
+ },
+ {
+  "id": 179522,
+  "postcode": 61026,
+  "number": 46,
+  "suffix": "",
+  "block": "",
+  "streetid": 8041,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3752255658,
+  "lati": 49.992509358300005,
+  "FullNameUA": "вулиця Волошкова (сел. Кулиничі), 46"
+ }
+]

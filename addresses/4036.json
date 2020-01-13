@@ -1,0 +1,77 @@
+[
+ {
+  "id": 144919,
+  "postcode": 61177,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4036,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1565100934,
+  "lati": 49.982474018800005,
+  "FullNameUA": "провулок Старопрудний, 3"
+ },
+ {
+  "id": 144920,
+  "postcode": 61177,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4036,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.156788267799996,
+  "lati": 49.982476809400005,
+  "FullNameUA": "провулок Старопрудний, 5"
+ },
+ {
+  "id": 144921,
+  "postcode": 61177,
+  "number": 7,
+  "suffix": "/17",
+  "block": "",
+  "streetid": 4036,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1570466245,
+  "lati": 49.9824718731,
+  "FullNameUA": "провулок Старопрудний, 7/17"
+ }
+]

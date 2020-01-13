@@ -1,0 +1,27 @@
+[
+ {
+  "id": 129703,
+  "postcode": 61023,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4339,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2622720745,
+  "lati": 50.0146700475,
+  "FullNameUA": "провулок Ново-Толкачівський, 12-А"
+ }
+]

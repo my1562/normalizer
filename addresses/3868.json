@@ -1,0 +1,102 @@
+[
+ {
+  "id": 165595,
+  "postcode": 61030,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3868,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.245474981200005,
+  "lati": 49.9568559067,
+  "FullNameUA": "в'їзд Саратовський, 6"
+ },
+ {
+  "id": 165596,
+  "postcode": 61030,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3868,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.248206064600005,
+  "lati": 49.9582117172,
+  "FullNameUA": "в'їзд Саратовський, 8"
+ },
+ {
+  "id": 165597,
+  "postcode": 61030,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3868,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2480670428,
+  "lati": 49.9583523458,
+  "FullNameUA": "в'їзд Саратовський, 10"
+ },
+ {
+  "id": 165598,
+  "postcode": 61030,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3868,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2479185149,
+  "lati": 49.9584488992,
+  "FullNameUA": "в'їзд Саратовський, 12"
+ }
+]

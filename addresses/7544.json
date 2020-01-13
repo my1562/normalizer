@@ -1,0 +1,102 @@
+[
+ {
+  "id": 180932,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7544,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "26.06.2019 16:46:00",
+  "longt": 36.327139428,
+  "lati": 50.054153803800006,
+  "FullNameUA": "вулиця Тиха (сел. Циркуни), 1"
+ },
+ {
+  "id": 180922,
+  "postcode": 61107,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 7544,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "26.06.2019 14:17:33",
+  "longt": 36.3277413702,
+  "lati": 50.054424042600004,
+  "FullNameUA": "вулиця Тиха (сел. Циркуни), 13"
+ },
+ {
+  "id": 177476,
+  "postcode": 61107,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 7544,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3249942208,
+  "lati": 50.0517876663,
+  "FullNameUA": "вулиця Тиха (сел. Циркуни), 20"
+ },
+ {
+  "id": 178887,
+  "postcode": 61107,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 7544,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3273196206,
+  "lati": 50.053084012300005,
+  "FullNameUA": "вулиця Тиха (сел. Циркуни), 34"
+ }
+]

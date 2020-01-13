@@ -1,0 +1,27 @@
+[
+ {
+  "id": 136932,
+  "postcode": 61038,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4410,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2957207667,
+  "lati": 49.98694261440001,
+  "FullNameUA": "вулиця Шкільна, 4-А"
+ }
+]

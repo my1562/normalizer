@@ -1,0 +1,52 @@
+[
+ {
+  "id": 119887,
+  "postcode": 61108,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4704,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1845, 25.02.2015",
+  "reg_date": "20.05.2019 17:58:48",
+  "longt": 36.2188300344,
+  "lati": 50.081773929899995,
+  "FullNameUA": "вулиця Богодухівська, 4"
+ },
+ {
+  "id": 176159,
+  "postcode": 61108,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4704,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "453, 21.12.2016",
+  "reg_date": "01.02.2017 11:23:13",
+  "longt": 36.2188308602,
+  "lati": 50.082345411999995,
+  "FullNameUA": "вулиця Богодухівська, 7"
+ }
+]

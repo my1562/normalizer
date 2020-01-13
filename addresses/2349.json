@@ -1,0 +1,27 @@
+[
+ {
+  "id": 115650,
+  "postcode": 61045,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2349,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2086634284,
+  "lati": 50.034635271,
+  "FullNameUA": "провулок Калиновий, 2-А"
+ }
+]

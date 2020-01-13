@@ -1,0 +1,77 @@
+[
+ {
+  "id": 176310,
+  "postcode": 61121,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 7457,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4340463281,
+  "lati": 49.938547128799996,
+  "FullNameUA": "вулиця Світла (сел. Затишшя (БМП-166)), 15"
+ },
+ {
+  "id": 178205,
+  "postcode": 61121,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 7457,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.434231400499996,
+  "lati": 49.9387348628,
+  "FullNameUA": "вулиця Світла (сел. Затишшя (БМП-166)), 17"
+ },
+ {
+  "id": 176386,
+  "postcode": 61121,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 7457,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4344640687,
+  "lati": 49.9393301325,
+  "FullNameUA": "вулиця Світла (сел. Затишшя (БМП-166)), 19"
+ }
+]

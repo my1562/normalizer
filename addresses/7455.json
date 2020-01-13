@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178686,
+  "postcode": 61032,
+  "number": 2,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 7455,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4313051105,
+  "lati": 49.937903217,
+  "FullNameUA": "вулиця Затишна (сел. Затишшя (БМП-166)), 2/3"
+ },
+ {
+  "id": 176751,
+  "postcode": 61032,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 7455,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.431671232,
+  "lati": 49.9384949084,
+  "FullNameUA": "вулиця Затишна (сел. Затишшя (БМП-166)), 6"
+ }
+]

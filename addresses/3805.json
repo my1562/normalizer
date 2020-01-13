@@ -1,0 +1,77 @@
+[
+ {
+  "id": 154908,
+  "postcode": 61064,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3805,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1858729309,
+  "lati": 49.98304778160001,
+  "FullNameUA": "провулок Розторгуївський, 2-А"
+ },
+ {
+  "id": 154907,
+  "postcode": 61064,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3805,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1843349906,
+  "lati": 49.9828645819,
+  "FullNameUA": "провулок Розторгуївський, 2"
+ },
+ {
+  "id": 154909,
+  "postcode": 61064,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3805,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1864212904,
+  "lati": 49.9828556207,
+  "FullNameUA": "провулок Розторгуївський, 3"
+ }
+]

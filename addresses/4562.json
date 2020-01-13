@@ -1,0 +1,102 @@
+[
+ {
+  "id": 130854,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.30713220530001,
+  "lati": 50.0493992628,
+  "FullNameUA": "провулок Тінистий, 2-А"
+ },
+ {
+  "id": 130853,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3069772588,
+  "lati": 50.0492867086,
+  "FullNameUA": "провулок Тінистий, 2"
+ },
+ {
+  "id": 130855,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3065454517,
+  "lati": 50.049321581899996,
+  "FullNameUA": "провулок Тінистий, 4"
+ },
+ {
+  "id": 175168,
+  "postcode": 61107,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.306425482,
+  "lati": 50.0488106945,
+  "FullNameUA": "провулок Тінистий, 13"
+ }
+]

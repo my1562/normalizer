@@ -1,0 +1,27 @@
+[
+ {
+  "id": 146613,
+  "postcode": 61052,
+  "number": 4,
+  "suffix": "/7",
+  "block": "",
+  "streetid": 4551,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.209179697,
+  "lati": 49.99278796,
+  "FullNameUA": "провулок Мало-Панасівський, 4/7"
+ }
+]

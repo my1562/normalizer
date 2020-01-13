@@ -1,0 +1,102 @@
+[
+ {
+  "id": 167396,
+  "postcode": 61105,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2029,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2988953368,
+  "lati": 49.9432120343,
+  "FullNameUA": "в'їзд Аеропортний, 3"
+ },
+ {
+  "id": 167397,
+  "postcode": 61105,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2029,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.299048498699996,
+  "lati": 49.942973390199995,
+  "FullNameUA": "в'їзд Аеропортний, 4-А"
+ },
+ {
+  "id": 167398,
+  "postcode": 61105,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2029,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2991661567,
+  "lati": 49.9431884098,
+  "FullNameUA": "в'їзд Аеропортний, 5"
+ },
+ {
+  "id": 167399,
+  "postcode": 61105,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2029,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2993421068,
+  "lati": 49.9432551874,
+  "FullNameUA": "в'їзд Аеропортний, 7"
+ }
+]

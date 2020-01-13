@@ -1,0 +1,52 @@
+[
+ {
+  "id": 178982,
+  "postcode": 61027,
+  "number": 55,
+  "suffix": "",
+  "block": "",
+  "streetid": 7469,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.352755075000005,
+  "lati": 50.0602410666,
+  "FullNameUA": "вулиця Окружна (сел. Циркуни), 55"
+ },
+ {
+  "id": 178978,
+  "postcode": 61027,
+  "number": 57,
+  "suffix": "",
+  "block": "",
+  "streetid": 7469,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3524134118,
+  "lati": 50.0604411084,
+  "FullNameUA": "вулиця Окружна (сел. Циркуни), 57"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 181756,
+  "postcode": 61096,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 7490,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "04.12.2019 14:52:15",
+  "longt": 36.3221254078,
+  "lati": 49.9343156416,
+  "FullNameUA": "вулиця Незалежності (сел. Павленки), 11"
+ }
+]

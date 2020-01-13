@@ -1,0 +1,27 @@
+[
+ {
+  "id": 177250,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4527,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.140191555,
+  "lati": 49.9307609161,
+  "FullNameUA": "в'їзд Бугрименка 1-й, 4"
+ }
+]

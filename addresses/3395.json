@@ -1,0 +1,77 @@
+[
+ {
+  "id": 142762,
+  "postcode": 61017,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3395,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2019722427,
+  "lati": 50.0076246544,
+  "FullNameUA": "провулок Ніжинський, 1"
+ },
+ {
+  "id": 142763,
+  "postcode": 61017,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3395,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2016410068,
+  "lati": 50.0066292886,
+  "FullNameUA": "провулок Ніжинський, 9"
+ },
+ {
+  "id": 142764,
+  "postcode": 61017,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 3395,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2011765007,
+  "lati": 50.007627989,
+  "FullNameUA": "провулок Ніжинський, 14"
+ }
+]

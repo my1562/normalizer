@@ -1,0 +1,77 @@
+[
+ {
+  "id": 120152,
+  "postcode": 61161,
+  "number": 1,
+  "suffix": "М",
+  "block": "",
+  "streetid": 2061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
+  "reg_date": "18.06.2014 00:00:00",
+  "longt": 36.304377645200006,
+  "lati": 50.0017114385,
+  "FullNameUA": "вулиця Амурська, 1-М"
+ },
+ {
+  "id": 120153,
+  "postcode": 61161,
+  "number": 2,
+  "suffix": "М",
+  "block": "",
+  "streetid": 2061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
+  "reg_date": "18.06.2014 00:00:00",
+  "longt": 36.301740856,
+  "lati": 50.00201711,
+  "FullNameUA": "вулиця Амурська, 2-М"
+ },
+ {
+  "id": 120154,
+  "postcode": 61161,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3044123932,
+  "lati": 50.001587624,
+  "FullNameUA": "вулиця Амурська, 17"
+ }
+]

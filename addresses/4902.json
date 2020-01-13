@@ -1,0 +1,52 @@
+[
+ {
+  "id": 131325,
+  "postcode": 0,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4902,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2987318167,
+  "lati": 50.066674515500004,
+  "FullNameUA": "провулок Ніколаєва, 1"
+ },
+ {
+  "id": 179843,
+  "postcode": 61085,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4902,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "31.10.2018 12:56:56",
+  "longt": 36.2987503409,
+  "lati": 50.0670162461,
+  "FullNameUA": "провулок Ніколаєва, 2"
+ }
+]

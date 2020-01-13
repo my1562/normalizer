@@ -1,0 +1,52 @@
+[
+ {
+  "id": 181563,
+  "postcode": 61026,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7842,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля літ. \"А-2\"",
+  "confrm": "",
+  "reg_date": "29.10.2019 16:18:38",
+  "longt": 36.374999228099995,
+  "lati": 49.987456314400006,
+  "FullNameUA": "провулок Чапліївський, 4"
+ },
+ {
+  "id": 181562,
+  "postcode": 61026,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 7842,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля літ. \"А<sup>2</sup>-1\"",
+  "confrm": "",
+  "reg_date": "29.10.2019 15:35:28",
+  "longt": 36.3756830206,
+  "lati": 49.989037798000005,
+  "FullNameUA": "провулок Чапліївський, 21"
+ }
+]

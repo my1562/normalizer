@@ -1,0 +1,52 @@
+[
+ {
+  "id": 153244,
+  "postcode": 61019,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 7641,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.151079982599995,
+  "lati": 49.9486521926,
+  "FullNameUA": "в'їзд Карамзіна, 2"
+ },
+ {
+  "id": 153245,
+  "postcode": 61019,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7641,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.151304409,
+  "lati": 49.9487460971,
+  "FullNameUA": "в'їзд Карамзіна, 3"
+ }
+]

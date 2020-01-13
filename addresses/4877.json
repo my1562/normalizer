@@ -1,0 +1,52 @@
+[
+ {
+  "id": 167332,
+  "postcode": 61109,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4877,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2249030378,
+  "lati": 49.9204519008,
+  "FullNameUA": "проїзд Жихорський, 6"
+ },
+ {
+  "id": 167333,
+  "postcode": 61109,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4877,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2247745811,
+  "lati": 49.9205867367,
+  "FullNameUA": "проїзд Жихорський, 8"
+ }
+]

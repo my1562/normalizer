@@ -1,0 +1,102 @@
+[
+ {
+  "id": 154825,
+  "postcode": 61039,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3777,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1834749404,
+  "lati": 49.9684143714,
+  "FullNameUA": "провулок Ржевський, 12"
+ },
+ {
+  "id": 154826,
+  "postcode": 61039,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3777,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1842160555,
+  "lati": 49.9685228124,
+  "FullNameUA": "провулок Ржевський, 15"
+ },
+ {
+  "id": 154827,
+  "postcode": 61039,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 3777,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1847098042,
+  "lati": 49.9682418675,
+  "FullNameUA": "провулок Ржевський, 17"
+ },
+ {
+  "id": 154828,
+  "postcode": 61039,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3777,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1844002919,
+  "lati": 49.9680475555,
+  "FullNameUA": "провулок Ржевський, 18"
+ }
+]

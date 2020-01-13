@@ -1,0 +1,77 @@
+[
+ {
+  "id": 160586,
+  "postcode": 61109,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2613,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2404843631,
+  "lati": 49.9417865107,
+  "FullNameUA": "в'їзд Достоєвського 1-й, 2"
+ },
+ {
+  "id": 160587,
+  "postcode": 61109,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2613,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2404782068,
+  "lati": 49.9416604515,
+  "FullNameUA": "в'їзд Достоєвського 1-й, 3"
+ },
+ {
+  "id": 160588,
+  "postcode": 61109,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2613,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2405215188,
+  "lati": 49.941476011199995,
+  "FullNameUA": "в'їзд Достоєвського 1-й, 4"
+ }
+]

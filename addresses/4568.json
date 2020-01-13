@@ -1,0 +1,102 @@
+[
+ {
+  "id": 178896,
+  "postcode": 61090,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4568,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1557094804,
+  "lati": 49.9289397294,
+  "FullNameUA": "в'їзд Чаадаєва 2-й, 1"
+ },
+ {
+  "id": 178895,
+  "postcode": 61090,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4568,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.156239023299996,
+  "lati": 49.9286060032,
+  "FullNameUA": "в'їзд Чаадаєва 2-й, 4"
+ },
+ {
+  "id": 178893,
+  "postcode": 61090,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4568,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1570897552,
+  "lati": 49.9290265586,
+  "FullNameUA": "в'їзд Чаадаєва 2-й, 14"
+ },
+ {
+  "id": 178894,
+  "postcode": 61090,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 4568,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1572661283,
+  "lati": 49.928872556500004,
+  "FullNameUA": "в'їзд Чаадаєва 2-й, 16"
+ }
+]

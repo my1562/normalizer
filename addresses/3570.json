@@ -1,0 +1,77 @@
+[
+ {
+  "id": 104867,
+  "postcode": 61176,
+  "number": 2,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3570,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3624705796,
+  "lati": 49.9796990045,
+  "FullNameUA": "провулок Петренківський 1-й, 2/1"
+ },
+ {
+  "id": 104868,
+  "postcode": 61176,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3570,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3623910412,
+  "lati": 49.979856799,
+  "FullNameUA": "провулок Петренківський 1-й, 4"
+ },
+ {
+  "id": 179928,
+  "postcode": 61176,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3570,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "землевпорядна документація сусіда",
+  "reg_date": "",
+  "longt": 36.362585328899996,
+  "lati": 49.980061538,
+  "FullNameUA": "провулок Петренківський 1-й, 6"
+ }
+]

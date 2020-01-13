@@ -1,0 +1,102 @@
+[
+ {
+  "id": 156420,
+  "postcode": 61071,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4193,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.191689744899996,
+  "lati": 49.928608838500004,
+  "FullNameUA": "в'їзд Удянський 2-й, 1"
+ },
+ {
+  "id": 156421,
+  "postcode": 61071,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4193,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1913774392,
+  "lati": 49.9286898362,
+  "FullNameUA": "в'їзд Удянський 2-й, 2"
+ },
+ {
+  "id": 156422,
+  "postcode": 61071,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4193,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.191190376399994,
+  "lati": 49.9287416099,
+  "FullNameUA": "в'їзд Удянський 2-й, 3"
+ },
+ {
+  "id": 156423,
+  "postcode": 61071,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4193,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1915076791,
+  "lati": 49.9288609268,
+  "FullNameUA": "в'їзд Удянський 2-й, 5"
+ }
+]

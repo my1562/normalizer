@@ -1,0 +1,102 @@
+[
+ {
+  "id": 116587,
+  "postcode": 61058,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2761,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2134551838,
+  "lati": 49.998482470700004,
+  "FullNameUA": "набережна Іванівська, 8"
+ },
+ {
+  "id": 116588,
+  "postcode": 61058,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2761,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2134819313,
+  "lati": 49.9986893677,
+  "FullNameUA": "набережна Іванівська, 9"
+ },
+ {
+  "id": 116589,
+  "postcode": 61058,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2761,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.212999022,
+  "lati": 49.9988044324,
+  "FullNameUA": "набережна Іванівська, 10"
+ },
+ {
+  "id": 116590,
+  "postcode": 61058,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 2761,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.212881681700004,
+  "lati": 49.9989735348,
+  "FullNameUA": "набережна Іванівська, 11"
+ }
+]

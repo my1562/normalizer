@@ -1,0 +1,52 @@
+[
+ {
+  "id": 176394,
+  "postcode": 61070,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4873,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.02.2017 11:25:45",
+  "longt": 36.2953301639,
+  "lati": 50.024587665000006,
+  "FullNameUA": "вулиця Борткевича, 2"
+ },
+ {
+  "id": 131308,
+  "postcode": 61070,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4873,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "10.02.2016 00:00:00",
+  "longt": 36.2945232589,
+  "lati": 50.0267571819,
+  "FullNameUA": "вулиця Борткевича, 6-А"
+ }
+]

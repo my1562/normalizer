@@ -1,0 +1,27 @@
+[
+ {
+  "id": 126997,
+  "postcode": 61057,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3637,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2354952036,
+  "lati": 49.995077756600004,
+  "FullNameUA": "майдан Поезії, 2"
+ }
+]

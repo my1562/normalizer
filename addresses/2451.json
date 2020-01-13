@@ -1,0 +1,27 @@
+[
+ {
+  "id": 168255,
+  "postcode": 61037,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2872893278,
+  "lati": 49.976654664899996,
+  "FullNameUA": "вулиця Гомоненка, 10"
+ }
+]

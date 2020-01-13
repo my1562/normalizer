@@ -1,0 +1,102 @@
+[
+ {
+  "id": 165769,
+  "postcode": 61124,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3921,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2555714697,
+  "lati": 49.9609681887,
+  "FullNameUA": "провулок Сидоренківський, 2"
+ },
+ {
+  "id": 165770,
+  "postcode": 61124,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3921,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2554038316,
+  "lati": 49.9609198749,
+  "FullNameUA": "провулок Сидоренківський, 2-А"
+ },
+ {
+  "id": 165771,
+  "postcode": 61124,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3921,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2559389323,
+  "lati": 49.9606679525,
+  "FullNameUA": "провулок Сидоренківський, 5"
+ },
+ {
+  "id": 165772,
+  "postcode": 61124,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3921,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.255665347,
+  "lati": 49.9604350093,
+  "FullNameUA": "провулок Сидоренківський, 8"
+ }
+]

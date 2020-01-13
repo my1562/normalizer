@@ -1,0 +1,77 @@
+[
+ {
+  "id": 156045,
+  "postcode": 61071,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4114,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1928446843,
+  "lati": 49.929312381900004,
+  "FullNameUA": "вулиця Тираспільська, 13"
+ },
+ {
+  "id": 156046,
+  "postcode": 61071,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 4114,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1931345808,
+  "lati": 49.929498617,
+  "FullNameUA": "вулиця Тираспільська, 15"
+ },
+ {
+  "id": 156047,
+  "postcode": 61071,
+  "number": 17,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 4114,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.193425925,
+  "lati": 49.929688963400004,
+  "FullNameUA": "вулиця Тираспільська, 17/1"
+ }
+]

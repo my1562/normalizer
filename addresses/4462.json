@@ -1,0 +1,77 @@
+[
+ {
+  "id": 107545,
+  "postcode": 61066,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4462,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.347339260800005,
+  "lati": 49.9661703884,
+  "FullNameUA": "в'їзд Яблуневий, 3"
+ },
+ {
+  "id": 107546,
+  "postcode": 61066,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4462,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3474629207,
+  "lati": 49.9663838917,
+  "FullNameUA": "в'їзд Яблуневий, 5"
+ },
+ {
+  "id": 107547,
+  "postcode": 61066,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4462,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3477202818,
+  "lati": 49.9665080384,
+  "FullNameUA": "в'їзд Яблуневий, 7"
+ }
+]

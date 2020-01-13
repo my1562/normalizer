@@ -1,0 +1,52 @@
+[
+ {
+  "id": 114503,
+  "postcode": 61028,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 4795,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "31.01.2019 15:25:47",
+  "longt": 36.426433428500005,
+  "lati": 49.950610613200006,
+  "FullNameUA": "вулиця Велико-Бурлуцька, 30"
+ },
+ {
+  "id": 114504,
+  "postcode": 61028,
+  "number": 32,
+  "suffix": "",
+  "block": "",
+  "streetid": 4795,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "споруди складу - нежитлові будівлі літ. \"А-2\", літ. \"Б-2\", літ. \"В-1\"",
+  "confrm": "",
+  "reg_date": "31.01.2019 15:32:54",
+  "longt": 36.4246697466,
+  "lati": 49.9521156769,
+  "FullNameUA": "вулиця Велико-Бурлуцька, 32"
+ }
+]

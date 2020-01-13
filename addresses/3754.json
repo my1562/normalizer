@@ -1,0 +1,102 @@
+[
+ {
+  "id": 154704,
+  "postcode": 61071,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3754,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1872421235,
+  "lati": 49.9333386489,
+  "FullNameUA": "провулок Райгородський, 3"
+ },
+ {
+  "id": 154705,
+  "postcode": 61071,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3754,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1876285451,
+  "lati": 49.9331344609,
+  "FullNameUA": "провулок Райгородський, 4"
+ },
+ {
+  "id": 154706,
+  "postcode": 61071,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3754,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1877026157,
+  "lati": 49.9333780169,
+  "FullNameUA": "провулок Райгородський, 5"
+ },
+ {
+  "id": 154707,
+  "postcode": 61071,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3754,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.18799361,
+  "lati": 49.9331702149,
+  "FullNameUA": "провулок Райгородський, 6"
+ }
+]

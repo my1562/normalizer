@@ -1,0 +1,102 @@
+[
+ {
+  "id": 162721,
+  "postcode": 61003,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2419110182,
+  "lati": 49.9869779464,
+  "FullNameUA": "провулок Кузнечний, 1"
+ },
+ {
+  "id": 162722,
+  "postcode": 61003,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.240453885600004,
+  "lati": 49.9881533984,
+  "FullNameUA": "провулок Кузнечний, 2"
+ },
+ {
+  "id": 162723,
+  "postcode": 61003,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2408078957,
+  "lati": 49.98750619370001,
+  "FullNameUA": "провулок Кузнечний, 6"
+ },
+ {
+  "id": 162724,
+  "postcode": 61003,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3061,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2401439304,
+  "lati": 49.98655206910001,
+  "FullNameUA": "провулок Кузнечний, 8"
+ }
+]

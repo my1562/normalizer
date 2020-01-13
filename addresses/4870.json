@@ -1,0 +1,27 @@
+[
+ {
+  "id": 157908,
+  "postcode": 61019,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4870,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "16.01.2019 11:34:49",
+  "longt": 36.131173130600004,
+  "lati": 49.9621436301,
+  "FullNameUA": "проїзд Гуківський, 4"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 140876,
+  "postcode": 61098,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2966,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1599328685,
+  "lati": 49.9941683846,
+  "FullNameUA": "проїзд Коростенський, 1"
+ },
+ {
+  "id": 140877,
+  "postcode": 61098,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2966,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1597008572,
+  "lati": 49.994304289700004,
+  "FullNameUA": "проїзд Коростенський, 2"
+ },
+ {
+  "id": 140878,
+  "postcode": 61098,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2966,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1596670814,
+  "lati": 49.9941330703,
+  "FullNameUA": "проїзд Коростенський, 3"
+ },
+ {
+  "id": 140879,
+  "postcode": 61098,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2966,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.159584912999996,
+  "lati": 49.993833468000005,
+  "FullNameUA": "проїзд Коростенський, 5"
+ }
+]

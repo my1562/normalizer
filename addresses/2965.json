@@ -1,0 +1,77 @@
+[
+ {
+  "id": 140873,
+  "postcode": 61093,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2965,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.188546213,
+  "lati": 49.9945701598,
+  "FullNameUA": "провулок Коростельський, 3"
+ },
+ {
+  "id": 140874,
+  "postcode": 61093,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2965,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1886943105,
+  "lati": 49.9946983684,
+  "FullNameUA": "провулок Коростельський, 4"
+ },
+ {
+  "id": 140875,
+  "postcode": 61093,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2965,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1884806693,
+  "lati": 49.994793863400005,
+  "FullNameUA": "провулок Коростельський, 5"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": 137956,
+  "postcode": 61017,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 2174,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1991290363,
+  "lati": 50.013833740399996,
+  "FullNameUA": "вулиця Бессарабська, 20"
+ }
+]

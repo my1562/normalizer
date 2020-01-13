@@ -1,0 +1,102 @@
+[
+ {
+  "id": 140618,
+  "postcode": 61067,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 2863,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1778933905,
+  "lati": 50.012545888199995,
+  "FullNameUA": "в'їзд Керамічний 5-й, 1"
+ },
+ {
+  "id": 140619,
+  "postcode": 61067,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2863,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.177876390200005,
+  "lati": 50.012676829,
+  "FullNameUA": "в'їзд Керамічний 5-й, 3"
+ },
+ {
+  "id": 140620,
+  "postcode": 61067,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2863,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1777269834,
+  "lati": 50.0128961889,
+  "FullNameUA": "в'їзд Керамічний 5-й, 5"
+ },
+ {
+  "id": 140621,
+  "postcode": 61067,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 2863,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1779918529,
+  "lati": 50.0132027571,
+  "FullNameUA": "в'їзд Керамічний 5-й, 11"
+ }
+]

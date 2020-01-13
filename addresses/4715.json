@@ -1,0 +1,102 @@
+[
+ {
+  "id": 108693,
+  "postcode": 61026,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4715,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "32, 23.12.2015",
+  "reg_date": "16.05.2019 14:10:50",
+  "longt": 36.3940802507,
+  "lati": 49.9775424235,
+  "FullNameUA": "вулиця Краснокутська, 1"
+ },
+ {
+  "id": 108694,
+  "postcode": 61026,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4715,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1902, 24.06.2015",
+  "reg_date": "16.05.2019 14:13:26",
+  "longt": 36.3951089043,
+  "lati": 49.977485404,
+  "FullNameUA": "вулиця Краснокутська, 5"
+ },
+ {
+  "id": 180111,
+  "postcode": 61026,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4715,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "18.12.2018 14:51:20",
+  "longt": 36.395119096900004,
+  "lati": 49.9771954527,
+  "FullNameUA": "вулиця Краснокутська, 6"
+ },
+ {
+  "id": 108695,
+  "postcode": 61026,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4715,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 687, 05.11.2014; 132, 24.02.2016",
+  "reg_date": "05.11.2014 00:00:00",
+  "longt": 36.3956144487,
+  "lati": 49.9775226962,
+  "FullNameUA": "вулиця Краснокутська, 7"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "id": 153686,
+  "postcode": 61157,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3537,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2208291013,
+  "lati": 49.9617394008,
+  "FullNameUA": "провулок Парниківський, 1"
+ },
+ {
+  "id": 153687,
+  "postcode": 61157,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3537,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.220622408,
+  "lati": 49.961918082400004,
+  "FullNameUA": "провулок Парниківський, 1-А"
+ },
+ {
+  "id": 153688,
+  "postcode": 61157,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3537,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2209093842,
+  "lati": 49.9614193531,
+  "FullNameUA": "провулок Парниківський, 4"
+ },
+ {
+  "id": 153689,
+  "postcode": 61157,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3537,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2214638114,
+  "lati": 49.9611043637,
+  "FullNameUA": "провулок Парниківський, 6"
+ }
+]

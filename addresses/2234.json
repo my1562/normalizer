@@ -1,0 +1,27 @@
+[
+ {
+  "id": 176562,
+  "postcode": 61058,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2234,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.222598257,
+  "lati": 49.9966015982,
+  "FullNameUA": "набережна Ботанічна, 20-А"
+ }
+]

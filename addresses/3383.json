@@ -1,0 +1,102 @@
+[
+ {
+  "id": 142512,
+  "postcode": 61015,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1869406178,
+  "lati": 49.9963316097,
+  "FullNameUA": "узвіз Нижньогиївський 2-й, 3"
+ },
+ {
+  "id": 180279,
+  "postcode": 61015,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1872538386,
+  "lati": 49.9962874332,
+  "FullNameUA": "узвіз Нижньогиївський 2-й, 4"
+ },
+ {
+  "id": 142513,
+  "postcode": 61015,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1870551631,
+  "lati": 49.9965584305,
+  "FullNameUA": "узвіз Нижньогиївський 2-й, 5"
+ },
+ {
+  "id": 142514,
+  "postcode": 61015,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1867712701,
+  "lati": 49.996662788200005,
+  "FullNameUA": "узвіз Нижньогиївський 2-й, 7"
+ }
+]

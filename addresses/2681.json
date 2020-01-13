@@ -1,0 +1,77 @@
+[
+ {
+  "id": 122998,
+  "postcode": 61013,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2681,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2538737804,
+  "lati": 49.9992885376,
+  "FullNameUA": "в'їзд Журавлівський 2-й, 3"
+ },
+ {
+  "id": 122999,
+  "postcode": 61013,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2681,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2538495629,
+  "lati": 49.9989306162,
+  "FullNameUA": "в'їзд Журавлівський 2-й, 4"
+ },
+ {
+  "id": 123000,
+  "postcode": 61013,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2681,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2536186088,
+  "lati": 49.999246567200004,
+  "FullNameUA": "в'їзд Журавлівський 2-й, 7"
+ }
+]

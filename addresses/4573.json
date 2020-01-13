@@ -1,0 +1,77 @@
+[
+ {
+  "id": 175291,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4573,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3100145019,
+  "lati": 50.0481777462,
+  "FullNameUA": "вулиця Радужна, 4"
+ },
+ {
+  "id": 175292,
+  "postcode": 61107,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4573,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3099393613,
+  "lati": 50.0479259134,
+  "FullNameUA": "вулиця Радужна, 6"
+ },
+ {
+  "id": 177291,
+  "postcode": 61107,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4573,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.309846705000005,
+  "lati": 50.0477067668,
+  "FullNameUA": "вулиця Радужна, 10"
+ }
+]

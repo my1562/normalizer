@@ -1,0 +1,102 @@
+[
+ {
+  "id": 115587,
+  "postcode": 61058,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2235,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2236609462,
+  "lati": 49.9979687298,
+  "FullNameUA": "провулок Ботанічний, 2"
+ },
+ {
+  "id": 115588,
+  "postcode": 61058,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2235,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2222938662,
+  "lati": 49.996665696,
+  "FullNameUA": "провулок Ботанічний, 3"
+ },
+ {
+  "id": 115589,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2235,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2215093691,
+  "lati": 49.9967331545,
+  "FullNameUA": "провулок Ботанічний, 4"
+ },
+ {
+  "id": 175586,
+  "postcode": 61058,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2235,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2230841123,
+  "lati": 49.9976795228,
+  "FullNameUA": "провулок Ботанічний, 9"
+ }
+]
