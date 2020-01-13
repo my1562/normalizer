@@ -70,7 +70,8 @@ const replaceShortType = shortType => {
     const replacement = {
         'просп.': 'пр.',
         'м-н': 'пл.',
-        'узв.': 'сп.'
+        'узв.': 'сп.',
+        'відс.': 'пос.'
     }[shortType];
     return replacement || shortType;
 };
@@ -78,7 +79,7 @@ const replaceShortType = shortType => {
 const add1562LikeNameToARStreet = arStreet => {
     expect(arStreet.shortTypeUKR).to.be.a('string');
     expect(arStreet.name_ukr).to.be.a('string');
-    const shortType = replaceShortType(arStreet.shortTypeUKR);
+    const shortType = replaceShortType(arStreet.StreetType.t_s_ukr);
     const nameLike1562 = `${shortType} ${arStreet.name_ukr}`;
     arStreet.nameLike1562 = nameLike1562;
 };
