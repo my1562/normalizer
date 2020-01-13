@@ -50,11 +50,6 @@
     "arStreetID": null
   },
   {
-    "id": 450,
-    "name": "вул. Генерала Шумілова",
-    "arStreetID": null
-  },
-  {
     "id": 2847,
     "name": "в-д ГИЕВСКИЙ 2-Й",
     "arStreetID": null
@@ -62,31 +57,6 @@
   {
     "id": 2849,
     "name": "сп. ГИЕВСКИЙ 3-Й",
-    "arStreetID": null
-  },
-  {
-    "id": 2850,
-    "name": "вул. ГМЫРИ",
-    "arStreetID": null
-  },
-  {
-    "id": 2309,
-    "name": "пров. Гончарний (Тельмана в-д)",
-    "arStreetID": null
-  },
-  {
-    "id": 2851,
-    "name": "пр-д ГОРНЫЙ",
-    "arStreetID": null
-  },
-  {
-    "id": 2941,
-    "name": "вул. Горяевская",
-    "arStreetID": null
-  },
-  {
-    "id": 2852,
-    "name": "вул. ГУМИЛЕВСКОГО",
     "arStreetID": null
   },
   {
@@ -115,48 +85,13 @@
     "arStreetID": null
   },
   {
-    "id": 631,
-    "name": "пос. Дома завода Трансзвязок",
-    "arStreetID": null
-  },
-  {
-    "id": 2853,
-    "name": "пр-д ДОНБАССКИЙ",
-    "arStreetID": null
-  },
-  {
-    "id": 632,
-    "name": "пров. Донбаський",
-    "arStreetID": null
-  },
-  {
     "id": 638,
     "name": "дорога дорога",
     "arStreetID": null
   },
   {
-    "id": 1724,
-    "name": "вул. Дорошенківська (Петровського 2-й в-д)",
-    "arStreetID": null
-  },
-  {
-    "id": 1121,
-    "name": "пр-д Достоєвського (Кривомазова пров.)",
-    "arStreetID": null
-  },
-  {
-    "id": 2125,
-    "name": "б-р Жасминовий (Слинька Петра вул.)",
-    "arStreetID": null
-  },
-  {
     "id": 2854,
     "name": "вул. ЖЕЛЯБОВА",
-    "arStreetID": null
-  },
-  {
-    "id": 2940,
-    "name": "вул. Животноводов",
     "arStreetID": null
   },
   {
