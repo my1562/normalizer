@@ -14,6 +14,7 @@ const latLongToKey = (lat, lng) => {
 
 const arAddressToAddress = arAddress => {
     return {
+        id: arAddress.id,
         lat: arAddress.lati,
         lng: arAddress.longt,
         number: arAddress.number,
