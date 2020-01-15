@@ -31,7 +31,7 @@ const main = async () => {
     const index = await reduceAddresses((acc, address) => {
         const key = latLongToKey(address.lati, address.longt);
         const bucket = acc[key] ? acc[key] : (acc[key] = []);
-        bucket.push(arAddressToAddress(address));
+        bucket.push(address.id);
         return acc;
     }, {});
     console.timeEnd('reduce');
