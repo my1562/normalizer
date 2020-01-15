@@ -28,12 +28,17 @@ const arAddressToAddress = arAddress => {
 
 const main = async () => {
     console.time('reduce');
-    const index = await reduceAddresses((acc, address) => {
-        const key = latLongToKey(address.lati, address.longt);
-        const bucket = acc[key] ? acc[key] : (acc[key] = []);
-        bucket.push(address.id);
-        return acc;
-    }, {});
+    const { index, shortAddresses } = await reduceAddresses(
+        (acc, address) => {
+            const { index, shortAddresses } = acc;
+            const key = latLongToKey(address.lati, address.longt);
+            const bucket = index[key] ? index[key] : (index[key] = []);
+            bucket.push(address.id);
+            shortAddresses[address.id] = arAddressToAddress(address);
+            return acc;
+        },
+        { index: {}, shortAddresses: {} }
+    );
     console.timeEnd('reduce');
 
     const lengths = _(index)
@@ -56,6 +61,11 @@ const main = async () => {
     );
 
     await fs.writeFile('./data/geo-index.json', JSON.stringify(index), 'utf8');
+    await fs.writeFile(
+        './data/addresses.json',
+        JSON.stringify(shortAddresses),
+        'utf8'
+    );
 };
 
 main().catch(e => {
