@@ -19,6 +19,14 @@
             "skipFiles": ["<node_internals>/**"],
             "program": "${workspaceFolder}/tasks/load-addresses.js",
             "console": "integratedTerminal"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Process addresses",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${workspaceFolder}/tasks/process-addresses.js",
+            "console": "integratedTerminal"
         }
     ]
 }
