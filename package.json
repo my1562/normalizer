@@ -6,7 +6,8 @@
     "scripts": {
         "normalize": "node tasks/normalize",
         "load-addresses": "node tasks/load-addresses",
-        "process-addresses": "node tasks/process-addresses"
+        "process-addresses": "node tasks/process-addresses",
+        "codegen": "node tasks/codegen"
     },
     "keywords": [],
     "author": "",
