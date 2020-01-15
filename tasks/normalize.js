@@ -144,7 +144,7 @@ const decommunizedMatch = (streetsAR, streets1562) => {
 };
 
 const getManualMatches = async () =>
-    JSON.parse(await fs.readFile('./manual.json', 'utf8'));
+    JSON.parse(await fs.readFile('./data/manual.json', 'utf8'));
 
 const manualMatch = (streetsAR, manualMatches, streets1562) => {
     const index = _(manualMatches)
@@ -207,7 +207,7 @@ const main = async () => {
     console.time('client.get1562Streets');
     const streets1562 = await client.get1562Streets();
     await fs.writeFile(
-        './streets1562.json',
+        './data/streets1562.json',
         JSON.stringify(streets1562, false, 2),
         'utf8'
     );
@@ -216,7 +216,7 @@ const main = async () => {
     console.time('client.getARStreets');
     const streetsAR = await client.getARStreets();
     await fs.writeFile(
-        './streetsAR.json',
+        './data/streetsAR.json',
         JSON.stringify(streetsAR, false, 2),
         'utf8'
     );
@@ -254,7 +254,7 @@ const main = async () => {
         false,
         2
     );
-    await fs.writeFile('./unmatched.json', unmatchedJson, 'utf8');
+    await fs.writeFile('./data/unmatched.json', unmatchedJson, 'utf8');
 
     analyzeDuplications([
         ...strictMatchResult.matched,
@@ -268,7 +268,7 @@ const main = async () => {
         ...manualMatchResults.matched
     ]);
     await fs.writeFile(
-        './mapping.json',
+        './data/mapping.json',
         JSON.stringify(result, false, 1),
         'utf8'
     );

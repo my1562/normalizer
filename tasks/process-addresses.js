@@ -55,7 +55,7 @@ const main = async () => {
         )
     );
 
-    await fs.writeFile('./geo-index.json', JSON.stringify(index), 'utf8');
+    await fs.writeFile('./data/geo-index.json', JSON.stringify(index), 'utf8');
 };
 
 main().catch(e => {
