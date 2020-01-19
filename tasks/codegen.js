@@ -38,19 +38,19 @@ const escapeNum = n => n || 0;
 
 const addressToGoStruct = address => {
     const data = [
-        ['ID', escapeNum(address.id)],
-        ['Lat', escapeNum(address.lat)],
-        ['Lng', escapeNum(address.lng)],
-        ['Number', escapeNum(address.number)],
-        ['Suffix', escapeString(address.suffix)],
-        ['Block', escapeString(address.block)],
-        ['StreetID', escapeNum(address.streetID)],
-        ['Detail', escapeString(address.detail)],
-        ['DetailNumber', escapeNum(address.detailNumber)],
-        ['Postcode', escapeNum(address.postcode)]
+        escapeNum(address.id),
+        escapeNum(address.lat),
+        escapeNum(address.lng),
+        escapeNum(address.number),
+        escapeString(address.suffix),
+        escapeString(address.block),
+        escapeNum(address.streetID),
+        escapeString(address.detail),
+        escapeNum(address.detailNumber),
+        escapeNum(address.postcode),
     ];
 
-    return data.map(([key, value]) => `\t\t${key}: ${value},`).join('\n');
+    return data.join(', ');
 };
 
 const generateGeoIndex = async () => {
@@ -87,9 +87,7 @@ const generateAddressMap = async () => {
                     console.warn('Illegal address', address);
                     return '';
                 }
-                return `\t${key}: Address{\n${addressToGoStruct(
-                    address
-                )}\n\t},`;
+                return `\t${key}: Address{${addressToGoStruct(address)}},`;
             })
             .join('\n')
     );
