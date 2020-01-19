@@ -35,6 +35,24 @@ var Addresses = AddressMap{
 }
 `;
 
+const TPL_STREETS = `
+package my1562geocoder
+
+type StreetAR struct {
+	ID     uint32
+	NameUk string
+    NameRu string
+    TypeUk string
+    TypeRu string
+}
+
+type StreetsARMap map[uint32]StreetAR
+
+var StreetsAR = StreetsARMap{
+{LIST}
+}
+`;
+
 const escapeString = s => (s ? `"${s}"` : '""');
 const escapeNum = n => n || 0;
 
@@ -50,6 +68,17 @@ const addressToGoStruct = address => {
         escapeString(address.detail),
         escapeNum(address.detailNumber),
         escapeNum(address.postcode)
+    ];
+
+    return data.join(', ');
+};
+const streetArToGoStruct = streetAr => {
+    const data = [
+        escapeNum(streetAr.id),
+        escapeString(streetAr.name_ukr),
+        escapeString(streetAr.name_ru),
+        escapeString(streetAr.shortTypeUKR),
+        escapeString(streetAr.shortTypeRU)
     ];
 
     return data.join(', ');
@@ -100,9 +129,26 @@ const generateAddressMap = async () => {
     await fs.writeFile('./pkg/addresses.go', addressesGo, 'utf8');
 };
 
+const generateStreetsArMap = async () => {
+    const { items } = JSON.parse(
+        await fs.readFile('./data/streetsAR.json', 'utf8')
+    );
+    const itemsGo = TPL_STREETS.replace(
+        /{LIST}/g,
+        items
+            .map(item => {
+                return `\t${item.id}: StreetAR{${streetArToGoStruct(item)}},`;
+            })
+            .join('\n')
+    );
+
+    await fs.writeFile('./pkg/streetsAR.go', itemsGo, 'utf8');
+};
+
 const main = async () => {
     await generateGeoIndex();
     await generateAddressMap();
+    await generateStreetsArMap();
 };
 
 main().catch(e => {
