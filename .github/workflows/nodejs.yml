@@ -22,6 +22,8 @@ jobs:
     - name: clone geocoder
       run: |
         git clone https://corporateanon:${{secrets.GITHUB_PAT}}@github.com/corporateanon/my1562geocoder.git pkg
+        cd pkg
+        git checkout -b $EXT_BRANCH || git checkout $EXT_BRANCH
 
     - name: codegen
       run: |
@@ -37,9 +39,10 @@ jobs:
           git config --global user.name "Github Action"
           git add .
           git commit -m 'build'
-          git push
+          git push -u origin $EXT_BRANCH
         fi
 
 
       env:
         CI: true
+        EXT_BRANCH: codegen
