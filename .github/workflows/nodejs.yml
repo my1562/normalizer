@@ -21,7 +21,7 @@ jobs:
 
     - name: clone geocoder
       run: |
-        git clone git@github.com:corporateanon/my1562geocoder.git pkg
+        git clone https://corporateanon:${{secrets.GITHUB_PAT}}@github.com/corporateanon/my1562geocoder.git
 
     - name: codegen
       run: |
