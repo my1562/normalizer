@@ -18,8 +18,22 @@ jobs:
         npm i -g pnpm
         pnpm install --frozen-lockfile
         npm run build --if-present
+
+    - name: clone geocoder
+      run: |
+        git clone git@github.com:corporateanon/my1562geocoder.git pkg
+
     - name: codegen
       run: |
         npm run codegen
+
+    - name: push geocoder
+      run: |
+        cd pkg
+        git add .
+        git commit -m 'build'
+        git push
+
+
       env:
         CI: true
