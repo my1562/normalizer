@@ -5,6 +5,8 @@ package my1562geocoder
 
 type GeoIndex map[string][]uint32
 
+const GeoIndexResolution = {RESOLUTION}
+
 var GeoIndexData = GeoIndex{
 {LIST}
 }
@@ -47,19 +49,22 @@ const addressToGoStruct = address => {
         escapeNum(address.streetID),
         escapeString(address.detail),
         escapeNum(address.detailNumber),
-        escapeNum(address.postcode),
+        escapeNum(address.postcode)
     ];
 
     return data.join(', ');
 };
 
 const generateGeoIndex = async () => {
-    const index = JSON.parse(
+    const geoIndex = JSON.parse(
         await fs.readFile('./data/geo-index.json', 'utf8')
     );
     const geoindexGo = TPL_GEO_INDEX.replace(
+        /{RESOLUTION}/,
+        geoIndex.resolution
+    ).replace(
         /{LIST}/g,
-        Object.entries(index)
+        Object.entries(geoIndex.index)
             .map(([key, items]) => {
                 return `\t"${key}": {${items.join(', ')}},`;
             })
