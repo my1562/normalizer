@@ -30,11 +30,15 @@ jobs:
     - name: push geocoder
       run: |
         cd pkg
-        git config --global user.email "no"
-        git config --global user.name "Github Action"
-        git add .
-        git commit -m 'build'
-        git push
+        if [ -z "$(git status --porcelain)" ]; then 
+          echo "Nothing to commit"
+        else 
+          git config --global user.email "no"
+          git config --global user.name "Github Action"
+          git add .
+          git commit -m 'build'
+          git push
+        fi
 
 
       env:
