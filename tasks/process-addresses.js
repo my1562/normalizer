@@ -3,12 +3,11 @@ const fs = require('fs').promises;
 const chart = require('ascii-horizontal-barchart');
 const arraystat = require('../lib/arraystat');
 const { reduceAddresses } = require('../lib/addresses');
+const GEO_INDEX_RESOLUTION = 200;
 
 const latLongToKey = (lat, lng) => {
-    const resolution = 200;
-
-    const iLat = ((lat + 90) * resolution) | 0;
-    const iLng = ((lng + 180) * resolution) | 0;
+    const iLat = ((lat + 90) * GEO_INDEX_RESOLUTION) | 0;
+    const iLng = ((lng + 180) * GEO_INDEX_RESOLUTION) | 0;
     return iLat + '.' + iLng;
 };
 
@@ -61,7 +60,16 @@ const main = async () => {
         )
     );
 
-    await fs.writeFile('./data/geo-index.json', JSON.stringify(index), 'utf8');
+    const geoIndex = {
+        resolution: GEO_INDEX_RESOLUTION,
+        index
+    };
+
+    await fs.writeFile(
+        './data/geo-index.json',
+        JSON.stringify(geoIndex),
+        'utf8'
+    );
     await fs.writeFile(
         './data/addresses.json',
         JSON.stringify(shortAddresses),
