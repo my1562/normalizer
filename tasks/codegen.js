@@ -53,7 +53,6 @@ var StreetsAR = StreetsARMap{
 }
 `;
 
-
 const TPL_STREETS_1562 = `
 package my1562geocoder
 
@@ -84,7 +83,7 @@ var Streets1562ToAr = IDToIDMap{
 
 `;
 
-const escapeString = s => (s ? `"${s}"` : '""');
+const escapeString = s => (s ? `"${s.replace(/"/g, '\\"')}"` : '""');
 const escapeNum = n => n || 0;
 
 const addressToGoStruct = address => {
@@ -116,10 +115,7 @@ const streetArToGoStruct = streetAr => {
 };
 
 const street1562ToGoStruct = streetAr => {
-    const data = [
-        escapeNum(streetAr.id),
-        escapeString(streetAr.name),
-    ];
+    const data = [escapeNum(streetAr.id), escapeString(streetAr.name)];
 
     return data.join(', ');
 };
