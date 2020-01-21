@@ -189,7 +189,7 @@ const generateStreets1562Map = async () => {
         /{LIST}/g,
         items
             .map(item => {
-                return `\t${item.id}: StreetAR{${street1562ToGoStruct(item)}},`;
+                return `\t${item.id}: Street1562{${street1562ToGoStruct(item)}},`;
             })
             .join('\n')
     );
