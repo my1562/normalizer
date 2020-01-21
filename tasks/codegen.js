@@ -53,6 +53,37 @@ var StreetsAR = StreetsARMap{
 }
 `;
 
+
+const TPL_STREETS_1562 = `
+package my1562geocoder
+
+type Street1562 struct {
+	ID   uint32
+	Name string
+}
+
+type Streets1562Map map[uint32]Street1562
+
+var Streets1562 = Streets1562Map{
+{LIST}
+}
+`;
+
+const TPL_MAPPING = `
+package my1562geocoder
+
+type IDToIDMap map[uint32]uint32
+
+var StreetsARto1562 = IDToIDMap{
+    {LIST0}
+}
+var Streets1562ToAr = IDToIDMap{
+    {LIST1}
+}
+            
+
+`;
+
 const escapeString = s => (s ? `"${s}"` : '""');
 const escapeNum = n => n || 0;
 
@@ -79,6 +110,15 @@ const streetArToGoStruct = streetAr => {
         escapeString(streetAr.name_ru),
         escapeString(streetAr.shortTypeUKR),
         escapeString(streetAr.shortTypeRU)
+    ];
+
+    return data.join(', ');
+};
+
+const street1562ToGoStruct = streetAr => {
+    const data = [
+        escapeNum(streetAr.id),
+        escapeString(streetAr.name),
     ];
 
     return data.join(', ');
@@ -145,10 +185,52 @@ const generateStreetsArMap = async () => {
     await fs.writeFile('./pkg/streetsAR.go', itemsGo, 'utf8');
 };
 
+const generateStreets1562Map = async () => {
+    const { items } = JSON.parse(
+        await fs.readFile('./data/streets1562.json', 'utf8')
+    );
+    const itemsGo = TPL_STREETS_1562.replace(
+        /{LIST}/g,
+        items
+            .map(item => {
+                return `\t${item.id}: StreetAR{${street1562ToGoStruct(item)}},`;
+            })
+            .join('\n')
+    );
+
+    await fs.writeFile('./pkg/streets1562.go', itemsGo, 'utf8');
+};
+
+const generateIdToIdMaps = async () => {
+    const mappings = JSON.parse(
+        await fs.readFile('./data/mapping.json', 'utf8')
+    );
+
+    function mapper([key, value]) {
+        return `\t${key}: ${value},`;
+    }
+
+    const list0 = Object.entries(mappings['1562ToAR'])
+        .map(mapper)
+        .join('\n');
+    const list1 = Object.entries(mappings['arTo1562'])
+        .map(mapper)
+        .join('\n');
+
+    const goSource = TPL_MAPPING.replace(/{LIST0}/g, list0).replace(
+        /{LIST1}/g,
+        list1
+    );
+
+    await fs.writeFile('./pkg/mapping.go', goSource, 'utf8');
+};
+
 const main = async () => {
     await generateGeoIndex();
     await generateAddressMap();
     await generateStreetsArMap();
+    await generateIdToIdMaps();
+    await generateStreets1562Map();
 };
 
 main().catch(e => {
