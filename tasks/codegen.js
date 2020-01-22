@@ -206,10 +206,10 @@ const generateIdToIdMaps = async () => {
         return `\t${key}: ${value},`;
     }
 
-    const list0 = Object.entries(mappings['1562ToAR'])
+    const list1 = Object.entries(mappings['1562ToAR'])
         .map(mapper)
         .join('\n');
-    const list1 = Object.entries(mappings['arTo1562'])
+    const list0 = Object.entries(mappings['arTo1562'])
         .map(mapper)
         .join('\n');
 
