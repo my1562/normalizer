@@ -28,7 +28,7 @@ type Address struct {
 	Postcode     uint32
 }
 
-type AddressMap map[uint32]Address
+type AddressMap map[uint32]*Address
 
 var Addresses = AddressMap{
 {LIST}
@@ -46,7 +46,7 @@ type StreetAR struct {
     TypeRu string
 }
 
-type StreetsARMap map[uint32]StreetAR
+type StreetsARMap map[uint32]*StreetAR
 
 var StreetsAR = StreetsARMap{
 {LIST}
@@ -61,7 +61,7 @@ type Street1562 struct {
 	Name string
 }
 
-type Streets1562Map map[uint32]Street1562
+type Streets1562Map map[uint32]*Street1562
 
 var Streets1562 = Streets1562Map{
 {LIST}
@@ -157,7 +157,7 @@ const generateAddressMap = async () => {
                     console.warn('Illegal address', address);
                     return '';
                 }
-                return `\t${key}: Address{${addressToGoStruct(address)}},`;
+                return `\t${key}: &Address{${addressToGoStruct(address)}},`;
             })
             .join('\n')
     );
@@ -173,7 +173,7 @@ const generateStreetsArMap = async () => {
         /{LIST}/g,
         items
             .map(item => {
-                return `\t${item.id}: StreetAR{${streetArToGoStruct(item)}},`;
+                return `\t${item.id}: &StreetAR{${streetArToGoStruct(item)}},`;
             })
             .join('\n')
     );
@@ -189,7 +189,7 @@ const generateStreets1562Map = async () => {
         /{LIST}/g,
         items
             .map(item => {
-                return `\t${item.id}: Street1562{${street1562ToGoStruct(item)}},`;
+                return `\t${item.id}: &Street1562{${street1562ToGoStruct(item)}},`;
             })
             .join('\n')
     );
