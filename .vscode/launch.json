@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Gobify",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "program": "${workspaceFolder}/gobify"
+        },
+        {
             "type": "node",
             "request": "launch",
             "name": "Normalize",

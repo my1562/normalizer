@@ -112,3 +112,4 @@ temp/
 
 #generated go package
 pkg
+*.gob

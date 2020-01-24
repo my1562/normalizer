@@ -31,10 +31,16 @@ const main = async () => {
     const { index, shortAddresses } = await reduceAddresses(
         (acc, address) => {
             const { index, shortAddresses } = acc;
+            const shortAddress = arAddressToAddress(address);
+
+            if (shortAddress.number < 0) {
+                return acc;
+            }
+
             const key = latLongToKey(address.lati, address.longt);
             const bucket = index[key] ? index[key] : (index[key] = []);
             bucket.push(address.id);
-            shortAddresses[address.id] = arAddressToAddress(address);
+            shortAddresses[address.id] = shortAddress;
             return acc;
         },
         { index: {}, shortAddresses: {} }
