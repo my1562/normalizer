@@ -39,3 +39,11 @@ type Street1562 struct {
 type Streets1562Map map[uint32]*Street1562
 
 type IDToIDMap map[uint32]uint32
+
+type GeocoderData struct {
+	Addresses AddressMap
+	StreetsAR StreetsARMap
+	Streets1562 Streets1562Map
+	MappingArTo1562 IDToIDMap
+	Mapping1562ToAr IDToIDMap
+}

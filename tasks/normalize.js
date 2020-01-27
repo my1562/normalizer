@@ -208,7 +208,7 @@ const main = async () => {
     const streets1562 = await client.get1562Streets();
     await fs.writeFile(
         './data/streets1562.json',
-        JSON.stringify(streets1562, false, 2),
+        JSON.stringify(streets1562.byId, false, 2),
         'utf8'
     );
     console.timeEnd('client.get1562Streets');
@@ -217,7 +217,7 @@ const main = async () => {
     const streetsAR = await client.getARStreets();
     await fs.writeFile(
         './data/streetsAR.json',
-        JSON.stringify(streetsAR, false, 2),
+        JSON.stringify(streetsAR.byId, false, 2),
         'utf8'
     );
     streetsAR.items.forEach(add1562LikeNameToARStreet);
