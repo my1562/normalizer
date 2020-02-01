@@ -15,7 +15,7 @@ type Address struct {
 	Block        string  `json:"block,omitempty"`
 	StreetID     uint32  `json:"streetID,omitempty"`
 	Detail       string  `json:"detail,omitempty"`
-	DetailNumber uint32  `json:"detailNumber,omitempty"` //TODO check
+	DetailNumber string  `json:"detailNumber,omitempty"`
 	Postcode     uint32  `json:"postcode,omitempty"`
 }
 
@@ -41,9 +41,9 @@ type Streets1562Map map[uint32]*Street1562
 type IDToIDMap map[uint32]uint32
 
 type GeocoderData struct {
-	Addresses AddressMap
-	StreetsAR StreetsARMap
-	Streets1562 Streets1562Map
+	Addresses       AddressMap
+	StreetsAR       StreetsARMap
+	Streets1562     Streets1562Map
 	MappingArTo1562 IDToIDMap
 	Mapping1562ToAr IDToIDMap
 }

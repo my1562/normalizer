@@ -21,7 +21,7 @@ const arAddressToAddress = arAddress => {
         block: arAddress.block,
         streetID: arAddress.streetid,
         detail: arAddress.detail_ua,
-        detailNumber: arAddress.detailNumber,
+        detailNumber: arAddress.detail_number,
         postcode: arAddress.postcode
     };
 };
