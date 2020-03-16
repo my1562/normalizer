@@ -1,3 +1,3 @@
-module github.com/corporateanon/my1562normalizer/gobify
+module github.com/my1562/normalizer/gobify
 
 go 1.13
