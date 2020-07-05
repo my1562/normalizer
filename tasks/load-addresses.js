@@ -17,7 +17,7 @@ const main = async () => {
     let i = 0;
     for (const street of streets.items) {
         const percentage = (i++ / streets.items.length) * 100;
-        const fileName = `./addresses/${street.id}.json`;
+        const fileName = `./data/addresses/${street.id}.json`;
 
         if (doContinue) {
             try {
