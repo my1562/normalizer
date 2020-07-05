@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.241946622,
-  "lati": 49.989497500800006,
-  "FullNameUA": "набережна Харківська, 2"
+  "lati": 49.9894975008,
+  "FullNameUA": "набережна Харківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 136857,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2402784007,
   "lati": 49.9893844113,
-  "FullNameUA": "набережна Харківська, 2-А"
+  "FullNameUA": "набережна Харківська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 129235,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2396167993,
-  "lati": 49.990426240400005,
-  "FullNameUA": "набережна Харківська, 3"
+  "lati": 49.9904262404,
+  "FullNameUA": "набережна Харківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 129236,
@@ -95,34 +98,10 @@
   "same_adr_comm": "",
   "confrm": "228, 22.11.2010",
   "reg_date": "17.01.2019 11:56:53",
-  "longt": 36.23950083810001,
+  "longt": 36.2395008381,
   "lati": 49.990628684,
-  "FullNameUA": "набережна Харківська, 3-Б"
- },
- {
-  "id": 136858,
-  "postcode": 61001,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 4262,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.242270736600005,
-  "lati": 49.990120043000005,
-  "FullNameUA": "набережна Харківська, 4"
+  "FullNameUA": "набережна Харківська, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 136859,
@@ -146,8 +125,35 @@
   "confrm": "860, 30.11.2011",
   "reg_date": "17.01.2019 12:02:00",
   "longt": 36.2416327877,
-  "lati": 49.990290329800004,
-  "FullNameUA": "набережна Харківська, 4/5А"
+  "lati": 49.9902903298,
+  "FullNameUA": "набережна Харківська, 4/5А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136858,
+  "postcode": 61001,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 4262,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2422707366,
+  "lati": 49.990120043,
+  "FullNameUA": "набережна Харківська, 4",
+  "ChildsIds": []
  },
  {
   "id": 129237,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2403954851,
   "lati": 49.9914084393,
-  "FullNameUA": "набережна Харківська, 5"
+  "FullNameUA": "набережна Харківська, 5",
+  "ChildsIds": []
  },
  {
   "id": 136860,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241638630400004,
+  "longt": 36.2416386304,
   "lati": 49.9906185086,
-  "FullNameUA": "набережна Харківська, 6"
+  "FullNameUA": "набережна Харківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 129238,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2408784623,
   "lati": 49.9919841688,
-  "FullNameUA": "набережна Харківська, 7/9"
+  "FullNameUA": "набережна Харківська, 7/9",
+  "ChildsIds": []
  },
  {
   "id": 129239,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2418449174,
   "lati": 49.9923014705,
-  "FullNameUA": "набережна Харківська, 9"
+  "FullNameUA": "набережна Харківська, 9",
+  "ChildsIds": []
  },
  {
   "id": 178565,
@@ -272,6 +282,7 @@
   "reg_date": "",
   "longt": 36.2458644026,
   "lati": 49.9925211602,
-  "FullNameUA": "набережна Харківська, 16"
+  "FullNameUA": "набережна Харківська, 16",
+  "ChildsIds": []
  }
 ]

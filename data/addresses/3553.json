@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.171531052300004,
+  "longt": 36.1715310523,
   "lati": 49.9998526447,
-  "FullNameUA": "вулиця Переяславська, 3"
+  "FullNameUA": "вулиця Переяславська, 3",
+  "ChildsIds": []
  },
  {
   "id": 143072,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1716690664,
   "lati": 50.0002663328,
-  "FullNameUA": "вулиця Переяславська, 4"
+  "FullNameUA": "вулиця Переяславська, 4",
+  "ChildsIds": []
  },
  {
   "id": 143073,
@@ -72,32 +74,8 @@
   "reg_date": "",
   "longt": 36.170153518,
   "lati": 50.0002353496,
-  "FullNameUA": "вулиця Переяславська, 7"
- },
- {
-  "id": 143074,
-  "postcode": 61016,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 3553,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1705172675,
-  "lati": 50.0005740959,
-  "FullNameUA": "вулиця Переяславська, 10"
+  "FullNameUA": "вулиця Переяславська, 7",
+  "ChildsIds": []
  },
  {
   "id": 143075,
@@ -120,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.169410212200006,
+  "longt": 36.1694102122,
   "lati": 50.0004243538,
-  "FullNameUA": "вулиця Переяславська, 11/31"
+  "FullNameUA": "вулиця Переяславська, 11/31",
+  "ChildsIds": []
  },
  {
   "id": 143076,
@@ -147,32 +126,8 @@
   "reg_date": "",
   "longt": 36.16887596,
   "lati": 50.0004555798,
-  "FullNameUA": "вулиця Переяславська, 13"
- },
- {
-  "id": 143078,
-  "postcode": 61016,
-  "number": 19,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3553,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.1678738449,
-  "lati": 50.0008033618,
-  "FullNameUA": "вулиця Переяславська, 19-Б"
+  "FullNameUA": "вулиця Переяславська, 13",
+  "ChildsIds": []
  },
  {
   "id": 143077,
@@ -197,7 +152,34 @@
   "reg_date": "",
   "longt": 36.1680586863,
   "lati": 50.0008126184,
-  "FullNameUA": "вулиця Переяславська, 19"
+  "FullNameUA": "вулиця Переяславська, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 143078,
+  "postcode": 61016,
+  "number": 19,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3553,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.1678738449,
+  "lati": 50.0008033618,
+  "FullNameUA": "вулиця Переяславська, 19-Б",
+  "ChildsIds": []
  },
  {
   "id": 177880,
@@ -220,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 455, 19.07.2017; Рішення ХМР № 732, 20.09.2017, дод. 2, п. 4",
   "reg_date": "31.07.2017 10:07:51",
-  "longt": 36.167910860300005,
+  "longt": 36.1679108603,
   "lati": 50.0014096046,
-  "FullNameUA": "вулиця Переяславська, 20"
+  "FullNameUA": "вулиця Переяславська, 20",
+  "ChildsIds": []
  },
  {
   "id": 143079,
@@ -247,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1677100587,
   "lati": 50.0009284799,
-  "FullNameUA": "вулиця Переяславська, 21"
+  "FullNameUA": "вулиця Переяславська, 21",
+  "ChildsIds": []
  },
  {
   "id": 143080,
@@ -272,7 +256,8 @@
   "reg_date": "",
   "longt": 36.1673309955,
   "lati": 50.0014718299,
-  "FullNameUA": "вулиця Переяславська, 22"
+  "FullNameUA": "вулиця Переяславська, 22",
+  "ChildsIds": []
  },
  {
   "id": 177394,
@@ -297,82 +282,8 @@
   "reg_date": "",
   "longt": 36.1662220827,
   "lati": 50.0008007871,
-  "FullNameUA": "вулиця Переяславська, 23, корпус № 1"
- },
- {
-  "id": 177395,
-  "postcode": 61016,
-  "number": 23,
-  "suffix": "",
-  "block": "2",
-  "streetid": 3553,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.165505979900004,
-  "lati": 50.0012862174,
-  "FullNameUA": "вулиця Переяславська, 23, корпус № 2"
- },
- {
-  "id": 177396,
-  "postcode": 61016,
-  "number": 23,
-  "suffix": "",
-  "block": "3",
-  "streetid": 3553,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1663557301,
-  "lati": 50.0011845895,
-  "FullNameUA": "вулиця Переяславська, 23, корпус № 3"
- },
- {
-  "id": 177397,
-  "postcode": 61016,
-  "number": 23,
-  "suffix": "",
-  "block": "4",
-  "streetid": 3553,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1669147104,
-  "lati": 50.0009919607,
-  "FullNameUA": "вулиця Переяславська, 23, корпус № 4"
+  "FullNameUA": "вулиця Переяславська, 23, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 143081,
@@ -397,7 +308,86 @@
   "reg_date": "",
   "longt": 36.1654791703,
   "lati": 50.0006200602,
-  "FullNameUA": "вулиця Переяславська, 23"
+  "FullNameUA": "вулиця Переяславська, 23",
+  "ChildsIds": []
+ },
+ {
+  "id": 177395,
+  "postcode": 61016,
+  "number": 23,
+  "suffix": "",
+  "block": "2",
+  "streetid": 3553,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1655059799,
+  "lati": 50.0012862174,
+  "FullNameUA": "вулиця Переяславська, 23, корпус № 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 177397,
+  "postcode": 61016,
+  "number": 23,
+  "suffix": "",
+  "block": "4",
+  "streetid": 3553,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1669147104,
+  "lati": 50.0009919607,
+  "FullNameUA": "вулиця Переяславська, 23, корпус № 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 177396,
+  "postcode": 61016,
+  "number": 23,
+  "suffix": "",
+  "block": "3",
+  "streetid": 3553,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1663557301,
+  "lati": 50.0011845895,
+  "FullNameUA": "вулиця Переяславська, 23, корпус № 3",
+  "ChildsIds": []
  },
  {
   "id": 143082,
@@ -420,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.166644453800004,
+  "longt": 36.1666444538,
   "lati": 50.0018502208,
-  "FullNameUA": "вулиця Переяславська, 24"
+  "FullNameUA": "вулиця Переяславська, 24",
+  "ChildsIds": []
  },
  {
   "id": 143083,
@@ -445,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "in4",
   "reg_date": "",
-  "longt": 36.166286771900005,
+  "longt": 36.1662867719,
   "lati": 50.0017208575,
-  "FullNameUA": "вулиця Переяславська, 26"
+  "FullNameUA": "вулиця Переяславська, 26",
+  "ChildsIds": []
  },
  {
   "id": 143084,
@@ -470,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "04.04.2019 12:12:46",
-  "longt": 36.165645955100004,
+  "longt": 36.1656459551,
   "lati": 50.0021071255,
-  "FullNameUA": "вулиця Переяславська, 28/18"
+  "FullNameUA": "вулиця Переяславська, 28/18",
+  "ChildsIds": []
  },
  {
   "id": 176595,
@@ -497,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1657039177,
   "lati": 50.0022188374,
-  "FullNameUA": "вулиця Переяславська, 28"
+  "FullNameUA": "вулиця Переяславська, 28",
+  "ChildsIds": []
  },
  {
   "id": 176596,
@@ -520,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.165376714500006,
+  "longt": 36.1653767145,
   "lati": 50.0023137382,
-  "FullNameUA": "вулиця Переяславська, 30"
+  "FullNameUA": "вулиця Переяславська, 30",
+  "ChildsIds": []
  },
  {
   "id": 177398,
@@ -545,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.165198983900005,
+  "longt": 36.1651989839,
   "lati": 50.0023577592,
-  "FullNameUA": "вулиця Переяславська, 32"
+  "FullNameUA": "вулиця Переяславська, 32",
+  "ChildsIds": []
  },
  {
   "id": 176597,
@@ -570,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.164939373200006,
+  "longt": 36.1649393732,
   "lati": 50.0024161685,
-  "FullNameUA": "вулиця Переяславська, 34"
+  "FullNameUA": "вулиця Переяславська, 34",
+  "ChildsIds": []
  },
  {
   "id": 176598,
@@ -595,8 +592,9 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.164356096300004,
+  "longt": 36.1643560963,
   "lati": 50.0023637135,
-  "FullNameUA": "вулиця Переяславська, 36/42"
+  "FullNameUA": "вулиця Переяславська, 36/42",
+  "ChildsIds": []
  }
 ]

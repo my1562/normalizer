@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.221172322,
   "lati": 49.9763932024,
-  "FullNameUA": "провулок Степовий, 1"
+  "FullNameUA": "провулок Степовий, 1",
+  "ChildsIds": []
  },
  {
   "id": 155566,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2208878689,
   "lati": 49.976562206,
-  "FullNameUA": "провулок Степовий, 2"
+  "FullNameUA": "провулок Степовий, 2",
+  "ChildsIds": []
  },
  {
   "id": 155567,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2208758056,
   "lati": 49.9762353907,
-  "FullNameUA": "провулок Степовий, 3"
+  "FullNameUA": "провулок Степовий, 3",
+  "ChildsIds": []
  },
  {
   "id": 155568,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2206680723,
-  "lati": 49.976445760699995,
-  "FullNameUA": "провулок Степовий, 4"
+  "lati": 49.9764457607,
+  "FullNameUA": "провулок Степовий, 4",
+  "ChildsIds": []
  },
  {
   "id": 155569,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2204212141,
   "lati": 49.9763477177,
-  "FullNameUA": "провулок Степовий, 6"
+  "FullNameUA": "провулок Степовий, 6",
+  "ChildsIds": []
  },
  {
   "id": 155570,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.220143025,
-  "lati": 49.975815946299996,
-  "FullNameUA": "провулок Степовий, 7"
+  "lati": 49.9758159463,
+  "FullNameUA": "провулок Степовий, 7",
+  "ChildsIds": []
  },
  {
   "id": 155571,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2201986787,
   "lati": 49.9762521204,
-  "FullNameUA": "провулок Степовий, 8"
+  "FullNameUA": "провулок Степовий, 8",
+  "ChildsIds": []
  },
  {
   "id": 155572,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2198211022,
   "lati": 49.9756609173,
-  "FullNameUA": "провулок Степовий, 9"
+  "FullNameUA": "провулок Степовий, 9",
+  "ChildsIds": []
  },
  {
   "id": 175829,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2198893726,
   "lati": 49.9760526471,
-  "FullNameUA": "провулок Степовий, 10/12"
+  "FullNameUA": "провулок Степовий, 10/12",
+  "ChildsIds": []
  },
  {
   "id": 155573,
@@ -246,8 +255,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2194862818,
-  "lati": 49.975454327899996,
-  "FullNameUA": "провулок Степовий, 11"
+  "lati": 49.9754543279,
+  "FullNameUA": "провулок Степовий, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 155574,
+  "postcode": 61004,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4043,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2196266187,
+  "lati": 49.9759141648,
+  "FullNameUA": "провулок Степовий, 12",
+  "ChildsIds": []
  },
  {
   "id": 155575,
@@ -272,32 +308,8 @@
   "reg_date": "",
   "longt": 36.2193390616,
   "lati": 49.9760466835,
-  "FullNameUA": "провулок Степовий, 12-Б"
- },
- {
-  "id": 155574,
-  "postcode": 61004,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 4043,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2196266187,
-  "lati": 49.975914164799995,
-  "FullNameUA": "провулок Степовий, 12"
+  "FullNameUA": "провулок Степовий, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 155576,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2193382561,
   "lati": 49.9753874887,
-  "FullNameUA": "провулок Степовий, 13"
+  "FullNameUA": "провулок Степовий, 13",
+  "ChildsIds": []
  },
  {
   "id": 155577,
@@ -346,33 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2193216091,
-  "lati": 49.975759321299996,
-  "FullNameUA": "провулок Степовий, 14"
- },
- {
-  "id": 155578,
-  "postcode": 61004,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 4043,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2189815288,
-  "lati": 49.9752266198,
-  "FullNameUA": "провулок Степовий, 15"
+  "lati": 49.9757593213,
+  "FullNameUA": "провулок Степовий, 14",
+  "ChildsIds": []
  },
  {
   "id": 155579,
@@ -397,7 +386,34 @@
   "reg_date": "",
   "longt": 36.2191531737,
   "lati": 49.9752972055,
-  "FullNameUA": "провулок Степовий, 15-А"
+  "FullNameUA": "провулок Степовий, 15-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 155578,
+  "postcode": 61004,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 4043,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2189815288,
+  "lati": 49.9752266198,
+  "FullNameUA": "провулок Степовий, 15",
+  "ChildsIds": []
  },
  {
   "id": 155580,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2191066001,
   "lati": 49.9756469723,
-  "FullNameUA": "провулок Степовий, 16"
+  "FullNameUA": "провулок Степовий, 16",
+  "ChildsIds": []
  },
  {
   "id": 155581,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.218888391600004,
+  "longt": 36.2188883916,
   "lati": 49.9755118729,
-  "FullNameUA": "провулок Степовий, 18"
+  "FullNameUA": "провулок Степовий, 18",
+  "ChildsIds": []
  },
  {
   "id": 155582,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2183432311,
   "lati": 49.9749012545,
-  "FullNameUA": "провулок Степовий, 19"
+  "FullNameUA": "провулок Степовий, 19",
+  "ChildsIds": []
  },
  {
   "id": 155583,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2186326163,
   "lati": 49.9754037122,
-  "FullNameUA": "провулок Степовий, 20"
+  "FullNameUA": "провулок Степовий, 20",
+  "ChildsIds": []
  },
  {
   "id": 155584,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2182101504,
   "lati": 49.974824007,
-  "FullNameUA": "провулок Степовий, 21"
+  "FullNameUA": "провулок Степовий, 21",
+  "ChildsIds": []
  },
  {
   "id": 155585,
@@ -547,57 +568,8 @@
   "reg_date": "",
   "longt": 36.2182462318,
   "lati": 49.975221077,
-  "FullNameUA": "провулок Степовий, 22/12"
- },
- {
-  "id": 155586,
-  "postcode": 61004,
-  "number": 23,
-  "suffix": "",
-  "block": "",
-  "streetid": 4043,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.217282919700004,
-  "lati": 49.9742861817,
-  "FullNameUA": "провулок Степовий, 23"
- },
- {
-  "id": 155588,
-  "postcode": 61004,
-  "number": 23,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4043,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2182964654,
-  "lati": 49.9744704376,
-  "FullNameUA": "провулок Степовий, 23-Б"
+  "FullNameUA": "провулок Степовий, 22/12",
+  "ChildsIds": []
  },
  {
   "id": 155587,
@@ -622,7 +594,60 @@
   "reg_date": "",
   "longt": 36.2179758009,
   "lati": 49.9746701256,
-  "FullNameUA": "провулок Степовий, 23-А"
+  "FullNameUA": "провулок Степовий, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 155588,
+  "postcode": 61004,
+  "number": 23,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4043,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2182964654,
+  "lati": 49.9744704376,
+  "FullNameUA": "провулок Степовий, 23-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 155586,
+  "postcode": 61004,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 4043,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2172829197,
+  "lati": 49.9742861817,
+  "FullNameUA": "провулок Степовий, 23",
+  "ChildsIds": []
  },
  {
   "id": 155590,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2179640394,
-  "lati": 49.975051741499996,
-  "FullNameUA": "провулок Степовий, 24-А"
+  "lati": 49.9750517415,
+  "FullNameUA": "провулок Степовий, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 155589,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2180878968,
-  "lati": 49.975146293499996,
-  "FullNameUA": "провулок Степовий, 24"
+  "lati": 49.9751462935,
+  "FullNameUA": "провулок Степовий, 24",
+  "ChildsIds": []
  },
  {
   "id": 155591,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2177425411,
   "lati": 49.9745522562,
-  "FullNameUA": "провулок Степовий, 25"
+  "FullNameUA": "провулок Степовий, 25",
+  "ChildsIds": []
  },
  {
   "id": 155592,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2178079226,
   "lati": 49.9749260423,
-  "FullNameUA": "провулок Степовий, 26"
+  "FullNameUA": "провулок Степовий, 26",
+  "ChildsIds": []
  },
  {
   "id": 155593,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2175110672,
   "lati": 49.9748382638,
-  "FullNameUA": "провулок Степовий, 28"
+  "FullNameUA": "провулок Степовий, 28",
+  "ChildsIds": []
  },
  {
   "id": 155594,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2173189976,
   "lati": 49.974687282,
-  "FullNameUA": "провулок Степовий, 30"
+  "FullNameUA": "провулок Степовий, 30",
+  "ChildsIds": []
  },
  {
   "id": 155595,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2165117312,
   "lati": 49.9742627932,
-  "FullNameUA": "провулок Степовий, 34"
+  "FullNameUA": "провулок Степовий, 34",
+  "ChildsIds": []
  },
  {
   "id": 155596,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2158808484,
   "lati": 49.9734973865,
-  "FullNameUA": "провулок Степовий, 35"
+  "FullNameUA": "провулок Степовий, 35",
+  "ChildsIds": []
  },
  {
   "id": 155597,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2160721077,
   "lati": 49.973963888,
-  "FullNameUA": "провулок Степовий, 36"
+  "FullNameUA": "провулок Степовий, 36",
+  "ChildsIds": []
  },
  {
   "id": 155598,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2156181518,
   "lati": 49.9732983762,
-  "FullNameUA": "провулок Степовий, 37"
+  "FullNameUA": "провулок Степовий, 37",
+  "ChildsIds": []
  },
  {
   "id": 155599,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215814473500004,
-  "lati": 49.973809554999995,
-  "FullNameUA": "провулок Степовий, 38/17"
+  "longt": 36.2158144735,
+  "lati": 49.973809555,
+  "FullNameUA": "провулок Степовий, 38/17",
+  "ChildsIds": []
  },
  {
   "id": 155600,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2152771431,
   "lati": 49.9731156791,
-  "FullNameUA": "провулок Степовий, 39"
+  "FullNameUA": "провулок Степовий, 39",
+  "ChildsIds": []
  },
  {
   "id": 155601,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2155798622,
   "lati": 49.9737104489,
-  "FullNameUA": "провулок Степовий, 40"
+  "FullNameUA": "провулок Степовий, 40",
+  "ChildsIds": []
  },
  {
   "id": 155602,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.214969499700004,
+  "longt": 36.2149694997,
   "lati": 49.9729045507,
-  "FullNameUA": "провулок Степовий, 41"
+  "FullNameUA": "провулок Степовий, 41",
+  "ChildsIds": []
  },
  {
   "id": 155603,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2137773639,
   "lati": 49.9723039148,
-  "FullNameUA": "провулок Степовий, 49"
+  "FullNameUA": "провулок Степовий, 49",
+  "ChildsIds": []
  },
  {
   "id": 155604,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2132309936,
   "lati": 49.9719733314,
-  "FullNameUA": "провулок Степовий, 53"
+  "FullNameUA": "провулок Степовий, 53",
+  "ChildsIds": []
  },
  {
   "id": 155605,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2129537706,
   "lati": 49.9716522349,
-  "FullNameUA": "провулок Степовий, 55"
+  "FullNameUA": "провулок Степовий, 55",
+  "ChildsIds": []
  },
  {
   "id": 155606,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2127421401,
   "lati": 49.9715182674,
-  "FullNameUA": "провулок Степовий, 57"
+  "FullNameUA": "провулок Степовий, 57",
+  "ChildsIds": []
  },
  {
   "id": 155607,
@@ -1095,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.212336945800004,
-  "lati": 49.971479821799996,
-  "FullNameUA": "провулок Степовий, 59"
+  "longt": 36.2123369458,
+  "lati": 49.9714798218,
+  "FullNameUA": "провулок Степовий, 59",
+  "ChildsIds": []
  },
  {
   "id": 155608,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2119963815,
   "lati": 49.9713011293,
-  "FullNameUA": "провулок Степовий, 61"
+  "FullNameUA": "провулок Степовий, 61",
+  "ChildsIds": []
  },
  {
   "id": 155609,
@@ -1147,6 +1192,7 @@
   "reg_date": "",
   "longt": 36.2120308925,
   "lati": 49.9716849419,
-  "FullNameUA": "провулок Степовий, 62"
+  "FullNameUA": "провулок Степовий, 62",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,34 @@
   "reg_date": "",
   "longt": 36.2303572164,
   "lati": 50.0348151006,
-  "FullNameUA": "вулиця Космонавтів, 2"
+  "FullNameUA": "вулиця Космонавтів, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 117026,
+  "postcode": 61103,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2975,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2294456508,
+  "lati": 50.0361159542,
+  "FullNameUA": "вулиця Космонавтів, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 117025,
@@ -47,32 +74,8 @@
   "reg_date": "",
   "longt": 36.2297373492,
   "lati": 50.0356587144,
-  "FullNameUA": "вулиця Космонавтів, 3"
- },
- {
-  "id": 117026,
-  "postcode": 61103,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2975,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.229445650799995,
-  "lati": 50.0361159542,
-  "FullNameUA": "вулиця Космонавтів, 3-А"
+  "FullNameUA": "вулиця Космонавтів, 3",
+  "ChildsIds": []
  },
  {
   "id": 117027,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2307755192,
   "lati": 50.0352492822,
-  "FullNameUA": "вулиця Космонавтів, 4"
+  "FullNameUA": "вулиця Космонавтів, 4",
+  "ChildsIds": []
  },
  {
   "id": 117028,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.229883038,
-  "lati": 50.037383477700004,
-  "FullNameUA": "вулиця Космонавтів, 5-А"
+  "lati": 50.0373834777,
+  "FullNameUA": "вулиця Космонавтів, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 117029,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.229894366399996,
-  "lati": 50.036628499900004,
-  "FullNameUA": "вулиця Космонавтів, 5-Б"
+  "longt": 36.2298943664,
+  "lati": 50.0366284999,
+  "FullNameUA": "вулиця Космонавтів, 5-Б",
+  "ChildsIds": []
  },
  {
   "id": 181424,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "02.10.2019 11:42:14",
   "longt": 36.2299061769,
-  "lati": 50.037957520300004,
-  "FullNameUA": "вулиця Космонавтів, 5-А, гараж № 1"
+  "lati": 50.0379575203,
+  "FullNameUA": "вулиця Космонавтів, 5-А, гараж № 1",
+  "ChildsIds": []
  },
  {
   "id": 117030,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2310262713,
   "lati": 50.0356767239,
-  "FullNameUA": "вулиця Космонавтів, 6"
+  "FullNameUA": "вулиця Космонавтів, 6",
+  "ChildsIds": []
  },
  {
   "id": 117031,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2314520217,
   "lati": 50.0374310582,
-  "FullNameUA": "вулиця Космонавтів, 7"
+  "FullNameUA": "вулиця Космонавтів, 7",
+  "ChildsIds": []
  },
  {
   "id": 117032,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23073135960001,
+  "longt": 36.2307313596,
   "lati": 50.0382986209,
-  "FullNameUA": "вулиця Космонавтів, 7-А"
+  "FullNameUA": "вулиця Космонавтів, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 117033,
@@ -270,8 +280,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23114639560001,
+  "longt": 36.2311463956,
   "lati": 50.0361124626,
-  "FullNameUA": "вулиця Космонавтів, 8"
+  "FullNameUA": "вулиця Космонавтів, 8",
+  "ChildsIds": []
  }
 ]

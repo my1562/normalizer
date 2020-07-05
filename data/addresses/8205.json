@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "13.12.2018 14:48:55",
-  "longt": 36.277229266800006,
+  "longt": 36.2772292668,
   "lati": 50.0611173627,
-  "FullNameUA": "провулок Грибний 2-й, 7"
+  "FullNameUA": "провулок Грибний 2-й, 7",
+  "ChildsIds": []
  },
  {
   "id": 180044,
@@ -45,8 +46,35 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "13.12.2018 14:58:35",
-  "longt": 36.27777827560001,
+  "longt": 36.2777782756,
   "lati": 50.0611848766,
-  "FullNameUA": "провулок Грибний 2-й, 9"
+  "FullNameUA": "провулок Грибний 2-й, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 182380,
+  "postcode": 61070,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 8205,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:10:001:0380)",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:25:31",
+  "longt": 36.2780722761,
+  "lati": 50.061225757,
+  "FullNameUA": "провулок Грибний 2-й, 11",
+  "ChildsIds": []
  }
 ]

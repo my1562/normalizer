@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1892440891,
   "lati": 50.0117510116,
-  "FullNameUA": "вулиця Таганська, 2"
+  "FullNameUA": "вулиця Таганська, 2",
+  "ChildsIds": []
  },
  {
   "id": 145130,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1895214473,
   "lati": 50.0112912847,
-  "FullNameUA": "вулиця Таганська, 4"
+  "FullNameUA": "вулиця Таганська, 4",
+  "ChildsIds": []
  },
  {
   "id": 145131,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1891644647,
   "lati": 50.0111542079,
-  "FullNameUA": "вулиця Таганська, 6"
+  "FullNameUA": "вулиця Таганська, 6",
+  "ChildsIds": []
  },
  {
   "id": 145132,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1893441012,
   "lati": 50.0109109716,
-  "FullNameUA": "вулиця Таганська, 7"
+  "FullNameUA": "вулиця Таганська, 7",
+  "ChildsIds": []
  },
  {
   "id": 145133,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1888931928,
-  "lati": 50.011056022999995,
-  "FullNameUA": "вулиця Таганська, 8"
+  "lati": 50.011056023,
+  "FullNameUA": "вулиця Таганська, 8",
+  "ChildsIds": []
  },
  {
   "id": 145134,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1891242716,
-  "lati": 50.010764327299995,
-  "FullNameUA": "вулиця Таганська, 9"
+  "lati": 50.0107643273,
+  "FullNameUA": "вулиця Таганська, 9",
+  "ChildsIds": []
  },
  {
   "id": 145135,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1887770761,
   "lati": 50.0107059012,
-  "FullNameUA": "вулиця Таганська, 11"
+  "FullNameUA": "вулиця Таганська, 11",
+  "ChildsIds": []
  },
  {
   "id": 145136,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1881259663,
-  "lati": 50.010842284999995,
-  "FullNameUA": "вулиця Таганська, 12"
+  "lati": 50.010842285,
+  "FullNameUA": "вулиця Таганська, 12",
+  "ChildsIds": []
  },
  {
   "id": 145137,
@@ -222,32 +230,8 @@
   "reg_date": "",
   "longt": 36.1885922769,
   "lati": 50.0106438801,
-  "FullNameUA": "вулиця Таганська, 13"
- },
- {
-  "id": 145138,
-  "postcode": 61067,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 4074,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "10.02.2017 12:31:06",
-  "longt": 36.1873179674,
-  "lati": 50.0115066916,
-  "FullNameUA": "вулиця Таганська, 14"
+  "FullNameUA": "вулиця Таганська, 13",
+  "ChildsIds": []
  },
  {
   "id": 176299,
@@ -272,7 +256,34 @@
   "reg_date": "10.02.2017 12:32:03",
   "longt": 36.1870712042,
   "lati": 50.0118350511,
-  "FullNameUA": "вулиця Таганська, 14-А"
+  "FullNameUA": "вулиця Таганська, 14-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 145138,
+  "postcode": 61067,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4074,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "10.02.2017 12:31:06",
+  "longt": 36.1873179674,
+  "lati": 50.0115066916,
+  "FullNameUA": "вулиця Таганська, 14",
+  "ChildsIds": []
  },
  {
   "id": 145139,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1878344736,
   "lati": 50.0102470338,
-  "FullNameUA": "вулиця Таганська, 15"
+  "FullNameUA": "вулиця Таганська, 15",
+  "ChildsIds": []
  },
  {
   "id": 145140,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1871589767,
-  "lati": 50.010769107499996,
-  "FullNameUA": "вулиця Таганська, 16"
+  "lati": 50.0107691075,
+  "FullNameUA": "вулиця Таганська, 16",
+  "ChildsIds": []
  },
  {
   "id": 145141,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1832438553,
   "lati": 50.0087554974,
-  "FullNameUA": "вулиця Таганська, 17-А"
+  "FullNameUA": "вулиця Таганська, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 176695,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1868769405,
   "lati": 50.009961728,
-  "FullNameUA": "вулиця Таганська, 17"
+  "FullNameUA": "вулиця Таганська, 17",
+  "ChildsIds": []
  },
  {
   "id": 145142,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1865868297,
   "lati": 50.0106323666,
-  "FullNameUA": "вулиця Таганська, 18/2"
+  "FullNameUA": "вулиця Таганська, 18/2",
+  "ChildsIds": []
  },
  {
   "id": 176696,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1862012755,
   "lati": 50.0097666589,
-  "FullNameUA": "вулиця Таганська, 19"
+  "FullNameUA": "вулиця Таганська, 19",
+  "ChildsIds": []
  },
  {
   "id": 145143,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1861569008,
   "lati": 50.0104424213,
-  "FullNameUA": "вулиця Таганська, 20/1"
+  "FullNameUA": "вулиця Таганська, 20/1",
+  "ChildsIds": []
  },
  {
   "id": 145144,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1852487441,
   "lati": 50.009937957,
-  "FullNameUA": "вулиця Таганська, 22"
+  "FullNameUA": "вулиця Таганська, 22",
+  "ChildsIds": []
  },
  {
   "id": 145145,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1847956371,
   "lati": 50.0096374229,
-  "FullNameUA": "вулиця Таганська, 24"
+  "FullNameUA": "вулиця Таганська, 24",
+  "ChildsIds": []
  },
  {
   "id": 145146,
@@ -522,32 +542,8 @@
   "reg_date": "",
   "longt": 36.1841652861,
   "lati": 50.0094383288,
-  "FullNameUA": "вулиця Таганська, 26/2"
- },
- {
-  "id": 145148,
-  "postcode": 61067,
-  "number": 28,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 4074,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1832028476,
-  "lati": 50.009543145,
-  "FullNameUA": "вулиця Таганська, 28/2"
+  "FullNameUA": "вулиця Таганська, 26/2",
+  "ChildsIds": []
  },
  {
   "id": 145147,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.1834089321,
   "lati": 50.009300939,
-  "FullNameUA": "вулиця Таганська, 28"
+  "FullNameUA": "вулиця Таганська, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 145148,
+  "postcode": 61067,
+  "number": 28,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 4074,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1832028476,
+  "lati": 50.009543145,
+  "FullNameUA": "вулиця Таганська, 28/2",
+  "ChildsIds": []
  },
  {
   "id": 145149,
@@ -597,6 +620,7 @@
   "reg_date": "",
   "longt": 36.1826232295,
   "lati": 50.0091452944,
-  "FullNameUA": "вулиця Таганська, 30/2"
+  "FullNameUA": "вулиця Таганська, 30/2",
+  "ChildsIds": []
  }
 ]

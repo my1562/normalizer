@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2579678302,
   "lati": 49.9939042621,
-  "FullNameUA": "провулок Ладозький, 1-А"
+  "FullNameUA": "провулок Ладозький, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 134192,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2584011875,
   "lati": 49.9935227065,
-  "FullNameUA": "провулок Ладозький, 4"
+  "FullNameUA": "провулок Ладозький, 4",
+  "ChildsIds": []
  },
  {
   "id": 134193,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2584687891,
   "lati": 49.9937437746,
-  "FullNameUA": "провулок Ладозький, 6"
+  "FullNameUA": "провулок Ладозький, 6",
+  "ChildsIds": []
  },
  {
   "id": 178040,
@@ -97,6 +100,33 @@
   "reg_date": "",
   "longt": 36.2586553462,
   "lati": 49.993800381,
-  "FullNameUA": "провулок Ладозький, 8"
+  "FullNameUA": "провулок Ладозький, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182020,
+  "postcode": 61001,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3088,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2592293383,
+  "lati": 49.9941414524,
+  "FullNameUA": "провулок Ладозький, 16",
+  "ChildsIds": []
  }
 ]

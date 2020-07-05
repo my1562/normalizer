@@ -1,5 +1,31 @@
 [
  {
+  "id": 181967,
+  "postcode": 61090,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4696,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1315708694,
+  "lati": 49.9263958288,
+  "FullNameUA": "вулиця Велишевська, 6",
+  "ChildsIds": []
+ },
+ {
   "id": 179499,
   "postcode": 61090,
   "number": 22,
@@ -20,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення № 1120, 20.06.2018, дод. 1, п. 2",
   "reg_date": "12.07.2018 12:42:10",
-  "longt": 36.134287734800004,
+  "longt": 36.1342877348,
   "lati": 49.9255215871,
-  "FullNameUA": "вулиця Велишевська, 22"
+  "FullNameUA": "вулиця Велишевська, 22",
+  "ChildsIds": []
  },
  {
   "id": 157819,
@@ -46,8 +73,9 @@
   "confrm": "1735, 24.12.2014; 501, 12.08.2015",
   "reg_date": "24.05.2019 09:53:16",
   "longt": 36.1355856021,
-  "lati": 49.925361381900004,
-  "FullNameUA": "вулиця Велишевська, 28"
+  "lati": 49.9253613819,
+  "FullNameUA": "вулиця Велишевська, 28",
+  "ChildsIds": []
  },
  {
   "id": 157820,
@@ -72,6 +100,7 @@
   "reg_date": "24.05.2019 09:56:40",
   "longt": 36.1356804201,
   "lati": 49.9250115991,
-  "FullNameUA": "вулиця Велишевська, 30"
+  "FullNameUA": "вулиця Велишевська, 30",
+  "ChildsIds": []
  }
 ]

@@ -1,5 +1,31 @@
 [
  {
+  "id": 127000,
+  "postcode": 61085,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3639,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2872156059,
+  "lati": 50.0477053671,
+  "FullNameUA": "вулиця Поздовжня, 1-Б",
+  "ChildsIds": []
+ },
+ {
   "id": 126998,
   "postcode": 61085,
   "number": 1,
@@ -22,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2871352638,
   "lati": 50.048714685,
-  "FullNameUA": "вулиця Поздовжня, 1"
+  "FullNameUA": "вулиця Поздовжня, 1",
+  "ChildsIds": []
  },
  {
   "id": 126999,
@@ -47,32 +74,8 @@
   "reg_date": "",
   "longt": 36.2858906135,
   "lati": 50.0480457449,
-  "FullNameUA": "вулиця Поздовжня, 1-А"
- },
- {
-  "id": 127000,
-  "postcode": 61085,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3639,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2872156059,
-  "lati": 50.0477053671,
-  "FullNameUA": "вулиця Поздовжня, 1-Б"
+  "FullNameUA": "вулиця Поздовжня, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 127001,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2885520524,
   "lati": 50.0485984631,
-  "FullNameUA": "вулиця Поздовжня, 2"
+  "FullNameUA": "вулиця Поздовжня, 2",
+  "ChildsIds": []
  },
  {
   "id": 177931,
@@ -121,14 +125,15 @@
   "confrm": "Рішення ВК Київської райради № 269, 19.10.2004",
   "reg_date": "",
   "longt": 36.2816497301,
-  "lati": 50.054240722900005,
-  "FullNameUA": "вулиця Поздовжня, 3-В"
+  "lati": 50.0542407229,
+  "FullNameUA": "вулиця Поздовжня, 3-В",
+  "ChildsIds": []
  },
  {
-  "id": 127004,
+  "id": 127002,
   "postcode": 61085,
   "number": 3,
-  "suffix": "Б",
+  "suffix": "",
   "block": "",
   "streetid": 3639,
   "status_id": 1,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2850468455,
-  "lati": 50.0486192823,
-  "FullNameUA": "вулиця Поздовжня, 3-Б"
+  "longt": 36.2863548477,
+  "lati": 50.049610524,
+  "FullNameUA": "вулиця Поздовжня, 3",
+  "ChildsIds": []
  },
  {
   "id": 127003,
@@ -172,13 +178,14 @@
   "reg_date": "",
   "longt": 36.2853787924,
   "lati": 50.049395273,
-  "FullNameUA": "вулиця Поздовжня, 3-А"
+  "FullNameUA": "вулиця Поздовжня, 3-А",
+  "ChildsIds": []
  },
  {
-  "id": 127002,
+  "id": 127004,
   "postcode": 61085,
   "number": 3,
-  "suffix": "",
+  "suffix": "Б",
   "block": "",
   "streetid": 3639,
   "status_id": 1,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286354847700004,
-  "lati": 50.049610524,
-  "FullNameUA": "вулиця Поздовжня, 3"
+  "longt": 36.2850468455,
+  "lati": 50.0486192823,
+  "FullNameUA": "вулиця Поздовжня, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 127005,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2885081732,
   "lati": 50.0492358313,
-  "FullNameUA": "вулиця Поздовжня, 4"
+  "FullNameUA": "вулиця Поздовжня, 4",
+  "ChildsIds": []
  },
  {
   "id": 127006,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286330829200004,
+  "longt": 36.2863308292,
   "lati": 50.0501272153,
-  "FullNameUA": "вулиця Поздовжня, 5"
+  "FullNameUA": "вулиця Поздовжня, 5",
+  "ChildsIds": []
  },
  {
   "id": 127007,
@@ -270,59 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.288304516000004,
+  "longt": 36.288304516,
   "lati": 50.0498276717,
-  "FullNameUA": "вулиця Поздовжня, 6"
- },
- {
-  "id": 127008,
-  "postcode": 61085,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 3639,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.285931371000004,
-  "lati": 50.05208829280001,
-  "FullNameUA": "вулиця Поздовжня, 7"
- },
- {
-  "id": 127009,
-  "postcode": 61085,
-  "number": 7,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3639,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.282823552,
-  "lati": 50.050536550800004,
-  "FullNameUA": "вулиця Поздовжня, 7-А"
+  "FullNameUA": "вулиця Поздовжня, 6",
+  "ChildsIds": []
  },
  {
   "id": 127011,
@@ -347,7 +308,8 @@
   "reg_date": "11.01.2020 10:12:07",
   "longt": 36.2829900197,
   "lati": 50.0497053555,
-  "FullNameUA": "вулиця Поздовжня, 7-В"
+  "FullNameUA": "вулиця Поздовжня, 7-В",
+  "ChildsIds": []
  },
  {
   "id": 127010,
@@ -372,12 +334,41 @@
   "reg_date": "",
   "longt": 36.2835695363,
   "lati": 50.0485495183,
-  "FullNameUA": "вулиця Поздовжня, 7-Б"
+  "FullNameUA": "вулиця Поздовжня, 7-Б",
+  "ChildsIds": []
  },
  {
-  "id": 127013,
+  "id": 127008,
   "postcode": 61085,
-  "number": 8,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3639,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.285931371,
+  "lati": 50.0520882928,
+  "FullNameUA": "вулиця Поздовжня, 7",
+  "ChildsIds": [
+   127011
+  ]
+ },
+ {
+  "id": 127009,
+  "postcode": 61085,
+  "number": 7,
   "suffix": "А",
   "block": "",
   "streetid": 3639,
@@ -395,9 +386,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.286377238600004,
-  "lati": 50.053518678100005,
-  "FullNameUA": "вулиця Поздовжня, 8-А"
+  "longt": 36.282823552,
+  "lati": 50.0505365508,
+  "FullNameUA": "вулиця Поздовжня, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 127012,
@@ -421,8 +413,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2801689575,
-  "lati": 50.054481370400005,
-  "FullNameUA": "вулиця Поздовжня, 8"
+  "lati": 50.0544813704,
+  "FullNameUA": "вулиця Поздовжня, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 127013,
+  "postcode": 61085,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3639,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2863772386,
+  "lati": 50.0535186781,
+  "FullNameUA": "вулиця Поздовжня, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 179161,
@@ -445,9 +464,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.27919418170001,
+  "longt": 36.2791941817,
   "lati": 50.0523710726,
-  "FullNameUA": "вулиця Поздовжня, 11"
+  "FullNameUA": "вулиця Поздовжня, 11",
+  "ChildsIds": []
  },
  {
   "id": 179162,
@@ -471,8 +491,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2790143482,
-  "lati": 50.05257607080001,
-  "FullNameUA": "вулиця Поздовжня, 13"
+  "lati": 50.0525760708,
+  "FullNameUA": "вулиця Поздовжня, 13",
+  "ChildsIds": []
  },
  {
   "id": 179163,
@@ -495,9 +516,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.278786239700004,
+  "longt": 36.2787862397,
   "lati": 50.0527713325,
-  "FullNameUA": "вулиця Поздовжня, 15"
+  "FullNameUA": "вулиця Поздовжня, 15",
+  "ChildsIds": []
  },
  {
   "id": 179164,
@@ -522,7 +544,8 @@
   "reg_date": "",
   "longt": 36.2785730025,
   "lati": 50.0529502448,
-  "FullNameUA": "вулиця Поздовжня, 17"
+  "FullNameUA": "вулиця Поздовжня, 17",
+  "ChildsIds": []
  },
  {
   "id": 179165,
@@ -545,9 +568,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.278330154100004,
+  "longt": 36.2783301541,
   "lati": 50.0531197131,
-  "FullNameUA": "вулиця Поздовжня, 19"
+  "FullNameUA": "вулиця Поздовжня, 19",
+  "ChildsIds": []
  },
  {
   "id": 179166,
@@ -571,8 +595,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.27811679,
-  "lati": 50.053277216800005,
-  "FullNameUA": "вулиця Поздовжня, 21"
+  "lati": 50.0532772168,
+  "FullNameUA": "вулиця Поздовжня, 21",
+  "ChildsIds": []
  },
  {
   "id": 179167,
@@ -595,9 +620,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.277837049700004,
-  "lati": 50.053456287100005,
-  "FullNameUA": "вулиця Поздовжня, 23"
+  "longt": 36.2778370497,
+  "lati": 50.0534562871,
+  "FullNameUA": "вулиця Поздовжня, 23",
+  "ChildsIds": []
  },
  {
   "id": 179168,
@@ -622,7 +648,8 @@
   "reg_date": "",
   "longt": 36.277601498,
   "lati": 50.0536257364,
-  "FullNameUA": "вулиця Поздовжня, 25"
+  "FullNameUA": "вулиця Поздовжня, 25",
+  "ChildsIds": []
  },
  {
   "id": 179169,
@@ -647,7 +674,8 @@
   "reg_date": "",
   "longt": 36.2773953477,
   "lati": 50.0537828658,
-  "FullNameUA": "вулиця Поздовжня, 27"
+  "FullNameUA": "вулиця Поздовжня, 27",
+  "ChildsIds": []
  },
  {
   "id": 179170,
@@ -670,9 +698,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.277156267500004,
-  "lati": 50.053966594600006,
-  "FullNameUA": "вулиця Поздовжня, 29"
+  "longt": 36.2771562675,
+  "lati": 50.0539665946,
+  "FullNameUA": "вулиця Поздовжня, 29",
+  "ChildsIds": []
  },
  {
   "id": 179171,
@@ -696,8 +725,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2768837305,
-  "lati": 50.054114722600005,
-  "FullNameUA": "вулиця Поздовжня, 31"
+  "lati": 50.0541147226,
+  "FullNameUA": "вулиця Поздовжня, 31",
+  "ChildsIds": []
  },
  {
   "id": 179172,
@@ -720,9 +750,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.276625942100004,
+  "longt": 36.2766259421,
   "lati": 50.0542580576,
-  "FullNameUA": "вулиця Поздовжня, 33"
+  "FullNameUA": "вулиця Поздовжня, 33",
+  "ChildsIds": []
  },
  {
   "id": 179173,
@@ -745,9 +776,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.276367926300004,
+  "longt": 36.2763679263,
   "lati": 50.0544140602,
-  "FullNameUA": "вулиця Поздовжня, 35"
+  "FullNameUA": "вулиця Поздовжня, 35",
+  "ChildsIds": []
  },
  {
   "id": 179174,
@@ -772,6 +804,7 @@
   "reg_date": "",
   "longt": 36.2760622571,
   "lati": 50.0545836733,
-  "FullNameUA": "вулиця Поздовжня, 37"
+  "FullNameUA": "вулиця Поздовжня, 37",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2681424986,
   "lati": 50.0540134047,
-  "FullNameUA": "вулиця Батумська, 2"
+  "FullNameUA": "вулиця Батумська, 2",
+  "ChildsIds": []
  },
  {
   "id": 115197,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:26:30",
-  "longt": 36.262348523499995,
-  "lati": 50.05001759940001,
-  "FullNameUA": "вулиця Батумська, 4/8"
+  "longt": 36.2623485235,
+  "lati": 50.0500175994,
+  "FullNameUA": "вулиця Батумська, 4/8",
+  "ChildsIds": []
  },
  {
   "id": 115201,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:27:10",
-  "longt": 36.261770665099995,
-  "lati": 50.049728705999996,
-  "FullNameUA": "вулиця Батумська, 4/13"
+  "longt": 36.2617706651,
+  "lati": 50.049728706,
+  "FullNameUA": "вулиця Батумська, 4/13",
+  "ChildsIds": []
  },
  {
   "id": 115205,
@@ -97,7 +100,8 @@
   "reg_date": "23.04.2019 11:27:44",
   "longt": 36.2614584756,
   "lati": 50.0493821234,
-  "FullNameUA": "вулиця Батумська, 4/19"
+  "FullNameUA": "вулиця Батумська, 4/19",
+  "ChildsIds": []
  },
  {
   "id": 115210,
@@ -121,8 +125,9 @@
   "confrm": "Рішення ВК ХМР № 207, 10.04.2013",
   "reg_date": "15.05.2018 12:45:27",
   "longt": 36.2651318326,
-  "lati": 50.050251670200005,
-  "FullNameUA": "вулиця Батумська, 4/27"
+  "lati": 50.0502516702,
+  "FullNameUA": "вулиця Батумська, 4/27",
+  "ChildsIds": []
  },
  {
   "id": 115190,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:28:40",
-  "longt": 36.261738640299995,
+  "longt": 36.2617386403,
   "lati": 50.0506326737,
-  "FullNameUA": "вулиця Батумська, 4/1"
+  "FullNameUA": "вулиця Батумська, 4/1",
+  "ChildsIds": []
  },
  {
   "id": 115191,
@@ -171,8 +177,9 @@
   "confrm": "800, 12.12.2012",
   "reg_date": "17.01.2019 14:19:49",
   "longt": 36.2626146116,
-  "lati": 50.050736017300004,
-  "FullNameUA": "вулиця Батумська, 4/2"
+  "lati": 50.0507360173,
+  "FullNameUA": "вулиця Батумська, 4/2",
+  "ChildsIds": []
  },
  {
   "id": 115193,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2635833741,
-  "lati": 50.050455653700006,
-  "FullNameUA": "вулиця Батумська, 4/4"
+  "lati": 50.0504556537,
+  "FullNameUA": "вулиця Батумська, 4/4",
+  "ChildsIds": []
  },
  {
   "id": 115194,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2641957328,
   "lati": 50.0503472923,
-  "FullNameUA": "вулиця Батумська, 4/5"
+  "FullNameUA": "вулиця Батумська, 4/5",
+  "ChildsIds": []
  },
  {
   "id": 115195,
@@ -246,8 +255,9 @@
   "confrm": "Рішення ВК ХМР № 206, 10.04.2013",
   "reg_date": "15.05.2018 12:43:19",
   "longt": 36.2647249466,
-  "lati": 50.050424339100005,
-  "FullNameUA": "вулиця Батумська, 4/6"
+  "lati": 50.0504243391,
+  "FullNameUA": "вулиця Батумська, 4/6",
+  "ChildsIds": []
  },
  {
   "id": 115196,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261919808799995,
+  "longt": 36.2619198088,
   "lati": 50.0500317926,
-  "FullNameUA": "вулиця Батумська, 4/7"
+  "FullNameUA": "вулиця Батумська, 4/7",
+  "ChildsIds": []
  },
  {
   "id": 115199,
@@ -297,7 +308,8 @@
   "reg_date": "18.05.2018 10:04:21",
   "longt": 36.2638402261,
   "lati": 50.0499924015,
-  "FullNameUA": "вулиця Батумська, 4/11"
+  "FullNameUA": "вулиця Батумська, 4/11",
+  "ChildsIds": []
  },
  {
   "id": 115200,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 362, 18.06.2014",
   "reg_date": "23.04.2019 11:20:48",
-  "longt": 36.264525420599995,
-  "lati": 50.050043685700004,
-  "FullNameUA": "вулиця Батумська, 4/12"
+  "longt": 36.2645254206,
+  "lati": 50.0500436857,
+  "FullNameUA": "вулиця Батумська, 4/12",
+  "ChildsIds": []
  },
  {
   "id": 115202,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 332, 04.06.2014",
   "reg_date": "23.04.2019 11:18:52",
-  "longt": 36.262122317199996,
+  "longt": 36.2621223172,
   "lati": 50.0497946011,
-  "FullNameUA": "вулиця Батумська, 4/14"
+  "FullNameUA": "вулиця Батумська, 4/14",
+  "ChildsIds": []
  },
  {
   "id": 115203,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:29:24",
-  "longt": 36.262930917999995,
+  "longt": 36.262930918,
   "lati": 50.0497831717,
-  "FullNameUA": "вулиця Батумська, 4/15"
+  "FullNameUA": "вулиця Батумська, 4/15",
+  "ChildsIds": []
  },
  {
   "id": 115204,
@@ -397,7 +412,8 @@
   "reg_date": "23.04.2019 11:30:13",
   "longt": 36.2633888803,
   "lati": 50.049763104,
-  "FullNameUA": "вулиця Батумська, 4/16"
+  "FullNameUA": "вулиця Батумська, 4/16",
+  "ChildsIds": []
  },
  {
   "id": 115206,
@@ -421,8 +437,9 @@
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:31:30",
   "longt": 36.2627217639,
-  "lati": 50.049364998899996,
-  "FullNameUA": "вулиця Батумська, 4/20"
+  "lati": 50.0493649989,
+  "FullNameUA": "вулиця Батумська, 4/20",
+  "ChildsIds": []
  },
  {
   "id": 115207,
@@ -447,7 +464,8 @@
   "reg_date": "23.04.2019 11:32:22",
   "longt": 36.2632760018,
   "lati": 50.0493875298,
-  "FullNameUA": "вулиця Батумська, 4/21"
+  "FullNameUA": "вулиця Батумська, 4/21",
+  "ChildsIds": []
  },
  {
   "id": 115209,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "02.11.2018 15:49:58",
   "longt": 36.2642535145,
-  "lati": 50.049358687099996,
-  "FullNameUA": "вулиця Батумська, 4/23"
+  "lati": 50.0493586871,
+  "FullNameUA": "вулиця Батумська, 4/23",
+  "ChildsIds": []
  },
  {
   "id": 115211,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265564171499996,
+  "longt": 36.2655641715,
   "lati": 50.0502422618,
-  "FullNameUA": "вулиця Батумська, 4/28"
+  "FullNameUA": "вулиця Батумська, 4/28",
+  "ChildsIds": []
  },
  {
   "id": 115212,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2668642424,
-  "lati": 50.05042265470001,
-  "FullNameUA": "вулиця Батумська, 4/31"
+  "lati": 50.0504226547,
+  "FullNameUA": "вулиця Батумська, 4/31",
+  "ChildsIds": []
  },
  {
   "id": 115213,
@@ -546,8 +567,9 @@
   "confrm": "Рішення ВК ХМР № 333, 04.06.2014",
   "reg_date": "19.04.2019 14:00:34",
   "longt": 36.2675183851,
-  "lati": 50.050575204000005,
-  "FullNameUA": "вулиця Батумська, 4/32"
+  "lati": 50.050575204,
+  "FullNameUA": "вулиця Батумська, 4/32",
+  "ChildsIds": []
  },
  {
   "id": 115215,
@@ -571,8 +593,9 @@
   "confrm": "33, 18.01.2012",
   "reg_date": "23.04.2019 11:33:22",
   "longt": 36.2719308677,
-  "lati": 50.050685373300006,
-  "FullNameUA": "вулиця Батумська, 4/51"
+  "lati": 50.0506853733,
+  "FullNameUA": "вулиця Батумська, 4/51",
+  "ChildsIds": []
  },
  {
   "id": 115216,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271930740600006,
-  "lati": 50.050108002900004,
-  "FullNameUA": "вулиця Батумська, 4/52"
+  "longt": 36.2719307406,
+  "lati": 50.0501080029,
+  "FullNameUA": "вулиця Батумська, 4/52",
+  "ChildsIds": []
  },
  {
   "id": 115218,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 588, 24.09.2014",
   "reg_date": "23.04.2019 11:21:23",
-  "longt": 36.260144820899995,
+  "longt": 36.2601448209,
   "lati": 50.0491084952,
-  "FullNameUA": "вулиця Батумська, 4/59"
+  "FullNameUA": "вулиця Батумська, 4/59",
+  "ChildsIds": []
  },
  {
   "id": 115219,
@@ -646,8 +671,9 @@
   "confrm": "79, 10.02.2016",
   "reg_date": "23.04.2019 11:25:26",
   "longt": 36.2698681658,
-  "lati": 50.051042218300005,
-  "FullNameUA": "вулиця Батумська, 4/45"
+  "lati": 50.0510422183,
+  "FullNameUA": "вулиця Батумська, 4/45",
+  "ChildsIds": []
  },
  {
   "id": 115220,
@@ -672,7 +698,8 @@
   "reg_date": "23.04.2019 11:23:16",
   "longt": 36.2602055459,
   "lati": 50.0494080718,
-  "FullNameUA": "вулиця Батумська, 4/61"
+  "FullNameUA": "вулиця Батумська, 4/61",
+  "ChildsIds": []
  },
  {
   "id": 115222,
@@ -696,8 +723,9 @@
   "confrm": "1902, 29.07.2015",
   "reg_date": "",
   "longt": 36.2610571919,
-  "lati": 50.050800864600006,
-  "FullNameUA": "вулиця Батумська, 4/66"
+  "lati": 50.0508008646,
+  "FullNameUA": "вулиця Батумська, 4/66",
+  "ChildsIds": []
  },
  {
   "id": 115223,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2605623802,
   "lati": 50.0508400351,
-  "FullNameUA": "вулиця Батумська, 4/68"
+  "FullNameUA": "вулиця Батумська, 4/68",
+  "ChildsIds": []
  },
  {
   "id": 115224,
@@ -746,8 +775,9 @@
   "confrm": "179, 18.03.2015",
   "reg_date": "22.04.2019 15:58:46",
   "longt": 36.2693739213,
-  "lati": 50.050747955000006,
-  "FullNameUA": "вулиця Батумська, 4/41А"
+  "lati": 50.050747955,
+  "FullNameUA": "вулиця Батумська, 4/41А",
+  "ChildsIds": []
  },
  {
   "id": 115225,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 208, 10.04.2013",
   "reg_date": "15.05.2018 14:11:35",
-  "longt": 36.268760019199995,
-  "lati": 50.050718260500005,
-  "FullNameUA": "вулиця Батумська, 4/41Б"
+  "longt": 36.2687600192,
+  "lati": 50.0507182605,
+  "FullNameUA": "вулиця Батумська, 4/41Б",
+  "ChildsIds": []
  },
  {
   "id": 115226,
@@ -796,8 +827,9 @@
   "confrm": "Рішення ВК ХМР № 676, 16.10.2013",
   "reg_date": "16.05.2018 16:25:25",
   "longt": 36.2690951675,
-  "lati": 50.050731926000005,
-  "FullNameUA": "вулиця Батумська, 4/41В"
+  "lati": 50.050731926,
+  "FullNameUA": "вулиця Батумська, 4/41В",
+  "ChildsIds": []
  },
  {
   "id": 115227,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2659503028,
-  "lati": 50.05025162850001,
-  "FullNameUA": "вулиця Батумська, 4/29А"
+  "lati": 50.0502516285,
+  "FullNameUA": "вулиця Батумська, 4/29А",
+  "ChildsIds": []
  },
  {
   "id": 115228,
@@ -846,333 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2665482656,
-  "lati": 50.05032058530001,
-  "FullNameUA": "вулиця Батумська, 4/30А"
- },
- {
-  "id": 115198,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/10",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "33, 18.01.2012",
-  "reg_date": "23.04.2019 11:34:59",
-  "longt": 36.2633962727,
-  "lati": 50.0500021598,
-  "FullNameUA": "вулиця Батумська, 4/10"
- },
- {
-  "id": 115208,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/22",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "33, 18.01.2012",
-  "reg_date": "23.04.2019 11:35:39",
-  "longt": 36.2637550355,
-  "lati": 50.049406677,
-  "FullNameUA": "вулиця Батумська, 4/22"
- },
- {
-  "id": 115214,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/44",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "622, 17.10.2012",
-  "reg_date": "19.04.2019 11:44:16",
-  "longt": 36.2693578117,
-  "lati": 50.0515406314,
-  "FullNameUA": "вулиця Батумська, 4/44"
- },
- {
-  "id": 115221,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/64",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "1902, 29.07.2015",
-  "reg_date": "",
-  "longt": 36.2607702865,
-  "lati": 50.050363851300006,
-  "FullNameUA": "вулиця Батумська, 4/64"
- },
- {
-  "id": 178189,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/38",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 3",
-  "reg_date": "24.10.2017 12:06:15",
-  "longt": 36.2684263246,
-  "lati": 50.051531317800006,
-  "FullNameUA": "вулиця Батумська, 4/38"
- },
- {
-  "id": 177407,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/35А",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "598, 19.04.2017",
-  "reg_date": "17.05.2017 14:30:29",
-  "longt": 36.2680751456,
-  "lati": 50.051338642100006,
-  "FullNameUA": "вулиця Батумська, 4/35А"
- },
- {
-  "id": 181036,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/34",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\"",
-  "confrm": "",
-  "reg_date": "06.08.2019 15:38:32",
-  "longt": 36.2682205872,
-  "lati": 50.05063118780001,
-  "FullNameUA": "вулиця Батумська, 4/34"
- },
- {
-  "id": 180803,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/67",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\";  земельна ділянка (кадастровий номер 6310136300:16:013:0438)",
-  "confrm": "",
-  "reg_date": "24.05.2019 15:53:46",
-  "longt": 36.260203522299996,
-  "lati": 50.0483550915,
-  "FullNameUA": "вулиця Батумська, 4/67"
- },
- {
-  "id": 115217,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/56",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 589, 24.09.2014",
-  "reg_date": "23.04.2019 11:23:41",
-  "longt": 36.261043911899996,
-  "lati": 50.050053188300005,
-  "FullNameUA": "вулиця Батумська, 4/56"
- },
- {
-  "id": 180407,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/36А",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136300:16:013:0523)",
-  "confrm": "",
-  "reg_date": "19.03.2019 15:32:02",
-  "longt": 36.267679199,
-  "lati": 50.0517522947,
-  "FullNameUA": "вулиця Батумська, 4/36А"
- },
- {
-  "id": 180781,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/35",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\" та господарські будівлі  (гараж літ. \"Б\", лазня літ. \"В\")",
-  "confrm": "",
-  "reg_date": "15.05.2019 14:43:17",
-  "longt": 36.2676831353,
-  "lati": 50.0512634354,
-  "FullNameUA": "вулиця Батумська, 4/35"
- },
- {
-  "id": 180802,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/60",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\", гараж літ. \"Б\", льох літ. \"б\", лазня літ. \"В\";  земельна ділянка (кадастровий номер 6310136300:16:013:0524)",
-  "confrm": "",
-  "reg_date": "24.05.2019 15:21:42",
-  "longt": 36.260080784799996,
-  "lati": 50.048881988,
-  "FullNameUA": "вулиця Батумська, 4/60"
- },
- {
-  "id": 177418,
-  "postcode": 61070,
-  "number": 4,
-  "suffix": "/46",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "598, 19.04.2017",
-  "reg_date": "18.05.2017 16:31:29",
-  "longt": 36.270567826100006,
-  "lati": 50.0508752877,
-  "FullNameUA": "вулиця Батумська, 4/46"
+  "lati": 50.0503205853,
+  "FullNameUA": "вулиця Батумська, 4/30А",
+  "ChildsIds": []
  },
  {
   "id": 180801,
@@ -1197,7 +906,8 @@
   "reg_date": "24.05.2019 15:06:06",
   "longt": 36.259943002,
   "lati": 50.0486762852,
-  "FullNameUA": "вулиця Батумська, 4/62"
+  "FullNameUA": "вулиця Батумська, 4/62",
+  "ChildsIds": []
  },
  {
   "id": 115192,
@@ -1221,8 +931,347 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2630733983,
-  "lati": 50.050430990200006,
-  "FullNameUA": "вулиця Батумська, 4/3"
+  "lati": 50.0504309902,
+  "FullNameUA": "вулиця Батумська, 4/3",
+  "ChildsIds": []
+ },
+ {
+  "id": 177418,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/46",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "598, 19.04.2017",
+  "reg_date": "18.05.2017 16:31:29",
+  "longt": 36.2705678261,
+  "lati": 50.0508752877,
+  "FullNameUA": "вулиця Батумська, 4/46",
+  "ChildsIds": []
+ },
+ {
+  "id": 180802,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/60",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\", гараж літ. \"Б\", льох літ. \"б\", лазня літ. \"В\";  земельна ділянка (кадастровий номер 6310136300:16:013:0524)",
+  "confrm": "",
+  "reg_date": "24.05.2019 15:21:42",
+  "longt": 36.2600807848,
+  "lati": 50.048881988,
+  "FullNameUA": "вулиця Батумська, 4/60",
+  "ChildsIds": []
+ },
+ {
+  "id": 180781,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/35",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\" та господарські будівлі  (гараж літ. \"Б\", лазня літ. \"В\")",
+  "confrm": "",
+  "reg_date": "15.05.2019 14:43:17",
+  "longt": 36.2676831353,
+  "lati": 50.0512634354,
+  "FullNameUA": "вулиця Батумська, 4/35",
+  "ChildsIds": []
+ },
+ {
+  "id": 180407,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/36А",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136300:16:013:0523)",
+  "confrm": "",
+  "reg_date": "19.03.2019 15:32:02",
+  "longt": 36.267679199,
+  "lati": 50.0517522947,
+  "FullNameUA": "вулиця Батумська, 4/36А",
+  "ChildsIds": []
+ },
+ {
+  "id": 115217,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/56",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 589, 24.09.2014",
+  "reg_date": "23.04.2019 11:23:41",
+  "longt": 36.2610439119,
+  "lati": 50.0500531883,
+  "FullNameUA": "вулиця Батумська, 4/56",
+  "ChildsIds": []
+ },
+ {
+  "id": 115198,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/10",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "33, 18.01.2012",
+  "reg_date": "23.04.2019 11:34:59",
+  "longt": 36.2633962727,
+  "lati": 50.0500021598,
+  "FullNameUA": "вулиця Батумська, 4/10",
+  "ChildsIds": []
+ },
+ {
+  "id": 115208,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/22",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "33, 18.01.2012",
+  "reg_date": "23.04.2019 11:35:39",
+  "longt": 36.2637550355,
+  "lati": 50.049406677,
+  "FullNameUA": "вулиця Батумська, 4/22",
+  "ChildsIds": []
+ },
+ {
+  "id": 115214,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/44",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "622, 17.10.2012",
+  "reg_date": "19.04.2019 11:44:16",
+  "longt": 36.2693578117,
+  "lati": 50.0515406314,
+  "FullNameUA": "вулиця Батумська, 4/44",
+  "ChildsIds": []
+ },
+ {
+  "id": 115221,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/64",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1902, 29.07.2015",
+  "reg_date": "",
+  "longt": 36.2607702865,
+  "lati": 50.0503638513,
+  "FullNameUA": "вулиця Батумська, 4/64",
+  "ChildsIds": []
+ },
+ {
+  "id": 178189,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/38",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 3",
+  "reg_date": "24.10.2017 12:06:15",
+  "longt": 36.2684263246,
+  "lati": 50.0515313178,
+  "FullNameUA": "вулиця Батумська, 4/38",
+  "ChildsIds": []
+ },
+ {
+  "id": 177407,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/35А",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "598, 19.04.2017",
+  "reg_date": "17.05.2017 14:30:29",
+  "longt": 36.2680751456,
+  "lati": 50.0513386421,
+  "FullNameUA": "вулиця Батумська, 4/35А",
+  "ChildsIds": []
+ },
+ {
+  "id": 181036,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/34",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\"",
+  "confrm": "",
+  "reg_date": "06.08.2019 15:38:32",
+  "longt": 36.2682205872,
+  "lati": 50.0506311878,
+  "FullNameUA": "вулиця Батумська, 4/34",
+  "ChildsIds": []
+ },
+ {
+  "id": 180803,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "/67",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\";  земельна ділянка (кадастровий номер 6310136300:16:013:0438)",
+  "confrm": "",
+  "reg_date": "24.05.2019 15:53:46",
+  "longt": 36.2602035223,
+  "lati": 50.0483550915,
+  "FullNameUA": "вулиця Батумська, 4/67",
+  "ChildsIds": []
  },
  {
   "id": 179960,
@@ -1247,7 +1296,10 @@
   "reg_date": "",
   "longt": 36.2642303109,
   "lati": 50.0493941335,
-  "FullNameUA": "вулиця Батумська, 4, ділянка № 23"
+  "FullNameUA": "вулиця Батумська, 4, ділянка № 23",
+  "ChildsIds": [
+   115209
+  ]
  },
  {
   "id": 115229,
@@ -1270,59 +1322,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262525173899995,
+  "longt": 36.2625251739,
   "lati": 50.0486198143,
-  "FullNameUA": "вулиця Батумська, 8"
- },
- {
-  "id": 179362,
-  "postcode": 61070,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2626840851,
-  "lati": 50.0535197004,
-  "FullNameUA": "вулиця Батумська, 12-А"
- },
- {
-  "id": 115230,
-  "postcode": 61070,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2629325772,
-  "lati": 50.053341379500004,
-  "FullNameUA": "вулиця Батумська, 12"
+  "FullNameUA": "вулиця Батумська, 8",
+  "ChildsIds": []
  },
  {
   "id": 178786,
@@ -1347,7 +1350,60 @@
   "reg_date": "",
   "longt": 36.2630541741,
   "lati": 50.0529622589,
-  "FullNameUA": "вулиця Батумська, 12-Б"
+  "FullNameUA": "вулиця Батумська, 12-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 179362,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2626840851,
+  "lati": 50.0535197004,
+  "FullNameUA": "вулиця Батумська, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 115230,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2629325772,
+  "lati": 50.0533413795,
+  "FullNameUA": "вулиця Батумська, 12",
+  "ChildsIds": []
  },
  {
   "id": 179308,
@@ -1372,32 +1428,8 @@
   "reg_date": "",
   "longt": 36.2621607114,
   "lati": 50.0533760678,
-  "FullNameUA": "вулиця Батумська, 13"
- },
- {
-  "id": 115232,
-  "postcode": 61070,
-  "number": 14,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.267157093099996,
-  "lati": 50.051651543400006,
-  "FullNameUA": "вулиця Батумська, 14-Б"
+  "FullNameUA": "вулиця Батумська, 13",
+  "ChildsIds": []
  },
  {
   "id": 115231,
@@ -1421,8 +1453,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2667939313,
-  "lati": 50.05196419360001,
-  "FullNameUA": "вулиця Батумська, 14-А"
+  "lati": 50.0519641936,
+  "FullNameUA": "вулиця Батумська, 14-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 115232,
+  "postcode": 61070,
+  "number": 14,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2671570931,
+  "lati": 50.0516515434,
+  "FullNameUA": "вулиця Батумська, 14-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 182901,
+  "postcode": 61070,
+  "number": 14,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2673955615,
+  "lati": 50.0513609321,
+  "FullNameUA": "вулиця Батумська, 14-В",
+  "ChildsIds": []
  },
  {
   "id": 115233,
@@ -1445,9 +1530,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.263873046899995,
-  "lati": 50.05417275800001,
-  "FullNameUA": "вулиця Батумська, 16"
+  "longt": 36.2638730469,
+  "lati": 50.054172758,
+  "FullNameUA": "вулиця Батумська, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 115234,
+  "postcode": 61070,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2664638632,
+  "lati": 50.0509924008,
+  "FullNameUA": "вулиця Батумська, 18",
+  "ChildsIds": []
  },
  {
   "id": 115236,
@@ -1472,32 +1584,8 @@
   "reg_date": "",
   "longt": 36.2660156162,
   "lati": 50.0518292813,
-  "FullNameUA": "вулиця Батумська, 18-Б"
- },
- {
-  "id": 115234,
-  "postcode": 61070,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.266463863199995,
-  "lati": 50.050992400800006,
-  "FullNameUA": "вулиця Батумська, 18"
+  "FullNameUA": "вулиця Батумська, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 115235,
@@ -1521,8 +1609,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.266815647,
-  "lati": 50.051579497700004,
-  "FullNameUA": "вулиця Батумська, 18-А"
+  "lati": 50.0515794977,
+  "FullNameUA": "вулиця Батумська, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 115237,
@@ -1547,7 +1636,8 @@
   "reg_date": "",
   "longt": 36.2635056618,
   "lati": 50.0517128397,
-  "FullNameUA": "вулиця Батумська, 19"
+  "FullNameUA": "вулиця Батумська, 19",
+  "ChildsIds": []
  },
  {
   "id": 115245,
@@ -1571,8 +1661,35 @@
   "confrm": "430, 08.06.2011",
   "reg_date": "01.12.2016 09:15:11",
   "longt": 36.2699434937,
-  "lati": 50.051401895800005,
-  "FullNameUA": "вулиця Батумська, 20/8"
+  "lati": 50.0514018958,
+  "FullNameUA": "вулиця Батумська, 20/8",
+  "ChildsIds": []
+ },
+ {
+  "id": 115243,
+  "postcode": 61070,
+  "number": 20,
+  "suffix": "/6",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "430, 08.06.2011",
+  "reg_date": "01.12.2016 09:24:04",
+  "longt": 36.2698374633,
+  "lati": 50.0516095785,
+  "FullNameUA": "вулиця Батумська, 20/6",
+  "ChildsIds": []
  },
  {
   "id": 115242,
@@ -1596,14 +1713,15 @@
   "confrm": "430, 08.06.2011",
   "reg_date": "01.12.2016 09:17:31",
   "longt": 36.2701147551,
-  "lati": 50.051649489400006,
-  "FullNameUA": "вулиця Батумська, 20/5"
+  "lati": 50.0516494894,
+  "FullNameUA": "вулиця Батумська, 20/5",
+  "ChildsIds": []
  },
  {
-  "id": 115239,
+  "id": 115241,
   "postcode": 61070,
   "number": 20,
-  "suffix": "/2",
+  "suffix": "/4",
   "block": "",
   "streetid": 2158,
   "status_id": 1,
@@ -1619,35 +1737,11 @@
   "source_id": 1,
   "same_adr_comm": "",
   "confrm": "430, 08.06.2011",
-  "reg_date": "01.12.2016 09:26:57",
-  "longt": 36.269503965,
-  "lati": 50.0520891887,
-  "FullNameUA": "вулиця Батумська, 20/2"
- },
- {
-  "id": 115244,
-  "postcode": 61070,
-  "number": 20,
-  "suffix": "/7",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "430, 08.06.2011",
-  "reg_date": "01.12.2016 09:14:02",
-  "longt": 36.2702689429,
-  "lati": 50.051476558800005,
-  "FullNameUA": "вулиця Батумська, 20/7"
+  "reg_date": "01.12.2016 09:25:21",
+  "longt": 36.2696169084,
+  "lati": 50.0518063433,
+  "FullNameUA": "вулиця Батумська, 20/4",
+  "ChildsIds": []
  },
  {
   "id": 115240,
@@ -1672,13 +1766,14 @@
   "reg_date": "01.12.2016 09:24:44",
   "longt": 36.2700623817,
   "lati": 50.0518619201,
-  "FullNameUA": "вулиця Батумська, 20/3"
+  "FullNameUA": "вулиця Батумська, 20/3",
+  "ChildsIds": []
  },
  {
-  "id": 115241,
+  "id": 115239,
   "postcode": 61070,
   "number": 20,
-  "suffix": "/4",
+  "suffix": "/2",
   "block": "",
   "streetid": 2158,
   "status_id": 1,
@@ -1694,35 +1789,11 @@
   "source_id": 1,
   "same_adr_comm": "",
   "confrm": "430, 08.06.2011",
-  "reg_date": "01.12.2016 09:25:21",
-  "longt": 36.269616908399996,
-  "lati": 50.0518063433,
-  "FullNameUA": "вулиця Батумська, 20/4"
- },
- {
-  "id": 115243,
-  "postcode": 61070,
-  "number": 20,
-  "suffix": "/6",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "430, 08.06.2011",
-  "reg_date": "01.12.2016 09:24:04",
-  "longt": 36.2698374633,
-  "lati": 50.051609578500006,
-  "FullNameUA": "вулиця Батумська, 20/6"
+  "reg_date": "01.12.2016 09:26:57",
+  "longt": 36.269503965,
+  "lati": 50.0520891887,
+  "FullNameUA": "вулиця Батумська, 20/2",
+  "ChildsIds": []
  },
  {
   "id": 115238,
@@ -1746,8 +1817,35 @@
   "confrm": "Рішення ВК ХМР № 430, 08.06.2011",
   "reg_date": "01.12.2016 09:26:17",
   "longt": 36.2699143719,
-  "lati": 50.052133565400005,
-  "FullNameUA": "вулиця Батумська, 20/1"
+  "lati": 50.0521335654,
+  "FullNameUA": "вулиця Батумська, 20/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 115244,
+  "postcode": 61070,
+  "number": 20,
+  "suffix": "/7",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "430, 08.06.2011",
+  "reg_date": "01.12.2016 09:14:02",
+  "longt": 36.2702689429,
+  "lati": 50.0514765588,
+  "FullNameUA": "вулиця Батумська, 20/7",
+  "ChildsIds": []
  },
  {
   "id": 115246,
@@ -1771,8 +1869,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2649987638,
-  "lati": 50.051538372500005,
-  "FullNameUA": "вулиця Батумська, 24"
+  "lati": 50.0515383725,
+  "FullNameUA": "вулиця Батумська, 24",
+  "ChildsIds": []
  },
  {
   "id": 115249,
@@ -1795,9 +1894,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262674131699995,
+  "longt": 36.2626741317,
   "lati": 50.056132206,
-  "FullNameUA": "вулиця Батумська, 38-Б"
+  "FullNameUA": "вулиця Батумська, 38-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 115247,
+  "postcode": 61070,
+  "number": 38,
+  "suffix": "",
+  "block": "",
+  "streetid": 2158,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2629937844,
+  "lati": 50.0561793434,
+  "FullNameUA": "вулиця Батумська, 38",
+  "ChildsIds": []
  },
  {
   "id": 115248,
@@ -1821,33 +1947,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2628337918,
-  "lati": 50.056141358400005,
-  "FullNameUA": "вулиця Батумська, 38-А"
- },
- {
-  "id": 115247,
-  "postcode": 61070,
-  "number": 38,
-  "suffix": "",
-  "block": "",
-  "streetid": 2158,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.262993784399995,
-  "lati": 50.056179343400004,
-  "FullNameUA": "вулиця Батумська, 38"
+  "lati": 50.0561413584,
+  "FullNameUA": "вулиця Батумська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 115250,
@@ -1872,7 +1974,8 @@
   "reg_date": "18.11.2019 17:03:55",
   "longt": 36.2647875762,
   "lati": 50.0479416023,
-  "FullNameUA": "вулиця Батумська, 40"
+  "FullNameUA": "вулиця Батумська, 40",
+  "ChildsIds": []
  },
  {
   "id": 115251,
@@ -1896,8 +1999,9 @@
   "confrm": "339, 14.09.2016",
   "reg_date": "18.11.2019 17:13:10",
   "longt": 36.2641549631,
-  "lati": 50.047940069599996,
-  "FullNameUA": "вулиця Батумська, 42"
+  "lati": 50.0479400696,
+  "FullNameUA": "вулиця Батумська, 42",
+  "ChildsIds": []
  },
  {
   "id": 115252,
@@ -1920,9 +2024,10 @@
   "same_adr_comm": "",
   "confrm": "339, 14.09.2016",
   "reg_date": "09.01.2020 12:30:06",
-  "longt": 36.263527017499996,
+  "longt": 36.2635270175,
   "lati": 50.0479474453,
-  "FullNameUA": "вулиця Батумська, 44"
+  "FullNameUA": "вулиця Батумська, 44",
+  "ChildsIds": []
  },
  {
   "id": 115253,
@@ -1946,8 +2051,9 @@
   "confrm": "339, 14.09.2016",
   "reg_date": "19.11.2019 10:50:22",
   "longt": 36.2628944205,
-  "lati": 50.047948879799996,
-  "FullNameUA": "вулиця Батумська, 46"
+  "lati": 50.0479488798,
+  "FullNameUA": "вулиця Батумська, 46",
+  "ChildsIds": []
  },
  {
   "id": 115254,
@@ -1970,9 +2076,10 @@
   "same_adr_comm": "",
   "confrm": "339, 14.09.2016",
   "reg_date": "19.11.2019 12:14:24",
-  "longt": 36.262275611199996,
+  "longt": 36.2622756112,
   "lati": 50.0479383855,
-  "FullNameUA": "вулиця Батумська, 48"
+  "FullNameUA": "вулиця Батумська, 48",
+  "ChildsIds": []
  },
  {
   "id": 115255,
@@ -1997,7 +2104,8 @@
   "reg_date": "19.11.2019 16:03:39",
   "longt": 36.2615968545,
   "lati": 50.0479428908,
-  "FullNameUA": "вулиця Батумська, 50"
+  "FullNameUA": "вулиця Батумська, 50",
+  "ChildsIds": []
  },
  {
   "id": 115256,
@@ -2022,7 +2130,8 @@
   "reg_date": "19.11.2019 16:59:26",
   "longt": 36.2615758165,
   "lati": 50.0474701705,
-  "FullNameUA": "вулиця Батумська, 52"
+  "FullNameUA": "вулиця Батумська, 52",
+  "ChildsIds": []
  },
  {
   "id": 115257,
@@ -2045,9 +2154,10 @@
   "same_adr_comm": "",
   "confrm": "339, 14.09.2016",
   "reg_date": "19.11.2019 17:01:52",
-  "longt": 36.262295987099996,
+  "longt": 36.2622959871,
   "lati": 50.0474363129,
-  "FullNameUA": "вулиця Батумська, 54"
+  "FullNameUA": "вулиця Батумська, 54",
+  "ChildsIds": []
  },
  {
   "id": 115258,
@@ -2072,7 +2182,8 @@
   "reg_date": "20.11.2019 10:44:14",
   "longt": 36.2629702694,
   "lati": 50.047464046,
-  "FullNameUA": "вулиця Батумська, 56"
+  "FullNameUA": "вулиця Батумська, 56",
+  "ChildsIds": []
  },
  {
   "id": 115259,
@@ -2096,8 +2207,9 @@
   "confrm": "339, 14.09.2016",
   "reg_date": "09.01.2020 12:32:49",
   "longt": 36.2636859884,
-  "lati": 50.047465395799996,
-  "FullNameUA": "вулиця Батумська, 58"
+  "lati": 50.0474653958,
+  "FullNameUA": "вулиця Батумська, 58",
+  "ChildsIds": []
  },
  {
   "id": 115260,
@@ -2122,7 +2234,8 @@
   "reg_date": "20.11.2019 12:26:25",
   "longt": 36.2643969249,
   "lati": 50.0474322404,
-  "FullNameUA": "вулиця Батумська, 60"
+  "FullNameUA": "вулиця Батумська, 60",
+  "ChildsIds": []
  },
  {
   "id": 115261,
@@ -2145,9 +2258,10 @@
   "same_adr_comm": "",
   "confrm": "339, 14.09.2016",
   "reg_date": "20.11.2019 15:15:04",
-  "longt": 36.265112682899996,
+  "longt": 36.2651126829,
   "lati": 50.0474443056,
-  "FullNameUA": "вулиця Батумська, 62"
+  "FullNameUA": "вулиця Батумська, 62",
+  "ChildsIds": []
  },
  {
   "id": 115262,
@@ -2172,6 +2286,7 @@
   "reg_date": "20.11.2019 16:49:02",
   "longt": 36.2655624138,
   "lati": 50.047441492,
-  "FullNameUA": "вулиця Батумська, 64"
+  "FullNameUA": "вулиця Батумська, 64",
+  "ChildsIds": []
  }
 ]

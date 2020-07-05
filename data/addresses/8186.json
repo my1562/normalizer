@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "id": 182926,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 8186,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3085821519,
+  "lati": 50.0452893175,
+  "FullNameUA": "провулок Бочанський 1-й, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 182941,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 8186,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3084989987,
+  "lati": 50.0451080613,
+  "FullNameUA": "провулок Бочанський 1-й, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 182942,
+  "postcode": 61107,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 8186,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3084082377,
+  "lati": 50.0449682163,
+  "FullNameUA": "провулок Бочанський 1-й, 5",
+  "ChildsIds": []
+ }
+]

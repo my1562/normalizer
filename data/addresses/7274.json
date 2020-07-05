@@ -1,9 +1,9 @@
 [
  {
-  "id": 176796,
+  "id": 176783,
   "postcode": 61071,
   "number": 1,
-  "suffix": "В",
+  "suffix": "",
   "block": "",
   "streetid": 7274,
   "status_id": 3,
@@ -16,13 +16,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1883044309,
-  "lati": 49.9316200893,
-  "FullNameUA": " Перемога 2-е сел., 1-В"
+  "reg_date": "28.04.2020 11:42:02",
+  "longt": 36.1899256447,
+  "lati": 49.9309949628,
+  "FullNameUA": " Перемога 2-е сел., 1",
+  "ChildsIds": [
+   157909
+  ]
  },
  {
   "id": 176794,
@@ -46,8 +49,11 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.1877576184,
-  "lati": 49.931254652999996,
-  "FullNameUA": " Перемога 2-е сел., 1-Б"
+  "lati": 49.931254653,
+  "FullNameUA": " Перемога 2-е сел., 1-Б",
+  "ChildsIds": [
+   157911
+  ]
  },
  {
   "id": 176793,
@@ -66,19 +72,22 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 11:43:06",
   "longt": 36.1884792915,
   "lati": 49.9311012445,
-  "FullNameUA": " Перемога 2-е сел., 1-А"
+  "FullNameUA": " Перемога 2-е сел., 1-А",
+  "ChildsIds": [
+   157910
+  ]
  },
  {
-  "id": 176783,
+  "id": 176796,
   "postcode": 61071,
   "number": 1,
-  "suffix": "",
+  "suffix": "В",
   "block": "",
   "streetid": 7274,
   "status_id": 3,
@@ -91,13 +100,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1899256447,
-  "lati": 49.9309949628,
-  "FullNameUA": " Перемога 2-е сел., 1"
+  "reg_date": "28.04.2020 11:42:34",
+  "longt": 36.1883044309,
+  "lati": 49.9316200893,
+  "FullNameUA": " Перемога 2-е сел., 1-В",
+  "ChildsIds": [
+   150679
+  ]
  },
  {
   "id": 176777,
@@ -122,7 +134,10 @@
   "reg_date": "",
   "longt": 36.1901335117,
   "lati": 49.9307522747,
-  "FullNameUA": " Перемога 2-е сел., 2"
+  "FullNameUA": " Перемога 2-е сел., 2",
+  "ChildsIds": [
+   182748
+  ]
  },
  {
   "id": 176778,
@@ -147,7 +162,10 @@
   "reg_date": "",
   "longt": 36.1899517246,
   "lati": 49.9305425103,
-  "FullNameUA": " Перемога 2-е сел., 3"
+  "FullNameUA": " Перемога 2-е сел., 3",
+  "ChildsIds": [
+   182749
+  ]
  },
  {
   "id": 176779,
@@ -172,7 +190,8 @@
   "reg_date": "",
   "longt": 36.1897572572,
   "lati": 49.9302896288,
-  "FullNameUA": " Перемога 2-е сел., 4"
+  "FullNameUA": " Перемога 2-е сел., 4",
+  "ChildsIds": []
  },
  {
   "id": 176781,
@@ -197,7 +216,10 @@
   "reg_date": "12.03.2019 11:22:01",
   "longt": 36.1895335734,
   "lati": 49.9300095899,
-  "FullNameUA": " Перемога 2-е сел., 5-А"
+  "FullNameUA": " Перемога 2-е сел., 5-А",
+  "ChildsIds": [
+   182752
+  ]
  },
  {
   "id": 176782,
@@ -222,7 +244,10 @@
   "reg_date": "",
   "longt": 36.1894957728,
   "lati": 49.9299547057,
-  "FullNameUA": " Перемога 2-е сел., 5"
+  "FullNameUA": " Перемога 2-е сел., 5",
+  "ChildsIds": [
+   182753
+  ]
  },
  {
   "id": 176776,
@@ -241,13 +266,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "карта М1:2000",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1890797616,
-  "lati": 49.9298560204,
-  "FullNameUA": " Перемога 2-е сел., 6"
+  "longt": 36.1893651936,
+  "lati": 49.9302905597,
+  "FullNameUA": " Перемога 2-е сел., 6",
+  "ChildsIds": [
+   182751
+  ]
  },
  {
   "id": 176785,
@@ -266,13 +294,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1892497157,
-  "lati": 49.9306944183,
-  "FullNameUA": " Перемога 2-е сел., 7"
+  "reg_date": "28.04.2020 12:20:11",
+  "longt": 36.1883485309,
+  "lati": 49.9292258345,
+  "FullNameUA": " Перемога 2-е сел., 7",
+  "ChildsIds": [
+   157918
+  ]
  },
  {
   "id": 176780,
@@ -291,13 +322,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "карта М1:2000",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1893946973,
-  "lati": 49.93029571,
-  "FullNameUA": " Перемога 2-е сел., 8"
+  "longt": 36.1890540012,
+  "lati": 49.9298676546,
+  "FullNameUA": " Перемога 2-е сел., 8",
+  "ChildsIds": [
+   182754
+  ]
  },
  {
   "id": 176792,
@@ -316,13 +350,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 12:15:12",
   "longt": 36.1882525289,
   "lati": 49.9296482151,
-  "FullNameUA": " Перемога 2-е сел., 9"
+  "FullNameUA": " Перемога 2-е сел., 9",
+  "ChildsIds": [
+   157919
+  ]
  },
  {
   "id": 176797,
@@ -341,13 +378,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 12:23:31",
   "longt": 36.1886091391,
-  "lati": 49.928963753800005,
-  "FullNameUA": " Перемога 2-е сел., 10"
+  "lati": 49.9289637538,
+  "FullNameUA": " Перемога 2-е сел., 10",
+  "ChildsIds": [
+   157920
+  ]
  },
  {
   "id": 176791,
@@ -366,13 +406,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 12:11:48",
   "longt": 36.1880773933,
   "lati": 49.9300956986,
-  "FullNameUA": " Перемога 2-е сел., 11"
+  "FullNameUA": " Перемога 2-е сел., 11",
+  "ChildsIds": [
+   157921
+  ]
  },
  {
   "id": 176784,
@@ -391,13 +434,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 11:43:35",
   "longt": 36.1895181241,
   "lati": 49.9309123743,
-  "FullNameUA": " Перемога 2-е сел., 12"
+  "FullNameUA": " Перемога 2-е сел., 12",
+  "ChildsIds": [
+   157912
+  ]
  },
  {
   "id": 176786,
@@ -416,13 +462,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 11:45:57",
   "longt": 36.1889370493,
   "lati": 49.9308376513,
-  "FullNameUA": " Перемога 2-е сел., 13"
+  "FullNameUA": " Перемога 2-е сел., 13",
+  "ChildsIds": [
+   157913
+  ]
  },
  {
   "id": 176788,
@@ -441,13 +490,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
+  "reg_date": "28.04.2020 11:51:42",
   "longt": 36.1884355921,
   "lati": 49.930762348,
-  "FullNameUA": " Перемога 2-е сел., 14"
+  "FullNameUA": " Перемога 2-е сел., 14",
+  "ChildsIds": [
+   157914
+  ]
  },
  {
   "id": 176790,
@@ -472,7 +524,10 @@
   "reg_date": "",
   "longt": 36.1879341457,
   "lati": 49.9306894213,
-  "FullNameUA": " Перемога 2-е сел., 15"
+  "FullNameUA": " Перемога 2-е сел., 15",
+  "ChildsIds": [
+   157915
+  ]
  },
  {
   "id": 176787,
@@ -491,13 +546,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1887482595,
-  "lati": 49.9306191164,
-  "FullNameUA": " Перемога 2-е сел., 16"
+  "reg_date": "28.04.2020 11:41:31",
+  "longt": 36.1892401026,
+  "lati": 49.9306832405,
+  "FullNameUA": " Перемога 2-е сел., 16",
+  "ChildsIds": [
+   182746
+  ]
  },
  {
   "id": 176789,
@@ -516,12 +574,43 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.188239472,
-  "lati": 49.9305533392,
-  "FullNameUA": " Перемога 2-е сел., 17"
+  "reg_date": "28.04.2020 11:49:03",
+  "longt": 36.1887666762,
+  "lati": 49.9306190832,
+  "FullNameUA": " Перемога 2-е сел., 17",
+  "ChildsIds": [
+   157916
+  ]
+ },
+ {
+  "id": 182747,
+  "postcode": 61071,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 7274,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 11:54:31",
+  "longt": 36.1882099027,
+  "lati": 49.930535541,
+  "FullNameUA": " Перемога 2-е сел., 18",
+  "ChildsIds": [
+   157917
+  ]
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2396820306,
   "lati": 50.0084880711,
-  "FullNameUA": "вулиця Каразіна, 1"
+  "FullNameUA": "вулиця Каразіна, 1",
+  "ChildsIds": []
  },
  {
   "id": 123556,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2395850735,
   "lati": 50.0080268001,
-  "FullNameUA": "вулиця Каразіна, 2-А"
+  "FullNameUA": "вулиця Каразіна, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 123555,
@@ -72,7 +74,8 @@
   "reg_date": "15.05.2018 14:42:49",
   "longt": 36.2393240297,
   "lati": 50.0082652687,
-  "FullNameUA": "вулиця Каразіна, 2"
+  "FullNameUA": "вулиця Каразіна, 2",
+  "ChildsIds": []
  },
  {
   "id": 123557,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.23988926410001,
+  "longt": 36.2398892641,
   "lati": 50.0080561952,
-  "FullNameUA": "вулиця Каразіна, 4"
+  "FullNameUA": "вулиця Каразіна, 4",
+  "ChildsIds": []
  },
  {
   "id": 123558,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2407501144,
   "lati": 50.0081230427,
-  "FullNameUA": "вулиця Каразіна, 5"
+  "FullNameUA": "вулиця Каразіна, 5",
+  "ChildsIds": []
  },
  {
   "id": 123559,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2405391225,
   "lati": 50.0078081083,
-  "FullNameUA": "вулиця Каразіна, 6"
+  "FullNameUA": "вулиця Каразіна, 6",
+  "ChildsIds": []
  },
  {
   "id": 123560,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2408935743,
   "lati": 50.0076306911,
-  "FullNameUA": "вулиця Каразіна, 6-Б"
+  "FullNameUA": "вулиця Каразіна, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 123561,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2420907544,
   "lati": 50.0078023662,
-  "FullNameUA": "вулиця Каразіна, 7/9"
+  "FullNameUA": "вулиця Каразіна, 7/9",
+  "ChildsIds": []
  },
  {
   "id": 123562,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2412594748,
   "lati": 50.0073775014,
-  "FullNameUA": "вулиця Каразіна, 8"
+  "FullNameUA": "вулиця Каразіна, 8",
+  "ChildsIds": []
  },
  {
   "id": 123563,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2419343102,
   "lati": 50.0076185412,
-  "FullNameUA": "вулиця Каразіна, 9/75"
+  "FullNameUA": "вулиця Каразіна, 9/75",
+  "ChildsIds": []
  },
  {
   "id": 123564,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241725411000004,
+  "longt": 36.241725411,
   "lati": 50.0073469479,
-  "FullNameUA": "вулиця Каразіна, 10"
+  "FullNameUA": "вулиця Каразіна, 10",
+  "ChildsIds": []
  },
  {
   "id": 123565,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243357885900004,
+  "longt": 36.2433578859,
   "lati": 50.0073050422,
-  "FullNameUA": "вулиця Каразіна, 13"
+  "FullNameUA": "вулиця Каразіна, 13",
+  "ChildsIds": []
  },
  {
   "id": 123566,
@@ -320,9 +332,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243838747000005,
+  "longt": 36.243838747,
   "lati": 50.0071332107,
-  "FullNameUA": "вулиця Каразіна, 15"
+  "FullNameUA": "вулиця Каразіна, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 182281,
+  "postcode": 61002,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2817,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2429474908,
+  "lati": 50.0068944656,
+  "FullNameUA": "вулиця Каразіна, 16",
+  "ChildsIds": []
  },
  {
   "id": 123567,
@@ -345,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244233640800005,
+  "longt": 36.2442336408,
   "lati": 50.0069776388,
-  "FullNameUA": "вулиця Каразіна, 17"
+  "FullNameUA": "вулиця Каразіна, 17",
+  "ChildsIds": []
  },
  {
   "id": 123568,
@@ -372,6 +412,7 @@
   "reg_date": "",
   "longt": 36.2438237808,
   "lati": 50.0065054603,
-  "FullNameUA": "вулиця Каразіна, 22"
+  "FullNameUA": "вулиця Каразіна, 22",
+  "ChildsIds": []
  }
 ]

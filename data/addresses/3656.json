@@ -2,7 +2,7 @@
  {
   "id": 165111,
   "postcode": 61109,
-  "number": 2,
+  "number": 1,
   "suffix": "",
   "block": "",
   "streetid": 3656,
@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2525839999,
   "lati": 49.8967150664,
-  "FullNameUA": " Поля Фільтрації, 2"
- },
- {
-  "id": 165112,
-  "postcode": 61109,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 3656,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2538290511,
-  "lati": 49.8968055139,
-  "FullNameUA": " Поля Фільтрації, 4"
+  "FullNameUA": " Поля Фільтрації, 1",
+  "ChildsIds": []
  },
  {
   "id": 179332,
@@ -71,8 +47,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2543885273,
-  "lati": 49.900166647599995,
-  "FullNameUA": " Поля Фільтрації, 6"
+  "lati": 49.9001666476,
+  "FullNameUA": " Поля Фільтрації, 6",
+  "ChildsIds": []
  },
  {
   "id": 179333,
@@ -97,6 +74,7 @@
   "reg_date": "",
   "longt": 36.2528535101,
   "lati": 49.8981003115,
-  "FullNameUA": " Поля Фільтрації, 7-А"
+  "FullNameUA": " Поля Фільтрації, 7-А",
+  "ChildsIds": []
  }
 ]

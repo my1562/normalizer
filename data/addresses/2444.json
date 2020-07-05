@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2341919914,
-  "lati": 49.995454950500005,
-  "FullNameUA": "вулиця Гоголя, 1"
+  "lati": 49.9954549505,
+  "FullNameUA": "вулиця Гоголя, 1",
+  "ChildsIds": []
  },
  {
   "id": 122109,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.234617361400005,
+  "longt": 36.2346173614,
   "lati": 49.9954989122,
-  "FullNameUA": "вулиця Гоголя, 2"
+  "FullNameUA": "вулиця Гоголя, 2",
+  "ChildsIds": []
  },
  {
   "id": 122110,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.23483629,
   "lati": 49.9949975843,
-  "FullNameUA": "вулиця Гоголя, 2-А"
+  "FullNameUA": "вулиця Гоголя, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 122111,
@@ -95,34 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23393376400001,
+  "longt": 36.233933764,
   "lati": 49.995676486,
-  "FullNameUA": "вулиця Гоголя, 3"
- },
- {
-  "id": 122112,
-  "postcode": 61057,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 2444,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "17.12.2019 17:33:14",
-  "longt": 36.235129054800005,
-  "lati": 49.9964321677,
-  "FullNameUA": "вулиця Гоголя, 4"
+  "FullNameUA": "вулиця Гоголя, 3",
+  "ChildsIds": []
  },
  {
   "id": 122113,
@@ -145,9 +124,36 @@
   "same_adr_comm": "",
   "confrm": "на удаление",
   "reg_date": "",
-  "longt": 36.23478636150001,
-  "lati": 49.995835472900005,
-  "FullNameUA": "вулиця Гоголя, 4/1"
+  "longt": 36.2347863615,
+  "lati": 49.9958354729,
+  "FullNameUA": "вулиця Гоголя, 4/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 122112,
+  "postcode": 61057,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2444,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.12.2019 17:33:14",
+  "longt": 36.2351290548,
+  "lati": 49.9964321677,
+  "FullNameUA": "вулиця Гоголя, 4",
+  "ChildsIds": []
  },
  {
   "id": 122115,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2340102953,
   "lati": 49.9959541021,
-  "FullNameUA": "вулиця Гоголя, 5-А"
+  "FullNameUA": "вулиця Гоголя, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 122114,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23442876280001,
-  "lati": 49.996094108200005,
-  "FullNameUA": "вулиця Гоголя, 5"
+  "longt": 36.2344287628,
+  "lati": 49.9960941082,
+  "FullNameUA": "вулиця Гоголя, 5",
+  "ChildsIds": []
  },
  {
   "id": 122116,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23576986730001,
+  "longt": 36.2357698673,
   "lati": 49.9968484532,
-  "FullNameUA": "вулиця Гоголя, 6"
+  "FullNameUA": "вулиця Гоголя, 6",
+  "ChildsIds": []
  },
  {
   "id": 122117,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.235354124900006,
-  "lati": 49.997162257300005,
-  "FullNameUA": "вулиця Гоголя, 6/8"
+  "longt": 36.2353541249,
+  "lati": 49.9971622573,
+  "FullNameUA": "вулиця Гоголя, 6/8",
+  "ChildsIds": []
  },
  {
   "id": 122118,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.234631929,
-  "lati": 49.996718985600005,
-  "FullNameUA": "вулиця Гоголя, 7"
+  "lati": 49.9967189856,
+  "FullNameUA": "вулиця Гоголя, 7",
+  "ChildsIds": []
  },
  {
   "id": 177992,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23488583220001,
+  "longt": 36.2348858322,
   "lati": 49.9971864352,
-  "FullNameUA": "вулиця Гоголя, 9"
+  "FullNameUA": "вулиця Гоголя, 9",
+  "ChildsIds": []
  },
  {
   "id": 122119,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234727316400004,
+  "longt": 36.2347273164,
   "lati": 49.996984214,
-  "FullNameUA": "вулиця Гоголя, 9-Б"
+  "FullNameUA": "вулиця Гоголя, 9-Б",
+  "ChildsIds": []
  },
  {
   "id": 122120,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.235870957,
   "lati": 49.9977601908,
-  "FullNameUA": "вулиця Гоголя, 10"
+  "FullNameUA": "вулиця Гоголя, 10",
+  "ChildsIds": []
  },
  {
   "id": 122121,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234986092300005,
+  "longt": 36.2349860923,
   "lati": 49.9975265406,
-  "FullNameUA": "вулиця Гоголя, 11"
+  "FullNameUA": "вулиця Гоголя, 11",
+  "ChildsIds": []
  },
  {
   "id": 122122,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.234934313000004,
-  "lati": 49.997290999600004,
-  "FullNameUA": "вулиця Гоголя, 11-А"
+  "longt": 36.234934313,
+  "lati": 49.9972909996,
+  "FullNameUA": "вулиця Гоголя, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 122123,
@@ -420,8 +436,11 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235189358700005,
+  "longt": 36.2351893587,
   "lati": 49.9977939112,
-  "FullNameUA": "вулиця Гоголя, 13"
+  "FullNameUA": "вулиця Гоголя, 13",
+  "ChildsIds": [
+   128092
+  ]
  }
 ]

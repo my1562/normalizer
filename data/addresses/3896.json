@@ -1,30 +1,5 @@
 [
  {
-  "id": 135995,
-  "postcode": 61068,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3896,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2836872632,
-  "lati": 49.9898398774,
-  "FullNameUA": "в'їзд Семиградський, 1"
- },
- {
   "id": 135996,
   "postcode": 61068,
   "number": 1,
@@ -47,7 +22,34 @@
   "reg_date": "",
   "longt": 36.2836204034,
   "lati": 49.9899958458,
-  "FullNameUA": "в'їзд Семиградський, 1-А"
+  "FullNameUA": "в'їзд Семиградський, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135995,
+  "postcode": 61068,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2836872632,
+  "lati": 49.9898398774,
+  "FullNameUA": "в'їзд Семиградський, 1",
+  "ChildsIds": []
  },
  {
   "id": 135998,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2835465941,
   "lati": 49.9901223438,
-  "FullNameUA": "в'їзд Семиградський, 1-В"
+  "FullNameUA": "в'їзд Семиградський, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 135997,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2834807834,
   "lati": 49.9902141032,
-  "FullNameUA": "в'їзд Семиградський, 1-Б"
+  "FullNameUA": "в'їзд Семиградський, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 136000,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283328169600004,
+  "longt": 36.2833281696,
   "lati": 49.9904680324,
-  "FullNameUA": "в'їзд Семиградський, 3-А"
+  "FullNameUA": "в'їзд Семиградський, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 135999,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2834030495,
   "lati": 49.9903408751,
-  "FullNameUA": "в'їзд Семиградський, 3"
+  "FullNameUA": "в'їзд Семиградський, 3",
+  "ChildsIds": []
  },
  {
   "id": 136001,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2832135311,
   "lati": 49.9906282738,
-  "FullNameUA": "в'їзд Семиградський, 5"
+  "FullNameUA": "в'їзд Семиградський, 5",
+  "ChildsIds": []
  },
  {
   "id": 136002,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283910474100004,
+  "longt": 36.2839104741,
   "lati": 49.9901867413,
-  "FullNameUA": "в'їзд Семиградський, 6"
+  "FullNameUA": "в'їзд Семиградський, 6",
+  "ChildsIds": []
  },
  {
   "id": 136003,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2831180173,
   "lati": 49.9907645003,
-  "FullNameUA": "в'їзд Семиградський, 7"
+  "FullNameUA": "в'їзд Семиградський, 7",
+  "ChildsIds": []
  },
  {
   "id": 136004,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283816481100004,
-  "lati": 49.990452889000004,
-  "FullNameUA": "в'їзд Семиградський, 8"
+  "longt": 36.2838164811,
+  "lati": 49.990452889,
+  "FullNameUA": "в'їзд Семиградський, 8",
+  "ChildsIds": []
  },
  {
   "id": 136005,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2830343679,
-  "lati": 49.990917378700004,
-  "FullNameUA": "в'їзд Семиградський, 9"
+  "lati": 49.9909173787,
+  "FullNameUA": "в'їзд Семиградський, 9",
+  "ChildsIds": []
  },
  {
   "id": 136006,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2836130995,
   "lati": 49.9907551837,
-  "FullNameUA": "в'їзд Семиградський, 10"
+  "FullNameUA": "в'їзд Семиградський, 10",
+  "ChildsIds": []
  },
  {
   "id": 136007,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2829151569,
   "lati": 49.9910886897,
-  "FullNameUA": "в'їзд Семиградський, 11"
+  "FullNameUA": "в'їзд Семиградський, 11",
+  "ChildsIds": []
  },
  {
   "id": 136008,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2834876508,
-  "lati": 49.990957700500005,
-  "FullNameUA": "в'їзд Семиградський, 12"
+  "lati": 49.9909577005,
+  "FullNameUA": "в'їзд Семиградський, 12",
+  "ChildsIds": []
  },
  {
   "id": 136009,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2828428307,
   "lati": 49.9912260298,
-  "FullNameUA": "в'їзд Семиградський, 13"
+  "FullNameUA": "в'їзд Семиградський, 13",
+  "ChildsIds": []
  },
  {
   "id": 136010,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2826683047,
   "lati": 49.9912723842,
-  "FullNameUA": "в'їзд Семиградський, 13/1"
+  "FullNameUA": "в'їзд Семиградський, 13/1",
+  "ChildsIds": []
  },
  {
   "id": 136011,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2834049512,
   "lati": 49.9910892838,
-  "FullNameUA": "в'їзд Семиградський, 14"
+  "FullNameUA": "в'їзд Семиградський, 14",
+  "ChildsIds": []
  },
  {
   "id": 136012,
@@ -446,33 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2826990454,
-  "lati": 49.991404154200005,
-  "FullNameUA": "в'їзд Семиградський, 15"
- },
- {
-  "id": 136013,
-  "postcode": 61068,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3896,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2833157309,
-  "lati": 49.9912651444,
-  "FullNameUA": "в'їзд Семиградський, 16"
+  "lati": 49.9914041542,
+  "FullNameUA": "в'їзд Семиградський, 15",
+  "ChildsIds": []
  },
  {
   "id": 136014,
@@ -497,7 +490,34 @@
   "reg_date": "",
   "longt": 36.2832349826,
   "lati": 49.9913649489,
-  "FullNameUA": "в'їзд Семиградський, 16-А"
+  "FullNameUA": "в'їзд Семиградський, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136013,
+  "postcode": 61068,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2833157309,
+  "lati": 49.9912651444,
+  "FullNameUA": "в'їзд Семиградський, 16",
+  "ChildsIds": []
  },
  {
   "id": 136015,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2826082964,
   "lati": 49.9915634078,
-  "FullNameUA": "в'їзд Семиградський, 17"
+  "FullNameUA": "в'їзд Семиградський, 17",
+  "ChildsIds": []
  },
  {
   "id": 136016,
@@ -545,34 +566,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.283157233400004,
+  "longt": 36.2831572334,
   "lati": 49.9914720646,
-  "FullNameUA": "в'їзд Семиградський, 18"
- },
- {
-  "id": 136017,
-  "postcode": 61068,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 3896,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2829271879,
-  "lati": 49.9917412601,
-  "FullNameUA": "в'їзд Семиградський, 20"
+  "FullNameUA": "в'їзд Семиградський, 18",
+  "ChildsIds": []
  },
  {
   "id": 136018,
@@ -597,7 +594,34 @@
   "reg_date": "",
   "longt": 36.2831284831,
   "lati": 49.9916967156,
-  "FullNameUA": "в'їзд Семиградський, 20/1"
+  "FullNameUA": "в'їзд Семиградський, 20/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 136017,
+  "postcode": 61068,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 3896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2829271879,
+  "lati": 49.9917412601,
+  "FullNameUA": "в'їзд Семиградський, 20",
+  "ChildsIds": []
  },
  {
   "id": 136019,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283075845300004,
+  "longt": 36.2830758453,
   "lati": 49.9918455752,
-  "FullNameUA": "в'їзд Семиградський, 22"
+  "FullNameUA": "в'їзд Семиградський, 22",
+  "ChildsIds": []
  },
  {
   "id": 136020,
@@ -647,6 +672,7 @@
   "reg_date": "",
   "longt": 36.2829495769,
   "lati": 49.9919911647,
-  "FullNameUA": "в'їзд Семиградський, 22/1"
+  "FullNameUA": "в'їзд Семиградський, 22/1",
+  "ChildsIds": []
  }
 ]

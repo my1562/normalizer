@@ -1,30 +1,5 @@
 [
  {
-  "id": 132853,
-  "postcode": 61153,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3287735551,
-  "lati": 49.98835080360001,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 1-Б"
- },
- {
   "id": 132851,
   "postcode": 61153,
   "number": 1,
@@ -46,8 +21,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3287654904,
-  "lati": 49.989702666700005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 1"
+  "lati": 49.9897026667,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 132853,
+  "postcode": 61153,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3287735551,
+  "lati": 49.9883508036,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 132852,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3289717114,
   "lati": 49.9888614154,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 1-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 132854,
@@ -97,57 +100,8 @@
   "reg_date": "",
   "longt": 36.329920792,
   "lati": 49.9876839766,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 2-А"
- },
- {
-  "id": 132857,
-  "postcode": 61153,
-  "number": 3,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3287056905,
-  "lati": 49.991622796,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 3-В"
- },
- {
-  "id": 132856,
-  "postcode": 61153,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Московської райради 904, 25.12.1996",
-  "reg_date": "",
-  "longt": 36.3265630211,
-  "lati": 49.991996256300006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 3-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 132855,
@@ -172,12 +126,13 @@
   "reg_date": "",
   "longt": 36.3285036167,
   "lati": 49.9909280687,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 3"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 3",
+  "ChildsIds": []
  },
  {
-  "id": 132861,
+  "id": 132857,
   "postcode": 61153,
-  "number": 5,
+  "number": 3,
   "suffix": "В",
   "block": "",
   "streetid": 2418,
@@ -193,66 +148,17 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.3259067528,
-  "lati": 49.9931286491,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-В"
+  "longt": 36.3287056905,
+  "lati": 49.991622796,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 3-В",
+  "ChildsIds": []
  },
  {
-  "id": 132862,
+  "id": 132856,
   "postcode": 61153,
-  "number": 5,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3229111432,
-  "lati": 49.993549490700005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-Г"
- },
- {
-  "id": 132860,
-  "postcode": 61153,
-  "number": 5,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3271326691,
-  "lati": 49.9926745697,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-Б"
- },
- {
-  "id": 132859,
-  "postcode": 61153,
-  "number": 5,
+  "number": 3,
   "suffix": "А",
   "block": "",
   "streetid": 2418,
@@ -266,13 +172,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3273509,
-  "lati": 49.992205713000004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-А"
+  "confrm": "Рішення ВК Московської райради 904, 25.12.1996",
+  "reg_date": "21.01.2020 14:28:56",
+  "longt": 36.3265630211,
+  "lati": 49.9919962563,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 132858,
@@ -297,7 +204,112 @@
   "reg_date": "",
   "longt": 36.3280901789,
   "lati": 49.9919797856,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 5"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 132859,
+  "postcode": 61153,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3273509,
+  "lati": 49.992205713,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132861,
+  "postcode": 61153,
+  "number": 5,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3259067528,
+  "lati": 49.9931286491,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132862,
+  "postcode": 61153,
+  "number": 5,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3229111432,
+  "lati": 49.9935494907,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 132860,
+  "postcode": 61153,
+  "number": 5,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3271326691,
+  "lati": 49.9926745697,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 5-Б",
+  "ChildsIds": []
  },
  {
   "id": 132863,
@@ -322,7 +334,8 @@
   "reg_date": "17.05.2018 11:55:35",
   "longt": 36.3304221395,
   "lati": 49.9888400031,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 6"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 6",
+  "ChildsIds": []
  },
  {
   "id": 132864,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3285782365,
-  "lati": 49.992902910400005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 7"
+  "lati": 49.9929029104,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 7",
+  "ChildsIds": []
  },
  {
   "id": 178889,
@@ -371,14 +385,15 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3292604685,
-  "lati": 49.998726074400004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 8"
+  "lati": 49.9987260744,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 8",
+  "ChildsIds": []
  },
  {
-  "id": 132866,
+  "id": 132865,
   "postcode": 61153,
   "number": 9,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 2418,
   "status_id": 1,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3271922143,
-  "lati": 49.9936470826,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 9-А"
+  "longt": 36.3283606656,
+  "lati": 49.9937889023,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 9",
+  "ChildsIds": []
  },
  {
   "id": 132867,
@@ -422,62 +438,13 @@
   "reg_date": "",
   "longt": 36.3265049137,
   "lati": 49.9938460626,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 9-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 9-Б",
+  "ChildsIds": []
  },
  {
-  "id": 132865,
+  "id": 132866,
   "postcode": 61153,
   "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3283606656,
-  "lati": 49.993788902300004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 9"
- },
- {
-  "id": 132868,
-  "postcode": 61120,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3304940667,
-  "lati": 49.9986721262,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 10"
- },
- {
-  "id": 132869,
-  "postcode": 61120,
-  "number": 10,
   "suffix": "А",
   "block": "",
   "streetid": 2418,
@@ -495,34 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3311591376,
-  "lati": 49.999036479800004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-А"
- },
- {
-  "id": 132871,
-  "postcode": 61120,
-  "number": 10,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3329190016,
-  "lati": 49.9999226102,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-В"
+  "longt": 36.3271922143,
+  "lati": 49.9936470826,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 132870,
@@ -547,7 +490,60 @@
   "reg_date": "",
   "longt": 36.3319796216,
   "lati": 49.9994711052,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132868,
+  "postcode": 61120,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3304940667,
+  "lati": 49.9986721262,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 132869,
+  "postcode": 61120,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3311591376,
+  "lati": 49.9990364798,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 132872,
@@ -572,37 +568,13 @@
   "reg_date": "",
   "longt": 36.3308608771,
   "lati": 49.9987400572,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-Г"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-Г",
+  "ChildsIds": []
  },
  {
-  "id": 132877,
-  "postcode": 61153,
-  "number": 11,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.324564358,
-  "lati": 49.99451991,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-Г"
- },
- {
-  "id": 132876,
-  "postcode": 61153,
-  "number": 11,
+  "id": 132871,
+  "postcode": 61120,
+  "number": 10,
   "suffix": "В",
   "block": "",
   "streetid": 2418,
@@ -618,61 +590,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "579-1, 28.09.1994",
-  "reg_date": "",
-  "longt": 36.3250040939,
-  "lati": 49.994355876600004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-В"
- },
- {
-  "id": 132875,
-  "postcode": 61153,
-  "number": 11,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3262686313,
-  "lati": 49.994512220800004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-Б"
- },
- {
-  "id": 132873,
-  "postcode": 61153,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.32844237,
-  "lati": 49.9946702524,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 11"
+  "longt": 36.3329190016,
+  "lati": 49.9999226102,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 10-В",
+  "ChildsIds": []
  },
  {
   "id": 132874,
@@ -697,7 +620,112 @@
   "reg_date": "",
   "longt": 36.3271769039,
   "lati": 49.9944220117,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132873,
+  "postcode": 61153,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.32844237,
+  "lati": 49.9946702524,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 132877,
+  "postcode": 61153,
+  "number": 11,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.324564358,
+  "lati": 49.99451991,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 132876,
+  "postcode": 61153,
+  "number": 11,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "579-1, 28.09.1994",
+  "reg_date": "",
+  "longt": 36.3250040939,
+  "lati": 49.9943558766,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132875,
+  "postcode": 61153,
+  "number": 11,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3262686313,
+  "lati": 49.9945122208,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 132878,
@@ -721,8 +749,9 @@
   "confrm": "Рішення ВК Московської райради № 413, 16.09.2002",
   "reg_date": "04.03.2019 11:07:49",
   "longt": 36.3299043322,
-  "lati": 49.987249984900004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 12-А"
+  "lati": 49.9872499849,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 132879,
@@ -747,57 +776,8 @@
   "reg_date": "",
   "longt": 36.3277059648,
   "lati": 49.9952600845,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 13"
- },
- {
-  "id": 132882,
-  "postcode": 61120,
-  "number": 14,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3321957119,
-  "lati": 50.0005778521,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 14-В"
- },
- {
-  "id": 132880,
-  "postcode": 61120,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3299212785,
-  "lati": 49.9998513497,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 14"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 13",
+  "ChildsIds": []
  },
  {
   "id": 132881,
@@ -822,7 +802,86 @@
   "reg_date": "",
   "longt": 36.3313043118,
   "lati": 50.0003019093,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 14-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 14-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132880,
+  "postcode": 61120,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3299212785,
+  "lati": 49.9998513497,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 132882,
+  "postcode": 61120,
+  "number": 14,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3321957119,
+  "lati": 50.0005778521,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 14-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 180229,
+  "postcode": 61153,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3286029141,
+  "lati": 49.9966898015,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 15",
+  "ChildsIds": []
  },
  {
   "id": 132883,
@@ -847,32 +906,8 @@
   "reg_date": "09.01.2018 10:43:22",
   "longt": 36.3276964832,
   "lati": 49.9968574999,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 15/46"
- },
- {
-  "id": 180229,
-  "postcode": 61153,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3286029141,
-  "lati": 49.996689801500004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 15"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 15/46",
+  "ChildsIds": []
  },
  {
   "id": 132888,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.3338714423,
   "lati": 50.0016829522,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Г"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Г",
+  "ChildsIds": []
  },
  {
   "id": 132884,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3307601537,
   "lati": 50.0014890847,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18",
+  "ChildsIds": []
  },
  {
   "id": 132885,
@@ -945,84 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.331542945799995,
+  "longt": 36.3315429458,
   "lati": 50.0014276451,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-А"
- },
- {
-  "id": 132886,
-  "postcode": 61120,
-  "number": 18,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3324411467,
-  "lati": 50.0011842244,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Б"
- },
- {
-  "id": 132887,
-  "postcode": 61120,
-  "number": 18,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3329380088,
-  "lati": 50.0015119046,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-В"
- },
- {
-  "id": 132889,
-  "postcode": 61120,
-  "number": 18,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3343957179,
-  "lati": 50.0023140036,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Д"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 178202,
@@ -1047,7 +1010,86 @@
   "reg_date": "24.10.2017 17:01:23",
   "longt": 36.3309395313,
   "lati": 50.0026655647,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Я"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Я",
+  "ChildsIds": []
+ },
+ {
+  "id": 132887,
+  "postcode": 61120,
+  "number": 18,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3329380088,
+  "lati": 50.0015119046,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132889,
+  "postcode": 61120,
+  "number": 18,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3343957179,
+  "lati": 50.0023140036,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 132886,
+  "postcode": 61120,
+  "number": 18,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3324411467,
+  "lati": 50.0011842244,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 132890,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3276065797,
   "lati": 49.9990163812,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 19-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 132892,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3269402018,
   "lati": 49.9998336557,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 21-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 132893,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.3262830523,
   "lati": 50.0009489785,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 21-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 21-Б",
+  "ChildsIds": []
  },
  {
   "id": 132891,
@@ -1147,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.3284149564,
   "lati": 49.9993406421,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 21"
- },
- {
-  "id": 178855,
-  "postcode": 61120,
-  "number": 22,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3316512651,
-  "lati": 50.0039206871,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-Д"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 21",
+  "ChildsIds": []
  },
  {
   "id": 132896,
@@ -1197,57 +1218,8 @@
   "reg_date": "",
   "longt": 36.3326585002,
   "lati": 50.0021091255,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-Б"
- },
- {
-  "id": 132897,
-  "postcode": 61120,
-  "number": 22,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3320525714,
-  "lati": 50.0022290067,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-В"
- },
- {
-  "id": 132895,
-  "postcode": 61120,
-  "number": 22,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.332956163999995,
-  "lati": 50.0027697231,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 132894,
@@ -1272,13 +1244,66 @@
   "reg_date": "",
   "longt": 36.3316718063,
   "lati": 50.0030718893,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 22"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 22",
+  "ChildsIds": []
  },
  {
-  "id": 132898,
-  "postcode": 61054,
-  "number": 23,
-  "suffix": "",
+  "id": 178855,
+  "postcode": 61120,
+  "number": 22,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3316512651,
+  "lati": 50.0039206871,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 132897,
+  "postcode": 61120,
+  "number": 22,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3320525714,
+  "lati": 50.0022290067,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132895,
+  "postcode": 61120,
+  "number": 22,
+  "suffix": "А",
   "block": "",
   "streetid": 2418,
   "status_id": 1,
@@ -1295,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3288079994,
-  "lati": 50.0006480612,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 23"
+  "longt": 36.332956164,
+  "lati": 50.0027697231,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 132899,
@@ -1322,7 +1348,34 @@
   "reg_date": "",
   "longt": 36.3274650373,
   "lati": 50.0005959238,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 23-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132898,
+  "postcode": 61054,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3288079994,
+  "lati": 50.0006480612,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 23",
+  "ChildsIds": []
  },
  {
   "id": 132900,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.3321893373,
   "lati": 50.0042609786,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 24"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 24",
+  "ChildsIds": []
  },
  {
   "id": 132901,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3327484665,
   "lati": 50.0039336884,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 24-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 132903,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.3269369569,
   "lati": 50.0013822564,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 25-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 132902,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.3279125624,
   "lati": 50.0013891557,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 25"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 25",
+  "ChildsIds": []
  },
  {
   "id": 132904,
@@ -1445,9 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333635405799996,
+  "longt": 36.3336354058,
   "lati": 50.0036288772,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 26"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 26",
+  "ChildsIds": []
  },
  {
   "id": 132905,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.3350095252,
   "lati": 50.0027889735,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 26-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 26-Б",
+  "ChildsIds": []
  },
  {
   "id": 132907,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.3286186255,
   "lati": 50.0020158985,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 27-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 132906,
@@ -1522,57 +1582,8 @@
   "reg_date": "",
   "longt": 36.3294234841,
   "lati": 50.0021340469,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 27"
- },
- {
-  "id": 132908,
-  "postcode": 61120,
-  "number": 28,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3325012058,
-  "lati": 50.0046141057,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 28"
- },
- {
-  "id": 132910,
-  "postcode": 61120,
-  "number": 28,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3332821016,
-  "lati": 50.0043340499,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 28-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 27",
+  "ChildsIds": []
  },
  {
   "id": 132909,
@@ -1597,7 +1608,86 @@
   "reg_date": "",
   "longt": 36.3327951865,
   "lati": 50.0049575614,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 28-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 28-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132908,
+  "postcode": 61120,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3325012058,
+  "lati": 50.0046141057,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 132910,
+  "postcode": 61120,
+  "number": 28,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3332821016,
+  "lati": 50.0043340499,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 28-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132911,
+  "postcode": 61054,
+  "number": 29,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3300366742,
+  "lati": 50.0032965893,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 29",
+  "ChildsIds": []
  },
  {
   "id": 178263,
@@ -1622,7 +1712,8 @@
   "reg_date": "06.11.2017 16:33:31",
   "longt": 36.329003294,
   "lati": 50.0035697778,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-В",
+  "ChildsIds": []
  },
  {
   "id": 132913,
@@ -1641,13 +1732,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "151, 09.03.2016",
-  "reg_date": "",
+  "reg_date": "14.01.2020 14:11:22",
   "longt": 36.3294778036,
   "lati": 50.0041245477,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-Б",
+  "ChildsIds": []
  },
  {
   "id": 132912,
@@ -1670,34 +1762,12 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330505250099996,
+  "longt": 36.3305052501,
   "lati": 50.0042141193,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-А"
- },
- {
-  "id": 132911,
-  "postcode": 61054,
-  "number": 29,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.330036674199995,
-  "lati": 50.0032965893,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 29"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 29-А",
+  "ChildsIds": [
+   132913
+  ]
  },
  {
   "id": 132915,
@@ -1722,7 +1792,8 @@
   "reg_date": "",
   "longt": 36.3350507763,
   "lati": 50.0039155412,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 30-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 132914,
@@ -1747,7 +1818,8 @@
   "reg_date": "03.01.2020 14:16:08",
   "longt": 36.3331487439,
   "lati": 50.0054054777,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 30"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 30",
+  "ChildsIds": []
  },
  {
   "id": 132916,
@@ -1772,7 +1844,8 @@
   "reg_date": "",
   "longt": 36.3353586124,
   "lati": 50.0081253662,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 32"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 32",
+  "ChildsIds": []
  },
  {
   "id": 132917,
@@ -1797,7 +1870,34 @@
   "reg_date": "14.01.2019 11:55:20",
   "longt": 36.3312548682,
   "lati": 50.0050622762,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 33"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 132918,
+  "postcode": 61170,
+  "number": 37,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3300635897,
+  "lati": 50.005641258,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 37",
+  "ChildsIds": []
  },
  {
   "id": 132919,
@@ -1820,9 +1920,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330566886999996,
+  "longt": 36.330566887,
   "lati": 50.0057719362,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 1"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 132921,
@@ -1847,7 +1948,8 @@
   "reg_date": "",
   "longt": 36.3295786613,
   "lati": 50.0056481187,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 3"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 3",
+  "ChildsIds": []
  },
  {
   "id": 132920,
@@ -1870,34 +1972,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330056884099996,
+  "longt": 36.3300568841,
   "lati": 50.0053000879,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 2"
- },
- {
-  "id": 132918,
-  "postcode": 61170,
-  "number": 37,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.330063589699996,
-  "lati": 50.005641258,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 37"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 37, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 132922,
@@ -1922,7 +2000,8 @@
   "reg_date": "",
   "longt": 36.3431594242,
   "lati": 50.0147157924,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 38"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 38",
+  "ChildsIds": []
  },
  {
   "id": 132926,
@@ -1947,7 +2026,8 @@
   "reg_date": "",
   "longt": 36.3462157776,
   "lati": 50.0142183701,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-Г"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-Г",
+  "ChildsIds": []
  },
  {
   "id": 132925,
@@ -1971,8 +2051,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3451296303,
-  "lati": 50.013924760799995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-В"
+  "lati": 50.0139247608,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-В",
+  "ChildsIds": []
  },
  {
   "id": 132924,
@@ -1995,9 +2076,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344362411300004,
-  "lati": 50.013985952599995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-Б"
+  "longt": 36.3443624113,
+  "lati": 50.0139859526,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-Б",
+  "ChildsIds": []
  },
  {
   "id": 132923,
@@ -2020,109 +2102,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.343866941600005,
+  "longt": 36.3438669416,
   "lati": 50.0144180497,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-А"
- },
- {
-  "id": 180227,
-  "postcode": 61170,
-  "number": 39,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3327397169,
-  "lati": 50.0061272104,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Г"
- },
- {
-  "id": 132929,
-  "postcode": 61170,
-  "number": 39,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3294287126,
-  "lati": 50.0064808226,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Б"
- },
- {
-  "id": 132928,
-  "postcode": 61170,
-  "number": 39,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3307468896,
-  "lati": 50.0064361374,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-А"
- },
- {
-  "id": 132927,
-  "postcode": 61170,
-  "number": 39,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.331837941799996,
-  "lati": 50.0061673746,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 39"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 132930,
@@ -2147,7 +2130,112 @@
   "reg_date": "",
   "longt": 36.3283314985,
   "lati": 50.0062894959,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Д"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 132927,
+  "postcode": 61170,
+  "number": 39,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3318379418,
+  "lati": 50.0061673746,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 39",
+  "ChildsIds": []
+ },
+ {
+  "id": 180227,
+  "postcode": 61170,
+  "number": 39,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3327397169,
+  "lati": 50.0061272104,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 132929,
+  "postcode": 61170,
+  "number": 39,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3294287126,
+  "lati": 50.0064808226,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132928,
+  "postcode": 61170,
+  "number": 39,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3307468896,
+  "lati": 50.0064361374,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 132935,
@@ -2170,9 +2258,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346613236900005,
+  "longt": 36.3466132369,
   "lati": 50.016465346,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Д"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Д",
+  "ChildsIds": []
  },
  {
   "id": 132931,
@@ -2197,7 +2286,8 @@
   "reg_date": "",
   "longt": 36.3447489942,
   "lati": 50.0165414437,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40",
+  "ChildsIds": []
  },
  {
   "id": 132932,
@@ -2220,9 +2310,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345565153600006,
+  "longt": 36.3455651536,
   "lati": 50.0154225787,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Б",
+  "ChildsIds": []
  },
  {
   "id": 132937,
@@ -2245,9 +2336,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.345735999400006,
+  "longt": 36.3457359994,
   "lati": 50.0160594811,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-І"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-І",
+  "ChildsIds": []
  },
  {
   "id": 132934,
@@ -2270,9 +2362,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345929787100005,
+  "longt": 36.3459297871,
   "lati": 50.0167368701,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Г"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Г",
+  "ChildsIds": []
  },
  {
   "id": 132936,
@@ -2296,8 +2389,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3476868783,
-  "lati": 50.014913918699996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Ж"
+  "lati": 50.0149139187,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-Ж",
+  "ChildsIds": []
  },
  {
   "id": 132933,
@@ -2320,84 +2414,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345091422100005,
+  "longt": 36.3450914221,
   "lati": 50.0158304511,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-В"
- },
- {
-  "id": 132938,
-  "postcode": 61170,
-  "number": 41,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.332258064899996,
-  "lati": 50.0066679671,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 41"
- },
- {
-  "id": 132941,
-  "postcode": 61170,
-  "number": 41,
-  "suffix": "А-43В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3265376444,
-  "lati": 50.0068838531,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 41А-43В"
- },
- {
-  "id": 132940,
-  "postcode": 61170,
-  "number": 41,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3293055235,
-  "lati": 50.0070015662,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 41-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 40-В",
+  "ChildsIds": []
  },
  {
   "id": 132939,
@@ -2422,7 +2442,112 @@
   "reg_date": "",
   "longt": 36.3277506927,
   "lati": 50.0067607536,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 41-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 41-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132938,
+  "postcode": 61170,
+  "number": 41,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3322580649,
+  "lati": 50.0066679671,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 41",
+  "ChildsIds": []
+ },
+ {
+  "id": 132941,
+  "postcode": 61170,
+  "number": 41,
+  "suffix": "А-43В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3265376444,
+  "lati": 50.0068838531,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 41А-43В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132940,
+  "postcode": 61170,
+  "number": 41,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3293055235,
+  "lati": 50.0070015662,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 41-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132942,
+  "postcode": 61123,
+  "number": 42,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3458337408,
+  "lati": 50.0177669564,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 42",
+  "ChildsIds": []
  },
  {
   "id": 132944,
@@ -2447,7 +2572,8 @@
   "reg_date": "",
   "longt": 36.3475460696,
   "lati": 50.0160302873,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 42-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 42-Б",
+  "ChildsIds": []
  },
  {
   "id": 132943,
@@ -2472,32 +2598,8 @@
   "reg_date": "",
   "longt": 36.3480511818,
   "lati": 50.0172281455,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 42-А"
- },
- {
-  "id": 132942,
-  "postcode": 61123,
-  "number": 42,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3458337408,
-  "lati": 50.017766956399996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 42"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 132945,
@@ -2522,7 +2624,8 @@
   "reg_date": "",
   "longt": 36.3326856052,
   "lati": 50.0071707915,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 43"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43",
+  "ChildsIds": []
  },
  {
   "id": 132946,
@@ -2547,13 +2650,14 @@
   "reg_date": "",
   "longt": 36.3309623535,
   "lati": 50.0075191812,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-А",
+  "ChildsIds": []
  },
  {
-  "id": 132949,
+  "id": 183042,
   "postcode": 61170,
   "number": 43,
-  "suffix": "Г",
+  "suffix": "З",
   "block": "",
   "streetid": 2418,
   "status_id": 1,
@@ -2568,11 +2672,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.3275489322,
-  "lati": 50.0070922094,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-Г"
+  "longt": 36.3262943302,
+  "lati": 50.0070706303,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-З",
+  "ChildsIds": []
  },
  {
   "id": 132948,
@@ -2597,7 +2702,34 @@
   "reg_date": "",
   "longt": 36.3271734421,
   "lati": 50.0072732631,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132949,
+  "postcode": 61170,
+  "number": 43,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3275489322,
+  "lati": 50.0070922094,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-Г",
+  "ChildsIds": []
  },
  {
   "id": 132947,
@@ -2622,7 +2754,34 @@
   "reg_date": "",
   "longt": 36.328914478,
   "lati": 50.0075542734,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 43-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132950,
+  "postcode": 61135,
+  "number": 44,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3469308615,
+  "lati": 50.0190700265,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 44",
+  "ChildsIds": []
  },
  {
   "id": 132951,
@@ -2647,7 +2806,8 @@
   "reg_date": "",
   "longt": 36.347792806,
   "lati": 50.0184999138,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 44-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 44-Б",
+  "ChildsIds": []
  },
  {
   "id": 132952,
@@ -2670,84 +2830,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348469013400006,
+  "longt": 36.3484690134,
   "lati": 50.0192140177,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 44-В"
- },
- {
-  "id": 132950,
-  "postcode": 61135,
-  "number": 44,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.346930861500006,
-  "lati": 50.019070026499996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 44"
- },
- {
-  "id": 178857,
-  "postcode": 61170,
-  "number": 45,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3333622769,
-  "lati": 50.0101312096,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 45-В"
- },
- {
-  "id": 132954,
-  "postcode": 61170,
-  "number": 45,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3336330764,
-  "lati": 50.0097182196,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 45-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 44-В",
+  "ChildsIds": []
  },
  {
   "id": 132953,
@@ -2772,7 +2858,60 @@
   "reg_date": "",
   "longt": 36.3338907562,
   "lati": 50.0091424067,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 45"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 45",
+  "ChildsIds": []
+ },
+ {
+  "id": 178857,
+  "postcode": 61170,
+  "number": 45,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3333622769,
+  "lati": 50.0101312096,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 45-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 132954,
+  "postcode": 61170,
+  "number": 45,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3336330764,
+  "lati": 50.0097182196,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 132956,
@@ -2795,9 +2934,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334185677499995,
+  "longt": 36.3341856775,
   "lati": 50.0098734606,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 47-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 132955,
@@ -2822,7 +2962,8 @@
   "reg_date": "",
   "longt": 36.335267368,
   "lati": 50.0096759886,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 47"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 47",
+  "ChildsIds": []
  },
  {
   "id": 132957,
@@ -2847,7 +2988,8 @@
   "reg_date": "",
   "longt": 36.3362518982,
   "lati": 50.0104935391,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49",
+  "ChildsIds": []
  },
  {
   "id": 132958,
@@ -2872,7 +3014,8 @@
   "reg_date": "",
   "longt": 36.3340889284,
   "lati": 50.010564453,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 132959,
@@ -2895,9 +3038,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.335146910199995,
+  "longt": 36.3351469102,
   "lati": 50.010900151,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-Б",
+  "ChildsIds": []
  },
  {
   "id": 132961,
@@ -2921,8 +3065,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3330818862,
-  "lati": 50.011393196899995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-Г"
+  "lati": 50.0113931969,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-Г",
+  "ChildsIds": []
  },
  {
   "id": 132962,
@@ -2947,7 +3092,8 @@
   "reg_date": "",
   "longt": 36.3347454389,
   "lati": 50.0100874252,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-З"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-З",
+  "ChildsIds": []
  },
  {
   "id": 132960,
@@ -2972,7 +3118,8 @@
   "reg_date": "",
   "longt": 36.333918976,
   "lati": 50.0112155012,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 49-В",
+  "ChildsIds": []
  },
  {
   "id": 132963,
@@ -2996,8 +3143,9 @@
   "confrm": "117, 28.02.1975; Рішення ВК ХМР № 500, 13.08.2014 (приміщення)",
   "reg_date": "",
   "longt": 36.3502017929,
-  "lati": 50.022820260100005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 50"
+  "lati": 50.0228202601,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 50",
+  "ChildsIds": []
  },
  {
   "id": 132964,
@@ -3021,8 +3169,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3512749569,
-  "lati": 50.022986914700006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-А"
+  "lati": 50.0229869147,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 132966,
@@ -3047,7 +3196,8 @@
   "reg_date": "",
   "longt": 36.3524782947,
   "lati": 50.023200916,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-В",
+  "ChildsIds": []
  },
  {
   "id": 132967,
@@ -3070,9 +3220,10 @@
   "same_adr_comm": "",
   "confrm": "1322, 28.12.2002",
   "reg_date": "",
-  "longt": 36.349732328900004,
-  "lati": 50.021896544600004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 50/29"
+  "longt": 36.3497323289,
+  "lati": 50.0218965446,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 50/29",
+  "ChildsIds": []
  },
  {
   "id": 132965,
@@ -3096,8 +3247,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3528515471,
-  "lati": 50.023752826400006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-Б"
+  "lati": 50.0237528264,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 50-Б",
+  "ChildsIds": []
  },
  {
   "id": 132969,
@@ -3120,9 +3272,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.335725585999995,
-  "lati": 50.011746871899994,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 51-Б"
+  "longt": 36.335725586,
+  "lati": 50.0117468719,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 51-Б",
+  "ChildsIds": []
  },
  {
   "id": 132968,
@@ -3146,8 +3299,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3372482728,
-  "lati": 50.011053087899995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 51"
+  "lati": 50.0110530879,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 51",
+  "ChildsIds": []
  },
  {
   "id": 132970,
@@ -3171,8 +3325,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3509791579,
-  "lati": 50.023705980100004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 52"
+  "lati": 50.0237059801,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 52",
+  "ChildsIds": []
  },
  {
   "id": 132972,
@@ -3195,9 +3350,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.337166378599996,
-  "lati": 50.012012725999995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 53-А"
+  "longt": 36.3371663786,
+  "lati": 50.012012726,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 132971,
@@ -3220,9 +3376,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.338536045299996,
-  "lati": 50.012179141299995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 53"
+  "longt": 36.3385360453,
+  "lati": 50.0121791413,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 53",
+  "ChildsIds": []
  },
  {
   "id": 132974,
@@ -3245,9 +3402,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.352897863500004,
-  "lati": 50.024801493300004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 54-А"
+  "longt": 36.3528978635,
+  "lati": 50.0248014933,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 132973,
@@ -3270,9 +3428,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.351780319300005,
+  "longt": 36.3517803193,
   "lati": 50.0244599767,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 54"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 54",
+  "ChildsIds": []
  },
  {
   "id": 132975,
@@ -3295,9 +3454,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.339543115699996,
+  "longt": 36.3395431157,
   "lati": 50.0127604804,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 55"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 55",
+  "ChildsIds": []
  },
  {
   "id": 132976,
@@ -3321,8 +3481,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3533671561,
-  "lati": 50.025356677800005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 58"
+  "lati": 50.0253566778,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 58",
+  "ChildsIds": []
  },
  {
   "id": 132977,
@@ -3347,7 +3508,8 @@
   "reg_date": "",
   "longt": 36.3420872167,
   "lati": 50.0152685025,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59",
+  "ChildsIds": []
  },
  {
   "id": 132978,
@@ -3372,7 +3534,8 @@
   "reg_date": "",
   "longt": 36.3402168515,
   "lati": 50.014916744,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 132979,
@@ -3395,9 +3558,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341250985600006,
+  "longt": 36.3412509856,
   "lati": 50.01573522,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 132982,
@@ -3421,8 +3585,9 @@
   "confrm": "528, 12.08.1975",
   "reg_date": "",
   "longt": 36.3406901649,
-  "lati": 50.017276957499995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Д"
+  "lati": 50.0172769575,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Д",
+  "ChildsIds": []
  },
  {
   "id": 132981,
@@ -3446,8 +3611,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3406921432,
-  "lati": 50.016548997499996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Г"
+  "lati": 50.0165489975,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Г",
+  "ChildsIds": []
  },
  {
   "id": 132983,
@@ -3470,9 +3636,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34030178530001,
+  "longt": 36.3403017853,
   "lati": 50.0170125704,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Є"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-Є",
+  "ChildsIds": []
  },
  {
   "id": 132980,
@@ -3496,8 +3663,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.341770447,
-  "lati": 50.016391687799995,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-В"
+  "lati": 50.0163916878,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 59-В",
+  "ChildsIds": []
  },
  {
   "id": 132984,
@@ -3522,7 +3690,8 @@
   "reg_date": "",
   "longt": 36.3532326359,
   "lati": 50.0261456217,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 60"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 60",
+  "ChildsIds": []
  },
  {
   "id": 132986,
@@ -3545,9 +3714,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34393804290001,
-  "lati": 50.017356985599996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 61-А"
+  "longt": 36.3439380429,
+  "lati": 50.0173569856,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 61-А",
+  "ChildsIds": []
  },
  {
   "id": 132985,
@@ -3572,7 +3742,8 @@
   "reg_date": "",
   "longt": 36.3426396196,
   "lati": 50.0178784924,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 61"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 61",
+  "ChildsIds": []
  },
  {
   "id": 132987,
@@ -3597,7 +3768,8 @@
   "reg_date": "",
   "longt": 36.3538126883,
   "lati": 50.0269792782,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 62"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 62",
+  "ChildsIds": []
  },
  {
   "id": 132988,
@@ -3620,9 +3792,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344964806700006,
-  "lati": 50.018531878299996,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 63"
+  "longt": 36.3449648067,
+  "lati": 50.0185318783,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 63",
+  "ChildsIds": []
  },
  {
   "id": 132989,
@@ -3647,7 +3820,8 @@
   "reg_date": "",
   "longt": 36.3437967046,
   "lati": 50.0185267814,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 63-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 63-А",
+  "ChildsIds": []
  },
  {
   "id": 132990,
@@ -3672,7 +3846,8 @@
   "reg_date": "",
   "longt": 36.3436512906,
   "lati": 50.0191457753,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 63-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 63-Б",
+  "ChildsIds": []
  },
  {
   "id": 132991,
@@ -3697,7 +3872,8 @@
   "reg_date": "",
   "longt": 36.3542892767,
   "lati": 50.0278791185,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 64"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 64",
+  "ChildsIds": []
  },
  {
   "id": 132992,
@@ -3722,7 +3898,8 @@
   "reg_date": "",
   "longt": 36.3444162118,
   "lati": 50.0192467427,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 65"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 65",
+  "ChildsIds": []
  },
  {
   "id": 132993,
@@ -3745,9 +3922,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345519628800005,
+  "longt": 36.3455196288,
   "lati": 50.0193928443,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 67"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 67",
+  "ChildsIds": []
  },
  {
   "id": 132995,
@@ -3769,10 +3947,11 @@
   "source_id": 0,
   "same_adr_comm": "",
   "confrm": "498, 13.07.2011",
-  "reg_date": "",
-  "longt": 36.357711178500004,
+  "reg_date": "14.01.2020 15:50:53",
+  "longt": 36.3577111785,
   "lati": 50.0315805805,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 68-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 68-В",
+  "ChildsIds": []
  },
  {
   "id": 132994,
@@ -3795,9 +3974,10 @@
   "same_adr_comm": "",
   "confrm": "1088, 18.11.2004",
   "reg_date": "",
-  "longt": 36.357343196900004,
+  "longt": 36.3573431969,
   "lati": 50.0309393858,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 68-Б"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 68-Б",
+  "ChildsIds": []
  },
  {
   "id": 132996,
@@ -3820,9 +4000,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34636992790001,
+  "longt": 36.3463699279,
   "lati": 50.0201410992,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 69/42"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 69/42",
+  "ChildsIds": []
  },
  {
   "id": 179922,
@@ -3847,32 +4028,8 @@
   "reg_date": "06.11.2018 11:50:12",
   "longt": 36.358828381,
   "lati": 50.030805288,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-Б"
- },
- {
-  "id": 181420,
-  "postcode": 61129,
-  "number": 70,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "нежитлова будівля літ. \"Б-1\" (ТП № 38)",
-  "confrm": "",
-  "reg_date": "02.10.2019 11:06:54",
-  "longt": 36.3589580258,
-  "lati": 50.0327035461,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-В"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-Б",
+  "ChildsIds": []
  },
  {
   "id": 179924,
@@ -3895,9 +4052,62 @@
   "same_adr_comm": "нежитлова будівля літ. \"Б-1\" (ТП), земельна ділянка (кадастровий номер 6310137500:11:003:0045)",
   "confrm": "",
   "reg_date": "06.11.2018 11:53:56",
-  "longt": 36.358831600500004,
+  "longt": 36.3588316005,
   "lati": 50.031507071,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 181420,
+  "postcode": 61129,
+  "number": 70,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля літ. \"Б-1\" (ТП № 38); земельна ділянка (кадастровий номер 6310137500:11:003:0044)",
+  "confrm": "",
+  "reg_date": "02.10.2019 11:06:54",
+  "longt": 36.3589580258,
+  "lati": 50.0327035461,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 70-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 182121,
+  "postcode": 61129,
+  "number": 70,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-19\"",
+  "confrm": "",
+  "reg_date": "12.02.2020 11:58:34",
+  "longt": 36.3586243066,
+  "lati": 50.0324311563,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 70",
+  "ChildsIds": []
  },
  {
   "id": 179923,
@@ -3922,13 +4132,14 @@
   "reg_date": "06.11.2018 11:52:28",
   "longt": 36.3592486379,
   "lati": 50.0313320557,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 72-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 72-А",
+  "ChildsIds": []
  },
  {
-  "id": 132998,
+  "id": 133003,
   "postcode": 61144,
   "number": 73,
-  "suffix": "А",
+  "suffix": "Е",
   "block": "",
   "streetid": 2418,
   "status_id": 1,
@@ -3941,38 +4152,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.34779843650001,
-  "lati": 50.0230650824,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-А"
- },
- {
-  "id": 133000,
-  "postcode": 61144,
-  "number": 73,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.347388313500005,
-  "lati": 50.0238351379,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-В"
+  "confrm": "226, 07.06.2005",
+  "reg_date": "04.03.2019 15:10:58",
+  "longt": 36.3481020438,
+  "lati": 50.0222384143,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Е",
+  "ChildsIds": []
  },
  {
   "id": 133001,
@@ -3997,57 +4184,8 @@
   "reg_date": "",
   "longt": 36.34820932,
   "lati": 50.0236609978,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Г"
- },
- {
-  "id": 132999,
-  "postcode": 61144,
-  "number": 73,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.346829833600005,
-  "lati": 50.0230490637,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Б"
- },
- {
-  "id": 133003,
-  "postcode": 61144,
-  "number": 73,
-  "suffix": "Е",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "226, 07.06.2005",
-  "reg_date": "04.03.2019 15:10:58",
-  "longt": 36.348102043800004,
-  "lati": 50.022238414300006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Е"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Г",
+  "ChildsIds": []
  },
  {
   "id": 132997,
@@ -4070,9 +4208,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349135903500006,
-  "lati": 50.023544765900006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73"
+  "longt": 36.3491359035,
+  "lati": 50.0235447659,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73",
+  "ChildsIds": []
  },
  {
   "id": 133002,
@@ -4097,7 +4236,86 @@
   "reg_date": "",
   "longt": 36.3486269335,
   "lati": 50.024147284,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Д"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 132999,
+  "postcode": 61144,
+  "number": 73,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3468298336,
+  "lati": 50.0230490637,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 132998,
+  "postcode": 61144,
+  "number": 73,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3477984365,
+  "lati": 50.0230650824,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133000,
+  "postcode": 61144,
+  "number": 73,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3473883135,
+  "lati": 50.0238351379,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 73-В",
+  "ChildsIds": []
  },
  {
   "id": 179925,
@@ -4122,7 +4340,8 @@
   "reg_date": "06.11.2018 11:55:19",
   "longt": 36.3607215078,
   "lati": 50.0321434569,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 74-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 74-А",
+  "ChildsIds": []
  },
  {
   "id": 181421,
@@ -4147,32 +4366,8 @@
   "reg_date": "02.10.2019 11:03:29",
   "longt": 36.3598674175,
   "lati": 50.0313666619,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 74-Б"
- },
- {
-  "id": 133004,
-  "postcode": 61144,
-  "number": 75,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.349139398400006,
-  "lati": 50.025108952000004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 75"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 74-Б",
+  "ChildsIds": []
  },
  {
   "id": 133005,
@@ -4195,9 +4390,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.347283829300004,
-  "lati": 50.025394887400005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 75-А"
+  "longt": 36.3472838293,
+  "lati": 50.0253948874,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 75-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133004,
+  "postcode": 61144,
+  "number": 75,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3491393984,
+  "lati": 50.025108952,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 75",
+  "ChildsIds": []
  },
  {
   "id": 133006,
@@ -4221,58 +4443,9 @@
   "confrm": "503, 19.07.1976",
   "reg_date": "",
   "longt": 36.3502885901,
-  "lati": 50.024855140700005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 77"
- },
- {
-  "id": 133007,
-  "postcode": 61144,
-  "number": 79,
-  "suffix": "",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3514708931,
-  "lati": 50.026069138900006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 79"
- },
- {
-  "id": 133009,
-  "postcode": 61144,
-  "number": 79,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3504666516,
-  "lati": 50.0265941998,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-Б"
+  "lati": 50.0248551407,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 77",
+  "ChildsIds": []
  },
  {
   "id": 133008,
@@ -4297,7 +4470,8 @@
   "reg_date": "",
   "longt": 36.3496368205,
   "lati": 50.025835741,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-А",
+  "ChildsIds": []
  },
  {
   "id": 133011,
@@ -4321,8 +4495,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3497889937,
-  "lati": 50.027034329600006,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-Г"
+  "lati": 50.0270343296,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-Г",
+  "ChildsIds": []
  },
  {
   "id": 133010,
@@ -4345,9 +4520,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348826901100004,
-  "lati": 50.026651570300004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-В"
+  "longt": 36.3488269011,
+  "lati": 50.0266515703,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 133009,
+  "postcode": 61144,
+  "number": 79,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3504666516,
+  "lati": 50.0265941998,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 79-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 133007,
+  "postcode": 61144,
+  "number": 79,
+  "suffix": "",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3514708931,
+  "lati": 50.0260691389,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 79",
+  "ChildsIds": []
  },
  {
   "id": 133012,
@@ -4372,32 +4600,8 @@
   "reg_date": "",
   "longt": 36.3517680578,
   "lati": 50.0271227307,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 81"
- },
- {
-  "id": 133014,
-  "postcode": 61144,
-  "number": 83,
-  "suffix": "/26",
-  "block": "",
-  "streetid": 2418,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "517, 07.06.2006; 498, 12.08.2015",
-  "reg_date": "16.01.2019 10:26:01",
-  "longt": 36.353034671100005,
-  "lati": 50.0280341276,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 83/26"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 81",
+  "ChildsIds": []
  },
  {
   "id": 133013,
@@ -4422,7 +4626,34 @@
   "reg_date": "",
   "longt": 36.3538970525,
   "lati": 50.0286344143,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 83-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 83-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133014,
+  "postcode": 61144,
+  "number": 83,
+  "suffix": "/26",
+  "block": "",
+  "streetid": 2418,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "517, 07.06.2006; 498, 12.08.2015",
+  "reg_date": "16.01.2019 10:26:01",
+  "longt": 36.3530346711,
+  "lati": 50.0280341276,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 83/26",
+  "ChildsIds": []
  },
  {
   "id": 121834,
@@ -4445,9 +4676,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.360434967799996,
+  "longt": 36.3604349678,
   "lati": 50.0343860284,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 84"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 84",
+  "ChildsIds": []
  },
  {
   "id": 121835,
@@ -4472,7 +4704,8 @@
   "reg_date": "",
   "longt": 36.3610968281,
   "lati": 50.0343605584,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 86"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 86",
+  "ChildsIds": []
  },
  {
   "id": 121836,
@@ -4497,7 +4730,8 @@
   "reg_date": "",
   "longt": 36.3610208649,
   "lati": 50.0347228435,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 88"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 88",
+  "ChildsIds": []
  },
  {
   "id": 121837,
@@ -4522,7 +4756,8 @@
   "reg_date": "",
   "longt": 36.3602627794,
   "lati": 50.0348674439,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 88-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 88-А",
+  "ChildsIds": []
  },
  {
   "id": 133015,
@@ -4547,7 +4782,8 @@
   "reg_date": "",
   "longt": 36.3552558999,
   "lati": 50.0304349353,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 91"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 91",
+  "ChildsIds": []
  },
  {
   "id": 121838,
@@ -4572,7 +4808,8 @@
   "reg_date": "",
   "longt": 36.3628737942,
   "lati": 50.0348343644,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 92"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 92",
+  "ChildsIds": []
  },
  {
   "id": 133016,
@@ -4597,7 +4834,8 @@
   "reg_date": "",
   "longt": 36.3553610842,
   "lati": 50.0310002454,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 93"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 93",
+  "ChildsIds": []
  },
  {
   "id": 121839,
@@ -4622,7 +4860,8 @@
   "reg_date": "",
   "longt": 36.3626189751,
   "lati": 50.0354621775,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 94"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 94",
+  "ChildsIds": []
  },
  {
   "id": 133017,
@@ -4646,8 +4885,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3544636332,
-  "lati": 50.031062844400005,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 95"
+  "lati": 50.0310628444,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 95",
+  "ChildsIds": []
  },
  {
   "id": 121840,
@@ -4672,7 +4912,8 @@
   "reg_date": "",
   "longt": 36.3622633986,
   "lati": 50.0360315031,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 96/30"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 96/30",
+  "ChildsIds": []
  },
  {
   "id": 133018,
@@ -4697,7 +4938,8 @@
   "reg_date": "",
   "longt": 36.3545049882,
   "lati": 50.0317082997,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 97"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 97",
+  "ChildsIds": []
  },
  {
   "id": 133019,
@@ -4722,7 +4964,8 @@
   "reg_date": "",
   "longt": 36.3560713465,
   "lati": 50.0314540564,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 99"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 99",
+  "ChildsIds": []
  },
  {
   "id": 133021,
@@ -4747,7 +4990,8 @@
   "reg_date": "",
   "longt": 36.356524455,
   "lati": 50.0322882863,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 101/99"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 101/99",
+  "ChildsIds": []
  },
  {
   "id": 133020,
@@ -4772,7 +5016,8 @@
   "reg_date": "",
   "longt": 36.3556306312,
   "lati": 50.0319556107,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 101"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 101",
+  "ChildsIds": []
  },
  {
   "id": 181791,
@@ -4795,9 +5040,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.355087547000004,
-  "lati": 50.032115980600004,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 101-А"
+  "longt": 36.355087547,
+  "lati": 50.0321159806,
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 101-А",
+  "ChildsIds": []
  },
  {
   "id": 121841,
@@ -4822,7 +5068,8 @@
   "reg_date": "",
   "longt": 36.3644909592,
   "lati": 50.03799616,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 102"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 102",
+  "ChildsIds": []
  },
  {
   "id": 121842,
@@ -4847,7 +5094,8 @@
   "reg_date": "13.01.2020 12:39:23",
   "longt": 36.363523027,
   "lati": 50.0380528918,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 102-А"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 102-А",
+  "ChildsIds": []
  },
  {
   "id": 121843,
@@ -4872,7 +5120,8 @@
   "reg_date": "",
   "longt": 36.3648974251,
   "lati": 50.037691286,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 106"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 106",
+  "ChildsIds": []
  },
  {
   "id": 121844,
@@ -4897,7 +5146,8 @@
   "reg_date": "",
   "longt": 36.3651315609,
   "lati": 50.0396882495,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 108"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 108",
+  "ChildsIds": []
  },
  {
   "id": 121845,
@@ -4922,7 +5172,8 @@
   "reg_date": "",
   "longt": 36.3583425764,
   "lati": 50.0343916034,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 109"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 109",
+  "ChildsIds": []
  },
  {
   "id": 121846,
@@ -4947,7 +5198,8 @@
   "reg_date": "",
   "longt": 36.3590867872,
   "lati": 50.0350156433,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 111"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 111",
+  "ChildsIds": []
  },
  {
   "id": 121847,
@@ -4970,9 +5222,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.366072115899996,
+  "longt": 36.3660721159,
   "lati": 50.0392814951,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 112"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 112",
+  "ChildsIds": []
  },
  {
   "id": 121848,
@@ -4997,7 +5250,8 @@
   "reg_date": "",
   "longt": 36.3600554592,
   "lati": 50.0359148742,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 113"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 113",
+  "ChildsIds": []
  },
  {
   "id": 121849,
@@ -5022,7 +5276,8 @@
   "reg_date": "",
   "longt": 36.3665534146,
   "lati": 50.0386191152,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 114"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 114",
+  "ChildsIds": []
  },
  {
   "id": 121850,
@@ -5047,7 +5302,8 @@
   "reg_date": "",
   "longt": 36.3651665497,
   "lati": 50.0385533185,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 116"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 116",
+  "ChildsIds": []
  },
  {
   "id": 121851,
@@ -5072,7 +5328,8 @@
   "reg_date": "",
   "longt": 36.3622749119,
   "lati": 50.0391346987,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 121"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 121",
+  "ChildsIds": []
  },
  {
   "id": 121852,
@@ -5097,7 +5354,8 @@
   "reg_date": "",
   "longt": 36.3623122297,
   "lati": 50.0399207423,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 123"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 123",
+  "ChildsIds": []
  },
  {
   "id": 121853,
@@ -5122,7 +5380,8 @@
   "reg_date": "",
   "longt": 36.3609468935,
   "lati": 50.0399388327,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 125"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 125",
+  "ChildsIds": []
  },
  {
   "id": 121854,
@@ -5147,6 +5406,7 @@
   "reg_date": "",
   "longt": 36.3634893796,
   "lati": 50.0402832498,
-  "FullNameUA": "вулиця Гвардійців-Широнінців, 127"
+  "FullNameUA": "вулиця Гвардійців-Широнінців, 127",
+  "ChildsIds": []
  }
 ]

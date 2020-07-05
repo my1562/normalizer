@@ -1,5 +1,31 @@
 [
  {
+  "id": 176770,
+  "postcode": 61051,
+  "number": 1,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1892451288,
+  "lati": 50.0425817754,
+  "FullNameUA": "вулиця Букова, 1-Ж",
+  "ChildsIds": []
+ },
+ {
   "id": 176769,
   "postcode": 61051,
   "number": 1,
@@ -22,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1891959561,
   "lati": 50.0424333113,
-  "FullNameUA": "вулиця Букова, 1-Є"
+  "FullNameUA": "вулиця Букова, 1-Є",
+  "ChildsIds": []
  },
  {
   "id": 176768,
@@ -45,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.189022152199996,
+  "longt": 36.1890221522,
   "lati": 50.0422348524,
-  "FullNameUA": "вулиця Букова, 1-Д"
+  "FullNameUA": "вулиця Букова, 1-Д",
+  "ChildsIds": []
  },
  {
   "id": 176767,
@@ -72,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1885122224,
   "lati": 50.0421785936,
-  "FullNameUA": "вулиця Букова, 1-Г"
+  "FullNameUA": "вулиця Букова, 1-Г",
+  "ChildsIds": []
  },
  {
   "id": 176766,
@@ -96,14 +125,15 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1887528702,
-  "lati": 50.041999247599996,
-  "FullNameUA": "вулиця Букова, 1-В"
+  "lati": 50.0419992476,
+  "FullNameUA": "вулиця Букова, 1-В",
+  "ChildsIds": []
  },
  {
-  "id": 176770,
+  "id": 116385,
   "postcode": 61051,
-  "number": 1,
-  "suffix": "Ж",
+  "number": 4,
+  "suffix": "А",
   "block": "",
   "streetid": 2689,
   "status_id": 1,
@@ -120,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.1892451288,
-  "lati": 50.0425817754,
-  "FullNameUA": "вулиця Букова, 1-Ж"
+  "longt": 36.1921469516,
+  "lati": 50.0401830392,
+  "FullNameUA": "вулиця Букова, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 181621,
@@ -147,82 +178,8 @@
   "reg_date": "",
   "longt": 36.1919286052,
   "lati": 50.0407737217,
-  "FullNameUA": "вулиця Букова, 4-Б"
- },
- {
-  "id": 116385,
-  "postcode": 61051,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.192146951599995,
-  "lati": 50.0401830392,
-  "FullNameUA": "вулиця Букова, 4-А"
- },
- {
-  "id": 116389,
-  "postcode": 61051,
-  "number": 8,
-  "suffix": "",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.187792981,
-  "lati": 50.0425264853,
-  "FullNameUA": "вулиця Букова, 8"
- },
- {
-  "id": 116392,
-  "postcode": 61051,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1873941828,
-  "lati": 50.042905317,
-  "FullNameUA": "вулиця Букова, 10"
+  "FullNameUA": "вулиця Букова, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 176771,
@@ -246,8 +203,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1879081778,
-  "lati": 50.043200626899996,
-  "FullNameUA": "вулиця Букова, 14"
+  "lati": 50.0432006269,
+  "FullNameUA": "вулиця Букова, 14",
+  "ChildsIds": []
  },
  {
   "id": 116398,
@@ -271,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1861498502,
-  "lati": 50.043502144099996,
-  "FullNameUA": "вулиця Букова, 16"
+  "lati": 50.0435021441,
+  "FullNameUA": "вулиця Букова, 16",
+  "ChildsIds": []
  },
  {
   "id": 116400,
@@ -297,57 +256,8 @@
   "reg_date": "",
   "longt": 36.1858338117,
   "lati": 50.0436294074,
-  "FullNameUA": "вулиця Букова, 18"
- },
- {
-  "id": 116405,
-  "postcode": 61051,
-  "number": 20,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.182326412,
-  "lati": 50.0445391798,
-  "FullNameUA": "вулиця Букова, 20-Г"
- },
- {
-  "id": 180374,
-  "postcode": 61051,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "21.11.2019 16:35:30",
-  "longt": 36.1834316634,
-  "lati": 50.0425986943,
-  "FullNameUA": "вулиця Букова, 20"
+  "FullNameUA": "вулиця Букова, 18",
+  "ChildsIds": []
  },
  {
   "id": 116404,
@@ -372,7 +282,62 @@
   "reg_date": "",
   "longt": 36.1834945663,
   "lati": 50.0440144648,
-  "FullNameUA": "вулиця Букова, 20-В"
+  "FullNameUA": "вулиця Букова, 20-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 116405,
+  "postcode": 61051,
+  "number": 20,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.182326412,
+  "lati": 50.0445391798,
+  "FullNameUA": "вулиця Букова, 20-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 180374,
+  "postcode": 61051,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.11.2019 16:35:30",
+  "longt": 36.1834316634,
+  "lati": 50.0425986943,
+  "FullNameUA": "вулиця Букова, 20",
+  "ChildsIds": [
+   116426
+  ]
  },
  {
   "id": 181648,
@@ -397,32 +362,8 @@
   "reg_date": "",
   "longt": 36.1804830559,
   "lati": 50.0434308103,
-  "FullNameUA": "вулиця Букова, 20-А"
- },
- {
-  "id": 181804,
-  "postcode": 61051,
-  "number": 21,
-  "suffix": "",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "11.12.2019 16:33:53",
-  "longt": 36.1831406196,
-  "lati": 50.0425701111,
-  "FullNameUA": "вулиця Букова, 21"
+  "FullNameUA": "вулиця Букова, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 116406,
@@ -447,16 +388,19 @@
   "reg_date": "15.03.2019 16:28:20",
   "longt": 36.1859086859,
   "lati": 50.0428651251,
-  "FullNameUA": "вулиця Букова, 21"
+  "FullNameUA": "вулиця Букова, 21",
+  "ChildsIds": [
+   180369
+  ]
  },
  {
-  "id": 116383,
+  "id": 181804,
   "postcode": 61051,
-  "number": 23,
+  "number": 21,
   "suffix": "",
   "block": "",
   "streetid": 2689,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -469,10 +413,11 @@
   "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "15.03.2019 16:32:50",
-  "longt": 36.1855518587,
-  "lati": 50.0429182658,
-  "FullNameUA": "вулиця Букова, 23"
+  "reg_date": "11.12.2019 16:33:53",
+  "longt": 36.1831406196,
+  "lati": 50.0425701111,
+  "FullNameUA": "вулиця Букова, 21",
+  "ChildsIds": []
  },
  {
   "id": 116411,
@@ -497,7 +442,34 @@
   "reg_date": "27.02.2019 16:33:19",
   "longt": 36.1918035491,
   "lati": 50.0393780103,
-  "FullNameUA": "вулиця Букова, 23-Б"
+  "FullNameUA": "вулиця Букова, 23-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 116383,
+  "postcode": 61051,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "15.03.2019 16:32:50",
+  "longt": 36.1855518587,
+  "lati": 50.0429182658,
+  "FullNameUA": "вулиця Букова, 23",
+  "ChildsIds": []
  },
  {
   "id": 116414,
@@ -522,7 +494,8 @@
   "reg_date": "15.03.2019 16:39:15",
   "longt": 36.1853021129,
   "lati": 50.042808053,
-  "FullNameUA": "вулиця Букова, 25"
+  "FullNameUA": "вулиця Букова, 25",
+  "ChildsIds": []
  },
  {
   "id": 116418,
@@ -547,7 +520,8 @@
   "reg_date": "15.03.2019 16:45:34",
   "longt": 36.1850094976,
   "lati": 50.042796919,
-  "FullNameUA": "вулиця Букова, 27"
+  "FullNameUA": "вулиця Букова, 27",
+  "ChildsIds": []
  },
  {
   "id": 180380,
@@ -572,7 +546,10 @@
   "reg_date": "21.11.2019 17:39:51",
   "longt": 36.1814980562,
   "lati": 50.0426114028,
-  "FullNameUA": "вулиця Букова, 28"
+  "FullNameUA": "вулиця Букова, 28",
+  "ChildsIds": [
+   180379
+  ]
  },
  {
   "id": 116420,
@@ -596,8 +573,9 @@
   "confrm": "",
   "reg_date": "15.03.2019 16:42:29",
   "longt": 36.1847316193,
-  "lati": 50.042760125499996,
-  "FullNameUA": "вулиця Букова, 29"
+  "lati": 50.0427601255,
+  "FullNameUA": "вулиця Букова, 29",
+  "ChildsIds": []
  },
  {
   "id": 116421,
@@ -620,9 +598,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.182222757699996,
+  "longt": 36.1822227577,
   "lati": 50.0431507211,
-  "FullNameUA": "вулиця Букова, 30"
+  "FullNameUA": "вулиця Букова, 30",
+  "ChildsIds": []
  },
  {
   "id": 116394,
@@ -647,7 +626,8 @@
   "reg_date": "15.03.2019 16:48:09",
   "longt": 36.1844409291,
   "lati": 50.0427110149,
-  "FullNameUA": "вулиця Букова, 31"
+  "FullNameUA": "вулиця Букова, 31",
+  "ChildsIds": []
  },
  {
   "id": 116422,
@@ -670,9 +650,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.179985757000004,
+  "longt": 36.179985757,
   "lati": 50.0437505173,
-  "FullNameUA": "вулиця Букова, 32"
+  "FullNameUA": "вулиця Букова, 32",
+  "ChildsIds": []
  },
  {
   "id": 180395,
@@ -697,7 +678,8 @@
   "reg_date": "15.03.2019 16:08:38",
   "longt": 36.18398466,
   "lati": 50.0428228734,
-  "FullNameUA": "вулиця Букова, 33"
+  "FullNameUA": "вулиця Букова, 33",
+  "ChildsIds": []
  },
  {
   "id": 116423,
@@ -722,7 +704,8 @@
   "reg_date": "",
   "longt": 36.177646475,
   "lati": 50.0437411553,
-  "FullNameUA": "вулиця Букова, 34"
+  "FullNameUA": "вулиця Букова, 34",
+  "ChildsIds": []
  },
  {
   "id": 180371,
@@ -747,7 +730,8 @@
   "reg_date": "15.03.2019 16:53:53",
   "longt": 36.1837099434,
   "lati": 50.0426378647,
-  "FullNameUA": "вулиця Букова, 35"
+  "FullNameUA": "вулиця Букова, 35",
+  "ChildsIds": []
  },
  {
   "id": 116425,
@@ -772,7 +756,8 @@
   "reg_date": "",
   "longt": 36.1738970023,
   "lati": 50.0434210423,
-  "FullNameUA": "вулиця Букова, 36-А"
+  "FullNameUA": "вулиця Букова, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 116424,
@@ -796,8 +781,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.17480848,
-  "lati": 50.043605450099996,
-  "FullNameUA": "вулиця Букова, 36"
+  "lati": 50.0436054501,
+  "FullNameUA": "вулиця Букова, 36",
+  "ChildsIds": []
  },
  {
   "id": 116426,
@@ -822,7 +808,8 @@
   "reg_date": "15.03.2019 16:49:45",
   "longt": 36.1834334874,
   "lati": 50.0426049084,
-  "FullNameUA": "вулиця Букова, 37"
+  "FullNameUA": "вулиця Букова, 37",
+  "ChildsIds": []
  },
  {
   "id": 180369,
@@ -847,7 +834,8 @@
   "reg_date": "15.03.2019 16:26:12",
   "longt": 36.1831378965,
   "lati": 50.0425792075,
-  "FullNameUA": "вулиця Букова, 39"
+  "FullNameUA": "вулиця Букова, 39",
+  "ChildsIds": []
  },
  {
   "id": 116428,
@@ -872,7 +860,8 @@
   "reg_date": "",
   "longt": 36.1941834167,
   "lati": 50.0395444738,
-  "FullNameUA": "вулиця Букова, 40"
+  "FullNameUA": "вулиця Букова, 40",
+  "ChildsIds": []
  },
  {
   "id": 116429,
@@ -896,83 +885,9 @@
   "confrm": "",
   "reg_date": "15.03.2019 16:46:58",
   "longt": 36.1827647343,
-  "lati": 50.042548874699996,
-  "FullNameUA": "вулиця Букова, 41"
- },
- {
-  "id": 176761,
-  "postcode": 61051,
-  "number": 42,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.192689733899996,
-  "lati": 50.0398404775,
-  "FullNameUA": "вулиця Букова, 42-А"
- },
- {
-  "id": 176764,
-  "postcode": 61051,
-  "number": 42,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1935231187,
-  "lati": 50.0399705591,
-  "FullNameUA": "вулиця Букова, 42-Д"
- },
- {
-  "id": 176762,
-  "postcode": 61051,
-  "number": 42,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2689,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1927905687,
-  "lati": 50.039655414500004,
-  "FullNameUA": "вулиця Букова, 42-Б"
+  "lati": 50.0425488747,
+  "FullNameUA": "вулиця Букова, 41",
+  "ChildsIds": []
  },
  {
   "id": 176763,
@@ -997,7 +912,8 @@
   "reg_date": "",
   "longt": 36.1932845921,
   "lati": 50.039894839,
-  "FullNameUA": "вулиця Букова, 42-Г"
+  "FullNameUA": "вулиця Букова, 42-Г",
+  "ChildsIds": []
  },
  {
   "id": 116430,
@@ -1022,7 +938,8 @@
   "reg_date": "10.01.2020 12:54:02",
   "longt": 36.187126819,
   "lati": 50.0431415048,
-  "FullNameUA": "вулиця Букова, 42"
+  "FullNameUA": "вулиця Букова, 42",
+  "ChildsIds": []
  },
  {
   "id": 116431,
@@ -1045,9 +962,88 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192885440599994,
+  "longt": 36.1928854406,
   "lati": 50.0395129986,
-  "FullNameUA": "вулиця Букова, 42-В"
+  "FullNameUA": "вулиця Букова, 42-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 176761,
+  "postcode": 61051,
+  "number": 42,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1926897339,
+  "lati": 50.0398404775,
+  "FullNameUA": "вулиця Букова, 42-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 176762,
+  "postcode": 61051,
+  "number": 42,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1927905687,
+  "lati": 50.0396554145,
+  "FullNameUA": "вулиця Букова, 42-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 176764,
+  "postcode": 61051,
+  "number": 42,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1935231187,
+  "lati": 50.0399705591,
+  "FullNameUA": "вулиця Букова, 42-Д",
+  "ChildsIds": []
  },
  {
   "id": 180375,
@@ -1071,8 +1067,61 @@
   "confrm": "",
   "reg_date": "15.03.2019 16:44:21",
   "longt": 36.1823809243,
-  "lati": 50.042735721999996,
-  "FullNameUA": "вулиця Букова, 43"
+  "lati": 50.042735722,
+  "FullNameUA": "вулиця Букова, 43",
+  "ChildsIds": []
+ },
+ {
+  "id": 116392,
+  "postcode": 61051,
+  "number": 43,
+  "suffix": "",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1873941828,
+  "lati": 50.042905317,
+  "FullNameUA": "вулиця Букова, 43",
+  "ChildsIds": []
+ },
+ {
+  "id": 116389,
+  "postcode": 61051,
+  "number": 44,
+  "suffix": "",
+  "block": "",
+  "streetid": 2689,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.187792981,
+  "lati": 50.0425264853,
+  "FullNameUA": "вулиця Букова, 44",
+  "ChildsIds": []
  },
  {
   "id": 180397,
@@ -1097,7 +1146,8 @@
   "reg_date": "15.03.2019 16:00:32",
   "longt": 36.1820699783,
   "lati": 50.042452441,
-  "FullNameUA": "вулиця Букова, 45"
+  "FullNameUA": "вулиця Букова, 45",
+  "ChildsIds": []
  },
  {
   "id": 180376,
@@ -1122,7 +1172,8 @@
   "reg_date": "15.03.2019 16:42:26",
   "longt": 36.1818552162,
   "lati": 50.0424130473,
-  "FullNameUA": "вулиця Букова, 47"
+  "FullNameUA": "вулиця Букова, 47",
+  "ChildsIds": []
  },
  {
   "id": 180378,
@@ -1147,7 +1198,8 @@
   "reg_date": "15.03.2019 16:40:50",
   "longt": 36.1816820207,
   "lati": 50.0425203609,
-  "FullNameUA": "вулиця Букова, 49"
+  "FullNameUA": "вулиця Букова, 49",
+  "ChildsIds": []
  },
  {
   "id": 180384,
@@ -1172,7 +1224,8 @@
   "reg_date": "15.03.2019 16:29:30",
   "longt": 36.1867809235,
   "lati": 50.0434845662,
-  "FullNameUA": "вулиця Букова, 50"
+  "FullNameUA": "вулиця Букова, 50",
+  "ChildsIds": []
  },
  {
   "id": 180379,
@@ -1197,7 +1250,8 @@
   "reg_date": "15.03.2019 16:34:50",
   "longt": 36.1814940024,
   "lati": 50.042613427,
-  "FullNameUA": "вулиця Букова, 51"
+  "FullNameUA": "вулиця Букова, 51",
+  "ChildsIds": []
  },
  {
   "id": 180381,
@@ -1222,7 +1276,8 @@
   "reg_date": "15.03.2019 16:32:40",
   "longt": 36.1812652318,
   "lati": 50.0426732513,
-  "FullNameUA": "вулиця Букова, 53"
+  "FullNameUA": "вулиця Букова, 53",
+  "ChildsIds": []
  },
  {
   "id": 180387,
@@ -1247,7 +1302,8 @@
   "reg_date": "15.03.2019 16:28:00",
   "longt": 36.1848270332,
   "lati": 50.0434972089,
-  "FullNameUA": "вулиця Букова, 60"
+  "FullNameUA": "вулиця Букова, 60",
+  "ChildsIds": []
  },
  {
   "id": 180388,
@@ -1272,7 +1328,8 @@
   "reg_date": "15.03.2019 16:24:49",
   "longt": 36.1845695158,
   "lati": 50.043766405,
-  "FullNameUA": "вулиця Букова, 62"
+  "FullNameUA": "вулиця Букова, 62",
+  "ChildsIds": []
  },
  {
   "id": 180389,
@@ -1297,7 +1354,8 @@
   "reg_date": "15.03.2019 16:23:00",
   "longt": 36.1841544687,
   "lati": 50.0434102611,
-  "FullNameUA": "вулиця Букова, 64"
+  "FullNameUA": "вулиця Букова, 64",
+  "ChildsIds": []
  },
  {
   "id": 180393,
@@ -1322,7 +1380,8 @@
   "reg_date": "15.03.2019 16:21:04",
   "longt": 36.1834333706,
   "lati": 50.0436742454,
-  "FullNameUA": "вулиця Букова, 68"
+  "FullNameUA": "вулиця Букова, 68",
+  "ChildsIds": []
  },
  {
   "id": 180394,
@@ -1347,6 +1406,7 @@
   "reg_date": "15.03.2019 16:17:00",
   "longt": 36.1830755175,
   "lati": 50.0436592282,
-  "FullNameUA": "вулиця Букова, 70"
+  "FullNameUA": "вулиця Букова, 70",
+  "ChildsIds": []
  }
 ]

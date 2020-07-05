@@ -1,0 +1,58 @@
+[
+ {
+  "id": 182400,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 8380,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:21:39",
+  "longt": 36.3044610475,
+  "lati": 50.052787755,
+  "FullNameUA": "вулиця Наукова (сел. Циркуни), 3",
+  "ChildsIds": [
+   131174
+  ]
+ },
+ {
+  "id": 182401,
+  "postcode": 61107,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 8380,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:28:59",
+  "longt": 36.3060770508,
+  "lati": 50.0532429513,
+  "FullNameUA": "вулиця Наукова (сел. Циркуни), 7",
+  "ChildsIds": [
+   131177
+  ]
+ }
+]

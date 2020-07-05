@@ -1,5 +1,109 @@
 [
  {
+  "id": 181944,
+  "postcode": 61105,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2100,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2774831818,
+  "lati": 49.9519402564,
+  "FullNameUA": "в'їзд Аскольдівський, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 181943,
+  "postcode": 61105,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 2100,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2771394491,
+  "lati": 49.9518938695,
+  "FullNameUA": "в'їзд Аскольдівський, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 181945,
+  "postcode": 61105,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2100,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2775112716,
+  "lati": 49.9518019439,
+  "FullNameUA": "в'їзд Аскольдівський, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 181942,
+  "postcode": 61105,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2100,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2771571801,
+  "lati": 49.9517713241,
+  "FullNameUA": "в'їзд Аскольдівський, 10",
+  "ChildsIds": []
+ },
+ {
   "id": 181004,
   "postcode": 61105,
   "number": 16,
@@ -21,7 +125,8 @@
   "confrm": "",
   "reg_date": "22.07.2019 15:05:08",
   "longt": 36.2773357876,
-  "lati": 49.951095340900004,
-  "FullNameUA": "в'їзд Аскольдівський, 16"
+  "lati": 49.9510953409,
+  "FullNameUA": "в'їзд Аскольдівський, 16",
+  "ChildsIds": []
  }
 ]

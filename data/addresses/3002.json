@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23034912240001,
-  "lati": 49.995791539500004,
-  "FullNameUA": "провулок Кравцова, 3"
+  "longt": 36.2303491224,
+  "lati": 49.9957915395,
+  "FullNameUA": "провулок Кравцова, 3",
+  "ChildsIds": []
  },
  {
   "id": 117047,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2303946294,
-  "lati": 49.996048348100004,
-  "FullNameUA": "провулок Кравцова, 4"
+  "lati": 49.9960483481,
+  "FullNameUA": "провулок Кравцова, 4",
+  "ChildsIds": []
  },
  {
   "id": 117048,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230083491100004,
+  "longt": 36.2300834911,
   "lati": 49.9958015813,
-  "FullNameUA": "провулок Кравцова, 5"
+  "FullNameUA": "провулок Кравцова, 5",
+  "ChildsIds": []
  },
  {
   "id": 117049,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2300626906,
-  "lati": 49.996082308400005,
-  "FullNameUA": "провулок Кравцова, 6"
+  "lati": 49.9960823084,
+  "FullNameUA": "провулок Кравцова, 6",
+  "ChildsIds": []
  },
  {
   "id": 117050,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2298177916,
-  "lati": 49.995797350500006,
-  "FullNameUA": "провулок Кравцова, 7"
+  "lati": 49.9957973505,
+  "FullNameUA": "провулок Кравцова, 7",
+  "ChildsIds": []
  },
  {
   "id": 117051,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2294600244,
   "lati": 49.9958313602,
-  "FullNameUA": "провулок Кравцова, 9"
+  "FullNameUA": "провулок Кравцова, 9",
+  "ChildsIds": []
  },
  {
   "id": 117052,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2291778624,
-  "lati": 49.995784607800005,
-  "FullNameUA": "провулок Кравцова, 11"
+  "lati": 49.9957846078,
+  "FullNameUA": "провулок Кравцова, 11",
+  "ChildsIds": []
  },
  {
   "id": 117053,
@@ -195,59 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.229282001499996,
+  "longt": 36.2292820015,
   "lati": 49.9956414166,
-  "FullNameUA": "провулок Кравцова, 11-Б"
- },
- {
-  "id": 117054,
-  "postcode": 61057,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 3002,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2287682416,
-  "lati": 49.99546165,
-  "FullNameUA": "провулок Кравцова, 13"
- },
- {
-  "id": 117055,
-  "postcode": 61057,
-  "number": 13,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3002,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2287557146,
-  "lati": 49.9952313311,
-  "FullNameUA": "провулок Кравцова, 13-Б"
+  "FullNameUA": "провулок Кравцова, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 117056,
@@ -272,7 +230,60 @@
   "reg_date": "21.02.2019 17:16:46",
   "longt": 36.2289976892,
   "lati": 49.9958561883,
-  "FullNameUA": "провулок Кравцова, 13-В"
+  "FullNameUA": "провулок Кравцова, 13-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 117054,
+  "postcode": 61057,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 3002,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2287682416,
+  "lati": 49.99546165,
+  "FullNameUA": "провулок Кравцова, 13",
+  "ChildsIds": []
+ },
+ {
+  "id": 117055,
+  "postcode": 61057,
+  "number": 13,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3002,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2287557146,
+  "lati": 49.9952313311,
+  "FullNameUA": "провулок Кравцова, 13-Б",
+  "ChildsIds": []
  },
  {
   "id": 117057,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2286737023,
   "lati": 49.9957567944,
-  "FullNameUA": "провулок Кравцова, 15"
+  "FullNameUA": "провулок Кравцова, 15",
+  "ChildsIds": []
  },
  {
   "id": 178060,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2284154078,
   "lati": 49.9958338095,
-  "FullNameUA": "провулок Кравцова, 17"
+  "FullNameUA": "провулок Кравцова, 17",
+  "ChildsIds": []
  },
  {
   "id": 117058,
@@ -345,8 +358,9 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.228081151699996,
+  "longt": 36.2280811517,
   "lati": 49.9956949509,
-  "FullNameUA": "провулок Кравцова, 19"
+  "FullNameUA": "провулок Кравцова, 19",
+  "ChildsIds": []
  }
 ]

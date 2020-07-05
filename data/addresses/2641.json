@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232937521,
-  "lati": 49.987416154600005,
-  "FullNameUA": "вулиця Різдвяна, 1"
+  "lati": 49.9874161546,
+  "FullNameUA": "вулиця Різдвяна, 1",
+  "ChildsIds": []
  },
  {
   "id": 149233,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2230506378,
   "lati": 49.9874989252,
-  "FullNameUA": "вулиця Різдвяна, 3"
+  "FullNameUA": "вулиця Різдвяна, 3",
+  "ChildsIds": []
  },
  {
   "id": 149234,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232000226,
-  "lati": 49.987890171400004,
-  "FullNameUA": "вулиця Різдвяна, 5"
+  "lati": 49.9878901714,
+  "FullNameUA": "вулиця Різдвяна, 5",
+  "ChildsIds": []
  },
  {
   "id": 139512,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2234436886,
   "lati": 49.9885696615,
-  "FullNameUA": "вулиця Різдвяна, 6"
+  "FullNameUA": "вулиця Різдвяна, 6",
+  "ChildsIds": []
  },
  {
   "id": 139513,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2233673532,
   "lati": 49.9892810197,
-  "FullNameUA": "вулиця Різдвяна, 8/12"
+  "FullNameUA": "вулиця Різдвяна, 8/12",
+  "ChildsIds": []
  },
  {
   "id": 139514,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2230085876,
   "lati": 49.9886000993,
-  "FullNameUA": "вулиця Різдвяна, 9"
+  "FullNameUA": "вулиця Різдвяна, 9",
+  "ChildsIds": []
  },
  {
   "id": 139515,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2233537848,
   "lati": 49.9894474405,
-  "FullNameUA": "вулиця Різдвяна, 10"
+  "FullNameUA": "вулиця Різдвяна, 10",
+  "ChildsIds": []
  },
  {
   "id": 139516,
@@ -196,8 +203,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2228071661,
-  "lati": 49.989323609900005,
-  "FullNameUA": "вулиця Різдвяна, 11"
+  "lati": 49.9893236099,
+  "FullNameUA": "вулиця Різдвяна, 11",
+  "ChildsIds": []
  },
  {
   "id": 139517,
@@ -222,32 +230,8 @@
   "reg_date": "",
   "longt": 36.2230467838,
   "lati": 49.9914057793,
-  "FullNameUA": "вулиця Різдвяна, 14"
- },
- {
-  "id": 177275,
-  "postcode": 61052,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 2641,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.2227743098,
-  "lati": 49.989875578500005,
-  "FullNameUA": "вулиця Різдвяна, 15"
+  "FullNameUA": "вулиця Різдвяна, 14",
+  "ChildsIds": []
  },
  {
   "id": 139518,
@@ -271,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2230273813,
-  "lati": 49.991792864000004,
-  "FullNameUA": "вулиця Різдвяна, 16"
+  "lati": 49.991792864,
+  "FullNameUA": "вулиця Різдвяна, 16",
+  "ChildsIds": []
  },
  {
   "id": 139519,
@@ -297,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2226948793,
   "lati": 49.990092243,
-  "FullNameUA": "вулиця Різдвяна, 17"
+  "FullNameUA": "вулиця Різдвяна, 17",
+  "ChildsIds": []
  },
  {
   "id": 139520,
@@ -321,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2226002342,
-  "lati": 49.990370256300004,
-  "FullNameUA": "вулиця Різдвяна, 19"
+  "lati": 49.9903702563,
+  "FullNameUA": "вулиця Різдвяна, 19",
+  "ChildsIds": []
  },
  {
   "id": 176933,
@@ -346,8 +333,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2226259379,
-  "lati": 49.990663262300004,
-  "FullNameUA": "вулиця Різдвяна, 21"
+  "lati": 49.9906632623,
+  "FullNameUA": "вулиця Різдвяна, 21",
+  "ChildsIds": []
  },
  {
   "id": 139521,
@@ -372,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2229450539,
   "lati": 49.9920045251,
-  "FullNameUA": "вулиця Різдвяна, 22"
+  "FullNameUA": "вулиця Різдвяна, 22",
+  "ChildsIds": []
  },
  {
   "id": 139522,
@@ -396,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2230134594,
-  "lati": 49.992240030800005,
-  "FullNameUA": "вулиця Різдвяна, 24"
+  "lati": 49.9922400308,
+  "FullNameUA": "вулиця Різдвяна, 24",
+  "ChildsIds": []
  },
  {
   "id": 139523,
@@ -422,32 +412,8 @@
   "reg_date": "",
   "longt": 36.2224675837,
   "lati": 49.9915726835,
-  "FullNameUA": "вулиця Різдвяна, 25"
- },
- {
-  "id": 139525,
-  "postcode": 61052,
-  "number": 29,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2641,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.222018036099996,
-  "lati": 49.992757404100004,
-  "FullNameUA": "вулиця Різдвяна, 29-А"
+  "FullNameUA": "вулиця Різдвяна, 25",
+  "ChildsIds": []
  },
  {
   "id": 139526,
@@ -471,8 +437,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2211001859,
-  "lati": 49.992631658600004,
-  "FullNameUA": "вулиця Різдвяна, 29-Б"
+  "lati": 49.9926316586,
+  "FullNameUA": "вулиця Різдвяна, 29-Б",
+  "ChildsIds": []
  },
  {
   "id": 139524,
@@ -496,8 +463,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2222848328,
-  "lati": 49.992400901100005,
-  "FullNameUA": "вулиця Різдвяна, 29"
+  "lati": 49.9924009011,
+  "FullNameUA": "вулиця Різдвяна, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 139525,
+  "postcode": 61052,
+  "number": 29,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2641,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2220180361,
+  "lati": 49.9927574041,
+  "FullNameUA": "вулиця Різдвяна, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 139527,
@@ -516,13 +510,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "22.01.2020 15:09:24",
   "longt": 36.223752522,
-  "lati": 49.994193548300004,
-  "FullNameUA": "вулиця Різдвяна, 33"
+  "lati": 49.9941935483,
+  "FullNameUA": "вулиця Різдвяна, 33",
+  "ChildsIds": []
  },
  {
   "id": 139528,
@@ -546,7 +541,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2203176402,
-  "lati": 49.994008053600005,
-  "FullNameUA": "вулиця Різдвяна, 35"
+  "lati": 49.9940080536,
+  "FullNameUA": "вулиця Різдвяна, 35",
+  "ChildsIds": []
  }
 ]

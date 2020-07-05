@@ -21,8 +21,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2920577951,
-  "lati": 50.054193592500006,
-  "FullNameUA": "вулиця Астрономічна, 1"
+  "lati": 50.0541935925,
+  "FullNameUA": "вулиця Астрономічна, 1",
+  "ChildsIds": []
  },
  {
   "id": 120367,
@@ -47,32 +48,8 @@
   "reg_date": "",
   "longt": 36.2920415001,
   "lati": 50.0543878466,
-  "FullNameUA": "вулиця Астрономічна, 3"
- },
- {
-  "id": 120369,
-  "postcode": 61085,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2933816754,
-  "lati": 50.0490347456,
-  "FullNameUA": "вулиця Астрономічна, 4-А"
+  "FullNameUA": "вулиця Астрономічна, 3",
+  "ChildsIds": []
  },
  {
   "id": 120368,
@@ -97,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2929634546,
   "lati": 50.0489605559,
-  "FullNameUA": "вулиця Астрономічна, 4"
+  "FullNameUA": "вулиця Астрономічна, 4",
+  "ChildsIds": []
  },
  {
   "id": 120370,
@@ -122,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2920338912,
   "lati": 50.0545513161,
-  "FullNameUA": "вулиця Астрономічна, 5"
+  "FullNameUA": "вулиця Астрономічна, 5",
+  "ChildsIds": []
  },
  {
   "id": 120371,
@@ -146,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2929614618,
-  "lati": 50.049479014199996,
-  "FullNameUA": "вулиця Астрономічна, 6"
+  "lati": 50.0494790142,
+  "FullNameUA": "вулиця Астрономічна, 6",
+  "ChildsIds": []
  },
  {
   "id": 120373,
@@ -172,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2921146036,
   "lati": 50.0487719088,
-  "FullNameUA": "вулиця Астрономічна, 7-А"
+  "FullNameUA": "вулиця Астрономічна, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 120372,
@@ -195,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.292533843099996,
+  "longt": 36.2925338431,
   "lati": 50.0494239803,
-  "FullNameUA": "вулиця Астрономічна, 7"
+  "FullNameUA": "вулиця Астрономічна, 7",
+  "ChildsIds": []
  },
  {
   "id": 120374,
@@ -222,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2929473116,
   "lati": 50.0496399131,
-  "FullNameUA": "вулиця Астрономічна, 8"
+  "FullNameUA": "вулиця Астрономічна, 8",
+  "ChildsIds": []
  },
  {
   "id": 120375,
@@ -247,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2919360421,
   "lati": 50.0494620422,
-  "FullNameUA": "вулиця Астрономічна, 9"
+  "FullNameUA": "вулиця Астрономічна, 9",
+  "ChildsIds": []
  },
  {
   "id": 120376,
@@ -272,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2929413374,
   "lati": 50.049816395,
-  "FullNameUA": "вулиця Астрономічна, 10"
+  "FullNameUA": "вулиця Астрономічна, 10",
+  "ChildsIds": []
  },
  {
   "id": 120377,
@@ -297,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2913165223,
   "lati": 50.0497116807,
-  "FullNameUA": "вулиця Астрономічна, 11"
+  "FullNameUA": "вулиця Астрономічна, 11",
+  "ChildsIds": []
  },
  {
   "id": 120378,
@@ -322,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2929031488,
   "lati": 50.0499738481,
-  "FullNameUA": "вулиця Астрономічна, 12"
+  "FullNameUA": "вулиця Астрономічна, 12",
+  "ChildsIds": []
  },
  {
   "id": 120379,
@@ -347,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2909536201,
   "lati": 50.0491917875,
-  "FullNameUA": "вулиця Астрономічна, 13"
+  "FullNameUA": "вулиця Астрономічна, 13",
+  "ChildsIds": []
  },
  {
   "id": 120380,
@@ -371,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2928873376,
-  "lati": 50.05011464460001,
-  "FullNameUA": "вулиця Астрономічна, 14"
+  "lati": 50.0501146446,
+  "FullNameUA": "вулиця Астрономічна, 14",
+  "ChildsIds": []
  },
  {
   "id": 120381,
@@ -397,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2923461946,
   "lati": 50.0501746564,
-  "FullNameUA": "вулиця Астрономічна, 15"
+  "FullNameUA": "вулиця Астрономічна, 15",
+  "ChildsIds": []
  },
  {
   "id": 120382,
@@ -421,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2928890034,
-  "lati": 50.050258968200005,
-  "FullNameUA": "вулиця Астрономічна, 16"
+  "lati": 50.0502589682,
+  "FullNameUA": "вулиця Астрономічна, 16",
+  "ChildsIds": []
  },
  {
   "id": 120383,
@@ -445,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.290475841799996,
-  "lati": 50.049668420399996,
-  "FullNameUA": "вулиця Астрономічна, 17"
+  "longt": 36.2904758418,
+  "lati": 50.0496684204,
+  "FullNameUA": "вулиця Астрономічна, 17",
+  "ChildsIds": []
  },
  {
   "id": 120384,
@@ -471,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2928527192,
-  "lati": 50.050414364800005,
-  "FullNameUA": "вулиця Астрономічна, 18"
+  "lati": 50.0504143648,
+  "FullNameUA": "вулиця Астрономічна, 18",
+  "ChildsIds": []
  },
  {
   "id": 120386,
@@ -496,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2908483867,
-  "lati": 50.050396168000006,
-  "FullNameUA": "вулиця Астрономічна, 19-А"
+  "lati": 50.050396168,
+  "FullNameUA": "вулиця Астрономічна, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 120385,
@@ -522,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2916537071,
   "lati": 50.0505055041,
-  "FullNameUA": "вулиця Астрономічна, 19"
+  "FullNameUA": "вулиця Астрономічна, 19",
+  "ChildsIds": []
  },
  {
   "id": 120387,
@@ -546,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2928537456,
-  "lati": 50.05061467510001,
-  "FullNameUA": "вулиця Астрономічна, 20"
+  "lati": 50.0506146751,
+  "FullNameUA": "вулиця Астрономічна, 20",
+  "ChildsIds": []
  },
  {
   "id": 120388,
@@ -572,7 +568,8 @@
   "reg_date": "",
   "longt": 36.289995396,
   "lati": 50.0504293027,
-  "FullNameUA": "вулиця Астрономічна, 21"
+  "FullNameUA": "вулиця Астрономічна, 21",
+  "ChildsIds": []
  },
  {
   "id": 120389,
@@ -597,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2928110548,
   "lati": 50.0508231362,
-  "FullNameUA": "вулиця Астрономічна, 22"
+  "FullNameUA": "вулиця Астрономічна, 22",
+  "ChildsIds": []
  },
  {
   "id": 120390,
@@ -622,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2893626624,
   "lati": 50.0499758238,
-  "FullNameUA": "вулиця Астрономічна, 23"
+  "FullNameUA": "вулиця Астрономічна, 23",
+  "ChildsIds": []
  },
  {
   "id": 120391,
@@ -646,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2927777505,
-  "lati": 50.051030985900006,
-  "FullNameUA": "вулиця Астрономічна, 24"
+  "lati": 50.0510309859,
+  "FullNameUA": "вулиця Астрономічна, 24",
+  "ChildsIds": []
  },
  {
   "id": 120392,
@@ -670,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289335461600004,
-  "lati": 50.049269843299996,
-  "FullNameUA": "вулиця Астрономічна, 25"
+  "longt": 36.2893354616,
+  "lati": 50.0492698433,
+  "FullNameUA": "вулиця Астрономічна, 25",
+  "ChildsIds": []
  },
  {
   "id": 120393,
@@ -696,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.292785588,
-  "lati": 50.051184036200006,
-  "FullNameUA": "вулиця Астрономічна, 26"
+  "lati": 50.0511840362,
+  "FullNameUA": "вулиця Астрономічна, 26",
+  "ChildsIds": []
  },
  {
   "id": 120395,
@@ -722,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2901066333,
   "lati": 50.0487567489,
-  "FullNameUA": "вулиця Астрономічна, 27-А"
+  "FullNameUA": "вулиця Астрономічна, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 120394,
@@ -747,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2898931291,
   "lati": 50.0494380875,
-  "FullNameUA": "вулиця Астрономічна, 27"
+  "FullNameUA": "вулиця Астрономічна, 27",
+  "ChildsIds": []
  },
  {
   "id": 120396,
@@ -771,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2927350743,
-  "lati": 50.05134296960001,
-  "FullNameUA": "вулиця Астрономічна, 28"
+  "lati": 50.0513429696,
+  "FullNameUA": "вулиця Астрономічна, 28",
+  "ChildsIds": []
  },
  {
   "id": 120397,
@@ -796,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2927355227,
-  "lati": 50.051499329200006,
-  "FullNameUA": "вулиця Астрономічна, 30"
+  "lati": 50.0514993292,
+  "FullNameUA": "вулиця Астрономічна, 30",
+  "ChildsIds": []
  },
  {
   "id": 120398,
@@ -821,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2927100398,
-  "lati": 50.05166075260001,
-  "FullNameUA": "вулиця Астрономічна, 32"
+  "lati": 50.0516607526,
+  "FullNameUA": "вулиця Астрономічна, 32",
+  "ChildsIds": []
  },
  {
   "id": 120399,
@@ -845,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289835992200004,
-  "lati": 50.051399131100005,
-  "FullNameUA": "вулиця Астрономічна, 33"
+  "longt": 36.2898359922,
+  "lati": 50.0513991311,
+  "FullNameUA": "вулиця Астрономічна, 33",
+  "ChildsIds": []
  },
  {
   "id": 120400,
@@ -872,207 +880,8 @@
   "reg_date": "",
   "longt": 36.2927099263,
   "lati": 50.051817511,
-  "FullNameUA": "вулиця Астрономічна, 34"
- },
- {
-  "id": 120403,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2893140076,
-  "lati": 50.05376428180001,
-  "FullNameUA": "вулиця Астрономічна, 35-Б"
- },
- {
-  "id": 120408,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.287259102,
-  "lati": 50.0536077256,
-  "FullNameUA": "вулиця Астрономічна, 35-Ж"
- },
- {
-  "id": 120401,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2915723458,
-  "lati": 50.0535968905,
-  "FullNameUA": "вулиця Астрономічна, 35"
- },
- {
-  "id": 120404,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2903289678,
-  "lati": 50.054040150400006,
-  "FullNameUA": "вулиця Астрономічна, 35-В"
- },
- {
-  "id": 120405,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2903667849,
-  "lati": 50.055235310200004,
-  "FullNameUA": "вулиця Астрономічна, 35-Г"
- },
- {
-  "id": 120406,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2895009314,
-  "lati": 50.05495893570001,
-  "FullNameUA": "вулиця Астрономічна, 35-Д"
- },
- {
-  "id": 120407,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "Е",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2882989377,
-  "lati": 50.0538839263,
-  "FullNameUA": "вулиця Астрономічна, 35-Е"
- },
- {
-  "id": 120409,
-  "postcode": 61085,
-  "number": 35,
-  "suffix": "З",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2884712139,
-  "lati": 50.053181719600005,
-  "FullNameUA": "вулиця Астрономічна, 35-З"
+  "FullNameUA": "вулиця Астрономічна, 34",
+  "ChildsIds": []
  },
  {
   "id": 120410,
@@ -1097,13 +906,14 @@
   "reg_date": "",
   "longt": 36.2872152177,
   "lati": 50.0531042694,
-  "FullNameUA": "вулиця Астрономічна, 35-Л"
+  "FullNameUA": "вулиця Астрономічна, 35-Л",
+  "ChildsIds": []
  },
  {
-  "id": 120402,
+  "id": 120409,
   "postcode": 61085,
   "number": 35,
-  "suffix": "А",
+  "suffix": "З",
   "block": "",
   "streetid": 2103,
   "status_id": 1,
@@ -1120,9 +930,140 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.290237950699996,
-  "lati": 50.0534478913,
-  "FullNameUA": "вулиця Астрономічна, 35-А"
+  "longt": 36.2884712139,
+  "lati": 50.0531817196,
+  "FullNameUA": "вулиця Астрономічна, 35-З",
+  "ChildsIds": []
+ },
+ {
+  "id": 120407,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "Е",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2882989377,
+  "lati": 50.0538839263,
+  "FullNameUA": "вулиця Астрономічна, 35-Е",
+  "ChildsIds": []
+ },
+ {
+  "id": 120406,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2895009314,
+  "lati": 50.0549589357,
+  "FullNameUA": "вулиця Астрономічна, 35-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 120405,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2903667849,
+  "lati": 50.0552353102,
+  "FullNameUA": "вулиця Астрономічна, 35-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 120404,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2903289678,
+  "lati": 50.0540401504,
+  "FullNameUA": "вулиця Астрономічна, 35-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 120401,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2915723458,
+  "lati": 50.0535968905,
+  "FullNameUA": "вулиця Астрономічна, 35",
+  "ChildsIds": []
  },
  {
   "id": 120411,
@@ -1147,7 +1088,86 @@
   "reg_date": "",
   "longt": 36.2875314963,
   "lati": 50.0546032936,
-  "FullNameUA": "вулиця Астрономічна, 35-І"
+  "FullNameUA": "вулиця Астрономічна, 35-І",
+  "ChildsIds": []
+ },
+ {
+  "id": 120408,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.287259102,
+  "lati": 50.0536077256,
+  "FullNameUA": "вулиця Астрономічна, 35-Ж",
+  "ChildsIds": []
+ },
+ {
+  "id": 120403,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2893140076,
+  "lati": 50.0537642818,
+  "FullNameUA": "вулиця Астрономічна, 35-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 120402,
+  "postcode": 61085,
+  "number": 35,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2902379507,
+  "lati": 50.0534478913,
+  "FullNameUA": "вулиця Астрономічна, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 120412,
@@ -1171,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2926930879,
-  "lati": 50.051971885600004,
-  "FullNameUA": "вулиця Астрономічна, 36"
+  "lati": 50.0519718856,
+  "FullNameUA": "вулиця Астрономічна, 36",
+  "ChildsIds": []
  },
  {
   "id": 120413,
@@ -1197,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2912121089,
   "lati": 50.0552065095,
-  "FullNameUA": "вулиця Астрономічна, 37"
+  "FullNameUA": "вулиця Астрономічна, 37",
+  "ChildsIds": []
  },
  {
   "id": 120414,
@@ -1221,8 +1243,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2912751521,
-  "lati": 50.056446961700004,
-  "FullNameUA": "вулиця Астрономічна, 37-А"
+  "lati": 50.0564469617,
+  "FullNameUA": "вулиця Астрономічна, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 120415,
@@ -1247,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.2926582902,
   "lati": 50.0521038114,
-  "FullNameUA": "вулиця Астрономічна, 38"
+  "FullNameUA": "вулиця Астрономічна, 38",
+  "ChildsIds": []
  },
  {
   "id": 120416,
@@ -1272,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2913143325,
   "lati": 50.0570091605,
-  "FullNameUA": "вулиця Астрономічна, 39"
+  "FullNameUA": "вулиця Астрономічна, 39",
+  "ChildsIds": []
  },
  {
   "id": 120417,
@@ -1296,8 +1321,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2926491,
-  "lati": 50.05224610010001,
-  "FullNameUA": "вулиця Астрономічна, 40"
+  "lati": 50.0522461001,
+  "FullNameUA": "вулиця Астрономічна, 40",
+  "ChildsIds": []
  },
  {
   "id": 120418,
@@ -1322,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2911493936,
   "lati": 50.0579090741,
-  "FullNameUA": "вулиця Астрономічна, 41"
+  "FullNameUA": "вулиця Астрономічна, 41",
+  "ChildsIds": []
  },
  {
   "id": 120419,
@@ -1346,58 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2926217738,
-  "lati": 50.05243525270001,
-  "FullNameUA": "вулиця Астрономічна, 42"
- },
- {
-  "id": 120423,
-  "postcode": 61085,
-  "number": 44,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.293232518399996,
-  "lati": 50.053875462600004,
-  "FullNameUA": "вулиця Астрономічна, 44-В"
- },
- {
-  "id": 120422,
-  "postcode": 61085,
-  "number": 44,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2103,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.293146404699996,
-  "lati": 50.0528993352,
-  "FullNameUA": "вулиця Астрономічна, 44-Б"
+  "lati": 50.0524352527,
+  "FullNameUA": "вулиця Астрономічна, 42",
+  "ChildsIds": []
  },
  {
   "id": 120420,
@@ -1422,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.292628567,
   "lati": 50.05256321,
-  "FullNameUA": "вулиця Астрономічна, 44"
+  "FullNameUA": "вулиця Астрономічна, 44",
+  "ChildsIds": []
  },
  {
   "id": 120421,
@@ -1446,8 +1425,87 @@
   "confrm": "392, 30.06.1979",
   "reg_date": "17.04.2019 14:43:11",
   "longt": 36.2925479846,
-  "lati": 50.053380547500005,
-  "FullNameUA": "вулиця Астрономічна, 44-А"
+  "lati": 50.0533805475,
+  "FullNameUA": "вулиця Астрономічна, 44-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 120423,
+  "postcode": 61085,
+  "number": 44,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2932325184,
+  "lati": 50.0538754626,
+  "FullNameUA": "вулиця Астрономічна, 44-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 120422,
+  "postcode": 61085,
+  "number": 44,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2931464047,
+  "lati": 50.0528993352,
+  "FullNameUA": "вулиця Астрономічна, 44-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 183203,
+  "postcode": 61070,
+  "number": 45,
+  "suffix": "",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6325185000:01:010:0008)",
+  "confrm": "",
+  "reg_date": "03.07.2020 09:00:20",
+  "longt": 36.2886153786,
+  "lati": 50.0599097086,
+  "FullNameUA": "вулиця Астрономічна, 45",
+  "ChildsIds": []
  },
  {
   "id": 120424,
@@ -1470,9 +1528,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.292442949699996,
-  "lati": 50.054244820600005,
-  "FullNameUA": "вулиця Астрономічна, 46"
+  "longt": 36.2924429497,
+  "lati": 50.0542448206,
+  "FullNameUA": "вулиця Астрономічна, 46",
+  "ChildsIds": []
+ },
+ {
+  "id": 183204,
+  "postcode": 61070,
+  "number": 47,
+  "suffix": "",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6325185000:01:010:0006)",
+  "confrm": "",
+  "reg_date": "03.07.2020 09:00:51",
+  "longt": 36.2858642064,
+  "lati": 50.0617261321,
+  "FullNameUA": "вулиця Астрономічна, 47",
+  "ChildsIds": []
  },
  {
   "id": 120425,
@@ -1496,8 +1581,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2924078801,
-  "lati": 50.05440911430001,
-  "FullNameUA": "вулиця Астрономічна, 48"
+  "lati": 50.0544091143,
+  "FullNameUA": "вулиця Астрономічна, 48",
+  "ChildsIds": []
+ },
+ {
+  "id": 183205,
+  "postcode": 61070,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 2103,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6325185000:01:010:0007)",
+  "confrm": "",
+  "reg_date": "03.07.2020 09:07:49",
+  "longt": 36.2842537319,
+  "lati": 50.0627660034,
+  "FullNameUA": "вулиця Астрономічна, 49",
+  "ChildsIds": []
  },
  {
   "id": 120426,
@@ -1520,9 +1632,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.292405715499996,
-  "lati": 50.054545025500005,
-  "FullNameUA": "вулиця Астрономічна, 50"
+  "longt": 36.2924057155,
+  "lati": 50.0545450255,
+  "FullNameUA": "вулиця Астрономічна, 50",
+  "ChildsIds": []
  },
  {
   "id": 120427,
@@ -1547,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2923754591,
   "lati": 50.0547178551,
-  "FullNameUA": "вулиця Астрономічна, 52"
+  "FullNameUA": "вулиця Астрономічна, 52",
+  "ChildsIds": []
  },
  {
   "id": 120428,
@@ -1572,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2923559234,
   "lati": 50.0548739934,
-  "FullNameUA": "вулиця Астрономічна, 54"
+  "FullNameUA": "вулиця Астрономічна, 54",
+  "ChildsIds": []
  },
  {
   "id": 120429,
@@ -1596,8 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2923351625,
-  "lati": 50.055030776200006,
-  "FullNameUA": "вулиця Астрономічна, 56"
+  "lati": 50.0550307762,
+  "FullNameUA": "вулиця Астрономічна, 56",
+  "ChildsIds": []
  },
  {
   "id": 120430,
@@ -1621,8 +1737,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2923664238,
-  "lati": 50.055186556600006,
-  "FullNameUA": "вулиця Астрономічна, 58"
+  "lati": 50.0551865566,
+  "FullNameUA": "вулиця Астрономічна, 58",
+  "ChildsIds": []
  },
  {
   "id": 120431,
@@ -1646,8 +1763,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2923207603,
-  "lati": 50.055324615900005,
-  "FullNameUA": "вулиця Астрономічна, 60"
+  "lati": 50.0553246159,
+  "FullNameUA": "вулиця Астрономічна, 60",
+  "ChildsIds": []
  },
  {
   "id": 120432,
@@ -1671,8 +1789,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2922991195,
-  "lati": 50.055499353100004,
-  "FullNameUA": "вулиця Астрономічна, 62"
+  "lati": 50.0554993531,
+  "FullNameUA": "вулиця Астрономічна, 62",
+  "ChildsIds": []
  },
  {
   "id": 120433,
@@ -1697,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2922961886,
   "lati": 50.0556494964,
-  "FullNameUA": "вулиця Астрономічна, 64"
+  "FullNameUA": "вулиця Астрономічна, 64",
+  "ChildsIds": []
  },
  {
   "id": 120434,
@@ -1721,8 +1841,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2922661264,
-  "lati": 50.055814891800004,
-  "FullNameUA": "вулиця Астрономічна, 66"
+  "lati": 50.0558148918,
+  "FullNameUA": "вулиця Астрономічна, 66",
+  "ChildsIds": []
  },
  {
   "id": 120435,
@@ -1747,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.2922504018,
   "lati": 50.0559715313,
-  "FullNameUA": "вулиця Астрономічна, 68"
+  "FullNameUA": "вулиця Астрономічна, 68",
+  "ChildsIds": []
  },
  {
   "id": 120436,
@@ -1771,8 +1893,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2922588366,
-  "lati": 50.056123702600004,
-  "FullNameUA": "вулиця Астрономічна, 70"
+  "lati": 50.0561237026,
+  "FullNameUA": "вулиця Астрономічна, 70",
+  "ChildsIds": []
  },
  {
   "id": 120437,
@@ -1796,8 +1919,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2922287051,
-  "lati": 50.056289834100006,
-  "FullNameUA": "вулиця Астрономічна, 72"
+  "lati": 50.0562898341,
+  "FullNameUA": "вулиця Астрономічна, 72",
+  "ChildsIds": []
  },
  {
   "id": 120438,
@@ -1822,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.2921816325,
   "lati": 50.0564558693,
-  "FullNameUA": "вулиця Астрономічна, 74"
+  "FullNameUA": "вулиця Астрономічна, 74",
+  "ChildsIds": []
  },
  {
   "id": 120439,
@@ -1846,8 +1971,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2921899261,
-  "lati": 50.05660741930001,
-  "FullNameUA": "вулиця Астрономічна, 76"
+  "lati": 50.0566074193,
+  "FullNameUA": "вулиця Астрономічна, 76",
+  "ChildsIds": []
  },
  {
   "id": 120440,
@@ -1871,8 +1997,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2921625669,
-  "lati": 50.05676783090001,
-  "FullNameUA": "вулиця Астрономічна, 78"
+  "lati": 50.0567678309,
+  "FullNameUA": "вулиця Астрономічна, 78",
+  "ChildsIds": []
  },
  {
   "id": 120441,
@@ -1896,8 +2023,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2921310722,
-  "lati": 50.057044912500004,
-  "FullNameUA": "вулиця Астрономічна, 80"
+  "lati": 50.0570449125,
+  "FullNameUA": "вулиця Астрономічна, 80",
+  "ChildsIds": []
  },
  {
   "id": 120442,
@@ -1920,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.292113200799996,
-  "lati": 50.05720957650001,
-  "FullNameUA": "вулиця Астрономічна, 82"
+  "longt": 36.2921132008,
+  "lati": 50.0572095765,
+  "FullNameUA": "вулиця Астрономічна, 82",
+  "ChildsIds": []
  },
  {
   "id": 120443,
@@ -1946,8 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.292098947,
-  "lati": 50.057369395900004,
-  "FullNameUA": "вулиця Астрономічна, 84"
+  "lati": 50.0573693959,
+  "FullNameUA": "вулиця Астрономічна, 84",
+  "ChildsIds": []
  },
  {
   "id": 120444,
@@ -1971,8 +2101,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2920619007,
-  "lati": 50.057519040100004,
-  "FullNameUA": "вулиця Астрономічна, 86"
+  "lati": 50.0575190401,
+  "FullNameUA": "вулиця Астрономічна, 86",
+  "ChildsIds": []
  },
  {
   "id": 120445,
@@ -1996,8 +2127,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2920518731,
-  "lati": 50.057685993300005,
-  "FullNameUA": "вулиця Астрономічна, 88"
+  "lati": 50.0576859933,
+  "FullNameUA": "вулиця Астрономічна, 88",
+  "ChildsIds": []
  },
  {
   "id": 120446,
@@ -2021,8 +2153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2920377683,
-  "lati": 50.057901592200004,
-  "FullNameUA": "вулиця Астрономічна, 90"
+  "lati": 50.0579015922,
+  "FullNameUA": "вулиця Астрономічна, 90",
+  "ChildsIds": []
  },
  {
   "id": 120447,
@@ -2046,8 +2179,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2923914944,
-  "lati": 50.057940307900004,
-  "FullNameUA": "вулиця Астрономічна, 92"
+  "lati": 50.0579403079,
+  "FullNameUA": "вулиця Астрономічна, 92",
+  "ChildsIds": []
  },
  {
   "id": 120448,
@@ -2072,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.2926782268,
   "lati": 50.0579448212,
-  "FullNameUA": "вулиця Астрономічна, 94/89"
+  "FullNameUA": "вулиця Астрономічна, 94/89",
+  "ChildsIds": []
  },
  {
   "id": 120449,
@@ -2096,7 +2231,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2933055298,
-  "lati": 50.05796930300001,
-  "FullNameUA": "вулиця Астрономічна, 98"
+  "lati": 50.057969303,
+  "FullNameUA": "вулиця Астрономічна, 98",
+  "ChildsIds": []
  }
 ]

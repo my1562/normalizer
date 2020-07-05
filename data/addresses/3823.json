@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1963880235,
   "lati": 50.0223074723,
-  "FullNameUA": "вулиця Рудаківська, 1"
+  "FullNameUA": "вулиця Рудаківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 118908,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1968727593,
   "lati": 50.0221453022,
-  "FullNameUA": "вулиця Рудаківська, 2"
+  "FullNameUA": "вулиця Рудаківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 118909,
@@ -71,33 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1965845394,
-  "lati": 50.022356847400005,
-  "FullNameUA": "вулиця Рудаківська, 3"
- },
- {
-  "id": 177506,
-  "postcode": 61045,
-  "number": 8,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3823,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1984512153,
-  "lati": 50.021849514500005,
-  "FullNameUA": "вулиця Рудаківська, 8-Б"
+  "lati": 50.0223568474,
+  "FullNameUA": "вулиця Рудаківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 177508,
@@ -121,8 +99,37 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1986059539,
-  "lati": 50.021770753300004,
-  "FullNameUA": "вулиця Рудаківська, 8-В"
+  "lati": 50.0217707533,
+  "FullNameUA": "вулиця Рудаківська, 8-В",
+  "ChildsIds": [
+   117405
+  ]
+ },
+ {
+  "id": 177506,
+  "postcode": 61045,
+  "number": 8,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3823,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1984512153,
+  "lati": 50.0218495145,
+  "FullNameUA": "вулиця Рудаківська, 8-Б",
+  "ChildsIds": []
  },
  {
   "id": 118910,
@@ -146,33 +153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.197814727,
-  "lati": 50.022446366000004,
-  "FullNameUA": "вулиця Рудаківська, 8"
- },
- {
-  "id": 118912,
-  "postcode": 61045,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3823,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 334, 04.06.2014",
-  "reg_date": "28.12.2019 14:44:53",
-  "longt": 36.1974902275,
-  "lati": 50.022872761100004,
-  "FullNameUA": "вулиця Рудаківська, 9-А"
+  "lati": 50.022446366,
+  "FullNameUA": "вулиця Рудаківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 118911,
@@ -197,7 +180,36 @@
   "reg_date": "",
   "longt": 36.1974861928,
   "lati": 50.0226526419,
-  "FullNameUA": "вулиця Рудаківська, 9"
+  "FullNameUA": "вулиця Рудаківська, 9",
+  "ChildsIds": [
+   118912
+  ]
+ },
+ {
+  "id": 118912,
+  "postcode": 61045,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3823,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 334, 04.06.2014",
+  "reg_date": "28.12.2019 14:44:53",
+  "longt": 36.1974902275,
+  "lati": 50.0228727611,
+  "FullNameUA": "вулиця Рудаківська, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 118913,
@@ -220,9 +232,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198045618399995,
+  "longt": 36.1980456184,
   "lati": 50.0224892067,
-  "FullNameUA": "вулиця Рудаківська, 10"
+  "FullNameUA": "вулиця Рудаківська, 10",
+  "ChildsIds": []
  },
  {
   "id": 118915,
@@ -247,7 +260,8 @@
   "reg_date": "",
   "longt": 36.1977993986,
   "lati": 50.0227750593,
-  "FullNameUA": "вулиця Рудаківська, 11-А"
+  "FullNameUA": "вулиця Рудаківська, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 118914,
@@ -272,7 +286,8 @@
   "reg_date": "",
   "longt": 36.1977029146,
   "lati": 50.0227204906,
-  "FullNameUA": "вулиця Рудаківська, 11"
+  "FullNameUA": "вулиця Рудаківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 118916,
@@ -296,8 +311,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1982444468,
-  "lati": 50.022570921100005,
-  "FullNameUA": "вулиця Рудаківська, 12"
+  "lati": 50.0225709211,
+  "FullNameUA": "вулиця Рудаківська, 12",
+  "ChildsIds": []
  },
  {
   "id": 118917,
@@ -321,8 +337,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1980037982,
-  "lati": 50.022861596300004,
-  "FullNameUA": "вулиця Рудаківська, 13"
+  "lati": 50.0228615963,
+  "FullNameUA": "вулиця Рудаківська, 13",
+  "ChildsIds": []
  },
  {
   "id": 118918,
@@ -345,9 +362,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198453481899996,
+  "longt": 36.1984534819,
   "lati": 50.0226650635,
-  "FullNameUA": "вулиця Рудаківська, 14"
+  "FullNameUA": "вулиця Рудаківська, 14",
+  "ChildsIds": []
  },
  {
   "id": 118919,
@@ -370,9 +388,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198676786499995,
-  "lati": 50.022579931100005,
-  "FullNameUA": "вулиця Рудаківська, 14-А"
+  "longt": 36.1986767865,
+  "lati": 50.0225799311,
+  "FullNameUA": "вулиця Рудаківська, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 118920,
@@ -395,9 +414,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198297117799996,
+  "longt": 36.1982971178,
   "lati": 50.0229056573,
-  "FullNameUA": "вулиця Рудаківська, 15"
+  "FullNameUA": "вулиця Рудаківська, 15",
+  "ChildsIds": []
  },
  {
   "id": 118921,
@@ -422,7 +442,8 @@
   "reg_date": "",
   "longt": 36.1987645312,
   "lati": 50.0227315367,
-  "FullNameUA": "вулиця Рудаківська, 16"
+  "FullNameUA": "вулиця Рудаківська, 16",
+  "ChildsIds": []
  },
  {
   "id": 118922,
@@ -446,8 +467,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1985632097,
-  "lati": 50.023010706200004,
-  "FullNameUA": "вулиця Рудаківська, 17"
+  "lati": 50.0230107062,
+  "FullNameUA": "вулиця Рудаківська, 17",
+  "ChildsIds": []
  },
  {
   "id": 118923,
@@ -471,8 +493,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1993803663,
-  "lati": 50.022999234400004,
-  "FullNameUA": "вулиця Рудаківська, 18"
+  "lati": 50.0229992344,
+  "FullNameUA": "вулиця Рудаківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 118924,
@@ -496,8 +519,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1986439886,
-  "lati": 50.023024724200006,
-  "FullNameUA": "вулиця Рудаківська, 19"
+  "lati": 50.0230247242,
+  "FullNameUA": "вулиця Рудаківська, 19",
+  "ChildsIds": []
  },
  {
   "id": 118925,
@@ -520,9 +544,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198800150299995,
-  "lati": 50.023224922900006,
-  "FullNameUA": "вулиця Рудаківська, 21"
+  "longt": 36.1988001503,
+  "lati": 50.0232249229,
+  "FullNameUA": "вулиця Рудаківська, 21",
+  "ChildsIds": []
  },
  {
   "id": 118926,
@@ -547,7 +572,8 @@
   "reg_date": "",
   "longt": 36.1989135365,
   "lati": 50.023122972,
-  "FullNameUA": "вулиця Рудаківська, 23"
+  "FullNameUA": "вулиця Рудаківська, 23",
+  "ChildsIds": []
  },
  {
   "id": 118927,
@@ -571,8 +597,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2004850386,
-  "lati": 50.023457447400006,
-  "FullNameUA": "вулиця Рудаківська, 24"
+  "lati": 50.0234574474,
+  "FullNameUA": "вулиця Рудаківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 118928,
@@ -595,9 +622,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200607770400005,
-  "lati": 50.023509331300005,
-  "FullNameUA": "вулиця Рудаківська, 26"
+  "longt": 36.2006077704,
+  "lati": 50.0235093313,
+  "FullNameUA": "вулиця Рудаківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 118929,
@@ -620,9 +648,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199334140599994,
-  "lati": 50.023281054600005,
-  "FullNameUA": "вулиця Рудаківська, 27"
+  "longt": 36.1993341406,
+  "lati": 50.0232810546,
+  "FullNameUA": "вулиця Рудаківська, 27",
+  "ChildsIds": []
  },
  {
   "id": 118930,
@@ -646,8 +675,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1996544557,
-  "lati": 50.02341099980001,
-  "FullNameUA": "вулиця Рудаківська, 29"
+  "lati": 50.0234109998,
+  "FullNameUA": "вулиця Рудаківська, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 118931,
+  "postcode": 61045,
+  "number": 31,
+  "suffix": "",
+  "block": "",
+  "streetid": 3823,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2001789976,
+  "lati": 50.0236509852,
+  "FullNameUA": "вулиця Рудаківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 118932,
@@ -671,33 +727,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1999272033,
-  "lati": 50.023544685100006,
-  "FullNameUA": "вулиця Рудаківська, 31-А"
- },
- {
-  "id": 118931,
-  "postcode": 61045,
-  "number": 31,
-  "suffix": "",
-  "block": "",
-  "streetid": 3823,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.200178997600005,
-  "lati": 50.0236509852,
-  "FullNameUA": "вулиця Рудаківська, 31"
+  "lati": 50.0235446851,
+  "FullNameUA": "вулиця Рудаківська, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 118933,
@@ -721,7 +753,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2003584707,
-  "lati": 50.023716584000006,
-  "FullNameUA": "вулиця Рудаківська, 33"
+  "lati": 50.023716584,
+  "FullNameUA": "вулиця Рудаківська, 33",
+  "ChildsIds": []
  }
 ]

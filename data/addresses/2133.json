@@ -1,12 +1,12 @@
 [
  {
-  "id": 176166,
+  "id": 176164,
   "postcode": 61103,
   "number": 3,
-  "suffix": "",
+  "suffix": "Б",
   "block": "",
   "streetid": 2133,
-  "status_id": 3,
+  "status_id": 1,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -18,11 +18,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.2475670874,
-  "lati": 50.040938526,
-  "FullNameUA": "провулок Балакірєва, 3"
+  "longt": 36.2465894222,
+  "lati": 50.0422054979,
+  "FullNameUA": "провулок Балакірєва, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 115178,
@@ -47,16 +48,17 @@
   "reg_date": "01.03.2019 14:02:11",
   "longt": 36.2483375329,
   "lati": 50.0400995902,
-  "FullNameUA": "провулок Балакірєва, 3-А"
+  "FullNameUA": "провулок Балакірєва, 3-А",
+  "ChildsIds": []
  },
  {
-  "id": 176164,
+  "id": 176166,
   "postcode": 61103,
   "number": 3,
-  "suffix": "Б",
+  "suffix": "",
   "block": "",
   "streetid": 2133,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -68,11 +70,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2465894222,
-  "lati": 50.0422054979,
-  "FullNameUA": "провулок Балакірєва, 3-Б"
+  "longt": 36.2475670874,
+  "lati": 50.040938526,
+  "FullNameUA": "провулок Балакірєва, 3",
+  "ChildsIds": []
  },
  {
   "id": 115179,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2512819469,
   "lati": 50.040966088,
-  "FullNameUA": "провулок Балакірєва, 5"
+  "FullNameUA": "провулок Балакірєва, 5",
+  "ChildsIds": []
  },
  {
   "id": 115180,
@@ -121,7 +125,8 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.2457150221,
-  "lati": 50.036321676600004,
-  "FullNameUA": "провулок Балакірєва, 16-А"
+  "lati": 50.0363216766,
+  "FullNameUA": "провулок Балакірєва, 16-А",
+  "ChildsIds": []
  }
 ]

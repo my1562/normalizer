@@ -1,30 +1,5 @@
 [
  {
-  "id": 164091,
-  "postcode": 61109,
-  "number": 1,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3815,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2175877814,
-  "lati": 49.8985354587,
-  "FullNameUA": "провулок Росинського, 1-В"
- },
- {
   "id": 164092,
   "postcode": 61109,
   "number": 1,
@@ -47,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2171708514,
   "lati": 49.8981941749,
-  "FullNameUA": "провулок Росинського, 1-Г"
+  "FullNameUA": "провулок Росинського, 1-Г",
+  "ChildsIds": []
  },
  {
   "id": 165346,
@@ -72,7 +48,34 @@
   "reg_date": "",
   "longt": 36.2181105544,
   "lati": 49.899321233,
-  "FullNameUA": "провулок Росинського, 1"
+  "FullNameUA": "провулок Росинського, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 164091,
+  "postcode": 61109,
+  "number": 1,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3815,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2175877814,
+  "lati": 49.8985354587,
+  "FullNameUA": "провулок Росинського, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 165347,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.217857796000004,
+  "longt": 36.217857796,
   "lati": 49.8993831086,
-  "FullNameUA": "провулок Росинського, 3"
+  "FullNameUA": "провулок Росинського, 3",
+  "ChildsIds": []
  },
  {
   "id": 165348,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.217774969800004,
+  "longt": 36.2177749698,
   "lati": 49.8995003181,
-  "FullNameUA": "провулок Росинського, 5"
+  "FullNameUA": "провулок Росинського, 5",
+  "ChildsIds": []
  },
  {
   "id": 165349,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2170600853,
   "lati": 49.8991094562,
-  "FullNameUA": "провулок Росинського, 6"
+  "FullNameUA": "провулок Росинського, 6",
+  "ChildsIds": []
  },
  {
   "id": 165350,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2174829293,
   "lati": 49.8994114315,
-  "FullNameUA": "провулок Росинського, 7"
+  "FullNameUA": "провулок Росинського, 7",
+  "ChildsIds": []
  },
  {
   "id": 165351,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2173166966,
   "lati": 49.8989073884,
-  "FullNameUA": "провулок Росинського, 10"
+  "FullNameUA": "провулок Росинського, 10",
+  "ChildsIds": []
  },
  {
   "id": 175290,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.217968511500004,
+  "longt": 36.2179685115,
   "lati": 49.8988517026,
-  "FullNameUA": "провулок Росинського, 14"
+  "FullNameUA": "провулок Росинського, 14",
+  "ChildsIds": []
  },
  {
   "id": 175289,
@@ -246,8 +255,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2183755062,
-  "lati": 49.898785283900004,
-  "FullNameUA": "провулок Росинського, 16"
+  "lati": 49.8987852839,
+  "FullNameUA": "провулок Росинського, 16",
+  "ChildsIds": []
  },
  {
   "id": 175288,
@@ -271,8 +281,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2188951174,
-  "lati": 49.898627786300004,
-  "FullNameUA": "провулок Росинського, 18"
+  "lati": 49.8986277863,
+  "FullNameUA": "провулок Росинського, 18",
+  "ChildsIds": []
  },
  {
   "id": 175287,
@@ -297,6 +308,7 @@
   "reg_date": "",
   "longt": 36.2192105237,
   "lati": 49.8986391506,
-  "FullNameUA": "провулок Росинського, 20/36"
+  "FullNameUA": "провулок Росинського, 20/36",
+  "ChildsIds": []
  }
 ]

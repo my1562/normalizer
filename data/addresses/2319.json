@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "кв. (ріш. 31), 20.01.2016",
   "reg_date": "",
-  "longt": 36.246554553500005,
+  "longt": 36.2465545535,
   "lati": 50.013916764,
-  "FullNameUA": "вулиця Весніна, 2"
+  "FullNameUA": "вулиця Весніна, 2",
+  "ChildsIds": []
  },
  {
   "id": 121388,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2461698257,
   "lati": 50.0140831907,
-  "FullNameUA": "вулиця Весніна, 2-А"
+  "FullNameUA": "вулиця Весніна, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 175343,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2479979172,
   "lati": 50.0136982983,
-  "FullNameUA": "вулиця Весніна, 3"
+  "FullNameUA": "вулиця Весніна, 3",
+  "ChildsIds": []
  },
  {
   "id": 121389,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2503704986,
   "lati": 50.0130758101,
-  "FullNameUA": "вулиця Весніна, 5"
+  "FullNameUA": "вулиця Весніна, 5",
+  "ChildsIds": []
  },
  {
   "id": 121390,
@@ -122,32 +126,8 @@
   "reg_date": "",
   "longt": 36.2494352525,
   "lati": 50.0134200375,
-  "FullNameUA": "вулиця Весніна, 5-А"
- },
- {
-  "id": 121391,
-  "postcode": 61023,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 2319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.251765345,
-  "lati": 50.0128843456,
-  "FullNameUA": "вулиця Весніна, 7"
+  "FullNameUA": "вулиця Весніна, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 121392,
@@ -172,7 +152,34 @@
   "reg_date": "",
   "longt": 36.2523630699,
   "lati": 50.0125011951,
-  "FullNameUA": "вулиця Весніна, 7-А"
+  "FullNameUA": "вулиця Весніна, 7-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121391,
+  "postcode": 61023,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.251765345,
+  "lati": 50.0128843456,
+  "FullNameUA": "вулиця Весніна, 7",
+  "ChildsIds": []
  },
  {
   "id": 121393,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2498483414,
   "lati": 50.0125893147,
-  "FullNameUA": "вулиця Весніна, 12"
+  "FullNameUA": "вулиця Весніна, 12",
+  "ChildsIds": []
  },
  {
   "id": 121394,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.251163222,
   "lati": 50.0122939834,
-  "FullNameUA": "вулиця Весніна, 14"
+  "FullNameUA": "вулиця Весніна, 14",
+  "ChildsIds": []
  },
  {
   "id": 179626,
@@ -247,6 +256,7 @@
   "reg_date": "",
   "longt": 36.2517120651,
   "lati": 50.0121614566,
-  "FullNameUA": "вулиця Весніна, 16, гараж № 1"
+  "FullNameUA": "вулиця Весніна, 16, гараж № 1",
+  "ChildsIds": []
  }
 ]

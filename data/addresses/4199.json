@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274848087500004,
+  "longt": 36.2748480875,
   "lati": 49.9912550951,
-  "FullNameUA": "вулиця Уманська, 1"
+  "FullNameUA": "вулиця Уманська, 1",
+  "ChildsIds": []
  },
  {
   "id": 136658,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.275385956,
   "lati": 49.9911410022,
-  "FullNameUA": "вулиця Уманська, 2"
+  "FullNameUA": "вулиця Уманська, 2",
+  "ChildsIds": []
  },
  {
   "id": 136659,
@@ -72,7 +74,8 @@
   "reg_date": "11.03.2019 14:44:36",
   "longt": 36.2750649115,
   "lati": 49.9915062993,
-  "FullNameUA": "вулиця Уманська, 3"
+  "FullNameUA": "вулиця Уманська, 3",
+  "ChildsIds": []
  },
  {
   "id": 136660,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2757425093,
   "lati": 49.9910987775,
-  "FullNameUA": "вулиця Уманська, 4"
+  "FullNameUA": "вулиця Уманська, 4",
+  "ChildsIds": []
  },
  {
   "id": 136661,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2754073413,
   "lati": 49.9914392533,
-  "FullNameUA": "вулиця Уманська, 5"
+  "FullNameUA": "вулиця Уманська, 5",
+  "ChildsIds": []
  },
  {
   "id": 136662,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2757520947,
   "lati": 49.9912499634,
-  "FullNameUA": "вулиця Уманська, 6"
+  "FullNameUA": "вулиця Уманська, 6",
+  "ChildsIds": []
  },
  {
   "id": 136663,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2755703308,
   "lati": 49.9914879412,
-  "FullNameUA": "вулиця Уманська, 7"
+  "FullNameUA": "вулиця Уманська, 7",
+  "ChildsIds": []
  },
  {
   "id": 136664,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276213094300005,
-  "lati": 49.991371085400004,
-  "FullNameUA": "вулиця Уманська, 8"
+  "longt": 36.2762130943,
+  "lati": 49.9913710854,
+  "FullNameUA": "вулиця Уманська, 8",
+  "ChildsIds": []
  },
  {
   "id": 136665,
@@ -222,32 +230,8 @@
   "reg_date": "",
   "longt": 36.2758224816,
   "lati": 49.9915755676,
-  "FullNameUA": "вулиця Уманська, 9"
- },
- {
-  "id": 136666,
-  "postcode": 61068,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 4199,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.276623731300006,
-  "lati": 49.9915086159,
-  "FullNameUA": "вулиця Уманська, 10"
+  "FullNameUA": "вулиця Уманська, 9",
+  "ChildsIds": []
  },
  {
   "id": 136667,
@@ -270,9 +254,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276929212400006,
+  "longt": 36.2769292124,
   "lati": 49.9914868278,
-  "FullNameUA": "вулиця Уманська, 10-А"
+  "FullNameUA": "вулиця Уманська, 10-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136666,
+  "postcode": 61068,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4199,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2766237313,
+  "lati": 49.9915086159,
+  "FullNameUA": "вулиця Уманська, 10",
+  "ChildsIds": []
  },
  {
   "id": 136668,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276156475300006,
+  "longt": 36.2761564753,
   "lati": 49.9916693562,
-  "FullNameUA": "вулиця Уманська, 11"
+  "FullNameUA": "вулиця Уманська, 11",
+  "ChildsIds": []
  },
  {
   "id": 136669,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277079784600005,
-  "lati": 49.991670515500005,
-  "FullNameUA": "вулиця Уманська, 12"
+  "longt": 36.2770797846,
+  "lati": 49.9916705155,
+  "FullNameUA": "вулиця Уманська, 12",
+  "ChildsIds": []
  },
  {
   "id": 136670,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2763777607,
-  "lati": 49.991731140300004,
-  "FullNameUA": "вулиця Уманська, 13"
+  "lati": 49.9917311403,
+  "FullNameUA": "вулиця Уманська, 13",
+  "ChildsIds": []
  },
  {
   "id": 136671,
@@ -370,34 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277452030400006,
+  "longt": 36.2774520304,
   "lati": 49.9915974778,
-  "FullNameUA": "вулиця Уманська, 14"
- },
- {
-  "id": 136673,
-  "postcode": 61068,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4199,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.276623392000005,
-  "lati": 49.9918137508,
-  "FullNameUA": "вулиця Уманська, 15-А"
+  "FullNameUA": "вулиця Уманська, 14",
+  "ChildsIds": []
  },
  {
   "id": 136672,
@@ -420,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276771084800004,
-  "lati": 49.991854966800005,
-  "FullNameUA": "вулиця Уманська, 15"
+  "longt": 36.2767710848,
+  "lati": 49.9918549668,
+  "FullNameUA": "вулиця Уманська, 15",
+  "ChildsIds": []
  },
  {
   "id": 136674,
@@ -445,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277618712400006,
+  "longt": 36.2776187124,
   "lati": 49.9918423963,
-  "FullNameUA": "вулиця Уманська, 16"
+  "FullNameUA": "вулиця Уманська, 16",
+  "ChildsIds": []
  },
  {
   "id": 136675,
@@ -472,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2774670636,
   "lati": 49.9917895175,
-  "FullNameUA": "вулиця Уманська, 16-А"
+  "FullNameUA": "вулиця Уманська, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 136676,
@@ -497,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2769093614,
   "lati": 49.9918926181,
-  "FullNameUA": "вулиця Уманська, 17"
+  "FullNameUA": "вулиця Уманська, 17",
+  "ChildsIds": []
  },
  {
   "id": 136677,
@@ -522,6 +516,7 @@
   "reg_date": "",
   "longt": 36.2772146216,
   "lati": 49.9920099773,
-  "FullNameUA": "вулиця Уманська, 17-А"
+  "FullNameUA": "вулиця Уманська, 17-А",
+  "ChildsIds": []
  }
 ]

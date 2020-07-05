@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2742010436,
   "lati": 49.9886462795,
-  "FullNameUA": "вулиця Металіста, 2"
+  "FullNameUA": "вулиця Металіста, 2",
+  "ChildsIds": []
  },
  {
   "id": 134452,
@@ -45,9 +46,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2711904442,
-  "lati": 49.9901236071,
-  "FullNameUA": "вулиця Металіста, 5"
+  "longt": 36.2711874639,
+  "lati": 49.9898789279,
+  "FullNameUA": "вулиця Металіста, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 182908,
+  "postcode": 61001,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3243,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2711824697,
+  "lati": 49.990131532,
+  "FullNameUA": "вулиця Металіста, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 134453,
@@ -71,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2737926283,
-  "lati": 49.988958962800005,
-  "FullNameUA": "вулиця Металіста, 6"
+  "lati": 49.9889589628,
+  "FullNameUA": "вулиця Металіста, 6",
+  "ChildsIds": []
  },
  {
   "id": 134454,
@@ -95,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271986052500004,
+  "longt": 36.2719860525,
   "lati": 49.9904047914,
-  "FullNameUA": "вулиця Металіста, 8"
+  "FullNameUA": "вулиця Металіста, 8",
+  "ChildsIds": []
  },
  {
   "id": 134455,
@@ -122,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2709558684,
   "lati": 49.9909045491,
-  "FullNameUA": "вулиця Металіста, 10"
+  "FullNameUA": "вулиця Металіста, 10",
+  "ChildsIds": []
  },
  {
   "id": 134456,
@@ -147,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2704150621,
   "lati": 49.9918972382,
-  "FullNameUA": "вулиця Металіста, 12"
+  "FullNameUA": "вулиця Металіста, 12",
+  "ChildsIds": []
  },
  {
   "id": 134457,
@@ -170,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27704830810001,
+  "longt": 36.2770483081,
   "lati": 49.9892990542,
-  "FullNameUA": "вулиця Металіста, 24-А"
+  "FullNameUA": "вулиця Металіста, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 134458,
@@ -197,6 +230,7 @@
   "reg_date": "",
   "longt": 36.2776837286,
   "lati": 49.9896990594,
-  "FullNameUA": "вулиця Металіста, 30"
+  "FullNameUA": "вулиця Металіста, 30",
+  "ChildsIds": []
  }
 ]

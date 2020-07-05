@@ -1,30 +1,5 @@
 [
  {
-  "id": 136290,
-  "postcode": 61054,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3242634085,
-  "lati": 50.0093144905,
-  "FullNameUA": "вулиця Владислава Зубенка, 4-А"
- },
- {
   "id": 136289,
   "postcode": 61054,
   "number": 4,
@@ -47,7 +22,60 @@
   "reg_date": "",
   "longt": 36.3249935914,
   "lati": 50.0097667778,
-  "FullNameUA": "вулиця Владислава Зубенка, 4"
+  "FullNameUA": "вулиця Владислава Зубенка, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 136290,
+  "postcode": 61054,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3242634085,
+  "lati": 50.0093144905,
+  "FullNameUA": "вулиця Владислава Зубенка, 4-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 128687,
+  "postcode": 61054,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3176673677,
+  "lati": 50.0136717316,
+  "FullNameUA": "вулиця Владислава Зубенка, 5",
+  "ChildsIds": []
  },
  {
   "id": 128688,
@@ -72,32 +100,8 @@
   "reg_date": "",
   "longt": 36.3133027849,
   "lati": 50.0134756701,
-  "FullNameUA": "вулиця Владислава Зубенка, 5-А"
- },
- {
-  "id": 128687,
-  "postcode": 61054,
-  "number": 5,
-  "suffix": "",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.317667367700004,
-  "lati": 50.0136717316,
-  "FullNameUA": "вулиця Владислава Зубенка, 5"
+  "FullNameUA": "вулиця Владислава Зубенка, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 128690,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3101713423,
   "lati": 50.0134399268,
-  "FullNameUA": "вулиця Владислава Зубенка, 7-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 128689,
@@ -146,33 +151,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3116660318,
-  "lati": 50.014766742999996,
-  "FullNameUA": "вулиця Владислава Зубенка, 7"
- },
- {
-  "id": 128692,
-  "postcode": 61054,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30830286090001,
-  "lati": 50.013457203099996,
-  "FullNameUA": "вулиця Владислава Зубенка, 9-А"
+  "lati": 50.014766743,
+  "FullNameUA": "вулиця Владислава Зубенка, 7",
+  "ChildsIds": []
  },
  {
   "id": 128691,
@@ -195,9 +176,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318351135300006,
+  "longt": 36.3183511353,
   "lati": 50.0126802769,
-  "FullNameUA": "вулиця Владислава Зубенка, 9"
+  "FullNameUA": "вулиця Владислава Зубенка, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 128692,
+  "postcode": 61054,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3083028609,
+  "lati": 50.0134572031,
+  "FullNameUA": "вулиця Владислава Зубенка, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 128693,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3063214366,
   "lati": 50.0133907189,
-  "FullNameUA": "вулиця Владислава Зубенка, 11-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 128694,
@@ -245,34 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306938435700005,
+  "longt": 36.3069384357,
   "lati": 50.013924681,
-  "FullNameUA": "вулиця Владислава Зубенка, 11-Б"
- },
- {
-  "id": 136292,
-  "postcode": 61170,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3267573067,
-  "lati": 50.011841022,
-  "FullNameUA": "вулиця Владислава Зубенка, 15-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 136291,
@@ -297,7 +282,34 @@
   "reg_date": "",
   "longt": 36.326009178,
   "lati": 50.0115323377,
-  "FullNameUA": "вулиця Владислава Зубенка, 15"
+  "FullNameUA": "вулиця Владислава Зубенка, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 136292,
+  "postcode": 61170,
+  "number": 15,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3267573067,
+  "lati": 50.011841022,
+  "FullNameUA": "вулиця Владислава Зубенка, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 136295,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3285256446,
   "lati": 50.0115671381,
-  "FullNameUA": "вулиця Владислава Зубенка, 17-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 17-Б",
+  "ChildsIds": []
  },
  {
   "id": 136293,
@@ -347,32 +360,8 @@
   "reg_date": "",
   "longt": 36.3270751828,
   "lati": 50.0107877398,
-  "FullNameUA": "вулиця Владислава Зубенка, 17"
- },
- {
-  "id": 136296,
-  "postcode": 61170,
-  "number": 17,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3287397552,
-  "lati": 50.012209669499995,
-  "FullNameUA": "вулиця Владислава Зубенка, 17-В"
+  "FullNameUA": "вулиця Владислава Зубенка, 17",
+  "ChildsIds": []
  },
  {
   "id": 136294,
@@ -397,7 +386,34 @@
   "reg_date": "",
   "longt": 36.3273454321,
   "lati": 50.0115357396,
-  "FullNameUA": "вулиця Владислава Зубенка, 17-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 17-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136296,
+  "postcode": 61170,
+  "number": 17,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3287397552,
+  "lati": 50.0122096695,
+  "FullNameUA": "вулиця Владислава Зубенка, 17-В",
+  "ChildsIds": []
  },
  {
   "id": 136297,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3287260972,
   "lati": 50.0107816816,
-  "FullNameUA": "вулиця Владислава Зубенка, 19"
+  "FullNameUA": "вулиця Владислава Зубенка, 19",
+  "ChildsIds": []
  },
  {
   "id": 136298,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3296166101,
   "lati": 50.0099783013,
-  "FullNameUA": "вулиця Владислава Зубенка, 21"
+  "FullNameUA": "вулиця Владислава Зубенка, 21",
+  "ChildsIds": []
  },
  {
   "id": 136299,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3304389016,
   "lati": 50.010852018,
-  "FullNameUA": "вулиця Владислава Зубенка, 21-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 136301,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3319459932,
   "lati": 50.0104557409,
-  "FullNameUA": "вулиця Владислава Зубенка, 23-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 136300,
@@ -521,33 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3308817162,
-  "lati": 50.010106660699996,
-  "FullNameUA": "вулиця Владислава Зубенка, 23"
- },
- {
-  "id": 136303,
-  "postcode": 61170,
-  "number": 25,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.332655167999995,
-  "lati": 50.0098356063,
-  "FullNameUA": "вулиця Владислава Зубенка, 25-А"
+  "lati": 50.0101066607,
+  "FullNameUA": "вулиця Владислава Зубенка, 23",
+  "ChildsIds": []
  },
  {
   "id": 136302,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.3317928563,
   "lati": 50.0093126759,
-  "FullNameUA": "вулиця Владислава Зубенка, 25"
+  "FullNameUA": "вулиця Владислава Зубенка, 25",
+  "ChildsIds": []
+ },
+ {
+  "id": 136303,
+  "postcode": 61170,
+  "number": 25,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.332655168,
+  "lati": 50.0098356063,
+  "FullNameUA": "вулиця Владислава Зубенка, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 136304,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.3331304268,
   "lati": 50.0092153454,
-  "FullNameUA": "вулиця Владислава Зубенка, 27"
+  "FullNameUA": "вулиця Владислава Зубенка, 27",
+  "ChildsIds": []
  },
  {
   "id": 136305,
@@ -622,13 +646,14 @@
   "reg_date": "",
   "longt": 36.3359801564,
   "lati": 50.006272928,
-  "FullNameUA": "вулиця Владислава Зубенка, 28/1"
+  "FullNameUA": "вулиця Владислава Зубенка, 28/1",
+  "ChildsIds": []
  },
  {
-  "id": 136306,
+  "id": 136311,
   "postcode": 61121,
   "number": 29,
-  "suffix": "",
+  "suffix": "Д",
   "block": "",
   "streetid": 4113,
   "status_id": 1,
@@ -645,59 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346427785900005,
-  "lati": 50.0056513616,
-  "FullNameUA": "вулиця Владислава Зубенка, 29"
- },
- {
-  "id": 136307,
-  "postcode": 61121,
-  "number": 29,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.346281764400004,
-  "lati": 50.0048477989,
-  "FullNameUA": "вулиця Владислава Зубенка, 29-А"
- },
- {
-  "id": 136309,
-  "postcode": 61121,
-  "number": 29,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.348118996800004,
-  "lati": 50.003980025,
-  "FullNameUA": "вулиця Владислава Зубенка, 29-В"
+  "longt": 36.3481266388,
+  "lati": 50.0046220484,
+  "FullNameUA": "вулиця Владислава Зубенка, 29-Д",
+  "ChildsIds": []
  },
  {
   "id": 136310,
@@ -722,32 +698,8 @@
   "reg_date": "",
   "longt": 36.3487455709,
   "lati": 50.0033549255,
-  "FullNameUA": "вулиця Владислава Зубенка, 29-Г"
- },
- {
-  "id": 136311,
-  "postcode": 61121,
-  "number": 29,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.348126638800004,
-  "lati": 50.0046220484,
-  "FullNameUA": "вулиця Владислава Зубенка, 29-Д"
+  "FullNameUA": "вулиця Владислава Зубенка, 29-Г",
+  "ChildsIds": []
  },
  {
   "id": 136308,
@@ -772,12 +724,13 @@
   "reg_date": "",
   "longt": 36.3470653253,
   "lati": 50.0042365122,
-  "FullNameUA": "вулиця Владислава Зубенка, 29-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 29-Б",
+  "ChildsIds": []
  },
  {
-  "id": 136313,
+  "id": 136307,
   "postcode": 61121,
-  "number": 31,
+  "number": 29,
   "suffix": "А",
   "block": "",
   "streetid": 4113,
@@ -793,11 +746,64 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.3536535284,
-  "lati": 50.0017990468,
-  "FullNameUA": "вулиця Владислава Зубенка, 31-А"
+  "longt": 36.3462817644,
+  "lati": 50.0048477989,
+  "FullNameUA": "вулиця Владислава Зубенка, 29-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136306,
+  "postcode": 61121,
+  "number": 29,
+  "suffix": "",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3464277859,
+  "lati": 50.0056513616,
+  "FullNameUA": "вулиця Владислава Зубенка, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 136309,
+  "postcode": 61121,
+  "number": 29,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3481189968,
+  "lati": 50.003980025,
+  "FullNameUA": "вулиця Владислава Зубенка, 29-В",
+  "ChildsIds": []
  },
  {
   "id": 136312,
@@ -822,7 +828,34 @@
   "reg_date": "",
   "longt": 36.3521536191,
   "lati": 50.0023400043,
-  "FullNameUA": "вулиця Владислава Зубенка, 31"
+  "FullNameUA": "вулиця Владислава Зубенка, 31",
+  "ChildsIds": []
+ },
+ {
+  "id": 136313,
+  "postcode": 61121,
+  "number": 31,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3536535284,
+  "lati": 50.0017990468,
+  "FullNameUA": "вулиця Владислава Зубенка, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 136314,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334831478299996,
+  "longt": 36.3348314783,
   "lati": 50.0055343333,
-  "FullNameUA": "вулиця Владислава Зубенка, 32"
+  "FullNameUA": "вулиця Владислава Зубенка, 32",
+  "ChildsIds": []
  },
  {
   "id": 136315,
@@ -872,32 +906,8 @@
   "reg_date": "",
   "longt": 36.3540858193,
   "lati": 50.0022536242,
-  "FullNameUA": "вулиця Владислава Зубенка, 33"
- },
- {
-  "id": 136317,
-  "postcode": 61121,
-  "number": 33,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3546757526,
-  "lati": 50.0033261064,
-  "FullNameUA": "вулиця Владислава Зубенка, 33-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 33",
+  "ChildsIds": []
  },
  {
   "id": 136316,
@@ -922,13 +932,14 @@
   "reg_date": "",
   "longt": 36.3543740384,
   "lati": 50.0027800877,
-  "FullNameUA": "вулиця Владислава Зубенка, 33-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 33-А",
+  "ChildsIds": []
  },
  {
-  "id": 136318,
-  "postcode": 61120,
-  "number": 34,
-  "suffix": "",
+  "id": 136317,
+  "postcode": 61121,
+  "number": 33,
+  "suffix": "Б",
   "block": "",
   "streetid": 4113,
   "status_id": 1,
@@ -945,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3374231582,
-  "lati": 50.0056720324,
-  "FullNameUA": "вулиця Владислава Зубенка, 34"
+  "longt": 36.3546757526,
+  "lati": 50.0033261064,
+  "FullNameUA": "вулиця Владислава Зубенка, 33-Б",
+  "ChildsIds": []
  },
  {
   "id": 136321,
@@ -972,7 +984,34 @@
   "reg_date": "",
   "longt": 36.33661137,
   "lati": 50.0043562533,
-  "FullNameUA": "вулиця Владислава Зубенка, 34-В"
+  "FullNameUA": "вулиця Владислава Зубенка, 34-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 136318,
+  "postcode": 61120,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3374231582,
+  "lati": 50.0056720324,
+  "FullNameUA": "вулиця Владислава Зубенка, 34",
+  "ChildsIds": []
  },
  {
   "id": 136320,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.3374875093,
   "lati": 50.0048351776,
-  "FullNameUA": "вулиця Владислава Зубенка, 34-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 34-Б",
+  "ChildsIds": []
  },
  {
   "id": 136319,
@@ -1020,9 +1060,114 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.336111473399995,
+  "longt": 36.3361114734,
   "lati": 50.0051387855,
-  "FullNameUA": "вулиця Владислава Зубенка, 34-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 34-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136324,
+  "postcode": 61121,
+  "number": 35,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3559479128,
+  "lati": 50.0027140831,
+  "FullNameUA": "вулиця Владислава Зубенка, 35-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 136326,
+  "postcode": 61121,
+  "number": 35,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Московської райради № 105, 06.05.1997",
+  "reg_date": "",
+  "longt": 36.3561868502,
+  "lati": 50.0010823378,
+  "FullNameUA": "вулиця Владислава Зубенка, 35-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 136325,
+  "postcode": 61121,
+  "number": 35,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3562036954,
+  "lati": 50.0032361265,
+  "FullNameUA": "вулиця Владислава Зубенка, 35-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 136323,
+  "postcode": 61121,
+  "number": 35,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3556715998,
+  "lati": 50.0021989362,
+  "FullNameUA": "вулиця Владислава Зубенка, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 136322,
@@ -1047,82 +1192,8 @@
   "reg_date": "",
   "longt": 36.3554488072,
   "lati": 50.0016762028,
-  "FullNameUA": "вулиця Владислава Зубенка, 35"
- },
- {
-  "id": 136323,
-  "postcode": 61121,
-  "number": 35,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.355671599800004,
-  "lati": 50.0021989362,
-  "FullNameUA": "вулиця Владислава Зубенка, 35-А"
- },
- {
-  "id": 136324,
-  "postcode": 61121,
-  "number": 35,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.355947912800005,
-  "lati": 50.0027140831,
-  "FullNameUA": "вулиця Владислава Зубенка, 35-Б"
- },
- {
-  "id": 136326,
-  "postcode": 61121,
-  "number": 35,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Московської райради № 105, 06.05.1997",
-  "reg_date": "",
-  "longt": 36.356186850200004,
-  "lati": 50.0010823378,
-  "FullNameUA": "вулиця Владислава Зубенка, 35-Г"
+  "FullNameUA": "вулиця Владислава Зубенка, 35",
+  "ChildsIds": []
  },
  {
   "id": 136327,
@@ -1147,57 +1218,8 @@
   "reg_date": "",
   "longt": 36.3567325193,
   "lati": 50.0034370405,
-  "FullNameUA": "вулиця Владислава Зубенка, 35-Д"
- },
- {
-  "id": 136325,
-  "postcode": 61121,
-  "number": 35,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.356203695400005,
-  "lati": 50.0032361265,
-  "FullNameUA": "вулиця Владислава Зубенка, 35-В"
- },
- {
-  "id": 136329,
-  "postcode": 61120,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.338677725299995,
-  "lati": 50.0047813153,
-  "FullNameUA": "вулиця Владислава Зубенка, 36-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 35-Д",
+  "ChildsIds": []
  },
  {
   "id": 136328,
@@ -1222,7 +1244,34 @@
   "reg_date": "",
   "longt": 36.3390198858,
   "lati": 50.0054817687,
-  "FullNameUA": "вулиця Владислава Зубенка, 36"
+  "FullNameUA": "вулиця Владислава Зубенка, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 136329,
+  "postcode": 61120,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3386777253,
+  "lati": 50.0047813153,
+  "FullNameUA": "вулиця Владислава Зубенка, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 136331,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.3571255824,
   "lati": 50.0029410629,
-  "FullNameUA": "вулиця Владислава Зубенка, 37-Е"
+  "FullNameUA": "вулиця Владислава Зубенка, 37-Е",
+  "ChildsIds": []
  },
  {
   "id": 136330,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.358280946,
   "lati": 50.0032193767,
-  "FullNameUA": "вулиця Владислава Зубенка, 37"
+  "FullNameUA": "вулиця Владислава Зубенка, 37",
+  "ChildsIds": []
  },
  {
   "id": 136332,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.3398273741,
   "lati": 50.0052382916,
-  "FullNameUA": "вулиця Владислава Зубенка, 38"
+  "FullNameUA": "вулиця Владислава Зубенка, 38",
+  "ChildsIds": []
  },
  {
   "id": 136334,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3607211603,
   "lati": 50.0038611653,
-  "FullNameUA": "вулиця Владислава Зубенка, 39-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 136333,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.3616718941,
   "lati": 50.0031767097,
-  "FullNameUA": "вулиця Владислава Зубенка, 39"
+  "FullNameUA": "вулиця Владислава Зубенка, 39",
+  "ChildsIds": []
  },
  {
   "id": 136336,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3396771431,
   "lati": 50.0046445189,
-  "FullNameUA": "вулиця Владислава Зубенка, 40-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 136335,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.340625384300004,
+  "longt": 36.3406253843,
   "lati": 50.0049916853,
-  "FullNameUA": "вулиця Владислава Зубенка, 40"
+  "FullNameUA": "вулиця Владислава Зубенка, 40",
+  "ChildsIds": []
  },
  {
   "id": 136337,
@@ -1422,32 +1478,8 @@
   "reg_date": "",
   "longt": 36.3614921594,
   "lati": 50.0039262919,
-  "FullNameUA": "вулиця Владислава Зубенка, 41"
- },
- {
-  "id": 136339,
-  "postcode": 61118,
-  "number": 44,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.344346436600006,
-  "lati": 50.0027707162,
-  "FullNameUA": "вулиця Владислава Зубенка, 44-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 41",
+  "ChildsIds": []
  },
  {
   "id": 136338,
@@ -1470,9 +1502,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344219570300005,
+  "longt": 36.3442195703,
   "lati": 50.0033398376,
-  "FullNameUA": "вулиця Владислава Зубенка, 44"
+  "FullNameUA": "вулиця Владислава Зубенка, 44",
+  "ChildsIds": []
+ },
+ {
+  "id": 136339,
+  "postcode": 61118,
+  "number": 44,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3443464366,
+  "lati": 50.0027707162,
+  "FullNameUA": "вулиця Владислава Зубенка, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 136340,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345416578700004,
+  "longt": 36.3454165787,
   "lati": 50.0030829565,
-  "FullNameUA": "вулиця Владислава Зубенка, 46"
+  "FullNameUA": "вулиця Владислава Зубенка, 46",
+  "ChildsIds": []
  },
  {
   "id": 136341,
@@ -1520,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346462755500006,
+  "longt": 36.3464627555,
   "lati": 50.0026478107,
-  "FullNameUA": "вулиця Владислава Зубенка, 48"
+  "FullNameUA": "вулиця Владислава Зубенка, 48",
+  "ChildsIds": []
  },
  {
   "id": 136343,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.347351431700005,
+  "longt": 36.3473514317,
   "lati": 50.0006206018,
-  "FullNameUA": "вулиця Владислава Зубенка, 50-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 136342,
@@ -1572,32 +1634,8 @@
   "reg_date": "",
   "longt": 36.3475204124,
   "lati": 50.0010073505,
-  "FullNameUA": "вулиця Владислава Зубенка, 50"
- },
- {
-  "id": 136345,
-  "postcode": 61118,
-  "number": 52,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.348400890200004,
-  "lati": 50.0006324963,
-  "FullNameUA": "вулиця Владислава Зубенка, 52-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 50",
+  "ChildsIds": []
  },
  {
   "id": 136344,
@@ -1620,9 +1658,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348402125700005,
+  "longt": 36.3484021257,
   "lati": 50.0013743079,
-  "FullNameUA": "вулиця Владислава Зубенка, 52"
+  "FullNameUA": "вулиця Владислава Зубенка, 52",
+  "ChildsIds": []
+ },
+ {
+  "id": 136345,
+  "postcode": 61118,
+  "number": 52,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3484008902,
+  "lati": 50.0006324963,
+  "FullNameUA": "вулиця Владислава Зубенка, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 136346,
@@ -1645,9 +1710,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349565756800004,
+  "longt": 36.3495657568,
   "lati": 50.0010511169,
-  "FullNameUA": "вулиця Владислава Зубенка, 54"
+  "FullNameUA": "вулиця Владислава Зубенка, 54",
+  "ChildsIds": []
+ },
+ {
+  "id": 136348,
+  "postcode": 61118,
+  "number": 54,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3507831352,
+  "lati": 50.0002486153,
+  "FullNameUA": "вулиця Владислава Зубенка, 54-Б",
+  "ChildsIds": []
  },
  {
   "id": 136347,
@@ -1672,32 +1764,8 @@
   "reg_date": "",
   "longt": 36.3511321323,
   "lati": 50.0007654335,
-  "FullNameUA": "вулиця Владислава Зубенка, 54-А"
- },
- {
-  "id": 136348,
-  "postcode": 61118,
-  "number": 54,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.350783135200004,
-  "lati": 50.0002486153,
-  "FullNameUA": "вулиця Владислава Зубенка, 54-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 177818,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.3535618016,
   "lati": 50.000273515,
-  "FullNameUA": "вулиця Владислава Зубенка, 56/13А"
+  "FullNameUA": "вулиця Владислава Зубенка, 56/13А",
+  "ChildsIds": []
  },
  {
   "id": 136349,
@@ -1746,8 +1815,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3526980599,
-  "lati": 49.999988549600005,
-  "FullNameUA": "вулиця Владислава Зубенка, 56/13"
+  "lati": 49.9999885496,
+  "FullNameUA": "вулиця Владислава Зубенка, 56/13",
+  "ChildsIds": []
  },
  {
   "id": 136350,
@@ -1770,9 +1840,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.353894025100004,
-  "lati": 49.999859016500004,
-  "FullNameUA": "вулиця Владислава Зубенка, 58"
+  "longt": 36.3538940251,
+  "lati": 49.9998590165,
+  "FullNameUA": "вулиця Владислава Зубенка, 58",
+  "ChildsIds": []
+ },
+ {
+  "id": 136351,
+  "postcode": 61111,
+  "number": 58,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3571170081,
+  "lati": 49.9988070704,
+  "FullNameUA": "вулиця Владислава Зубенка, 58-А",
+  "ChildsIds": []
  },
  {
   "id": 136352,
@@ -1797,32 +1894,8 @@
   "reg_date": "",
   "longt": 36.3627943018,
   "lati": 49.9970416784,
-  "FullNameUA": "вулиця Владислава Зубенка, 58-Г"
- },
- {
-  "id": 136351,
-  "postcode": 61111,
-  "number": 58,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.357117008100005,
-  "lati": 49.998807070400005,
-  "FullNameUA": "вулиця Владислава Зубенка, 58-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 58-Г",
+  "ChildsIds": []
  },
  {
   "id": 136353,
@@ -1845,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.358862715200004,
+  "longt": 36.3588627152,
   "lati": 49.9970187703,
-  "FullNameUA": "вулиця Владислава Зубенка, 60-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 136355,
@@ -1872,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.3606585403,
   "lati": 49.9971603196,
-  "FullNameUA": "вулиця Владислава Зубенка, 62/1"
+  "FullNameUA": "вулиця Владислава Зубенка, 62/1",
+  "ChildsIds": []
  },
  {
   "id": 136354,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.3620506231,
   "lati": 49.9964947335,
-  "FullNameUA": "вулиця Владислава Зубенка, 62"
+  "FullNameUA": "вулиця Владислава Зубенка, 62",
+  "ChildsIds": []
  },
  {
   "id": 136356,
@@ -1922,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.3620229709,
   "lati": 49.9960313399,
-  "FullNameUA": "вулиця Владислава Зубенка, 64"
+  "FullNameUA": "вулиця Владислава Зубенка, 64",
+  "ChildsIds": []
  },
  {
   "id": 136357,
@@ -1947,32 +2024,8 @@
   "reg_date": "",
   "longt": 36.3627230298,
   "lati": 49.9961546349,
-  "FullNameUA": "вулиця Владислава Зубенка, 66"
- },
- {
-  "id": 136359,
-  "postcode": 61111,
-  "number": 68,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3601911041,
-  "lati": 49.9974811724,
-  "FullNameUA": "вулиця Владислава Зубенка, 68-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 66",
+  "ChildsIds": []
  },
  {
   "id": 136358,
@@ -1997,7 +2050,34 @@
   "reg_date": "",
   "longt": 36.3628169041,
   "lati": 49.9956422211,
-  "FullNameUA": "вулиця Владислава Зубенка, 68"
+  "FullNameUA": "вулиця Владислава Зубенка, 68",
+  "ChildsIds": []
+ },
+ {
+  "id": 136359,
+  "postcode": 61111,
+  "number": 68,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3601911041,
+  "lati": 49.9974811724,
+  "FullNameUA": "вулиця Владислава Зубенка, 68-Б",
+  "ChildsIds": []
  },
  {
   "id": 136360,
@@ -2022,57 +2102,8 @@
   "reg_date": "",
   "longt": 36.364297278,
   "lati": 49.9955367494,
-  "FullNameUA": "вулиця Владислава Зубенка, 70"
- },
- {
-  "id": 136362,
-  "postcode": 61111,
-  "number": 72,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3625831686,
-  "lati": 49.9950892197,
-  "FullNameUA": "вулиця Владислава Зубенка, 72-А"
- },
- {
-  "id": 136363,
-  "postcode": 61111,
-  "number": 72,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4113,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3605886094,
-  "lati": 49.995924175,
-  "FullNameUA": "вулиця Владислава Зубенка, 72-Б"
+  "FullNameUA": "вулиця Владислава Зубенка, 70",
+  "ChildsIds": []
  },
  {
   "id": 136364,
@@ -2096,8 +2127,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3645829906,
-  "lati": 49.994486937400005,
-  "FullNameUA": "вулиця Владислава Зубенка, 72-В"
+  "lati": 49.9944869374,
+  "FullNameUA": "вулиця Владислава Зубенка, 72-В",
+  "ChildsIds": []
  },
  {
   "id": 136361,
@@ -2122,7 +2154,60 @@
   "reg_date": "",
   "longt": 36.3639804727,
   "lati": 49.9949741865,
-  "FullNameUA": "вулиця Владислава Зубенка, 72"
+  "FullNameUA": "вулиця Владислава Зубенка, 72",
+  "ChildsIds": []
+ },
+ {
+  "id": 136362,
+  "postcode": 61111,
+  "number": 72,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3625831686,
+  "lati": 49.9950892197,
+  "FullNameUA": "вулиця Владислава Зубенка, 72-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136363,
+  "postcode": 61111,
+  "number": 72,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4113,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3605886094,
+  "lati": 49.995924175,
+  "FullNameUA": "вулиця Владислава Зубенка, 72-Б",
+  "ChildsIds": []
  },
  {
   "id": 136365,
@@ -2145,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.365455889799996,
-  "lati": 49.994863524500005,
-  "FullNameUA": "вулиця Владислава Зубенка, 74"
+  "longt": 36.3654558898,
+  "lati": 49.9948635245,
+  "FullNameUA": "вулиця Владислава Зубенка, 74",
+  "ChildsIds": []
  },
  {
   "id": 136366,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.3650724846,
   "lati": 49.9942950071,
-  "FullNameUA": "вулиця Владислава Зубенка, 76"
+  "FullNameUA": "вулиця Владислава Зубенка, 76",
+  "ChildsIds": []
  },
  {
   "id": 136367,
@@ -2197,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.3636713689,
   "lati": 49.9944077854,
-  "FullNameUA": "вулиця Владислава Зубенка, 76-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 76-А",
+  "ChildsIds": []
  },
  {
   "id": 136368,
@@ -2222,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.366553921,
   "lati": 49.9941850008,
-  "FullNameUA": "вулиця Владислава Зубенка, 78"
+  "FullNameUA": "вулиця Владислава Зубенка, 78",
+  "ChildsIds": []
  },
  {
   "id": 136370,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.3647643898,
   "lati": 49.9937314646,
-  "FullNameUA": "вулиця Владислава Зубенка, 80-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 80-А",
+  "ChildsIds": []
  },
  {
   "id": 136369,
@@ -2271,8 +2361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3661654202,
-  "lati": 49.993616420100004,
-  "FullNameUA": "вулиця Владислава Зубенка, 80"
+  "lati": 49.9936164201,
+  "FullNameUA": "вулиця Владислава Зубенка, 80",
+  "ChildsIds": []
  },
  {
   "id": 136372,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.3672900546,
   "lati": 49.9933917611,
-  "FullNameUA": "вулиця Владислава Зубенка, 82-А"
+  "FullNameUA": "вулиця Владислава Зубенка, 82-А",
+  "ChildsIds": []
  },
  {
   "id": 136371,
@@ -2322,6 +2414,7 @@
   "reg_date": "",
   "longt": 36.3676163565,
   "lati": 49.9936197724,
-  "FullNameUA": "вулиця Владислава Зубенка, 82"
+  "FullNameUA": "вулиця Владислава Зубенка, 82",
+  "ChildsIds": []
  }
 ]

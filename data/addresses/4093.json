@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1702809439,
   "lati": 50.0062979169,
-  "FullNameUA": "вулиця Ташкентська, 1"
+  "FullNameUA": "вулиця Ташкентська, 1",
+  "ChildsIds": []
  },
  {
   "id": 145191,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1704608474,
   "lati": 50.0064584757,
-  "FullNameUA": "вулиця Ташкентська, 1-А"
+  "FullNameUA": "вулиця Ташкентська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 145192,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1697752063,
   "lati": 50.0062490975,
-  "FullNameUA": "вулиця Ташкентська, 2"
+  "FullNameUA": "вулиця Ташкентська, 2",
+  "ChildsIds": []
  },
  {
   "id": 145193,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1702289862,
   "lati": 50.0060836237,
-  "FullNameUA": "вулиця Ташкентська, 3"
+  "FullNameUA": "вулиця Ташкентська, 3",
+  "ChildsIds": []
  },
  {
   "id": 145194,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.169679896800005,
+  "longt": 36.1696798968,
   "lati": 50.0061248202,
-  "FullNameUA": "вулиця Ташкентська, 4"
+  "FullNameUA": "вулиця Ташкентська, 4",
+  "ChildsIds": []
  },
  {
   "id": 145195,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1700399181,
   "lati": 50.0058881091,
-  "FullNameUA": "вулиця Ташкентська, 5"
+  "FullNameUA": "вулиця Ташкентська, 5",
+  "ChildsIds": []
  },
  {
   "id": 145196,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.169265632700004,
+  "longt": 36.1692656327,
   "lati": 50.005666741,
-  "FullNameUA": "вулиця Ташкентська, 6"
+  "FullNameUA": "вулиця Ташкентська, 6",
+  "ChildsIds": []
  },
  {
   "id": 145197,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.169431140300006,
+  "longt": 36.1694311403,
   "lati": 50.0058208485,
-  "FullNameUA": "вулиця Ташкентська, 6-А"
+  "FullNameUA": "вулиця Ташкентська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 177135,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1697652741,
   "lati": 50.0055802968,
-  "FullNameUA": "вулиця Ташкентська, 7"
+  "FullNameUA": "вулиця Ташкентська, 7",
+  "ChildsIds": []
  },
  {
   "id": 145198,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16915624640001,
+  "longt": 36.1691562464,
   "lati": 50.0054359523,
-  "FullNameUA": "вулиця Ташкентська, 8"
+  "FullNameUA": "вулиця Ташкентська, 8",
+  "ChildsIds": []
  },
  {
   "id": 145200,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1689793123,
   "lati": 50.0051175876,
-  "FullNameUA": "вулиця Ташкентська, 10-А"
+  "FullNameUA": "вулиця Ташкентська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 145199,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1689782328,
   "lati": 50.0053126273,
-  "FullNameUA": "вулиця Ташкентська, 10"
+  "FullNameUA": "вулиця Ташкентська, 10",
+  "ChildsIds": []
  },
  {
   "id": 175747,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.1692240145,
   "lati": 50.004816927,
-  "FullNameUA": "вулиця Ташкентська, 11"
+  "FullNameUA": "вулиця Ташкентська, 11",
+  "ChildsIds": []
  },
  {
   "id": 145201,
@@ -347,32 +360,8 @@
   "reg_date": "",
   "longt": 36.1688174729,
   "lati": 50.0049089987,
-  "FullNameUA": "вулиця Ташкентська, 12"
- },
- {
-  "id": 145203,
-  "postcode": 61067,
-  "number": 14,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4093,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.16831276880001,
-  "lati": 50.0045105226,
-  "FullNameUA": "вулиця Ташкентська, 14-А"
+  "FullNameUA": "вулиця Ташкентська, 12",
+  "ChildsIds": []
  },
  {
   "id": 145202,
@@ -395,9 +384,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16861593110001,
+  "longt": 36.1686159311,
   "lati": 50.0045801435,
-  "FullNameUA": "вулиця Ташкентська, 14/16"
+  "FullNameUA": "вулиця Ташкентська, 14/16",
+  "ChildsIds": []
+ },
+ {
+  "id": 145203,
+  "postcode": 61067,
+  "number": 14,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4093,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1683127688,
+  "lati": 50.0045105226,
+  "FullNameUA": "вулиця Ташкентська, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 145204,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1689522452,
   "lati": 50.0044706289,
-  "FullNameUA": "вулиця Ташкентська, 15"
+  "FullNameUA": "вулиця Ташкентська, 15",
+  "ChildsIds": []
  },
  {
   "id": 145205,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.168255949800006,
+  "longt": 36.1682559498,
   "lati": 50.0043319173,
-  "FullNameUA": "вулиця Ташкентська, 18"
+  "FullNameUA": "вулиця Ташкентська, 18",
+  "ChildsIds": []
  },
  {
   "id": 145206,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.167892478800006,
+  "longt": 36.1678924788,
   "lati": 50.0035941146,
-  "FullNameUA": "вулиця Ташкентська, 20"
+  "FullNameUA": "вулиця Ташкентська, 20",
+  "ChildsIds": []
  },
  {
   "id": 145207,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.167775232100006,
+  "longt": 36.1677752321,
   "lati": 50.0034854047,
-  "FullNameUA": "вулиця Ташкентська, 22"
+  "FullNameUA": "вулиця Ташкентська, 22",
+  "ChildsIds": []
  },
  {
   "id": 145208,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1677076841,
   "lati": 50.0033484773,
-  "FullNameUA": "вулиця Ташкентська, 24"
+  "FullNameUA": "вулиця Ташкентська, 24",
+  "ChildsIds": []
  },
  {
   "id": 145209,
@@ -545,9 +566,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.167556384700006,
+  "longt": 36.1675563847,
   "lati": 50.0031694755,
-  "FullNameUA": "вулиця Ташкентська, 26"
+  "FullNameUA": "вулиця Ташкентська, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 182321,
+  "postcode": 61067,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 4093,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310137200:08:018:0009)",
+  "confrm": "",
+  "reg_date": "10.03.2020 16:44:59",
+  "longt": 36.1679833407,
+  "lati": 50.0024767498,
+  "FullNameUA": "вулиця Ташкентська, 27",
+  "ChildsIds": []
  },
  {
   "id": 145210,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16744893680001,
+  "longt": 36.1674489368,
   "lati": 50.0029885599,
-  "FullNameUA": "вулиця Ташкентська, 28"
+  "FullNameUA": "вулиця Ташкентська, 28",
+  "ChildsIds": []
  },
  {
   "id": 145211,
@@ -595,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.167250943300004,
+  "longt": 36.1672509433,
   "lati": 50.0025420263,
-  "FullNameUA": "вулиця Ташкентська, 30"
+  "FullNameUA": "вулиця Ташкентська, 30",
+  "ChildsIds": []
  },
  {
   "id": 175556,
@@ -620,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.167877316500004,
+  "longt": 36.1678773165,
   "lati": 50.0019707897,
-  "FullNameUA": "вулиця Ташкентська, 31"
+  "FullNameUA": "вулиця Ташкентська, 31",
+  "ChildsIds": []
  },
  {
   "id": 145212,
@@ -645,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.167182624300004,
+  "longt": 36.1671826243,
   "lati": 50.0021332783,
-  "FullNameUA": "вулиця Ташкентська, 32"
+  "FullNameUA": "вулиця Ташкентська, 32",
+  "ChildsIds": []
  },
  {
   "id": 145213,
@@ -670,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16730348190001,
+  "longt": 36.1673034819,
   "lati": 50.00195307,
-  "FullNameUA": "вулиця Ташкентська, 34"
+  "FullNameUA": "вулиця Ташкентська, 34",
+  "ChildsIds": []
  },
  {
   "id": 145214,
@@ -697,6 +750,7 @@
   "reg_date": "",
   "longt": 36.1672254288,
   "lati": 50.001785536,
-  "FullNameUA": "вулиця Ташкентська, 36"
+  "FullNameUA": "вулиця Ташкентська, 36",
+  "ChildsIds": []
  }
 ]

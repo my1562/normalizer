@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.266298919499995,
-  "lati": 49.947673087199995,
-  "FullNameUA": "провулок Зерновий, 1"
+  "longt": 36.2662989195,
+  "lati": 49.9476730872,
+  "FullNameUA": "провулок Зерновий, 1",
+  "ChildsIds": []
  },
  {
   "id": 168482,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2654411647,
   "lati": 49.9477543031,
-  "FullNameUA": "провулок Зерновий, 1-А"
+  "FullNameUA": "провулок Зерновий, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 168483,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2668205479,
   "lati": 49.9459230163,
-  "FullNameUA": "провулок Зерновий, 2"
+  "FullNameUA": "провулок Зерновий, 2",
+  "ChildsIds": []
  },
  {
   "id": 168484,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2665632533,
   "lati": 49.9484868708,
-  "FullNameUA": "провулок Зерновий, 3"
+  "FullNameUA": "провулок Зерновий, 3",
+  "ChildsIds": []
  },
  {
   "id": 168485,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2669819196,
-  "lati": 49.946495293299996,
-  "FullNameUA": "провулок Зерновий, 4"
+  "lati": 49.9464952933,
+  "FullNameUA": "провулок Зерновий, 4",
+  "ChildsIds": []
  },
  {
   "id": 168487,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.267118894999996,
-  "lati": 49.947002367799996,
-  "FullNameUA": "провулок Зерновий, 4/2"
+  "longt": 36.267118895,
+  "lati": 49.9470023678,
+  "FullNameUA": "провулок Зерновий, 4/2",
+  "ChildsIds": []
  },
  {
   "id": 168486,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2676353135,
   "lati": 49.9467457633,
-  "FullNameUA": "провулок Зерновий, 4-А"
+  "FullNameUA": "провулок Зерновий, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 168492,
@@ -196,33 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2672388556,
-  "lati": 49.949243294999995,
-  "FullNameUA": "провулок Зерновий, 5-Г"
- },
- {
-  "id": 168489,
-  "postcode": 61124,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2671226351,
-  "lati": 49.949851291799995,
-  "FullNameUA": "провулок Зерновий, 5-А"
+  "lati": 49.949243295,
+  "FullNameUA": "провулок Зерновий, 5-Г",
+  "ChildsIds": []
  },
  {
   "id": 168493,
@@ -247,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2677444366,
   "lati": 49.9496108504,
-  "FullNameUA": "провулок Зерновий, 5/1"
+  "FullNameUA": "провулок Зерновий, 5/1",
+  "ChildsIds": []
  },
  {
   "id": 168491,
@@ -272,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2654287951,
   "lati": 49.9493500292,
-  "FullNameUA": "провулок Зерновий, 5-В"
+  "FullNameUA": "провулок Зерновий, 5-В",
+  "ChildsIds": []
  },
  {
   "id": 168490,
@@ -297,7 +282,34 @@
   "reg_date": "",
   "longt": 36.2662927615,
   "lati": 49.9493631855,
-  "FullNameUA": "провулок Зерновий, 5-Б"
+  "FullNameUA": "провулок Зерновий, 5-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 168489,
+  "postcode": 61124,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2671226351,
+  "lati": 49.9498512918,
+  "FullNameUA": "провулок Зерновий, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 168488,
@@ -320,109 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2675911188,
-  "lati": 49.9482375658,
-  "FullNameUA": "провулок Зерновий, 5"
- },
- {
-  "id": 168499,
-  "postcode": 61105,
-  "number": 6,
-  "suffix": "/6",
-  "block": "",
-  "streetid": 2735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2698020634,
-  "lati": 49.948506265999995,
-  "FullNameUA": "провулок Зерновий, 6/6"
- },
- {
-  "id": 168496,
-  "postcode": 61105,
-  "number": 6,
-  "suffix": "/3",
-  "block": "",
-  "streetid": 2735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2685881582,
-  "lati": 49.9487953401,
-  "FullNameUA": "провулок Зерновий, 6/3"
- },
- {
-  "id": 168497,
-  "postcode": 61105,
-  "number": 6,
-  "suffix": "/4",
-  "block": "",
-  "streetid": 2735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.268986440199996,
-  "lati": 49.9482226446,
-  "FullNameUA": "провулок Зерновий, 6/4"
- },
- {
-  "id": 168498,
-  "postcode": 61105,
-  "number": 6,
-  "suffix": "/5",
-  "block": "",
-  "streetid": 2735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2692698373,
-  "lati": 49.9487973666,
-  "FullNameUA": "провулок Зерновий, 6/5"
+  "longt": 36.2676183983,
+  "lati": 49.9482373018,
+  "FullNameUA": "провулок Зерновий, 5",
+  "ChildsIds": []
  },
  {
   "id": 168494,
@@ -447,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2679105164,
   "lati": 49.9487946036,
-  "FullNameUA": "провулок Зерновий, 6/1"
+  "FullNameUA": "провулок Зерновий, 6/1",
+  "ChildsIds": []
  },
  {
   "id": 168495,
@@ -471,8 +385,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2683089374,
-  "lati": 49.948221901299995,
-  "FullNameUA": "провулок Зерновий, 6/2"
+  "lati": 49.9482219013,
+  "FullNameUA": "провулок Зерновий, 6/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 168496,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 2735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2685881582,
+  "lati": 49.9487953401,
+  "FullNameUA": "провулок Зерновий, 6/3",
+  "ChildsIds": []
  },
  {
   "id": 168500,
@@ -497,7 +438,86 @@
   "reg_date": "",
   "longt": 36.2693272756,
   "lati": 49.949434737,
-  "FullNameUA": "провулок Зерновий, 6/7"
+  "FullNameUA": "провулок Зерновий, 6/7",
+  "ChildsIds": []
+ },
+ {
+  "id": 168499,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "/6",
+  "block": "",
+  "streetid": 2735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2698020634,
+  "lati": 49.948506266,
+  "FullNameUA": "провулок Зерновий, 6/6",
+  "ChildsIds": []
+ },
+ {
+  "id": 168498,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "/5",
+  "block": "",
+  "streetid": 2735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2692698373,
+  "lati": 49.9487973666,
+  "FullNameUA": "провулок Зерновий, 6/5",
+  "ChildsIds": []
+ },
+ {
+  "id": 168497,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "/4",
+  "block": "",
+  "streetid": 2735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2689864402,
+  "lati": 49.9482226446,
+  "FullNameUA": "провулок Зерновий, 6/4",
+  "ChildsIds": []
  },
  {
   "id": 179809,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.270840615000004,
-  "lati": 49.954204655400005,
-  "FullNameUA": "провулок Зерновий, 8"
+  "longt": 36.270840615,
+  "lati": 49.9542046554,
+  "FullNameUA": "провулок Зерновий, 8",
+  "ChildsIds": []
  },
  {
   "id": 168501,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2664941893,
-  "lati": 49.951498130400005,
-  "FullNameUA": "провулок Зерновий, 9"
+  "lati": 49.9514981304,
+  "FullNameUA": "провулок Зерновий, 9",
+  "ChildsIds": []
  },
  {
   "id": 168502,
@@ -571,7 +593,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2711006155,
-  "lati": 49.953134964600004,
-  "FullNameUA": "провулок Зерновий, 10"
+  "lati": 49.9531349646,
+  "FullNameUA": "провулок Зерновий, 10",
+  "ChildsIds": []
  }
 ]

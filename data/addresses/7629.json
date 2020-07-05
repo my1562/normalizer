@@ -6,7 +6,7 @@
   "suffix": "",
   "block": "",
   "streetid": 7629,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277489015600004,
+  "longt": 36.2774890156,
   "lati": 49.9519419056,
-  "FullNameUA": "провулок Чернігівський, 7"
+  "FullNameUA": "провулок Чернігівський, 7",
+  "ChildsIds": []
  },
  {
   "id": 177544,
@@ -31,7 +32,7 @@
   "suffix": "",
   "block": "",
   "streetid": 7629,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2771332769,
   "lati": 49.9518915108,
-  "FullNameUA": "провулок Чернігівський, 8"
+  "FullNameUA": "провулок Чернігівський, 8",
+  "ChildsIds": []
  },
  {
   "id": 177542,
@@ -56,7 +58,7 @@
   "suffix": "",
   "block": "",
   "streetid": 7629,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277508624700005,
+  "longt": 36.2775086247,
   "lati": 49.9518044585,
-  "FullNameUA": "провулок Чернігівський, 9"
+  "FullNameUA": "провулок Чернігівський, 9",
+  "ChildsIds": []
  },
  {
   "id": 177543,
@@ -81,7 +84,7 @@
   "suffix": "",
   "block": "",
   "streetid": 7629,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2771572567,
   "lati": 49.9517676648,
-  "FullNameUA": "провулок Чернігівський, 10"
+  "FullNameUA": "провулок Чернігівський, 10",
+  "ChildsIds": []
  },
  {
   "id": 180342,
@@ -121,7 +125,10 @@
   "confrm": "",
   "reg_date": "27.11.2019 14:29:44",
   "longt": 36.2773179396,
-  "lati": 49.951094378600004,
-  "FullNameUA": "провулок Чернігівський, 16"
+  "lati": 49.9510943786,
+  "FullNameUA": "провулок Чернігівський, 16",
+  "ChildsIds": [
+   181004
+  ]
  }
 ]

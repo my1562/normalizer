@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2202221412,
   "lati": 49.9924974937,
-  "FullNameUA": "вулиця Ярославська, 1/29"
- },
- {
-  "id": 146486,
-  "postcode": 61052,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2189647845,
-  "lati": 49.991881732900005,
-  "FullNameUA": "вулиця Ярославська, 1"
+  "FullNameUA": "вулиця Ярославська, 1/29",
+  "ChildsIds": []
  },
  {
   "id": 179621,
@@ -72,7 +48,34 @@
   "reg_date": "28.02.2019 10:11:26",
   "longt": 36.218760977,
   "lati": 49.9916746222,
-  "FullNameUA": "вулиця Ярославська, 1-А"
+  "FullNameUA": "вулиця Ярославська, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 146486,
+  "postcode": 61052,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2189647845,
+  "lati": 49.9918817329,
+  "FullNameUA": "вулиця Ярославська, 1",
+  "ChildsIds": []
  },
  {
   "id": 176569,
@@ -96,8 +99,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2183279385,
-  "lati": 49.991924737400005,
-  "FullNameUA": "вулиця Ярославська, 2"
+  "lati": 49.9919247374,
+  "FullNameUA": "вулиця Ярославська, 2",
+  "ChildsIds": []
  },
  {
   "id": 146488,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2182544594,
   "lati": 49.9916766146,
-  "FullNameUA": "вулиця Ярославська, 2/1"
+  "FullNameUA": "вулиця Ярославська, 2/1",
+  "ChildsIds": []
  },
  {
   "id": 146489,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2184086137,
   "lati": 49.9914221389,
-  "FullNameUA": "вулиця Ярославська, 2/2"
+  "FullNameUA": "вулиця Ярославська, 2/2",
+  "ChildsIds": []
  },
  {
   "id": 146490,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2190696302,
   "lati": 49.9916406409,
-  "FullNameUA": "вулиця Ярославська, 3"
+  "FullNameUA": "вулиця Ярославська, 3",
+  "ChildsIds": []
  },
  {
   "id": 146491,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2184231944,
   "lati": 49.991185657,
-  "FullNameUA": "вулиця Ярославська, 4/2"
+  "FullNameUA": "вулиця Ярославська, 4/2",
+  "ChildsIds": []
  },
  {
   "id": 146492,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2190944349,
   "lati": 49.9909533115,
-  "FullNameUA": "вулиця Ярославська, 5"
+  "FullNameUA": "вулиця Ярославська, 5",
+  "ChildsIds": []
  },
  {
   "id": 146493,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2184151948,
   "lati": 49.9903090149,
-  "FullNameUA": "вулиця Ярославська, 8"
+  "FullNameUA": "вулиця Ярославська, 8",
+  "ChildsIds": []
  },
  {
   "id": 146494,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2189797487,
-  "lati": 49.990418860400005,
-  "FullNameUA": "вулиця Ярославська, 9"
+  "lati": 49.9904188604,
+  "FullNameUA": "вулиця Ярославська, 9",
+  "ChildsIds": []
  },
  {
   "id": 146495,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2185571576,
   "lati": 49.9901404048,
-  "FullNameUA": "вулиця Ярославська, 10"
+  "FullNameUA": "вулиця Ярославська, 10",
+  "ChildsIds": []
  },
  {
   "id": 146496,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2190936679,
-  "lati": 49.990154597300005,
-  "FullNameUA": "вулиця Ярославська, 11"
+  "lati": 49.9901545973,
+  "FullNameUA": "вулиця Ярославська, 11",
+  "ChildsIds": []
  },
  {
   "id": 146497,
@@ -346,8 +359,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2191004402,
-  "lati": 49.989828211200006,
-  "FullNameUA": "вулиця Ярославська, 11/13"
+  "lati": 49.9898282112,
+  "FullNameUA": "вулиця Ярославська, 11/13",
+  "ChildsIds": []
  },
  {
   "id": 146498,
@@ -371,33 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2186122125,
-  "lati": 49.989810176700004,
-  "FullNameUA": "вулиця Ярославська, 12"
- },
- {
-  "id": 146500,
-  "postcode": 61052,
-  "number": 13,
-  "suffix": "/18",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2190605913,
-  "lati": 49.989427145,
-  "FullNameUA": "вулиця Ярославська, 13/18"
+  "lati": 49.9898101767,
+  "FullNameUA": "вулиця Ярославська, 12",
+  "ChildsIds": []
  },
  {
   "id": 146499,
@@ -422,7 +412,34 @@
   "reg_date": "",
   "longt": 36.2194779809,
   "lati": 49.9903510212,
-  "FullNameUA": "вулиця Ярославська, 13-А"
+  "FullNameUA": "вулиця Ярославська, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 146500,
+  "postcode": 61052,
+  "number": 13,
+  "suffix": "/18",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2190605913,
+  "lati": 49.989427145,
+  "FullNameUA": "вулиця Ярославська, 13/18",
+  "ChildsIds": []
  },
  {
   "id": 146501,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.21853165,
-  "lati": 49.989566372300004,
-  "FullNameUA": "вулиця Ярославська, 14"
+  "lati": 49.9895663723,
+  "FullNameUA": "вулиця Ярославська, 14",
+  "ChildsIds": []
  },
  {
   "id": 146502,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "858, 30.11.2011",
   "reg_date": "18.01.2019 11:18:34",
-  "longt": 36.218583083700004,
-  "lati": 49.989411406600006,
-  "FullNameUA": "вулиця Ярославська, 14-А"
+  "longt": 36.2185830837,
+  "lati": 49.9894114066,
+  "FullNameUA": "вулиця Ярославська, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 146503,
@@ -496,33 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2191448677,
-  "lati": 49.988708543600005,
-  "FullNameUA": "вулиця Ярославська, 17"
- },
- {
-  "id": 146505,
-  "postcode": 61052,
-  "number": 18,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2185998378,
-  "lati": 49.98837457290001,
-  "FullNameUA": "вулиця Ярославська, 18-А"
+  "lati": 49.9887085436,
+  "FullNameUA": "вулиця Ярославська, 17",
+  "ChildsIds": []
  },
  {
   "id": 146506,
@@ -547,7 +542,8 @@
   "reg_date": "",
   "longt": 36.218111184,
   "lati": 49.9883533116,
-  "FullNameUA": "вулиця Ярославська, 18/15"
+  "FullNameUA": "вулиця Ярославська, 18/15",
+  "ChildsIds": []
  },
  {
   "id": 146504,
@@ -571,8 +567,35 @@
   "confrm": "245, 13.04.2016",
   "reg_date": "18.01.2019 11:20:58",
   "longt": 36.2186631939,
-  "lati": 49.988688843000006,
-  "FullNameUA": "вулиця Ярославська, 18"
+  "lati": 49.988688843,
+  "FullNameUA": "вулиця Ярославська, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 146505,
+  "postcode": 61052,
+  "number": 18,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2185998378,
+  "lati": 49.9883745729,
+  "FullNameUA": "вулиця Ярославська, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 157688,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2193336309,
-  "lati": 49.987319746900006,
-  "FullNameUA": "вулиця Ярославська, 21"
+  "lati": 49.9873197469,
+  "FullNameUA": "вулиця Ярославська, 21",
+  "ChildsIds": []
  },
  {
   "id": 157689,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.218840063100004,
-  "lati": 49.987463951200006,
-  "FullNameUA": "вулиця Ярославська, 22"
+  "longt": 36.2188400631,
+  "lati": 49.9874639512,
+  "FullNameUA": "вулиця Ярославська, 22",
+  "ChildsIds": []
  },
  {
   "id": 157690,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.21946748,
-  "lati": 49.986976387300004,
-  "FullNameUA": "вулиця Ярославська, 23"
+  "lati": 49.9869763873,
+  "FullNameUA": "вулиця Ярославська, 23",
+  "ChildsIds": []
  },
  {
   "id": 157692,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2182166361,
   "lati": 49.9870609338,
-  "FullNameUA": "вулиця Ярославська, 24-А"
+  "FullNameUA": "вулиця Ярославська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 157691,
@@ -696,58 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2189504057,
-  "lati": 49.987188595000006,
-  "FullNameUA": "вулиця Ярославська, 24"
- },
- {
-  "id": 176568,
-  "postcode": 61052,
-  "number": 25,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2202167525,
-  "lati": 49.98650831930001,
-  "FullNameUA": "вулиця Ярославська, 25-Б"
- },
- {
-  "id": 157693,
-  "postcode": 61052,
-  "number": 25,
-  "suffix": "",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2195812999,
-  "lati": 49.9867296788,
-  "FullNameUA": "вулиця Ярославська, 25"
+  "lati": 49.987188595,
+  "FullNameUA": "вулиця Ярославська, 24",
+  "ChildsIds": []
  },
  {
   "id": 157694,
@@ -772,7 +750,60 @@
   "reg_date": "",
   "longt": 36.2197685769,
   "lati": 49.9864904745,
-  "FullNameUA": "вулиця Ярославська, 25-А"
+  "FullNameUA": "вулиця Ярославська, 25-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 176568,
+  "postcode": 61052,
+  "number": 25,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2202167525,
+  "lati": 49.9865083193,
+  "FullNameUA": "вулиця Ярославська, 25-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 157693,
+  "postcode": 61052,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2195812999,
+  "lati": 49.9867296788,
+  "FullNameUA": "вулиця Ярославська, 25",
+  "ChildsIds": []
  },
  {
   "id": 157695,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2190791542,
   "lati": 49.986858341,
-  "FullNameUA": "вулиця Ярославська, 26"
+  "FullNameUA": "вулиця Ярославська, 26",
+  "ChildsIds": []
  },
  {
   "id": 157696,
@@ -821,33 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2198097544,
-  "lati": 49.98619825310001,
-  "FullNameUA": "вулиця Ярославська, 27"
- },
- {
-  "id": 157698,
-  "postcode": 61052,
-  "number": 28,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4474,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.219298240200004,
-  "lati": 49.986459051100006,
-  "FullNameUA": "вулиця Ярославська, 28-А"
+  "lati": 49.9861982531,
+  "FullNameUA": "вулиця Ярославська, 27",
+  "ChildsIds": []
  },
  {
   "id": 157697,
@@ -871,8 +879,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2191471932,
-  "lati": 49.986711072800006,
-  "FullNameUA": "вулиця Ярославська, 28"
+  "lati": 49.9867110728,
+  "FullNameUA": "вулиця Ярославська, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 157698,
+  "postcode": 61052,
+  "number": 28,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4474,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2192982402,
+  "lati": 49.9864590511,
+  "FullNameUA": "вулиця Ярославська, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 157699,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.218885536,
-  "lati": 49.986456349300006,
-  "FullNameUA": "вулиця Ярославська, 28-Б"
+  "lati": 49.9864563493,
+  "FullNameUA": "вулиця Ярославська, 28-Б",
+  "ChildsIds": []
  },
  {
   "id": 157700,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2193625648,
-  "lati": 49.98633555320001,
-  "FullNameUA": "вулиця Ярославська, 30"
+  "lati": 49.9863355532,
+  "FullNameUA": "вулиця Ярославська, 30",
+  "ChildsIds": []
  },
  {
   "id": 157701,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2202520205,
   "lati": 49.9853571857,
-  "FullNameUA": "вулиця Ярославська, 31"
+  "FullNameUA": "вулиця Ярославська, 31",
+  "ChildsIds": []
  },
  {
   "id": 157702,
@@ -971,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2194404942,
-  "lati": 49.986161553600006,
-  "FullNameUA": "вулиця Ярославська, 32"
+  "lati": 49.9861615536,
+  "FullNameUA": "вулиця Ярославська, 32",
+  "ChildsIds": []
  },
  {
   "id": 157703,
@@ -996,7 +1035,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2195314245,
-  "lati": 49.985866722800004,
-  "FullNameUA": "вулиця Ярославська, 34"
+  "lati": 49.9858667228,
+  "FullNameUA": "вулиця Ярославська, 34",
+  "ChildsIds": []
  }
 ]

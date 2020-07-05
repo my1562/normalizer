@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2909263118,
-  "lati": 49.942488603099996,
-  "FullNameUA": "вулиця Сибірська, 1"
+  "lati": 49.9424886031,
+  "FullNameUA": "вулиця Сибірська, 1",
+  "ChildsIds": []
  },
  {
   "id": 170348,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2909275272,
   "lati": 49.9422647249,
-  "FullNameUA": "вулиця Сибірська, 2"
+  "FullNameUA": "вулиця Сибірська, 2",
+  "ChildsIds": []
  },
  {
   "id": 170349,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2910700006,
-  "lati": 49.942462114399994,
-  "FullNameUA": "вулиця Сибірська, 3"
+  "lati": 49.9424621144,
+  "FullNameUA": "вулиця Сибірська, 3",
+  "ChildsIds": []
  },
  {
   "id": 170350,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2912397429,
   "lati": 49.9422549289,
-  "FullNameUA": "вулиця Сибірська, 4"
+  "FullNameUA": "вулиця Сибірська, 4",
+  "ChildsIds": []
  },
  {
   "id": 170351,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2913738199,
   "lati": 49.9424532851,
-  "FullNameUA": "вулиця Сибірська, 5"
+  "FullNameUA": "вулиця Сибірська, 5",
+  "ChildsIds": []
  },
  {
   "id": 170352,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.291588965,
   "lati": 49.9422575723,
-  "FullNameUA": "вулиця Сибірська, 6"
+  "FullNameUA": "вулиця Сибірська, 6",
+  "ChildsIds": []
  },
  {
   "id": 170353,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2916589011,
-  "lati": 49.942454990799995,
-  "FullNameUA": "вулиця Сибірська, 7"
+  "lati": 49.9424549908,
+  "FullNameUA": "вулиця Сибірська, 7",
+  "ChildsIds": []
  },
  {
   "id": 170354,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2919019391,
   "lati": 49.94226355,
-  "FullNameUA": "вулиця Сибірська, 8"
+  "FullNameUA": "вулиця Сибірська, 8",
+  "ChildsIds": []
  },
  {
   "id": 170355,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2920425301,
-  "lati": 49.942441613099994,
-  "FullNameUA": "вулиця Сибірська, 9"
+  "lati": 49.9424416131,
+  "FullNameUA": "вулиця Сибірська, 9",
+  "ChildsIds": []
  },
  {
   "id": 170356,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.294164829799996,
+  "longt": 36.2941648298,
   "lati": 49.9422103629,
-  "FullNameUA": "вулиця Сибірська, 10"
+  "FullNameUA": "вулиця Сибірська, 10",
+  "ChildsIds": []
  },
  {
   "id": 170357,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2932279674,
   "lati": 49.9421990029,
-  "FullNameUA": "вулиця Сибірська, 10-А"
+  "FullNameUA": "вулиця Сибірська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 170358,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2924278685,
   "lati": 49.9424547037,
-  "FullNameUA": "вулиця Сибірська, 11"
+  "FullNameUA": "вулиця Сибірська, 11",
+  "ChildsIds": []
  },
  {
   "id": 170359,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2924172322,
-  "lati": 49.942631282899995,
-  "FullNameUA": "вулиця Сибірська, 11-А"
+  "lati": 49.9426312829,
+  "FullNameUA": "вулиця Сибірська, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 170360,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2943862085,
   "lati": 49.9422253136,
-  "FullNameUA": "вулиця Сибірська, 12"
+  "FullNameUA": "вулиця Сибірська, 12",
+  "ChildsIds": []
  },
  {
   "id": 170361,
@@ -372,32 +386,8 @@
   "reg_date": "",
   "longt": 36.292856244,
   "lati": 49.9424454088,
-  "FullNameUA": "вулиця Сибірська, 13"
- },
- {
-  "id": 170363,
-  "postcode": 61105,
-  "number": 14,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3915,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2949032275,
-  "lati": 49.942220999199996,
-  "FullNameUA": "вулиця Сибірська, 14-А"
+  "FullNameUA": "вулиця Сибірська, 13",
+  "ChildsIds": []
  },
  {
   "id": 170362,
@@ -422,7 +412,34 @@
   "reg_date": "",
   "longt": 36.2946114968,
   "lati": 49.9422170998,
-  "FullNameUA": "вулиця Сибірська, 14"
+  "FullNameUA": "вулиця Сибірська, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 170363,
+  "postcode": 61105,
+  "number": 14,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3915,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2949032275,
+  "lati": 49.9422209992,
+  "FullNameUA": "вулиця Сибірська, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 170364,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.293008147,
   "lati": 49.9424174857,
-  "FullNameUA": "вулиця Сибірська, 15"
+  "FullNameUA": "вулиця Сибірська, 15",
+  "ChildsIds": []
  },
  {
   "id": 170365,
@@ -472,85 +490,11 @@
   "reg_date": "",
   "longt": 36.2951870652,
   "lati": 49.9422121498,
-  "FullNameUA": "вулиця Сибірська, 16"
- },
- {
-  "id": 170367,
-  "postcode": 61105,
-  "number": 16,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3915,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.294669667899996,
-  "lati": 49.9419115755,
-  "FullNameUA": "вулиця Сибірська, 16-Б"
+  "FullNameUA": "вулиця Сибірська, 16",
+  "ChildsIds": []
  },
  {
   "id": 170369,
-  "postcode": 61105,
-  "number": 16,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 3915,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2952525011,
-  "lati": 49.9420647094,
-  "FullNameUA": "вулиця Сибірська, 16/2"
- },
- {
-  "id": 170368,
-  "postcode": 61105,
-  "number": 16,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3915,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.294844951,
-  "lati": 49.9420986457,
-  "FullNameUA": "вулиця Сибірська, 16-В"
- },
- {
-  "id": 170366,
   "postcode": 61105,
   "number": 16,
   "suffix": "А",
@@ -570,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.294802312899996,
-  "lati": 49.9418465064,
-  "FullNameUA": "вулиця Сибірська, 16-А"
+  "longt": 36.2952525011,
+  "lati": 49.9420647094,
+  "FullNameUA": "вулиця Сибірська, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 170370,
@@ -597,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2933424862,
   "lati": 49.9424393524,
-  "FullNameUA": "вулиця Сибірська, 17"
+  "FullNameUA": "вулиця Сибірська, 17",
+  "ChildsIds": []
  },
  {
   "id": 170371,
@@ -621,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2955646916,
-  "lati": 49.942218342699995,
-  "FullNameUA": "вулиця Сибірська, 18"
+  "lati": 49.9422183427,
+  "FullNameUA": "вулиця Сибірська, 18",
+  "ChildsIds": []
  },
  {
   "id": 170372,
@@ -647,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2936823182,
   "lati": 49.9424548394,
-  "FullNameUA": "вулиця Сибірська, 19"
+  "FullNameUA": "вулиця Сибірська, 19",
+  "ChildsIds": []
  },
  {
   "id": 170373,
@@ -672,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2958689603,
   "lati": 49.9422112038,
-  "FullNameUA": "вулиця Сибірська, 20"
+  "FullNameUA": "вулиця Сибірська, 20",
+  "ChildsIds": []
  },
  {
   "id": 170374,
@@ -697,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2942696535,
   "lati": 49.9424514555,
-  "FullNameUA": "вулиця Сибірська, 21"
+  "FullNameUA": "вулиця Сибірська, 21",
+  "ChildsIds": []
  },
  {
   "id": 170375,
@@ -722,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2965781885,
   "lati": 49.9422075927,
-  "FullNameUA": "вулиця Сибірська, 22"
+  "FullNameUA": "вулиця Сибірська, 22",
+  "ChildsIds": []
  },
  {
   "id": 170376,
@@ -747,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2944962366,
   "lati": 49.9424844545,
-  "FullNameUA": "вулиця Сибірська, 23"
+  "FullNameUA": "вулиця Сибірська, 23",
+  "ChildsIds": []
  },
  {
   "id": 170377,
@@ -772,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2968747686,
   "lati": 49.9422090295,
-  "FullNameUA": "вулиця Сибірська, 24"
+  "FullNameUA": "вулиця Сибірська, 24",
+  "ChildsIds": []
  },
  {
   "id": 170378,
@@ -797,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2947282556,
   "lati": 49.9424379505,
-  "FullNameUA": "вулиця Сибірська, 25"
+  "FullNameUA": "вулиця Сибірська, 25",
+  "ChildsIds": []
  },
  {
   "id": 170379,
@@ -822,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2971639814,
   "lati": 49.9421990624,
-  "FullNameUA": "вулиця Сибірська, 26"
+  "FullNameUA": "вулиця Сибірська, 26",
+  "ChildsIds": []
  },
  {
   "id": 170380,
@@ -847,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2950681273,
   "lati": 49.942430365,
-  "FullNameUA": "вулиця Сибірська, 27"
+  "FullNameUA": "вулиця Сибірська, 27",
+  "ChildsIds": []
  },
  {
   "id": 170381,
@@ -871,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2979820749,
-  "lati": 49.942203413499996,
-  "FullNameUA": "вулиця Сибірська, 28"
+  "lati": 49.9422034135,
+  "FullNameUA": "вулиця Сибірська, 28",
+  "ChildsIds": []
  },
  {
   "id": 170382,
@@ -896,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.295312492,
-  "lati": 49.942427724299996,
-  "FullNameUA": "вулиця Сибірська, 29"
+  "lati": 49.9424277243,
+  "FullNameUA": "вулиця Сибірська, 29",
+  "ChildsIds": []
  },
  {
   "id": 170383,
@@ -920,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298267438399996,
+  "longt": 36.2982674384,
   "lati": 49.9421620789,
-  "FullNameUA": "вулиця Сибірська, 30"
+  "FullNameUA": "вулиця Сибірська, 30",
+  "ChildsIds": []
  },
  {
   "id": 170384,
@@ -946,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2955796481,
-  "lati": 49.942439570999994,
-  "FullNameUA": "вулиця Сибірська, 31"
+  "lati": 49.942439571,
+  "FullNameUA": "вулиця Сибірська, 31",
+  "ChildsIds": []
  },
  {
   "id": 170385,
@@ -972,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2962260616,
   "lati": 49.9424582637,
-  "FullNameUA": "вулиця Сибірська, 33"
+  "FullNameUA": "вулиця Сибірська, 33",
+  "ChildsIds": []
  },
  {
   "id": 170386,
@@ -997,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2964449114,
   "lati": 49.9424418543,
-  "FullNameUA": "вулиця Сибірська, 35"
+  "FullNameUA": "вулиця Сибірська, 35",
+  "ChildsIds": []
  },
  {
   "id": 170387,
@@ -1022,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2966547099,
   "lati": 49.9424350464,
-  "FullNameUA": "вулиця Сибірська, 37"
+  "FullNameUA": "вулиця Сибірська, 37",
+  "ChildsIds": []
  },
  {
   "id": 170388,
@@ -1046,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2968840602,
-  "lati": 49.942431176499994,
-  "FullNameUA": "вулиця Сибірська, 39"
+  "lati": 49.9424311765,
+  "FullNameUA": "вулиця Сибірська, 39",
+  "ChildsIds": []
  },
  {
   "id": 170389,
@@ -1072,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2971703118,
   "lati": 49.9424423467,
-  "FullNameUA": "вулиця Сибірська, 41"
+  "FullNameUA": "вулиця Сибірська, 41",
+  "ChildsIds": []
  },
  {
   "id": 170390,
@@ -1096,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2975601933,
-  "lati": 49.942439613699996,
-  "FullNameUA": "вулиця Сибірська, 43"
+  "lati": 49.9424396137,
+  "FullNameUA": "вулиця Сибірська, 43",
+  "ChildsIds": []
  },
  {
   "id": 170391,
@@ -1121,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2978175145,
-  "lati": 49.942425370399995,
-  "FullNameUA": "вулиця Сибірська, 45"
+  "lati": 49.9424253704,
+  "FullNameUA": "вулиця Сибірська, 45",
+  "ChildsIds": []
  },
  {
   "id": 170392,
@@ -1147,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2980636556,
   "lati": 49.9425385351,
-  "FullNameUA": "вулиця Сибірська, 47"
+  "FullNameUA": "вулиця Сибірська, 47",
+  "ChildsIds": []
  },
  {
   "id": 170393,
@@ -1171,7 +1139,34 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2982434205,
-  "lati": 49.942434681799995,
-  "FullNameUA": "вулиця Сибірська, 49"
+  "lati": 49.9424346818,
+  "FullNameUA": "вулиця Сибірська, 49",
+  "ChildsIds": []
+ },
+ {
+  "id": 170368,
+  "postcode": 61105,
+  "number": 83,
+  "suffix": "",
+  "block": "",
+  "streetid": 3915,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.294844951,
+  "lati": 49.9420986457,
+  "FullNameUA": "вулиця Сибірська, 83",
+  "ChildsIds": []
  }
 ]

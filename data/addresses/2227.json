@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2151236815,
   "lati": 49.968493985,
-  "FullNameUA": "вулиця Борова, 1"
+  "FullNameUA": "вулиця Борова, 1",
+  "ChildsIds": []
  },
  {
   "id": 147473,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2147342465,
   "lati": 49.9685349716,
-  "FullNameUA": "вулиця Борова, 2"
+  "FullNameUA": "вулиця Борова, 2",
+  "ChildsIds": []
  },
  {
   "id": 147474,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2149240154,
-  "lati": 49.968260510600004,
-  "FullNameUA": "вулиця Борова, 3"
+  "lati": 49.9682605106,
+  "FullNameUA": "вулиця Борова, 3",
+  "ChildsIds": []
  },
  {
   "id": 147475,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2146001622,
   "lati": 49.9683627728,
-  "FullNameUA": "вулиця Борова, 4"
+  "FullNameUA": "вулиця Борова, 4",
+  "ChildsIds": []
  },
  {
   "id": 179941,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2148466664,
   "lati": 49.9680434424,
-  "FullNameUA": "вулиця Борова, 5/20"
+  "FullNameUA": "вулиця Борова, 5/20",
+  "ChildsIds": []
  },
  {
   "id": 147476,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2121405197,
   "lati": 49.9649423704,
-  "FullNameUA": "вулиця Борова, 29"
+  "FullNameUA": "вулиця Борова, 29",
+  "ChildsIds": []
  },
  {
   "id": 147477,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.212015247800004,
+  "longt": 36.2120152478,
   "lati": 49.9648415513,
-  "FullNameUA": "вулиця Борова, 31"
+  "FullNameUA": "вулиця Борова, 31",
+  "ChildsIds": []
  },
  {
   "id": 147478,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2118966917,
   "lati": 49.9647120642,
-  "FullNameUA": "вулиця Борова, 33"
+  "FullNameUA": "вулиця Борова, 33",
+  "ChildsIds": []
  },
  {
   "id": 147479,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.211726992,
-  "lati": 49.964543298500004,
-  "FullNameUA": "вулиця Борова, 35"
+  "lati": 49.9645432985,
+  "FullNameUA": "вулиця Борова, 35",
+  "ChildsIds": []
  },
  {
   "id": 147480,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2117452629,
   "lati": 49.9651576539,
-  "FullNameUA": "вулиця Борова, 36"
+  "FullNameUA": "вулиця Борова, 36",
+  "ChildsIds": []
  },
  {
   "id": 147481,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2117267081,
   "lati": 49.964291204,
-  "FullNameUA": "вулиця Борова, 37"
+  "FullNameUA": "вулиця Борова, 37",
+  "ChildsIds": []
  },
  {
   "id": 147482,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2116328582,
   "lati": 49.964425909,
-  "FullNameUA": "вулиця Борова, 37-А"
+  "FullNameUA": "вулиця Борова, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 147483,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2117980695,
   "lati": 49.9649515246,
-  "FullNameUA": "вулиця Борова, 38"
+  "FullNameUA": "вулиця Борова, 38",
+  "ChildsIds": []
  },
  {
   "id": 147484,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.211706976,
   "lati": 49.9641838019,
-  "FullNameUA": "вулиця Борова, 39"
+  "FullNameUA": "вулиця Борова, 39",
+  "ChildsIds": []
  },
  {
   "id": 147485,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2116493253,
   "lati": 49.9648629447,
-  "FullNameUA": "вулиця Борова, 40"
+  "FullNameUA": "вулиця Борова, 40",
+  "ChildsIds": []
  },
  {
   "id": 147486,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2113238185,
   "lati": 49.9641353957,
-  "FullNameUA": "вулиця Борова, 41"
+  "FullNameUA": "вулиця Борова, 41",
+  "ChildsIds": []
  },
  {
   "id": 147487,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2115120259,
   "lati": 49.9646862007,
-  "FullNameUA": "вулиця Борова, 42"
+  "FullNameUA": "вулиця Борова, 42",
+  "ChildsIds": []
  },
  {
   "id": 147488,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2111999912,
   "lati": 49.9640076921,
-  "FullNameUA": "вулиця Борова, 43"
+  "FullNameUA": "вулиця Борова, 43",
+  "ChildsIds": []
  },
  {
   "id": 147489,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.211286934,
   "lati": 49.9646123065,
-  "FullNameUA": "вулиця Борова, 44"
+  "FullNameUA": "вулиця Борова, 44",
+  "ChildsIds": []
  },
  {
   "id": 147490,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2109629955,
   "lati": 49.9637758015,
-  "FullNameUA": "вулиця Борова, 45"
+  "FullNameUA": "вулиця Борова, 45",
+  "ChildsIds": []
  },
  {
   "id": 147491,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2111570152,
   "lati": 49.9645031898,
-  "FullNameUA": "вулиця Борова, 46"
+  "FullNameUA": "вулиця Борова, 46",
+  "ChildsIds": []
  },
  {
   "id": 147492,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2108601155,
   "lati": 49.9636411706,
-  "FullNameUA": "вулиця Борова, 47"
+  "FullNameUA": "вулиця Борова, 47",
+  "ChildsIds": []
  },
  {
   "id": 147493,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.211066336900004,
+  "longt": 36.2110663369,
   "lati": 49.9644366559,
-  "FullNameUA": "вулиця Борова, 48"
+  "FullNameUA": "вулиця Борова, 48",
+  "ChildsIds": []
  },
  {
   "id": 147494,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.210656259000004,
+  "longt": 36.210656259,
   "lati": 49.9634823536,
-  "FullNameUA": "вулиця Борова, 49"
+  "FullNameUA": "вулиця Борова, 49",
+  "ChildsIds": []
  },
  {
   "id": 147495,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2109542102,
   "lati": 49.9642806302,
-  "FullNameUA": "вулиця Борова, 50"
+  "FullNameUA": "вулиця Борова, 50",
+  "ChildsIds": []
  },
  {
   "id": 147496,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2106041219,
-  "lati": 49.963367306900004,
-  "FullNameUA": "вулиця Борова, 51"
+  "lati": 49.9633673069,
+  "FullNameUA": "вулиця Борова, 51",
+  "ChildsIds": []
  },
  {
   "id": 147497,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.210725094800004,
+  "longt": 36.2107250948,
   "lati": 49.9641005425,
-  "FullNameUA": "вулиця Борова, 52"
+  "FullNameUA": "вулиця Борова, 52",
+  "ChildsIds": []
  },
  {
   "id": 147498,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.210417084,
   "lati": 49.9632488816,
-  "FullNameUA": "вулиця Борова, 53"
+  "FullNameUA": "вулиця Борова, 53",
+  "ChildsIds": []
  },
  {
   "id": 147499,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.210666665,
   "lati": 49.9639947661,
-  "FullNameUA": "вулиця Борова, 54"
+  "FullNameUA": "вулиця Борова, 54",
+  "ChildsIds": []
  },
  {
   "id": 147500,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.21022966,
   "lati": 49.9630826096,
-  "FullNameUA": "вулиця Борова, 55"
+  "FullNameUA": "вулиця Борова, 55",
+  "ChildsIds": []
  },
  {
   "id": 147501,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2105275262,
-  "lati": 49.963883874400004,
-  "FullNameUA": "вулиця Борова, 56"
+  "lati": 49.9638838744,
+  "FullNameUA": "вулиця Борова, 56",
+  "ChildsIds": []
  },
  {
   "id": 147502,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2077038543,
   "lati": 49.9604707785,
-  "FullNameUA": "вулиця Борова, 57/7"
+  "FullNameUA": "вулиця Борова, 57/7",
+  "ChildsIds": []
  },
  {
   "id": 147503,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2104156966,
   "lati": 49.9637408966,
-  "FullNameUA": "вулиця Борова, 58"
+  "FullNameUA": "вулиця Борова, 58",
+  "ChildsIds": []
  },
  {
   "id": 176977,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення виконкому Жовтневої районної ради 74-51 від 07.11.2006: Об'єднати домоволодіння по вул.Боровій,59 і 61 в одне домоволодіння,привласнити йому адресу вул.Борова,61.",
   "reg_date": "",
-  "longt": 36.207432937700005,
+  "longt": 36.2074329377,
   "lati": 49.9603262733,
-  "FullNameUA": "вулиця Борова, 59"
+  "FullNameUA": "вулиця Борова, 59",
+  "ChildsIds": []
  },
  {
   "id": 147504,
@@ -871,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2100722917,
-  "lati": 49.963720925400004,
-  "FullNameUA": "вулиця Борова, 60"
+  "lati": 49.9637209254,
+  "FullNameUA": "вулиця Борова, 60",
+  "ChildsIds": []
  },
  {
   "id": 147505,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207345285200006,
+  "longt": 36.2073452852,
   "lati": 49.9602040062,
-  "FullNameUA": "вулиця Борова, 61"
+  "FullNameUA": "вулиця Борова, 61",
+  "ChildsIds": []
  },
  {
   "id": 147507,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2100099647,
   "lati": 49.9633718076,
-  "FullNameUA": "вулиця Борова, 62-А"
+  "FullNameUA": "вулиця Борова, 62-А",
+  "ChildsIds": []
  },
  {
   "id": 147506,
@@ -946,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2101065119,
-  "lati": 49.963441929700004,
-  "FullNameUA": "вулиця Борова, 62"
+  "lati": 49.9634419297,
+  "FullNameUA": "вулиця Борова, 62",
+  "ChildsIds": []
  },
  {
   "id": 147508,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2071337788,
   "lati": 49.9599894412,
-  "FullNameUA": "вулиця Борова, 63"
+  "FullNameUA": "вулиця Борова, 63",
+  "ChildsIds": []
  },
  {
   "id": 147509,
@@ -995,9 +1034,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209901436500004,
+  "longt": 36.2099014365,
   "lati": 49.9632258579,
-  "FullNameUA": "вулиця Борова, 64/22"
+  "FullNameUA": "вулиця Борова, 64/22",
+  "ChildsIds": []
+ },
+ {
+  "id": 147511,
+  "postcode": 61157,
+  "number": 65,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2227,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2066616822,
+  "lati": 49.9595100353,
+  "FullNameUA": "вулиця Борова, 65-А",
+  "ChildsIds": []
  },
  {
   "id": 147510,
@@ -1022,32 +1088,8 @@
   "reg_date": "",
   "longt": 36.2067821344,
   "lati": 49.959627179,
-  "FullNameUA": "вулиця Борова, 65"
- },
- {
-  "id": 147511,
-  "postcode": 61157,
-  "number": 65,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2227,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2066616822,
-  "lati": 49.959510035300006,
-  "FullNameUA": "вулиця Борова, 65-А"
+  "FullNameUA": "вулиця Борова, 65",
+  "ChildsIds": []
  },
  {
   "id": 147512,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206520469500006,
+  "longt": 36.2065204695,
   "lati": 49.9593696576,
-  "FullNameUA": "вулиця Борова, 67"
+  "FullNameUA": "вулиця Борова, 67",
+  "ChildsIds": []
  },
  {
   "id": 147513,
@@ -1096,8 +1139,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2096447694,
-  "lati": 49.962974965600004,
-  "FullNameUA": "вулиця Борова, 68/21"
+  "lati": 49.9629749656,
+  "FullNameUA": "вулиця Борова, 68/21",
+  "ChildsIds": []
  },
  {
   "id": 147514,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.206341926,
   "lati": 49.959174124,
-  "FullNameUA": "вулиця Борова, 69"
+  "FullNameUA": "вулиця Борова, 69",
+  "ChildsIds": []
  },
  {
   "id": 147515,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209474546500005,
-  "lati": 49.962818644500004,
-  "FullNameUA": "вулиця Борова, 70"
+  "longt": 36.2094745465,
+  "lati": 49.9628186445,
+  "FullNameUA": "вулиця Борова, 70",
+  "ChildsIds": []
  },
  {
   "id": 147516,
@@ -1171,8 +1217,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2061557422,
-  "lati": 49.959009817600005,
-  "FullNameUA": "вулиця Борова, 71"
+  "lati": 49.9590098176,
+  "FullNameUA": "вулиця Борова, 71",
+  "ChildsIds": []
  },
  {
   "id": 147517,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.209301076,
   "lati": 49.962652488,
-  "FullNameUA": "вулиця Борова, 72"
+  "FullNameUA": "вулиця Борова, 72",
+  "ChildsIds": []
  },
  {
   "id": 147518,
@@ -1220,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205977117900005,
+  "longt": 36.2059771179,
   "lati": 49.9587069462,
-  "FullNameUA": "вулиця Борова, 73/4"
+  "FullNameUA": "вулиця Борова, 73/4",
+  "ChildsIds": []
  },
  {
   "id": 147519,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.20915359,
   "lati": 49.9625111552,
-  "FullNameUA": "вулиця Борова, 74"
+  "FullNameUA": "вулиця Борова, 74",
+  "ChildsIds": []
  },
  {
   "id": 147520,
@@ -1270,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205671231800004,
-  "lati": 49.958521964300004,
-  "FullNameUA": "вулиця Борова, 75/3"
+  "longt": 36.2056712318,
+  "lati": 49.9585219643,
+  "FullNameUA": "вулиця Борова, 75/3",
+  "ChildsIds": []
  },
  {
   "id": 147521,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209010105800004,
+  "longt": 36.2090101058,
   "lati": 49.9623828745,
-  "FullNameUA": "вулиця Борова, 76"
+  "FullNameUA": "вулиця Борова, 76",
+  "ChildsIds": []
  },
  {
   "id": 147522,
@@ -1321,8 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2055142139,
-  "lati": 49.958389656200005,
-  "FullNameUA": "вулиця Борова, 77"
+  "lati": 49.9583896562,
+  "FullNameUA": "вулиця Борова, 77",
+  "ChildsIds": []
  },
  {
   "id": 147523,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208902768200005,
-  "lati": 49.962237181300004,
-  "FullNameUA": "вулиця Борова, 78"
+  "longt": 36.2089027682,
+  "lati": 49.9622371813,
+  "FullNameUA": "вулиця Борова, 78",
+  "ChildsIds": []
  },
  {
   "id": 147524,
@@ -1371,8 +1425,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2053611747,
-  "lati": 49.958208880300006,
-  "FullNameUA": "вулиця Борова, 79/3"
+  "lati": 49.9582088803,
+  "FullNameUA": "вулиця Борова, 79/3",
+  "ChildsIds": []
  },
  {
   "id": 147525,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208679574200005,
+  "longt": 36.2086795742,
   "lati": 49.962025538,
-  "FullNameUA": "вулиця Борова, 80"
+  "FullNameUA": "вулиця Борова, 80",
+  "ChildsIds": []
  },
  {
   "id": 147526,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2085695262,
   "lati": 49.9619230937,
-  "FullNameUA": "вулиця Борова, 82"
+  "FullNameUA": "вулиця Борова, 82",
+  "ChildsIds": []
  },
  {
   "id": 147527,
@@ -1447,32 +1504,8 @@
   "reg_date": "",
   "longt": 36.20828003,
   "lati": 49.9618226073,
-  "FullNameUA": "вулиця Борова, 84"
- },
- {
-  "id": 147529,
-  "postcode": 61157,
-  "number": 86,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2227,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208325352200006,
-  "lati": 49.9616616605,
-  "FullNameUA": "вулиця Борова, 86-А"
+  "FullNameUA": "вулиця Борова, 84",
+  "ChildsIds": []
  },
  {
   "id": 147528,
@@ -1495,9 +1528,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208186345200005,
+  "longt": 36.2081863452,
   "lati": 49.9615396735,
-  "FullNameUA": "вулиця Борова, 86"
+  "FullNameUA": "вулиця Борова, 86",
+  "ChildsIds": []
+ },
+ {
+  "id": 147529,
+  "postcode": 61157,
+  "number": 86,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2227,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2083253522,
+  "lati": 49.9616616605,
+  "FullNameUA": "вулиця Борова, 86-А",
+  "ChildsIds": []
  },
  {
   "id": 147530,
@@ -1521,8 +1581,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2080390492,
-  "lati": 49.961383443500004,
-  "FullNameUA": "вулиця Борова, 88"
+  "lati": 49.9613834435,
+  "FullNameUA": "вулиця Борова, 88",
+  "ChildsIds": []
  },
  {
   "id": 147531,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2078770528,
   "lati": 49.9612210615,
-  "FullNameUA": "вулиця Борова, 90"
+  "FullNameUA": "вулиця Борова, 90",
+  "ChildsIds": []
  },
  {
   "id": 147533,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.2075401233,
   "lati": 49.9608881229,
-  "FullNameUA": "вулиця Борова, 92-А"
+  "FullNameUA": "вулиця Борова, 92-А",
+  "ChildsIds": []
  },
  {
   "id": 147532,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207615176000004,
+  "longt": 36.207615176,
   "lati": 49.9611874457,
-  "FullNameUA": "вулиця Борова, 92"
+  "FullNameUA": "вулиця Борова, 92",
+  "ChildsIds": []
  },
  {
   "id": 147534,
@@ -1620,9 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207280128700006,
+  "longt": 36.2072801287,
   "lati": 49.9606554888,
-  "FullNameUA": "вулиця Борова, 94/9"
+  "FullNameUA": "вулиця Борова, 94/9",
+  "ChildsIds": []
  },
  {
   "id": 147535,
@@ -1645,9 +1710,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207062628100005,
+  "longt": 36.2070626281,
   "lati": 49.9604137471,
-  "FullNameUA": "вулиця Борова, 94-А"
+  "FullNameUA": "вулиця Борова, 94-А",
+  "ChildsIds": []
  },
  {
   "id": 147536,
@@ -1670,9 +1736,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206907683900006,
-  "lati": 49.960264297500004,
-  "FullNameUA": "вулиця Борова, 96"
+  "longt": 36.2069076839,
+  "lati": 49.9602642975,
+  "FullNameUA": "вулиця Борова, 96",
+  "ChildsIds": []
  },
  {
   "id": 147537,
@@ -1697,7 +1764,34 @@
   "reg_date": "",
   "longt": 36.2067414112,
   "lati": 49.9600907624,
-  "FullNameUA": "вулиця Борова, 98"
+  "FullNameUA": "вулиця Борова, 98",
+  "ChildsIds": []
+ },
+ {
+  "id": 147538,
+  "postcode": 61157,
+  "number": 100,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2227,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2064962306,
+  "lati": 49.9598347201,
+  "FullNameUA": "вулиця Борова, 100-А",
+  "ChildsIds": []
  },
  {
   "id": 176978,
@@ -1722,32 +1816,8 @@
   "reg_date": "",
   "longt": 36.2065457097,
   "lati": 49.959930946,
-  "FullNameUA": "вулиця Борова, 100"
- },
- {
-  "id": 147538,
-  "postcode": 61157,
-  "number": 100,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2227,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2064962306,
-  "lati": 49.959834720100005,
-  "FullNameUA": "вулиця Борова, 100-А"
+  "FullNameUA": "вулиця Борова, 100",
+  "ChildsIds": []
  },
  {
   "id": 147539,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2063156584,
   "lati": 49.959646694,
-  "FullNameUA": "вулиця Борова, 104"
+  "FullNameUA": "вулиця Борова, 104",
+  "ChildsIds": []
  },
  {
   "id": 147540,
@@ -1797,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.206053329,
   "lati": 49.9594165054,
-  "FullNameUA": "вулиця Борова, 106"
+  "FullNameUA": "вулиця Борова, 106",
+  "ChildsIds": []
  },
  {
   "id": 147541,
@@ -1820,9 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205910618500006,
-  "lati": 49.959250741800005,
-  "FullNameUA": "вулиця Борова, 108"
+  "longt": 36.2059106185,
+  "lati": 49.9592507418,
+  "FullNameUA": "вулиця Борова, 108",
+  "ChildsIds": []
  },
  {
   "id": 147542,
@@ -1845,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205789798800005,
+  "longt": 36.2057897988,
   "lati": 49.959133076,
-  "FullNameUA": "вулиця Борова, 110"
+  "FullNameUA": "вулиця Борова, 110",
+  "ChildsIds": []
  },
  {
   "id": 147543,
@@ -1870,9 +1944,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205644091500005,
-  "lati": 49.958996013500006,
-  "FullNameUA": "вулиця Борова, 112"
+  "longt": 36.2056440915,
+  "lati": 49.9589960135,
+  "FullNameUA": "вулиця Борова, 112",
+  "ChildsIds": []
  },
  {
   "id": 147544,
@@ -1895,9 +1970,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205199414400006,
+  "longt": 36.2051994144,
   "lati": 49.9585507426,
-  "FullNameUA": "вулиця Борова, 118"
+  "FullNameUA": "вулиця Борова, 118",
+  "ChildsIds": []
  },
  {
   "id": 147545,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205048260400005,
+  "longt": 36.2050482604,
   "lati": 49.9584049356,
-  "FullNameUA": "вулиця Борова, 120"
+  "FullNameUA": "вулиця Борова, 120",
+  "ChildsIds": []
  },
  {
   "id": 147546,
@@ -1945,8 +2022,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204483677700004,
+  "longt": 36.2044836777,
   "lati": 49.9579212021,
-  "FullNameUA": "вулиця Борова, 124"
+  "FullNameUA": "вулиця Борова, 124",
+  "ChildsIds": []
  }
 ]

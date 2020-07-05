@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2444923484,
   "lati": 49.9967263257,
-  "FullNameUA": "узвіз Куликівський, 3"
+  "FullNameUA": "узвіз Куликівський, 3",
+  "ChildsIds": []
  },
  {
   "id": 127635,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2442651693,
   "lati": 49.9963659905,
-  "FullNameUA": "узвіз Куликівський, 5"
+  "FullNameUA": "узвіз Куликівський, 5",
+  "ChildsIds": []
  },
  {
   "id": 127636,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2440804033,
   "lati": 49.9961809386,
-  "FullNameUA": "узвіз Куликівський, 7"
+  "FullNameUA": "узвіз Куликівський, 7",
+  "ChildsIds": []
  },
  {
   "id": 127637,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2447409213,
   "lati": 49.9959422464,
-  "FullNameUA": "узвіз Куликівський, 7/9"
+  "FullNameUA": "узвіз Куликівський, 7/9",
+  "ChildsIds": []
  },
  {
   "id": 127638,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2437838668,
   "lati": 49.9966031498,
-  "FullNameUA": "узвіз Куликівський, 8/10"
+  "FullNameUA": "узвіз Куликівський, 8/10",
+  "ChildsIds": []
  },
  {
   "id": 127639,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244066360400005,
-  "lati": 49.995943668900004,
-  "FullNameUA": "узвіз Куликівський, 9"
+  "longt": 36.2440663604,
+  "lati": 49.9959436689,
+  "FullNameUA": "узвіз Куликівський, 9",
+  "ChildsIds": []
  },
  {
   "id": 127640,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243857607900004,
-  "lati": 49.995643244300005,
-  "FullNameUA": "узвіз Куликівський, 11"
+  "longt": 36.2438576079,
+  "lati": 49.9956432443,
+  "FullNameUA": "узвіз Куликівський, 11",
+  "ChildsIds": []
  },
  {
   "id": 177787,
@@ -195,9 +202,12 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.243612245200005,
-  "lati": 49.994562833900005,
-  "FullNameUA": "узвіз Куликівський, 12"
+  "longt": 36.2436122452,
+  "lati": 49.9945628339,
+  "FullNameUA": "узвіз Куликівський, 12",
+  "ChildsIds": [
+   125139
+  ]
  },
  {
   "id": 127641,
@@ -222,7 +232,8 @@
   "reg_date": "",
   "longt": 36.2438188822,
   "lati": 49.9954018779,
-  "FullNameUA": "узвіз Куликівський, 13"
+  "FullNameUA": "узвіз Куликівський, 13",
+  "ChildsIds": []
  },
  {
   "id": 127642,
@@ -246,8 +257,11 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2433682973,
-  "lati": 49.995380518400005,
-  "FullNameUA": "узвіз Куликівський, 14"
+  "lati": 49.9953805184,
+  "FullNameUA": "узвіз Куликівський, 14",
+  "ChildsIds": [
+   125139
+  ]
  },
  {
   "id": 127643,
@@ -272,6 +286,63 @@
   "reg_date": "",
   "longt": 36.2437810089,
   "lati": 49.9949781491,
-  "FullNameUA": "узвіз Куликівський, 15"
+  "FullNameUA": "узвіз Куликівський, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 181968,
+  "postcode": 61002,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3764,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 10:16:04",
+  "longt": 36.2431662006,
+  "lati": 49.9949668188,
+  "FullNameUA": "узвіз Куликівський, 16",
+  "ChildsIds": [
+   125139
+  ]
+ },
+ {
+  "id": 181969,
+  "postcode": 61002,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 3764,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 10:17:09",
+  "longt": 36.2428880756,
+  "lati": 49.9945853575,
+  "FullNameUA": "узвіз Куликівський, 20",
+  "ChildsIds": [
+   125139
+  ]
  }
 ]

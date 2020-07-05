@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.280993161,
   "lati": 49.9629036019,
-  "FullNameUA": "вулиця Ковтуна, 1"
+  "FullNameUA": "вулиця Ковтуна, 1",
+  "ChildsIds": []
  },
  {
   "id": 168773,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2811129879,
   "lati": 49.962238886,
-  "FullNameUA": "вулиця Ковтуна, 4"
+  "FullNameUA": "вулиця Ковтуна, 4",
+  "ChildsIds": []
  },
  {
   "id": 168774,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2874171487,
   "lati": 49.9617885241,
-  "FullNameUA": "вулиця Ковтуна, 5"
+  "FullNameUA": "вулиця Ковтуна, 5",
+  "ChildsIds": []
  },
  {
   "id": 168776,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2849628062,
   "lati": 49.9612277543,
-  "FullNameUA": "вулиця Ковтуна, 10-А"
+  "FullNameUA": "вулиця Ковтуна, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 168775,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2849536922,
   "lati": 49.9615849322,
-  "FullNameUA": "вулиця Ковтуна, 10"
+  "FullNameUA": "вулиця Ковтуна, 10",
+  "ChildsIds": []
  },
  {
   "id": 168777,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285547761400004,
+  "longt": 36.2855477614,
   "lati": 49.9615453369,
-  "FullNameUA": "вулиця Ковтуна, 12"
+  "FullNameUA": "вулиця Ковтуна, 12",
+  "ChildsIds": []
  },
  {
   "id": 102487,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30193400260001,
+  "longt": 36.3019340026,
   "lati": 49.9590709172,
-  "FullNameUA": "вулиця Ковтуна, 13-А"
+  "FullNameUA": "вулиця Ковтуна, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 168778,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2858761028,
-  "lati": 49.961079539400004,
-  "FullNameUA": "вулиця Ковтуна, 14"
+  "lati": 49.9610795394,
+  "FullNameUA": "вулиця Ковтуна, 14",
+  "ChildsIds": []
  },
  {
   "id": 168779,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2895149829,
   "lati": 49.9620001317,
-  "FullNameUA": "вулиця Ковтуна, 15"
+  "FullNameUA": "вулиця Ковтуна, 15",
+  "ChildsIds": []
  },
  {
   "id": 168780,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2863870368,
   "lati": 49.961411232,
-  "FullNameUA": "вулиця Ковтуна, 16"
+  "FullNameUA": "вулиця Ковтуна, 16",
+  "ChildsIds": []
  },
  {
   "id": 168781,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.290349259399996,
+  "longt": 36.2903492594,
   "lati": 49.9618186519,
-  "FullNameUA": "вулиця Ковтуна, 17"
+  "FullNameUA": "вулиця Ковтуна, 17",
+  "ChildsIds": []
  },
  {
   "id": 168782,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2866296412,
   "lati": 49.9609614558,
-  "FullNameUA": "вулиця Ковтуна, 18"
+  "FullNameUA": "вулиця Ковтуна, 18",
+  "ChildsIds": []
  },
  {
   "id": 168783,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2925236382,
   "lati": 49.9611982492,
-  "FullNameUA": "вулиця Ковтуна, 19"
+  "FullNameUA": "вулиця Ковтуна, 19",
+  "ChildsIds": []
  },
  {
   "id": 168784,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2872241107,
-  "lati": 49.961277891900004,
-  "FullNameUA": "вулиця Ковтуна, 20"
+  "lati": 49.9612778919,
+  "FullNameUA": "вулиця Ковтуна, 20",
+  "ChildsIds": []
  },
  {
   "id": 168785,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2930568888,
   "lati": 49.9609075223,
-  "FullNameUA": "вулиця Ковтуна, 21"
+  "FullNameUA": "вулиця Ковтуна, 21",
+  "ChildsIds": []
  },
  {
   "id": 168786,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2878824085,
   "lati": 49.9611748525,
-  "FullNameUA": "вулиця Ковтуна, 22"
+  "FullNameUA": "вулиця Ковтуна, 22",
+  "ChildsIds": []
  },
  {
   "id": 168787,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2879024864,
   "lati": 49.9607646018,
-  "FullNameUA": "вулиця Ковтуна, 22-А"
+  "FullNameUA": "вулиця Ковтуна, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 168788,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2936214899,
   "lati": 49.9610223562,
-  "FullNameUA": "вулиця Ковтуна, 23"
+  "FullNameUA": "вулиця Ковтуна, 23",
+  "ChildsIds": []
  },
  {
   "id": 168789,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2883922931,
   "lati": 49.9610349256,
-  "FullNameUA": "вулиця Ковтуна, 24"
+  "FullNameUA": "вулиця Ковтуна, 24",
+  "ChildsIds": []
  },
  {
   "id": 168790,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.294150499,
   "lati": 49.9613637255,
-  "FullNameUA": "вулиця Ковтуна, 25"
+  "FullNameUA": "вулиця Ковтуна, 25",
+  "ChildsIds": []
  },
  {
   "id": 168791,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2945042753,
   "lati": 49.9608921749,
-  "FullNameUA": "вулиця Ковтуна, 27"
+  "FullNameUA": "вулиця Ковтуна, 27",
+  "ChildsIds": []
  },
  {
   "id": 168792,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2906778788,
   "lati": 49.9606156971,
-  "FullNameUA": "вулиця Ковтуна, 30"
+  "FullNameUA": "вулиця Ковтуна, 30",
+  "ChildsIds": []
  },
  {
   "id": 168793,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2911363266,
   "lati": 49.9605149758,
-  "FullNameUA": "вулиця Ковтуна, 32"
+  "FullNameUA": "вулиця Ковтуна, 32",
+  "ChildsIds": []
  },
  {
   "id": 168794,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2915790764,
   "lati": 49.9604437072,
-  "FullNameUA": "вулиця Ковтуна, 34"
+  "FullNameUA": "вулиця Ковтуна, 34",
+  "ChildsIds": []
  },
  {
   "id": 168795,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2922524599,
   "lati": 49.9605803121,
-  "FullNameUA": "вулиця Ковтуна, 36"
+  "FullNameUA": "вулиця Ковтуна, 36",
+  "ChildsIds": []
  },
  {
   "id": 102489,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302328141500006,
+  "longt": 36.3023281415,
   "lati": 49.9601256199,
-  "FullNameUA": "вулиця Ковтуна, 37-А"
+  "FullNameUA": "вулиця Ковтуна, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 102488,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302496302200005,
+  "longt": 36.3024963022,
   "lati": 49.9596544921,
-  "FullNameUA": "вулиця Ковтуна, 37"
+  "FullNameUA": "вулиця Ковтуна, 37",
+  "ChildsIds": []
  },
  {
   "id": 168796,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2920762818,
   "lati": 49.9601243145,
-  "FullNameUA": "вулиця Ковтуна, 38"
+  "FullNameUA": "вулиця Ковтуна, 38",
+  "ChildsIds": []
  },
  {
   "id": 168797,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2933531945,
   "lati": 49.9602219641,
-  "FullNameUA": "вулиця Ковтуна, 40"
+  "FullNameUA": "вулиця Ковтуна, 40",
+  "ChildsIds": []
  },
  {
   "id": 168798,
@@ -747,32 +776,8 @@
   "reg_date": "",
   "longt": 36.292907566,
   "lati": 49.9602416682,
-  "FullNameUA": "вулиця Ковтуна, 40-А"
- },
- {
-  "id": 168800,
-  "postcode": 61036,
-  "number": 42,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2902,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.293874892699996,
-  "lati": 49.9592764208,
-  "FullNameUA": "вулиця Ковтуна, 42-А"
+  "FullNameUA": "вулиця Ковтуна, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 168799,
@@ -796,8 +801,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2942452569,
-  "lati": 49.960083641000004,
-  "FullNameUA": "вулиця Ковтуна, 42"
+  "lati": 49.960083641,
+  "FullNameUA": "вулиця Ковтуна, 42",
+  "ChildsIds": []
+ },
+ {
+  "id": 168800,
+  "postcode": 61036,
+  "number": 42,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2902,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2938748927,
+  "lati": 49.9592764208,
+  "FullNameUA": "вулиця Ковтуна, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 102490,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2952836484,
   "lati": 49.9601038942,
-  "FullNameUA": "вулиця Ковтуна, 48/13"
+  "FullNameUA": "вулиця Ковтуна, 48/13",
+  "ChildsIds": []
  },
  {
   "id": 102491,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.296589627799996,
+  "longt": 36.2965896278,
   "lati": 49.9597629903,
-  "FullNameUA": "вулиця Ковтуна, 50"
+  "FullNameUA": "вулиця Ковтуна, 50",
+  "ChildsIds": []
  },
  {
   "id": 102492,
@@ -872,32 +906,8 @@
   "reg_date": "",
   "longt": 36.3007170523,
   "lati": 49.9590193406,
-  "FullNameUA": "вулиця Ковтуна, 52"
- },
- {
-  "id": 168802,
-  "postcode": 61036,
-  "number": 60,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2902,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "28.12.2019 14:10:15",
-  "longt": 36.30209438200001,
-  "lati": 49.956226430300006,
-  "FullNameUA": "вулиця Ковтуна, 60-А"
+  "FullNameUA": "вулиця Ковтуна, 52",
+  "ChildsIds": []
  },
  {
   "id": 168801,
@@ -920,9 +930,38 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.296376873999996,
+  "longt": 36.296376874,
   "lati": 49.9579266529,
-  "FullNameUA": "вулиця Ковтуна, 60"
+  "FullNameUA": "вулиця Ковтуна, 60",
+  "ChildsIds": [
+   168802
+  ]
+ },
+ {
+  "id": 168802,
+  "postcode": 61036,
+  "number": 60,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2902,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.12.2019 14:10:15",
+  "longt": 36.302094382,
+  "lati": 49.9562264303,
+  "FullNameUA": "вулиця Ковтуна, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 168803,
@@ -947,7 +986,8 @@
   "reg_date": "11.03.2019 11:10:39",
   "longt": 36.2999568499,
   "lati": 49.9568028977,
-  "FullNameUA": "вулиця Ковтуна, 62"
+  "FullNameUA": "вулиця Ковтуна, 62",
+  "ChildsIds": []
  },
  {
   "id": 168804,
@@ -970,8 +1010,9 @@
   "same_adr_comm": "нежитлові будівлі літ. «Е-1», літ. «Л-1», літ. «Ж/1-1», літ. «К/1-1»",
   "confrm": "",
   "reg_date": "11.03.2019 11:11:57",
-  "longt": 36.299452120699996,
-  "lati": 49.956866048200006,
-  "FullNameUA": "вулиця Ковтуна, 64"
+  "longt": 36.2994521207,
+  "lati": 49.9568660482,
+  "FullNameUA": "вулиця Ковтуна, 64",
+  "ChildsIds": []
  }
 ]

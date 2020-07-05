@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.351571944,
   "lati": 49.9347345736,
-  "FullNameUA": "вулиця Механізаторів, 1"
+  "FullNameUA": "вулиця Механізаторів, 1",
+  "ChildsIds": []
  },
  {
   "id": 111195,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.350098289900004,
+  "longt": 36.3500982899,
   "lati": 49.9366973366,
-  "FullNameUA": "вулиця Механізаторів, 2"
+  "FullNameUA": "вулиця Механізаторів, 2",
+  "ChildsIds": []
  },
  {
   "id": 111196,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3488723811,
   "lati": 49.9366326409,
-  "FullNameUA": "вулиця Механізаторів, 2-Б"
+  "FullNameUA": "вулиця Механізаторів, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 111197,
@@ -97,7 +100,86 @@
   "reg_date": "",
   "longt": 36.3506619343,
   "lati": 49.93632867,
-  "FullNameUA": "вулиця Механізаторів, 3"
+  "FullNameUA": "вулиця Механізаторів, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 182907,
+  "postcode": 61075,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3249,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3511544941,
+  "lati": 49.935960275,
+  "FullNameUA": "вулиця Механізаторів, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 182906,
+  "postcode": 61075,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3249,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.351390366,
+  "lati": 49.9358103015,
+  "FullNameUA": "вулиця Механізаторів, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 182905,
+  "postcode": 61075,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3249,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3516517611,
+  "lati": 49.9356478524,
+  "FullNameUA": "вулиця Механізаторів, 9",
+  "ChildsIds": []
  },
  {
   "id": 178731,
@@ -122,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3518104516,
   "lati": 49.9354526506,
-  "FullNameUA": "вулиця Механізаторів, 11"
+  "FullNameUA": "вулиця Механізаторів, 11",
+  "ChildsIds": []
  },
  {
   "id": 178730,
@@ -147,7 +230,8 @@
   "reg_date": "",
   "longt": 36.352045628,
   "lati": 49.9352712005,
-  "FullNameUA": "вулиця Механізаторів, 13"
+  "FullNameUA": "вулиця Механізаторів, 13",
+  "ChildsIds": []
  },
  {
   "id": 178729,
@@ -172,6 +256,7 @@
   "reg_date": "",
   "longt": 36.352342795,
   "lati": 49.9351368518,
-  "FullNameUA": "вулиця Механізаторів, 15"
+  "FullNameUA": "вулиця Механізаторів, 15",
+  "ChildsIds": []
  }
 ]

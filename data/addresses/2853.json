@@ -22,13 +22,14 @@
   "reg_date": "",
   "longt": 36.3182104507,
   "lati": 50.0380218198,
-  "FullNameUA": "вулиця Квітуча, 1"
+  "FullNameUA": "вулиця Квітуча, 1",
+  "ChildsIds": []
  },
  {
-  "id": 123618,
+  "id": 123617,
   "postcode": 61107,
   "number": 2,
-  "suffix": "Г",
+  "suffix": "А",
   "block": "",
   "streetid": 2853,
   "status_id": 1,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3179038543,
-  "lati": 50.0368016562,
-  "FullNameUA": "вулиця Квітуча, 2-Г"
+  "longt": 36.3179697581,
+  "lati": 50.0373652274,
+  "FullNameUA": "вулиця Квітуча, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 123616,
@@ -72,13 +74,14 @@
   "reg_date": "",
   "longt": 36.31810218,
   "lati": 50.0375873571,
-  "FullNameUA": "вулиця Квітуча, 2"
+  "FullNameUA": "вулиця Квітуча, 2",
+  "ChildsIds": []
  },
  {
-  "id": 123617,
+  "id": 123618,
   "postcode": 61107,
   "number": 2,
-  "suffix": "А",
+  "suffix": "Г",
   "block": "",
   "streetid": 2853,
   "status_id": 1,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317969758100006,
-  "lati": 50.0373652274,
-  "FullNameUA": "вулиця Квітуча, 2-А"
+  "longt": 36.3179038543,
+  "lati": 50.0368016562,
+  "FullNameUA": "вулиця Квітуча, 2-Г",
+  "ChildsIds": []
  },
  {
   "id": 123620,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3184068666,
   "lati": 50.0379734691,
-  "FullNameUA": "вулиця Квітуча, 3-А"
+  "FullNameUA": "вулиця Квітуча, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 123619,
@@ -146,8 +151,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3185673698,
-  "lati": 50.037897321500004,
-  "FullNameUA": "вулиця Квітуча, 3"
+  "lati": 50.0378973215,
+  "FullNameUA": "вулиця Квітуча, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 123622,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3182530939,
+  "lati": 50.0370109445,
+  "FullNameUA": "вулиця Квітуча, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 123621,
@@ -172,32 +204,8 @@
   "reg_date": "",
   "longt": 36.3186746001,
   "lati": 50.0377127975,
-  "FullNameUA": "вулиця Квітуча, 4"
- },
- {
-  "id": 123622,
-  "postcode": 61107,
-  "number": 4,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.318253093900005,
-  "lati": 50.037010944500004,
-  "FullNameUA": "вулиця Квітуча, 4-Б"
+  "FullNameUA": "вулиця Квітуча, 4",
+  "ChildsIds": []
  },
  {
   "id": 175189,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.319116354,
   "lati": 50.0357531532,
-  "FullNameUA": "вулиця Квітуча, 5-А"
+  "FullNameUA": "вулиця Квітуча, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 123623,
@@ -246,33 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3187637,
-  "lati": 50.037855048800004,
-  "FullNameUA": "вулиця Квітуча, 5"
- },
- {
-  "id": 123624,
-  "postcode": 61107,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3189275048,
-  "lati": 50.0376336328,
-  "FullNameUA": "вулиця Квітуча, 6"
+  "lati": 50.0378550488,
+  "FullNameUA": "вулиця Квітуча, 5",
+  "ChildsIds": []
  },
  {
   "id": 178746,
@@ -296,8 +281,9 @@
   "confrm": "in4",
   "reg_date": "",
   "longt": 36.3185753594,
-  "lati": 50.036970545500004,
-  "FullNameUA": "вулиця Квітуча, 6-Б"
+  "lati": 50.0369705455,
+  "FullNameUA": "вулиця Квітуча, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 175188,
@@ -322,7 +308,34 @@
   "reg_date": "",
   "longt": 36.3189562562,
   "lati": 50.0363373625,
-  "FullNameUA": "вулиця Квітуча, 6-А"
+  "FullNameUA": "вулиця Квітуча, 6-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123624,
+  "postcode": 61107,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3189275048,
+  "lati": 50.0376336328,
+  "FullNameUA": "вулиця Квітуча, 6",
+  "ChildsIds": []
  },
  {
   "id": 123625,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.3190160823,
   "lati": 50.0378338932,
-  "FullNameUA": "вулиця Квітуча, 7"
+  "FullNameUA": "вулиця Квітуча, 7",
+  "ChildsIds": []
  },
  {
   "id": 175190,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3192131679,
   "lati": 50.0356391608,
-  "FullNameUA": "вулиця Квітуча, 7-А"
+  "FullNameUA": "вулиця Квітуча, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 123626,
@@ -396,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3192784203,
-  "lati": 50.037588376100004,
-  "FullNameUA": "вулиця Квітуча, 8"
+  "lati": 50.0375883761,
+  "FullNameUA": "вулиця Квітуча, 8",
+  "ChildsIds": []
  },
  {
   "id": 178745,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3189061606,
   "lati": 50.0368961324,
-  "FullNameUA": "вулиця Квітуча, 8-Б"
+  "FullNameUA": "вулиця Квітуча, 8-Б",
+  "ChildsIds": []
  },
  {
   "id": 175191,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3190778792,
   "lati": 50.0361545171,
-  "FullNameUA": "вулиця Квітуча, 8-А"
+  "FullNameUA": "вулиця Квітуча, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 123628,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3193463151,
   "lati": 50.0379267421,
-  "FullNameUA": "вулиця Квітуча, 9-А"
+  "FullNameUA": "вулиця Квітуча, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 123627,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3192973094,
   "lati": 50.0377486966,
-  "FullNameUA": "вулиця Квітуча, 9"
+  "FullNameUA": "вулиця Квітуча, 9",
+  "ChildsIds": []
  },
  {
   "id": 175192,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.3193101812,
   "lati": 50.0360682077,
-  "FullNameUA": "вулиця Квітуча, 10-А"
+  "FullNameUA": "вулиця Квітуча, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 123629,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319523844900004,
-  "lati": 50.037536955200004,
-  "FullNameUA": "вулиця Квітуча, 10"
+  "longt": 36.3195238449,
+  "lati": 50.0375369552,
+  "FullNameUA": "вулиця Квітуча, 10",
+  "ChildsIds": []
  },
  {
   "id": 123630,
@@ -572,32 +594,8 @@
   "reg_date": "",
   "longt": 36.3194669827,
   "lati": 50.037736871,
-  "FullNameUA": "вулиця Квітуча, 11"
- },
- {
-  "id": 175193,
-  "postcode": 61107,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3195503154,
-  "lati": 50.0359454299,
-  "FullNameUA": "вулиця Квітуча, 12-А"
+  "FullNameUA": "вулиця Квітуча, 11",
+  "ChildsIds": []
  },
  {
   "id": 123631,
@@ -622,7 +620,60 @@
   "reg_date": "",
   "longt": 36.3197385558,
   "lati": 50.0374707073,
-  "FullNameUA": "вулиця Квітуча, 12"
+  "FullNameUA": "вулиця Квітуча, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 175193,
+  "postcode": 61107,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3195503154,
+  "lati": 50.0359454299,
+  "FullNameUA": "вулиця Квітуча, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123633,
+  "postcode": 61107,
+  "number": 13,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3199017802,
+  "lati": 50.034849209,
+  "FullNameUA": "вулиця Квітуча, 13-Б",
+  "ChildsIds": []
  },
  {
   "id": 123632,
@@ -647,7 +698,8 @@
   "reg_date": "",
   "longt": 36.319829806,
   "lati": 50.0376676832,
-  "FullNameUA": "вулиця Квітуча, 13"
+  "FullNameUA": "вулиця Квітуча, 13",
+  "ChildsIds": []
  },
  {
   "id": 175187,
@@ -671,14 +723,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3200292329,
-  "lati": 50.035108082200004,
-  "FullNameUA": "вулиця Квітуча, 13-А"
+  "lati": 50.0351080822,
+  "FullNameUA": "вулиця Квітуча, 13-А",
+  "ChildsIds": []
  },
  {
-  "id": 123633,
+  "id": 123634,
   "postcode": 61107,
-  "number": 13,
-  "suffix": "Б",
+  "number": 14,
+  "suffix": "",
   "block": "",
   "streetid": 2853,
   "status_id": 1,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319901780200006,
-  "lati": 50.034849209,
-  "FullNameUA": "вулиця Квітуча, 13-Б"
+  "longt": 36.319937067,
+  "lati": 50.0373966743,
+  "FullNameUA": "вулиця Квітуча, 14",
+  "ChildsIds": []
  },
  {
   "id": 175194,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.3197739369,
   "lati": 50.0358314415,
-  "FullNameUA": "вулиця Квітуча, 14-А"
- },
- {
-  "id": 123634,
-  "postcode": 61107,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.319937067000005,
-  "lati": 50.0373966743,
-  "FullNameUA": "вулиця Квітуча, 14"
+  "FullNameUA": "вулиця Квітуча, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 123635,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3200520307,
   "lati": 50.0375962065,
-  "FullNameUA": "вулиця Квітуча, 15"
+  "FullNameUA": "вулиця Квітуча, 15",
+  "ChildsIds": []
  },
  {
   "id": 123636,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3201474231,
   "lati": 50.0373284939,
-  "FullNameUA": "вулиця Квітуча, 16"
+  "FullNameUA": "вулиця Квітуча, 16",
+  "ChildsIds": []
  },
  {
   "id": 175195,
@@ -822,32 +854,8 @@
   "reg_date": "",
   "longt": 36.3201259616,
   "lati": 50.0357317558,
-  "FullNameUA": "вулиця Квітуча, 16-А"
- },
- {
-  "id": 123638,
-  "postcode": 61107,
-  "number": 17,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3209762685,
-  "lati": 50.038322764600004,
-  "FullNameUA": "вулиця Квітуча, 17-А"
+  "FullNameUA": "вулиця Квітуча, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 123637,
@@ -872,7 +880,34 @@
   "reg_date": "",
   "longt": 36.3203552396,
   "lati": 50.0376633626,
-  "FullNameUA": "вулиця Квітуча, 17"
+  "FullNameUA": "вулиця Квітуча, 17",
+  "ChildsIds": []
+ },
+ {
+  "id": 123638,
+  "postcode": 61107,
+  "number": 17,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3209762685,
+  "lati": 50.0383227646,
+  "FullNameUA": "вулиця Квітуча, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 123639,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.3203091958,
   "lati": 50.0372320911,
-  "FullNameUA": "вулиця Квітуча, 18"
+  "FullNameUA": "вулиця Квітуча, 18",
+  "ChildsIds": []
  },
  {
   "id": 175210,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3246208534,
   "lati": 50.0343543395,
-  "FullNameUA": "вулиця Квітуча, 19-Б"
+  "FullNameUA": "вулиця Квітуча, 19-Б",
+  "ChildsIds": []
  },
  {
   "id": 123640,
@@ -947,32 +984,8 @@
   "reg_date": "",
   "longt": 36.3205201328,
   "lati": 50.0374460179,
-  "FullNameUA": "вулиця Квітуча, 19"
- },
- {
-  "id": 175196,
-  "postcode": 61107,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.320860005200004,
-  "lati": 50.035586841400004,
-  "FullNameUA": "вулиця Квітуча, 20-А"
+  "FullNameUA": "вулиця Квітуча, 19",
+  "ChildsIds": []
  },
  {
   "id": 123641,
@@ -997,7 +1010,34 @@
   "reg_date": "",
   "longt": 36.3205116764,
   "lati": 50.0371875404,
-  "FullNameUA": "вулиця Квітуча, 20"
+  "FullNameUA": "вулиця Квітуча, 20",
+  "ChildsIds": []
+ },
+ {
+  "id": 175196,
+  "postcode": 61107,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3208600052,
+  "lati": 50.0355868414,
+  "FullNameUA": "вулиця Квітуча, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 123642,
@@ -1022,32 +1062,8 @@
   "reg_date": "",
   "longt": 36.3207249986,
   "lati": 50.0373654876,
-  "FullNameUA": "вулиця Квітуча, 21"
- },
- {
-  "id": 123644,
-  "postcode": 61107,
-  "number": 22,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3207200963,
-  "lati": 50.0371039379,
-  "FullNameUA": "вулиця Квітуча, 22-А"
+  "FullNameUA": "вулиця Квітуча, 21",
+  "ChildsIds": []
  },
  {
   "id": 123643,
@@ -1072,7 +1088,34 @@
   "reg_date": "",
   "longt": 36.3208756634,
   "lati": 50.037040951,
-  "FullNameUA": "вулиця Квітуча, 22"
+  "FullNameUA": "вулиця Квітуча, 22",
+  "ChildsIds": []
+ },
+ {
+  "id": 123644,
+  "postcode": 61107,
+  "number": 22,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3207200963,
+  "lati": 50.0371039379,
+  "FullNameUA": "вулиця Квітуча, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 123645,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3211567227,
   "lati": 50.0372793218,
-  "FullNameUA": "вулиця Квітуча, 23"
+  "FullNameUA": "вулиця Квітуча, 23",
+  "ChildsIds": []
  },
  {
   "id": 123646,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.3210424661,
   "lati": 50.0369812071,
-  "FullNameUA": "вулиця Квітуча, 24"
+  "FullNameUA": "вулиця Квітуча, 24",
+  "ChildsIds": []
  },
  {
   "id": 123647,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3215511151,
   "lati": 50.0371642498,
-  "FullNameUA": "вулиця Квітуча, 25"
+  "FullNameUA": "вулиця Квітуча, 25",
+  "ChildsIds": []
  },
  {
   "id": 175198,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3216790542,
   "lati": 50.0355008436,
-  "FullNameUA": "вулиця Квітуча, 26-А"
+  "FullNameUA": "вулиця Квітуча, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 123648,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.3213087391,
   "lati": 50.0369009324,
-  "FullNameUA": "вулиця Квітуча, 26"
+  "FullNameUA": "вулиця Квітуча, 26",
+  "ChildsIds": []
  },
  {
   "id": 123650,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.3226666442,
   "lati": 50.0367544947,
-  "FullNameUA": "вулиця Квітуча, 27-Б"
+  "FullNameUA": "вулиця Квітуча, 27-Б",
+  "ChildsIds": []
  },
  {
   "id": 123649,
@@ -1247,32 +1296,8 @@
   "reg_date": "",
   "longt": 36.3218725788,
   "lati": 50.0370219646,
-  "FullNameUA": "вулиця Квітуча, 27"
- },
- {
-  "id": 177946,
-  "postcode": 61107,
-  "number": 28,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради №176-1, 21.09.2010",
-  "reg_date": "04.03.2019 12:22:30",
-  "longt": 36.3222178075,
-  "lati": 50.0352802652,
-  "FullNameUA": "вулиця Квітуча, 28-Б"
+  "FullNameUA": "вулиця Квітуча, 27",
+  "ChildsIds": []
  },
  {
   "id": 123651,
@@ -1297,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.3215304587,
   "lati": 50.0368252054,
-  "FullNameUA": "вулиця Квітуча, 28"
+  "FullNameUA": "вулиця Квітуча, 28",
+  "ChildsIds": []
  },
  {
   "id": 123652,
@@ -1322,7 +1348,36 @@
   "reg_date": "04.03.2019 12:29:03",
   "longt": 36.3220359884,
   "lati": 50.0354282543,
-  "FullNameUA": "вулиця Квітуча, 28-А"
+  "FullNameUA": "вулиця Квітуча, 28-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177946,
+  "postcode": 61107,
+  "number": 28,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради №176-1, 21.09.2010",
+  "reg_date": "04.03.2019 12:22:30",
+  "longt": 36.3222178075,
+  "lati": 50.0352802652,
+  "FullNameUA": "вулиця Квітуча, 28-Б",
+  "ChildsIds": [
+   177947
+  ]
  },
  {
   "id": 123653,
@@ -1347,7 +1402,8 @@
   "reg_date": "",
   "longt": 36.3218126336,
   "lati": 50.0367413719,
-  "FullNameUA": "вулиця Квітуча, 30"
+  "FullNameUA": "вулиця Квітуча, 30",
+  "ChildsIds": []
  },
  {
   "id": 123654,
@@ -1371,33 +1427,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3228741033,
-  "lati": 50.036672899900005,
-  "FullNameUA": "вулиця Квітуча, 31"
- },
- {
-  "id": 175199,
-  "postcode": 61107,
-  "number": 32,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3224671647,
-  "lati": 50.0351747844,
-  "FullNameUA": "вулиця Квітуча, 32-А"
+  "lati": 50.0366728999,
+  "FullNameUA": "вулиця Квітуча, 31",
+  "ChildsIds": []
  },
  {
   "id": 123655,
@@ -1422,7 +1454,34 @@
   "reg_date": "",
   "longt": 36.3220402115,
   "lati": 50.036671137,
-  "FullNameUA": "вулиця Квітуча, 32"
+  "FullNameUA": "вулиця Квітуча, 32",
+  "ChildsIds": []
+ },
+ {
+  "id": 175199,
+  "postcode": 61107,
+  "number": 32,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3224671647,
+  "lati": 50.0351747844,
+  "FullNameUA": "вулиця Квітуча, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 123656,
@@ -1446,33 +1505,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3231375826,
-  "lati": 50.036604600400004,
-  "FullNameUA": "вулиця Квітуча, 33"
- },
- {
-  "id": 175200,
-  "postcode": 61107,
-  "number": 34,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3226750837,
-  "lati": 50.0351171182,
-  "FullNameUA": "вулиця Квітуча, 34-А"
+  "lati": 50.0366046004,
+  "FullNameUA": "вулиця Квітуча, 33",
+  "ChildsIds": []
  },
  {
   "id": 123657,
@@ -1497,7 +1532,34 @@
   "reg_date": "",
   "longt": 36.3222609275,
   "lati": 50.0365914177,
-  "FullNameUA": "вулиця Квітуча, 34"
+  "FullNameUA": "вулиця Квітуча, 34",
+  "ChildsIds": []
+ },
+ {
+  "id": 175200,
+  "postcode": 61107,
+  "number": 34,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3226750837,
+  "lati": 50.0351171182,
+  "FullNameUA": "вулиця Квітуча, 34-А",
+  "ChildsIds": []
  },
  {
   "id": 123659,
@@ -1522,7 +1584,8 @@
   "reg_date": "",
   "longt": 36.3234112998,
   "lati": 50.0367064917,
-  "FullNameUA": "вулиця Квітуча, 35-А"
+  "FullNameUA": "вулиця Квітуча, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 123658,
@@ -1547,32 +1610,8 @@
   "reg_date": "",
   "longt": 36.3235950658,
   "lati": 50.0365009804,
-  "FullNameUA": "вулиця Квітуча, 35"
- },
- {
-  "id": 175203,
-  "postcode": 61107,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3229025112,
-  "lati": 50.0349623793,
-  "FullNameUA": "вулиця Квітуча, 36-А"
+  "FullNameUA": "вулиця Квітуча, 35",
+  "ChildsIds": []
  },
  {
   "id": 123660,
@@ -1597,7 +1636,34 @@
   "reg_date": "",
   "longt": 36.322491007,
   "lati": 50.0365210618,
-  "FullNameUA": "вулиця Квітуча, 36"
+  "FullNameUA": "вулиця Квітуча, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 175203,
+  "postcode": 61107,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3229025112,
+  "lati": 50.0349623793,
+  "FullNameUA": "вулиця Квітуча, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 123661,
@@ -1622,32 +1688,8 @@
   "reg_date": "",
   "longt": 36.3238104625,
   "lati": 50.0364223178,
-  "FullNameUA": "вулиця Квітуча, 37"
- },
- {
-  "id": 175204,
-  "postcode": 61107,
-  "number": 38,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3232791424,
-  "lati": 50.0349744376,
-  "FullNameUA": "вулиця Квітуча, 38-А"
+  "FullNameUA": "вулиця Квітуча, 37",
+  "ChildsIds": []
  },
  {
   "id": 123662,
@@ -1672,12 +1714,13 @@
   "reg_date": "",
   "longt": 36.3225722722,
   "lati": 50.0362108901,
-  "FullNameUA": "вулиця Квітуча, 38"
+  "FullNameUA": "вулиця Квітуча, 38",
+  "ChildsIds": []
  },
  {
-  "id": 123664,
+  "id": 175204,
   "postcode": 61107,
-  "number": 39,
+  "number": 38,
   "suffix": "А",
   "block": "",
   "streetid": 2853,
@@ -1695,9 +1738,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.324074416,
-  "lati": 50.0363432285,
-  "FullNameUA": "вулиця Квітуча, 39-А"
+  "longt": 36.3232791424,
+  "lati": 50.0349744376,
+  "FullNameUA": "вулиця Квітуча, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 123663,
@@ -1722,7 +1766,34 @@
   "reg_date": "",
   "longt": 36.3240771149,
   "lati": 50.0364986521,
-  "FullNameUA": "вулиця Квітуча, 39"
+  "FullNameUA": "вулиця Квітуча, 39",
+  "ChildsIds": []
+ },
+ {
+  "id": 123664,
+  "postcode": 61107,
+  "number": 39,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.324074416,
+  "lati": 50.0363432285,
+  "FullNameUA": "вулиця Квітуча, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 123666,
@@ -1747,7 +1818,8 @@
   "reg_date": "",
   "longt": 36.322881133,
   "lati": 50.0363807538,
-  "FullNameUA": "вулиця Квітуча, 40-А"
+  "FullNameUA": "вулиця Квітуча, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 123665,
@@ -1772,7 +1844,8 @@
   "reg_date": "",
   "longt": 36.3231353914,
   "lati": 50.0362868697,
-  "FullNameUA": "вулиця Квітуча, 40"
+  "FullNameUA": "вулиця Квітуча, 40",
+  "ChildsIds": []
  },
  {
   "id": 123667,
@@ -1795,9 +1868,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.324269653900004,
+  "longt": 36.3242696539,
   "lati": 50.0362660524,
-  "FullNameUA": "вулиця Квітуча, 41"
+  "FullNameUA": "вулиця Квітуча, 41",
+  "ChildsIds": []
  },
  {
   "id": 123668,
@@ -1822,7 +1896,8 @@
   "reg_date": "",
   "longt": 36.3233555248,
   "lati": 50.0362027552,
-  "FullNameUA": "вулиця Квітуча, 42"
+  "FullNameUA": "вулиця Квітуча, 42",
+  "ChildsIds": []
  },
  {
   "id": 123669,
@@ -1847,7 +1922,8 @@
   "reg_date": "",
   "longt": 36.3245263738,
   "lati": 50.0361783995,
-  "FullNameUA": "вулиця Квітуча, 43"
+  "FullNameUA": "вулиця Квітуча, 43",
+  "ChildsIds": []
  },
  {
   "id": 123670,
@@ -1872,7 +1948,8 @@
   "reg_date": "",
   "longt": 36.3237958164,
   "lati": 50.0361291391,
-  "FullNameUA": "вулиця Квітуча, 44"
+  "FullNameUA": "вулиця Квітуча, 44",
+  "ChildsIds": []
  },
  {
   "id": 123671,
@@ -1896,8 +1973,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3247524411,
-  "lati": 50.036113674300005,
-  "FullNameUA": "вулиця Квітуча, 45"
+  "lati": 50.0361136743,
+  "FullNameUA": "вулиця Квітуча, 45",
+  "ChildsIds": []
  },
  {
   "id": 123672,
@@ -1922,7 +2000,8 @@
   "reg_date": "",
   "longt": 36.324024692,
   "lati": 50.0360684045,
-  "FullNameUA": "вулиця Квітуча, 46"
+  "FullNameUA": "вулиця Квітуча, 46",
+  "ChildsIds": []
  },
  {
   "id": 123673,
@@ -1947,7 +2026,8 @@
   "reg_date": "",
   "longt": 36.3250313267,
   "lati": 50.036019683,
-  "FullNameUA": "вулиця Квітуча, 47"
+  "FullNameUA": "вулиця Квітуча, 47",
+  "ChildsIds": []
  },
  {
   "id": 123674,
@@ -1972,7 +2052,8 @@
   "reg_date": "",
   "longt": 36.3242190443,
   "lati": 50.0359755016,
-  "FullNameUA": "вулиця Квітуча, 48"
+  "FullNameUA": "вулиця Квітуча, 48",
+  "ChildsIds": []
  },
  {
   "id": 123675,
@@ -1997,7 +2078,8 @@
   "reg_date": "",
   "longt": 36.3253601821,
   "lati": 50.0359017607,
-  "FullNameUA": "вулиця Квітуча, 49"
+  "FullNameUA": "вулиця Квітуча, 49",
+  "ChildsIds": []
  },
  {
   "id": 123676,
@@ -2022,7 +2104,8 @@
   "reg_date": "",
   "longt": 36.3245113216,
   "lati": 50.0357740659,
-  "FullNameUA": "вулиця Квітуча, 50"
+  "FullNameUA": "вулиця Квітуча, 50",
+  "ChildsIds": []
  },
  {
   "id": 123677,
@@ -2047,7 +2130,8 @@
   "reg_date": "",
   "longt": 36.3255949329,
   "lati": 50.03585234,
-  "FullNameUA": "вулиця Квітуча, 51"
+  "FullNameUA": "вулиця Квітуча, 51",
+  "ChildsIds": []
  },
  {
   "id": 123678,
@@ -2072,7 +2156,8 @@
   "reg_date": "",
   "longt": 36.3247941881,
   "lati": 50.035732124,
-  "FullNameUA": "вулиця Квітуча, 52"
+  "FullNameUA": "вулиця Квітуча, 52",
+  "ChildsIds": []
  },
  {
   "id": 123679,
@@ -2097,7 +2182,8 @@
   "reg_date": "",
   "longt": 36.3258003943,
   "lati": 50.0357879263,
-  "FullNameUA": "вулиця Квітуча, 53"
+  "FullNameUA": "вулиця Квітуча, 53",
+  "ChildsIds": []
  },
  {
   "id": 123680,
@@ -2122,7 +2208,8 @@
   "reg_date": "",
   "longt": 36.3249759555,
   "lati": 50.0356690435,
-  "FullNameUA": "вулиця Квітуча, 54"
+  "FullNameUA": "вулиця Квітуча, 54",
+  "ChildsIds": []
  },
  {
   "id": 123681,
@@ -2147,7 +2234,8 @@
   "reg_date": "",
   "longt": 36.3260027024,
   "lati": 50.0357262094,
-  "FullNameUA": "вулиця Квітуча, 55"
+  "FullNameUA": "вулиця Квітуча, 55",
+  "ChildsIds": []
  },
  {
   "id": 123682,
@@ -2171,8 +2259,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3252146508,
-  "lati": 50.035470311800005,
-  "FullNameUA": "вулиця Квітуча, 56"
+  "lati": 50.0354703118,
+  "FullNameUA": "вулиця Квітуча, 56",
+  "ChildsIds": []
  },
  {
   "id": 123683,
@@ -2197,7 +2286,8 @@
   "reg_date": "",
   "longt": 36.3262108262,
   "lati": 50.0356836017,
-  "FullNameUA": "вулиця Квітуча, 57"
+  "FullNameUA": "вулиця Квітуча, 57",
+  "ChildsIds": []
  },
  {
   "id": 123684,
@@ -2222,7 +2312,8 @@
   "reg_date": "",
   "longt": 36.3254408902,
   "lati": 50.0354719729,
-  "FullNameUA": "вулиця Квітуча, 58"
+  "FullNameUA": "вулиця Квітуча, 58",
+  "ChildsIds": []
  },
  {
   "id": 123685,
@@ -2247,7 +2338,8 @@
   "reg_date": "",
   "longt": 36.3264460207,
   "lati": 50.0356996608,
-  "FullNameUA": "вулиця Квітуча, 59"
+  "FullNameUA": "вулиця Квітуча, 59",
+  "ChildsIds": []
  },
  {
   "id": 123686,
@@ -2271,8 +2363,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3256764214,
-  "lati": 50.035517350700005,
-  "FullNameUA": "вулиця Квітуча, 60"
+  "lati": 50.0355173507,
+  "FullNameUA": "вулиця Квітуча, 60",
+  "ChildsIds": []
  },
  {
   "id": 123687,
@@ -2297,57 +2390,8 @@
   "reg_date": "",
   "longt": 36.3267178771,
   "lati": 50.0355566835,
-  "FullNameUA": "вулиця Квітуча, 61"
- },
- {
-  "id": 123688,
-  "postcode": 61107,
-  "number": 62,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3259150833,
-  "lati": 50.0354503687,
-  "FullNameUA": "вулиця Квітуча, 62"
- },
- {
-  "id": 175212,
-  "postcode": 61107,
-  "number": 62,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3259570771,
-  "lati": 50.0339332306,
-  "FullNameUA": "вулиця Квітуча, 62-А"
+  "FullNameUA": "вулиця Квітуча, 61",
+  "ChildsIds": []
  },
  {
   "id": 175211,
@@ -2372,7 +2416,60 @@
   "reg_date": "",
   "longt": 36.3251368411,
   "lati": 50.0339274438,
-  "FullNameUA": "вулиця Квітуча, 62-Б"
+  "FullNameUA": "вулиця Квітуча, 62-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 123688,
+  "postcode": 61107,
+  "number": 62,
+  "suffix": "",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3259150833,
+  "lati": 50.0354503687,
+  "FullNameUA": "вулиця Квітуча, 62",
+  "ChildsIds": []
+ },
+ {
+  "id": 175212,
+  "postcode": 61107,
+  "number": 62,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3259570771,
+  "lati": 50.0339332306,
+  "FullNameUA": "вулиця Квітуча, 62-А",
+  "ChildsIds": []
  },
  {
   "id": 123689,
@@ -2396,8 +2493,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3268688761,
-  "lati": 50.035531216500004,
-  "FullNameUA": "вулиця Квітуча, 63"
+  "lati": 50.0355312165,
+  "FullNameUA": "вулиця Квітуча, 63",
+  "ChildsIds": []
  },
  {
   "id": 123690,
@@ -2422,7 +2520,34 @@
   "reg_date": "",
   "longt": 36.3261616045,
   "lati": 50.0353177318,
-  "FullNameUA": "вулиця Квітуча, 64"
+  "FullNameUA": "вулиця Квітуча, 64",
+  "ChildsIds": []
+ },
+ {
+  "id": 123691,
+  "postcode": 61107,
+  "number": 65,
+  "suffix": "",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.32709226,
+  "lati": 50.0354927664,
+  "FullNameUA": "вулиця Квітуча, 65",
+  "ChildsIds": []
  },
  {
   "id": 123692,
@@ -2447,32 +2572,8 @@
   "reg_date": "",
   "longt": 36.3273186978,
   "lati": 50.0354695011,
-  "FullNameUA": "вулиця Квітуча, 65-А"
- },
- {
-  "id": 123691,
-  "postcode": 61107,
-  "number": 65,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.32709226,
-  "lati": 50.035492766400004,
-  "FullNameUA": "вулиця Квітуча, 65"
+  "FullNameUA": "вулиця Квітуча, 65-А",
+  "ChildsIds": []
  },
  {
   "id": 123693,
@@ -2496,8 +2597,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3263256514,
-  "lati": 50.035352376300004,
-  "FullNameUA": "вулиця Квітуча, 66"
+  "lati": 50.0353523763,
+  "FullNameUA": "вулиця Квітуча, 66",
+  "ChildsIds": []
  },
  {
   "id": 123694,
@@ -2521,8 +2623,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3275201021,
-  "lati": 50.035432935100005,
-  "FullNameUA": "вулиця Квітуча, 67"
+  "lati": 50.0354329351,
+  "FullNameUA": "вулиця Квітуча, 67",
+  "ChildsIds": []
  },
  {
   "id": 123695,
@@ -2547,7 +2650,8 @@
   "reg_date": "",
   "longt": 36.3266020376,
   "lati": 50.0352922926,
-  "FullNameUA": "вулиця Квітуча, 68"
+  "FullNameUA": "вулиця Квітуча, 68",
+  "ChildsIds": []
  },
  {
   "id": 123696,
@@ -2572,7 +2676,8 @@
   "reg_date": "",
   "longt": 36.3278304903,
   "lati": 50.0354431421,
-  "FullNameUA": "вулиця Квітуча, 69"
+  "FullNameUA": "вулиця Квітуча, 69",
+  "ChildsIds": []
  },
  {
   "id": 123697,
@@ -2597,7 +2702,8 @@
   "reg_date": "",
   "longt": 36.3268303871,
   "lati": 50.035225971,
-  "FullNameUA": "вулиця Квітуча, 70"
+  "FullNameUA": "вулиця Квітуча, 70",
+  "ChildsIds": []
  },
  {
   "id": 123698,
@@ -2622,7 +2728,8 @@
   "reg_date": "",
   "longt": 36.3286948147,
   "lati": 50.0355147141,
-  "FullNameUA": "вулиця Квітуча, 71"
+  "FullNameUA": "вулиця Квітуча, 71",
+  "ChildsIds": []
  },
  {
   "id": 123699,
@@ -2647,7 +2754,8 @@
   "reg_date": "",
   "longt": 36.3270679779,
   "lati": 50.0351971207,
-  "FullNameUA": "вулиця Квітуча, 72"
+  "FullNameUA": "вулиця Квітуча, 72",
+  "ChildsIds": []
  },
  {
   "id": 123700,
@@ -2671,8 +2779,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3290542403,
-  "lati": 50.035477694600004,
-  "FullNameUA": "вулиця Квітуча, 73"
+  "lati": 50.0354776946,
+  "FullNameUA": "вулиця Квітуча, 73",
+  "ChildsIds": []
  },
  {
   "id": 123701,
@@ -2697,7 +2806,8 @@
   "reg_date": "",
   "longt": 36.3272823877,
   "lati": 50.0352012732,
-  "FullNameUA": "вулиця Квітуча, 74"
+  "FullNameUA": "вулиця Квітуча, 74",
+  "ChildsIds": []
  },
  {
   "id": 123702,
@@ -2722,7 +2832,8 @@
   "reg_date": "",
   "longt": 36.3295476662,
   "lati": 50.0353576408,
-  "FullNameUA": "вулиця Квітуча, 75"
+  "FullNameUA": "вулиця Квітуча, 75",
+  "ChildsIds": []
  },
  {
   "id": 123703,
@@ -2746,8 +2857,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3299659561,
-  "lati": 50.035364502200004,
-  "FullNameUA": "вулиця Квітуча, 77"
+  "lati": 50.0353645022,
+  "FullNameUA": "вулиця Квітуча, 77",
+  "ChildsIds": []
  },
  {
   "id": 123705,
@@ -2771,8 +2883,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3277954829,
-  "lati": 50.035036031400004,
-  "FullNameUA": "вулиця Квітуча, 78-А"
+  "lati": 50.0350360314,
+  "FullNameUA": "вулиця Квітуча, 78-А",
+  "ChildsIds": []
  },
  {
   "id": 123704,
@@ -2797,7 +2910,34 @@
   "reg_date": "",
   "longt": 36.327681103,
   "lati": 50.0351822395,
-  "FullNameUA": "вулиця Квітуча, 78"
+  "FullNameUA": "вулиця Квітуча, 78",
+  "ChildsIds": []
+ },
+ {
+  "id": 123706,
+  "postcode": 61107,
+  "number": 79,
+  "suffix": "",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3302413403,
+  "lati": 50.0353466251,
+  "FullNameUA": "вулиця Квітуча, 79",
+  "ChildsIds": []
  },
  {
   "id": 123707,
@@ -2822,32 +2962,8 @@
   "reg_date": "",
   "longt": 36.3305183549,
   "lati": 50.0353206233,
-  "FullNameUA": "вулиця Квітуча, 79-А"
- },
- {
-  "id": 123706,
-  "postcode": 61107,
-  "number": 79,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3302413403,
-  "lati": 50.035346625100004,
-  "FullNameUA": "вулиця Квітуча, 79"
+  "FullNameUA": "вулиця Квітуча, 79-А",
+  "ChildsIds": []
  },
  {
   "id": 123708,
@@ -2872,7 +2988,8 @@
   "reg_date": "",
   "longt": 36.3279243155,
   "lati": 50.0351326615,
-  "FullNameUA": "вулиця Квітуча, 80"
+  "FullNameUA": "вулиця Квітуча, 80",
+  "ChildsIds": []
  },
  {
   "id": 123709,
@@ -2895,9 +3012,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330939114799996,
+  "longt": 36.3309391148,
   "lati": 50.0352681915,
-  "FullNameUA": "вулиця Квітуча, 81"
+  "FullNameUA": "вулиця Квітуча, 81",
+  "ChildsIds": []
  },
  {
   "id": 123710,
@@ -2922,7 +3040,8 @@
   "reg_date": "",
   "longt": 36.3282818467,
   "lati": 50.0350900098,
-  "FullNameUA": "вулиця Квітуча, 82"
+  "FullNameUA": "вулиця Квітуча, 82",
+  "ChildsIds": []
  },
  {
   "id": 123712,
@@ -2947,7 +3066,8 @@
   "reg_date": "",
   "longt": 36.3314782959,
   "lati": 50.0352080193,
-  "FullNameUA": "вулиця Квітуча, 83-А"
+  "FullNameUA": "вулиця Квітуча, 83-А",
+  "ChildsIds": []
  },
  {
   "id": 123711,
@@ -2972,7 +3092,8 @@
   "reg_date": "",
   "longt": 36.3311748668,
   "lati": 50.0352659118,
-  "FullNameUA": "вулиця Квітуча, 83"
+  "FullNameUA": "вулиця Квітуча, 83",
+  "ChildsIds": []
  },
  {
   "id": 123714,
@@ -2996,8 +3117,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.328857853,
-  "lati": 50.035041714500004,
-  "FullNameUA": "вулиця Квітуча, 84-А"
+  "lati": 50.0350417145,
+  "FullNameUA": "вулиця Квітуча, 84-А",
+  "ChildsIds": []
  },
  {
   "id": 123713,
@@ -3022,57 +3144,8 @@
   "reg_date": "",
   "longt": 36.3285624732,
   "lati": 50.0350846217,
-  "FullNameUA": "вулиця Квітуча, 84"
- },
- {
-  "id": 123716,
-  "postcode": 61107,
-  "number": 85,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3335978987,
-  "lati": 50.0347181765,
-  "FullNameUA": "вулиця Квітуча, 85-А"
- },
- {
-  "id": 123717,
-  "postcode": 61107,
-  "number": 85,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.334420492999996,
-  "lati": 50.034666076,
-  "FullNameUA": "вулиця Квітуча, 85-В"
+  "FullNameUA": "вулиця Квітуча, 84",
+  "ChildsIds": []
  },
  {
   "id": 123715,
@@ -3097,7 +3170,60 @@
   "reg_date": "",
   "longt": 36.3317338935,
   "lati": 50.0352045163,
-  "FullNameUA": "вулиця Квітуча, 85"
+  "FullNameUA": "вулиця Квітуча, 85",
+  "ChildsIds": []
+ },
+ {
+  "id": 123717,
+  "postcode": 61107,
+  "number": 85,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.334420493,
+  "lati": 50.034666076,
+  "FullNameUA": "вулиця Квітуча, 85-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 123716,
+  "postcode": 61107,
+  "number": 85,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3335978987,
+  "lati": 50.0347181765,
+  "FullNameUA": "вулиця Квітуча, 85-А",
+  "ChildsIds": []
  },
  {
   "id": 123718,
@@ -3122,7 +3248,8 @@
   "reg_date": "",
   "longt": 36.3291257424,
   "lati": 50.0350441788,
-  "FullNameUA": "вулиця Квітуча, 86"
+  "FullNameUA": "вулиця Квітуча, 86",
+  "ChildsIds": []
  },
  {
   "id": 123719,
@@ -3147,7 +3274,8 @@
   "reg_date": "",
   "longt": 36.3345805631,
   "lati": 50.0343612947,
-  "FullNameUA": "вулиця Квітуча, 87"
+  "FullNameUA": "вулиця Квітуча, 87",
+  "ChildsIds": []
  },
  {
   "id": 123720,
@@ -3170,9 +3298,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.329481200000004,
+  "longt": 36.3294812,
   "lati": 50.0350078958,
-  "FullNameUA": "вулиця Квітуча, 88"
+  "FullNameUA": "вулиця Квітуча, 88",
+  "ChildsIds": []
  },
  {
   "id": 123721,
@@ -3197,7 +3326,8 @@
   "reg_date": "",
   "longt": 36.3348392482,
   "lati": 50.0342781376,
-  "FullNameUA": "вулиця Квітуча, 89"
+  "FullNameUA": "вулиця Квітуча, 89",
+  "ChildsIds": []
  },
  {
   "id": 123722,
@@ -3222,57 +3352,8 @@
   "reg_date": "",
   "longt": 36.3297222168,
   "lati": 50.0349816356,
-  "FullNameUA": "вулиця Квітуча, 90"
- },
- {
-  "id": 123724,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "К",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11; Рішення ХМР № 1047, 18.04.2018, дод. 4, п. 2 - внесення змін",
-  "reg_date": "24.10.2017 14:59:42",
-  "longt": 36.3354222392,
-  "lati": 50.0341599142,
-  "FullNameUA": "вулиця Квітуча, 91-К"
- },
- {
-  "id": 123723,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.335032734799995,
-  "lati": 50.0342138529,
-  "FullNameUA": "вулиця Квітуча, 91"
+  "FullNameUA": "вулиця Квітуча, 90",
+  "ChildsIds": []
  },
  {
   "id": 179229,
@@ -3297,132 +3378,8 @@
   "reg_date": "08.05.2018 10:13:58",
   "longt": 36.3354600657,
   "lati": 50.0342283179,
-  "FullNameUA": "вулиця Квітуча, 91-Б"
- },
- {
-  "id": 179306,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3354228096,
-  "lati": 50.034161565,
-  "FullNameUA": "вулиця Квітуча, 91-А"
- },
- {
-  "id": 178333,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "Л",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 5",
-  "reg_date": "08.05.2018 10:09:47",
-  "longt": 36.3354582276,
-  "lati": 50.0342295125,
-  "FullNameUA": "вулиця Квітуча, 91-Л"
- },
- {
-  "id": 178198,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
-  "reg_date": "24.10.2017 15:02:48",
-  "longt": 36.335685700199996,
-  "lati": 50.0341715892,
-  "FullNameUA": "вулиця Квітуча, 91-Ж"
- },
- {
-  "id": 178197,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
-  "reg_date": "24.10.2017 15:02:09",
-  "longt": 36.335569024099996,
-  "lati": 50.0343412911,
-  "FullNameUA": "вулиця Квітуча, 91-Д"
- },
- {
-  "id": 178196,
-  "postcode": 61107,
-  "number": 91,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
-  "reg_date": "24.10.2017 15:01:26",
-  "longt": 36.3355180621,
-  "lati": 50.0342801296,
-  "FullNameUA": "вулиця Квітуча, 91-Г"
+  "FullNameUA": "вулиця Квітуча, 91-Б",
+  "ChildsIds": []
  },
  {
   "id": 178195,
@@ -3447,7 +3404,190 @@
   "reg_date": "24.10.2017 15:00:35",
   "longt": 36.3354791701,
   "lati": 50.0342275823,
-  "FullNameUA": "вулиця Квітуча, 91-В"
+  "FullNameUA": "вулиця Квітуча, 91-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 178196,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
+  "reg_date": "24.10.2017 15:01:26",
+  "longt": 36.3355180621,
+  "lati": 50.0342801296,
+  "FullNameUA": "вулиця Квітуча, 91-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 178197,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
+  "reg_date": "24.10.2017 15:02:09",
+  "longt": 36.3355690241,
+  "lati": 50.0343412911,
+  "FullNameUA": "вулиця Квітуча, 91-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 123724,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "К",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11; Рішення ХМР № 1047, 18.04.2018, дод. 4, п. 2 - внесення змін",
+  "reg_date": "24.10.2017 14:59:42",
+  "longt": 36.3354222392,
+  "lati": 50.0341599142,
+  "FullNameUA": "вулиця Квітуча, 91-К",
+  "ChildsIds": []
+ },
+ {
+  "id": 178333,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "Л",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 5",
+  "reg_date": "08.05.2018 10:09:47",
+  "longt": 36.3354582276,
+  "lati": 50.0342295125,
+  "FullNameUA": "вулиця Квітуча, 91-Л",
+  "ChildsIds": []
+ },
+ {
+  "id": 179306,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3354228096,
+  "lati": 50.034161565,
+  "FullNameUA": "вулиця Квітуча, 91-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123723,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3350327348,
+  "lati": 50.0342138529,
+  "FullNameUA": "вулиця Квітуча, 91",
+  "ChildsIds": []
+ },
+ {
+  "id": 178198,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 2, п. 11",
+  "reg_date": "24.10.2017 15:02:48",
+  "longt": 36.3356857002,
+  "lati": 50.0341715892,
+  "FullNameUA": "вулиця Квітуча, 91-Ж",
+  "ChildsIds": []
  },
  {
   "id": 123725,
@@ -3472,7 +3612,8 @@
   "reg_date": "",
   "longt": 36.3301922637,
   "lati": 50.0349700879,
-  "FullNameUA": "вулиця Квітуча, 92"
+  "FullNameUA": "вулиця Квітуча, 92",
+  "ChildsIds": []
  },
  {
   "id": 123726,
@@ -3497,7 +3638,8 @@
   "reg_date": "",
   "longt": 36.3385202204,
   "lati": 50.0332456908,
-  "FullNameUA": "вулиця Квітуча, 93"
+  "FullNameUA": "вулиця Квітуча, 93",
+  "ChildsIds": []
  },
  {
   "id": 123727,
@@ -3521,8 +3663,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3305022128,
-  "lati": 50.034967434900004,
-  "FullNameUA": "вулиця Квітуча, 94"
+  "lati": 50.0349674349,
+  "FullNameUA": "вулиця Квітуча, 94",
+  "ChildsIds": []
  },
  {
   "id": 123728,
@@ -3546,8 +3689,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3388568808,
-  "lati": 50.033048217200005,
-  "FullNameUA": "вулиця Квітуча, 95"
+  "lati": 50.0330482172,
+  "FullNameUA": "вулиця Квітуча, 95",
+  "ChildsIds": []
  },
  {
   "id": 181808,
@@ -3570,34 +3714,10 @@
   "same_adr_comm": "житловий будинок літ. \"А-1\" загальною площею 39,1 кв. м, житловою площею 28,0 кв. м",
   "confrm": "",
   "reg_date": "13.12.2019 10:55:07",
-  "longt": 36.339174164199996,
+  "longt": 36.3391741642,
   "lati": 50.032899333,
-  "FullNameUA": "вулиця Квітуча, 95-А"
- },
- {
-  "id": 123730,
-  "postcode": 61107,
-  "number": 96,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2853,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3311904344,
-  "lati": 50.034831451100004,
-  "FullNameUA": "вулиця Квітуча, 96-А"
+  "FullNameUA": "вулиця Квітуча, 95-А",
+  "ChildsIds": []
  },
  {
   "id": 123729,
@@ -3620,9 +3740,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.331034955199996,
+  "longt": 36.3310349552,
   "lati": 50.0349095483,
-  "FullNameUA": "вулиця Квітуча, 96"
+  "FullNameUA": "вулиця Квітуча, 96",
+  "ChildsIds": []
  },
  {
   "id": 123731,
@@ -3647,7 +3768,34 @@
   "reg_date": "",
   "longt": 36.3306982749,
   "lati": 50.0349382634,
-  "FullNameUA": "вулиця Квітуча, 96/2"
+  "FullNameUA": "вулиця Квітуча, 96/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 123730,
+  "postcode": 61107,
+  "number": 96,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2853,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3311904344,
+  "lati": 50.0348314511,
+  "FullNameUA": "вулиця Квітуча, 96-А",
+  "ChildsIds": []
  },
  {
   "id": 123732,
@@ -3670,9 +3818,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.339171651899996,
+  "longt": 36.3391716519,
   "lati": 50.0328319672,
-  "FullNameUA": "вулиця Квітуча, 97"
+  "FullNameUA": "вулиця Квітуча, 97",
+  "ChildsIds": []
  },
  {
   "id": 123733,
@@ -3696,8 +3845,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3314053012,
-  "lati": 50.034879930500004,
-  "FullNameUA": "вулиця Квітуча, 98-А"
+  "lati": 50.0348799305,
+  "FullNameUA": "вулиця Квітуча, 98-А",
+  "ChildsIds": []
  },
  {
   "id": 123734,
@@ -3722,7 +3872,8 @@
   "reg_date": "",
   "longt": 36.3316514542,
   "lati": 50.03484699,
-  "FullNameUA": "вулиця Квітуча, 98-Б"
+  "FullNameUA": "вулиця Квітуча, 98-Б",
+  "ChildsIds": []
  },
  {
   "id": 123735,
@@ -3747,7 +3898,8 @@
   "reg_date": "",
   "longt": 36.3394840471,
   "lati": 50.0328240556,
-  "FullNameUA": "вулиця Квітуча, 99"
+  "FullNameUA": "вулиця Квітуча, 99",
+  "ChildsIds": []
  },
  {
   "id": 123736,
@@ -3770,9 +3922,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.331965447099996,
+  "longt": 36.3319654471,
   "lati": 50.0348147587,
-  "FullNameUA": "вулиця Квітуча, 100"
+  "FullNameUA": "вулиця Квітуча, 100",
+  "ChildsIds": []
  },
  {
   "id": 123737,
@@ -3797,7 +3950,8 @@
   "reg_date": "",
   "longt": 36.3399469167,
   "lati": 50.0327168352,
-  "FullNameUA": "вулиця Квітуча, 101"
+  "FullNameUA": "вулиця Квітуча, 101",
+  "ChildsIds": []
  },
  {
   "id": 123738,
@@ -3822,7 +3976,8 @@
   "reg_date": "",
   "longt": 36.332087967,
   "lati": 50.0346982342,
-  "FullNameUA": "вулиця Квітуча, 102"
+  "FullNameUA": "вулиця Квітуча, 102",
+  "ChildsIds": []
  },
  {
   "id": 123739,
@@ -3846,8 +4001,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3402746677,
-  "lati": 50.032477847900005,
-  "FullNameUA": "вулиця Квітуча, 103"
+  "lati": 50.0324778479,
+  "FullNameUA": "вулиця Квітуча, 103",
+  "ChildsIds": []
  },
  {
   "id": 123740,
@@ -3870,9 +4026,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.332399941199995,
+  "longt": 36.3323999412,
   "lati": 50.0347105518,
-  "FullNameUA": "вулиця Квітуча, 104"
+  "FullNameUA": "вулиця Квітуча, 104",
+  "ChildsIds": []
  },
  {
   "id": 123741,
@@ -3896,8 +4053,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3406311859,
-  "lati": 50.032178286400004,
-  "FullNameUA": "вулиця Квітуча, 105"
+  "lati": 50.0321782864,
+  "FullNameUA": "вулиця Квітуча, 105",
+  "ChildsIds": []
  },
  {
   "id": 123742,
@@ -3920,9 +4078,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.332643257899996,
+  "longt": 36.3326432579,
   "lati": 50.0346568292,
-  "FullNameUA": "вулиця Квітуча, 106"
+  "FullNameUA": "вулиця Квітуча, 106",
+  "ChildsIds": []
  },
  {
   "id": 123743,
@@ -3945,9 +4104,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.340951835400006,
+  "longt": 36.3409518354,
   "lati": 50.0320384325,
-  "FullNameUA": "вулиця Квітуча, 107"
+  "FullNameUA": "вулиця Квітуча, 107",
+  "ChildsIds": []
  },
  {
   "id": 123744,
@@ -3972,7 +4132,8 @@
   "reg_date": "",
   "longt": 36.3328726596,
   "lati": 50.0345545295,
-  "FullNameUA": "вулиця Квітуча, 108"
+  "FullNameUA": "вулиця Квітуча, 108",
+  "ChildsIds": []
  },
  {
   "id": 123748,
@@ -3995,9 +4156,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.333351732699995,
+  "longt": 36.3333517327,
   "lati": 50.03441324,
-  "FullNameUA": "вулиця Квітуча, 110-Д"
+  "FullNameUA": "вулиця Квітуча, 110-Д",
+  "ChildsIds": []
  },
  {
   "id": 123746,
@@ -4020,9 +4182,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.334167436499996,
+  "longt": 36.3341674365,
   "lati": 50.034137108,
-  "FullNameUA": "вулиця Квітуча, 110-В"
+  "FullNameUA": "вулиця Квітуча, 110-В",
+  "ChildsIds": []
  },
  {
   "id": 178350,
@@ -4046,8 +4209,9 @@
   "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 2, п. 8",
   "reg_date": "20.11.2017 17:56:54",
   "longt": 36.334413166,
-  "lati": 50.034072643900004,
-  "FullNameUA": "вулиця Квітуча, 110-Ґ"
+  "lati": 50.0340726439,
+  "FullNameUA": "вулиця Квітуча, 110-Ґ",
+  "ChildsIds": []
  },
  {
   "id": 178351,
@@ -4072,7 +4236,8 @@
   "reg_date": "",
   "longt": 36.3337638597,
   "lati": 50.0341991635,
-  "FullNameUA": "вулиця Квітуча, 110-Б"
+  "FullNameUA": "вулиця Квітуча, 110-Б",
+  "ChildsIds": []
  },
  {
   "id": 123747,
@@ -4097,7 +4262,11 @@
   "reg_date": "20.11.2017 17:56:13",
   "longt": 36.3342759706,
   "lati": 50.0340786636,
-  "FullNameUA": "вулиця Квітуча, 110-Г"
+  "FullNameUA": "вулиця Квітуча, 110-Г",
+  "ChildsIds": [
+   178348,
+   178347
+  ]
  },
  {
   "id": 178352,
@@ -4120,9 +4289,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.334770233899995,
-  "lati": 50.033940556800005,
-  "FullNameUA": "вулиця Квітуча, 110-Є"
+  "longt": 36.3347702339,
+  "lati": 50.0339405568,
+  "FullNameUA": "вулиця Квітуча, 110-Є",
+  "ChildsIds": []
  },
  {
   "id": 123745,
@@ -4147,7 +4317,8 @@
   "reg_date": "",
   "longt": 36.3331287668,
   "lati": 50.03445492,
-  "FullNameUA": "вулиця Квітуча, 110"
+  "FullNameUA": "вулиця Квітуча, 110",
+  "ChildsIds": []
  },
  {
   "id": 178349,
@@ -4170,9 +4341,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 800, 08.11.2017, дод. 2, п. 8",
   "reg_date": "20.11.2017 17:55:42",
-  "longt": 36.334471606499996,
+  "longt": 36.3344716065,
   "lati": 50.0340223228,
-  "FullNameUA": "вулиця Квітуча, 110-Ж"
+  "FullNameUA": "вулиця Квітуча, 110-Ж",
+  "ChildsIds": []
  },
  {
   "id": 178353,
@@ -4195,9 +4367,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.335151637399996,
+  "longt": 36.3351516374,
   "lati": 50.0338236804,
-  "FullNameUA": "вулиця Квітуча, 112-А"
+  "FullNameUA": "вулиця Квітуча, 112-А",
+  "ChildsIds": []
  },
  {
   "id": 123749,
@@ -4222,7 +4395,8 @@
   "reg_date": "",
   "longt": 36.3367444372,
   "lati": 50.0332187627,
-  "FullNameUA": "вулиця Квітуча, 112"
+  "FullNameUA": "вулиця Квітуча, 112",
+  "ChildsIds": []
  },
  {
   "id": 123750,
@@ -4247,7 +4421,8 @@
   "reg_date": "",
   "longt": 36.3372691748,
   "lati": 50.0332401841,
-  "FullNameUA": "вулиця Квітуча, 114"
+  "FullNameUA": "вулиця Квітуча, 114",
+  "ChildsIds": []
  },
  {
   "id": 123751,
@@ -4271,8 +4446,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3373915491,
-  "lati": 50.033161806100004,
-  "FullNameUA": "вулиця Квітуча, 116"
+  "lati": 50.0331618061,
+  "FullNameUA": "вулиця Квітуча, 116",
+  "ChildsIds": []
  },
  {
   "id": 123752,
@@ -4297,7 +4473,8 @@
   "reg_date": "",
   "longt": 36.3375957063,
   "lati": 50.0331545003,
-  "FullNameUA": "вулиця Квітуча, 118"
+  "FullNameUA": "вулиця Квітуча, 118",
+  "ChildsIds": []
  },
  {
   "id": 123753,
@@ -4322,7 +4499,8 @@
   "reg_date": "",
   "longt": 36.3378330974,
   "lati": 50.0330721535,
-  "FullNameUA": "вулиця Квітуча, 120"
+  "FullNameUA": "вулиця Квітуча, 120",
+  "ChildsIds": []
  },
  {
   "id": 123754,
@@ -4346,8 +4524,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.338072329,
-  "lati": 50.032972616100004,
-  "FullNameUA": "вулиця Квітуча, 122"
+  "lati": 50.0329726161,
+  "FullNameUA": "вулиця Квітуча, 122",
+  "ChildsIds": []
  },
  {
   "id": 123755,
@@ -4372,7 +4551,8 @@
   "reg_date": "",
   "longt": 36.3384272334,
   "lati": 50.0328589032,
-  "FullNameUA": "вулиця Квітуча, 124"
+  "FullNameUA": "вулиця Квітуча, 124",
+  "ChildsIds": []
  },
  {
   "id": 123756,
@@ -4397,7 +4577,8 @@
   "reg_date": "",
   "longt": 36.3387059899,
   "lati": 50.0327478083,
-  "FullNameUA": "вулиця Квітуча, 126"
+  "FullNameUA": "вулиця Квітуча, 126",
+  "ChildsIds": []
  },
  {
   "id": 123757,
@@ -4422,7 +4603,8 @@
   "reg_date": "",
   "longt": 36.3389123434,
   "lati": 50.0326455387,
-  "FullNameUA": "вулиця Квітуча, 128"
+  "FullNameUA": "вулиця Квітуча, 128",
+  "ChildsIds": []
  },
  {
   "id": 123758,
@@ -4447,7 +4629,8 @@
   "reg_date": "",
   "longt": 36.3390011187,
   "lati": 50.0325457745,
-  "FullNameUA": "вулиця Квітуча, 130"
+  "FullNameUA": "вулиця Квітуча, 130",
+  "ChildsIds": []
  },
  {
   "id": 123759,
@@ -4472,7 +4655,8 @@
   "reg_date": "",
   "longt": 36.3394569722,
   "lati": 50.0323982895,
-  "FullNameUA": "вулиця Квітуча, 130-А"
+  "FullNameUA": "вулиця Квітуча, 130-А",
+  "ChildsIds": []
  },
  {
   "id": 123760,
@@ -4497,7 +4681,8 @@
   "reg_date": "",
   "longt": 36.339746377,
   "lati": 50.0322877563,
-  "FullNameUA": "вулиця Квітуча, 132"
+  "FullNameUA": "вулиця Квітуча, 132",
+  "ChildsIds": []
  },
  {
   "id": 123761,
@@ -4522,7 +4707,8 @@
   "reg_date": "",
   "longt": 36.3399821959,
   "lati": 50.032196203,
-  "FullNameUA": "вулиця Квітуча, 134"
+  "FullNameUA": "вулиця Квітуча, 134",
+  "ChildsIds": []
  },
  {
   "id": 123762,
@@ -4545,9 +4731,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.340221621800005,
+  "longt": 36.3402216218,
   "lati": 50.0320877838,
-  "FullNameUA": "вулиця Квітуча, 136"
+  "FullNameUA": "вулиця Квітуча, 136",
+  "ChildsIds": []
  },
  {
   "id": 123763,
@@ -4572,6 +4759,7 @@
   "reg_date": "",
   "longt": 36.3405340496,
   "lati": 50.0317578457,
-  "FullNameUA": "вулиця Квітуча, 136-А"
+  "FullNameUA": "вулиця Квітуча, 136-А",
+  "ChildsIds": []
  }
 ]

@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2983648472,
-  "lati": 50.052352706200004,
-  "FullNameUA": "вулиця Кільцева, 3"
+  "lati": 50.0523527062,
+  "FullNameUA": "вулиця Кільцева, 3",
+  "ChildsIds": []
  },
  {
   "id": 123799,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2983425949,
   "lati": 50.0521098206,
-  "FullNameUA": "вулиця Кільцева, 4"
+  "FullNameUA": "вулиця Кільцева, 4",
+  "ChildsIds": []
  },
  {
   "id": 123800,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298591598099996,
-  "lati": 50.052290729800006,
-  "FullNameUA": "вулиця Кільцева, 5"
+  "longt": 36.2985915981,
+  "lati": 50.0522907298,
+  "FullNameUA": "вулиця Кільцева, 5",
+  "ChildsIds": []
  },
  {
   "id": 123801,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298592045999996,
-  "lati": 50.05204563350001,
-  "FullNameUA": "вулиця Кільцева, 6"
+  "longt": 36.298592046,
+  "lati": 50.0520456335,
+  "FullNameUA": "вулиця Кільцева, 6",
+  "ChildsIds": []
  },
  {
   "id": 123802,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2988107401,
-  "lati": 50.052204649800004,
-  "FullNameUA": "вулиця Кільцева, 7"
+  "lati": 50.0522046498,
+  "FullNameUA": "вулиця Кільцева, 7",
+  "ChildsIds": []
  },
  {
   "id": 123803,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2988265698,
   "lati": 50.05196688,
-  "FullNameUA": "вулиця Кільцева, 8"
+  "FullNameUA": "вулиця Кільцева, 8",
+  "ChildsIds": []
  },
  {
   "id": 123804,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2990314874,
   "lati": 50.0521445755,
-  "FullNameUA": "вулиця Кільцева, 9"
+  "FullNameUA": "вулиця Кільцева, 9",
+  "ChildsIds": []
  },
  {
   "id": 123805,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2990249661,
-  "lati": 50.05189688630001,
-  "FullNameUA": "вулиця Кільцева, 10"
+  "lati": 50.0518968863,
+  "FullNameUA": "вулиця Кільцева, 10",
+  "ChildsIds": []
  },
  {
   "id": 123806,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2992002332,
-  "lati": 50.051755995700006,
-  "FullNameUA": "вулиця Кільцева, 12"
+  "lati": 50.0517559957,
+  "FullNameUA": "вулиця Кільцева, 12",
+  "ChildsIds": []
  },
  {
   "id": 123807,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2996125428,
-  "lati": 50.052200175100005,
-  "FullNameUA": "вулиця Кільцева, 13"
+  "lati": 50.0522001751,
+  "FullNameUA": "вулиця Кільцева, 13",
+  "ChildsIds": []
  },
  {
   "id": 123808,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2995772111,
   "lati": 50.0518847796,
-  "FullNameUA": "вулиця Кільцева, 14"
+  "FullNameUA": "вулиця Кільцева, 14",
+  "ChildsIds": []
  },
  {
   "id": 123809,
@@ -295,34 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300014237300005,
-  "lati": 50.052349702600004,
-  "FullNameUA": "вулиця Кільцева, 17"
- },
- {
-  "id": 176945,
-  "postcode": 61085,
-  "number": 18,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2879,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2991053091,
-  "lati": 50.0515213703,
-  "FullNameUA": "вулиця Кільцева, 18-Б"
+  "longt": 36.3000142373,
+  "lati": 50.0523497026,
+  "FullNameUA": "вулиця Кільцева, 17",
+  "ChildsIds": []
  },
  {
   "id": 123810,
@@ -347,7 +334,34 @@
   "reg_date": "",
   "longt": 36.2997985154,
   "lati": 50.0520060205,
-  "FullNameUA": "вулиця Кільцева, 18"
+  "FullNameUA": "вулиця Кільцева, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 176945,
+  "postcode": 61085,
+  "number": 18,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2991053091,
+  "lati": 50.0515213703,
+  "FullNameUA": "вулиця Кільцева, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 123811,
@@ -370,9 +384,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300235797300004,
-  "lati": 50.05242288710001,
-  "FullNameUA": "вулиця Кільцева, 19"
+  "longt": 36.3002357973,
+  "lati": 50.0524228871,
+  "FullNameUA": "вулиця Кільцева, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 123812,
+  "postcode": 61085,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 2879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3000412355,
+  "lati": 50.0520942924,
+  "FullNameUA": "вулиця Кільцева, 20",
+  "ChildsIds": []
  },
  {
   "id": 176946,
@@ -396,33 +437,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2995960166,
-  "lati": 50.051474131300004,
-  "FullNameUA": "вулиця Кільцева, 20-Б"
- },
- {
-  "id": 123812,
-  "postcode": 61085,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 2879,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300041235500004,
-  "lati": 50.05209429240001,
-  "FullNameUA": "вулиця Кільцева, 20"
+  "lati": 50.0514741313,
+  "FullNameUA": "вулиця Кільцева, 20-Б",
+  "ChildsIds": []
  },
  {
   "id": 123813,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3004263802,
-  "lati": 50.052489276900005,
-  "FullNameUA": "вулиця Кільцева, 21"
+  "lati": 50.0524892769,
+  "FullNameUA": "вулиця Кільцева, 21",
+  "ChildsIds": []
  },
  {
   "id": 123814,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300248891100004,
-  "lati": 50.05216229050001,
-  "FullNameUA": "вулиця Кільцева, 22"
+  "longt": 36.3002488911,
+  "lati": 50.0521622905,
+  "FullNameUA": "вулиця Кільцева, 22",
+  "ChildsIds": []
  },
  {
   "id": 176947,
@@ -496,8 +515,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2999912221,
-  "lati": 50.05146121720001,
-  "FullNameUA": "вулиця Кільцева, 22-Б"
+  "lati": 50.0514612172,
+  "FullNameUA": "вулиця Кільцева, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 123815,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3006683169,
-  "lati": 50.052574064400005,
-  "FullNameUA": "вулиця Кільцева, 23"
+  "lati": 50.0525740644,
+  "FullNameUA": "вулиця Кільцева, 23",
+  "ChildsIds": []
  },
  {
   "id": 123816,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30085252440001,
-  "lati": 50.052635117200005,
-  "FullNameUA": "вулиця Кільцева, 25"
+  "longt": 36.3008525244,
+  "lati": 50.0526351172,
+  "FullNameUA": "вулиця Кільцева, 25",
+  "ChildsIds": []
  },
  {
   "id": 123817,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3006886097,
   "lati": 50.0523209596,
-  "FullNameUA": "вулиця Кільцева, 26"
+  "FullNameUA": "вулиця Кільцева, 26",
+  "ChildsIds": []
  },
  {
   "id": 123818,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30105029680001,
-  "lati": 50.05270286620001,
-  "FullNameUA": "вулиця Кільцева, 27"
+  "longt": 36.3010502968,
+  "lati": 50.0527028662,
+  "FullNameUA": "вулиця Кільцева, 27",
+  "ChildsIds": []
  },
  {
   "id": 123819,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301256256900004,
-  "lati": 50.05277233100001,
-  "FullNameUA": "вулиця Кільцева, 29"
+  "longt": 36.3012562569,
+  "lati": 50.052772331,
+  "FullNameUA": "вулиця Кільцева, 29",
+  "ChildsIds": []
  },
  {
   "id": 123820,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3011281192,
   "lati": 50.0524739712,
-  "FullNameUA": "вулиця Кільцева, 30"
+  "FullNameUA": "вулиця Кільцева, 30",
+  "ChildsIds": []
  },
  {
   "id": 123821,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301514015900004,
+  "longt": 36.3015140159,
   "lati": 50.0529006574,
-  "FullNameUA": "вулиця Кільцева, 31"
+  "FullNameUA": "вулиця Кільцева, 31",
+  "ChildsIds": []
  },
  {
   "id": 123822,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3013440371,
   "lati": 50.0525497483,
-  "FullNameUA": "вулиця Кільцева, 32"
+  "FullNameUA": "вулиця Кільцева, 32",
+  "ChildsIds": []
  },
  {
   "id": 123823,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301706742700006,
+  "longt": 36.3017067427,
   "lati": 50.0530626362,
-  "FullNameUA": "вулиця Кільцева, 33"
+  "FullNameUA": "вулиця Кільцева, 33",
+  "ChildsIds": []
  },
  {
   "id": 123824,
@@ -746,8 +775,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3015505672,
-  "lati": 50.052620358700004,
-  "FullNameUA": "вулиця Кільцева, 34"
+  "lati": 50.0526203587,
+  "FullNameUA": "вулиця Кільцева, 34",
+  "ChildsIds": []
  },
  {
   "id": 123825,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302202877000006,
-  "lati": 50.05312347260001,
-  "FullNameUA": "вулиця Кільцева, 35"
+  "longt": 36.302202877,
+  "lati": 50.0531234726,
+  "FullNameUA": "вулиця Кільцева, 35",
+  "ChildsIds": []
  },
  {
   "id": 123826,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302298005900006,
-  "lati": 50.053284400200006,
-  "FullNameUA": "вулиця Кільцева, 37"
+  "longt": 36.3022980059,
+  "lati": 50.0532844002,
+  "FullNameUA": "вулиця Кільцева, 37",
+  "ChildsIds": []
  },
  {
   "id": 123827,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30201205310001,
+  "longt": 36.3020120531,
   "lati": 50.05279285,
-  "FullNameUA": "вулиця Кільцева, 38"
+  "FullNameUA": "вулиця Кільцева, 38",
+  "ChildsIds": []
  },
  {
   "id": 123828,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302366102300006,
+  "longt": 36.3023661023,
   "lati": 50.0527485172,
-  "FullNameUA": "вулиця Кільцева, 40"
+  "FullNameUA": "вулиця Кільцева, 40",
+  "ChildsIds": []
  },
  {
   "id": 123829,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.3024492516,
   "lati": 50.0529126591,
-  "FullNameUA": "вулиця Кільцева, 42"
+  "FullNameUA": "вулиця Кільцева, 42",
+  "ChildsIds": []
  },
  {
   "id": 123830,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302725908000006,
+  "longt": 36.302725908,
   "lati": 50.0528886059,
-  "FullNameUA": "вулиця Кільцева, 44"
+  "FullNameUA": "вулиця Кільцева, 44",
+  "ChildsIds": []
  },
  {
   "id": 123831,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3020114843,
   "lati": 50.0537870407,
-  "FullNameUA": "вулиця Кільцева, 45/9"
+  "FullNameUA": "вулиця Кільцева, 45/9",
+  "ChildsIds": []
  },
  {
   "id": 123832,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30308098570001,
-  "lati": 50.052410824800006,
-  "FullNameUA": "вулиця Кільцева, 46"
+  "longt": 36.3030809857,
+  "lati": 50.0524108248,
+  "FullNameUA": "вулиця Кільцева, 46",
+  "ChildsIds": []
  },
  {
   "id": 123833,
@@ -971,33 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3018355872,
-  "lati": 50.053957088800004,
-  "FullNameUA": "вулиця Кільцева, 47"
- },
- {
-  "id": 176951,
-  "postcode": 61085,
-  "number": 48,
-  "suffix": "",
-  "block": "",
-  "streetid": 2879,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.303257036800005,
-  "lati": 50.052208182200005,
-  "FullNameUA": "вулиця Кільцева, 48"
+  "lati": 50.0539570888,
+  "FullNameUA": "вулиця Кільцева, 47",
+  "ChildsIds": []
  },
  {
   "id": 176952,
@@ -1021,8 +1035,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3034331913,
-  "lati": 50.052022185300004,
-  "FullNameUA": "вулиця Кільцева, 48-А"
+  "lati": 50.0520221853,
+  "FullNameUA": "вулиця Кільцева, 48-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 176951,
+  "postcode": 61085,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 2879,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3032570368,
+  "lati": 50.0522081822,
+  "FullNameUA": "вулиця Кільцева, 48",
+  "ChildsIds": []
  },
  {
   "id": 123834,
@@ -1046,8 +1087,61 @@
   "confrm": "in4",
   "reg_date": "",
   "longt": 36.3017061353,
-  "lati": 50.054100999800006,
-  "FullNameUA": "вулиця Кільцева, 49"
+  "lati": 50.0541009998,
+  "FullNameUA": "вулиця Кільцева, 49",
+  "ChildsIds": []
+ },
+ {
+  "id": 176954,
+  "postcode": 61085,
+  "number": 50,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3034833997,
+  "lati": 50.0529633159,
+  "FullNameUA": "вулиця Кільцева, 50-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 123835,
+  "postcode": 61085,
+  "number": 50,
+  "suffix": "",
+  "block": "",
+  "streetid": 2879,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3031596165,
+  "lati": 50.0533605154,
+  "FullNameUA": "вулиця Кільцева, 50",
+  "ChildsIds": []
  },
  {
   "id": 123836,
@@ -1072,57 +1166,8 @@
   "reg_date": "",
   "longt": 36.3033010915,
   "lati": 50.053172502,
-  "FullNameUA": "вулиця Кільцева, 50-А"
- },
- {
-  "id": 123835,
-  "postcode": 61085,
-  "number": 50,
-  "suffix": "",
-  "block": "",
-  "streetid": 2879,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.303159616500004,
-  "lati": 50.0533605154,
-  "FullNameUA": "вулиця Кільцева, 50"
- },
- {
-  "id": 176954,
-  "postcode": 61085,
-  "number": 50,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2879,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.303483399700006,
-  "lati": 50.0529633159,
-  "FullNameUA": "вулиця Кільцева, 50-Б"
+  "FullNameUA": "вулиця Кільцева, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 123837,
@@ -1146,8 +1191,9 @@
   "confrm": "in4",
   "reg_date": "",
   "longt": 36.3015720248,
-  "lati": 50.05425599310001,
-  "FullNameUA": "вулиця Кільцева, 51/16"
+  "lati": 50.0542559931,
+  "FullNameUA": "вулиця Кільцева, 51/16",
+  "ChildsIds": []
  },
  {
   "id": 123838,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302944755300004,
+  "longt": 36.3029447553,
   "lati": 50.0535531231,
-  "FullNameUA": "вулиця Кільцева, 52"
+  "FullNameUA": "вулиця Кільцева, 52",
+  "ChildsIds": []
  },
  {
   "id": 123839,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301416672900004,
-  "lati": 50.054442598200005,
-  "FullNameUA": "вулиця Кільцева, 53/29"
+  "longt": 36.3014166729,
+  "lati": 50.0544425982,
+  "FullNameUA": "вулиця Кільцева, 53/29",
+  "ChildsIds": []
  },
  {
   "id": 123840,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3027384027,
-  "lati": 50.05374052770001,
-  "FullNameUA": "вулиця Кільцева, 54"
+  "lati": 50.0537405277,
+  "FullNameUA": "вулиця Кільцева, 54",
+  "ChildsIds": []
  },
  {
   "id": 123841,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30128235470001,
+  "longt": 36.3012823547,
   "lati": 50.0545693931,
-  "FullNameUA": "вулиця Кільцева, 55"
+  "FullNameUA": "вулиця Кільцева, 55",
+  "ChildsIds": []
  },
  {
   "id": 123842,
@@ -1270,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302634576200006,
+  "longt": 36.3026345762,
   "lati": 50.0539326422,
-  "FullNameUA": "вулиця Кільцева, 56"
+  "FullNameUA": "вулиця Кільцева, 56",
+  "ChildsIds": []
  },
  {
   "id": 123843,
@@ -1296,8 +1347,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3011831056,
-  "lati": 50.05468073750001,
-  "FullNameUA": "вулиця Кільцева, 57"
+  "lati": 50.0546807375,
+  "FullNameUA": "вулиця Кільцева, 57",
+  "ChildsIds": []
  },
  {
   "id": 123844,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3024361789,
   "lati": 50.0541319291,
-  "FullNameUA": "вулиця Кільцева, 58"
+  "FullNameUA": "вулиця Кільцева, 58",
+  "ChildsIds": []
  },
  {
   "id": 123845,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301065269000006,
-  "lati": 50.054804779200005,
-  "FullNameUA": "вулиця Кільцева, 59/12"
+  "longt": 36.301065269,
+  "lati": 50.0548047792,
+  "FullNameUA": "вулиця Кільцева, 59/12",
+  "ChildsIds": []
  },
  {
   "id": 123846,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3022669842,
   "lati": 50.0543174438,
-  "FullNameUA": "вулиця Кільцева, 60"
+  "FullNameUA": "вулиця Кільцева, 60",
+  "ChildsIds": []
  },
  {
   "id": 123847,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.300885379300006,
-  "lati": 50.05501717480001,
-  "FullNameUA": "вулиця Кільцева, 61"
+  "longt": 36.3008853793,
+  "lati": 50.0550171748,
+  "FullNameUA": "вулиця Кільцева, 61",
+  "ChildsIds": []
  },
  {
   "id": 123848,
@@ -1420,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302070687400004,
-  "lati": 50.054498021200004,
-  "FullNameUA": "вулиця Кільцева, 62"
+  "longt": 36.3020706874,
+  "lati": 50.0544980212,
+  "FullNameUA": "вулиця Кільцева, 62",
+  "ChildsIds": []
  },
  {
   "id": 123849,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.3007076027,
   "lati": 50.0551676871,
-  "FullNameUA": "вулиця Кільцева, 63"
+  "FullNameUA": "вулиця Кільцева, 63",
+  "ChildsIds": []
  },
  {
   "id": 123850,
@@ -1470,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301887232300004,
+  "longt": 36.3018872323,
   "lati": 50.0547132801,
-  "FullNameUA": "вулиця Кільцева, 64"
+  "FullNameUA": "вулиця Кільцева, 64",
+  "ChildsIds": []
  },
  {
   "id": 123851,
@@ -1496,8 +1555,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.30168133,
-  "lati": 50.054889810800006,
-  "FullNameUA": "вулиця Кільцева, 66"
+  "lati": 50.0548898108,
+  "FullNameUA": "вулиця Кільцева, 66",
+  "ChildsIds": []
  },
  {
   "id": 123852,
@@ -1520,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301526279600004,
-  "lati": 50.055113995000006,
-  "FullNameUA": "вулиця Кільцева, 68"
+  "longt": 36.3015262796,
+  "lati": 50.055113995,
+  "FullNameUA": "вулиця Кільцева, 68",
+  "ChildsIds": []
  },
  {
   "id": 123853,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30134584140001,
-  "lati": 50.05529622540001,
-  "FullNameUA": "вулиця Кільцева, 70"
+  "longt": 36.3013458414,
+  "lati": 50.0552962254,
+  "FullNameUA": "вулиця Кільцева, 70",
+  "ChildsIds": []
  },
  {
   "id": 123854,
@@ -1570,8 +1632,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30124768980001,
+  "longt": 36.3012476898,
   "lati": 50.0555268561,
-  "FullNameUA": "вулиця Кільцева, 72"
+  "FullNameUA": "вулиця Кільцева, 72",
+  "ChildsIds": []
  }
 ]

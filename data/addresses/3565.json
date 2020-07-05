@@ -1,5 +1,31 @@
 [
  {
+  "id": 131744,
+  "postcode": 61013,
+  "number": 1,
+  "suffix": "/10",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2717053338,
+  "lati": 49.9945613732,
+  "FullNameUA": "вулиця Пестеля, 1/10",
+  "ChildsIds": []
+ },
+ {
   "id": 134855,
   "postcode": 61013,
   "number": 1,
@@ -22,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2719750065,
   "lati": 49.9946296931,
-  "FullNameUA": "вулиця Пестеля, 1-А"
+  "FullNameUA": "вулиця Пестеля, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 177389,
@@ -47,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2721321096,
   "lati": 49.9943872642,
-  "FullNameUA": "вулиця Пестеля, 2"
+  "FullNameUA": "вулиця Пестеля, 2",
+  "ChildsIds": []
  },
  {
   "id": 134856,
@@ -72,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2721223757,
   "lati": 49.9946809165,
-  "FullNameUA": "вулиця Пестеля, 3"
+  "FullNameUA": "вулиця Пестеля, 3",
+  "ChildsIds": []
  },
  {
   "id": 134857,
@@ -95,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272411157700006,
-  "lati": 49.994494124300005,
-  "FullNameUA": "вулиця Пестеля, 4"
+  "longt": 36.2724111577,
+  "lati": 49.9944941243,
+  "FullNameUA": "вулиця Пестеля, 4",
+  "ChildsIds": []
  },
  {
   "id": 134858,
@@ -120,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272476648200005,
-  "lati": 49.994792113500004,
-  "FullNameUA": "вулиця Пестеля, 5"
+  "longt": 36.2724766482,
+  "lati": 49.9947921135,
+  "FullNameUA": "вулиця Пестеля, 5",
+  "ChildsIds": []
  },
  {
   "id": 134859,
@@ -145,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272652216400004,
+  "longt": 36.2726522164,
   "lati": 49.9945702085,
-  "FullNameUA": "вулиця Пестеля, 6"
+  "FullNameUA": "вулиця Пестеля, 6",
+  "ChildsIds": []
  },
  {
   "id": 134860,
@@ -170,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272683167000004,
-  "lati": 49.994879634300005,
-  "FullNameUA": "вулиця Пестеля, 7"
+  "longt": 36.272683167,
+  "lati": 49.9948796343,
+  "FullNameUA": "вулиця Пестеля, 7",
+  "ChildsIds": []
  },
  {
   "id": 134861,
@@ -195,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272925872100004,
+  "longt": 36.2729258721,
   "lati": 49.994673644,
-  "FullNameUA": "вулиця Пестеля, 8"
+  "FullNameUA": "вулиця Пестеля, 8",
+  "ChildsIds": []
  },
  {
   "id": 134862,
@@ -222,7 +256,8 @@
   "reg_date": "",
   "longt": 36.27291717,
   "lati": 49.9949512361,
-  "FullNameUA": "вулиця Пестеля, 9"
+  "FullNameUA": "вулиця Пестеля, 9",
+  "ChildsIds": []
  },
  {
   "id": 134863,
@@ -245,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273191297000004,
+  "longt": 36.273191297,
   "lati": 49.9947553092,
-  "FullNameUA": "вулиця Пестеля, 10"
+  "FullNameUA": "вулиця Пестеля, 10",
+  "ChildsIds": []
  },
  {
   "id": 134864,
@@ -272,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2731259389,
   "lati": 49.9950236842,
-  "FullNameUA": "вулиця Пестеля, 11"
+  "FullNameUA": "вулиця Пестеля, 11",
+  "ChildsIds": []
  },
  {
   "id": 134865,
@@ -296,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2734291168,
-  "lati": 49.994831845600004,
-  "FullNameUA": "вулиця Пестеля, 12"
+  "lati": 49.9948318456,
+  "FullNameUA": "вулиця Пестеля, 12",
+  "ChildsIds": []
  },
  {
   "id": 134866,
@@ -322,7 +360,8 @@
   "reg_date": "",
   "longt": 36.273414611,
   "lati": 49.9951207827,
-  "FullNameUA": "вулиця Пестеля, 13"
+  "FullNameUA": "вулиця Пестеля, 13",
+  "ChildsIds": []
  },
  {
   "id": 134867,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2736253519,
   "lati": 49.9948873544,
-  "FullNameUA": "вулиця Пестеля, 14"
+  "FullNameUA": "вулиця Пестеля, 14",
+  "ChildsIds": []
  },
  {
   "id": 134868,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273756539000004,
-  "lati": 49.995271947700004,
-  "FullNameUA": "вулиця Пестеля, 15"
+  "longt": 36.273756539,
+  "lati": 49.9952719477,
+  "FullNameUA": "вулиця Пестеля, 15",
+  "ChildsIds": []
  },
  {
   "id": 134869,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273987656600006,
+  "longt": 36.2739876566,
   "lati": 49.9950141657,
-  "FullNameUA": "вулиця Пестеля, 16"
+  "FullNameUA": "вулиця Пестеля, 16",
+  "ChildsIds": []
  },
  {
   "id": 134870,
@@ -422,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2740330498,
   "lati": 49.9953200555,
-  "FullNameUA": "вулиця Пестеля, 17"
+  "FullNameUA": "вулиця Пестеля, 17",
+  "ChildsIds": []
  },
  {
   "id": 134871,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274271776300004,
+  "longt": 36.2742717763,
   "lati": 49.9950919359,
-  "FullNameUA": "вулиця Пестеля, 18"
+  "FullNameUA": "вулиця Пестеля, 18",
+  "ChildsIds": []
  },
  {
   "id": 134872,
@@ -472,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2741954552,
   "lati": 49.9953521437,
-  "FullNameUA": "вулиця Пестеля, 19"
+  "FullNameUA": "вулиця Пестеля, 19",
+  "ChildsIds": []
  },
  {
   "id": 134873,
@@ -495,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274487783400005,
+  "longt": 36.2744877834,
   "lati": 49.9951732309,
-  "FullNameUA": "вулиця Пестеля, 20"
+  "FullNameUA": "вулиця Пестеля, 20",
+  "ChildsIds": []
  },
  {
   "id": 134874,
@@ -520,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274423470500004,
-  "lati": 49.995461209300004,
-  "FullNameUA": "вулиця Пестеля, 21"
+  "longt": 36.2744234705,
+  "lati": 49.9954612093,
+  "FullNameUA": "вулиця Пестеля, 21",
+  "ChildsIds": []
  },
  {
   "id": 126841,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.275326787800005,
+  "longt": 36.2753267878,
   "lati": 49.9954572221,
-  "FullNameUA": "вулиця Пестеля, 22"
+  "FullNameUA": "вулиця Пестеля, 22",
+  "ChildsIds": []
  },
  {
   "id": 126842,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275329038900004,
-  "lati": 49.995741168100004,
-  "FullNameUA": "вулиця Пестеля, 23"
+  "longt": 36.2753290389,
+  "lati": 49.9957411681,
+  "FullNameUA": "вулиця Пестеля, 23",
+  "ChildsIds": []
  },
  {
   "id": 126843,
@@ -597,7 +646,8 @@
   "reg_date": "",
   "longt": 36.275597202,
   "lati": 49.9955382424,
-  "FullNameUA": "вулиця Пестеля, 24"
+  "FullNameUA": "вулиця Пестеля, 24",
+  "ChildsIds": []
  },
  {
   "id": 126844,
@@ -621,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2755143015,
-  "lati": 49.995798594600004,
-  "FullNameUA": "вулиця Пестеля, 25"
+  "lati": 49.9957985946,
+  "FullNameUA": "вулиця Пестеля, 25",
+  "ChildsIds": []
  },
  {
   "id": 126845,
@@ -647,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2757602271,
   "lati": 49.9955956099,
-  "FullNameUA": "вулиця Пестеля, 26"
+  "FullNameUA": "вулиця Пестеля, 26",
+  "ChildsIds": []
  },
  {
   "id": 126846,
@@ -671,8 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2757587954,
-  "lati": 49.995881247300005,
-  "FullNameUA": "вулиця Пестеля, 27"
+  "lati": 49.9958812473,
+  "FullNameUA": "вулиця Пестеля, 27",
+  "ChildsIds": []
  },
  {
   "id": 126847,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27594147080001,
+  "longt": 36.2759414708,
   "lati": 49.9956604443,
-  "FullNameUA": "вулиця Пестеля, 28"
+  "FullNameUA": "вулиця Пестеля, 28",
+  "ChildsIds": []
  },
  {
   "id": 126848,
@@ -722,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2761152725,
   "lati": 49.9956992439,
-  "FullNameUA": "вулиця Пестеля, 28-А"
+  "FullNameUA": "вулиця Пестеля, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 126849,
@@ -747,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2760693484,
   "lati": 49.995989579,
-  "FullNameUA": "вулиця Пестеля, 29"
+  "FullNameUA": "вулиця Пестеля, 29",
+  "ChildsIds": []
  },
  {
   "id": 126850,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276391216300006,
+  "longt": 36.2763912163,
   "lati": 49.995785857,
-  "FullNameUA": "вулиця Пестеля, 30"
+  "FullNameUA": "вулиця Пестеля, 30",
+  "ChildsIds": []
  },
  {
   "id": 126851,
@@ -795,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276289921300005,
+  "longt": 36.2762899213,
   "lati": 49.9956328396,
-  "FullNameUA": "вулиця Пестеля, 30-А"
+  "FullNameUA": "вулиця Пестеля, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 126852,
@@ -820,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276366768500004,
+  "longt": 36.2763667685,
   "lati": 49.9960847436,
-  "FullNameUA": "вулиця Пестеля, 31"
+  "FullNameUA": "вулиця Пестеля, 31",
+  "ChildsIds": []
  },
  {
   "id": 126853,
@@ -847,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2766520228,
   "lati": 49.9958889533,
-  "FullNameUA": "вулиця Пестеля, 32"
+  "FullNameUA": "вулиця Пестеля, 32",
+  "ChildsIds": []
  },
  {
   "id": 126854,
@@ -870,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276485887300005,
-  "lati": 49.995805649800005,
-  "FullNameUA": "вулиця Пестеля, 32-А"
+  "longt": 36.2764858873,
+  "lati": 49.9958056498,
+  "FullNameUA": "вулиця Пестеля, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 126855,
@@ -897,7 +958,8 @@
   "reg_date": "",
   "longt": 36.276525734,
   "lati": 49.9961720652,
-  "FullNameUA": "вулиця Пестеля, 33"
+  "FullNameUA": "вулиця Пестеля, 33",
+  "ChildsIds": []
  },
  {
   "id": 126856,
@@ -920,34 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276887347400006,
-  "lati": 49.995961282500005,
-  "FullNameUA": "вулиця Пестеля, 34"
- },
- {
-  "id": 126857,
-  "postcode": 61161,
-  "number": 35,
-  "suffix": "",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2768171954,
-  "lati": 49.996221658900005,
-  "FullNameUA": "вулиця Пестеля, 35"
+  "longt": 36.2768873474,
+  "lati": 49.9959612825,
+  "FullNameUA": "вулиця Пестеля, 34",
+  "ChildsIds": []
  },
  {
   "id": 126858,
@@ -972,7 +1010,34 @@
   "reg_date": "",
   "longt": 36.2769613114,
   "lati": 49.9962690993,
-  "FullNameUA": "вулиця Пестеля, 35-А"
+  "FullNameUA": "вулиця Пестеля, 35-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126857,
+  "postcode": 61161,
+  "number": 35,
+  "suffix": "",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2768171954,
+  "lati": 49.9962216589,
+  "FullNameUA": "вулиця Пестеля, 35",
+  "ChildsIds": []
  },
  {
   "id": 126859,
@@ -995,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277157348500005,
+  "longt": 36.2771573485,
   "lati": 49.9960427531,
-  "FullNameUA": "вулиця Пестеля, 36"
+  "FullNameUA": "вулиця Пестеля, 36",
+  "ChildsIds": []
  },
  {
   "id": 126860,
@@ -1020,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277152227600006,
+  "longt": 36.2771522276,
   "lati": 49.9964213066,
-  "FullNameUA": "вулиця Пестеля, 37"
+  "FullNameUA": "вулиця Пестеля, 37",
+  "ChildsIds": []
  },
  {
   "id": 126861,
@@ -1047,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2774171346,
   "lati": 49.9961230091,
-  "FullNameUA": "вулиця Пестеля, 38"
+  "FullNameUA": "вулиця Пестеля, 38",
+  "ChildsIds": []
  },
  {
   "id": 126862,
@@ -1072,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2772787611,
   "lati": 49.9965300213,
-  "FullNameUA": "вулиця Пестеля, 39"
+  "FullNameUA": "вулиця Пестеля, 39",
+  "ChildsIds": []
  },
  {
   "id": 126863,
@@ -1095,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277734569500005,
+  "longt": 36.2777345695,
   "lati": 49.9962188395,
-  "FullNameUA": "вулиця Пестеля, 40"
+  "FullNameUA": "вулиця Пестеля, 40",
+  "ChildsIds": []
  },
  {
   "id": 126864,
@@ -1120,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.278209984300005,
+  "longt": 36.2782099843,
   "lati": 49.996220839,
-  "FullNameUA": "вулиця Пестеля, 42"
+  "FullNameUA": "вулиця Пестеля, 42",
+  "ChildsIds": []
  },
  {
   "id": 126866,
@@ -1146,8 +1217,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2780469227,
-  "lati": 49.996880426800004,
-  "FullNameUA": "вулиця Пестеля, 43"
+  "lati": 49.9968804268,
+  "FullNameUA": "вулиця Пестеля, 43",
+  "ChildsIds": []
  },
  {
   "id": 126867,
@@ -1171,8 +1243,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2784427462,
-  "lati": 49.996455729000004,
-  "FullNameUA": "вулиця Пестеля, 44"
+  "lati": 49.996455729,
+  "FullNameUA": "вулиця Пестеля, 44",
+  "ChildsIds": []
  },
  {
   "id": 126868,
@@ -1196,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2784380674,
-  "lati": 49.996775827600004,
-  "FullNameUA": "вулиця Пестеля, 45"
+  "lati": 49.9967758276,
+  "FullNameUA": "вулиця Пестеля, 45",
+  "ChildsIds": []
  },
  {
   "id": 126869,
@@ -1222,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2787527519,
   "lati": 49.9965819589,
-  "FullNameUA": "вулиця Пестеля, 46"
+  "FullNameUA": "вулиця Пестеля, 46",
+  "ChildsIds": []
  },
  {
   "id": 126870,
@@ -1247,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2787197651,
   "lati": 49.9970057544,
-  "FullNameUA": "вулиця Пестеля, 47"
+  "FullNameUA": "вулиця Пестеля, 47",
+  "ChildsIds": []
  },
  {
   "id": 126871,
@@ -1270,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279029631200004,
-  "lati": 49.996677174700004,
-  "FullNameUA": "вулиця Пестеля, 48"
+  "longt": 36.2790296312,
+  "lati": 49.9966771747,
+  "FullNameUA": "вулиця Пестеля, 48",
+  "ChildsIds": []
  },
  {
   "id": 126872,
@@ -1296,8 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2792027634,
-  "lati": 49.997008845900005,
-  "FullNameUA": "вулиця Пестеля, 49"
+  "lati": 49.9970088459,
+  "FullNameUA": "вулиця Пестеля, 49",
+  "ChildsIds": []
  },
  {
   "id": 126873,
@@ -1322,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.2792197992,
   "lati": 49.9967393426,
-  "FullNameUA": "вулиця Пестеля, 50"
+  "FullNameUA": "вулиця Пестеля, 50",
+  "ChildsIds": []
  },
  {
   "id": 126874,
@@ -1347,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2794508411,
   "lati": 49.9970916815,
-  "FullNameUA": "вулиця Пестеля, 51"
+  "FullNameUA": "вулиця Пестеля, 51",
+  "ChildsIds": []
  },
  {
   "id": 126875,
@@ -1372,32 +1452,8 @@
   "reg_date": "",
   "longt": 36.2795091137,
   "lati": 49.9968342541,
-  "FullNameUA": "вулиця Пестеля, 52"
- },
- {
-  "id": 126876,
-  "postcode": 61161,
-  "number": 53,
-  "suffix": "",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.279492491700005,
-  "lati": 49.9972272923,
-  "FullNameUA": "вулиця Пестеля, 53"
+  "FullNameUA": "вулиця Пестеля, 52",
+  "ChildsIds": []
  },
  {
   "id": 126877,
@@ -1420,9 +1476,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279728983800005,
+  "longt": 36.2797289838,
   "lati": 49.9971741406,
-  "FullNameUA": "вулиця Пестеля, 53-А"
+  "FullNameUA": "вулиця Пестеля, 53-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126876,
+  "postcode": 61161,
+  "number": 53,
+  "suffix": "",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2794924917,
+  "lati": 49.9972272923,
+  "FullNameUA": "вулиця Пестеля, 53",
+  "ChildsIds": []
  },
  {
   "id": 126878,
@@ -1445,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279710139500004,
+  "longt": 36.2797101395,
   "lati": 49.9969035593,
-  "FullNameUA": "вулиця Пестеля, 54"
+  "FullNameUA": "вулиця Пестеля, 54",
+  "ChildsIds": []
  },
  {
   "id": 126879,
@@ -1470,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279950979300004,
+  "longt": 36.2799509793,
   "lati": 49.9972713983,
-  "FullNameUA": "вулиця Пестеля, 55"
+  "FullNameUA": "вулиця Пестеля, 55",
+  "ChildsIds": []
  },
  {
   "id": 126880,
@@ -1497,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2801916333,
   "lati": 49.9973478207,
-  "FullNameUA": "вулиця Пестеля, 57"
+  "FullNameUA": "вулиця Пестеля, 57",
+  "ChildsIds": []
  },
  {
   "id": 126881,
@@ -1522,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2799604889,
   "lati": 49.9969587338,
-  "FullNameUA": "вулиця Пестеля, 58"
+  "FullNameUA": "вулиця Пестеля, 58",
+  "ChildsIds": []
  },
  {
   "id": 126882,
@@ -1547,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.280402075,
   "lati": 49.9974107503,
-  "FullNameUA": "вулиця Пестеля, 59"
+  "FullNameUA": "вулиця Пестеля, 59",
+  "ChildsIds": []
  },
  {
   "id": 126883,
@@ -1572,57 +1660,8 @@
   "reg_date": "",
   "longt": 36.2803722064,
   "lati": 49.9971190608,
-  "FullNameUA": "вулиця Пестеля, 60"
- },
- {
-  "id": 126886,
-  "postcode": 61161,
-  "number": 61,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2813409513,
-  "lati": 49.997729282200005,
-  "FullNameUA": "вулиця Пестеля, 61-Б"
- },
- {
-  "id": 126884,
-  "postcode": 61161,
-  "number": 61,
-  "suffix": "",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2805848294,
-  "lati": 49.997477812700005,
-  "FullNameUA": "вулиця Пестеля, 61"
+  "FullNameUA": "вулиця Пестеля, 60",
+  "ChildsIds": []
  },
  {
   "id": 126885,
@@ -1647,7 +1686,60 @@
   "reg_date": "",
   "longt": 36.2809487918,
   "lati": 49.9976046124,
-  "FullNameUA": "вулиця Пестеля, 61-А"
+  "FullNameUA": "вулиця Пестеля, 61-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126886,
+  "postcode": 61161,
+  "number": 61,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2813409513,
+  "lati": 49.9977292822,
+  "FullNameUA": "вулиця Пестеля, 61-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 126884,
+  "postcode": 61161,
+  "number": 61,
+  "suffix": "",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2805848294,
+  "lati": 49.9974778127,
+  "FullNameUA": "вулиця Пестеля, 61",
+  "ChildsIds": []
  },
  {
   "id": 126887,
@@ -1671,8 +1763,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2805743253,
-  "lati": 49.997189875800004,
-  "FullNameUA": "вулиця Пестеля, 62"
+  "lati": 49.9971898758,
+  "FullNameUA": "вулиця Пестеля, 62",
+  "ChildsIds": []
  },
  {
   "id": 126888,
@@ -1697,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2816396782,
   "lati": 49.9978326545,
-  "FullNameUA": "вулиця Пестеля, 63"
+  "FullNameUA": "вулиця Пестеля, 63",
+  "ChildsIds": []
  },
  {
   "id": 126889,
@@ -1721,8 +1815,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2807707506,
-  "lati": 49.997242386900005,
-  "FullNameUA": "вулиця Пестеля, 64"
+  "lati": 49.9972423869,
+  "FullNameUA": "вулиця Пестеля, 64",
+  "ChildsIds": []
  },
  {
   "id": 126890,
@@ -1747,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2818750454,
   "lati": 49.9979189651,
-  "FullNameUA": "вулиця Пестеля, 65"
+  "FullNameUA": "вулиця Пестеля, 65",
+  "ChildsIds": []
  },
  {
   "id": 126891,
@@ -1770,9 +1866,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.2811291803,
-  "lati": 49.997347607600005,
-  "FullNameUA": "вулиця Пестеля, 66"
+  "longt": 36.2811410569,
+  "lati": 49.9973513919,
+  "FullNameUA": "вулиця Пестеля, 66",
+  "ChildsIds": []
  },
  {
   "id": 126892,
@@ -1797,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.2821281508,
   "lati": 49.9979865712,
-  "FullNameUA": "вулиця Пестеля, 67"
+  "FullNameUA": "вулиця Пестеля, 67",
+  "ChildsIds": []
  },
  {
   "id": 126893,
@@ -1821,8 +1919,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2815329567,
-  "lati": 49.997479228100005,
-  "FullNameUA": "вулиця Пестеля, 68"
+  "lati": 49.9974792281,
+  "FullNameUA": "вулиця Пестеля, 68",
+  "ChildsIds": []
  },
  {
   "id": 126894,
@@ -1846,8 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2824327653,
-  "lati": 49.998090716200004,
-  "FullNameUA": "вулиця Пестеля, 69"
+  "lati": 49.9980907162,
+  "FullNameUA": "вулиця Пестеля, 69",
+  "ChildsIds": []
  },
  {
   "id": 126895,
@@ -1872,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.2818969688,
   "lati": 49.9975990654,
-  "FullNameUA": "вулиця Пестеля, 70"
+  "FullNameUA": "вулиця Пестеля, 70",
+  "ChildsIds": []
  },
  {
   "id": 126896,
@@ -1896,8 +1997,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.282698031,
-  "lati": 49.998172953200005,
-  "FullNameUA": "вулиця Пестеля, 71"
+  "lati": 49.9981729532,
+  "FullNameUA": "вулиця Пестеля, 71",
+  "ChildsIds": []
+ },
+ {
+  "id": 126899,
+  "postcode": 61161,
+  "number": 72,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2823157326,
+  "lati": 49.9975969201,
+  "FullNameUA": "вулиця Пестеля, 72/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 126898,
+  "postcode": 61161,
+  "number": 72,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2820940436,
+  "lati": 49.9976389611,
+  "FullNameUA": "вулиця Пестеля, 72-А",
+  "ChildsIds": []
  },
  {
   "id": 126897,
@@ -1921,58 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2822139513,
-  "lati": 49.997724925600004,
-  "FullNameUA": "вулиця Пестеля, 72"
- },
- {
-  "id": 126898,
-  "postcode": 61161,
-  "number": 72,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.282094043600004,
-  "lati": 49.9976389611,
-  "FullNameUA": "вулиця Пестеля, 72-А"
- },
- {
-  "id": 126899,
-  "postcode": 61161,
-  "number": 72,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.282315732600004,
-  "lati": 49.9975969201,
-  "FullNameUA": "вулиця Пестеля, 72/1"
+  "lati": 49.9977249256,
+  "FullNameUA": "вулиця Пестеля, 72",
+  "ChildsIds": []
  },
  {
   "id": 126900,
@@ -1997,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.2828734412,
   "lati": 49.9982267543,
-  "FullNameUA": "вулиця Пестеля, 73"
+  "FullNameUA": "вулиця Пестеля, 73",
+  "ChildsIds": []
  },
  {
   "id": 126901,
@@ -2020,9 +2126,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.282434882000004,
+  "longt": 36.282434882,
   "lati": 49.99777531,
-  "FullNameUA": "вулиця Пестеля, 74"
+  "FullNameUA": "вулиця Пестеля, 74",
+  "ChildsIds": []
+ },
+ {
+  "id": 126903,
+  "postcode": 61161,
+  "number": 75,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2831557405,
+  "lati": 49.998316632,
+  "FullNameUA": "вулиця Пестеля, 75-А",
+  "ChildsIds": []
  },
  {
   "id": 126902,
@@ -2047,32 +2180,8 @@
   "reg_date": "",
   "longt": 36.2832900231,
   "lati": 49.998370303,
-  "FullNameUA": "вулиця Пестеля, 75"
- },
- {
-  "id": 126903,
-  "postcode": 61161,
-  "number": 75,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2831557405,
-  "lati": 49.998316632000005,
-  "FullNameUA": "вулиця Пестеля, 75-А"
+  "FullNameUA": "вулиця Пестеля, 75",
+  "ChildsIds": []
  },
  {
   "id": 126904,
@@ -2095,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.282694683900004,
+  "longt": 36.2826946839,
   "lati": 49.9978885521,
-  "FullNameUA": "вулиця Пестеля, 76"
+  "FullNameUA": "вулиця Пестеля, 76",
+  "ChildsIds": []
  },
  {
   "id": 126905,
@@ -2120,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283377058300005,
+  "longt": 36.2833770583,
   "lati": 49.998395735,
-  "FullNameUA": "вулиця Пестеля, 77"
+  "FullNameUA": "вулиця Пестеля, 77",
+  "ChildsIds": []
  },
  {
   "id": 126906,
@@ -2147,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2829376762,
   "lati": 49.9979385778,
-  "FullNameUA": "вулиця Пестеля, 78"
+  "FullNameUA": "вулиця Пестеля, 78",
+  "ChildsIds": []
  },
  {
   "id": 126907,
@@ -2172,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.2839048159,
   "lati": 49.998565382,
-  "FullNameUA": "вулиця Пестеля, 79"
+  "FullNameUA": "вулиця Пестеля, 79",
+  "ChildsIds": []
  },
  {
   "id": 126908,
@@ -2196,8 +2309,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2833795011,
-  "lati": 49.998106002600004,
-  "FullNameUA": "вулиця Пестеля, 80"
+  "lati": 49.9981060026,
+  "FullNameUA": "вулиця Пестеля, 80",
+  "ChildsIds": []
  },
  {
   "id": 126909,
@@ -2221,8 +2335,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.284173766,
-  "lati": 49.998665247800005,
-  "FullNameUA": "вулиця Пестеля, 81"
+  "lati": 49.9986652478,
+  "FullNameUA": "вулиця Пестеля, 81",
+  "ChildsIds": []
  },
  {
   "id": 126910,
@@ -2246,8 +2361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2844547202,
-  "lati": 49.998772012900005,
-  "FullNameUA": "вулиця Пестеля, 83"
+  "lati": 49.9987720129,
+  "FullNameUA": "вулиця Пестеля, 83",
+  "ChildsIds": []
  },
  {
   "id": 126911,
@@ -2272,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.2842663832,
   "lati": 49.9983057584,
-  "FullNameUA": "вулиця Пестеля, 84"
+  "FullNameUA": "вулиця Пестеля, 84",
+  "ChildsIds": []
  },
  {
   "id": 126912,
@@ -2297,7 +2414,34 @@
   "reg_date": "",
   "longt": 36.2847534714,
   "lati": 49.9988650055,
-  "FullNameUA": "вулиця Пестеля, 85"
+  "FullNameUA": "вулиця Пестеля, 85",
+  "ChildsIds": []
+ },
+ {
+  "id": 126913,
+  "postcode": 61161,
+  "number": 86,
+  "suffix": "",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2845234825,
+  "lati": 49.9984328252,
+  "FullNameUA": "вулиця Пестеля, 86",
+  "ChildsIds": []
  },
  {
   "id": 126914,
@@ -2322,32 +2466,8 @@
   "reg_date": "",
   "longt": 36.2844547096,
   "lati": 49.9983125435,
-  "FullNameUA": "вулиця Пестеля, 86-А"
- },
- {
-  "id": 126913,
-  "postcode": 61161,
-  "number": 86,
-  "suffix": "",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2845234825,
-  "lati": 49.998432825200005,
-  "FullNameUA": "вулиця Пестеля, 86"
+  "FullNameUA": "вулиця Пестеля, 86-А",
+  "ChildsIds": []
  },
  {
   "id": 126915,
@@ -2372,7 +2492,8 @@
   "reg_date": "",
   "longt": 36.2849866513,
   "lati": 49.9989150515,
-  "FullNameUA": "вулиця Пестеля, 87"
+  "FullNameUA": "вулиця Пестеля, 87",
+  "ChildsIds": []
  },
  {
   "id": 126916,
@@ -2395,9 +2516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284755239700004,
-  "lati": 49.998542319500004,
-  "FullNameUA": "вулиця Пестеля, 88"
+  "longt": 36.2847552397,
+  "lati": 49.9985423195,
+  "FullNameUA": "вулиця Пестеля, 88",
+  "ChildsIds": []
  },
  {
   "id": 126917,
@@ -2422,7 +2544,8 @@
   "reg_date": "",
   "longt": 36.2853101746,
   "lati": 49.9990324054,
-  "FullNameUA": "вулиця Пестеля, 89"
+  "FullNameUA": "вулиця Пестеля, 89",
+  "ChildsIds": []
  },
  {
   "id": 126918,
@@ -2447,7 +2570,8 @@
   "reg_date": "",
   "longt": 36.285004995,
   "lati": 49.9986318144,
-  "FullNameUA": "вулиця Пестеля, 90"
+  "FullNameUA": "вулиця Пестеля, 90",
+  "ChildsIds": []
  },
  {
   "id": 126919,
@@ -2472,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.285583687,
   "lati": 49.9991182854,
-  "FullNameUA": "вулиця Пестеля, 91"
+  "FullNameUA": "вулиця Пестеля, 91",
+  "ChildsIds": []
  },
  {
   "id": 126920,
@@ -2497,7 +2622,8 @@
   "reg_date": "",
   "longt": 36.2852999678,
   "lati": 49.9985558285,
-  "FullNameUA": "вулиця Пестеля, 92"
+  "FullNameUA": "вулиця Пестеля, 92",
+  "ChildsIds": []
  },
  {
   "id": 126921,
@@ -2522,32 +2648,8 @@
   "reg_date": "",
   "longt": 36.2858980573,
   "lati": 49.9992445047,
-  "FullNameUA": "вулиця Пестеля, 93"
- },
- {
-  "id": 126923,
-  "postcode": 61161,
-  "number": 94,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3565,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 255-5, 05.12.2006",
-  "reg_date": "02.04.2019 09:22:11",
-  "longt": 36.2853159391,
-  "lati": 49.998704629500004,
-  "FullNameUA": "вулиця Пестеля, 94-А"
+  "FullNameUA": "вулиця Пестеля, 93",
+  "ChildsIds": []
  },
  {
   "id": 126922,
@@ -2572,7 +2674,34 @@
   "reg_date": "",
   "longt": 36.2855563636,
   "lati": 49.9987903828,
-  "FullNameUA": "вулиця Пестеля, 94"
+  "FullNameUA": "вулиця Пестеля, 94",
+  "ChildsIds": []
+ },
+ {
+  "id": 126923,
+  "postcode": 61161,
+  "number": 94,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3565,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 255-5, 05.12.2006",
+  "reg_date": "02.04.2019 09:22:11",
+  "longt": 36.2853159391,
+  "lati": 49.9987046295,
+  "FullNameUA": "вулиця Пестеля, 94-А",
+  "ChildsIds": []
  },
  {
   "id": 126924,
@@ -2597,6 +2726,7 @@
   "reg_date": "",
   "longt": 36.2856670841,
   "lati": 49.9988469492,
-  "FullNameUA": "вулиця Пестеля, 96"
+  "FullNameUA": "вулиця Пестеля, 96",
+  "ChildsIds": []
  }
 ]

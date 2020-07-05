@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2710703069,
   "lati": 49.9929515368,
-  "FullNameUA": "вулиця Вятська, 1"
+  "FullNameUA": "вулиця Вятська, 1",
+  "ChildsIds": []
  },
  {
   "id": 132779,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27169027750001,
+  "longt": 36.2716902775,
   "lati": 49.9927718832,
-  "FullNameUA": "вулиця Вятська, 2"
+  "FullNameUA": "вулиця Вятська, 2",
+  "ChildsIds": []
  },
  {
   "id": 132780,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271396386800006,
+  "longt": 36.2713963868,
   "lati": 49.9933504165,
-  "FullNameUA": "вулиця Вятська, 3"
+  "FullNameUA": "вулиця Вятська, 3",
+  "ChildsIds": []
  },
  {
   "id": 132782,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2719243088,
-  "lati": 49.993114134100004,
-  "FullNameUA": "вулиця Вятська, 4-А"
+  "lati": 49.9931141341,
+  "FullNameUA": "вулиця Вятська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 132781,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.271824543,
   "lati": 49.993087853,
-  "FullNameUA": "вулиця Вятська, 4"
+  "FullNameUA": "вулиця Вятська, 4",
+  "ChildsIds": []
  },
  {
   "id": 132783,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271572457800005,
-  "lati": 49.993485827200004,
-  "FullNameUA": "вулиця Вятська, 5"
+  "longt": 36.2715724578,
+  "lati": 49.9934858272,
+  "FullNameUA": "вулиця Вятська, 5",
+  "ChildsIds": []
  },
  {
   "id": 132784,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272118572500005,
+  "longt": 36.2721185725,
   "lati": 49.9931711942,
-  "FullNameUA": "вулиця Вятська, 6"
+  "FullNameUA": "вулиця Вятська, 6",
+  "ChildsIds": []
  },
  {
   "id": 132785,
@@ -195,34 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271833710600006,
-  "lati": 49.993618219700004,
-  "FullNameUA": "вулиця Вятська, 7"
- },
- {
-  "id": 132787,
-  "postcode": 61013,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.272011533500006,
-  "lati": 49.993412074400005,
-  "FullNameUA": "вулиця Вятська, 8-А"
+  "longt": 36.2718337106,
+  "lati": 49.9936182197,
+  "FullNameUA": "вулиця Вятська, 7",
+  "ChildsIds": []
  },
  {
   "id": 132786,
@@ -247,7 +230,34 @@
   "reg_date": "",
   "longt": 36.2722189801,
   "lati": 49.9935125544,
-  "FullNameUA": "вулиця Вятська, 8"
+  "FullNameUA": "вулиця Вятська, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 132787,
+  "postcode": 61013,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2720115335,
+  "lati": 49.9934120744,
+  "FullNameUA": "вулиця Вятська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 132788,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271894339300005,
+  "longt": 36.2718943393,
   "lati": 49.9938428122,
-  "FullNameUA": "вулиця Вятська, 9"
+  "FullNameUA": "вулиця Вятська, 9",
+  "ChildsIds": []
  },
  {
   "id": 132789,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2724298771,
   "lati": 49.994018857,
-  "FullNameUA": "вулиця Вятська, 11"
+  "FullNameUA": "вулиця Вятська, 11",
+  "ChildsIds": []
  },
  {
   "id": 132790,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2732129974,
   "lati": 49.9938628494,
-  "FullNameUA": "вулиця Вятська, 12"
+  "FullNameUA": "вулиця Вятська, 12",
+  "ChildsIds": []
  },
  {
   "id": 132791,
@@ -347,32 +360,8 @@
   "reg_date": "",
   "longt": 36.2726919782,
   "lati": 49.9941052617,
-  "FullNameUA": "вулиця Вятська, 13"
- },
- {
-  "id": 132792,
-  "postcode": 61013,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2734278127,
-  "lati": 49.993989538200005,
-  "FullNameUA": "вулиця Вятська, 14"
+  "FullNameUA": "вулиця Вятська, 13",
+  "ChildsIds": []
  },
  {
   "id": 132793,
@@ -396,13 +385,14 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2735440075,
-  "lati": 49.993845777000004,
-  "FullNameUA": "вулиця Вятська, 14-А"
+  "lati": 49.993845777,
+  "FullNameUA": "вулиця Вятська, 14-А",
+  "ChildsIds": []
  },
  {
-  "id": 132794,
+  "id": 132792,
   "postcode": 61013,
-  "number": 15,
+  "number": 14,
   "suffix": "",
   "block": "",
   "streetid": 2398,
@@ -420,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272936035600004,
-  "lati": 49.9942321149,
-  "FullNameUA": "вулиця Вятська, 15"
+  "longt": 36.2734278127,
+  "lati": 49.9939895382,
+  "FullNameUA": "вулиця Вятська, 14",
+  "ChildsIds": []
  },
  {
   "id": 132795,
@@ -445,9 +436,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272675705500006,
+  "longt": 36.2726757055,
   "lati": 49.9943252802,
-  "FullNameUA": "вулиця Вятська, 15-А"
+  "FullNameUA": "вулиця Вятська, 15-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 132794,
+  "postcode": 61013,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2729360356,
+  "lati": 49.9942321149,
+  "FullNameUA": "вулиця Вятська, 15",
+  "ChildsIds": []
  },
  {
   "id": 132796,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2736258134,
   "lati": 49.9940911459,
-  "FullNameUA": "вулиця Вятська, 16"
+  "FullNameUA": "вулиця Вятська, 16",
+  "ChildsIds": []
  },
  {
   "id": 132797,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273083775500005,
+  "longt": 36.2730837755,
   "lati": 49.9942153563,
-  "FullNameUA": "вулиця Вятська, 17"
+  "FullNameUA": "вулиця Вятська, 17",
+  "ChildsIds": []
  },
  {
   "id": 132798,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273943266900005,
+  "longt": 36.2739432669,
   "lati": 49.9941988826,
-  "FullNameUA": "вулиця Вятська, 18"
+  "FullNameUA": "вулиця Вятська, 18",
+  "ChildsIds": []
  },
  {
   "id": 132799,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2733468078,
   "lati": 49.994319071,
-  "FullNameUA": "вулиця Вятська, 19"
+  "FullNameUA": "вулиця Вятська, 19",
+  "ChildsIds": []
  },
  {
   "id": 132800,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274199897600006,
+  "longt": 36.2741998976,
   "lati": 49.9942631154,
-  "FullNameUA": "вулиця Вятська, 20"
+  "FullNameUA": "вулиця Вятська, 20",
+  "ChildsIds": []
  },
  {
   "id": 132801,
@@ -596,33 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2736421071,
-  "lati": 49.994401186000005,
-  "FullNameUA": "вулиця Вятська, 21"
- },
- {
-  "id": 132802,
-  "postcode": 61013,
-  "number": 22,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.274449766900005,
-  "lati": 49.9943584461,
-  "FullNameUA": "вулиця Вятська, 22/1"
+  "lati": 49.994401186,
+  "FullNameUA": "вулиця Вятська, 21",
+  "ChildsIds": []
  },
  {
   "id": 132803,
@@ -647,7 +646,34 @@
   "reg_date": "",
   "longt": 36.2745609882,
   "lati": 49.9943889428,
-  "FullNameUA": "вулиця Вятська, 22/2"
+  "FullNameUA": "вулиця Вятська, 22/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 132802,
+  "postcode": 61013,
+  "number": 22,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2744497669,
+  "lati": 49.9943584461,
+  "FullNameUA": "вулиця Вятська, 22/1",
+  "ChildsIds": []
  },
  {
   "id": 132804,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273878479800004,
+  "longt": 36.2738784798,
   "lati": 49.9944903337,
-  "FullNameUA": "вулиця Вятська, 23"
+  "FullNameUA": "вулиця Вятська, 23",
+  "ChildsIds": []
  },
  {
   "id": 132805,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274735989700005,
+  "longt": 36.2747359897,
   "lati": 49.9944356944,
-  "FullNameUA": "вулиця Вятська, 24"
+  "FullNameUA": "вулиця Вятська, 24",
+  "ChildsIds": []
  },
  {
   "id": 132806,
@@ -721,8 +749,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2744132086,
-  "lati": 49.994703555600005,
-  "FullNameUA": "вулиця Вятська, 25"
+  "lati": 49.9947035556,
+  "FullNameUA": "вулиця Вятська, 25",
+  "ChildsIds": []
  },
  {
   "id": 132807,
@@ -746,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2742078308,
-  "lati": 49.994809175200004,
-  "FullNameUA": "вулиця Вятська, 25-А"
+  "lati": 49.9948091752,
+  "FullNameUA": "вулиця Вятська, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 132808,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2750325287,
-  "lati": 49.994524342300004,
-  "FullNameUA": "вулиця Вятська, 26"
+  "lati": 49.9945243423,
+  "FullNameUA": "вулиця Вятська, 26",
+  "ChildsIds": []
  },
  {
   "id": 132809,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2746710451,
   "lati": 49.9947520534,
-  "FullNameUA": "вулиця Вятська, 27"
+  "FullNameUA": "вулиця Вятська, 27",
+  "ChildsIds": []
  },
  {
   "id": 132810,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274736901500006,
+  "longt": 36.2747369015,
   "lati": 49.9949178231,
-  "FullNameUA": "вулиця Вятська, 27-А"
+  "FullNameUA": "вулиця Вятська, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 132811,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2752560276,
-  "lati": 49.994626487000005,
-  "FullNameUA": "вулиця Вятська, 28"
+  "lati": 49.994626487,
+  "FullNameUA": "вулиця Вятська, 28",
+  "ChildsIds": []
  },
  {
   "id": 132812,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2749422077,
   "lati": 49.9948238199,
-  "FullNameUA": "вулиця Вятська, 29"
+  "FullNameUA": "вулиця Вятська, 29",
+  "ChildsIds": []
  },
  {
   "id": 121585,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27568946820001,
+  "longt": 36.2756894682,
   "lati": 49.9947638821,
-  "FullNameUA": "вулиця Вятська, 30"
+  "FullNameUA": "вулиця Вятська, 30",
+  "ChildsIds": []
  },
  {
   "id": 121586,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.275463971,
-  "lati": 49.995018793700005,
-  "FullNameUA": "вулиця Вятська, 31"
+  "lati": 49.9950187937,
+  "FullNameUA": "вулиця Вятська, 31",
+  "ChildsIds": []
  },
  {
   "id": 121587,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276191340800004,
+  "longt": 36.2761913408,
   "lati": 49.9948634197,
-  "FullNameUA": "вулиця Вятська, 32"
+  "FullNameUA": "вулиця Вятська, 32",
+  "ChildsIds": []
  },
  {
   "id": 121588,
@@ -971,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2760130408,
-  "lati": 49.994804100500005,
-  "FullNameUA": "вулиця Вятська, 32-Б"
+  "lati": 49.9948041005,
+  "FullNameUA": "вулиця Вятська, 32-Б",
+  "ChildsIds": []
  },
  {
   "id": 121589,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27574354950001,
+  "longt": 36.2757435495,
   "lati": 49.9950707115,
-  "FullNameUA": "вулиця Вятська, 33"
+  "FullNameUA": "вулиця Вятська, 33",
+  "ChildsIds": []
  },
  {
   "id": 121590,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2757743286,
   "lati": 49.9952510571,
-  "FullNameUA": "вулиця Вятська, 33-А"
+  "FullNameUA": "вулиця Вятська, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 121591,
@@ -1046,33 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2764099185,
-  "lati": 49.994982035300005,
-  "FullNameUA": "вулиця Вятська, 34"
- },
- {
-  "id": 121593,
-  "postcode": 61161,
-  "number": 35,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.276135054700006,
-  "lati": 49.995247917,
-  "FullNameUA": "вулиця Вятська, 35-А"
+  "lati": 49.9949820353,
+  "FullNameUA": "вулиця Вятська, 34",
+  "ChildsIds": []
  },
  {
   "id": 121592,
@@ -1095,9 +1112,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275902088500004,
+  "longt": 36.2759020885,
   "lati": 49.9952386845,
-  "FullNameUA": "вулиця Вятська, 35"
+  "FullNameUA": "вулиця Вятська, 35",
+  "ChildsIds": []
+ },
+ {
+  "id": 121593,
+  "postcode": 61161,
+  "number": 35,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2761350547,
+  "lati": 49.995247917,
+  "FullNameUA": "вулиця Вятська, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 121594,
@@ -1120,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276668256200004,
+  "longt": 36.2766682562,
   "lati": 49.9950939853,
-  "FullNameUA": "вулиця Вятська, 36"
+  "FullNameUA": "вулиця Вятська, 36",
+  "ChildsIds": []
  },
  {
   "id": 121595,
@@ -1145,9 +1190,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276405776400004,
+  "longt": 36.2764057764,
   "lati": 49.9953002477,
-  "FullNameUA": "вулиця Вятська, 37"
+  "FullNameUA": "вулиця Вятська, 37",
+  "ChildsIds": []
+ },
+ {
+  "id": 121597,
+  "postcode": 61161,
+  "number": 38,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2769428755,
+  "lati": 49.9949105545,
+  "FullNameUA": "вулиця Вятська, 38-Б",
+  "ChildsIds": []
  },
  {
   "id": 121596,
@@ -1172,32 +1244,8 @@
   "reg_date": "",
   "longt": 36.2769310245,
   "lati": 49.9950689299,
-  "FullNameUA": "вулиця Вятська, 38"
- },
- {
-  "id": 121597,
-  "postcode": 61161,
-  "number": 38,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.276942875500005,
-  "lati": 49.9949105545,
-  "FullNameUA": "вулиця Вятська, 38-Б"
+  "FullNameUA": "вулиця Вятська, 38",
+  "ChildsIds": []
  },
  {
   "id": 121598,
@@ -1220,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276534122700006,
+  "longt": 36.2765341227,
   "lati": 49.9953411365,
-  "FullNameUA": "вулиця Вятська, 39"
+  "FullNameUA": "вулиця Вятська, 39",
+  "ChildsIds": []
  },
  {
   "id": 121599,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277217983700005,
+  "longt": 36.2772179837,
   "lati": 49.9951195853,
-  "FullNameUA": "вулиця Вятська, 40"
+  "FullNameUA": "вулиця Вятська, 40",
+  "ChildsIds": []
  },
  {
   "id": 121600,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.276853371,
   "lati": 49.9954522955,
-  "FullNameUA": "вулиця Вятська, 41"
+  "FullNameUA": "вулиця Вятська, 41",
+  "ChildsIds": []
  },
  {
   "id": 121601,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277401604800005,
+  "longt": 36.2774016048,
   "lati": 49.9953484771,
-  "FullNameUA": "вулиця Вятська, 42"
+  "FullNameUA": "вулиця Вятська, 42",
+  "ChildsIds": []
  },
  {
   "id": 121602,
@@ -1320,34 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.277108652500004,
+  "longt": 36.2771086525,
   "lati": 49.9957460881,
-  "FullNameUA": "вулиця Вятська, 43"
- },
- {
-  "id": 121603,
-  "postcode": 61161,
-  "number": 44,
-  "suffix": "",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.277666605200004,
-  "lati": 49.9954308881,
-  "FullNameUA": "вулиця Вятська, 44"
+  "FullNameUA": "вулиця Вятська, 43",
+  "ChildsIds": []
  },
  {
   "id": 121604,
@@ -1371,8 +1399,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.277649609,
-  "lati": 49.995250132500004,
-  "FullNameUA": "вулиця Вятська, 44-А"
+  "lati": 49.9952501325,
+  "FullNameUA": "вулиця Вятська, 44-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121603,
+  "postcode": 61161,
+  "number": 44,
+  "suffix": "",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2776666052,
+  "lati": 49.9954308881,
+  "FullNameUA": "вулиця Вятська, 44",
+  "ChildsIds": []
  },
  {
   "id": 121605,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.277310884200006,
+  "longt": 36.2773108842,
   "lati": 49.9956215745,
-  "FullNameUA": "вулиця Вятська, 45"
+  "FullNameUA": "вулиця Вятська, 45",
+  "ChildsIds": []
  },
  {
   "id": 121606,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2779331204,
   "lati": 49.9953070664,
-  "FullNameUA": "вулиця Вятська, 46"
+  "FullNameUA": "вулиця Вятська, 46",
+  "ChildsIds": []
  },
  {
   "id": 121607,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2776295187,
   "lati": 49.9956978437,
-  "FullNameUA": "вулиця Вятська, 47"
+  "FullNameUA": "вулиця Вятська, 47",
+  "ChildsIds": []
  },
  {
   "id": 121608,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2782145834,
   "lati": 49.9956003042,
-  "FullNameUA": "вулиця Вятська, 48"
+  "FullNameUA": "вулиця Вятська, 48",
+  "ChildsIds": []
  },
  {
   "id": 121609,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277987366400005,
+  "longt": 36.2779873664,
   "lati": 49.9958455434,
-  "FullNameUA": "вулиця Вятська, 49"
+  "FullNameUA": "вулиця Вятська, 49",
+  "ChildsIds": []
  },
  {
   "id": 121610,
@@ -1522,32 +1582,8 @@
   "reg_date": "",
   "longt": 36.2786099416,
   "lati": 49.9957285538,
-  "FullNameUA": "вулиця Вятська, 50"
- },
- {
-  "id": 121612,
-  "postcode": 61161,
-  "number": 52,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2789609756,
-  "lati": 49.9958179508,
-  "FullNameUA": "вулиця Вятська, 52-А"
+  "FullNameUA": "вулиця Вятська, 50",
+  "ChildsIds": []
  },
  {
   "id": 121611,
@@ -1572,7 +1608,34 @@
   "reg_date": "",
   "longt": 36.2792147059,
   "lati": 49.9959372646,
-  "FullNameUA": "вулиця Вятська, 52"
+  "FullNameUA": "вулиця Вятська, 52",
+  "ChildsIds": []
+ },
+ {
+  "id": 121612,
+  "postcode": 61161,
+  "number": 52,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2789609756,
+  "lati": 49.9958179508,
+  "FullNameUA": "вулиця Вятська, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 121613,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2786982331,
   "lati": 49.9960646333,
-  "FullNameUA": "вулиця Вятська, 53"
+  "FullNameUA": "вулиця Вятська, 53",
+  "ChildsIds": []
  },
  {
   "id": 121614,
@@ -1621,8 +1685,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2795402156,
-  "lati": 49.996000525300005,
-  "FullNameUA": "вулиця Вятська, 54"
+  "lati": 49.9960005253,
+  "FullNameUA": "вулиця Вятська, 54",
+  "ChildsIds": []
  },
  {
   "id": 121615,
@@ -1646,8 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2789417587,
-  "lati": 49.996140716700005,
-  "FullNameUA": "вулиця Вятська, 55"
+  "lati": 49.9961407167,
+  "FullNameUA": "вулиця Вятська, 55",
+  "ChildsIds": []
  },
  {
   "id": 121616,
@@ -1670,9 +1736,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27970469380001,
+  "longt": 36.2797046938,
   "lati": 49.9960822025,
-  "FullNameUA": "вулиця Вятська, 56"
+  "FullNameUA": "вулиця Вятська, 56",
+  "ChildsIds": []
  },
  {
   "id": 121617,
@@ -1696,8 +1763,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2792610795,
-  "lati": 49.996279866900004,
-  "FullNameUA": "вулиця Вятська, 57"
+  "lati": 49.9962798669,
+  "FullNameUA": "вулиця Вятська, 57",
+  "ChildsIds": []
  },
  {
   "id": 121618,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2799906121,
   "lati": 49.9961896952,
-  "FullNameUA": "вулиця Вятська, 58"
+  "FullNameUA": "вулиця Вятська, 58",
+  "ChildsIds": []
  },
  {
   "id": 121619,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2795064701,
   "lati": 49.9963448794,
-  "FullNameUA": "вулиця Вятська, 59"
+  "FullNameUA": "вулиця Вятська, 59",
+  "ChildsIds": []
  },
  {
   "id": 121620,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2803048115,
   "lati": 49.9963043364,
-  "FullNameUA": "вулиця Вятська, 60"
+  "FullNameUA": "вулиця Вятська, 60",
+  "ChildsIds": []
  },
  {
   "id": 121621,
@@ -1795,9 +1866,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279868332300005,
+  "longt": 36.2798683323,
   "lati": 49.9964434021,
-  "FullNameUA": "вулиця Вятська, 61"
+  "FullNameUA": "вулиця Вятська, 61",
+  "ChildsIds": []
  },
  {
   "id": 121622,
@@ -1820,9 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280548435200004,
+  "longt": 36.2805484352,
   "lati": 49.9963507083,
-  "FullNameUA": "вулиця Вятська, 62"
+  "FullNameUA": "вулиця Вятська, 62",
+  "ChildsIds": []
  },
  {
   "id": 121623,
@@ -1847,7 +1920,8 @@
   "reg_date": "",
   "longt": 36.280039172,
   "lati": 49.9965423474,
-  "FullNameUA": "вулиця Вятська, 63"
+  "FullNameUA": "вулиця Вятська, 63",
+  "ChildsIds": []
  },
  {
   "id": 121624,
@@ -1871,8 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2808624077,
-  "lati": 49.996354965200005,
-  "FullNameUA": "вулиця Вятська, 64"
+  "lati": 49.9963549652,
+  "FullNameUA": "вулиця Вятська, 64",
+  "ChildsIds": []
  },
  {
   "id": 121625,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.280272359,
   "lati": 49.9965795477,
-  "FullNameUA": "вулиця Вятська, 65"
+  "FullNameUA": "вулиця Вятська, 65",
+  "ChildsIds": []
  },
  {
   "id": 121626,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281040720200004,
+  "longt": 36.2810407202,
   "lati": 49.9965245521,
-  "FullNameUA": "вулиця Вятська, 66"
+  "FullNameUA": "вулиця Вятська, 66",
+  "ChildsIds": []
  },
  {
   "id": 121627,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.2805413012,
   "lati": 49.9967899633,
-  "FullNameUA": "вулиця Вятська, 67"
+  "FullNameUA": "вулиця Вятська, 67",
+  "ChildsIds": []
  },
  {
   "id": 121628,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2811747691,
   "lati": 49.9965810092,
-  "FullNameUA": "вулиця Вятська, 68"
+  "FullNameUA": "вулиця Вятська, 68",
+  "ChildsIds": []
  },
  {
   "id": 121629,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.2808086049,
   "lati": 49.9967427479,
-  "FullNameUA": "вулиця Вятська, 69"
+  "FullNameUA": "вулиця Вятська, 69",
+  "ChildsIds": []
  },
  {
   "id": 121630,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.2822677546,
   "lati": 49.9969308406,
-  "FullNameUA": "вулиця Вятська, 70"
+  "FullNameUA": "вулиця Вятська, 70",
+  "ChildsIds": []
  },
  {
   "id": 121631,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.2810962777,
   "lati": 49.9968655082,
-  "FullNameUA": "вулиця Вятська, 71"
+  "FullNameUA": "вулиця Вятська, 71",
+  "ChildsIds": []
  },
  {
   "id": 121632,
@@ -2071,8 +2153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2826746521,
-  "lati": 49.997058667000005,
-  "FullNameUA": "вулиця Вятська, 72"
+  "lati": 49.997058667,
+  "FullNameUA": "вулиця Вятська, 72",
+  "ChildsIds": []
  },
  {
   "id": 121633,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.2814843003,
   "lati": 49.9969620062,
-  "FullNameUA": "вулиця Вятська, 73"
+  "FullNameUA": "вулиця Вятська, 73",
+  "ChildsIds": []
  },
  {
   "id": 121634,
@@ -2121,8 +2205,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2829414546,
-  "lati": 49.997161712600004,
-  "FullNameUA": "вулиця Вятська, 74"
+  "lati": 49.9971617126,
+  "FullNameUA": "вулиця Вятська, 74",
+  "ChildsIds": []
  },
  {
   "id": 121635,
@@ -2146,8 +2231,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2818185219,
-  "lati": 49.997090303200004,
-  "FullNameUA": "вулиця Вятська, 75"
+  "lati": 49.9970903032,
+  "FullNameUA": "вулиця Вятська, 75",
+  "ChildsIds": []
  },
  {
   "id": 121636,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2832401483,
   "lati": 49.9972504626,
-  "FullNameUA": "вулиця Вятська, 76"
+  "FullNameUA": "вулиця Вятська, 76",
+  "ChildsIds": []
  },
  {
   "id": 121637,
@@ -2197,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.2821276048,
   "lati": 49.9971801343,
-  "FullNameUA": "вулиця Вятська, 77"
+  "FullNameUA": "вулиця Вятська, 77",
+  "ChildsIds": []
  },
  {
   "id": 121638,
@@ -2220,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283617568400004,
-  "lati": 49.997308225000005,
-  "FullNameUA": "вулиця Вятська, 78"
+  "longt": 36.2836175684,
+  "lati": 49.997308225,
+  "FullNameUA": "вулиця Вятська, 78",
+  "ChildsIds": []
  },
  {
   "id": 121639,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.282527953,
   "lati": 49.9973244155,
-  "FullNameUA": "вулиця Вятська, 79"
+  "FullNameUA": "вулиця Вятська, 79",
+  "ChildsIds": []
  },
  {
   "id": 121640,
@@ -2271,8 +2361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2838951392,
-  "lati": 49.997476737300005,
-  "FullNameUA": "вулиця Вятська, 80"
+  "lati": 49.9974767373,
+  "FullNameUA": "вулиця Вятська, 80",
+  "ChildsIds": []
  },
  {
   "id": 121641,
@@ -2296,8 +2387,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2837348262,
-  "lati": 49.997404304700005,
-  "FullNameUA": "вулиця Вятська, 80-А"
+  "lati": 49.9974043047,
+  "FullNameUA": "вулиця Вятська, 80-А",
+  "ChildsIds": []
  },
  {
   "id": 121642,
@@ -2322,7 +2414,8 @@
   "reg_date": "",
   "longt": 36.2826499783,
   "lati": 49.9973837591,
-  "FullNameUA": "вулиця Вятська, 81"
+  "FullNameUA": "вулиця Вятська, 81",
+  "ChildsIds": []
  },
  {
   "id": 121643,
@@ -2347,7 +2440,8 @@
   "reg_date": "",
   "longt": 36.2841863174,
   "lati": 49.9975581233,
-  "FullNameUA": "вулиця Вятська, 82"
+  "FullNameUA": "вулиця Вятська, 82",
+  "ChildsIds": []
  },
  {
   "id": 121644,
@@ -2372,7 +2466,8 @@
   "reg_date": "",
   "longt": 36.2829814626,
   "lati": 49.9974691644,
-  "FullNameUA": "вулиця Вятська, 83"
+  "FullNameUA": "вулиця Вятська, 83",
+  "ChildsIds": []
  },
  {
   "id": 121645,
@@ -2397,7 +2492,8 @@
   "reg_date": "",
   "longt": 36.2833426458,
   "lati": 49.9975904322,
-  "FullNameUA": "вулиця Вятська, 85"
+  "FullNameUA": "вулиця Вятська, 85",
+  "ChildsIds": []
  },
  {
   "id": 121646,
@@ -2422,32 +2518,8 @@
   "reg_date": "",
   "longt": 36.2850144564,
   "lati": 49.9978480606,
-  "FullNameUA": "вулиця Вятська, 86"
- },
- {
-  "id": 121647,
-  "postcode": 61161,
-  "number": 87,
-  "suffix": "",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.283535303200004,
-  "lati": 49.997655005700004,
-  "FullNameUA": "вулиця Вятська, 87"
+  "FullNameUA": "вулиця Вятська, 86",
+  "ChildsIds": []
  },
  {
   "id": 121648,
@@ -2472,7 +2544,34 @@
   "reg_date": "",
   "longt": 36.2837030088,
   "lati": 49.9977136379,
-  "FullNameUA": "вулиця Вятська, 87-А"
+  "FullNameUA": "вулиця Вятська, 87-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121647,
+  "postcode": 61161,
+  "number": 87,
+  "suffix": "",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2835353032,
+  "lati": 49.9976550057,
+  "FullNameUA": "вулиця Вятська, 87",
+  "ChildsIds": []
  },
  {
   "id": 121649,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.2852428521,
   "lati": 49.9979158596,
-  "FullNameUA": "вулиця Вятська, 88"
+  "FullNameUA": "вулиця Вятська, 88",
+  "ChildsIds": []
  },
  {
   "id": 121650,
@@ -2522,7 +2622,8 @@
   "reg_date": "",
   "longt": 36.2855370315,
   "lati": 49.9980121412,
-  "FullNameUA": "вулиця Вятська, 90"
+  "FullNameUA": "вулиця Вятська, 90",
+  "ChildsIds": []
  },
  {
   "id": 121652,
@@ -2546,8 +2647,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2844578526,
-  "lati": 49.998099152500004,
-  "FullNameUA": "вулиця Вятська, 91-А"
+  "lati": 49.9980991525,
+  "FullNameUA": "вулиця Вятська, 91-А",
+  "ChildsIds": []
  },
  {
   "id": 121651,
@@ -2571,8 +2673,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2843843448,
-  "lati": 49.997935591600005,
-  "FullNameUA": "вулиця Вятська, 91"
+  "lati": 49.9979355916,
+  "FullNameUA": "вулиця Вятська, 91",
+  "ChildsIds": []
  },
  {
   "id": 121653,
@@ -2597,7 +2700,8 @@
   "reg_date": "",
   "longt": 36.2857646349,
   "lati": 49.9980863381,
-  "FullNameUA": "вулиця Вятська, 92"
+  "FullNameUA": "вулиця Вятська, 92",
+  "ChildsIds": []
  },
  {
   "id": 121654,
@@ -2622,7 +2726,8 @@
   "reg_date": "",
   "longt": 36.2848321285,
   "lati": 49.9980564828,
-  "FullNameUA": "вулиця Вятська, 93"
+  "FullNameUA": "вулиця Вятська, 93",
+  "ChildsIds": []
  },
  {
   "id": 121655,
@@ -2645,9 +2750,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284632197200004,
+  "longt": 36.2846321972,
   "lati": 49.9980266828,
-  "FullNameUA": "вулиця Вятська, 93-А"
+  "FullNameUA": "вулиця Вятська, 93-А",
+  "ChildsIds": []
  },
  {
   "id": 121656,
@@ -2672,7 +2778,8 @@
   "reg_date": "",
   "longt": 36.2860264411,
   "lati": 49.9981848487,
-  "FullNameUA": "вулиця Вятська, 94"
+  "FullNameUA": "вулиця Вятська, 94",
+  "ChildsIds": []
  },
  {
   "id": 121657,
@@ -2696,8 +2803,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2850809656,
-  "lati": 49.998139659500005,
-  "FullNameUA": "вулиця Вятська, 95"
+  "lati": 49.9981396595,
+  "FullNameUA": "вулиця Вятська, 95",
+  "ChildsIds": []
  },
  {
   "id": 121658,
@@ -2722,7 +2830,8 @@
   "reg_date": "",
   "longt": 36.2864771276,
   "lati": 49.9980110789,
-  "FullNameUA": "вулиця Вятська, 96"
+  "FullNameUA": "вулиця Вятська, 96",
+  "ChildsIds": []
  },
  {
   "id": 121659,
@@ -2745,9 +2854,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285350407100005,
+  "longt": 36.2853504071,
   "lati": 49.9982324888,
-  "FullNameUA": "вулиця Вятська, 97"
+  "FullNameUA": "вулиця Вятська, 97",
+  "ChildsIds": []
+ },
+ {
+  "id": 121660,
+  "postcode": 61161,
+  "number": 98,
+  "suffix": "",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2866420122,
+  "lati": 49.9982556528,
+  "FullNameUA": "вулиця Вятська, 98",
+  "ChildsIds": []
  },
  {
   "id": 121661,
@@ -2772,32 +2908,8 @@
   "reg_date": "",
   "longt": 36.2864712018,
   "lati": 49.9982105001,
-  "FullNameUA": "вулиця Вятська, 98-А"
- },
- {
-  "id": 121660,
-  "postcode": 61161,
-  "number": 98,
-  "suffix": "",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2866420122,
-  "lati": 49.998255652800005,
-  "FullNameUA": "вулиця Вятська, 98"
+  "FullNameUA": "вулиця Вятська, 98-А",
+  "ChildsIds": []
  },
  {
   "id": 121662,
@@ -2822,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.2855437265,
   "lati": 49.9983010061,
-  "FullNameUA": "вулиця Вятська, 99"
+  "FullNameUA": "вулиця Вятська, 99",
+  "ChildsIds": []
  },
  {
   "id": 121663,
@@ -2847,32 +2960,8 @@
   "reg_date": "",
   "longt": 36.2868850966,
   "lati": 49.9984354487,
-  "FullNameUA": "вулиця Вятська, 100"
- },
- {
-  "id": 121664,
-  "postcode": 61161,
-  "number": 101,
-  "suffix": "",
-  "block": "",
-  "streetid": 2398,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2858623802,
-  "lati": 49.9983916471,
-  "FullNameUA": "вулиця Вятська, 101"
+  "FullNameUA": "вулиця Вятська, 100",
+  "ChildsIds": []
  },
  {
   "id": 121665,
@@ -2897,12 +2986,13 @@
   "reg_date": "",
   "longt": 36.2857040902,
   "lati": 49.9983479978,
-  "FullNameUA": "вулиця Вятська, 101-А"
+  "FullNameUA": "вулиця Вятська, 101-А",
+  "ChildsIds": []
  },
  {
-  "id": 121666,
+  "id": 121664,
   "postcode": 61161,
-  "number": 103,
+  "number": 101,
   "suffix": "",
   "block": "",
   "streetid": 2398,
@@ -2920,9 +3010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2861355032,
-  "lati": 49.9985077472,
-  "FullNameUA": "вулиця Вятська, 103"
+  "longt": 36.2858623802,
+  "lati": 49.9983916471,
+  "FullNameUA": "вулиця Вятська, 101",
+  "ChildsIds": []
  },
  {
   "id": 177974,
@@ -2947,7 +3038,34 @@
   "reg_date": "",
   "longt": 36.2858685736,
   "lati": 49.9985947825,
-  "FullNameUA": "вулиця Вятська, 103-А"
+  "FullNameUA": "вулиця Вятська, 103-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121666,
+  "postcode": 61161,
+  "number": 103,
+  "suffix": "",
+  "block": "",
+  "streetid": 2398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2861355032,
+  "lati": 49.9985077472,
+  "FullNameUA": "вулиця Вятська, 103",
+  "ChildsIds": []
  },
  {
   "id": 121667,
@@ -2970,9 +3088,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286158584300004,
+  "longt": 36.2861585843,
   "lati": 49.9986390373,
-  "FullNameUA": "вулиця Вятська, 105"
+  "FullNameUA": "вулиця Вятська, 105",
+  "ChildsIds": []
  },
  {
   "id": 121668,
@@ -2997,6 +3116,7 @@
   "reg_date": "",
   "longt": 36.2864670163,
   "lati": 49.9985956633,
-  "FullNameUA": "вулиця Вятська, 107"
+  "FullNameUA": "вулиця Вятська, 107",
+  "ChildsIds": []
  }
 ]

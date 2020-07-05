@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2007299638,
   "lati": 50.0062143863,
-  "FullNameUA": "вулиця Ніжинська, 1"
+  "FullNameUA": "вулиця Ніжинська, 1",
+  "ChildsIds": []
  },
  {
   "id": 142730,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2009713861,
   "lati": 50.0063013502,
-  "FullNameUA": "вулиця Ніжинська, 3"
+  "FullNameUA": "вулиця Ніжинська, 3",
+  "ChildsIds": []
  },
  {
   "id": 142731,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201512083900006,
+  "longt": 36.2015120839,
   "lati": 50.0059614392,
-  "FullNameUA": "вулиця Ніжинська, 4"
+  "FullNameUA": "вулиця Ніжинська, 4",
+  "ChildsIds": []
  },
  {
   "id": 142732,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2010942028,
   "lati": 50.0063524944,
-  "FullNameUA": "вулиця Ніжинська, 5"
+  "FullNameUA": "вулиця Ніжинська, 5",
+  "ChildsIds": []
  },
  {
   "id": 142733,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2010332734,
   "lati": 50.0066313104,
-  "FullNameUA": "вулиця Ніжинська, 7"
+  "FullNameUA": "вулиця Ніжинська, 7",
+  "ChildsIds": []
  },
  {
   "id": 142734,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2024605944,
   "lati": 50.006559507,
-  "FullNameUA": "вулиця Ніжинська, 10"
+  "FullNameUA": "вулиця Ніжинська, 10",
+  "ChildsIds": []
  },
  {
   "id": 142735,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202099053000005,
+  "longt": 36.202099053,
   "lati": 50.006704833,
-  "FullNameUA": "вулиця Ніжинська, 11"
+  "FullNameUA": "вулиця Ніжинська, 11",
+  "ChildsIds": []
  },
  {
   "id": 142736,
@@ -197,7 +204,34 @@
   "reg_date": "",
   "longt": 36.2028666816,
   "lati": 50.0065210038,
-  "FullNameUA": "вулиця Ніжинська, 12"
+  "FullNameUA": "вулиця Ніжинська, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 142737,
+  "postcode": 61017,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 3394,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2024933201,
+  "lati": 50.0068030223,
+  "FullNameUA": "вулиця Ніжинська, 13",
+  "ChildsIds": []
  },
  {
   "id": 142738,
@@ -222,32 +256,8 @@
   "reg_date": "",
   "longt": 36.2022246925,
   "lati": 50.0067465993,
-  "FullNameUA": "вулиця Ніжинська, 13-А"
- },
- {
-  "id": 142737,
-  "postcode": 61017,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 3394,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.202493320100004,
-  "lati": 50.0068030223,
-  "FullNameUA": "вулиця Ніжинська, 13"
+  "FullNameUA": "вулиця Ніжинська, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 142739,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2030163904,
   "lati": 50.0067079766,
-  "FullNameUA": "вулиця Ніжинська, 14"
+  "FullNameUA": "вулиця Ніжинська, 14",
+  "ChildsIds": []
  },
  {
   "id": 177621,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2026969917,
   "lati": 50.0068930362,
-  "FullNameUA": "вулиця Ніжинська, 15"
+  "FullNameUA": "вулиця Ніжинська, 15",
+  "ChildsIds": []
  },
  {
   "id": 142740,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203236875600005,
+  "longt": 36.2032368756,
   "lati": 50.0068003143,
-  "FullNameUA": "вулиця Ніжинська, 16"
+  "FullNameUA": "вулиця Ніжинська, 16",
+  "ChildsIds": []
  },
  {
   "id": 142741,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202859852100005,
+  "longt": 36.2028598521,
   "lati": 50.0069016565,
-  "FullNameUA": "вулиця Ніжинська, 17"
+  "FullNameUA": "вулиця Ніжинська, 17",
+  "ChildsIds": []
  },
  {
   "id": 142742,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2034962437,
   "lati": 50.0068518681,
-  "FullNameUA": "вулиця Ніжинська, 18"
+  "FullNameUA": "вулиця Ніжинська, 18",
+  "ChildsIds": []
  },
  {
   "id": 142743,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202721302300006,
+  "longt": 36.2027213023,
   "lati": 50.0071151711,
-  "FullNameUA": "вулиця Ніжинська, 19"
+  "FullNameUA": "вулиця Ніжинська, 19",
+  "ChildsIds": []
  },
  {
   "id": 142744,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2039885394,
   "lati": 50.0068813481,
-  "FullNameUA": "вулиця Ніжинська, 20"
+  "FullNameUA": "вулиця Ніжинська, 20",
+  "ChildsIds": []
  },
  {
   "id": 142745,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.20315325,
   "lati": 50.006981048,
-  "FullNameUA": "вулиця Ніжинська, 21"
+  "FullNameUA": "вулиця Ніжинська, 21",
+  "ChildsIds": []
  },
  {
   "id": 142746,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2042739328,
   "lati": 50.0068128027,
-  "FullNameUA": "вулиця Ніжинська, 22"
+  "FullNameUA": "вулиця Ніжинська, 22",
+  "ChildsIds": []
  },
  {
   "id": 142747,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2035128321,
   "lati": 50.0070882131,
-  "FullNameUA": "вулиця Ніжинська, 23"
+  "FullNameUA": "вулиця Ніжинська, 23",
+  "ChildsIds": []
  },
  {
   "id": 142748,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204382238200004,
+  "longt": 36.2043822382,
   "lati": 50.0070996587,
-  "FullNameUA": "вулиця Ніжинська, 24"
+  "FullNameUA": "вулиця Ніжинська, 24",
+  "ChildsIds": []
  },
  {
   "id": 142750,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2039460966,
   "lati": 50.0072336731,
-  "FullNameUA": "вулиця Ніжинська, 25-А"
+  "FullNameUA": "вулиця Ніжинська, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 142749,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2037048424,
   "lati": 50.0071262117,
-  "FullNameUA": "вулиця Ніжинська, 25"
+  "FullNameUA": "вулиця Ніжинська, 25",
+  "ChildsIds": []
  },
  {
   "id": 142751,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204707106300006,
+  "longt": 36.2047071063,
   "lati": 50.0071892763,
-  "FullNameUA": "вулиця Ніжинська, 26"
+  "FullNameUA": "вулиця Ніжинська, 26",
+  "ChildsIds": []
  },
  {
   "id": 142752,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2049841611,
   "lati": 50.0071370434,
-  "FullNameUA": "вулиця Ніжинська, 28"
+  "FullNameUA": "вулиця Ніжинська, 28",
+  "ChildsIds": []
  },
  {
   "id": 142753,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204305218900004,
+  "longt": 36.2043052189,
   "lati": 50.0072945861,
-  "FullNameUA": "вулиця Ніжинська, 29"
+  "FullNameUA": "вулиця Ніжинська, 29",
+  "ChildsIds": []
  },
  {
   "id": 142754,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2051584959,
   "lati": 50.0073338289,
-  "FullNameUA": "вулиця Ніжинська, 30"
+  "FullNameUA": "вулиця Ніжинська, 30",
+  "ChildsIds": []
  },
  {
   "id": 142755,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2053492977,
   "lati": 50.0074419698,
-  "FullNameUA": "вулиця Ніжинська, 32"
+  "FullNameUA": "вулиця Ніжинська, 32",
+  "ChildsIds": []
  },
  {
   "id": 142756,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2046312435,
   "lati": 50.0073737676,
-  "FullNameUA": "вулиця Ніжинська, 33"
+  "FullNameUA": "вулиця Ніжинська, 33",
+  "ChildsIds": []
  },
  {
   "id": 142757,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2056050423,
   "lati": 50.0075806798,
-  "FullNameUA": "вулиця Ніжинська, 34"
+  "FullNameUA": "вулиця Ніжинська, 34",
+  "ChildsIds": []
  },
  {
   "id": 142758,
@@ -772,32 +802,8 @@
   "reg_date": "",
   "longt": 36.2049218582,
   "lati": 50.0074986763,
-  "FullNameUA": "вулиця Ніжинська, 35"
- },
- {
-  "id": 142760,
-  "postcode": 61017,
-  "number": 37,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3394,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2051715813,
-  "lati": 50.0076039774,
-  "FullNameUA": "вулиця Ніжинська, 37-А"
+  "FullNameUA": "вулиця Ніжинська, 35",
+  "ChildsIds": []
  },
  {
   "id": 142759,
@@ -822,7 +828,34 @@
   "reg_date": "",
   "longt": 36.2050652649,
   "lati": 50.0075252165,
-  "FullNameUA": "вулиця Ніжинська, 37"
+  "FullNameUA": "вулиця Ніжинська, 37",
+  "ChildsIds": []
+ },
+ {
+  "id": 142760,
+  "postcode": 61017,
+  "number": 37,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3394,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2051715813,
+  "lati": 50.0076039774,
+  "FullNameUA": "вулиця Ніжинська, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 142761,
@@ -847,6 +880,7 @@
   "reg_date": "",
   "longt": 36.2053848758,
   "lati": 50.0077182851,
-  "FullNameUA": "вулиця Ніжинська, 39"
+  "FullNameUA": "вулиця Ніжинська, 39",
+  "ChildsIds": []
  }
 ]

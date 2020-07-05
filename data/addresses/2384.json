@@ -1,5 +1,31 @@
 [
  {
+  "id": 183248,
+  "postcode": 61064,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2384,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310137900:07:002:0018)",
+  "confrm": "",
+  "reg_date": "03.07.2020 11:45:06",
+  "longt": 36.1990181855,
+  "lati": 49.9798008767,
+  "FullNameUA": "провулок Черновський, 2",
+  "ChildsIds": []
+ },
+ {
   "id": 148063,
   "postcode": 61064,
   "number": 3,
@@ -22,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1959323742,
   "lati": 49.979197312,
-  "FullNameUA": "провулок Черновський, 3"
+  "FullNameUA": "провулок Черновський, 3",
+  "ChildsIds": []
  },
  {
   "id": 148064,
@@ -47,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1984649772,
   "lati": 49.9798224742,
-  "FullNameUA": "провулок Черновський, 4"
+  "FullNameUA": "провулок Черновський, 4",
+  "ChildsIds": []
  },
  {
   "id": 148065,
@@ -70,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195508256699995,
+  "longt": 36.1955082567,
   "lati": 49.9791067316,
-  "FullNameUA": "провулок Черновський, 5"
+  "FullNameUA": "провулок Черновський, 5",
+  "ChildsIds": []
  },
  {
   "id": 148066,
@@ -97,7 +126,8 @@
   "reg_date": "",
   "longt": 36.1981770007,
   "lati": 49.9797966854,
-  "FullNameUA": "провулок Черновський, 6"
+  "FullNameUA": "провулок Черновський, 6",
+  "ChildsIds": []
  },
  {
   "id": 148067,
@@ -122,32 +152,8 @@
   "reg_date": "",
   "longt": 36.1951228354,
   "lati": 49.9789069829,
-  "FullNameUA": "провулок Черновський, 7"
- },
- {
-  "id": 175910,
-  "postcode": 61064,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 2384,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1944937949,
-  "lati": 49.9785257354,
-  "FullNameUA": "провулок Черновський, 9"
+  "FullNameUA": "провулок Черновський, 7",
+  "ChildsIds": []
  },
  {
   "id": 148068,
@@ -172,7 +178,34 @@
   "reg_date": "",
   "longt": 36.1945316217,
   "lati": 49.978630102,
-  "FullNameUA": "провулок Черновський, 9-А"
+  "FullNameUA": "провулок Черновський, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 175910,
+  "postcode": 61064,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2384,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:2000",
+  "reg_date": "",
+  "longt": 36.1944937949,
+  "lati": 49.9785257354,
+  "FullNameUA": "провулок Черновський, 9",
+  "ChildsIds": []
  },
  {
   "id": 148069,
@@ -195,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197640595399996,
+  "longt": 36.1976405954,
   "lati": 49.9797703431,
-  "FullNameUA": "провулок Черновський, 10/57"
+  "FullNameUA": "провулок Черновський, 10/57",
+  "ChildsIds": []
  },
  {
   "id": 148070,
@@ -222,7 +256,8 @@
   "reg_date": "",
   "longt": 36.1942251439,
   "lati": 49.9784925955,
-  "FullNameUA": "провулок Черновський, 11"
+  "FullNameUA": "провулок Черновський, 11",
+  "ChildsIds": []
  },
  {
   "id": 148071,
@@ -246,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1971527698,
-  "lati": 49.979743221599996,
-  "FullNameUA": "провулок Черновський, 12"
+  "lati": 49.9797432216,
+  "FullNameUA": "провулок Черновський, 12",
+  "ChildsIds": []
  },
  {
   "id": 148072,
@@ -272,32 +308,8 @@
   "reg_date": "",
   "longt": 36.1939627976,
   "lati": 49.9783824226,
-  "FullNameUA": "провулок Черновський, 13"
- },
- {
-  "id": 148074,
-  "postcode": 61064,
-  "number": 14,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2384,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.196405213999995,
-  "lati": 49.979736355,
-  "FullNameUA": "провулок Черновський, 14-А"
+  "FullNameUA": "провулок Черновський, 13",
+  "ChildsIds": []
  },
  {
   "id": 148073,
@@ -320,9 +332,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196827169799995,
+  "longt": 36.1968271698,
   "lati": 49.9797316068,
-  "FullNameUA": "провулок Черновський, 14"
+  "FullNameUA": "провулок Черновський, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 148074,
+  "postcode": 61064,
+  "number": 14,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2384,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.196405214,
+  "lati": 49.979736355,
+  "FullNameUA": "провулок Черновський, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 148075,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1961147722,
   "lati": 49.9797239412,
-  "FullNameUA": "провулок Черновський, 16/59"
+  "FullNameUA": "провулок Черновський, 16/59",
+  "ChildsIds": []
  },
  {
   "id": 148076,
@@ -370,9 +410,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192983041999994,
+  "longt": 36.192983042,
   "lati": 49.9779233254,
-  "FullNameUA": "провулок Черновський, 19"
+  "FullNameUA": "провулок Черновський, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 148078,
+  "postcode": 61064,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2384,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1953566408,
+  "lati": 49.9792901591,
+  "FullNameUA": "провулок Черновський, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 148077,
@@ -397,32 +464,8 @@
   "reg_date": "",
   "longt": 36.1952225445,
   "lati": 49.9792188798,
-  "FullNameUA": "провулок Черновський, 20"
- },
- {
-  "id": 148078,
-  "postcode": 61064,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2384,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1953566408,
-  "lati": 49.979290159099996,
-  "FullNameUA": "провулок Черновський, 20-А"
+  "FullNameUA": "провулок Черновський, 20",
+  "ChildsIds": []
  },
  {
   "id": 176314,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.195056865999994,
+  "longt": 36.195056866,
   "lati": 49.9791522468,
-  "FullNameUA": "провулок Черновський, 22"
+  "FullNameUA": "провулок Черновський, 22",
+  "ChildsIds": []
  },
  {
   "id": 148079,
@@ -472,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1942110981,
   "lati": 49.9788241855,
-  "FullNameUA": "провулок Черновський, 26"
+  "FullNameUA": "провулок Черновський, 26",
+  "ChildsIds": []
  },
  {
   "id": 148080,
@@ -495,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193997223299995,
+  "longt": 36.1939972233,
   "lati": 49.9788924037,
-  "FullNameUA": "провулок Черновський, 28"
+  "FullNameUA": "провулок Черновський, 28",
+  "ChildsIds": []
  },
  {
   "id": 148081,
@@ -520,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193724629799995,
+  "longt": 36.1937246298,
   "lati": 49.9786028423,
-  "FullNameUA": "провулок Черновський, 30"
+  "FullNameUA": "провулок Черновський, 30",
+  "ChildsIds": []
  },
  {
   "id": 148082,
@@ -546,7 +593,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1934449785,
-  "lati": 49.978459281999996,
-  "FullNameUA": "провулок Черновський, 32"
+  "lati": 49.978459282,
+  "FullNameUA": "провулок Черновський, 32",
+  "ChildsIds": []
  }
 ]

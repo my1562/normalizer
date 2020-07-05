@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3613030515,
   "lati": 49.9557730001,
-  "FullNameUA": "вулиця Миру, 1-А"
+  "FullNameUA": "вулиця Миру, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 103512,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3622308657,
   "lati": 49.95508957,
-  "FullNameUA": "вулиця Миру, 1"
+  "FullNameUA": "вулиця Миру, 1",
+  "ChildsIds": []
  },
  {
   "id": 111206,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3655109628,
-  "lati": 49.953003921000004,
-  "FullNameUA": "вулиця Миру, 2"
+  "lati": 49.953003921,
+  "FullNameUA": "вулиця Миру, 2",
+  "ChildsIds": []
  },
  {
   "id": 111207,
@@ -96,8 +99,9 @@
   "confrm": "Рішення ВК ХМР № 135, 28.02.2018",
   "reg_date": "16.03.2018 11:55:32",
   "longt": 36.3656799271,
-  "lati": 49.953891323200004,
-  "FullNameUA": "вулиця Миру, 3"
+  "lati": 49.9538913232,
+  "FullNameUA": "вулиця Миру, 3",
+  "ChildsIds": []
  },
  {
   "id": 111208,
@@ -122,32 +126,8 @@
   "reg_date": "",
   "longt": 36.3661296955,
   "lati": 49.95254942,
-  "FullNameUA": "вулиця Миру, 4"
- },
- {
-  "id": 111209,
-  "postcode": 61007,
-  "number": 5,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.381235923000006,
-  "lati": 49.9488221493,
-  "FullNameUA": "вулиця Миру, 5"
+  "FullNameUA": "вулиця Миру, 4",
+  "ChildsIds": []
  },
  {
   "id": 180453,
@@ -171,8 +151,35 @@
   "confrm": "",
   "reg_date": "21.03.2019 14:26:48",
   "longt": 36.3667353906,
-  "lati": 49.954028339800004,
-  "FullNameUA": "вулиця Миру, 5-Б"
+  "lati": 49.9540283398,
+  "FullNameUA": "вулиця Миру, 5-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 111209,
+  "postcode": 61007,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.381235923,
+  "lati": 49.9488221493,
+  "FullNameUA": "вулиця Миру, 5",
+  "ChildsIds": []
  },
  {
   "id": 111210,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3666671194,
   "lati": 49.9523635712,
-  "FullNameUA": "вулиця Миру, 6"
+  "FullNameUA": "вулиця Миру, 6",
+  "ChildsIds": []
  },
  {
   "id": 180454,
@@ -222,7 +230,8 @@
   "reg_date": "21.03.2019 14:29:00",
   "longt": 36.3675811277,
   "lati": 49.9537354591,
-  "FullNameUA": "вулиця Миру, 7"
+  "FullNameUA": "вулиця Миру, 7",
+  "ChildsIds": []
  },
  {
   "id": 111211,
@@ -247,32 +256,8 @@
   "reg_date": "",
   "longt": 36.3672663845,
   "lati": 49.9522447573,
-  "FullNameUA": "вулиця Миру, 8"
- },
- {
-  "id": 111212,
-  "postcode": 61106,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "27.02.2019 10:11:30",
-  "longt": 36.3970603125,
-  "lati": 49.9438287797,
-  "FullNameUA": "вулиця Миру, 9"
+  "FullNameUA": "вулиця Миру, 8",
+  "ChildsIds": []
  },
  {
   "id": 111213,
@@ -297,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3948693396,
   "lati": 49.9442134564,
-  "FullNameUA": "вулиця Миру, 9-А"
+  "FullNameUA": "вулиця Миру, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 178919,
@@ -321,8 +307,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3979548379,
-  "lati": 49.944144022699994,
-  "FullNameUA": "вулиця Миру, 9-Г"
+  "lati": 49.9441440227,
+  "FullNameUA": "вулиця Миру, 9-Г",
+  "ChildsIds": []
  },
  {
   "id": 178920,
@@ -347,7 +334,34 @@
   "reg_date": "27.02.2019 10:10:01",
   "longt": 36.3960907554,
   "lati": 49.9447122211,
-  "FullNameUA": "вулиця Миру, 9-Б"
+  "FullNameUA": "вулиця Миру, 9-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 111212,
+  "postcode": 61106,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "27.02.2019 10:11:30",
+  "longt": 36.3970603125,
+  "lati": 49.9438287797,
+  "FullNameUA": "вулиця Миру, 9",
+  "ChildsIds": []
  },
  {
   "id": 180455,
@@ -372,7 +386,8 @@
   "reg_date": "21.03.2019 14:30:46",
   "longt": 36.3682506367,
   "lati": 49.9535406597,
-  "FullNameUA": "вулиця Миру, 9-В"
+  "FullNameUA": "вулиця Миру, 9-В",
+  "ChildsIds": []
  },
  {
   "id": 111214,
@@ -396,8 +411,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3689309699,
-  "lati": 49.951912133200004,
-  "FullNameUA": "вулиця Миру, 10"
+  "lati": 49.9519121332,
+  "FullNameUA": "вулиця Миру, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 111215,
+  "postcode": 61106,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3985582243,
+  "lati": 49.943255043,
+  "FullNameUA": "вулиця Миру, 11",
+  "ChildsIds": []
  },
  {
   "id": 180456,
@@ -422,32 +464,8 @@
   "reg_date": "21.03.2019 14:32:48",
   "longt": 36.3691233048,
   "lati": 49.9532664935,
-  "FullNameUA": "вулиця Миру, 11-А"
- },
- {
-  "id": 111215,
-  "postcode": 61106,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.398558224300004,
-  "lati": 49.943255043,
-  "FullNameUA": "вулиця Миру, 11"
+  "FullNameUA": "вулиця Миру, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 111216,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3694932052,
   "lati": 49.9516393704,
-  "FullNameUA": "вулиця Миру, 12"
+  "FullNameUA": "вулиця Миру, 12",
+  "ChildsIds": []
  },
  {
   "id": 111217,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.419919788200005,
-  "lati": 49.936094591199996,
-  "FullNameUA": "вулиця Миру, 13"
+  "longt": 36.4199197882,
+  "lati": 49.9360945912,
+  "FullNameUA": "вулиця Миру, 13",
+  "ChildsIds": []
  },
  {
   "id": 111218,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3697129927,
-  "lati": 49.950814870900004,
-  "FullNameUA": "вулиця Миру, 14"
+  "lati": 49.9508148709,
+  "FullNameUA": "вулиця Миру, 14",
+  "ChildsIds": []
  },
  {
   "id": 111219,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.4219884422,
   "lati": 49.9351546749,
-  "FullNameUA": "вулиця Миру, 15"
+  "FullNameUA": "вулиця Миру, 15",
+  "ChildsIds": []
  },
  {
   "id": 111220,
@@ -571,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3708809138,
-  "lati": 49.951183426300005,
-  "FullNameUA": "вулиця Миру, 16"
+  "lati": 49.9511834263,
+  "FullNameUA": "вулиця Миру, 16",
+  "ChildsIds": []
  },
  {
   "id": 111221,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3715412662,
-  "lati": 49.951061302300005,
-  "FullNameUA": "вулиця Миру, 18"
+  "lati": 49.9510613023,
+  "FullNameUA": "вулиця Миру, 18",
+  "ChildsIds": []
  },
  {
   "id": 111222,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.373288291099996,
-  "lati": 49.950313639200004,
-  "FullNameUA": "вулиця Миру, 20"
+  "longt": 36.3732882911,
+  "lati": 49.9503136392,
+  "FullNameUA": "вулиця Миру, 20",
+  "ChildsIds": []
  },
  {
   "id": 111223,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.375729512899994,
-  "lati": 49.949672458799995,
-  "FullNameUA": "вулиця Миру, 22"
+  "longt": 36.3757295129,
+  "lati": 49.9496724588,
+  "FullNameUA": "вулиця Миру, 22",
+  "ChildsIds": []
  },
  {
   "id": 111224,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3762842398,
   "lati": 49.9493999841,
-  "FullNameUA": "вулиця Миру, 24"
+  "FullNameUA": "вулиця Миру, 24",
+  "ChildsIds": []
  },
  {
   "id": 178969,
@@ -696,33 +723,9 @@
   "confrm": "Рішення ВК ХМР № 136, 28.02.2018",
   "reg_date": "16.03.2018 14:19:32",
   "longt": 36.3781752002,
-  "lati": 49.950007538200005,
-  "FullNameUA": "вулиця Миру, 25"
- },
- {
-  "id": 111225,
-  "postcode": 61007,
-  "number": 26,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.376500870099996,
-  "lati": 49.948571706799996,
-  "FullNameUA": "вулиця Миру, 26"
+  "lati": 49.9500075382,
+  "FullNameUA": "вулиця Миру, 25",
+  "ChildsIds": []
  },
  {
   "id": 111226,
@@ -746,8 +749,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.377010012,
-  "lati": 49.948136086999995,
-  "FullNameUA": "вулиця Миру, 26-А"
+  "lati": 49.948136087,
+  "FullNameUA": "вулиця Миру, 26-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 111225,
+  "postcode": 61007,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3765008701,
+  "lati": 49.9485717068,
+  "FullNameUA": "вулиця Миру, 26",
+  "ChildsIds": []
  },
  {
   "id": 180542,
@@ -770,9 +800,10 @@
   "same_adr_comm": "житловий будинок № 11 (квартири з № 143 по № 205 та допоміжні приміщення) літ. \"А-9\"; житловий будинок № 20 літ. \"А-9\"",
   "confrm": "",
   "reg_date": "10.04.2019 12:03:34",
-  "longt": 36.378964770299994,
+  "longt": 36.3789647703,
   "lati": 49.9496225022,
-  "FullNameUA": "вулиця Миру, 27"
+  "FullNameUA": "вулиця Миру, 27",
+  "ChildsIds": []
  },
  {
   "id": 111227,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3776672195,
   "lati": 49.9489444628,
-  "FullNameUA": "вулиця Миру, 28"
+  "FullNameUA": "вулиця Миру, 28",
+  "ChildsIds": []
  },
  {
   "id": 181881,
@@ -822,7 +854,8 @@
   "reg_date": "27.12.2019 14:50:17",
   "longt": 36.3799822867,
   "lati": 49.9496292069,
-  "FullNameUA": "вулиця Миру, 29"
+  "FullNameUA": "вулиця Миру, 29",
+  "ChildsIds": []
  },
  {
   "id": 111228,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3783381591,
-  "lati": 49.948812745999994,
-  "FullNameUA": "вулиця Миру, 30"
+  "lati": 49.948812746,
+  "FullNameUA": "вулиця Миру, 30",
+  "ChildsIds": []
  },
  {
   "id": 181882,
@@ -872,7 +906,8 @@
   "reg_date": "27.12.2019 14:54:04",
   "longt": 36.3808500844,
   "lati": 49.9493504271,
-  "FullNameUA": "вулиця Миру, 31"
+  "FullNameUA": "вулиця Миру, 31",
+  "ChildsIds": []
  },
  {
   "id": 111229,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.3797523239,
   "lati": 49.9481559077,
-  "FullNameUA": "вулиця Миру, 32"
+  "FullNameUA": "вулиця Миру, 32",
+  "ChildsIds": []
  },
  {
   "id": 111230,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3802408505,
-  "lati": 49.947894226799995,
-  "FullNameUA": "вулиця Миру, 34"
+  "lati": 49.9478942268,
+  "FullNameUA": "вулиця Миру, 34",
+  "ChildsIds": []
  },
  {
   "id": 111231,
@@ -947,7 +984,34 @@
   "reg_date": "",
   "longt": 36.3807863763,
   "lati": 49.9477151527,
-  "FullNameUA": "вулиця Миру, 36"
+  "FullNameUA": "вулиця Миру, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 111234,
+  "postcode": 61007,
+  "number": 38,
+  "suffix": "/4",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3817224759,
+  "lati": 49.9476800538,
+  "FullNameUA": "вулиця Миру, 38/4",
+  "ChildsIds": []
  },
  {
   "id": 111233,
@@ -971,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.38169053,
-  "lati": 49.948090652699996,
-  "FullNameUA": "вулиця Миру, 38-А"
+  "lati": 49.9480906527,
+  "FullNameUA": "вулиця Миру, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 111232,
@@ -997,32 +1062,8 @@
   "reg_date": "",
   "longt": 36.3819522073,
   "lati": 49.948370381,
-  "FullNameUA": "вулиця Миру, 38"
- },
- {
-  "id": 111234,
-  "postcode": 61007,
-  "number": 38,
-  "suffix": "/4",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.381722475900006,
-  "lati": 49.9476800538,
-  "FullNameUA": "вулиця Миру, 38/4"
+  "FullNameUA": "вулиця Миру, 38",
+  "ChildsIds": []
  },
  {
   "id": 111235,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.383780287300006,
+  "longt": 36.3837802873,
   "lati": 49.94736937,
-  "FullNameUA": "вулиця Миру, 40/5"
+  "FullNameUA": "вулиця Миру, 40/5",
+  "ChildsIds": []
  },
  {
   "id": 111236,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3841010506,
   "lati": 49.9469127835,
-  "FullNameUA": "вулиця Миру, 42"
+  "FullNameUA": "вулиця Миру, 42",
+  "ChildsIds": []
  },
  {
   "id": 111238,
@@ -1097,7 +1140,8 @@
   "reg_date": "08.01.2020 15:36:55",
   "longt": 36.3842081453,
   "lati": 49.9462882527,
-  "FullNameUA": "вулиця Миру, 44-А"
+  "FullNameUA": "вулиця Миру, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 111237,
@@ -1122,82 +1166,8 @@
   "reg_date": "",
   "longt": 36.3846120356,
   "lati": 49.9467362544,
-  "FullNameUA": "вулиця Миру, 44"
- },
- {
-  "id": 111239,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.385674028900006,
-  "lati": 49.946728081399996,
-  "FullNameUA": "вулиця Миру, 46"
- },
- {
-  "id": 111240,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3854897208,
-  "lati": 49.946266746599996,
-  "FullNameUA": "вулиця Миру, 46-А"
- },
- {
-  "id": 111241,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.384997811400005,
-  "lati": 49.9464306091,
-  "FullNameUA": "вулиця Миру, 46-Б"
+  "FullNameUA": "вулиця Миру, 44",
+  "ChildsIds": []
  },
  {
   "id": 111242,
@@ -1221,8 +1191,87 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3841650003,
-  "lati": 49.945626024999996,
-  "FullNameUA": "вулиця Миру, 46-Г"
+  "lati": 49.945626025,
+  "FullNameUA": "вулиця Миру, 46-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 111241,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3849978114,
+  "lati": 49.9464306091,
+  "FullNameUA": "вулиця Миру, 46-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 111240,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3854897208,
+  "lati": 49.9462667466,
+  "FullNameUA": "вулиця Миру, 46-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 111239,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3856740289,
+  "lati": 49.9467280814,
+  "FullNameUA": "вулиця Миру, 46",
+  "ChildsIds": []
  },
  {
   "id": 111243,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.387133706300006,
+  "longt": 36.3871337063,
   "lati": 49.946283459,
-  "FullNameUA": "вулиця Миру, 48/1"
+  "FullNameUA": "вулиця Миру, 48/1",
+  "ChildsIds": []
  },
  {
   "id": 111244,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.3881915216,
   "lati": 49.9457019531,
-  "FullNameUA": "вулиця Миру, 50"
+  "FullNameUA": "вулиця Миру, 50",
+  "ChildsIds": []
  },
  {
   "id": 111245,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.389263717300004,
+  "longt": 36.3892637173,
   "lati": 49.9455508792,
-  "FullNameUA": "вулиця Миру, 52/2"
+  "FullNameUA": "вулиця Миру, 52/2",
+  "ChildsIds": []
  },
  {
   "id": 111246,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3905914346,
   "lati": 49.945121999,
-  "FullNameUA": "вулиця Миру, 54/1"
+  "FullNameUA": "вулиця Миру, 54/1",
+  "ChildsIds": []
  },
  {
   "id": 179083,
@@ -1346,8 +1399,35 @@
   "confrm": "Рішення ВК ХМР 200, 28.03.2018",
   "reg_date": "10.04.2018 10:51:22",
   "longt": 36.3910524009,
-  "lati": 49.945960816399996,
-  "FullNameUA": "вулиця Миру, 55"
+  "lati": 49.9459608164,
+  "FullNameUA": "вулиця Миру, 55",
+  "ChildsIds": []
+ },
+ {
+  "id": 111247,
+  "postcode": 61089,
+  "number": 56,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.391198585,
+  "lati": 49.9447179491,
+  "FullNameUA": "вулиця Миру, 56",
+  "ChildsIds": []
  },
  {
   "id": 111248,
@@ -1372,32 +1452,8 @@
   "reg_date": "",
   "longt": 36.3909865284,
   "lati": 49.9441557993,
-  "FullNameUA": "вулиця Миру, 56-А"
- },
- {
-  "id": 111247,
-  "postcode": 61089,
-  "number": 56,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.391198585,
-  "lati": 49.944717949099996,
-  "FullNameUA": "вулиця Миру, 56"
+  "FullNameUA": "вулиця Миру, 56-А",
+  "ChildsIds": []
  },
  {
   "id": 178971,
@@ -1421,8 +1477,9 @@
   "confrm": "Рішення ВК ХМР № 137, 28.02.2018",
   "reg_date": "16.03.2018 15:36:27",
   "longt": 36.3919419064,
-  "lati": 49.945646201799995,
-  "FullNameUA": "вулиця Миру, 57"
+  "lati": 49.9456462018,
+  "FullNameUA": "вулиця Миру, 57",
+  "ChildsIds": []
  },
  {
   "id": 179994,
@@ -1447,7 +1504,8 @@
   "reg_date": "07.12.2018 11:24:35",
   "longt": 36.3926765112,
   "lati": 49.9454047774,
-  "FullNameUA": "вулиця Миру, 59"
+  "FullNameUA": "вулиця Миру, 59",
+  "ChildsIds": []
  },
  {
   "id": 111249,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.3917320077,
   "lati": 49.9445397195,
-  "FullNameUA": "вулиця Миру, 60"
+  "FullNameUA": "вулиця Миру, 60",
+  "ChildsIds": []
  },
  {
   "id": 180449,
@@ -1497,7 +1556,8 @@
   "reg_date": "21.03.2019 12:26:19",
   "longt": 36.3934897325,
   "lati": 49.9450865937,
-  "FullNameUA": "вулиця Миру, 61"
+  "FullNameUA": "вулиця Миру, 61",
+  "ChildsIds": []
  },
  {
   "id": 111250,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.3922643046,
   "lati": 49.9443614196,
-  "FullNameUA": "вулиця Миру, 62"
+  "FullNameUA": "вулиця Миру, 62",
+  "ChildsIds": []
  },
  {
   "id": 179085,
@@ -1546,8 +1607,9 @@
   "confrm": "Рішення ВК ХМР 200, 28.03.2018",
   "reg_date": "10.04.2018 11:34:34",
   "longt": 36.3941868606,
-  "lati": 49.945415978099994,
-  "FullNameUA": "вулиця Миру, 63-Ж"
+  "lati": 49.9454159781,
+  "FullNameUA": "вулиця Миру, 63-Ж",
+  "ChildsIds": []
  },
  {
   "id": 111251,
@@ -1572,7 +1634,34 @@
   "reg_date": "",
   "longt": 36.3928625248,
   "lati": 49.9442219049,
-  "FullNameUA": "вулиця Миру, 64"
+  "FullNameUA": "вулиця Миру, 64",
+  "ChildsIds": []
+ },
+ {
+  "id": 111252,
+  "postcode": 61089,
+  "number": 66,
+  "suffix": "",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3934080835,
+  "lati": 49.9440435547,
+  "FullNameUA": "вулиця Миру, 66",
+  "ChildsIds": []
  },
  {
   "id": 111253,
@@ -1597,32 +1686,8 @@
   "reg_date": "",
   "longt": 36.3996492001,
   "lati": 49.9421666146,
-  "FullNameUA": "вулиця Миру, 66-А"
- },
- {
-  "id": 111252,
-  "postcode": 61089,
-  "number": 66,
-  "suffix": "",
-  "block": "",
-  "streetid": 3265,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3934080835,
-  "lati": 49.944043554699995,
-  "FullNameUA": "вулиця Миру, 66"
+  "FullNameUA": "вулиця Миру, 66-А",
+  "ChildsIds": []
  },
  {
   "id": 111254,
@@ -1646,8 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3940860466,
-  "lati": 49.943816868199995,
-  "FullNameUA": "вулиця Миру, 68"
+  "lati": 49.9438168682,
+  "FullNameUA": "вулиця Миру, 68",
+  "ChildsIds": []
  },
  {
   "id": 111255,
@@ -1670,9 +1736,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.400656622599996,
+  "longt": 36.4006566226,
   "lati": 49.9414318798,
-  "FullNameUA": "вулиця Миру, 72"
+  "FullNameUA": "вулиця Миру, 72",
+  "ChildsIds": []
  },
  {
   "id": 111256,
@@ -1697,7 +1764,34 @@
   "reg_date": "",
   "longt": 36.4014599372,
   "lati": 49.9415541195,
-  "FullNameUA": "вулиця Миру, 74"
+  "FullNameUA": "вулиця Миру, 74",
+  "ChildsIds": []
+ },
+ {
+  "id": 181960,
+  "postcode": 61106,
+  "number": 74,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3265,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4010514188,
+  "lati": 49.9409923975,
+  "FullNameUA": "вулиця Миру, 74-А",
+  "ChildsIds": []
  },
  {
   "id": 111257,
@@ -1722,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.4017522605,
   "lati": 49.9409739966,
-  "FullNameUA": "вулиця Миру, 76"
+  "FullNameUA": "вулиця Миру, 76",
+  "ChildsIds": []
  },
  {
   "id": 111258,
@@ -1745,9 +1840,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.402355328999995,
-  "lati": 49.940759736299995,
-  "FullNameUA": "вулиця Миру, 78"
+  "longt": 36.402355329,
+  "lati": 49.9407597363,
+  "FullNameUA": "вулиця Миру, 78",
+  "ChildsIds": []
  },
  {
   "id": 111259,
@@ -1772,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.40295941,
   "lati": 49.9405706747,
-  "FullNameUA": "вулиця Миру, 80"
+  "FullNameUA": "вулиця Миру, 80",
+  "ChildsIds": []
  },
  {
   "id": 111260,
@@ -1796,8 +1893,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.4039056681,
-  "lati": 49.940769971799995,
-  "FullNameUA": "вулиця Миру, 82"
+  "lati": 49.9407699718,
+  "FullNameUA": "вулиця Миру, 82",
+  "ChildsIds": []
  },
  {
   "id": 111261,
@@ -1821,8 +1919,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.4042800637,
-  "lati": 49.940138495199996,
-  "FullNameUA": "вулиця Миру, 84"
+  "lati": 49.9401384952,
+  "FullNameUA": "вулиця Миру, 84",
+  "ChildsIds": []
  },
  {
   "id": 111262,
@@ -1847,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.404892226,
   "lati": 49.9399331592,
-  "FullNameUA": "вулиця Миру, 86"
+  "FullNameUA": "вулиця Миру, 86",
+  "ChildsIds": []
  },
  {
   "id": 111263,
@@ -1872,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.4055056808,
   "lati": 49.9397306705,
-  "FullNameUA": "вулиця Миру, 88"
+  "FullNameUA": "вулиця Миру, 88",
+  "ChildsIds": []
  },
  {
   "id": 111264,
@@ -1897,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.4064332238,
   "lati": 49.9399378227,
-  "FullNameUA": "вулиця Миру, 90"
+  "FullNameUA": "вулиця Миру, 90",
+  "ChildsIds": []
  },
  {
   "id": 111265,
@@ -1920,9 +2022,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.406810442499996,
+  "longt": 36.4068104425,
   "lati": 49.939309549,
-  "FullNameUA": "вулиця Миру, 90-А"
+  "FullNameUA": "вулиця Миру, 90-А",
+  "ChildsIds": []
  },
  {
   "id": 111267,
@@ -1945,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.413006491800004,
+  "longt": 36.4130064918,
   "lati": 49.9369653226,
-  "FullNameUA": "вулиця Миру, 92/1"
+  "FullNameUA": "вулиця Миру, 92/1",
+  "ChildsIds": []
  },
  {
   "id": 111266,
@@ -1972,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.4081880561,
   "lati": 49.938872576,
-  "FullNameUA": "вулиця Миру, 92"
+  "FullNameUA": "вулиця Миру, 92",
+  "ChildsIds": []
  },
  {
   "id": 111268,
@@ -1997,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.4134054335,
   "lati": 49.9374677145,
-  "FullNameUA": "вулиця Миру, 94"
+  "FullNameUA": "вулиця Миру, 94",
+  "ChildsIds": []
  },
  {
   "id": 111269,
@@ -2020,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.414279495200006,
+  "longt": 36.4142794952,
   "lati": 49.9371720858,
-  "FullNameUA": "вулиця Миру, 96"
+  "FullNameUA": "вулиця Миру, 96",
+  "ChildsIds": []
  },
  {
   "id": 111270,
@@ -2045,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.415160740500006,
+  "longt": 36.4151607405,
   "lati": 49.9368665447,
-  "FullNameUA": "вулиця Миру, 98"
+  "FullNameUA": "вулиця Миру, 98",
+  "ChildsIds": []
  },
  {
   "id": 111271,
@@ -2072,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.4150719247,
   "lati": 49.9360956584,
-  "FullNameUA": "вулиця Миру, 100"
+  "FullNameUA": "вулиця Миру, 100",
+  "ChildsIds": []
  },
  {
   "id": 111272,
@@ -2095,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.414089820300006,
+  "longt": 36.4140898203,
   "lati": 49.9362856781,
-  "FullNameUA": "вулиця Миру, 102"
+  "FullNameUA": "вулиця Миру, 102",
+  "ChildsIds": []
  },
  {
   "id": 111273,
@@ -2120,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.417841549600006,
+  "longt": 36.4178415496,
   "lati": 49.9355510269,
-  "FullNameUA": "вулиця Миру, 102-А"
+  "FullNameUA": "вулиця Миру, 102-А",
+  "ChildsIds": []
  },
  {
   "id": 111274,
@@ -2145,9 +2256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.41795296550001,
+  "longt": 36.4179529655,
   "lati": 49.9348020379,
-  "FullNameUA": "вулиця Миру, 104"
+  "FullNameUA": "вулиця Миру, 104",
+  "ChildsIds": []
  },
  {
   "id": 111275,
@@ -2172,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.4188215395,
   "lati": 49.935574306,
-  "FullNameUA": "вулиця Миру, 106"
+  "FullNameUA": "вулиця Миру, 106",
+  "ChildsIds": []
  },
  {
   "id": 111276,
@@ -2197,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.41912866,
   "lati": 49.9350484905,
-  "FullNameUA": "вулиця Миру, 108"
+  "FullNameUA": "вулиця Миру, 108",
+  "ChildsIds": []
  },
  {
   "id": 111277,
@@ -2220,9 +2334,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.41945009010001,
-  "lati": 49.934519213099996,
-  "FullNameUA": "вулиця Миру, 110"
+  "longt": 36.4194500901,
+  "lati": 49.9345192131,
+  "FullNameUA": "вулиця Миру, 110",
+  "ChildsIds": []
  },
  {
   "id": 111278,
@@ -2247,7 +2362,8 @@
   "reg_date": "",
   "longt": 36.4195904639,
   "lati": 49.9340451862,
-  "FullNameUA": "вулиця Миру, 112"
+  "FullNameUA": "вулиця Миру, 112",
+  "ChildsIds": []
  },
  {
   "id": 111279,
@@ -2270,9 +2386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.418829327900006,
+  "longt": 36.4188293279,
   "lati": 49.9337900174,
-  "FullNameUA": "вулиця Миру, 114"
+  "FullNameUA": "вулиця Миру, 114",
+  "ChildsIds": []
  },
  {
   "id": 111280,
@@ -2297,7 +2414,8 @@
   "reg_date": "",
   "longt": 36.4202229686,
   "lati": 49.9335176975,
-  "FullNameUA": "вулиця Миру, 116"
+  "FullNameUA": "вулиця Миру, 116",
+  "ChildsIds": []
  },
  {
   "id": 111281,
@@ -2322,6 +2440,7 @@
   "reg_date": "",
   "longt": 36.4202373394,
   "lati": 49.9330225733,
-  "FullNameUA": "вулиця Миру, 118"
+  "FullNameUA": "вулиця Миру, 118",
+  "ChildsIds": []
  }
 ]

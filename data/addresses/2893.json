@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227305294699995,
+  "longt": 36.2273052947,
   "lati": 49.9911195465,
-  "FullNameUA": "вулиця Клочківська, 3"
+  "FullNameUA": "вулиця Клочківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 116706,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2273222379,
   "lati": 49.9913304951,
-  "FullNameUA": "вулиця Клочківська, 5"
+  "FullNameUA": "вулиця Клочківська, 5",
+  "ChildsIds": []
  },
  {
   "id": 116707,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.226897742,
   "lati": 49.9912908881,
-  "FullNameUA": "вулиця Клочківська, 5-А"
+  "FullNameUA": "вулиця Клочківська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 116708,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2277903989,
   "lati": 49.9920217772,
-  "FullNameUA": "вулиця Клочківська, 6"
+  "FullNameUA": "вулиця Клочківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 116709,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227340979299996,
+  "longt": 36.2273409793,
   "lati": 49.9914720488,
-  "FullNameUA": "вулиця Клочківська, 7"
+  "FullNameUA": "вулиця Клочківська, 7",
+  "ChildsIds": []
  },
  {
   "id": 116710,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2277858021,
-  "lati": 49.992260984400005,
-  "FullNameUA": "вулиця Клочківська, 8"
+  "lati": 49.9922609844,
+  "FullNameUA": "вулиця Клочківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 116711,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.22667461,
-  "lati": 49.991702838500004,
-  "FullNameUA": "вулиця Клочківська, 9"
+  "lati": 49.9917028385,
+  "FullNameUA": "вулиця Клочківська, 9",
+  "ChildsIds": []
  },
  {
   "id": 116712,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2269005247,
-  "lati": 49.992367654700004,
-  "FullNameUA": "вулиця Клочківська, 9-А"
+  "lati": 49.9923676547,
+  "FullNameUA": "вулиця Клочківська, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 116713,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.228120539799995,
-  "lati": 49.993229865500005,
-  "FullNameUA": "вулиця Клочківська, 14/7"
+  "longt": 36.2281205398,
+  "lati": 49.9932298655,
+  "FullNameUA": "вулиця Клочківська, 14/7",
+  "ChildsIds": []
  },
  {
   "id": 116714,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2276814067,
   "lati": 49.9938208761,
-  "FullNameUA": "вулиця Клочківська, 16"
+  "FullNameUA": "вулиця Клочківська, 16",
+  "ChildsIds": []
  },
  {
   "id": 116715,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2277459914,
   "lati": 49.9940568181,
-  "FullNameUA": "вулиця Клочківська, 18"
+  "FullNameUA": "вулиця Клочківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 116716,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2277241399,
   "lati": 49.9943310261,
-  "FullNameUA": "вулиця Клочківська, 20/9"
+  "FullNameUA": "вулиця Клочківська, 20/9",
+  "ChildsIds": []
  },
  {
   "id": 116717,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.227205207,
   "lati": 49.9937841232,
-  "FullNameUA": "вулиця Клочківська, 23"
+  "FullNameUA": "вулиця Клочківська, 23",
+  "ChildsIds": []
  },
  {
   "id": 116719,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2286807902,
   "lati": 49.995101605,
-  "FullNameUA": "вулиця Клочківська, 24"
+  "FullNameUA": "вулиця Клочківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 116720,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2269541741,
-  "lati": 49.994149744000005,
-  "FullNameUA": "вулиця Клочківська, 25"
+  "lati": 49.994149744,
+  "FullNameUA": "вулиця Клочківська, 25",
+  "ChildsIds": []
  },
  {
   "id": 175640,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2280931821,
   "lati": 49.9959026179,
-  "FullNameUA": "вулиця Клочківська, 28"
+  "FullNameUA": "вулиця Клочківська, 28",
+  "ChildsIds": []
  },
  {
   "id": 116721,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2270629377,
   "lati": 49.9945229862,
-  "FullNameUA": "вулиця Клочківська, 29"
+  "FullNameUA": "вулиця Клочківська, 29",
+  "ChildsIds": []
  },
  {
   "id": 116722,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.228167819199996,
-  "lati": 49.996319257100005,
-  "FullNameUA": "вулиця Клочківська, 30"
+  "longt": 36.2281678192,
+  "lati": 49.9963192571,
+  "FullNameUA": "вулиця Клочківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 116723,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2241339684,
   "lati": 49.9964053308,
-  "FullNameUA": "вулиця Клочківська, 43/47"
+  "FullNameUA": "вулиця Клочківська, 43/47",
+  "ChildsIds": []
  },
  {
   "id": 116724,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.227812618,
   "lati": 49.9973734704,
-  "FullNameUA": "вулиця Клочківська, 44"
+  "FullNameUA": "вулиця Клочківська, 44",
+  "ChildsIds": []
  },
  {
   "id": 116725,
@@ -522,7 +542,8 @@
   "reg_date": "04.03.2015 00:00:00",
   "longt": 36.2275064305,
   "lati": 49.9978766659,
-  "FullNameUA": "вулиця Клочківська, 46"
+  "FullNameUA": "вулиця Клочківська, 46",
+  "ChildsIds": []
  },
  {
   "id": 116726,
@@ -547,7 +568,34 @@
   "reg_date": "",
   "longt": 36.226873085,
   "lati": 49.9981657278,
-  "FullNameUA": "вулиця Клочківська, 50"
+  "FullNameUA": "вулиця Клочківська, 50",
+  "ChildsIds": []
+ },
+ {
+  "id": 179121,
+  "postcode": 61058,
+  "number": 52,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2262471976,
+  "lati": 49.9982190892,
+  "FullNameUA": "вулиця Клочківська, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 116727,
@@ -572,32 +620,8 @@
   "reg_date": "",
   "longt": 36.2248796225,
   "lati": 49.9994346893,
-  "FullNameUA": "вулиця Клочківська, 52"
- },
- {
-  "id": 179121,
-  "postcode": 61058,
-  "number": 52,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.226247197599996,
-  "lati": 49.9982190892,
-  "FullNameUA": "вулиця Клочківська, 52-А"
+  "FullNameUA": "вулиця Клочківська, 52",
+  "ChildsIds": []
  },
  {
   "id": 116728,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2243105178,
   "lati": 49.9988986094,
-  "FullNameUA": "вулиця Клочківська, 55"
+  "FullNameUA": "вулиця Клочківська, 55",
+  "ChildsIds": []
  },
  {
   "id": 116729,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2233453989,
   "lati": 49.9991157277,
-  "FullNameUA": "вулиця Клочківська, 59"
+  "FullNameUA": "вулиця Клочківська, 59",
+  "ChildsIds": []
  },
  {
   "id": 116730,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2224050684,
-  "lati": 49.999418453400004,
-  "FullNameUA": "вулиця Клочківська, 61/63"
+  "lati": 49.9994184534,
+  "FullNameUA": "вулиця Клочківська, 61/63",
+  "ChildsIds": []
  },
  {
   "id": 116731,
@@ -696,8 +723,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2214946747,
-  "lati": 49.999339863100005,
-  "FullNameUA": "вулиця Клочківська, 65"
+  "lati": 49.9993398631,
+  "FullNameUA": "вулиця Клочківська, 65",
+  "ChildsIds": []
+ },
+ {
+  "id": 183160,
+  "postcode": 61058,
+  "number": 67,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2203750458,
+  "lati": 50.0000219547,
+  "FullNameUA": "вулиця Клочківська, 67",
+  "ChildsIds": []
  },
  {
   "id": 176190,
@@ -722,32 +776,8 @@
   "reg_date": "03.02.2017 12:11:45",
   "longt": 36.2183309573,
   "lati": 50.0014579755,
-  "FullNameUA": "вулиця Клочківська, 93"
- },
- {
-  "id": 116732,
-  "postcode": 61058,
-  "number": 94,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2206614518,
-  "lati": 50.0016773255,
-  "FullNameUA": "вулиця Клочківська, 94"
+  "FullNameUA": "вулиця Клочківська, 93",
+  "ChildsIds": []
  },
  {
   "id": 116733,
@@ -772,7 +802,34 @@
   "reg_date": "",
   "longt": 36.2200208784,
   "lati": 50.0016155066,
-  "FullNameUA": "вулиця Клочківська, 94-А"
+  "FullNameUA": "вулиця Клочківська, 94-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116732,
+  "postcode": 61058,
+  "number": 94,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2206614518,
+  "lati": 50.0016773255,
+  "FullNameUA": "вулиця Клочківська, 94",
+  "ChildsIds": []
  },
  {
   "id": 116734,
@@ -797,32 +854,8 @@
   "reg_date": "",
   "longt": 36.2175834596,
   "lati": 50.0025505385,
-  "FullNameUA": "вулиця Клочківська, 95"
- },
- {
-  "id": 181646,
-  "postcode": 61058,
-  "number": 98,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "07.11.2019 15:45:58",
-  "longt": 36.2193766181,
-  "lati": 50.0078035096,
-  "FullNameUA": "вулиця Клочківська, 98"
+  "FullNameUA": "вулиця Клочківська, 95",
+  "ChildsIds": []
  },
  {
   "id": 116735,
@@ -847,12 +880,13 @@
   "reg_date": "",
   "longt": 36.2189090252,
   "lati": 50.0050153126,
-  "FullNameUA": "вулиця Клочківська, 98-А"
+  "FullNameUA": "вулиця Клочківська, 98-А",
+  "ChildsIds": []
  },
  {
-  "id": 116736,
+  "id": 181646,
   "postcode": 61058,
-  "number": 99,
+  "number": 98,
   "suffix": "",
   "block": "",
   "streetid": 2893,
@@ -868,11 +902,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.217749568500004,
-  "lati": 50.0041252568,
-  "FullNameUA": "вулиця Клочківська, 99"
+  "confrm": "градархив",
+  "reg_date": "07.11.2019 15:45:58",
+  "longt": 36.2193766181,
+  "lati": 50.0078035096,
+  "FullNameUA": "вулиця Клочківська, 98",
+  "ChildsIds": []
  },
  {
   "id": 116737,
@@ -897,13 +932,14 @@
   "reg_date": "14.01.2019 13:01:03",
   "longt": 36.217309011,
   "lati": 50.003623421,
-  "FullNameUA": "вулиця Клочківська, 99-А"
+  "FullNameUA": "вулиця Клочківська, 99-А",
+  "ChildsIds": []
  },
  {
-  "id": 116740,
+  "id": 116736,
   "postcode": 61058,
-  "number": 101,
-  "suffix": "Б",
+  "number": 99,
+  "suffix": "",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2159212877,
-  "lati": 50.005455982,
-  "FullNameUA": "вулиця Клочківська, 101-Б"
+  "longt": 36.2177495685,
+  "lati": 50.0041252568,
+  "FullNameUA": "вулиця Клочківська, 99",
+  "ChildsIds": []
  },
  {
   "id": 116742,
@@ -947,13 +984,14 @@
   "reg_date": "11.01.2020 09:11:54",
   "longt": 36.2170966518,
   "lati": 50.005426434,
-  "FullNameUA": "вулиця Клочківська, 101-Ж"
+  "FullNameUA": "вулиця Клочківська, 101-Ж",
+  "ChildsIds": []
  },
  {
-  "id": 116741,
+  "id": 116740,
   "postcode": 61058,
   "number": 101,
-  "suffix": "В",
+  "suffix": "Б",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -970,59 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2163727987,
-  "lati": 50.0061437715,
-  "FullNameUA": "вулиця Клочківська, 101-В"
- },
- {
-  "id": 116739,
-  "postcode": 61058,
-  "number": 101,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "1101, 29.12.1995",
-  "reg_date": "",
-  "longt": 36.2168612111,
-  "lati": 50.0047278366,
-  "FullNameUA": "вулиця Клочківська, 101-А"
- },
- {
-  "id": 116738,
-  "postcode": 61058,
-  "number": 101,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Дзержинської райради № 277/1, 01.08.2008",
-  "reg_date": "",
-  "longt": 36.2177491581,
-  "lati": 50.0052598925,
-  "FullNameUA": "вулиця Клочківська, 101-Д"
+  "longt": 36.2159212877,
+  "lati": 50.005455982,
+  "FullNameUA": "вулиця Клочківська, 101-Б",
+  "ChildsIds": []
  },
  {
   "id": 179661,
@@ -1047,7 +1036,88 @@
   "reg_date": "",
   "longt": 36.2161262333,
   "lati": 50.0064771668,
-  "FullNameUA": "вулиця Клочківська, 101"
+  "FullNameUA": "вулиця Клочківська, 101",
+  "ChildsIds": [
+   116742
+  ]
+ },
+ {
+  "id": 116739,
+  "postcode": 61058,
+  "number": 101,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1101, 29.12.1995",
+  "reg_date": "",
+  "longt": 36.2168612111,
+  "lati": 50.0047278366,
+  "FullNameUA": "вулиця Клочківська, 101-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116741,
+  "postcode": 61058,
+  "number": 101,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2163727987,
+  "lati": 50.0061437715,
+  "FullNameUA": "вулиця Клочківська, 101-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 116738,
+  "postcode": 61058,
+  "number": 101,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської райради № 277/1, 01.08.2008",
+  "reg_date": "",
+  "longt": 36.2177491581,
+  "lati": 50.0052598925,
+  "FullNameUA": "вулиця Клочківська, 101-Д",
+  "ChildsIds": []
  },
  {
   "id": 116743,
@@ -1072,32 +1142,8 @@
   "reg_date": "",
   "longt": 36.2193703651,
   "lati": 50.0023500726,
-  "FullNameUA": "вулиця Клочківська, 104-А"
- },
- {
-  "id": 116745,
-  "postcode": 61145,
-  "number": 105,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2137752771,
-  "lati": 50.0067478118,
-  "FullNameUA": "вулиця Клочківська, 105-Б"
+  "FullNameUA": "вулиця Клочківська, 104-А",
+  "ChildsIds": []
  },
  {
   "id": 116744,
@@ -1122,7 +1168,34 @@
   "reg_date": "",
   "longt": 36.2134670986,
   "lati": 50.0070173162,
-  "FullNameUA": "вулиця Клочківська, 105-А"
+  "FullNameUA": "вулиця Клочківська, 105-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116745,
+  "postcode": 61145,
+  "number": 105,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2137752771,
+  "lati": 50.0067478118,
+  "FullNameUA": "вулиця Клочківська, 105-Б",
+  "ChildsIds": []
  },
  {
   "id": 116747,
@@ -1141,13 +1214,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "810, 23.12.2015",
-  "reg_date": "",
+  "reg_date": "22.01.2020 10:56:03",
   "longt": 36.2174069881,
   "lati": 50.0062634079,
-  "FullNameUA": "вулиця Клочківська, 109-Б"
+  "FullNameUA": "вулиця Клочківська, 109-Б",
+  "ChildsIds": []
  },
  {
   "id": 116746,
@@ -1166,13 +1240,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
+  "source_id": 0,
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 1647, 07.12.2005",
-  "reg_date": "08.12.2017 12:42:52",
-  "longt": 36.2181150913,
-  "lati": 50.0065685312,
-  "FullNameUA": "вулиця Клочківська, 109"
+  "reg_date": "",
+  "longt": 36.218119572,
+  "lati": 50.0065313512,
+  "FullNameUA": "вулиця Клочківська, 109",
+  "ChildsIds": []
  },
  {
   "id": 116748,
@@ -1197,7 +1272,8 @@
   "reg_date": "",
   "longt": 36.2180770677,
   "lati": 50.0075243453,
-  "FullNameUA": "вулиця Клочківська, 111-А"
+  "FullNameUA": "вулиця Клочківська, 111-А",
+  "ChildsIds": []
  },
  {
   "id": 116749,
@@ -1222,7 +1298,34 @@
   "reg_date": "",
   "longt": 36.2171597233,
   "lati": 50.0072754753,
-  "FullNameUA": "вулиця Клочківська, 115"
+  "FullNameUA": "вулиця Клочківська, 115",
+  "ChildsIds": []
+ },
+ {
+  "id": 182260,
+  "postcode": 61145,
+  "number": 117,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "трансформаторна підстанція літ. \"Б-1\"",
+  "confrm": "",
+  "reg_date": "20.02.2020 12:28:10",
+  "longt": 36.2176304731,
+  "lati": 50.0084525618,
+  "FullNameUA": "вулиця Клочківська, 117-А",
+  "ChildsIds": []
  },
  {
   "id": 116750,
@@ -1242,12 +1345,13 @@
   "detail_ua": "",
   "detail_number": "",
   "source_id": 1,
-  "same_adr_comm": "",
+  "same_adr_comm": "житловий будинок літ. \"А-21\" секція 1-2, земельні ділянки (кадастровий номер: 6310136300:05:007:0006, 6310136300:05:008:0001), житловий будинок літ. \"А-21\" секція 3, житловий будинок літ. \"А-17-21\" секція 4",
   "confrm": "",
   "reg_date": "25.01.2018 15:16:07",
-  "longt": 36.2178084392,
-  "lati": 50.0094482039,
-  "FullNameUA": "вулиця Клочківська, 117"
+  "longt": 36.2179028587,
+  "lati": 50.009106005,
+  "FullNameUA": "вулиця Клочківська, 117",
+  "ChildsIds": []
  },
  {
   "id": 116751,
@@ -1272,7 +1376,8 @@
   "reg_date": "15.01.2019 17:14:15",
   "longt": 36.2167751128,
   "lati": 50.0108139883,
-  "FullNameUA": "вулиця Клочківська, 119-А"
+  "FullNameUA": "вулиця Клочківська, 119-А",
+  "ChildsIds": []
  },
  {
   "id": 116753,
@@ -1297,7 +1402,8 @@
   "reg_date": "",
   "longt": 36.2194508314,
   "lati": 50.0083070077,
-  "FullNameUA": "вулиця Клочківська, 134-А"
+  "FullNameUA": "вулиця Клочківська, 134-А",
+  "ChildsIds": []
  },
  {
   "id": 116754,
@@ -1322,7 +1428,8 @@
   "reg_date": "03.04.2019 10:07:02",
   "longt": 36.2192339957,
   "lati": 50.0096050316,
-  "FullNameUA": "вулиця Клочківська, 134-Б"
+  "FullNameUA": "вулиця Клочківська, 134-Б",
+  "ChildsIds": []
  },
  {
   "id": 116752,
@@ -1347,7 +1454,8 @@
   "reg_date": "",
   "longt": 36.2194535136,
   "lati": 50.0105177211,
-  "FullNameUA": "вулиця Клочківська, 134"
+  "FullNameUA": "вулиця Клочківська, 134",
+  "ChildsIds": []
  },
  {
   "id": 116755,
@@ -1372,7 +1480,8 @@
   "reg_date": "",
   "longt": 36.2190627659,
   "lati": 50.0109497104,
-  "FullNameUA": "вулиця Клочківська, 136"
+  "FullNameUA": "вулиця Клочківська, 136",
+  "ChildsIds": []
  },
  {
   "id": 116756,
@@ -1397,7 +1506,8 @@
   "reg_date": "",
   "longt": 36.2196258511,
   "lati": 50.0109902731,
-  "FullNameUA": "вулиця Клочківська, 140"
+  "FullNameUA": "вулиця Клочківська, 140",
+  "ChildsIds": []
  },
  {
   "id": 116757,
@@ -1421,8 +1531,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2182106087,
-  "lati": 50.013551100499996,
-  "FullNameUA": "вулиця Клочківська, 148-А"
+  "lati": 50.0135511005,
+  "FullNameUA": "вулиця Клочківська, 148-А",
+  "ChildsIds": []
  },
  {
   "id": 116758,
@@ -1447,7 +1558,8 @@
   "reg_date": "",
   "longt": 36.2188500379,
   "lati": 50.0145172456,
-  "FullNameUA": "вулиця Клочківська, 150-А"
+  "FullNameUA": "вулиця Клочківська, 150-А",
+  "ChildsIds": []
  },
  {
   "id": 116759,
@@ -1471,8 +1583,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2179200716,
-  "lati": 50.015293216399996,
-  "FullNameUA": "вулиця Клочківська, 152-А"
+  "lati": 50.0152932164,
+  "FullNameUA": "вулиця Клочківська, 152-А",
+  "ChildsIds": []
  },
  {
   "id": 116760,
@@ -1496,8 +1609,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2189102431,
-  "lati": 50.015437910799996,
-  "FullNameUA": "вулиця Клочківська, 154-А"
+  "lati": 50.0154379108,
+  "FullNameUA": "вулиця Клочківська, 154-А",
+  "ChildsIds": []
  },
  {
   "id": 116761,
@@ -1522,7 +1636,8 @@
   "reg_date": "",
   "longt": 36.2183313948,
   "lati": 50.0163268214,
-  "FullNameUA": "вулиця Клочківська, 156-А"
+  "FullNameUA": "вулиця Клочківська, 156-А",
+  "ChildsIds": []
  },
  {
   "id": 116762,
@@ -1547,7 +1662,8 @@
   "reg_date": "",
   "longt": 36.2170871031,
   "lati": 50.0119282074,
-  "FullNameUA": "вулиця Клочківська, 159"
+  "FullNameUA": "вулиця Клочківська, 159",
+  "ChildsIds": []
  },
  {
   "id": 180583,
@@ -1572,7 +1688,8 @@
   "reg_date": "07.05.2019 17:30:53",
   "longt": 36.2174076448,
   "lati": 50.0120989167,
-  "FullNameUA": "вулиця Клочківська, 159-А"
+  "FullNameUA": "вулиця Клочківська, 159-А",
+  "ChildsIds": []
  },
  {
   "id": 116763,
@@ -1596,14 +1713,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2170238623,
-  "lati": 50.012229229599996,
-  "FullNameUA": "вулиця Клочківська, 161"
+  "lati": 50.0122292296,
+  "FullNameUA": "вулиця Клочківська, 161",
+  "ChildsIds": []
  },
  {
-  "id": 116765,
+  "id": 182600,
   "postcode": 61145,
-  "number": 163,
-  "suffix": "А",
+  "number": 161,
+  "suffix": "/4",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -1618,11 +1736,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.2163596729,
-  "lati": 50.012281611599995,
-  "FullNameUA": "вулиця Клочківська, 163-А"
+  "longt": 36.2166316849,
+  "lati": 50.0118215845,
+  "FullNameUA": "вулиця Клочківська, 161/4",
+  "ChildsIds": []
  },
  {
   "id": 116764,
@@ -1646,8 +1765,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2169302021,
-  "lati": 50.012332877599995,
-  "FullNameUA": "вулиця Клочківська, 163"
+  "lati": 50.0123328776,
+  "FullNameUA": "вулиця Клочківська, 163",
+  "ChildsIds": []
+ },
+ {
+  "id": 116765,
+  "postcode": 61145,
+  "number": 163,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2163596729,
+  "lati": 50.0122816116,
+  "FullNameUA": "вулиця Клочківська, 163-А",
+  "ChildsIds": []
  },
  {
   "id": 116766,
@@ -1670,9 +1816,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.216846406500004,
+  "longt": 36.2168464065,
   "lati": 50.0125395946,
-  "FullNameUA": "вулиця Клочківська, 165"
+  "FullNameUA": "вулиця Клочківська, 165",
+  "ChildsIds": []
  },
  {
   "id": 116767,
@@ -1697,7 +1844,8 @@
   "reg_date": "",
   "longt": 36.2176625452,
   "lati": 50.0144270486,
-  "FullNameUA": "вулиця Клочківська, 166-А"
+  "FullNameUA": "вулиця Клочківська, 166-А",
+  "ChildsIds": []
  },
  {
   "id": 116768,
@@ -1720,9 +1868,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.216805917500004,
-  "lati": 50.012693887299996,
-  "FullNameUA": "вулиця Клочківська, 167"
+  "longt": 36.2168059175,
+  "lati": 50.0126938873,
+  "FullNameUA": "вулиця Клочківська, 167",
+  "ChildsIds": []
  },
  {
   "id": 116769,
@@ -1746,8 +1895,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2168222666,
-  "lati": 50.012836059899996,
-  "FullNameUA": "вулиця Клочківська, 169"
+  "lati": 50.0128360599,
+  "FullNameUA": "вулиця Клочківська, 169",
+  "ChildsIds": []
  },
  {
   "id": 116770,
@@ -1772,32 +1922,8 @@
   "reg_date": "",
   "longt": 36.2164583151,
   "lati": 50.012997325,
-  "FullNameUA": "вулиця Клочківська, 169-А"
- },
- {
-  "id": 116772,
-  "postcode": 61145,
-  "number": 171,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2163079177,
-  "lati": 50.0132081191,
-  "FullNameUA": "вулиця Клочківська, 171-А"
+  "FullNameUA": "вулиця Клочківська, 169-А",
+  "ChildsIds": []
  },
  {
   "id": 116771,
@@ -1822,7 +1948,34 @@
   "reg_date": "",
   "longt": 36.2161652001,
   "lati": 50.0130739893,
-  "FullNameUA": "вулиця Клочківська, 171"
+  "FullNameUA": "вулиця Клочківська, 171",
+  "ChildsIds": []
+ },
+ {
+  "id": 116772,
+  "postcode": 61145,
+  "number": 171,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2163079177,
+  "lati": 50.0132081191,
+  "FullNameUA": "вулиця Клочківська, 171-А",
+  "ChildsIds": []
  },
  {
   "id": 116773,
@@ -1845,9 +1998,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.215988099600004,
-  "lati": 50.013784909099996,
-  "FullNameUA": "вулиця Клочківська, 173"
+  "longt": 36.2159880996,
+  "lati": 50.0137849091,
+  "FullNameUA": "вулиця Клочківська, 173",
+  "ChildsIds": []
  },
  {
   "id": 116775,
@@ -1872,7 +2026,8 @@
   "reg_date": "26.02.2019 15:59:43",
   "longt": 36.2171607702,
   "lati": 50.0148811249,
-  "FullNameUA": "вулиця Клочківська, 174-А"
+  "FullNameUA": "вулиця Клочківська, 174-А",
+  "ChildsIds": []
  },
  {
   "id": 116774,
@@ -1897,7 +2052,8 @@
   "reg_date": "",
   "longt": 36.2168208851,
   "lati": 50.015451739,
-  "FullNameUA": "вулиця Клочківська, 174"
+  "FullNameUA": "вулиця Клочківська, 174",
+  "ChildsIds": []
  },
  {
   "id": 116776,
@@ -1922,7 +2078,8 @@
   "reg_date": "",
   "longt": 36.2161763975,
   "lati": 50.0162792273,
-  "FullNameUA": "вулиця Клочківська, 176"
+  "FullNameUA": "вулиця Клочківська, 176",
+  "ChildsIds": []
  },
  {
   "id": 116777,
@@ -1946,8 +2103,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.215239247,
-  "lati": 50.018886810299996,
-  "FullNameUA": "вулиця Клочківська, 186-Б"
+  "lati": 50.0188868103,
+  "FullNameUA": "вулиця Клочківська, 186-Б",
+  "ChildsIds": []
  },
  {
   "id": 116778,
@@ -1972,7 +2130,8 @@
   "reg_date": "27.02.2019 14:52:07",
   "longt": 36.2144871895,
   "lati": 50.0187700845,
-  "FullNameUA": "вулиця Клочківська, 188"
+  "FullNameUA": "вулиця Клочківська, 188",
+  "ChildsIds": []
  },
  {
   "id": 116780,
@@ -1997,7 +2156,8 @@
   "reg_date": "15.05.2018 12:25:25",
   "longt": 36.2126011853,
   "lati": 50.0213649665,
-  "FullNameUA": "вулиця Клочківська, 190-А"
+  "FullNameUA": "вулиця Клочківська, 190-А",
+  "ChildsIds": []
  },
  {
   "id": 116779,
@@ -2021,8 +2181,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2128077264,
-  "lati": 50.020883006300004,
-  "FullNameUA": "вулиця Клочківська, 190"
+  "lati": 50.0208830063,
+  "FullNameUA": "вулиця Клочківська, 190",
+  "ChildsIds": []
  },
  {
   "id": 180131,
@@ -2045,9 +2206,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "22.12.2018 12:35:55",
-  "longt": 36.216185074500004,
+  "longt": 36.2161850745,
   "lati": 50.0141858752,
-  "FullNameUA": "вулиця Клочківська, 191-З"
+  "FullNameUA": "вулиця Клочківська, 191-З",
+  "ChildsIds": []
+ },
+ {
+  "id": 116783,
+  "postcode": 61145,
+  "number": 191,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "798, 12.12.2012",
+  "reg_date": "09.01.2020 10:43:15",
+  "longt": 36.2144110793,
+  "lati": 50.0144010977,
+  "FullNameUA": "вулиця Клочківська, 191-Ж",
+  "ChildsIds": []
  },
  {
   "id": 116782,
@@ -2071,8 +2259,9 @@
   "confrm": "798, 12.12.2012",
   "reg_date": "09.01.2020 10:36:43",
   "longt": 36.2144575927,
-  "lati": 50.014165067499995,
-  "FullNameUA": "вулиця Клочківська, 191-Д"
+  "lati": 50.0141650675,
+  "FullNameUA": "вулиця Клочківська, 191-Д",
+  "ChildsIds": []
  },
  {
   "id": 116781,
@@ -2097,32 +2286,8 @@
   "reg_date": "",
   "longt": 36.214398015,
   "lati": 50.0154992034,
-  "FullNameUA": "вулиця Клочківська, 191"
- },
- {
-  "id": 116783,
-  "postcode": 61145,
-  "number": 191,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "798, 12.12.2012",
-  "reg_date": "09.01.2020 10:43:15",
-  "longt": 36.2144110793,
-  "lati": 50.014401097699995,
-  "FullNameUA": "вулиця Клочківська, 191-Ж"
+  "FullNameUA": "вулиця Клочківська, 191",
+  "ChildsIds": []
  },
  {
   "id": 116784,
@@ -2146,8 +2311,35 @@
   "confrm": "Рішення ВК ХМР № 390, 16.09.2009",
   "reg_date": "14.01.2019 12:50:48",
   "longt": 36.2142455459,
-  "lati": 50.022085773600004,
-  "FullNameUA": "вулиця Клочківська, 192-А"
+  "lati": 50.0220857736,
+  "FullNameUA": "вулиця Клочківська, 192-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116785,
+  "postcode": 61145,
+  "number": 193,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2120302168,
+  "lati": 50.0150272364,
+  "FullNameUA": "вулиця Клочківська, 193",
+  "ChildsIds": []
  },
  {
   "id": 116786,
@@ -2172,32 +2364,8 @@
   "reg_date": "",
   "longt": 36.2098348107,
   "lati": 50.0148361747,
-  "FullNameUA": "вулиця Клочківська, 193-А"
- },
- {
-  "id": 116785,
-  "postcode": 61145,
-  "number": 193,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2120302168,
-  "lati": 50.015027236399995,
-  "FullNameUA": "вулиця Клочківська, 193"
+  "FullNameUA": "вулиця Клочківська, 193-А",
+  "ChildsIds": []
  },
  {
   "id": 116787,
@@ -2222,7 +2390,8 @@
   "reg_date": "",
   "longt": 36.2109193351,
   "lati": 50.0150839705,
-  "FullNameUA": "вулиця Клочківська, 193-Б"
+  "FullNameUA": "вулиця Клочківська, 193-Б",
+  "ChildsIds": []
  },
  {
   "id": 116788,
@@ -2246,83 +2415,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2140800258,
-  "lati": 50.016093881399996,
-  "FullNameUA": "вулиця Клочківська, 195"
- },
- {
-  "id": 116793,
-  "postcode": 61145,
-  "number": 195,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.213328145300004,
-  "lati": 50.0143705664,
-  "FullNameUA": "вулиця Клочківська, 195-Д"
- },
- {
-  "id": 116792,
-  "postcode": 61145,
-  "number": 195,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2131853929,
-  "lati": 50.015061836899996,
-  "FullNameUA": "вулиця Клочківська, 195-Г"
- },
- {
-  "id": 116791,
-  "postcode": 61145,
-  "number": 195,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2106885951,
-  "lati": 50.0155932756,
-  "FullNameUA": "вулиця Клочківська, 195-В"
+  "lati": 50.0160938814,
+  "FullNameUA": "вулиця Клочківська, 195",
+  "ChildsIds": []
  },
  {
   "id": 116790,
@@ -2347,7 +2442,8 @@
   "reg_date": "",
   "longt": 36.2095364822,
   "lati": 50.0155097289,
-  "FullNameUA": "вулиця Клочківська, 195-Б"
+  "FullNameUA": "вулиця Клочківська, 195-Б",
+  "ChildsIds": []
  },
  {
   "id": 116789,
@@ -2370,9 +2466,88 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209418148000005,
+  "longt": 36.209418148,
   "lati": 50.0158869641,
-  "FullNameUA": "вулиця Клочківська, 195-А"
+  "FullNameUA": "вулиця Клочківська, 195-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116793,
+  "postcode": 61145,
+  "number": 195,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2133281453,
+  "lati": 50.0143705664,
+  "FullNameUA": "вулиця Клочківська, 195-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 116792,
+  "postcode": 61145,
+  "number": 195,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2131853929,
+  "lati": 50.0150618369,
+  "FullNameUA": "вулиця Клочківська, 195-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 116791,
+  "postcode": 61145,
+  "number": 195,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2106885951,
+  "lati": 50.0155932756,
+  "FullNameUA": "вулиця Клочківська, 195-В",
+  "ChildsIds": []
  },
  {
   "id": 116801,
@@ -2397,82 +2572,8 @@
   "reg_date": "28.02.2019 16:25:44",
   "longt": 36.2118043571,
   "lati": 50.0174405747,
-  "FullNameUA": "вулиця Клочківська, 197-З"
- },
- {
-  "id": 116798,
-  "postcode": 61145,
-  "number": 197,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.207889611800006,
-  "lati": 50.0168282021,
-  "FullNameUA": "вулиця Клочківська, 197-Г"
- },
- {
-  "id": 116795,
-  "postcode": 61145,
-  "number": 197,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "06.10.2011 00:00:00",
-  "longt": 36.2115577806,
-  "lati": 50.0167738038,
-  "FullNameUA": "вулиця Клочківська, 197-А"
- },
- {
-  "id": 116799,
-  "postcode": 61145,
-  "number": 197,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2095264259,
-  "lati": 50.0171582742,
-  "FullNameUA": "вулиця Клочківська, 197-Д"
+  "FullNameUA": "вулиця Клочківська, 197-З",
+  "ChildsIds": []
  },
  {
   "id": 116800,
@@ -2496,14 +2597,41 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2122421291,
-  "lati": 50.019730477399996,
-  "FullNameUA": "вулиця Клочківська, 197-Е"
+  "lati": 50.0197304774,
+  "FullNameUA": "вулиця Клочківська, 197-Е",
+  "ChildsIds": []
  },
  {
-  "id": 116794,
+  "id": 180127,
   "postcode": 61145,
   "number": 197,
-  "suffix": "",
+  "suffix": "О",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "22.12.2018 11:10:45",
+  "longt": 36.2128720079,
+  "lati": 50.0182321257,
+  "FullNameUA": "вулиця Клочківська, 197-О",
+  "ChildsIds": []
+ },
+ {
+  "id": 116798,
+  "postcode": 61145,
+  "number": 197,
+  "suffix": "Г",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -2520,9 +2648,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2124793407,
-  "lati": 50.017307324099995,
-  "FullNameUA": "вулиця Клочківська, 197"
+  "longt": 36.2078896118,
+  "lati": 50.0168282021,
+  "FullNameUA": "вулиця Клочківська, 197-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 116797,
+  "postcode": 61145,
+  "number": 197,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2089749698,
+  "lati": 50.0168345781,
+  "FullNameUA": "вулиця Клочківська, 197-В",
+  "ChildsIds": []
  },
  {
   "id": 116796,
@@ -2547,13 +2702,14 @@
   "reg_date": "",
   "longt": 36.2103466611,
   "lati": 50.0173173516,
-  "FullNameUA": "вулиця Клочківська, 197-Б"
+  "FullNameUA": "вулиця Клочківська, 197-Б",
+  "ChildsIds": []
  },
  {
-  "id": 116797,
+  "id": 116794,
   "postcode": 61145,
   "number": 197,
-  "suffix": "В",
+  "suffix": "",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -2570,15 +2726,42 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2089749698,
-  "lati": 50.016834578099996,
-  "FullNameUA": "вулиця Клочківська, 197-В"
+  "longt": 36.2124793407,
+  "lati": 50.0173073241,
+  "FullNameUA": "вулиця Клочківська, 197",
+  "ChildsIds": []
  },
  {
-  "id": 180127,
+  "id": 116799,
   "postcode": 61145,
   "number": 197,
-  "suffix": "О",
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2095264259,
+  "lati": 50.0171582742,
+  "FullNameUA": "вулиця Клочківська, 197-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 116795,
+  "postcode": 61145,
+  "number": 197,
+  "suffix": "А",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -2594,10 +2777,37 @@
   "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "22.12.2018 11:10:45",
-  "longt": 36.2128720079,
-  "lati": 50.018232125699996,
-  "FullNameUA": "вулиця Клочківська, 197-О"
+  "reg_date": "06.10.2011 00:00:00",
+  "longt": 36.2115577806,
+  "lati": 50.0167738038,
+  "FullNameUA": "вулиця Клочківська, 197-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116802,
+  "postcode": 61145,
+  "number": 199,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2112107216,
+  "lati": 50.0181407691,
+  "FullNameUA": "вулиця Клочківська, 199",
+  "ChildsIds": []
  },
  {
   "id": 116803,
@@ -2622,7 +2832,8 @@
   "reg_date": "",
   "longt": 36.2114262021,
   "lati": 50.0186932396,
-  "FullNameUA": "вулиця Клочківська, 199-Б"
+  "FullNameUA": "вулиця Клочківська, 199-Б",
+  "ChildsIds": []
  },
  {
   "id": 116805,
@@ -2647,7 +2858,8 @@
   "reg_date": "",
   "longt": 36.2103478012,
   "lati": 50.0185988626,
-  "FullNameUA": "вулиця Клочківська, 199-Г"
+  "FullNameUA": "вулиця Клочківська, 199-Г",
+  "ChildsIds": []
  },
  {
   "id": 116804,
@@ -2671,58 +2883,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2101298445,
-  "lati": 50.018142550099995,
-  "FullNameUA": "вулиця Клочківська, 199-В"
- },
- {
-  "id": 116802,
-  "postcode": 61145,
-  "number": 199,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.211210721600004,
-  "lati": 50.0181407691,
-  "FullNameUA": "вулиця Клочківська, 199"
- },
- {
-  "id": 116807,
-  "postcode": 61145,
-  "number": 201,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.209271271000006,
-  "lati": 50.0185092295,
-  "FullNameUA": "вулиця Клочківська, 201-А"
+  "lati": 50.0181425501,
+  "FullNameUA": "вулиця Клочківська, 199-В",
+  "ChildsIds": []
  },
  {
   "id": 177952,
@@ -2747,7 +2910,8 @@
   "reg_date": "18.01.2019 12:10:33",
   "longt": 36.2082476654,
   "lati": 50.0182057723,
-  "FullNameUA": "вулиця Клочківська, 201-Б"
+  "FullNameUA": "вулиця Клочківська, 201-Б",
+  "ChildsIds": []
  },
  {
   "id": 116806,
@@ -2771,8 +2935,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2090617869,
-  "lati": 50.018056648999995,
-  "FullNameUA": "вулиця Клочківська, 201"
+  "lati": 50.018056649,
+  "FullNameUA": "вулиця Клочківська, 201",
+  "ChildsIds": []
+ },
+ {
+  "id": 116807,
+  "postcode": 61145,
+  "number": 201,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.209271271,
+  "lati": 50.0185092295,
+  "FullNameUA": "вулиця Клочківська, 201-А",
+  "ChildsIds": []
  },
  {
   "id": 116808,
@@ -2796,8 +2987,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2121407449,
-  "lati": 50.022371339900005,
-  "FullNameUA": "вулиця Клочківська, 202"
+  "lati": 50.0223713399,
+  "FullNameUA": "вулиця Клочківська, 202",
+  "ChildsIds": []
  },
  {
   "id": 180128,
@@ -2822,7 +3014,8 @@
   "reg_date": "22.12.2018 11:48:02",
   "longt": 36.2103578277,
   "lati": 50.0219548537,
-  "FullNameUA": "вулиця Клочківська, 203-Б"
+  "FullNameUA": "вулиця Клочківська, 203-Б",
+  "ChildsIds": []
  },
  {
   "id": 116809,
@@ -2847,7 +3040,8 @@
   "reg_date": "",
   "longt": 36.2131882956,
   "lati": 50.0224905087,
-  "FullNameUA": "вулиця Клочківська, 216-А"
+  "FullNameUA": "вулиця Клочківська, 216-А",
+  "ChildsIds": []
  },
  {
   "id": 116810,
@@ -2870,34 +3064,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.214141163600004,
+  "longt": 36.2141411636,
   "lati": 50.0228050296,
-  "FullNameUA": "вулиця Клочківська, 216-Б"
- },
- {
-  "id": 116811,
-  "postcode": 61045,
-  "number": 218,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "392, 30.06.1979",
-  "reg_date": "",
-  "longt": 36.212469794,
-  "lati": 50.023027131300005,
-  "FullNameUA": "вулиця Клочківська, 218"
+  "FullNameUA": "вулиця Клочківська, 216-Б",
+  "ChildsIds": []
  },
  {
   "id": 116812,
@@ -2922,7 +3092,34 @@
   "reg_date": "",
   "longt": 36.2120360708,
   "lati": 50.0234382913,
-  "FullNameUA": "вулиця Клочківська, 218-А"
+  "FullNameUA": "вулиця Клочківська, 218-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116811,
+  "postcode": 61045,
+  "number": 218,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "392, 30.06.1979",
+  "reg_date": "",
+  "longt": 36.212469794,
+  "lati": 50.0230271313,
+  "FullNameUA": "вулиця Клочківська, 218",
+  "ChildsIds": []
  },
  {
   "id": 116813,
@@ -2946,8 +3143,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2115910372,
-  "lati": 50.022829180500004,
-  "FullNameUA": "вулиця Клочківська, 220"
+  "lati": 50.0228291805,
+  "FullNameUA": "вулиця Клочківська, 220",
+  "ChildsIds": []
  },
  {
   "id": 116815,
@@ -2972,7 +3170,8 @@
   "reg_date": "",
   "longt": 36.2138016087,
   "lati": 50.0232497402,
-  "FullNameUA": "вулиця Клочківська, 222-А"
+  "FullNameUA": "вулиця Клочківська, 222-А",
+  "ChildsIds": []
  },
  {
   "id": 116814,
@@ -2997,7 +3196,8 @@
   "reg_date": "",
   "longt": 36.2111967284,
   "lati": 50.023345642,
-  "FullNameUA": "вулиця Клочківська, 222"
+  "FullNameUA": "вулиця Клочківська, 222",
+  "ChildsIds": []
  },
  {
   "id": 116816,
@@ -3020,9 +3220,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209486027900006,
+  "longt": 36.2094860279,
   "lati": 50.0251529152,
-  "FullNameUA": "вулиця Клочківська, 224"
+  "FullNameUA": "вулиця Клочківська, 224",
+  "ChildsIds": []
+ },
+ {
+  "id": 116817,
+  "postcode": 61045,
+  "number": 226,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2101339849,
+  "lati": 50.0263480317,
+  "FullNameUA": "вулиця Клочківська, 226",
+  "ChildsIds": []
  },
  {
   "id": 176979,
@@ -3047,32 +3274,8 @@
   "reg_date": "30.03.2017 14:56:34",
   "longt": 36.2094342111,
   "lati": 50.025873691,
-  "FullNameUA": "вулиця Клочківська, 226-Г"
- },
- {
-  "id": 116817,
-  "postcode": 61045,
-  "number": 226,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.210133984900004,
-  "lati": 50.0263480317,
-  "FullNameUA": "вулиця Клочківська, 226"
+  "FullNameUA": "вулиця Клочківська, 226-Г",
+  "ChildsIds": []
  },
  {
   "id": 116818,
@@ -3096,8 +3299,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.20899369,
-  "lati": 50.025984758700005,
-  "FullNameUA": "вулиця Клочківська, 226-А"
+  "lati": 50.0259847587,
+  "FullNameUA": "вулиця Клочківська, 226-А",
+  "ChildsIds": []
  },
  {
   "id": 116819,
@@ -3121,8 +3325,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2074226848,
-  "lati": 50.027929341400004,
-  "FullNameUA": "вулиця Клочківська, 228"
+  "lati": 50.0279293414,
+  "FullNameUA": "вулиця Клочківська, 228",
+  "ChildsIds": []
  },
  {
   "id": 116820,
@@ -3145,9 +3350,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209425657400004,
+  "longt": 36.2094256574,
   "lati": 50.0234432453,
-  "FullNameUA": "вулиця Клочківська, 229"
+  "FullNameUA": "вулиця Клочківська, 229",
+  "ChildsIds": []
  },
  {
   "id": 116821,
@@ -3172,57 +3378,8 @@
   "reg_date": "",
   "longt": 36.2061516487,
   "lati": 50.0292935303,
-  "FullNameUA": "вулиця Клочківська, 230"
- },
- {
-  "id": 116823,
-  "postcode": 61045,
-  "number": 232,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.206581030200006,
-  "lati": 50.0301659177,
-  "FullNameUA": "вулиця Клочківська, 232-А"
- },
- {
-  "id": 116824,
-  "postcode": 61045,
-  "number": 232,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.205652235500004,
-  "lati": 50.0295892046,
-  "FullNameUA": "вулиця Клочківська, 232-Б"
+  "FullNameUA": "вулиця Клочківська, 230",
+  "ChildsIds": []
  },
  {
   "id": 116822,
@@ -3246,8 +3403,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2059529157,
-  "lati": 50.029720031900005,
-  "FullNameUA": "вулиця Клочківська, 232"
+  "lati": 50.0297200319,
+  "FullNameUA": "вулиця Клочківська, 232",
+  "ChildsIds": []
+ },
+ {
+  "id": 116823,
+  "postcode": 61045,
+  "number": 232,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2065810302,
+  "lati": 50.0301659177,
+  "FullNameUA": "вулиця Клочківська, 232-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116824,
+  "postcode": 61045,
+  "number": 232,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2056522355,
+  "lati": 50.0295892046,
+  "FullNameUA": "вулиця Клочківська, 232-Б",
+  "ChildsIds": []
  },
  {
   "id": 116825,
@@ -3272,32 +3482,8 @@
   "reg_date": "",
   "longt": 36.2052924344,
   "lati": 50.029819731,
-  "FullNameUA": "вулиця Клочківська, 234"
- },
- {
-  "id": 116827,
-  "postcode": 61045,
-  "number": 236,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2046673162,
-  "lati": 50.0306515043,
-  "FullNameUA": "вулиця Клочківська, 236-А"
+  "FullNameUA": "вулиця Клочківська, 234",
+  "ChildsIds": []
  },
  {
   "id": 116826,
@@ -3322,7 +3508,34 @@
   "reg_date": "",
   "longt": 36.2047433517,
   "lati": 50.0301374433,
-  "FullNameUA": "вулиця Клочківська, 236"
+  "FullNameUA": "вулиця Клочківська, 236",
+  "ChildsIds": []
+ },
+ {
+  "id": 116827,
+  "postcode": 61045,
+  "number": 236,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2046673162,
+  "lati": 50.0306515043,
+  "FullNameUA": "вулиця Клочківська, 236-А",
+  "ChildsIds": []
  },
  {
   "id": 116828,
@@ -3347,32 +3560,8 @@
   "reg_date": "",
   "longt": 36.2090907937,
   "lati": 50.0241104861,
-  "FullNameUA": "вулиця Клочківська, 237"
- },
- {
-  "id": 116830,
-  "postcode": 61045,
-  "number": 238,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2046234823,
-  "lati": 50.0310158993,
-  "FullNameUA": "вулиця Клочківська, 238-А"
+  "FullNameUA": "вулиця Клочківська, 237",
+  "ChildsIds": []
  },
  {
   "id": 116829,
@@ -3397,7 +3586,34 @@
   "reg_date": "",
   "longt": 36.2040827302,
   "lati": 50.0304832143,
-  "FullNameUA": "вулиця Клочківська, 238"
+  "FullNameUA": "вулиця Клочківська, 238",
+  "ChildsIds": []
+ },
+ {
+  "id": 116830,
+  "postcode": 61045,
+  "number": 238,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2046234823,
+  "lati": 50.0310158993,
+  "FullNameUA": "вулиця Клочківська, 238-А",
+  "ChildsIds": []
  },
  {
   "id": 116831,
@@ -3422,7 +3638,8 @@
   "reg_date": "",
   "longt": 36.2034670846,
   "lati": 50.0307785578,
-  "FullNameUA": "вулиця Клочківська, 240"
+  "FullNameUA": "вулиця Клочківська, 240",
+  "ChildsIds": []
  },
  {
   "id": 116832,
@@ -3447,7 +3664,34 @@
   "reg_date": "",
   "longt": 36.2030606267,
   "lati": 50.0309813702,
-  "FullNameUA": "вулиця Клочківська, 242"
+  "FullNameUA": "вулиця Клочківська, 242",
+  "ChildsIds": []
+ },
+ {
+  "id": 181783,
+  "postcode": 61045,
+  "number": 244,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2044499886,
+  "lati": 50.0321350378,
+  "FullNameUA": "вулиця Клочківська, 244-Б",
+  "ChildsIds": []
  },
  {
   "id": 116833,
@@ -3472,32 +3716,8 @@
   "reg_date": "",
   "longt": 36.2030918632,
   "lati": 50.0316125091,
-  "FullNameUA": "вулиця Клочківська, 244"
- },
- {
-  "id": 181783,
-  "postcode": 61045,
-  "number": 244,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.204449988600004,
-  "lati": 50.0321350378,
-  "FullNameUA": "вулиця Клочківська, 244-Б"
+  "FullNameUA": "вулиця Клочківська, 244",
+  "ChildsIds": []
  },
  {
   "id": 178534,
@@ -3521,8 +3741,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.207745697,
-  "lati": 50.025789015600004,
-  "FullNameUA": "вулиця Клочківська, 257-А"
+  "lati": 50.0257890156,
+  "FullNameUA": "вулиця Клочківська, 257-А",
+  "ChildsIds": []
  },
  {
   "id": 116834,
@@ -3547,57 +3768,8 @@
   "reg_date": "",
   "longt": 36.1993517822,
   "lati": 50.0365216596,
-  "FullNameUA": "вулиця Клочківська, 258"
- },
- {
-  "id": 116836,
-  "postcode": 61045,
-  "number": 259,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2032485061,
-  "lati": 50.0278156043,
-  "FullNameUA": "вулиця Клочківська, 259-А"
- },
- {
-  "id": 116835,
-  "postcode": 61045,
-  "number": 259,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2069841463,
-  "lati": 50.0268083977,
-  "FullNameUA": "вулиця Клочківська, 259"
+  "FullNameUA": "вулиця Клочківська, 258",
+  "ChildsIds": []
  },
  {
   "id": 116837,
@@ -3622,13 +3794,14 @@
   "reg_date": "",
   "longt": 36.2053366683,
   "lati": 50.0280821475,
-  "FullNameUA": "вулиця Клочківська, 259-Б"
+  "FullNameUA": "вулиця Клочківська, 259-Б",
+  "ChildsIds": []
  },
  {
-  "id": 116839,
+  "id": 116835,
   "postcode": 61045,
-  "number": 260,
-  "suffix": "В",
+  "number": 259,
+  "suffix": "",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -3643,11 +3816,38 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.199502646199996,
-  "lati": 50.0370481618,
-  "FullNameUA": "вулиця Клочківська, 260-В"
+  "longt": 36.2069841463,
+  "lati": 50.0268083977,
+  "FullNameUA": "вулиця Клочківська, 259",
+  "ChildsIds": []
+ },
+ {
+  "id": 116836,
+  "postcode": 61045,
+  "number": 259,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2032485061,
+  "lati": 50.0278156043,
+  "FullNameUA": "вулиця Клочківська, 259-А",
+  "ChildsIds": []
  },
  {
   "id": 116838,
@@ -3672,7 +3872,60 @@
   "reg_date": "",
   "longt": 36.1989566001,
   "lati": 50.0369684842,
-  "FullNameUA": "вулиця Клочківська, 260"
+  "FullNameUA": "вулиця Клочківська, 260",
+  "ChildsIds": []
+ },
+ {
+  "id": 116839,
+  "postcode": 61045,
+  "number": 260,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1995026462,
+  "lati": 50.0370481618,
+  "FullNameUA": "вулиця Клочківська, 260-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 116841,
+  "postcode": 61045,
+  "number": 261,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2053286339,
+  "lati": 50.0286587142,
+  "FullNameUA": "вулиця Клочківська, 261-А",
+  "ChildsIds": []
  },
  {
   "id": 116840,
@@ -3697,32 +3950,8 @@
   "reg_date": "",
   "longt": 36.2048006058,
   "lati": 50.0291715748,
-  "FullNameUA": "вулиця Клочківська, 261"
- },
- {
-  "id": 116841,
-  "postcode": 61045,
-  "number": 261,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2053286339,
-  "lati": 50.028658714200006,
-  "FullNameUA": "вулиця Клочківська, 261-А"
+  "FullNameUA": "вулиця Клочківська, 261",
+  "ChildsIds": []
  },
  {
   "id": 116842,
@@ -3747,7 +3976,8 @@
   "reg_date": "",
   "longt": 36.1990679584,
   "lati": 50.033299213,
-  "FullNameUA": "вулиця Клочківська, 264"
+  "FullNameUA": "вулиця Клочківська, 264",
+  "ChildsIds": []
  },
  {
   "id": 116843,
@@ -3772,7 +4002,8 @@
   "reg_date": "",
   "longt": 36.1988743797,
   "lati": 50.0334784412,
-  "FullNameUA": "вулиця Клочківська, 266"
+  "FullNameUA": "вулиця Клочківська, 266",
+  "ChildsIds": []
  },
  {
   "id": 116844,
@@ -3797,7 +4028,8 @@
   "reg_date": "",
   "longt": 36.1987313132,
   "lati": 50.0337429479,
-  "FullNameUA": "вулиця Клочківська, 268"
+  "FullNameUA": "вулиця Клочківська, 268",
+  "ChildsIds": []
  },
  {
   "id": 116845,
@@ -3822,7 +4054,8 @@
   "reg_date": "",
   "longt": 36.1985164461,
   "lati": 50.0339030476,
-  "FullNameUA": "вулиця Клочківська, 270"
+  "FullNameUA": "вулиця Клочківська, 270",
+  "ChildsIds": []
  },
  {
   "id": 116846,
@@ -3847,7 +4080,8 @@
   "reg_date": "",
   "longt": 36.1982034661,
   "lati": 50.0382013579,
-  "FullNameUA": "вулиця Клочківська, 274"
+  "FullNameUA": "вулиця Клочківська, 274",
+  "ChildsIds": []
  },
  {
   "id": 116847,
@@ -3872,7 +4106,34 @@
   "reg_date": "",
   "longt": 36.2022839496,
   "lati": 50.0302605857,
-  "FullNameUA": "вулиця Клочківська, 275"
+  "FullNameUA": "вулиця Клочківська, 275",
+  "ChildsIds": []
+ },
+ {
+  "id": 116849,
+  "postcode": 61051,
+  "number": 276,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2007963421,
+  "lati": 50.0380453848,
+  "FullNameUA": "вулиця Клочківська, 276-А",
+  "ChildsIds": []
  },
  {
   "id": 116852,
@@ -3896,8 +4157,9 @@
   "confrm": "Рішення ВК ХМР № 806, 11.12.2013",
   "reg_date": "17.05.2018 11:44:54",
   "longt": 36.1980880901,
-  "lati": 50.039079364100004,
-  "FullNameUA": "вулиця Клочківська, 276-Ж"
+  "lati": 50.0390793641,
+  "FullNameUA": "вулиця Клочківська, 276-Ж",
+  "ChildsIds": []
  },
  {
   "id": 116851,
@@ -3922,82 +4184,8 @@
   "reg_date": "09.01.2020 10:50:46",
   "longt": 36.1982959328,
   "lati": 50.0391173046,
-  "FullNameUA": "вулиця Клочківська, 276-Г"
- },
- {
-  "id": 116849,
-  "postcode": 61051,
-  "number": 276,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.200796342100006,
-  "lati": 50.0380453848,
-  "FullNameUA": "вулиця Клочківська, 276-А"
- },
- {
-  "id": 116848,
-  "postcode": 61051,
-  "number": 276,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1998864187,
-  "lati": 50.038930711300004,
-  "FullNameUA": "вулиця Клочківська, 276"
- },
- {
-  "id": 181786,
-  "postcode": 61051,
-  "number": 276,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1984454378,
-  "lati": 50.0385944761,
-  "FullNameUA": "вулиця Клочківська, 276-В"
+  "FullNameUA": "вулиця Клочківська, 276-Г",
+  "ChildsIds": []
  },
  {
   "id": 116850,
@@ -4022,7 +4210,60 @@
   "reg_date": "",
   "longt": 36.1979101377,
   "lati": 50.0387956586,
-  "FullNameUA": "вулиця Клочківська, 276-Б"
+  "FullNameUA": "вулиця Клочківська, 276-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 116848,
+  "postcode": 61051,
+  "number": 276,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1998864187,
+  "lati": 50.0389307113,
+  "FullNameUA": "вулиця Клочківська, 276",
+  "ChildsIds": []
+ },
+ {
+  "id": 181786,
+  "postcode": 61051,
+  "number": 276,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1984454378,
+  "lati": 50.0385944761,
+  "FullNameUA": "вулиця Клочківська, 276-В",
+  "ChildsIds": []
  },
  {
   "id": 116853,
@@ -4045,9 +4286,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197511214399995,
+  "longt": 36.1975112144,
   "lati": 50.0394942383,
-  "FullNameUA": "вулиця Клочківська, 280"
+  "FullNameUA": "вулиця Клочківська, 280",
+  "ChildsIds": []
  },
  {
   "id": 116854,
@@ -4072,32 +4314,8 @@
   "reg_date": "",
   "longt": 36.1974086659,
   "lati": 50.0396524725,
-  "FullNameUA": "вулиця Клочківська, 282"
- },
- {
-  "id": 116857,
-  "postcode": 61045,
-  "number": 283,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 191/65, 30.12.2005",
-  "reg_date": "",
-  "longt": 36.201074108,
-  "lati": 50.0314236836,
-  "FullNameUA": "вулиця Клочківська, 283-Б"
+  "FullNameUA": "вулиця Клочківська, 282",
+  "ChildsIds": []
  },
  {
   "id": 116855,
@@ -4122,7 +4340,34 @@
   "reg_date": "",
   "longt": 36.2012839387,
   "lati": 50.0312314024,
-  "FullNameUA": "вулиця Клочківська, 283"
+  "FullNameUA": "вулиця Клочківська, 283",
+  "ChildsIds": []
+ },
+ {
+  "id": 116857,
+  "postcode": 61045,
+  "number": 283,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 191/65, 30.12.2005",
+  "reg_date": "",
+  "longt": 36.201074108,
+  "lati": 50.0314236836,
+  "FullNameUA": "вулиця Клочківська, 283-Б",
+  "ChildsIds": []
  },
  {
   "id": 116856,
@@ -4145,9 +4390,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Дзержинської райради № 161/16, 24.09.2003",
   "reg_date": "",
-  "longt": 36.201022615300005,
+  "longt": 36.2010226153,
   "lati": 50.0310998381,
-  "FullNameUA": "вулиця Клочківська, 283-А"
+  "FullNameUA": "вулиця Клочківська, 283-А",
+  "ChildsIds": []
  },
  {
   "id": 116858,
@@ -4172,7 +4418,8 @@
   "reg_date": "",
   "longt": 36.1973460279,
   "lati": 50.0398548642,
-  "FullNameUA": "вулиця Клочківська, 284"
+  "FullNameUA": "вулиця Клочківська, 284",
+  "ChildsIds": []
  },
  {
   "id": 116859,
@@ -4197,7 +4444,8 @@
   "reg_date": "",
   "longt": 36.1977274064,
   "lati": 50.039948152,
-  "FullNameUA": "вулиця Клочківська, 286"
+  "FullNameUA": "вулиця Клочківська, 286",
+  "ChildsIds": []
  },
  {
   "id": 116860,
@@ -4220,9 +4468,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197803088099995,
+  "longt": 36.1978030881,
   "lati": 50.0400839718,
-  "FullNameUA": "вулиця Клочківська, 288"
+  "FullNameUA": "вулиця Клочківська, 288",
+  "ChildsIds": []
  },
  {
   "id": 116861,
@@ -4247,7 +4496,8 @@
   "reg_date": "",
   "longt": 36.1976866965,
   "lati": 50.0402762099,
-  "FullNameUA": "вулиця Клочківська, 290"
+  "FullNameUA": "вулиця Клочківська, 290",
+  "ChildsIds": []
  },
  {
   "id": 116862,
@@ -4272,7 +4522,8 @@
   "reg_date": "",
   "longt": 36.1976069037,
   "lati": 50.0404228603,
-  "FullNameUA": "вулиця Клочківська, 292"
+  "FullNameUA": "вулиця Клочківська, 292",
+  "ChildsIds": []
  },
  {
   "id": 116863,
@@ -4297,7 +4548,8 @@
   "reg_date": "",
   "longt": 36.1993781132,
   "lati": 50.0323098493,
-  "FullNameUA": "вулиця Клочківська, 293"
+  "FullNameUA": "вулиця Клочківська, 293",
+  "ChildsIds": []
  },
  {
   "id": 116864,
@@ -4320,9 +4572,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197538336899996,
+  "longt": 36.1975383369,
   "lati": 50.040571845,
-  "FullNameUA": "вулиця Клочківська, 294"
+  "FullNameUA": "вулиця Клочківська, 294",
+  "ChildsIds": []
+ },
+ {
+  "id": 116865,
+  "postcode": 61045,
+  "number": 295,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1979637848,
+  "lati": 50.0321606585,
+  "FullNameUA": "вулиця Клочківська, 295",
+  "ChildsIds": []
  },
  {
   "id": 116866,
@@ -4347,32 +4626,8 @@
   "reg_date": "27.02.2019 15:13:54",
   "longt": 36.1997867613,
   "lati": 50.0334372662,
-  "FullNameUA": "вулиця Клочківська, 295-А"
- },
- {
-  "id": 116865,
-  "postcode": 61045,
-  "number": 295,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.197963784799995,
-  "lati": 50.032160658500004,
-  "FullNameUA": "вулиця Клочківська, 295"
+  "FullNameUA": "вулиця Клочківська, 295-А",
+  "ChildsIds": []
  },
  {
   "id": 116867,
@@ -4397,7 +4652,8 @@
   "reg_date": "",
   "longt": 36.1974766081,
   "lati": 50.0406957241,
-  "FullNameUA": "вулиця Клочківська, 296"
+  "FullNameUA": "вулиця Клочківська, 296",
+  "ChildsIds": []
  },
  {
   "id": 178715,
@@ -4422,7 +4678,8 @@
   "reg_date": "",
   "longt": 36.1970672775,
   "lati": 50.0404419052,
-  "FullNameUA": "вулиця Клочківська, 298-В"
+  "FullNameUA": "вулиця Клочківська, 298-В",
+  "ChildsIds": []
  },
  {
   "id": 116868,
@@ -4447,7 +4704,8 @@
   "reg_date": "",
   "longt": 36.1968933183,
   "lati": 50.0406624294,
-  "FullNameUA": "вулиця Клочківська, 298"
+  "FullNameUA": "вулиця Клочківська, 298",
+  "ChildsIds": []
  },
  {
   "id": 116869,
@@ -4470,9 +4728,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196836366899994,
-  "lati": 50.040829267199996,
-  "FullNameUA": "вулиця Клочківська, 300"
+  "longt": 36.1968363669,
+  "lati": 50.0408292672,
+  "FullNameUA": "вулиця Клочківська, 300",
+  "ChildsIds": []
  },
  {
   "id": 116870,
@@ -4497,7 +4756,8 @@
   "reg_date": "",
   "longt": 36.197560038,
   "lati": 50.0328658349,
-  "FullNameUA": "вулиця Клочківська, 301"
+  "FullNameUA": "вулиця Клочківська, 301",
+  "ChildsIds": []
  },
  {
   "id": 116871,
@@ -4522,7 +4782,8 @@
   "reg_date": "",
   "longt": 36.1967955536,
   "lati": 50.041008633,
-  "FullNameUA": "вулиця Клочківська, 302"
+  "FullNameUA": "вулиця Клочківська, 302",
+  "ChildsIds": []
  },
  {
   "id": 116872,
@@ -4547,7 +4808,8 @@
   "reg_date": "",
   "longt": 36.1981019869,
   "lati": 50.0331299695,
-  "FullNameUA": "вулиця Клочківська, 303"
+  "FullNameUA": "вулиця Клочківська, 303",
+  "ChildsIds": []
  },
  {
   "id": 116873,
@@ -4570,9 +4832,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196671157299996,
-  "lati": 50.041298797799996,
-  "FullNameUA": "вулиця Клочківська, 304"
+  "longt": 36.1966711573,
+  "lati": 50.0412987978,
+  "FullNameUA": "вулиця Клочківська, 304",
+  "ChildsIds": []
  },
  {
   "id": 116874,
@@ -4595,9 +4858,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198038101099996,
+  "longt": 36.1980381011,
   "lati": 50.0332779003,
-  "FullNameUA": "вулиця Клочківська, 305"
+  "FullNameUA": "вулиця Клочківська, 305",
+  "ChildsIds": []
  },
  {
   "id": 116875,
@@ -4622,7 +4886,8 @@
   "reg_date": "",
   "longt": 36.1967129173,
   "lati": 50.0415427621,
-  "FullNameUA": "вулиця Клочківська, 306"
+  "FullNameUA": "вулиця Клочківська, 306",
+  "ChildsIds": []
  },
  {
   "id": 116876,
@@ -4646,8 +4911,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1979229798,
-  "lati": 50.033425743900004,
-  "FullNameUA": "вулиця Клочківська, 307"
+  "lati": 50.0334257439,
+  "FullNameUA": "вулиця Клочківська, 307",
+  "ChildsIds": []
  },
  {
   "id": 116877,
@@ -4672,32 +4938,8 @@
   "reg_date": "",
   "longt": 36.196530234,
   "lati": 50.0416154495,
-  "FullNameUA": "вулиця Клочківська, 308"
- },
- {
-  "id": 116878,
-  "postcode": 61045,
-  "number": 309,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1971642364,
-  "lati": 50.0339738686,
-  "FullNameUA": "вулиця Клочківська, 309"
+  "FullNameUA": "вулиця Клочківська, 308",
+  "ChildsIds": []
  },
  {
   "id": 116879,
@@ -4722,7 +4964,34 @@
   "reg_date": "27.02.2019 16:09:06",
   "longt": 36.1919597148,
   "lati": 50.0340132615,
-  "FullNameUA": "вулиця Клочківська, 309-Б"
+  "FullNameUA": "вулиця Клочківська, 309-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 116878,
+  "postcode": 61045,
+  "number": 309,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1971642364,
+  "lati": 50.0339738686,
+  "FullNameUA": "вулиця Клочківська, 309",
+  "ChildsIds": []
  },
  {
   "id": 116880,
@@ -4747,7 +5016,8 @@
   "reg_date": "",
   "longt": 36.1965108319,
   "lati": 50.0417527112,
-  "FullNameUA": "вулиця Клочківська, 310"
+  "FullNameUA": "вулиця Клочківська, 310",
+  "ChildsIds": []
  },
  {
   "id": 116881,
@@ -4772,7 +5042,8 @@
   "reg_date": "",
   "longt": 36.196301768,
   "lati": 50.0352158672,
-  "FullNameUA": "вулиця Клочківська, 311"
+  "FullNameUA": "вулиця Клочківська, 311",
+  "ChildsIds": []
  },
  {
   "id": 116882,
@@ -4795,9 +5066,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196938951099995,
+  "longt": 36.1969389511,
   "lati": 50.0418339723,
-  "FullNameUA": "вулиця Клочківська, 312"
+  "FullNameUA": "вулиця Клочківська, 312",
+  "ChildsIds": []
  },
  {
   "id": 116883,
@@ -4820,9 +5092,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196443920099995,
+  "longt": 36.1964439201,
   "lati": 50.0354971677,
-  "FullNameUA": "вулиця Клочківська, 313"
+  "FullNameUA": "вулиця Клочківська, 313",
+  "ChildsIds": []
  },
  {
   "id": 116884,
@@ -4846,33 +5119,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1970322053,
-  "lati": 50.041994761699996,
-  "FullNameUA": "вулиця Клочківська, 314"
- },
- {
-  "id": 116885,
-  "postcode": 61045,
-  "number": 315,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.196497029499994,
-  "lati": 50.035834276500005,
-  "FullNameUA": "вулиця Клочківська, 315"
+  "lati": 50.0419947617,
+  "FullNameUA": "вулиця Клочківська, 314",
+  "ChildsIds": []
  },
  {
   "id": 116886,
@@ -4895,9 +5144,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196328680499995,
-  "lati": 50.035626230700004,
-  "FullNameUA": "вулиця Клочківська, 315-А"
+  "longt": 36.1963286805,
+  "lati": 50.0356262307,
+  "FullNameUA": "вулиця Клочківська, 315-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116885,
+  "postcode": 61045,
+  "number": 315,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1964970295,
+  "lati": 50.0358342765,
+  "FullNameUA": "вулиця Клочківська, 315",
+  "ChildsIds": []
  },
  {
   "id": 116887,
@@ -4920,34 +5196,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196875057599996,
+  "longt": 36.1968750576,
   "lati": 50.0421278646,
-  "FullNameUA": "вулиця Клочківська, 316"
- },
- {
-  "id": 116888,
-  "postcode": 61045,
-  "number": 317,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.197924346899995,
-  "lati": 50.0363962743,
-  "FullNameUA": "вулиця Клочківська, 317-А"
+  "FullNameUA": "вулиця Клочківська, 316",
+  "ChildsIds": []
  },
  {
   "id": 176755,
@@ -4972,13 +5224,14 @@
   "reg_date": "",
   "longt": 36.1970134799,
   "lati": 50.0362975006,
-  "FullNameUA": "вулиця Клочківська, 317"
+  "FullNameUA": "вулиця Клочківська, 317",
+  "ChildsIds": []
  },
  {
-  "id": 176754,
+  "id": 116888,
   "postcode": 61045,
   "number": 317,
-  "suffix": "Б",
+  "suffix": "А",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -4993,11 +5246,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1965479593,
-  "lati": 50.0362507164,
-  "FullNameUA": "вулиця Клочківська, 317-Б"
+  "longt": 36.1979243469,
+  "lati": 50.0363962743,
+  "FullNameUA": "вулиця Клочківська, 317-А",
+  "ChildsIds": []
  },
  {
   "id": 180129,
@@ -5022,7 +5276,34 @@
   "reg_date": "22.12.2018 11:55:24",
   "longt": 36.197982186,
   "lati": 50.0357859152,
-  "FullNameUA": "вулиця Клочківська, 317-В"
+  "FullNameUA": "вулиця Клочківська, 317-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 176754,
+  "postcode": 61045,
+  "number": 317,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1965479593,
+  "lati": 50.0362507164,
+  "FullNameUA": "вулиця Клочківська, 317-Б",
+  "ChildsIds": []
  },
  {
   "id": 116889,
@@ -5047,7 +5328,112 @@
   "reg_date": "",
   "longt": 36.1968228712,
   "lati": 50.0422539424,
-  "FullNameUA": "вулиця Клочківська, 318"
+  "FullNameUA": "вулиця Клочківська, 318",
+  "ChildsIds": []
+ },
+ {
+  "id": 176756,
+  "postcode": 61045,
+  "number": 319,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1949830602,
+  "lati": 50.0374022564,
+  "FullNameUA": "вулиця Клочківська, 319-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 176757,
+  "postcode": 61045,
+  "number": 319,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1951802963,
+  "lati": 50.0371685568,
+  "FullNameUA": "вулиця Клочківська, 319-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 116890,
+  "postcode": 61045,
+  "number": 319,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.196335699,
+  "lati": 50.0375254158,
+  "FullNameUA": "вулиця Клочківська, 319",
+  "ChildsIds": []
+ },
+ {
+  "id": 176759,
+  "postcode": 61045,
+  "number": 319,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1956352647,
+  "lati": 50.0367349988,
+  "FullNameUA": "вулиця Клочківська, 319-Г",
+  "ChildsIds": []
  },
  {
   "id": 176758,
@@ -5072,107 +5458,8 @@
   "reg_date": "",
   "longt": 36.1954960518,
   "lati": 50.0369013308,
-  "FullNameUA": "вулиця Клочківська, 319-В"
- },
- {
-  "id": 176756,
-  "postcode": 61045,
-  "number": 319,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.194983060199995,
-  "lati": 50.0374022564,
-  "FullNameUA": "вулиця Клочківська, 319-А"
- },
- {
-  "id": 176757,
-  "postcode": 61045,
-  "number": 319,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.195180296299995,
-  "lati": 50.037168556800005,
-  "FullNameUA": "вулиця Клочківська, 319-Б"
- },
- {
-  "id": 176759,
-  "postcode": 61045,
-  "number": 319,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.195635264699995,
-  "lati": 50.0367349988,
-  "FullNameUA": "вулиця Клочківська, 319-Г"
- },
- {
-  "id": 116890,
-  "postcode": 61045,
-  "number": 319,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.196335698999995,
-  "lati": 50.037525415800005,
-  "FullNameUA": "вулиця Клочківська, 319"
+  "FullNameUA": "вулиця Клочківська, 319-В",
+  "ChildsIds": []
  },
  {
   "id": 116891,
@@ -5195,9 +5482,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196871495299995,
+  "longt": 36.1968714953,
   "lati": 50.0424945631,
-  "FullNameUA": "вулиця Клочківська, 320"
+  "FullNameUA": "вулиця Клочківська, 320",
+  "ChildsIds": []
  },
  {
   "id": 116892,
@@ -5222,7 +5510,8 @@
   "reg_date": "",
   "longt": 36.1967587094,
   "lati": 50.0426757432,
-  "FullNameUA": "вулиця Клочківська, 320-А"
+  "FullNameUA": "вулиця Клочківська, 320-А",
+  "ChildsIds": []
  },
  {
   "id": 116893,
@@ -5247,7 +5536,8 @@
   "reg_date": "",
   "longt": 36.1966248106,
   "lati": 50.0383763693,
-  "FullNameUA": "вулиця Клочківська, 321"
+  "FullNameUA": "вулиця Клочківська, 321",
+  "ChildsIds": []
  },
  {
   "id": 116894,
@@ -5272,7 +5562,8 @@
   "reg_date": "",
   "longt": 36.1964760629,
   "lati": 50.0424703225,
-  "FullNameUA": "вулиця Клочківська, 322"
+  "FullNameUA": "вулиця Клочківська, 322",
+  "ChildsIds": []
  },
  {
   "id": 116895,
@@ -5297,7 +5588,8 @@
   "reg_date": "",
   "longt": 36.1962815092,
   "lati": 50.0385562597,
-  "FullNameUA": "вулиця Клочківська, 323"
+  "FullNameUA": "вулиця Клочківська, 323",
+  "ChildsIds": []
  },
  {
   "id": 116896,
@@ -5322,7 +5614,8 @@
   "reg_date": "",
   "longt": 36.1961812482,
   "lati": 50.0424231723,
-  "FullNameUA": "вулиця Клочківська, 324"
+  "FullNameUA": "вулиця Клочківська, 324",
+  "ChildsIds": []
  },
  {
   "id": 116897,
@@ -5345,9 +5638,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196444505799995,
+  "longt": 36.1964445058,
   "lati": 50.0388237874,
-  "FullNameUA": "вулиця Клочківська, 325"
+  "FullNameUA": "вулиця Клочківська, 325",
+  "ChildsIds": []
  },
  {
   "id": 116898,
@@ -5372,32 +5666,8 @@
   "reg_date": "",
   "longt": 36.1960532157,
   "lati": 50.04267634,
-  "FullNameUA": "вулиця Клочківська, 326"
- },
- {
-  "id": 116899,
-  "postcode": 61051,
-  "number": 327,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.196298951799996,
-  "lati": 50.039234495100004,
-  "FullNameUA": "вулиця Клочківська, 327"
+  "FullNameUA": "вулиця Клочківська, 326",
+  "ChildsIds": []
  },
  {
   "id": 116900,
@@ -5420,9 +5690,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195714731399995,
+  "longt": 36.1957147314,
   "lati": 50.0391381339,
-  "FullNameUA": "вулиця Клочківська, 327-А"
+  "FullNameUA": "вулиця Клочківська, 327-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116899,
+  "postcode": 61051,
+  "number": 327,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1962989518,
+  "lati": 50.0392344951,
+  "FullNameUA": "вулиця Клочківська, 327",
+  "ChildsIds": []
  },
  {
   "id": 116901,
@@ -5447,32 +5744,8 @@
   "reg_date": "",
   "longt": 36.1958867337,
   "lati": 50.0429065676,
-  "FullNameUA": "вулиця Клочківська, 328"
- },
- {
-  "id": 116902,
-  "postcode": 61051,
-  "number": 329,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.196122053299995,
-  "lati": 50.0396370324,
-  "FullNameUA": "вулиця Клочківська, 329"
+  "FullNameUA": "вулиця Клочківська, 328",
+  "ChildsIds": []
  },
  {
   "id": 116903,
@@ -5497,12 +5770,13 @@
   "reg_date": "",
   "longt": 36.1957810905,
   "lati": 50.0398184856,
-  "FullNameUA": "вулиця Клочківська, 329-А"
+  "FullNameUA": "вулиця Клочківська, 329-А",
+  "ChildsIds": []
  },
  {
-  "id": 116904,
+  "id": 116902,
   "postcode": 61051,
-  "number": 330,
+  "number": 329,
   "suffix": "",
   "block": "",
   "streetid": 2893,
@@ -5520,9 +5794,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1960860645,
-  "lati": 50.043374182,
-  "FullNameUA": "вулиця Клочківська, 330"
+  "longt": 36.1961220533,
+  "lati": 50.0396370324,
+  "FullNameUA": "вулиця Клочківська, 329",
+  "ChildsIds": []
  },
  {
   "id": 116905,
@@ -5547,13 +5822,14 @@
   "reg_date": "13.03.2019 09:37:40",
   "longt": 36.196623167,
   "lati": 50.0435372475,
-  "FullNameUA": "вулиця Клочківська, 330-Б"
+  "FullNameUA": "вулиця Клочківська, 330-Б",
+  "ChildsIds": []
  },
  {
-  "id": 116907,
+  "id": 116904,
   "postcode": 61051,
-  "number": 331,
-  "suffix": "А",
+  "number": 330,
+  "suffix": "",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -5570,9 +5846,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1958225754,
-  "lati": 50.0404411446,
-  "FullNameUA": "вулиця Клочківська, 331-А"
+  "longt": 36.1960860645,
+  "lati": 50.043374182,
+  "FullNameUA": "вулиця Клочківська, 330",
+  "ChildsIds": []
  },
  {
   "id": 116906,
@@ -5597,7 +5874,34 @@
   "reg_date": "",
   "longt": 36.1959477153,
   "lati": 50.0400874213,
-  "FullNameUA": "вулиця Клочківська, 331"
+  "FullNameUA": "вулиця Клочківська, 331",
+  "ChildsIds": []
+ },
+ {
+  "id": 116907,
+  "postcode": 61051,
+  "number": 331,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1958225754,
+  "lati": 50.0404411446,
+  "FullNameUA": "вулиця Клочківська, 331-А",
+  "ChildsIds": []
  },
  {
   "id": 116908,
@@ -5622,32 +5926,8 @@
   "reg_date": "",
   "longt": 36.1955651639,
   "lati": 50.0437776477,
-  "FullNameUA": "вулиця Клочківська, 332"
- },
- {
-  "id": 116909,
-  "postcode": 61051,
-  "number": 332,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.195941623699994,
-  "lati": 50.0440377424,
-  "FullNameUA": "вулиця Клочківська, 332/1"
+  "FullNameUA": "вулиця Клочківська, 332",
+  "ChildsIds": []
  },
  {
   "id": 116910,
@@ -5670,9 +5950,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196193975599996,
+  "longt": 36.1961939756,
   "lati": 50.0443956974,
-  "FullNameUA": "вулиця Клочківська, 332-А"
+  "FullNameUA": "вулиця Клочківська, 332-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116909,
+  "postcode": 61051,
+  "number": 332,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1959416237,
+  "lati": 50.0440377424,
+  "FullNameUA": "вулиця Клочківська, 332/1",
+  "ChildsIds": []
  },
  {
   "id": 116911,
@@ -5697,7 +6004,8 @@
   "reg_date": "",
   "longt": 36.1946805344,
   "lati": 50.0402653462,
-  "FullNameUA": "вулиця Клочківська, 333"
+  "FullNameUA": "вулиця Клочківська, 333",
+  "ChildsIds": []
  },
  {
   "id": 116912,
@@ -5722,7 +6030,8 @@
   "reg_date": "",
   "longt": 36.1951626109,
   "lati": 50.0440206894,
-  "FullNameUA": "вулиця Клочківська, 334"
+  "FullNameUA": "вулиця Клочківська, 334",
+  "ChildsIds": []
  },
  {
   "id": 116913,
@@ -5747,7 +6056,8 @@
   "reg_date": "",
   "longt": 36.194400795,
   "lati": 50.0432956629,
-  "FullNameUA": "вулиця Клочківська, 335"
+  "FullNameUA": "вулиця Клочківська, 335",
+  "ChildsIds": []
  },
  {
   "id": 116914,
@@ -5770,9 +6080,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194681452299996,
+  "longt": 36.1946814523,
   "lati": 50.0442458864,
-  "FullNameUA": "вулиця Клочківська, 336"
+  "FullNameUA": "вулиця Клочківська, 336",
+  "ChildsIds": []
  },
  {
   "id": 116915,
@@ -5795,34 +6106,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195261504899996,
+  "longt": 36.1952615049,
   "lati": 50.0445479704,
-  "FullNameUA": "вулиця Клочківська, 336-А"
- },
- {
-  "id": 116916,
-  "postcode": 61051,
-  "number": 337,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1893933266,
-  "lati": 50.0475581066,
-  "FullNameUA": "вулиця Клочківська, 337"
+  "FullNameUA": "вулиця Клочківська, 336-А",
+  "ChildsIds": []
  },
  {
   "id": 116917,
@@ -5847,7 +6134,34 @@
   "reg_date": "",
   "longt": 36.187040344,
   "lati": 50.0482118466,
-  "FullNameUA": "вулиця Клочківська, 337-А"
+  "FullNameUA": "вулиця Клочківська, 337-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116916,
+  "postcode": 61051,
+  "number": 337,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1893933266,
+  "lati": 50.0475581066,
+  "FullNameUA": "вулиця Клочківська, 337",
+  "ChildsIds": []
  },
  {
   "id": 116919,
@@ -5871,8 +6185,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1952065372,
-  "lati": 50.045114853499996,
-  "FullNameUA": "вулиця Клочківська, 338-А"
+  "lati": 50.0451148535,
+  "FullNameUA": "вулиця Клочківська, 338-А",
+  "ChildsIds": []
  },
  {
   "id": 116918,
@@ -5897,7 +6212,8 @@
   "reg_date": "",
   "longt": 36.1944833557,
   "lati": 50.0446015159,
-  "FullNameUA": "вулиця Клочківська, 338"
+  "FullNameUA": "вулиця Клочківська, 338",
+  "ChildsIds": []
  },
  {
   "id": 116920,
@@ -5922,7 +6238,8 @@
   "reg_date": "",
   "longt": 36.1851288891,
   "lati": 50.0502262707,
-  "FullNameUA": "вулиця Клочківська, 339"
+  "FullNameUA": "вулиця Клочківська, 339",
+  "ChildsIds": []
  },
  {
   "id": 116921,
@@ -5947,82 +6264,8 @@
   "reg_date": "",
   "longt": 36.1940029207,
   "lati": 50.0448205306,
-  "FullNameUA": "вулиця Клочківська, 340"
- },
- {
-  "id": 116925,
-  "postcode": 61051,
-  "number": 341,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.180249707,
-  "lati": 50.0487025752,
-  "FullNameUA": "вулиця Клочківська, 341-Г"
- },
- {
-  "id": 116924,
-  "postcode": 61051,
-  "number": 341,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.182609329,
-  "lati": 50.04684149,
-  "FullNameUA": "вулиця Клочківська, 341-В"
- },
- {
-  "id": 116922,
-  "postcode": 61051,
-  "number": 341,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1821473158,
-  "lati": 50.0499526659,
-  "FullNameUA": "вулиця Клочківська, 341"
+  "FullNameUA": "вулиця Клочківська, 340",
+  "ChildsIds": []
  },
  {
   "id": 116923,
@@ -6047,7 +6290,86 @@
   "reg_date": "",
   "longt": 36.1800082355,
   "lati": 50.047820697,
-  "FullNameUA": "вулиця Клочківська, 341-Б"
+  "FullNameUA": "вулиця Клочківська, 341-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 116925,
+  "postcode": 61051,
+  "number": 341,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.180249707,
+  "lati": 50.0487025752,
+  "FullNameUA": "вулиця Клочківська, 341-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 116924,
+  "postcode": 61051,
+  "number": 341,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.182609329,
+  "lati": 50.04684149,
+  "FullNameUA": "вулиця Клочківська, 341-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 116922,
+  "postcode": 61051,
+  "number": 341,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1821473158,
+  "lati": 50.0499526659,
+  "FullNameUA": "вулиця Клочківська, 341",
+  "ChildsIds": []
  },
  {
   "id": 116926,
@@ -6070,9 +6392,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193803553799995,
+  "longt": 36.1938035538,
   "lati": 50.0451801854,
-  "FullNameUA": "вулиця Клочківська, 342"
+  "FullNameUA": "вулиця Клочківська, 342",
+  "ChildsIds": []
  },
  {
   "id": 116927,
@@ -6097,7 +6420,8 @@
   "reg_date": "",
   "longt": 36.1789130198,
   "lati": 50.0490325165,
-  "FullNameUA": "вулиця Клочківська, 343-А"
+  "FullNameUA": "вулиця Клочківська, 343-А",
+  "ChildsIds": []
  },
  {
   "id": 116928,
@@ -6122,32 +6446,8 @@
   "reg_date": "",
   "longt": 36.1830081668,
   "lati": 50.0518771686,
-  "FullNameUA": "вулиця Клочківська, 343-С, ділянка № 62"
- },
- {
-  "id": 116929,
-  "postcode": 61051,
-  "number": 344,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.193322550199994,
-  "lati": 50.0454032205,
-  "FullNameUA": "вулиця Клочківська, 344"
+  "FullNameUA": "вулиця Клочківська, 343-С, ділянка № 62",
+  "ChildsIds": []
  },
  {
   "id": 116930,
@@ -6172,7 +6472,34 @@
   "reg_date": "",
   "longt": 36.1940430087,
   "lati": 50.0455992384,
-  "FullNameUA": "вулиця Клочківська, 344-А"
+  "FullNameUA": "вулиця Клочківська, 344-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116929,
+  "postcode": 61051,
+  "number": 344,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1933225502,
+  "lati": 50.0454032205,
+  "FullNameUA": "вулиця Клочківська, 344",
+  "ChildsIds": []
  },
  {
   "id": 116931,
@@ -6197,7 +6524,8 @@
   "reg_date": "",
   "longt": 36.1741183213,
   "lati": 50.0498196856,
-  "FullNameUA": "вулиця Клочківська, 345"
+  "FullNameUA": "вулиця Клочківська, 345",
+  "ChildsIds": []
  },
  {
   "id": 116932,
@@ -6220,9 +6548,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192919254299994,
+  "longt": 36.1929192543,
   "lati": 50.0458051552,
-  "FullNameUA": "вулиця Клочківська, 346-А"
+  "FullNameUA": "вулиця Клочківська, 346-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116934,
+  "postcode": 61051,
+  "number": 347,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 200, 26.03.2014",
+  "reg_date": "09.01.2020 11:17:39",
+  "longt": 36.1718726849,
+  "lati": 50.0502909023,
+  "FullNameUA": "вулиця Клочківська, 347-Б",
+  "ChildsIds": []
  },
  {
   "id": 116933,
@@ -6247,32 +6602,8 @@
   "reg_date": "09.01.2020 11:04:07",
   "longt": 36.1712849909,
   "lati": 50.0493763437,
-  "FullNameUA": "вулиця Клочківська, 347-А"
- },
- {
-  "id": 116934,
-  "postcode": 61051,
-  "number": 347,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 200, 26.03.2014",
-  "reg_date": "09.01.2020 11:17:39",
-  "longt": 36.1718726849,
-  "lati": 50.050290902300006,
-  "FullNameUA": "вулиця Клочківська, 347-Б"
+  "FullNameUA": "вулиця Клочківська, 347-А",
+  "ChildsIds": []
  },
  {
   "id": 116935,
@@ -6297,57 +6628,8 @@
   "reg_date": "",
   "longt": 36.1906421336,
   "lati": 50.0477119589,
-  "FullNameUA": "вулиця Клочківська, 350"
- },
- {
-  "id": 116937,
-  "postcode": 61051,
-  "number": 352,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.191319958,
-  "lati": 50.0488733101,
-  "FullNameUA": "вулиця Клочківська, 352-А"
- },
- {
-  "id": 116936,
-  "postcode": 61051,
-  "number": 352,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1903594156,
-  "lati": 50.0483675095,
-  "FullNameUA": "вулиця Клочківська, 352"
+  "FullNameUA": "вулиця Клочківська, 350",
+  "ChildsIds": []
  },
  {
   "id": 116938,
@@ -6372,13 +6654,40 @@
   "reg_date": "18.01.2019 12:13:29",
   "longt": 36.1903184739,
   "lati": 50.0487660267,
-  "FullNameUA": "вулиця Клочківська, 352-Б"
+  "FullNameUA": "вулиця Клочківська, 352-Б",
+  "ChildsIds": []
  },
  {
-  "id": 116940,
+  "id": 116937,
   "postcode": 61051,
-  "number": 358,
+  "number": 352,
   "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.191319958,
+  "lati": 50.0488733101,
+  "FullNameUA": "вулиця Клочківська, 352-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116936,
+  "postcode": 61051,
+  "number": 352,
+  "suffix": "",
   "block": "",
   "streetid": 2893,
   "status_id": 1,
@@ -6395,9 +6704,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1888776209,
-  "lati": 50.049173941599996,
-  "FullNameUA": "вулиця Клочківська, 358-А"
+  "longt": 36.1903594156,
+  "lati": 50.0483675095,
+  "FullNameUA": "вулиця Клочківська, 352",
+  "ChildsIds": []
  },
  {
   "id": 116939,
@@ -6422,7 +6732,34 @@
   "reg_date": "",
   "longt": 36.1887213032,
   "lati": 50.0493343735,
-  "FullNameUA": "вулиця Клочківська, 358"
+  "FullNameUA": "вулиця Клочківська, 358",
+  "ChildsIds": []
+ },
+ {
+  "id": 116940,
+  "postcode": 61051,
+  "number": 358,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1888776209,
+  "lati": 50.0491739416,
+  "FullNameUA": "вулиця Клочківська, 358-А",
+  "ChildsIds": []
  },
  {
   "id": 116941,
@@ -6447,7 +6784,8 @@
   "reg_date": "",
   "longt": 36.1884258661,
   "lati": 50.0495891604,
-  "FullNameUA": "вулиця Клочківська, 360"
+  "FullNameUA": "вулиця Клочківська, 360",
+  "ChildsIds": []
  },
  {
   "id": 116942,
@@ -6472,7 +6810,8 @@
   "reg_date": "",
   "longt": 36.1881681197,
   "lati": 50.0498094561,
-  "FullNameUA": "вулиця Клочківська, 362"
+  "FullNameUA": "вулиця Клочківська, 362",
+  "ChildsIds": []
  },
  {
   "id": 116943,
@@ -6496,8 +6835,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1879819523,
-  "lati": 50.050166721800004,
-  "FullNameUA": "вулиця Клочківська, 364"
+  "lati": 50.0501667218,
+  "FullNameUA": "вулиця Клочківська, 364",
+  "ChildsIds": []
  },
  {
   "id": 116944,
@@ -6521,8 +6861,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1872063896,
-  "lati": 50.050768408900005,
-  "FullNameUA": "вулиця Клочківська, 366"
+  "lati": 50.0507684089,
+  "FullNameUA": "вулиця Клочківська, 366",
+  "ChildsIds": []
  },
  {
   "id": 116945,
@@ -6547,32 +6888,8 @@
   "reg_date": "",
   "longt": 36.1870678454,
   "lati": 50.0526826007,
-  "FullNameUA": "вулиця Клочківська, 368"
- },
- {
-  "id": 116946,
-  "postcode": 61051,
-  "number": 370,
-  "suffix": "",
-  "block": "",
-  "streetid": 2893,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1853853322,
-  "lati": 50.0532591579,
-  "FullNameUA": "вулиця Клочківська, 370"
+  "FullNameUA": "вулиця Клочківська, 368",
+  "ChildsIds": []
  },
  {
   "id": 116947,
@@ -6597,6 +6914,33 @@
   "reg_date": "",
   "longt": 36.1852908956,
   "lati": 50.0519287859,
-  "FullNameUA": "вулиця Клочківська, 370-А"
+  "FullNameUA": "вулиця Клочківська, 370-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 116946,
+  "postcode": 61051,
+  "number": 370,
+  "suffix": "",
+  "block": "",
+  "streetid": 2893,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1853853322,
+  "lati": 50.0532591579,
+  "FullNameUA": "вулиця Клочківська, 370",
+  "ChildsIds": []
  }
 ]

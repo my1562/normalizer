@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1791643453,
   "lati": 49.9796098127,
-  "FullNameUA": "вулиця Дудинської, 1-В"
+  "FullNameUA": "вулиця Дудинської, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 153079,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1787046528,
   "lati": 49.9793297132,
-  "FullNameUA": "вулиця Дудинської, 1-А"
+  "FullNameUA": "вулиця Дудинської, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 153078,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1817485114,
   "lati": 49.9772893838,
-  "FullNameUA": "вулиця Дудинської, 1"
+  "FullNameUA": "вулиця Дудинської, 1",
+  "ChildsIds": []
  },
  {
   "id": 153081,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.181907377499996,
+  "longt": 36.1819073775,
   "lati": 49.9771725627,
-  "FullNameUA": "вулиця Дудинської, 3"
+  "FullNameUA": "вулиця Дудинської, 3",
+  "ChildsIds": []
  },
  {
   "id": 153083,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.1810054332,
   "lati": 49.9770563278,
-  "FullNameUA": "вулиця Дудинської, 4/6"
+  "FullNameUA": "вулиця Дудинської, 4/6",
+  "ChildsIds": []
  },
  {
   "id": 153082,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1772445429,
-  "lati": 49.980206145800004,
-  "FullNameUA": "вулиця Дудинської, 4"
+  "lati": 49.9802061458,
+  "FullNameUA": "вулиця Дудинської, 4",
+  "ChildsIds": []
  },
  {
   "id": 153084,
@@ -172,32 +178,8 @@
   "reg_date": "",
   "longt": 36.1821177875,
   "lati": 49.9770687417,
-  "FullNameUA": "вулиця Дудинської, 5"
- },
- {
-  "id": 153085,
-  "postcode": 61098,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 3343,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.176740287600005,
-  "lati": 49.9791419322,
-  "FullNameUA": "вулиця Дудинської, 6"
+  "FullNameUA": "вулиця Дудинської, 5",
+  "ChildsIds": []
  },
  {
   "id": 153086,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.1782496937,
   "lati": 49.9788062023,
-  "FullNameUA": "вулиця Дудинської, 6-Д"
+  "FullNameUA": "вулиця Дудинської, 6-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 153085,
+  "postcode": 61098,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3343,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1767402876,
+  "lati": 49.9791419322,
+  "FullNameUA": "вулиця Дудинської, 6",
+  "ChildsIds": []
  },
  {
   "id": 153087,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.182307141,
   "lati": 49.9769792804,
-  "FullNameUA": "вулиця Дудинської, 7"
+  "FullNameUA": "вулиця Дудинської, 7",
+  "ChildsIds": []
  },
  {
   "id": 153088,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1812772858,
   "lati": 49.9767482688,
-  "FullNameUA": "вулиця Дудинської, 8"
+  "FullNameUA": "вулиця Дудинської, 8",
+  "ChildsIds": []
  },
  {
   "id": 153089,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1831199693,
-  "lati": 49.976646614799996,
-  "FullNameUA": "вулиця Дудинської, 9"
+  "lati": 49.9766466148,
+  "FullNameUA": "вулиця Дудинської, 9",
+  "ChildsIds": []
  },
  {
   "id": 153090,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.181175451899996,
+  "longt": 36.1811754519,
   "lati": 49.9763740414,
-  "FullNameUA": "вулиця Дудинської, 10"
+  "FullNameUA": "вулиця Дудинської, 10",
+  "ChildsIds": []
  },
  {
   "id": 153091,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1817448877,
   "lati": 49.9760172,
-  "FullNameUA": "вулиця Дудинської, 10-А"
+  "FullNameUA": "вулиця Дудинської, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 153092,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1838082761,
   "lati": 49.9753271684,
-  "FullNameUA": "вулиця Дудинської, 12-А"
+  "FullNameUA": "вулиця Дудинської, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 153093,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1828471368,
   "lati": 49.9759365547,
-  "FullNameUA": "вулиця Дудинської, 14"
+  "FullNameUA": "вулиця Дудинської, 14",
+  "ChildsIds": []
  },
  {
   "id": 153094,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1833510219,
   "lati": 49.9755993358,
-  "FullNameUA": "вулиця Дудинської, 16"
+  "FullNameUA": "вулиця Дудинської, 16",
+  "ChildsIds": []
  },
  {
   "id": 153095,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1779335448,
   "lati": 49.9790184191,
-  "FullNameUA": "вулиця Дудинської, 18"
+  "FullNameUA": "вулиця Дудинської, 18",
+  "ChildsIds": []
  },
  {
   "id": 153096,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.17808254,
   "lati": 49.9789131923,
-  "FullNameUA": "вулиця Дудинської, 20"
+  "FullNameUA": "вулиця Дудинської, 20",
+  "ChildsIds": []
  },
  {
   "id": 153097,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1837125037,
   "lati": 49.9760530096,
-  "FullNameUA": "вулиця Дудинської, 21"
+  "FullNameUA": "вулиця Дудинської, 21",
+  "ChildsIds": []
  },
  {
   "id": 153098,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1779076488,
   "lati": 49.9784192705,
-  "FullNameUA": "вулиця Дудинської, 22"
+  "FullNameUA": "вулиця Дудинської, 22",
+  "ChildsIds": []
  },
  {
   "id": 153099,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.1840347114,
   "lati": 49.9760626764,
-  "FullNameUA": "вулиця Дудинської, 23"
+  "FullNameUA": "вулиця Дудинської, 23",
+  "ChildsIds": []
  },
  {
   "id": 153101,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1853051906,
   "lati": 49.9743787698,
-  "FullNameUA": "вулиця Дудинської, 24/17"
+  "FullNameUA": "вулиця Дудинської, 24/17",
+  "ChildsIds": []
  },
  {
   "id": 153100,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.1783123243,
   "lati": 49.9786266498,
-  "FullNameUA": "вулиця Дудинської, 24"
+  "FullNameUA": "вулиця Дудинської, 24",
+  "ChildsIds": []
  },
  {
   "id": 153102,
@@ -622,32 +646,8 @@
   "reg_date": "",
   "longt": 36.1841957795,
   "lati": 49.9758290948,
-  "FullNameUA": "вулиця Дудинської, 25"
- },
- {
-  "id": 153103,
-  "postcode": 61064,
-  "number": 26,
-  "suffix": "",
-  "block": "",
-  "streetid": 3343,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1856096304,
-  "lati": 49.974207336199996,
-  "FullNameUA": "вулиця Дудинської, 26"
+  "FullNameUA": "вулиця Дудинської, 25",
+  "ChildsIds": []
  },
  {
   "id": 153104,
@@ -672,7 +672,34 @@
   "reg_date": "",
   "longt": 36.1855428682,
   "lati": 49.974250432,
-  "FullNameUA": "вулиця Дудинської, 26-А"
+  "FullNameUA": "вулиця Дудинської, 26-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 153103,
+  "postcode": 61064,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 3343,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1856096304,
+  "lati": 49.9742073362,
+  "FullNameUA": "вулиця Дудинської, 26",
+  "ChildsIds": []
  },
  {
   "id": 153105,
@@ -696,8 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1843269702,
-  "lati": 49.975653005299996,
-  "FullNameUA": "вулиця Дудинської, 27"
+  "lati": 49.9756530053,
+  "FullNameUA": "вулиця Дудинської, 27",
+  "ChildsIds": []
  },
  {
   "id": 153106,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.1858026401,
   "lati": 49.9740878135,
-  "FullNameUA": "вулиця Дудинської, 28"
+  "FullNameUA": "вулиця Дудинської, 28",
+  "ChildsIds": []
  },
  {
   "id": 153107,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1846601269,
   "lati": 49.9754725167,
-  "FullNameUA": "вулиця Дудинської, 29/41"
+  "FullNameUA": "вулиця Дудинської, 29/41",
+  "ChildsIds": []
  },
  {
   "id": 153108,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.1859922762,
   "lati": 49.9739367517,
-  "FullNameUA": "вулиця Дудинської, 30/20"
+  "FullNameUA": "вулиця Дудинської, 30/20",
+  "ChildsIds": []
  },
  {
   "id": 153109,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.1848707821,
   "lati": 49.9753595489,
-  "FullNameUA": "вулиця Дудинської, 31"
+  "FullNameUA": "вулиця Дудинської, 31",
+  "ChildsIds": []
  },
  {
   "id": 153110,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.1868090138,
   "lati": 49.9734650954,
-  "FullNameUA": "вулиця Дудинської, 32"
+  "FullNameUA": "вулиця Дудинської, 32",
+  "ChildsIds": []
  },
  {
   "id": 153111,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1850202987,
-  "lati": 49.975221450199996,
-  "FullNameUA": "вулиця Дудинської, 33"
+  "lati": 49.9752214502,
+  "FullNameUA": "вулиця Дудинської, 33",
+  "ChildsIds": []
  },
  {
   "id": 153112,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.1870556172,
   "lati": 49.9733074727,
-  "FullNameUA": "вулиця Дудинської, 34/20"
+  "FullNameUA": "вулиця Дудинської, 34/20",
+  "ChildsIds": []
  },
  {
   "id": 153113,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1852182774,
-  "lati": 49.975102918699996,
-  "FullNameUA": "вулиця Дудинської, 35"
+  "lati": 49.9751029187,
+  "FullNameUA": "вулиця Дудинської, 35",
+  "ChildsIds": []
  },
  {
   "id": 153114,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.1875971756,
   "lati": 49.9729524884,
-  "FullNameUA": "вулиця Дудинської, 36"
+  "FullNameUA": "вулиця Дудинської, 36",
+  "ChildsIds": []
  },
  {
   "id": 153115,
@@ -947,7 +984,34 @@
   "reg_date": "",
   "longt": 36.1854842286,
   "lati": 49.9749400034,
-  "FullNameUA": "вулиця Дудинської, 37/16"
+  "FullNameUA": "вулиця Дудинської, 37/16",
+  "ChildsIds": []
+ },
+ {
+  "id": 182000,
+  "postcode": 61064,
+  "number": 38,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3343,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1872646819,
+  "lati": 49.9727356003,
+  "FullNameUA": "вулиця Дудинської, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 153116,
@@ -972,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.1878430556,
   "lati": 49.9728072952,
-  "FullNameUA": "вулиця Дудинської, 38"
+  "FullNameUA": "вулиця Дудинської, 38",
+  "ChildsIds": []
  },
  {
   "id": 153117,
@@ -996,8 +1061,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1858145893,
-  "lati": 49.974730455199996,
-  "FullNameUA": "вулиця Дудинської, 39/15"
+  "lati": 49.9747304552,
+  "FullNameUA": "вулиця Дудинської, 39/15",
+  "ChildsIds": []
  },
  {
   "id": 153118,
@@ -1022,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.186054815,
   "lati": 49.9746093356,
-  "FullNameUA": "вулиця Дудинської, 41"
+  "FullNameUA": "вулиця Дудинської, 41",
+  "ChildsIds": []
  },
  {
   "id": 153119,
@@ -1047,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.1886642959,
   "lati": 49.9722538052,
-  "FullNameUA": "вулиця Дудинської, 42"
+  "FullNameUA": "вулиця Дудинської, 42",
+  "ChildsIds": []
  },
  {
   "id": 153120,
@@ -1071,8 +1139,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1862458773,
-  "lati": 49.974463489099996,
-  "FullNameUA": "вулиця Дудинської, 43"
+  "lati": 49.9744634891,
+  "FullNameUA": "вулиця Дудинської, 43",
+  "ChildsIds": []
  },
  {
   "id": 153121,
@@ -1097,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.1865255296,
   "lati": 49.9742830864,
-  "FullNameUA": "вулиця Дудинської, 45"
+  "FullNameUA": "вулиця Дудинської, 45",
+  "ChildsIds": []
  },
  {
   "id": 153122,
@@ -1121,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1868495396,
-  "lati": 49.974089020099996,
-  "FullNameUA": "вулиця Дудинської, 47"
+  "lati": 49.9740890201,
+  "FullNameUA": "вулиця Дудинської, 47",
+  "ChildsIds": []
  },
  {
   "id": 153123,
@@ -1147,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.1871407704,
   "lati": 49.973894547,
-  "FullNameUA": "вулиця Дудинської, 49-А"
+  "FullNameUA": "вулиця Дудинської, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 153124,
@@ -1172,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.1873100277,
   "lati": 49.9737933444,
-  "FullNameUA": "вулиця Дудинської, 51"
+  "FullNameUA": "вулиця Дудинської, 51",
+  "ChildsIds": []
  },
  {
   "id": 153125,
@@ -1197,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.1875905912,
   "lati": 49.973654021,
-  "FullNameUA": "вулиця Дудинської, 53"
+  "FullNameUA": "вулиця Дудинської, 53",
+  "ChildsIds": []
  },
  {
   "id": 153126,
@@ -1222,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.1878589679,
   "lati": 49.9734592916,
-  "FullNameUA": "вулиця Дудинської, 55"
+  "FullNameUA": "вулиця Дудинської, 55",
+  "ChildsIds": []
  },
  {
   "id": 153127,
@@ -1247,7 +1322,34 @@
   "reg_date": "",
   "longt": 36.188154852,
   "lati": 49.9732948111,
-  "FullNameUA": "вулиця Дудинської, 57"
+  "FullNameUA": "вулиця Дудинської, 57",
+  "ChildsIds": []
+ },
+ {
+  "id": 153129,
+  "postcode": 61064,
+  "number": 59,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3343,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1883922729,
+  "lati": 49.97310662,
+  "FullNameUA": "вулиця Дудинської, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 153128,
@@ -1271,33 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1882809506,
-  "lati": 49.973189622999996,
-  "FullNameUA": "вулиця Дудинської, 59"
- },
- {
-  "id": 153129,
-  "postcode": 61064,
-  "number": 59,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3343,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.188392272899996,
-  "lati": 49.97310662,
-  "FullNameUA": "вулиця Дудинської, 59-А"
+  "lati": 49.973189623,
+  "FullNameUA": "вулиця Дудинської, 59",
+  "ChildsIds": []
  },
  {
   "id": 153130,
@@ -1322,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.1885825643,
   "lati": 49.9730294171,
-  "FullNameUA": "вулиця Дудинської, 61"
+  "FullNameUA": "вулиця Дудинської, 61",
+  "ChildsIds": []
  },
  {
   "id": 179406,
@@ -1347,6 +1426,7 @@
   "reg_date": "",
   "longt": 36.1899540334,
   "lati": 49.9720104446,
-  "FullNameUA": "вулиця Дудинської, 63"
+  "FullNameUA": "вулиця Дудинської, 63",
+  "ChildsIds": []
  }
 ]

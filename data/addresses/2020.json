@@ -1,5 +1,31 @@
 [
  {
+  "id": 114746,
+  "postcode": 61145,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2020,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2063409595,
+  "lati": 50.0209347691,
+  "FullNameUA": "вулиця Аграрна, 1-Б",
+  "ChildsIds": []
+ },
+ {
   "id": 114745,
   "postcode": 61145,
   "number": 1,
@@ -22,32 +48,8 @@
   "reg_date": "",
   "longt": 36.2062882294,
   "lati": 50.0211420624,
-  "FullNameUA": "вулиця Аграрна, 1-А"
- },
- {
-  "id": 114746,
-  "postcode": 61145,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2020,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.206340959500004,
-  "lati": 50.0209347691,
-  "FullNameUA": "вулиця Аграрна, 1-Б"
+  "FullNameUA": "вулиця Аграрна, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 114747,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2069254031,
-  "lati": 50.020766031300006,
-  "FullNameUA": "вулиця Аграрна, 2"
+  "lati": 50.0207660313,
+  "FullNameUA": "вулиця Аграрна, 2",
+  "ChildsIds": []
  },
  {
   "id": 114748,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206272858700004,
+  "longt": 36.2062728587,
   "lati": 50.0212448686,
-  "FullNameUA": "вулиця Аграрна, 3"
+  "FullNameUA": "вулиця Аграрна, 3",
+  "ChildsIds": []
  },
  {
   "id": 114749,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206758792100004,
+  "longt": 36.2067587921,
   "lati": 50.0209181243,
-  "FullNameUA": "вулиця Аграрна, 4"
+  "FullNameUA": "вулиця Аграрна, 4",
+  "ChildsIds": []
  },
  {
   "id": 114750,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2062330063,
   "lati": 50.0214221513,
-  "FullNameUA": "вулиця Аграрна, 5"
+  "FullNameUA": "вулиця Аграрна, 5",
+  "ChildsIds": []
  },
  {
   "id": 114751,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206717060200006,
+  "longt": 36.2067170602,
   "lati": 50.0210870852,
-  "FullNameUA": "вулиця Аграрна, 6"
+  "FullNameUA": "вулиця Аграрна, 6",
+  "ChildsIds": []
  },
  {
   "id": 114752,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2062039393,
   "lati": 50.0215316223,
-  "FullNameUA": "вулиця Аграрна, 7"
+  "FullNameUA": "вулиця Аграрна, 7",
+  "ChildsIds": []
  },
  {
   "id": 114753,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206682711700005,
-  "lati": 50.021256032800004,
-  "FullNameUA": "вулиця Аграрна, 8"
+  "longt": 36.2066827117,
+  "lati": 50.0212560328,
+  "FullNameUA": "вулиця Аграрна, 8",
+  "ChildsIds": []
  },
  {
   "id": 114754,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206133295200004,
+  "longt": 36.2061332952,
   "lati": 50.0218469232,
-  "FullNameUA": "вулиця Аграрна, 9/25"
+  "FullNameUA": "вулиця Аграрна, 9/25",
+  "ChildsIds": []
  },
  {
   "id": 114755,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2066346772,
   "lati": 50.021434024,
-  "FullNameUA": "вулиця Аграрна, 10"
+  "FullNameUA": "вулиця Аграрна, 10",
+  "ChildsIds": []
  },
  {
   "id": 114756,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2059692041,
   "lati": 50.0223331647,
-  "FullNameUA": "вулиця Аграрна, 11"
+  "FullNameUA": "вулиця Аграрна, 11",
+  "ChildsIds": []
  },
  {
   "id": 114757,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2066168042,
   "lati": 50.0215708301,
-  "FullNameUA": "вулиця Аграрна, 12"
+  "FullNameUA": "вулиця Аграрна, 12",
+  "ChildsIds": []
  },
  {
   "id": 114758,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Дзержинської райради № 202/11, 06.11.2001",
   "reg_date": "",
-  "longt": 36.205915972300005,
-  "lati": 50.022631960800005,
-  "FullNameUA": "вулиця Аграрна, 13"
+  "longt": 36.2059159723,
+  "lati": 50.0226319608,
+  "FullNameUA": "вулиця Аграрна, 13",
+  "ChildsIds": []
  },
  {
   "id": 114759,
@@ -372,7 +386,34 @@
   "reg_date": "",
   "longt": 36.2059593002,
   "lati": 50.0225095921,
-  "FullNameUA": "вулиця Аграрна, 13-А"
+  "FullNameUA": "вулиця Аграрна, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 182785,
+  "postcode": 61045,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 2020,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136300:08:013:0010); житловий будинок літ. \"Л-1\" загальною площею 51,6 кв. м., житловою площею 20,4 кв. м. з господарськими спорудами",
+  "confrm": "",
+  "reg_date": "04.05.2020 12:59:40",
+  "longt": 36.2066322278,
+  "lati": 50.021724082,
+  "FullNameUA": "вулиця Аграрна, 14",
+  "ChildsIds": []
  },
  {
   "id": 114760,
@@ -397,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2059608205,
   "lati": 50.0229049928,
-  "FullNameUA": "вулиця Аграрна, 15"
+  "FullNameUA": "вулиця Аграрна, 15",
+  "ChildsIds": []
  },
  {
   "id": 114761,
@@ -420,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205603908300006,
+  "longt": 36.2056039083,
   "lati": 50.0229818358,
-  "FullNameUA": "вулиця Аграрна, 15-А"
+  "FullNameUA": "вулиця Аграрна, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 114762,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205817850500004,
+  "longt": 36.2058178505,
   "lati": 50.0230993456,
-  "FullNameUA": "вулиця Аграрна, 17"
+  "FullNameUA": "вулиця Аграрна, 17",
+  "ChildsIds": []
  },
  {
   "id": 114763,
@@ -471,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2058147853,
-  "lati": 50.023275602800005,
-  "FullNameUA": "вулиця Аграрна, 19"
+  "lati": 50.0232756028,
+  "FullNameUA": "вулиця Аграрна, 19",
+  "ChildsIds": []
  },
  {
   "id": 114764,
@@ -497,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2057189665,
   "lati": 50.0237608841,
-  "FullNameUA": "вулиця Аграрна, 21"
+  "FullNameUA": "вулиця Аграрна, 21",
+  "ChildsIds": []
  },
  {
   "id": 114765,
@@ -522,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2062812267,
   "lati": 50.0231667927,
-  "FullNameUA": "вулиця Аграрна, 22"
+  "FullNameUA": "вулиця Аграрна, 22",
+  "ChildsIds": []
  },
  {
   "id": 114766,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205679217100005,
+  "longt": 36.2056792171,
   "lati": 50.0238097132,
-  "FullNameUA": "вулиця Аграрна, 23"
+  "FullNameUA": "вулиця Аграрна, 23",
+  "ChildsIds": []
  },
  {
   "id": 114767,
@@ -572,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2062674429,
   "lati": 50.02338587,
-  "FullNameUA": "вулиця Аграрна, 24"
+  "FullNameUA": "вулиця Аграрна, 24",
+  "ChildsIds": []
  },
  {
   "id": 114768,
@@ -595,8 +644,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205198429300005,
+  "longt": 36.2051984293,
   "lati": 50.0244357638,
-  "FullNameUA": "вулиця Аграрна, 25"
+  "FullNameUA": "вулиця Аграрна, 25",
+  "ChildsIds": []
  }
 ]

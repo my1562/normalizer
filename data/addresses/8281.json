@@ -1,30 +1,5 @@
 [
  {
-  "id": 136784,
-  "postcode": 61038,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 8281,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2991772378,
-  "lati": 49.98816844540001,
-  "FullNameUA": "вулиця Ахієзерів, 1"
- },
- {
   "id": 136785,
   "postcode": 61038,
   "number": 1,
@@ -46,8 +21,61 @@
   "confrm": "Рішення ВК Московської райради № 447, 21.09.2004",
   "reg_date": "",
   "longt": 36.2987378824,
-  "lati": 49.988763844400005,
-  "FullNameUA": "вулиця Ахієзерів, 1-А"
+  "lati": 49.9887638444,
+  "FullNameUA": "вулиця Ахієзерів, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136784,
+  "postcode": 61038,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 8281,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2991772378,
+  "lati": 49.9881684454,
+  "FullNameUA": "вулиця Ахієзерів, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 182880,
+  "postcode": 61038,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 8281,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3005355816,
+  "lati": 49.9882916509,
+  "FullNameUA": "вулиця Ахієзерів, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 136786,
@@ -70,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.299706928999996,
+  "longt": 36.299706929,
   "lati": 49.9879228431,
-  "FullNameUA": "вулиця Ахієзерів, 3"
+  "FullNameUA": "вулиця Ахієзерів, 3",
+  "ChildsIds": []
  },
  {
   "id": 136788,
@@ -96,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2969148119,
-  "lati": 49.988573381500004,
-  "FullNameUA": "вулиця Ахієзерів, 4-А"
+  "lati": 49.9885733815,
+  "FullNameUA": "вулиця Ахієзерів, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 136787,
@@ -120,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.296471588799996,
+  "longt": 36.2964715888,
   "lati": 49.9882876599,
-  "FullNameUA": "вулиця Ахієзерів, 4"
+  "FullNameUA": "вулиця Ахієзерів, 4",
+  "ChildsIds": []
  },
  {
   "id": 136789,
@@ -145,34 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30023216520001,
+  "longt": 36.3002321652,
   "lati": 49.9877420083,
-  "FullNameUA": "вулиця Ахієзерів, 5"
- },
- {
-  "id": 136790,
-  "postcode": 61038,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 8281,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.297556747499996,
-  "lati": 49.988245633300004,
-  "FullNameUA": "вулиця Ахієзерів, 6"
+  "FullNameUA": "вулиця Ахієзерів, 5",
+  "ChildsIds": []
  },
  {
   "id": 181350,
@@ -196,8 +203,35 @@
   "confrm": "",
   "reg_date": "19.09.2019 09:50:19",
   "longt": 36.2973623752,
-  "lati": 49.987934216700005,
-  "FullNameUA": "вулиця Ахієзерів, 6-А"
+  "lati": 49.9879342167,
+  "FullNameUA": "вулиця Ахієзерів, 6-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136790,
+  "postcode": 61038,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 8281,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2975567475,
+  "lati": 49.9882456333,
+  "FullNameUA": "вулиця Ахієзерів, 6",
+  "ChildsIds": []
  },
  {
   "id": 136791,
@@ -222,7 +256,8 @@
   "reg_date": "",
   "longt": 36.3006588427,
   "lati": 49.9874805628,
-  "FullNameUA": "вулиця Ахієзерів, 7"
+  "FullNameUA": "вулиця Ахієзерів, 7",
+  "ChildsIds": []
  },
  {
   "id": 136792,
@@ -247,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2990367873,
   "lati": 49.9875500849,
-  "FullNameUA": "вулиця Ахієзерів, 8"
+  "FullNameUA": "вулиця Ахієзерів, 8",
+  "ChildsIds": []
  },
  {
   "id": 136793,
@@ -271,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3013201229,
-  "lati": 49.987172894800004,
-  "FullNameUA": "вулиця Ахієзерів, 9"
+  "lati": 49.9871728948,
+  "FullNameUA": "вулиця Ахієзерів, 9",
+  "ChildsIds": []
  },
  {
   "id": 136794,
@@ -295,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.299566419499996,
+  "longt": 36.2995664195,
   "lati": 49.9871940143,
-  "FullNameUA": "вулиця Ахієзерів, 10"
+  "FullNameUA": "вулиця Ахієзерів, 10",
+  "ChildsIds": []
  },
  {
   "id": 136795,
@@ -320,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301964656500004,
-  "lati": 49.986859770900004,
-  "FullNameUA": "вулиця Ахієзерів, 11"
+  "longt": 36.3019646565,
+  "lati": 49.9868597709,
+  "FullNameUA": "вулиця Ахієзерів, 11",
+  "ChildsIds": []
  },
  {
   "id": 136796,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3001431236,
   "lati": 49.987025979,
-  "FullNameUA": "вулиця Ахієзерів, 12"
+  "FullNameUA": "вулиця Ахієзерів, 12",
+  "ChildsIds": []
  },
  {
   "id": 136797,
@@ -371,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3027252823,
-  "lati": 49.986503691900005,
-  "FullNameUA": "вулиця Ахієзерів, 13"
+  "lati": 49.9865036919,
+  "FullNameUA": "вулиця Ахієзерів, 13",
+  "ChildsIds": []
  },
  {
   "id": 136798,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303235747100004,
-  "lati": 49.986277124000004,
-  "FullNameUA": "вулиця Ахієзерів, 15/2"
+  "longt": 36.3032357471,
+  "lati": 49.986277124,
+  "FullNameUA": "вулиця Ахієзерів, 15/2",
+  "ChildsIds": []
  },
  {
   "id": 136799,
@@ -421,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3015902093,
-  "lati": 49.986580553100005,
-  "FullNameUA": "вулиця Ахієзерів, 16"
+  "lati": 49.9865805531,
+  "FullNameUA": "вулиця Ахієзерів, 16",
+  "ChildsIds": []
  },
  {
   "id": 136800,
@@ -445,9 +488,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303429312000006,
-  "lati": 49.986145276600006,
-  "FullNameUA": "вулиця Ахієзерів, 17"
+  "longt": 36.303429312,
+  "lati": 49.9861452766,
+  "FullNameUA": "вулиця Ахієзерів, 17",
+  "ChildsIds": []
+ },
+ {
+  "id": 136802,
+  "postcode": 61038,
+  "number": 18,
+  "suffix": "А",
+  "block": "",
+  "streetid": 8281,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.301874799,
+  "lati": 49.9860167973,
+  "FullNameUA": "вулиця Ахієзерів, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 136801,
@@ -472,32 +542,8 @@
   "reg_date": "",
   "longt": 36.3023400845,
   "lati": 49.9862288148,
-  "FullNameUA": "вулиця Ахієзерів, 18"
- },
- {
-  "id": 136802,
-  "postcode": 61038,
-  "number": 18,
-  "suffix": "А",
-  "block": "",
-  "streetid": 8281,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.301874799000004,
-  "lati": 49.9860167973,
-  "FullNameUA": "вулиця Ахієзерів, 18-А"
+  "FullNameUA": "вулиця Ахієзерів, 18",
+  "ChildsIds": []
  },
  {
   "id": 136803,
@@ -520,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30367845960001,
+  "longt": 36.3036784596,
   "lati": 49.9860141098,
-  "FullNameUA": "вулиця Ахієзерів, 19"
+  "FullNameUA": "вулиця Ахієзерів, 19",
+  "ChildsIds": []
  },
  {
   "id": 136804,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302329168300005,
+  "longt": 36.3023291683,
   "lati": 49.9856560276,
-  "FullNameUA": "вулиця Ахієзерів, 20"
+  "FullNameUA": "вулиця Ахієзерів, 20",
+  "ChildsIds": []
  },
  {
   "id": 136805,
@@ -571,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3041157577,
-  "lati": 49.98587011830001,
-  "FullNameUA": "вулиця Ахієзерів, 21"
+  "lati": 49.9858701183,
+  "FullNameUA": "вулиця Ахієзерів, 21",
+  "ChildsIds": []
  },
  {
   "id": 136806,
@@ -595,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303125564300004,
-  "lati": 49.98585222410001,
-  "FullNameUA": "вулиця Ахієзерів, 22"
+  "longt": 36.3031255643,
+  "lati": 49.9858522241,
+  "FullNameUA": "вулиця Ахієзерів, 22",
+  "ChildsIds": []
  },
  {
   "id": 136807,
@@ -620,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30459590580001,
-  "lati": 49.98565742620001,
-  "FullNameUA": "вулиця Ахієзерів, 23"
+  "longt": 36.3045959058,
+  "lati": 49.9856574262,
+  "FullNameUA": "вулиця Ахієзерів, 23",
+  "ChildsIds": []
  },
  {
   "id": 136808,
@@ -645,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303104176400005,
-  "lati": 49.98543225740001,
-  "FullNameUA": "вулиця Ахієзерів, 24"
+  "longt": 36.3031041764,
+  "lati": 49.9854322574,
+  "FullNameUA": "вулиця Ахієзерів, 24",
+  "ChildsIds": []
  },
  {
   "id": 136809,
@@ -670,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304700032300005,
-  "lati": 49.98552338380001,
-  "FullNameUA": "вулиця Ахієзерів, 25"
+  "longt": 36.3047000323,
+  "lati": 49.9855233838,
+  "FullNameUA": "вулиця Ахієзерів, 25",
+  "ChildsIds": []
  },
  {
   "id": 136810,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.303460872,
   "lati": 49.9852697768,
-  "FullNameUA": "вулиця Ахієзерів, 26"
+  "FullNameUA": "вулиця Ахієзерів, 26",
+  "ChildsIds": []
  },
  {
   "id": 136811,
@@ -722,7 +776,8 @@
   "reg_date": "",
   "longt": 36.304882673,
   "lati": 49.9854402794,
-  "FullNameUA": "вулиця Ахієзерів, 27"
+  "FullNameUA": "вулиця Ахієзерів, 27",
+  "ChildsIds": []
  },
  {
   "id": 136812,
@@ -746,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3040620184,
-  "lati": 49.98541269970001,
-  "FullNameUA": "вулиця Ахієзерів, 28"
+  "lati": 49.9854126997,
+  "FullNameUA": "вулиця Ахієзерів, 28",
+  "ChildsIds": []
  },
  {
   "id": 136813,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30535480500001,
-  "lati": 49.985217496400004,
-  "FullNameUA": "вулиця Ахієзерів, 29"
+  "longt": 36.305354805,
+  "lati": 49.9852174964,
+  "FullNameUA": "вулиця Ахієзерів, 29",
+  "ChildsIds": []
  },
  {
   "id": 136814,
@@ -797,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3040299043,
   "lati": 49.9848474145,
-  "FullNameUA": "вулиця Ахієзерів, 30"
+  "FullNameUA": "вулиця Ахієзерів, 30",
+  "ChildsIds": []
  },
  {
   "id": 136815,
@@ -821,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3058140492,
-  "lati": 49.985002432200005,
-  "FullNameUA": "вулиця Ахієзерів, 31"
+  "lati": 49.9850024322,
+  "FullNameUA": "вулиця Ахієзерів, 31",
+  "ChildsIds": []
  },
  {
   "id": 136816,
@@ -846,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3048698751,
-  "lati": 49.985034616200004,
-  "FullNameUA": "вулиця Ахієзерів, 32"
+  "lati": 49.9850346162,
+  "FullNameUA": "вулиця Ахієзерів, 32",
+  "ChildsIds": []
  },
  {
   "id": 136817,
@@ -870,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306216266300005,
-  "lati": 49.98479997730001,
-  "FullNameUA": "вулиця Ахієзерів, 33"
+  "longt": 36.3062162663,
+  "lati": 49.9847999773,
+  "FullNameUA": "вулиця Ахієзерів, 33",
+  "ChildsIds": []
  },
  {
   "id": 136818,
@@ -896,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3056320028,
-  "lati": 49.984668685500004,
-  "FullNameUA": "вулиця Ахієзерів, 34"
+  "lati": 49.9846686855,
+  "FullNameUA": "вулиця Ахієзерів, 34",
+  "ChildsIds": []
  },
  {
   "id": 136819,
@@ -921,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3064520761,
-  "lati": 49.984656578800006,
-  "FullNameUA": "вулиця Ахієзерів, 35"
+  "lati": 49.9846565788,
+  "FullNameUA": "вулиця Ахієзерів, 35",
+  "ChildsIds": []
  },
  {
   "id": 136820,
@@ -945,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306102913400004,
-  "lati": 49.984397710100005,
-  "FullNameUA": "вулиця Ахієзерів, 36"
+  "longt": 36.3061029134,
+  "lati": 49.9843977101,
+  "FullNameUA": "вулиця Ахієзерів, 36",
+  "ChildsIds": []
  },
  {
   "id": 136821,
@@ -970,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30659218980001,
-  "lati": 49.984613982300004,
-  "FullNameUA": "вулиця Ахієзерів, 37"
+  "longt": 36.3065921898,
+  "lati": 49.9846139823,
+  "FullNameUA": "вулиця Ахієзерів, 37",
+  "ChildsIds": []
  },
  {
   "id": 136822,
@@ -996,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3056965051,
-  "lati": 49.98405090760001,
-  "FullNameUA": "вулиця Ахієзерів, 38"
+  "lati": 49.9840509076,
+  "FullNameUA": "вулиця Ахієзерів, 38",
+  "ChildsIds": []
  },
  {
   "id": 136823,
@@ -1021,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3071101665,
-  "lati": 49.98440245130001,
-  "FullNameUA": "вулиця Ахієзерів, 39"
+  "lati": 49.9844024513,
+  "FullNameUA": "вулиця Ахієзерів, 39",
+  "ChildsIds": []
  },
  {
   "id": 136824,
@@ -1045,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306620141500005,
+  "longt": 36.3066201415,
   "lati": 49.9841858703,
-  "FullNameUA": "вулиця Ахієзерів, 40"
+  "FullNameUA": "вулиця Ахієзерів, 40",
+  "ChildsIds": []
  },
  {
   "id": 136825,
@@ -1070,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307382871200005,
+  "longt": 36.3073828712,
   "lati": 49.9842363041,
-  "FullNameUA": "вулиця Ахієзерів, 41"
+  "FullNameUA": "вулиця Ахієзерів, 41",
+  "ChildsIds": []
  },
  {
   "id": 136826,
@@ -1095,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.307174371200006,
+  "longt": 36.3071743712,
   "lati": 49.9836563773,
-  "FullNameUA": "вулиця Ахієзерів, 42"
+  "FullNameUA": "вулиця Ахієзерів, 42",
+  "ChildsIds": []
  },
  {
   "id": 136827,
@@ -1120,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30768349780001,
+  "longt": 36.3076834978,
   "lati": 49.9840861591,
-  "FullNameUA": "вулиця Ахієзерів, 43"
+  "FullNameUA": "вулиця Ахієзерів, 43",
+  "ChildsIds": []
  },
  {
   "id": 136828,
@@ -1145,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30813094930001,
+  "longt": 36.3081309493,
   "lati": 49.9834617769,
-  "FullNameUA": "вулиця Ахієзерів, 44"
+  "FullNameUA": "вулиця Ахієзерів, 44",
+  "ChildsIds": []
  },
  {
   "id": 136829,
@@ -1171,8 +1243,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3079520571,
-  "lati": 49.983961514700006,
-  "FullNameUA": "вулиця Ахієзерів, 45/9"
+  "lati": 49.9839615147,
+  "FullNameUA": "вулиця Ахієзерів, 45/9",
+  "ChildsIds": []
  },
  {
   "id": 136830,
@@ -1195,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308704951500005,
-  "lati": 49.98308501380001,
-  "FullNameUA": "вулиця Ахієзерів, 46"
+  "longt": 36.3087049515,
+  "lati": 49.9830850138,
+  "FullNameUA": "вулиця Ахієзерів, 46",
+  "ChildsIds": []
  },
  {
   "id": 136831,
@@ -1220,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30829585950001,
+  "longt": 36.3082958595,
   "lati": 49.9838091124,
-  "FullNameUA": "вулиця Ахієзерів, 47"
+  "FullNameUA": "вулиця Ахієзерів, 47",
+  "ChildsIds": []
  },
  {
   "id": 136832,
@@ -1245,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.309256541900005,
-  "lati": 49.982910519300006,
-  "FullNameUA": "вулиця Ахієзерів, 48/50"
+  "longt": 36.3092565419,
+  "lati": 49.9829105193,
+  "FullNameUA": "вулиця Ахієзерів, 48/50",
+  "ChildsIds": []
  },
  {
   "id": 136833,
@@ -1271,8 +1347,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3085736059,
-  "lati": 49.983743676500005,
-  "FullNameUA": "вулиця Ахієзерів, 49"
+  "lati": 49.9837436765,
+  "FullNameUA": "вулиця Ахієзерів, 49",
+  "ChildsIds": []
  },
  {
   "id": 136834,
@@ -1295,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30971618070001,
+  "longt": 36.3097161807,
   "lati": 49.9826791443,
-  "FullNameUA": "вулиця Ахієзерів, 50"
+  "FullNameUA": "вулиця Ахієзерів, 50",
+  "ChildsIds": []
  },
  {
   "id": 136835,
@@ -1320,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30894003190001,
+  "longt": 36.3089400319,
   "lati": 49.9834629682,
-  "FullNameUA": "вулиця Ахієзерів, 51"
+  "FullNameUA": "вулиця Ахієзерів, 51",
+  "ChildsIds": []
  },
  {
   "id": 136836,
@@ -1347,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.310265498,
   "lati": 49.9824459813,
-  "FullNameUA": "вулиця Ахієзерів, 52"
+  "FullNameUA": "вулиця Ахієзерів, 52",
+  "ChildsIds": []
  },
  {
   "id": 136837,
@@ -1370,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.309245168500006,
+  "longt": 36.3092451685,
   "lati": 49.9822742898,
-  "FullNameUA": "вулиця Ахієзерів, 52-А"
+  "FullNameUA": "вулиця Ахієзерів, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 136838,
@@ -1397,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.309630036,
   "lati": 49.9831899384,
-  "FullNameUA": "вулиця Ахієзерів, 53"
+  "FullNameUA": "вулиця Ахієзерів, 53",
+  "ChildsIds": []
  },
  {
   "id": 136839,
@@ -1421,8 +1503,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3101229074,
-  "lati": 49.983267358400006,
-  "FullNameUA": "вулиця Ахієзерів, 55"
+  "lati": 49.9832673584,
+  "FullNameUA": "вулиця Ахієзерів, 55",
+  "ChildsIds": []
  },
  {
   "id": 136840,
@@ -1447,6 +1530,7 @@
   "reg_date": "",
   "longt": 36.3101488259,
   "lati": 49.9829414995,
-  "FullNameUA": "вулиця Ахієзерів, 57"
+  "FullNameUA": "вулиця Ахієзерів, 57",
+  "ChildsIds": []
  }
 ]

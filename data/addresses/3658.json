@@ -1,5 +1,31 @@
 [
  {
+  "id": 118696,
+  "postcode": 61070,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 3658,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2746476472,
+  "lati": 50.0507758225,
+  "FullNameUA": " Помірки, 27",
+  "ChildsIds": []
+ },
+ {
   "id": 127128,
   "postcode": 61070,
   "number": 27,
@@ -22,7 +48,8 @@
   "reg_date": "20.02.2019 13:06:26",
   "longt": 36.2802490311,
   "lati": 50.0402462916,
-  "FullNameUA": " Помірки, 27"
+  "FullNameUA": " Помірки, 27",
+  "ChildsIds": []
  },
  {
   "id": 127129,
@@ -45,34 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "28.02.2019 10:38:19",
-  "longt": 36.27254053910001,
-  "lati": 50.052115692600005,
-  "FullNameUA": " Помірки, 27-А"
- },
- {
-  "id": 118696,
-  "postcode": 61070,
-  "number": 27,
-  "suffix": "",
-  "block": "",
-  "streetid": 3658,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.274647647200005,
-  "lati": 50.05077582250001,
-  "FullNameUA": " Помірки, 27"
+  "longt": 36.2725405391,
+  "lati": 50.0521156926,
+  "FullNameUA": " Помірки, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 127130,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274564862300004,
+  "longt": 36.2745648623,
   "lati": 50.0381822514,
-  "FullNameUA": " Помірки, 70"
+  "FullNameUA": " Помірки, 70",
+  "ChildsIds": []
  },
  {
   "id": 118697,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2699337773,
   "lati": 50.0474970629,
-  "FullNameUA": " Помірки, 70"
+  "FullNameUA": " Помірки, 70",
+  "ChildsIds": []
  },
  {
   "id": 118698,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.24973887,
   "lati": 50.0683091578,
-  "FullNameUA": " Помірки, 80"
+  "FullNameUA": " Помірки, 80",
+  "ChildsIds": []
  },
  {
   "id": 127131,
@@ -171,7 +177,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2742308823,
-  "lati": 50.050018562400005,
-  "FullNameUA": " Помірки, 84"
+  "lati": 50.0500185624,
+  "FullNameUA": " Помірки, 84",
+  "ChildsIds": []
  }
 ]

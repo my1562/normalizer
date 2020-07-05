@@ -21,8 +21,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2537484084,
-  "lati": 49.989655148000004,
-  "FullNameUA": "вулиця Військова, 2"
+  "lati": 49.989655148,
+  "FullNameUA": "вулиця Військова, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 182587,
+  "postcode": 61001,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2356,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2546030874,
+  "lati": 49.9890648054,
+  "FullNameUA": "вулиця Військова, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 159206,
@@ -47,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2547167732,
   "lati": 49.9889310916,
-  "FullNameUA": "вулиця Військова, 3"
+  "FullNameUA": "вулиця Військова, 3",
+  "ChildsIds": []
  },
  {
   "id": 159207,
@@ -72,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2537286595,
   "lati": 49.9894078067,
-  "FullNameUA": "вулиця Військова, 4"
+  "FullNameUA": "вулиця Військова, 4",
+  "ChildsIds": []
  },
  {
   "id": 159208,
@@ -96,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2551134239,
-  "lati": 49.988937356300006,
-  "FullNameUA": "вулиця Військова, 5"
+  "lati": 49.9889373563,
+  "FullNameUA": "вулиця Військова, 5",
+  "ChildsIds": []
  },
  {
   "id": 159209,
@@ -121,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2537257511,
-  "lati": 49.989205623800004,
-  "FullNameUA": "вулиця Військова, 6-А"
+  "lati": 49.9892056238,
+  "FullNameUA": "вулиця Військова, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 177843,
@@ -146,8 +177,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2537691608,
-  "lati": 49.989041398800005,
-  "FullNameUA": "вулиця Військова, 6"
+  "lati": 49.9890413988,
+  "FullNameUA": "вулиця Військова, 6",
+  "ChildsIds": []
  },
  {
   "id": 159210,
@@ -172,7 +204,8 @@
   "reg_date": "",
   "longt": 36.253984147,
   "lati": 49.9888803663,
-  "FullNameUA": "вулиця Військова, 8"
+  "FullNameUA": "вулиця Військова, 8",
+  "ChildsIds": []
  },
  {
   "id": 179489,
@@ -196,8 +229,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2562544191,
-  "lati": 49.988697662700005,
-  "FullNameUA": "вулиця Військова, 9"
+  "lati": 49.9886976627,
+  "FullNameUA": "вулиця Військова, 9",
+  "ChildsIds": []
  },
  {
   "id": 159211,
@@ -221,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2542569886,
-  "lati": 49.988783876700005,
-  "FullNameUA": "вулиця Військова, 10"
+  "lati": 49.9887838767,
+  "FullNameUA": "вулиця Військова, 10",
+  "ChildsIds": []
  },
  {
   "id": 159212,
@@ -246,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2545240253,
-  "lati": 49.988698847500004,
-  "FullNameUA": "вулиця Військова, 12"
+  "lati": 49.9886988475,
+  "FullNameUA": "вулиця Військова, 12",
+  "ChildsIds": []
  },
  {
   "id": 159213,
@@ -271,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2548739469,
-  "lati": 49.98858984860001,
-  "FullNameUA": "вулиця Військова, 14"
+  "lati": 49.9885898486,
+  "FullNameUA": "вулиця Військова, 14",
+  "ChildsIds": []
  },
  {
   "id": 159214,
@@ -296,8 +333,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2553908524,
-  "lati": 49.98831397240001,
-  "FullNameUA": "вулиця Військова, 18"
+  "lati": 49.9883139724,
+  "FullNameUA": "вулиця Військова, 18",
+  "ChildsIds": []
  },
  {
   "id": 159215,
@@ -322,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2558850899,
   "lati": 49.9882867178,
-  "FullNameUA": "вулиця Військова, 20"
+  "FullNameUA": "вулиця Військова, 20",
+  "ChildsIds": []
  },
  {
   "id": 177854,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2573189472,
   "lati": 49.9876924403,
-  "FullNameUA": "вулиця Військова, 22"
+  "FullNameUA": "вулиця Військова, 22",
+  "ChildsIds": []
  },
  {
   "id": 177855,
@@ -372,32 +412,8 @@
   "reg_date": "",
   "longt": 36.2586598341,
   "lati": 49.9873112458,
-  "FullNameUA": "вулиця Військова, 24"
- },
- {
-  "id": 159217,
-  "postcode": 61001,
-  "number": 33,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2356,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2593550822,
-  "lati": 49.987961457100006,
-  "FullNameUA": "вулиця Військова, 33-Б"
+  "FullNameUA": "вулиця Військова, 24",
+  "ChildsIds": []
  },
  {
   "id": 159216,
@@ -422,7 +438,34 @@
   "reg_date": "",
   "longt": 36.2588682988,
   "lati": 49.9876580708,
-  "FullNameUA": "вулиця Військова, 33"
+  "FullNameUA": "вулиця Військова, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 159217,
+  "postcode": 61001,
+  "number": 33,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2356,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2593550822,
+  "lati": 49.9879614571,
+  "FullNameUA": "вулиця Військова, 33-Б",
+  "ChildsIds": []
  },
  {
   "id": 159218,
@@ -446,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2593500718,
-  "lati": 49.98737274050001,
-  "FullNameUA": "вулиця Військова, 35"
+  "lati": 49.9873727405,
+  "FullNameUA": "вулиця Військова, 35",
+  "ChildsIds": []
  },
  {
   "id": 159219,
@@ -472,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2597110535,
   "lati": 49.987266081,
-  "FullNameUA": "вулиця Військова, 37"
+  "FullNameUA": "вулиця Військова, 37",
+  "ChildsIds": []
  },
  {
   "id": 159220,
@@ -497,6 +542,7 @@
   "reg_date": "",
   "longt": 36.2598709739,
   "lati": 49.9871610602,
-  "FullNameUA": "вулиця Військова, 39-А"
+  "FullNameUA": "вулиця Військова, 39-А",
+  "ChildsIds": []
  }
 ]

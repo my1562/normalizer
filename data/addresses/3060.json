@@ -3,7 +3,7 @@
   "id": 162673,
   "postcode": 61003,
   "number": 1,
-  "suffix": "/41",
+  "suffix": "",
   "block": "",
   "streetid": 3060,
   "status_id": 1,
@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2312504885,
-  "lati": 49.984779872800004,
-  "FullNameUA": "вулиця Кузнечна, 1/41"
+  "lati": 49.9847798728,
+  "FullNameUA": "вулиця Кузнечна, 1",
+  "ChildsIds": []
  },
  {
   "id": 162674,
@@ -45,34 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23103639080001,
+  "longt": 36.2310363908,
   "lati": 49.9841818955,
-  "FullNameUA": "вулиця Кузнечна, 2"
- },
- {
-  "id": 162676,
-  "postcode": 61003,
-  "number": 4,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.232329537800005,
-  "lati": 49.983915374700004,
-  "FullNameUA": "вулиця Кузнечна, 4-Б"
+  "FullNameUA": "вулиця Кузнечна, 2",
+  "ChildsIds": []
  },
  {
   "id": 162675,
@@ -95,9 +72,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232350902300006,
+  "longt": 36.2323509023,
   "lati": 49.9845963944,
-  "FullNameUA": "вулиця Кузнечна, 4"
+  "FullNameUA": "вулиця Кузнечна, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 162676,
+  "postcode": 61003,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2323295378,
+  "lati": 49.9839153747,
+  "FullNameUA": "вулиця Кузнечна, 4-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 182681,
+  "postcode": 61003,
+  "number": 4,
+  "suffix": "/6",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2325123735,
+  "lati": 49.9843520083,
+  "FullNameUA": "вулиця Кузнечна, 4/6",
+  "ChildsIds": []
  },
  {
   "id": 162677,
@@ -120,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23288904340001,
-  "lati": 49.984662218800004,
-  "FullNameUA": "вулиця Кузнечна, 6"
+  "longt": 36.2328890434,
+  "lati": 49.9846622188,
+  "FullNameUA": "вулиця Кузнечна, 6",
+  "ChildsIds": []
  },
  {
   "id": 162678,
@@ -145,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234084065000005,
-  "lati": 49.985420063700005,
-  "FullNameUA": "вулиця Кузнечна, 7"
+  "longt": 36.234084065,
+  "lati": 49.9854200637,
+  "FullNameUA": "вулиця Кузнечна, 7",
+  "ChildsIds": []
  },
  {
   "id": 162679,
@@ -170,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233218546900005,
+  "longt": 36.2332185469,
   "lati": 49.9848011539,
-  "FullNameUA": "вулиця Кузнечна, 8"
+  "FullNameUA": "вулиця Кузнечна, 8",
+  "ChildsIds": []
  },
  {
   "id": 162680,
@@ -195,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234297556600005,
-  "lati": 49.985469623600004,
-  "FullNameUA": "вулиця Кузнечна, 9"
+  "longt": 36.2342975566,
+  "lati": 49.9854696236,
+  "FullNameUA": "вулиця Кузнечна, 9",
+  "ChildsIds": []
  },
  {
   "id": 162681,
@@ -221,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2334192805,
-  "lati": 49.984900527700006,
-  "FullNameUA": "вулиця Кузнечна, 10"
+  "lati": 49.9849005277,
+  "FullNameUA": "вулиця Кузнечна, 10",
+  "ChildsIds": []
  },
  {
   "id": 162682,
@@ -246,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2344756083,
-  "lati": 49.98550641600001,
-  "FullNameUA": "вулиця Кузнечна, 11"
+  "lati": 49.985506416,
+  "FullNameUA": "вулиця Кузнечна, 11",
+  "ChildsIds": []
  },
  {
   "id": 162683,
@@ -270,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Червонозаводської  райради № 73, 03.03.2009",
   "reg_date": "04.03.2019 14:17:45",
-  "longt": 36.234900163300004,
+  "longt": 36.2349001633,
   "lati": 49.9856533465,
-  "FullNameUA": "вулиця Кузнечна, 11-А"
+  "FullNameUA": "вулиця Кузнечна, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 162686,
@@ -296,8 +333,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2336089372,
-  "lati": 49.984854625800004,
-  "FullNameUA": "вулиця Кузнечна, 12-В"
+  "lati": 49.9848546258,
+  "FullNameUA": "вулиця Кузнечна, 12-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 162685,
+  "postcode": 61003,
+  "number": 12,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2338703485,
+  "lati": 49.9849327569,
+  "FullNameUA": "вулиця Кузнечна, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 162684,
@@ -321,33 +385,9 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.233599484,
-  "lati": 49.98497239580001,
-  "FullNameUA": "вулиця Кузнечна, 12"
- },
- {
-  "id": 162685,
-  "postcode": 61003,
-  "number": 12,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.233870348500005,
-  "lati": 49.9849327569,
-  "FullNameUA": "вулиця Кузнечна, 12-Б"
+  "lati": 49.9849723958,
+  "FullNameUA": "вулиця Кузнечна, 12",
+  "ChildsIds": []
  },
  {
   "id": 162687,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235391777800004,
-  "lati": 49.985782066300004,
-  "FullNameUA": "вулиця Кузнечна, 13"
+  "longt": 36.2353917778,
+  "lati": 49.9857820663,
+  "FullNameUA": "вулиця Кузнечна, 13",
+  "ChildsIds": []
  },
  {
   "id": 162688,
@@ -397,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2339842331,
   "lati": 49.9849539872,
-  "FullNameUA": "вулиця Кузнечна, 14"
+  "FullNameUA": "вулиця Кузнечна, 14",
+  "ChildsIds": []
  },
  {
   "id": 162689,
@@ -420,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236231649800004,
+  "longt": 36.2362316498,
   "lati": 49.9860175311,
-  "FullNameUA": "вулиця Кузнечна, 15"
+  "FullNameUA": "вулиця Кузнечна, 15",
+  "ChildsIds": []
  },
  {
   "id": 162690,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234566470500006,
-  "lati": 49.985246650700006,
-  "FullNameUA": "вулиця Кузнечна, 16"
+  "longt": 36.2345664705,
+  "lati": 49.9852466507,
+  "FullNameUA": "вулиця Кузнечна, 16",
+  "ChildsIds": []
  },
  {
   "id": 162691,
@@ -470,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236865527300004,
+  "longt": 36.2368655273,
   "lati": 49.9860902324,
-  "FullNameUA": "вулиця Кузнечна, 17"
+  "FullNameUA": "вулиця Кузнечна, 17",
+  "ChildsIds": []
  },
  {
   "id": 162692,
@@ -496,33 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2372776025,
-  "lati": 49.986151455000005,
-  "FullNameUA": "вулиця Кузнечна, 17/19"
- },
- {
-  "id": 162693,
-  "postcode": 61003,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.234724227200005,
-  "lati": 49.985076304100005,
-  "FullNameUA": "вулиця Кузнечна, 18"
+  "lati": 49.986151455,
+  "FullNameUA": "вулиця Кузнечна, 17/19",
+  "ChildsIds": []
  },
  {
   "id": 162694,
@@ -547,7 +568,34 @@
   "reg_date": "",
   "longt": 36.2346159987,
   "lati": 49.9853160791,
-  "FullNameUA": "вулиця Кузнечна, 18-А"
+  "FullNameUA": "вулиця Кузнечна, 18-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 162693,
+  "postcode": 61003,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2347242272,
+  "lati": 49.9850763041,
+  "FullNameUA": "вулиця Кузнечна, 18",
+  "ChildsIds": []
  },
  {
   "id": 162695,
@@ -571,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2352436213,
-  "lati": 49.985378680400004,
-  "FullNameUA": "вулиця Кузнечна, 20"
+  "lati": 49.9853786804,
+  "FullNameUA": "вулиця Кузнечна, 20",
+  "ChildsIds": []
  },
  {
   "id": 162696,
@@ -597,7 +646,8 @@
   "reg_date": "",
   "longt": 36.237480451,
   "lati": 49.9861869766,
-  "FullNameUA": "вулиця Кузнечна, 21"
+  "FullNameUA": "вулиця Кузнечна, 21",
+  "ChildsIds": []
  },
  {
   "id": 175982,
@@ -620,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "566, 03.08.2011",
   "reg_date": "25.01.2017 10:42:49",
-  "longt": 36.235744537200006,
-  "lati": 49.985193817600006,
-  "FullNameUA": "вулиця Кузнечна, 22, секція № 1"
+  "longt": 36.2357445372,
+  "lati": 49.9851938176,
+  "FullNameUA": "вулиця Кузнечна, 22, секція № 1",
+  "ChildsIds": []
  },
  {
   "id": 162697,
@@ -647,7 +698,8 @@
   "reg_date": "25.01.2017 10:41:36",
   "longt": 36.2354697027,
   "lati": 49.9855349648,
-  "FullNameUA": "вулиця Кузнечна, 22, секція № 2"
+  "FullNameUA": "вулиця Кузнечна, 22, секція № 2",
+  "ChildsIds": []
  },
  {
   "id": 175983,
@@ -672,7 +724,8 @@
   "reg_date": "25.01.2017 10:44:20",
   "longt": 36.2358706405,
   "lati": 49.98565932,
-  "FullNameUA": "вулиця Кузнечна, 22, секція № 3"
+  "FullNameUA": "вулиця Кузнечна, 22, секція № 3",
+  "ChildsIds": []
  },
  {
   "id": 162698,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238030644300004,
+  "longt": 36.2380306443,
   "lati": 49.9862657636,
-  "FullNameUA": "вулиця Кузнечна, 23"
+  "FullNameUA": "вулиця Кузнечна, 23",
+  "ChildsIds": []
  },
  {
   "id": 162699,
@@ -720,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236391361900004,
-  "lati": 49.985682465800004,
-  "FullNameUA": "вулиця Кузнечна, 24"
+  "longt": 36.2363913619,
+  "lati": 49.9856824658,
+  "FullNameUA": "вулиця Кузнечна, 24",
+  "ChildsIds": []
  },
  {
   "id": 162700,
@@ -745,84 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238686255800005,
+  "longt": 36.2386862558,
   "lati": 49.9863638188,
-  "FullNameUA": "вулиця Кузнечна, 25"
- },
- {
-  "id": 162703,
-  "postcode": 61003,
-  "number": 26,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.236667526000005,
-  "lati": 49.985805550200006,
-  "FullNameUA": "вулиця Кузнечна, 26-В"
- },
- {
-  "id": 162702,
-  "postcode": 61003,
-  "number": 26,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.236735899200006,
-  "lati": 49.985606349600005,
-  "FullNameUA": "вулиця Кузнечна, 26-Б"
- },
- {
-  "id": 162701,
-  "postcode": 61003,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237061048600005,
-  "lati": 49.98571935220001,
-  "FullNameUA": "вулиця Кузнечна, 26-А"
+  "FullNameUA": "вулиця Кузнечна, 25",
+  "ChildsIds": []
  },
  {
   "id": 162704,
@@ -845,9 +826,88 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.23680338570001,
+  "longt": 36.2368033857,
   "lati": 49.9857852283,
-  "FullNameUA": "вулиця Кузнечна, 26"
+  "FullNameUA": "вулиця Кузнечна, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 162703,
+  "postcode": 61003,
+  "number": 26,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.236667526,
+  "lati": 49.9858055502,
+  "FullNameUA": "вулиця Кузнечна, 26-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 162701,
+  "postcode": 61003,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2370610486,
+  "lati": 49.9857193522,
+  "FullNameUA": "вулиця Кузнечна, 26-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 162702,
+  "postcode": 61003,
+  "number": 26,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2367358992,
+  "lati": 49.9856063496,
+  "FullNameUA": "вулиця Кузнечна, 26-Б",
+  "ChildsIds": []
  },
  {
   "id": 162705,
@@ -871,33 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2393850687,
-  "lati": 49.986428982300005,
-  "FullNameUA": "вулиця Кузнечна, 27"
- },
- {
-  "id": 162707,
-  "postcode": 61003,
-  "number": 28,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237435818600005,
-  "lati": 49.985701291400005,
-  "FullNameUA": "вулиця Кузнечна, 28-А"
+  "lati": 49.9864289823,
+  "FullNameUA": "вулиця Кузнечна, 27",
+  "ChildsIds": []
  },
  {
   "id": 162706,
@@ -920,9 +956,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23730469150001,
-  "lati": 49.985888804400005,
-  "FullNameUA": "вулиця Кузнечна, 28"
+  "longt": 36.2373046915,
+  "lati": 49.9858888044,
+  "FullNameUA": "вулиця Кузнечна, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 162707,
+  "postcode": 61003,
+  "number": 28,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2374358186,
+  "lati": 49.9857012914,
+  "FullNameUA": "вулиця Кузнечна, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 162708,
@@ -945,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239811956000004,
-  "lati": 49.986508686300006,
-  "FullNameUA": "вулиця Кузнечна, 29"
+  "longt": 36.239811956,
+  "lati": 49.9865086863,
+  "FullNameUA": "вулиця Кузнечна, 29",
+  "ChildsIds": []
  },
  {
   "id": 162709,
@@ -970,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237577735500004,
+  "longt": 36.2375777355,
   "lati": 49.9859392735,
-  "FullNameUA": "вулиця Кузнечна, 30"
+  "FullNameUA": "вулиця Кузнечна, 30",
+  "ChildsIds": []
  },
  {
   "id": 162711,
@@ -997,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2380886254,
   "lati": 49.9859865681,
-  "FullNameUA": "вулиця Кузнечна, 32-А"
+  "FullNameUA": "вулиця Кузнечна, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 162710,
@@ -1021,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2394486393,
-  "lati": 49.985129691000004,
-  "FullNameUA": "вулиця Кузнечна, 32"
+  "lati": 49.985129691,
+  "FullNameUA": "вулиця Кузнечна, 32",
+  "ChildsIds": []
  },
  {
   "id": 162712,
@@ -1046,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2384316775,
-  "lati": 49.985807762600004,
-  "FullNameUA": "вулиця Кузнечна, 34"
+  "lati": 49.9858077626,
+  "FullNameUA": "вулиця Кузнечна, 34",
+  "ChildsIds": []
  },
  {
   "id": 162713,
@@ -1072,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2386681838,
   "lati": 49.9860837024,
-  "FullNameUA": "вулиця Кузнечна, 36"
+  "FullNameUA": "вулиця Кузнечна, 36",
+  "ChildsIds": []
  },
  {
   "id": 162714,
@@ -1095,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239042957200006,
-  "lati": 49.986132691200005,
-  "FullNameUA": "вулиця Кузнечна, 38"
+  "longt": 36.2390429572,
+  "lati": 49.9861326912,
+  "FullNameUA": "вулиця Кузнечна, 38",
+  "ChildsIds": []
  },
  {
   "id": 162715,
@@ -1122,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2393997936,
   "lati": 49.9861732796,
-  "FullNameUA": "вулиця Кузнечна, 40"
+  "FullNameUA": "вулиця Кузнечна, 40",
+  "ChildsIds": []
  },
  {
   "id": 162717,
@@ -1145,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.239909798000006,
+  "longt": 36.239909798,
   "lati": 49.9862072625,
-  "FullNameUA": "вулиця Кузнечна, 42"
+  "FullNameUA": "вулиця Кузнечна, 42",
+  "ChildsIds": []
  },
  {
   "id": 162716,
@@ -1170,34 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23971984240001,
+  "longt": 36.2397198424,
   "lati": 49.9862124646,
-  "FullNameUA": "вулиця Кузнечна, 42-А"
- },
- {
-  "id": 162718,
-  "postcode": 61003,
-  "number": 44,
-  "suffix": "",
-  "block": "",
-  "streetid": 3060,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2403324999,
-  "lati": 49.986220227100006,
-  "FullNameUA": "вулиця Кузнечна, 44"
+  "FullNameUA": "вулиця Кузнечна, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 162719,
@@ -1221,8 +1269,35 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.240965866,
-  "lati": 49.986425860100006,
-  "FullNameUA": "вулиця Кузнечна, 44-А"
+  "lati": 49.9864258601,
+  "FullNameUA": "вулиця Кузнечна, 44-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 162718,
+  "postcode": 61003,
+  "number": 44,
+  "suffix": "",
+  "block": "",
+  "streetid": 3060,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2403324999,
+  "lati": 49.9862202271,
+  "FullNameUA": "вулиця Кузнечна, 44",
+  "ChildsIds": []
  },
  {
   "id": 162720,
@@ -1247,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2415512878,
   "lati": 49.9863390097,
-  "FullNameUA": "вулиця Кузнечна, 46/48"
+  "FullNameUA": "вулиця Кузнечна, 46/48",
+  "ChildsIds": []
  },
  {
   "id": 175832,
@@ -1272,6 +1348,7 @@
   "reg_date": "",
   "longt": 36.2412321356,
   "lati": 49.9866245806,
-  "FullNameUA": "вулиця Кузнечна, 56/58"
+  "FullNameUA": "вулиця Кузнечна, 56/58",
+  "ChildsIds": []
  }
 ]

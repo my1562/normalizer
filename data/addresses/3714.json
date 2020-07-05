@@ -21,13 +21,14 @@
   "confrm": "",
   "reg_date": "24.04.2019 16:30:48",
   "longt": 36.2571741167,
-  "lati": 50.029444000400005,
-  "FullNameUA": "вулиця Професорська, 6"
+  "lati": 50.0294440004,
+  "FullNameUA": "вулиця Професорська, 6",
+  "ChildsIds": []
  },
  {
-  "id": 180254,
+  "id": 183022,
   "postcode": 61070,
-  "number": 28,
+  "number": 12,
   "suffix": "",
   "block": "",
   "streetid": 3714,
@@ -41,13 +42,92 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "індивідуальне домоволодіння",
-  "reg_date": "",
-  "longt": 36.2521269193,
-  "lati": 50.032052584700004,
-  "FullNameUA": "вулиця Професорська, 28"
+  "source_id": 1,
+  "same_adr_comm": "житлові будинки 3, 5 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "16.06.2020 15:40:52",
+  "longt": 36.2541873738,
+  "lati": 50.030879023,
+  "FullNameUA": "вулиця Професорська, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 183023,
+  "postcode": 61070,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 3714,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житлові будинки 2, 6 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "16.06.2020 15:41:13",
+  "longt": 36.2547291603,
+  "lati": 50.0314027859,
+  "FullNameUA": "вулиця Професорська, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 183020,
+  "postcode": 61070,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3714,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок 1 літ. \"А-15\"",
+  "confrm": "",
+  "reg_date": "16.06.2020 15:41:57",
+  "longt": 36.2536919465,
+  "lati": 50.0319524572,
+  "FullNameUA": "вулиця Професорська, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 183021,
+  "postcode": 61070,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3714,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок 4 літ. \"А-14-16\"",
+  "confrm": "",
+  "reg_date": "16.06.2020 15:42:18",
+  "longt": 36.2531826301,
+  "lati": 50.0313891873,
+  "FullNameUA": "вулиця Професорська, 18",
+  "ChildsIds": []
  },
  {
   "id": 118723,
@@ -71,8 +151,35 @@
   "confrm": "дошкільний заклад",
   "reg_date": "",
   "longt": 36.2541862847,
-  "lati": 50.029726501000006,
-  "FullNameUA": "вулиця Професорська, 28"
+  "lati": 50.029726501,
+  "FullNameUA": "вулиця Професорська, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 180254,
+  "postcode": 61070,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 3714,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "індивідуальне домоволодіння",
+  "reg_date": "",
+  "longt": 36.2521269193,
+  "lati": 50.0320525847,
+  "FullNameUA": "вулиця Професорська, 28",
+  "ChildsIds": []
  },
  {
   "id": 179127,
@@ -97,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2524769678,
   "lati": 50.0319079108,
-  "FullNameUA": "вулиця Професорська, 29"
+  "FullNameUA": "вулиця Професорська, 29",
+  "ChildsIds": []
  },
  {
   "id": 118724,
@@ -120,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.254354107,
-  "lati": 50.0314851618,
-  "FullNameUA": "вулиця Професорська, 30"
+  "longt": 36.2539752077,
+  "lati": 50.0314085738,
+  "FullNameUA": "вулиця Професорська, 30",
+  "ChildsIds": []
  },
  {
   "id": 118725,
@@ -147,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2561109773,
   "lati": 50.0300490362,
-  "FullNameUA": "вулиця Професорська, 31"
+  "FullNameUA": "вулиця Професорська, 31",
+  "ChildsIds": []
  },
  {
   "id": 118726,
@@ -172,7 +282,8 @@
   "reg_date": "24.04.2019 16:29:08",
   "longt": 36.257147196,
   "lati": 50.0294325297,
-  "FullNameUA": "вулиця Професорська, 32"
+  "FullNameUA": "вулиця Професорська, 32",
+  "ChildsIds": []
  },
  {
   "id": 118727,
@@ -196,7 +307,8 @@
   "confrm": "Рішення ВК ХМР № 857, 26.12.2012",
   "reg_date": "10.01.2020 15:02:25",
   "longt": 36.2549323266,
-  "lati": 50.032469212100004,
-  "FullNameUA": "вулиця Професорська, 34"
+  "lati": 50.0324692121,
+  "FullNameUA": "вулиця Професорська, 34",
+  "ChildsIds": []
  }
 ]

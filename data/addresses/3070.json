@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238841659500004,
+  "longt": 36.2388416595,
   "lati": 50.009913096,
-  "FullNameUA": "вулиця Культури, 1"
+  "FullNameUA": "вулиця Культури, 1",
+  "ChildsIds": []
  },
  {
   "id": 117267,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238240556600005,
+  "longt": 36.2382405566,
   "lati": 50.0103960159,
-  "FullNameUA": "вулиця Культури, 3"
+  "FullNameUA": "вулиця Культури, 3",
+  "ChildsIds": []
  },
  {
   "id": 117268,
@@ -66,13 +68,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-7\"",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "12.02.2020 15:11:06",
   "longt": 36.2395629836,
   "lati": 50.0102279746,
-  "FullNameUA": "вулиця Культури, 4"
+  "FullNameUA": "вулиця Культури, 4",
+  "ChildsIds": []
  },
  {
   "id": 117269,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23653158970001,
+  "longt": 36.2365315897,
   "lati": 50.0107753446,
-  "FullNameUA": "вулиця Культури, 5"
+  "FullNameUA": "вулиця Культури, 5",
+  "ChildsIds": []
  },
  {
   "id": 117270,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2388504616,
   "lati": 50.0105719744,
-  "FullNameUA": "вулиця Культури, 6"
+  "FullNameUA": "вулиця Культури, 6",
+  "ChildsIds": []
  },
  {
   "id": 117271,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235388775500006,
+  "longt": 36.2353887755,
   "lati": 50.0116762936,
-  "FullNameUA": "вулиця Культури, 7"
+  "FullNameUA": "вулиця Культури, 7",
+  "ChildsIds": []
  },
  {
   "id": 117272,
@@ -170,34 +176,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 639, 15.10.2014",
   "reg_date": "15.11.2019 16:01:44",
-  "longt": 36.23830009860001,
+  "longt": 36.2383000986,
   "lati": 50.0113999175,
-  "FullNameUA": "вулиця Культури, 8"
- },
- {
-  "id": 117274,
-  "postcode": 61058,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23297302340001,
-  "lati": 50.0118013855,
-  "FullNameUA": "вулиця Культури, 9-А"
+  "FullNameUA": "вулиця Культури, 8",
+  "ChildsIds": []
  },
  {
   "id": 117273,
@@ -220,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234083257600005,
+  "longt": 36.2340832576,
   "lati": 50.0115754025,
-  "FullNameUA": "вулиця Культури, 9"
+  "FullNameUA": "вулиця Культури, 9",
+  "ChildsIds": []
  },
  {
   "id": 117275,
@@ -245,15 +228,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232529045700005,
+  "longt": 36.2325290457,
   "lati": 50.0115893806,
-  "FullNameUA": "вулиця Культури, 9-Б"
+  "FullNameUA": "вулиця Культури, 9-Б",
+  "ChildsIds": []
  },
  {
-  "id": 117276,
+  "id": 117274,
   "postcode": 61058,
-  "number": 10,
-  "suffix": "",
+  "number": 9,
+  "suffix": "А",
   "block": "",
   "streetid": 3070,
   "status_id": 1,
@@ -270,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2375472829,
-  "lati": 50.0115268005,
-  "FullNameUA": "вулиця Культури, 10"
+  "longt": 36.2329730234,
+  "lati": 50.0118013855,
+  "FullNameUA": "вулиця Культури, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 117278,
@@ -295,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.237678175400006,
+  "longt": 36.2376781754,
   "lati": 50.0111324716,
-  "FullNameUA": "вулиця Культури, 10-Б"
+  "FullNameUA": "вулиця Культури, 10-Б",
+  "ChildsIds": []
  },
  {
   "id": 117277,
@@ -322,7 +308,34 @@
   "reg_date": "",
   "longt": 36.2380270502,
   "lati": 50.0121213936,
-  "FullNameUA": "вулиця Культури, 10-А"
+  "FullNameUA": "вулиця Культури, 10-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117276,
+  "postcode": 61058,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2375472829,
+  "lati": 50.0115268005,
+  "FullNameUA": "вулиця Культури, 10",
+  "ChildsIds": []
  },
  {
   "id": 117279,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.23306036,
   "lati": 50.0122689822,
-  "FullNameUA": "вулиця Культури, 11"
+  "FullNameUA": "вулиця Культури, 11",
+  "ChildsIds": []
  },
  {
   "id": 179622,
@@ -371,8 +385,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2331844954,
-  "lati": 50.011968244799995,
-  "FullNameUA": "вулиця Культури, 11, гараж № 266"
+  "lati": 50.0119682448,
+  "FullNameUA": "вулиця Культури, 11, гараж № 266",
+  "ChildsIds": []
  },
  {
   "id": 117280,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236832936700004,
+  "longt": 36.2368329367,
   "lati": 50.0115323783,
-  "FullNameUA": "вулиця Культури, 12"
+  "FullNameUA": "вулиця Культури, 12",
+  "ChildsIds": []
  },
  {
   "id": 117281,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23126083100001,
+  "longt": 36.231260831,
   "lati": 50.0123576544,
-  "FullNameUA": "вулиця Культури, 13"
+  "FullNameUA": "вулиця Культури, 13",
+  "ChildsIds": []
  },
  {
   "id": 117282,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2371566842,
-  "lati": 50.011979816099995,
-  "FullNameUA": "вулиця Культури, 14"
+  "lati": 50.0119798161,
+  "FullNameUA": "вулиця Культури, 14",
+  "ChildsIds": []
  },
  {
   "id": 117283,
@@ -470,34 +488,10 @@
   "same_adr_comm": "",
   "confrm": "1102, 29.12.1995",
   "reg_date": "",
-  "longt": 36.230646455800006,
+  "longt": 36.2306464558,
   "lati": 50.0122698207,
-  "FullNameUA": "вулиця Культури, 15"
- },
- {
-  "id": 117284,
-  "postcode": 61058,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23612556530001,
-  "lati": 50.0118487508,
-  "FullNameUA": "вулиця Культури, 16"
+  "FullNameUA": "вулиця Культури, 15",
+  "ChildsIds": []
  },
  {
   "id": 117285,
@@ -520,9 +514,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236914170300004,
+  "longt": 36.2369141703,
   "lati": 50.0123357751,
-  "FullNameUA": "вулиця Культури, 16-А"
+  "FullNameUA": "вулиця Культури, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117284,
+  "postcode": 61058,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2361255653,
+  "lati": 50.0118487508,
+  "FullNameUA": "вулиця Культури, 16",
+  "ChildsIds": []
  },
  {
   "id": 117286,
@@ -547,32 +568,8 @@
   "reg_date": "",
   "longt": 36.2357253256,
   "lati": 50.0123716962,
-  "FullNameUA": "вулиця Культури, 18"
- },
- {
-  "id": 117287,
-  "postcode": 61058,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2351401322,
-  "lati": 50.012617641999995,
-  "FullNameUA": "вулиця Культури, 20"
+  "FullNameUA": "вулиця Культури, 18",
+  "ChildsIds": []
  },
  {
   "id": 117290,
@@ -595,34 +592,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Дзержинської райради № 7/8, 17.01.2006",
   "reg_date": "27.02.2019 09:42:41",
-  "longt": 36.234920983100004,
+  "longt": 36.2349209831,
   "lati": 50.0131156144,
-  "FullNameUA": "вулиця Культури, 20-В"
- },
- {
-  "id": 117288,
-  "postcode": 61058,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2357609835,
-  "lati": 50.013478357299995,
-  "FullNameUA": "вулиця Культури, 20-А"
+  "FullNameUA": "вулиця Культури, 20-В",
+  "ChildsIds": []
  },
  {
   "id": 117289,
@@ -647,7 +620,60 @@
   "reg_date": "",
   "longt": 36.2285239738,
   "lati": 50.0123158212,
-  "FullNameUA": "вулиця Культури, 20-Б"
+  "FullNameUA": "вулиця Культури, 20-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117288,
+  "postcode": 61058,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2357609835,
+  "lati": 50.0134783573,
+  "FullNameUA": "вулиця Культури, 20-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117287,
+  "postcode": 61058,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2351401322,
+  "lati": 50.012617642,
+  "FullNameUA": "вулиця Культури, 20",
+  "ChildsIds": []
  },
  {
   "id": 117291,
@@ -671,83 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2265644273,
-  "lati": 50.011787413899995,
-  "FullNameUA": "вулиця Культури, 21"
- },
- {
-  "id": 117294,
-  "postcode": 61058,
-  "number": 22,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23158366170001,
-  "lati": 50.0128544509,
-  "FullNameUA": "вулиця Культури, 22-Б"
- },
- {
-  "id": 117293,
-  "postcode": 61058,
-  "number": 22,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.224980700799996,
-  "lati": 50.0125754962,
-  "FullNameUA": "вулиця Культури, 22-А"
- },
- {
-  "id": 117292,
-  "postcode": 61058,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 3070,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.234119871100006,
-  "lati": 50.0125299647,
-  "FullNameUA": "вулиця Культури, 22"
+  "lati": 50.0117874139,
+  "FullNameUA": "вулиця Культури, 21",
+  "ChildsIds": []
  },
  {
   "id": 117295,
@@ -771,8 +723,87 @@
   "confrm": "Рішення ВК ХМР № 331, 04.06.2014",
   "reg_date": "18.11.2019 16:11:02",
   "longt": 36.2292691041,
-  "lati": 50.012830305099996,
-  "FullNameUA": "вулиця Культури, 22-В"
+  "lati": 50.0128303051,
+  "FullNameUA": "вулиця Культури, 22-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 117293,
+  "postcode": 61058,
+  "number": 22,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2249807008,
+  "lati": 50.0125754962,
+  "FullNameUA": "вулиця Культури, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117292,
+  "postcode": 61058,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2341198711,
+  "lati": 50.0125299647,
+  "FullNameUA": "вулиця Культури, 22",
+  "ChildsIds": []
+ },
+ {
+  "id": 117294,
+  "postcode": 61058,
+  "number": 22,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3070,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2315836617,
+  "lati": 50.0128544509,
+  "FullNameUA": "вулиця Культури, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 117296,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2252680265,
   "lati": 50.0116148566,
-  "FullNameUA": "вулиця Культури, 23"
+  "FullNameUA": "вулиця Культури, 23",
+  "ChildsIds": []
  },
  {
   "id": 117297,
@@ -822,6 +854,7 @@
   "reg_date": "",
   "longt": 36.2236655638,
   "lati": 50.0114131722,
-  "FullNameUA": "вулиця Культури, 25-А"
+  "FullNameUA": "вулиця Культури, 25-А",
+  "ChildsIds": []
  }
 ]

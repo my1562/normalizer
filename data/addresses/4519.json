@@ -21,8 +21,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1565853691,
-  "lati": 49.990516842400005,
-  "FullNameUA": "узвіз Алуштинський, 4"
+  "lati": 49.9905168424,
+  "FullNameUA": "узвіз Алуштинський, 4",
+  "ChildsIds": []
  },
  {
   "id": 146612,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1568726988,
   "lati": 49.9903761113,
-  "FullNameUA": "узвіз Алуштинський, 5"
+  "FullNameUA": "узвіз Алуштинський, 5",
+  "ChildsIds": []
  },
  {
   "id": 176481,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.157234904199996,
+  "longt": 36.1572349042,
   "lati": 49.9901752812,
-  "FullNameUA": "узвіз Алуштинський, 6"
+  "FullNameUA": "узвіз Алуштинський, 6",
+  "ChildsIds": []
  },
  {
   "id": 176483,
@@ -96,8 +99,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1573914436,
-  "lati": 49.989921078200005,
-  "FullNameUA": "узвіз Алуштинський, 7"
+  "lati": 49.9899210782,
+  "FullNameUA": "узвіз Алуштинський, 7",
+  "ChildsIds": []
  },
  {
   "id": 176484,
@@ -120,8 +124,61 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.157708361299996,
-  "lati": 49.989804091900005,
-  "FullNameUA": "узвіз Алуштинський, 8"
+  "longt": 36.1577083613,
+  "lati": 49.9898040919,
+  "FullNameUA": "узвіз Алуштинський, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182948,
+  "postcode": 61098,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1579900592,
+  "lati": 49.9896871597,
+  "FullNameUA": "узвіз Алуштинський, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 182949,
+  "postcode": 61098,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1582652619,
+  "lati": 49.989535918,
+  "FullNameUA": "узвіз Алуштинський, 10",
+  "ChildsIds": []
  }
 ]

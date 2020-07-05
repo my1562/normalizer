@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.262760408,
   "lati": 49.9860510004,
-  "FullNameUA": "майдан Захисників України, 1"
+  "FullNameUA": "майдан Захисників України, 1",
+  "ChildsIds": []
  },
  {
   "id": 165061,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2638853702,
-  "lati": 49.989841661700005,
-  "FullNameUA": "майдан Захисників України, 1"
+  "lati": 49.9898416617,
+  "FullNameUA": "майдан Захисників України, 1",
+  "ChildsIds": []
  },
  {
   "id": 169802,
@@ -72,107 +74,8 @@
   "reg_date": "28.02.2019 11:25:05",
   "longt": 36.2603096682,
   "lati": 49.9848500482,
-  "FullNameUA": "майдан Захисників України, 1-А"
- },
- {
-  "id": 169803,
-  "postcode": 61001,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 3635,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "ндо",
-  "reg_date": "",
-  "longt": 36.2594758964,
-  "lati": 49.9844342824,
-  "FullNameUA": "майдан Захисників України, 2"
- },
- {
-  "id": 169804,
-  "postcode": 61001,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3635,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2601201003,
-  "lati": 49.9858567101,
-  "FullNameUA": "майдан Захисників України, 2-А"
- },
- {
-  "id": 169805,
-  "postcode": 61001,
-  "number": 2,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3635,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.259267233,
-  "lati": 49.9852089298,
-  "FullNameUA": "майдан Захисників України, 2-Б"
- },
- {
-  "id": 165062,
-  "postcode": 61001,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 3635,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.263143391,
-  "lati": 49.989219594000005,
-  "FullNameUA": "майдан Захисників України, 2"
+  "FullNameUA": "майдан Захисників України, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 180230,
@@ -197,7 +100,112 @@
   "reg_date": "",
   "longt": 36.2594825403,
   "lati": 49.9852112972,
-  "FullNameUA": "майдан Захисників України, 2-К"
+  "FullNameUA": "майдан Захисників України, 2-К",
+  "ChildsIds": []
+ },
+ {
+  "id": 169805,
+  "postcode": 61001,
+  "number": 2,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3635,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.259267233,
+  "lati": 49.9852089298,
+  "FullNameUA": "майдан Захисників України, 2-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 169804,
+  "postcode": 61001,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3635,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2601201003,
+  "lati": 49.9858567101,
+  "FullNameUA": "майдан Захисників України, 2-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169803,
+  "postcode": 61001,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3635,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "ндо",
+  "reg_date": "",
+  "longt": 36.2594758964,
+  "lati": 49.9844342824,
+  "FullNameUA": "майдан Захисників України, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 165062,
+  "postcode": 61001,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3635,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.263143391,
+  "lati": 49.989219594,
+  "FullNameUA": "майдан Захисників України, 2",
+  "ChildsIds": []
  },
  {
   "id": 169806,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2607409026,
   "lati": 49.984325204,
-  "FullNameUA": "майдан Захисників України, 3"
+  "FullNameUA": "майдан Захисників України, 3",
+  "ChildsIds": []
  },
  {
   "id": 165063,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2620883997,
   "lati": 49.9884589003,
-  "FullNameUA": "майдан Захисників України, 3"
+  "FullNameUA": "майдан Захисників України, 3",
+  "ChildsIds": []
  },
  {
   "id": 165064,
@@ -272,7 +282,34 @@
   "reg_date": "",
   "longt": 36.2614701235,
   "lati": 49.9878009521,
-  "FullNameUA": "майдан Захисників України, 4"
+  "FullNameUA": "майдан Захисників України, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 165066,
+  "postcode": 61001,
+  "number": 5,
+  "suffix": "/6",
+  "block": "",
+  "streetid": 3635,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2606423769,
+  "lati": 49.987050036,
+  "FullNameUA": "майдан Захисників України, 5/6",
+  "ChildsIds": []
  },
  {
   "id": 165065,
@@ -297,32 +334,8 @@
   "reg_date": "",
   "longt": 36.2604867875,
   "lati": 49.9869319263,
-  "FullNameUA": "майдан Захисників України, 5"
- },
- {
-  "id": 165066,
-  "postcode": 61001,
-  "number": 5,
-  "suffix": "/6",
-  "block": "",
-  "streetid": 3635,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.260642376899995,
-  "lati": 49.98705003600001,
-  "FullNameUA": "майдан Захисників України, 5/6"
+  "FullNameUA": "майдан Захисників України, 5",
+  "ChildsIds": []
  },
  {
   "id": 169807,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.26104177,
-  "lati": 49.984177025200005,
-  "FullNameUA": "майдан Захисників України, 6"
+  "lati": 49.9841770252,
+  "FullNameUA": "майдан Захисників України, 6",
+  "ChildsIds": []
  },
  {
   "id": 165067,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2590438094,
   "lati": 49.9858159268,
-  "FullNameUA": "майдан Захисників України, 7/8"
+  "FullNameUA": "майдан Захисників України, 7/8",
+  "ChildsIds": []
  },
  {
   "id": 169808,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2644055839,
   "lati": 49.9861684659,
-  "FullNameUA": "майдан Захисників України, 15"
+  "FullNameUA": "майдан Захисників України, 15",
+  "ChildsIds": []
  },
  {
   "id": 169809,
@@ -421,8 +437,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2629489388,
-  "lati": 49.98462904270001,
-  "FullNameUA": "майдан Захисників України, 16"
+  "lati": 49.9846290427,
+  "FullNameUA": "майдан Захисників України, 16",
+  "ChildsIds": []
  },
  {
   "id": 169810,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2621519963,
-  "lati": 49.98376005910001,
-  "FullNameUA": "майдан Захисників України, 17"
+  "lati": 49.9837600591,
+  "FullNameUA": "майдан Захисників України, 17",
+  "ChildsIds": []
  },
  {
   "id": 177136,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.262380736,
   "lati": 49.9840345197,
-  "FullNameUA": "майдан Захисників України, 17-А"
+  "FullNameUA": "майдан Захисників України, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 169811,
@@ -497,6 +516,7 @@
   "reg_date": "",
   "longt": 36.2649941408,
   "lati": 49.9866262915,
-  "FullNameUA": "майдан Захисників України, 19"
+  "FullNameUA": "майдан Захисників України, 19",
+  "ChildsIds": []
  }
 ]

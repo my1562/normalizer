@@ -1,7 +1,7 @@
 [
  {
   "id": 131172,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 2,
   "suffix": "",
   "block": "",
@@ -20,13 +20,14 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "06.08.2014 00:00:00",
-  "longt": 36.303706009,
-  "lati": 50.05257040910001,
-  "FullNameUA": "вулиця Поліканова, 2"
+  "longt": 36.3037171048,
+  "lati": 50.0525623498,
+  "FullNameUA": "вулиця Поліканова, 2",
+  "ChildsIds": []
  },
  {
   "id": 131173,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 4,
   "suffix": "",
   "block": "",
@@ -45,13 +46,14 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "10.04.2019 16:01:52",
-  "longt": 36.30409466970001,
-  "lati": 50.0526907046,
-  "FullNameUA": "вулиця Поліканова, 4"
+  "longt": 36.3041242396,
+  "lati": 50.0526825981,
+  "FullNameUA": "вулиця Поліканова, 4",
+  "ChildsIds": []
  },
  {
   "id": 131174,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 6,
   "suffix": "",
   "block": "",
@@ -66,17 +68,18 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка ",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.30449984530001,
-  "lati": 50.0527914501,
-  "FullNameUA": "вулиця Поліканова, 6"
+  "reg_date": "10.03.2020 17:09:32",
+  "longt": 36.3044722272,
+  "lati": 50.0527958619,
+  "FullNameUA": "вулиця Поліканова, 6",
+  "ChildsIds": []
  },
  {
   "id": 131175,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 10,
   "suffix": "",
   "block": "",
@@ -95,13 +98,14 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "28.10.2015 00:00:00",
-  "longt": 36.3054287718,
-  "lati": 50.053051135100006,
-  "FullNameUA": "вулиця Поліканова, 10"
+  "longt": 36.3054417954,
+  "lati": 50.0530549666,
+  "FullNameUA": "вулиця Поліканова, 10",
+  "ChildsIds": []
  },
  {
   "id": 131176,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 12,
   "suffix": "",
   "block": "",
@@ -120,13 +124,14 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.305718318400004,
-  "lati": 50.0531517084,
-  "FullNameUA": "вулиця Поліканова, 12"
+  "longt": 36.3057194014,
+  "lati": 50.0531374943,
+  "FullNameUA": "вулиця Поліканова, 12",
+  "ChildsIds": []
  },
  {
   "id": 131177,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 14,
   "suffix": "",
   "block": "",
@@ -141,17 +146,18 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6325185001:00:037:0005)",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.3060321935,
-  "lati": 50.053244601,
-  "FullNameUA": "вулиця Поліканова, 14"
+  "reg_date": "10.03.2020 17:25:05",
+  "longt": 36.3060710671,
+  "lati": 50.0532483612,
+  "FullNameUA": "вулиця Поліканова, 14",
+  "ChildsIds": []
  },
  {
   "id": 131178,
-  "postcode": 61026,
+  "postcode": 61107,
   "number": 16,
   "suffix": "",
   "block": "",
@@ -170,8 +176,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306487430100006,
-  "lati": 50.0533742268,
-  "FullNameUA": "вулиця Поліканова, 16"
+  "longt": 36.3065115186,
+  "lati": 50.0533756515,
+  "FullNameUA": "вулиця Поліканова, 16",
+  "ChildsIds": []
  }
 ]

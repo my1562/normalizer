@@ -21,8 +21,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3018315436,
-  "lati": 50.045250668899996,
-  "FullNameUA": "вулиця Нова Чуйківська, 1"
+  "lati": 50.0452506689,
+  "FullNameUA": "вулиця Нова Чуйківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 178834,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302471413300005,
+  "longt": 36.3024714133,
   "lati": 50.0453575961,
-  "FullNameUA": "вулиця Нова Чуйківська, 2"
+  "FullNameUA": "вулиця Нова Чуйківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 175823,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3021308579,
   "lati": 50.0445911892,
-  "FullNameUA": "вулиця Нова Чуйківська, 3"
+  "FullNameUA": "вулиця Нова Чуйківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 130936,
@@ -95,9 +98,10 @@
   "same_adr_comm": "житловий будинок літ. \"А-1\"",
   "confrm": "741, 25.11.2015",
   "reg_date": "31.01.2019 15:53:58",
-  "longt": 36.302568207200004,
+  "longt": 36.3025682072,
   "lati": 50.0451661588,
-  "FullNameUA": "вулиця Нова Чуйківська, 4"
+  "FullNameUA": "вулиця Нова Чуйківська, 4",
+  "ChildsIds": []
  },
  {
   "id": 130937,
@@ -122,32 +126,8 @@
   "reg_date": "31.01.2019 15:42:46",
   "longt": 36.3026875425,
   "lati": 50.0450528606,
-  "FullNameUA": "вулиця Нова Чуйківська, 4-А"
- },
- {
-  "id": 175822,
-  "postcode": 61107,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4587,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.301490128800005,
-  "lati": 50.0442248641,
-  "FullNameUA": "вулиця Нова Чуйківська, 5-А"
+  "FullNameUA": "вулиця Нова Чуйківська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 175353,
@@ -170,9 +150,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302032755800006,
+  "longt": 36.3020327558,
   "lati": 50.0441690803,
-  "FullNameUA": "вулиця Нова Чуйківська, 5"
+  "FullNameUA": "вулиця Нова Чуйківська, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 175822,
+  "postcode": 61107,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3014901288,
+  "lati": 50.0442248641,
+  "FullNameUA": "вулиця Нова Чуйківська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 175824,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3027677556,
   "lati": 50.0448416692,
-  "FullNameUA": "вулиця Нова Чуйківська, 6"
+  "FullNameUA": "вулиця Нова Чуйківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 175233,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30205055850001,
+  "longt": 36.3020505585,
   "lati": 50.0438269236,
-  "FullNameUA": "вулиця Нова Чуйківська, 7"
+  "FullNameUA": "вулиця Нова Чуйківська, 7",
+  "ChildsIds": []
  },
  {
   "id": 175825,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302917255000004,
+  "longt": 36.302917255,
   "lati": 50.0446222487,
-  "FullNameUA": "вулиця Нова Чуйківська, 8"
+  "FullNameUA": "вулиця Нова Чуйківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 175818,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3025740849,
   "lati": 50.044064214,
-  "FullNameUA": "вулиця Нова Чуйківська, 10"
+  "FullNameUA": "вулиця Нова Чуйківська, 10",
+  "ChildsIds": []
  },
  {
   "id": 175819,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.303094917,
   "lati": 50.0440676124,
-  "FullNameUA": "вулиця Нова Чуйківська, 10-А"
+  "FullNameUA": "вулиця Нова Чуйківська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 175827,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302076878200005,
+  "longt": 36.3020768782,
   "lati": 50.0431425236,
-  "FullNameUA": "вулиця Нова Чуйківська, 11"
+  "FullNameUA": "вулиця Нова Чуйківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 175817,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30257295130001,
+  "longt": 36.3025729513,
   "lati": 50.0437932266,
-  "FullNameUA": "вулиця Нова Чуйківська, 12/1"
+  "FullNameUA": "вулиця Нова Чуйківська, 12/1",
+  "ChildsIds": []
  },
  {
   "id": 130938,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30260797140001,
+  "longt": 36.3026079714,
   "lati": 50.0434099309,
-  "FullNameUA": "вулиця Нова Чуйківська, 14/2"
+  "FullNameUA": "вулиця Нова Чуйківська, 14/2",
+  "ChildsIds": []
  },
  {
   "id": 175371,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302558486500004,
+  "longt": 36.3025584865,
   "lati": 50.0430803254,
-  "FullNameUA": "вулиця Нова Чуйківська, 16/1"
+  "FullNameUA": "вулиця Нова Чуйківська, 16/1",
+  "ChildsIds": []
  },
  {
   "id": 175374,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3026644393,
   "lati": 50.0426922177,
-  "FullNameUA": "вулиця Нова Чуйківська, 18/2"
+  "FullNameUA": "вулиця Нова Чуйківська, 18/2",
+  "ChildsIds": []
  },
  {
   "id": 175816,
@@ -445,9 +462,192 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30270670390001,
+  "longt": 36.3027067039,
   "lati": 50.0424489256,
-  "FullNameUA": "вулиця Нова Чуйківська, 20"
+  "FullNameUA": "вулиця Нова Чуйківська, 20",
+  "ChildsIds": []
+ },
+ {
+  "id": 183107,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3027939182,
+  "lati": 50.0388002543,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 183106,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3026091449,
+  "lati": 50.0390156844,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 183108,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3029144165,
+  "lati": 50.0385726031,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-Ж",
+  "ChildsIds": []
+ },
+ {
+  "id": 183105,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3025270903,
+  "lati": 50.039234964,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 183103,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3023440673,
+  "lati": 50.0397273251,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 183104,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.302438666,
+  "lati": 50.0394625402,
+  "FullNameUA": "вулиця Нова Чуйківська, 21-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 183102,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3021336549,
+  "lati": 50.0399464982,
+  "FullNameUA": "вулиця Нова Чуйківська, 21",
+  "ChildsIds": []
  },
  {
   "id": 178830,
@@ -470,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30279803370001,
+  "longt": 36.3027980337,
   "lati": 50.0421897135,
-  "FullNameUA": "вулиця Нова Чуйківська, 22"
+  "FullNameUA": "вулиця Нова Чуйківська, 22",
+  "ChildsIds": []
  },
  {
   "id": 178831,
@@ -495,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30280440280001,
+  "longt": 36.3028044028,
   "lati": 50.0418653228,
-  "FullNameUA": "вулиця Нова Чуйківська, 24"
+  "FullNameUA": "вулиця Нова Чуйківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 178832,
@@ -520,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302833276600005,
+  "longt": 36.3028332766,
   "lati": 50.0416407004,
-  "FullNameUA": "вулиця Нова Чуйківська, 26"
+  "FullNameUA": "вулиця Нова Чуйківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 181049,
@@ -546,8 +749,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3027359486,
-  "lati": 50.041131319499996,
-  "FullNameUA": "вулиця Нова Чуйківська, 30"
+  "lati": 50.0411313195,
+  "FullNameUA": "вулиця Нова Чуйківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 130939,
@@ -570,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30374193190001,
+  "longt": 36.3037419319,
   "lati": 50.0369461831,
-  "FullNameUA": "вулиця Нова Чуйківська, 31"
+  "FullNameUA": "вулиця Нова Чуйківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 181050,
@@ -595,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30274534830001,
+  "longt": 36.3027453483,
   "lati": 50.0408657317,
-  "FullNameUA": "вулиця Нова Чуйківська, 32"
+  "FullNameUA": "вулиця Нова Чуйківська, 32",
+  "ChildsIds": []
  },
  {
   "id": 130940,
@@ -620,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303858608000006,
+  "longt": 36.303858608,
   "lati": 50.036779936,
-  "FullNameUA": "вулиця Нова Чуйківська, 33"
+  "FullNameUA": "вулиця Нова Чуйківська, 33",
+  "ChildsIds": []
  },
  {
   "id": 181051,
@@ -645,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302732648200006,
+  "longt": 36.3027326482,
   "lati": 50.0406064947,
-  "FullNameUA": "вулиця Нова Чуйківська, 34"
+  "FullNameUA": "вулиця Нова Чуйківська, 34",
+  "ChildsIds": []
  },
  {
   "id": 179806,
@@ -672,7 +880,8 @@
   "reg_date": "",
   "longt": 36.3039675432,
   "lati": 50.036620117,
-  "FullNameUA": "вулиця Нова Чуйківська, 35"
+  "FullNameUA": "вулиця Нова Чуйківська, 35",
+  "ChildsIds": []
  },
  {
   "id": 179807,
@@ -695,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304048565500004,
+  "longt": 36.3040485655,
   "lati": 50.0365253682,
-  "FullNameUA": "вулиця Нова Чуйківська, 37"
+  "FullNameUA": "вулиця Нова Чуйківська, 37",
+  "ChildsIds": []
  },
  {
   "id": 181052,
@@ -720,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30301556330001,
+  "longt": 36.3030155633,
   "lati": 50.0397859615,
-  "FullNameUA": "вулиця Нова Чуйківська, 38-А"
+  "FullNameUA": "вулиця Нова Чуйківська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 181048,
@@ -745,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30289764890001,
+  "longt": 36.3028976489,
   "lati": 50.0399853946,
-  "FullNameUA": "вулиця Нова Чуйківська, 38"
+  "FullNameUA": "вулиця Нова Чуйківська, 38",
+  "ChildsIds": []
  },
  {
   "id": 179808,
@@ -772,7 +984,8 @@
   "reg_date": "",
   "longt": 36.304109797,
   "lati": 50.0363989035,
-  "FullNameUA": "вулиця Нова Чуйківська, 39"
+  "FullNameUA": "вулиця Нова Чуйківська, 39",
+  "ChildsIds": []
  },
  {
   "id": 130941,
@@ -795,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30414662330001,
+  "longt": 36.3041466233,
   "lati": 50.0379515601,
-  "FullNameUA": "вулиця Нова Чуйківська, 40"
+  "FullNameUA": "вулиця Нова Чуйківська, 40",
+  "ChildsIds": []
  },
  {
   "id": 130942,
@@ -820,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304252585600004,
+  "longt": 36.3042525856,
   "lati": 50.0377709785,
-  "FullNameUA": "вулиця Нова Чуйківська, 42"
+  "FullNameUA": "вулиця Нова Чуйківська, 42",
+  "ChildsIds": []
  },
  {
   "id": 130943,
@@ -845,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304375112100004,
+  "longt": 36.3043751121,
   "lati": 50.0375817901,
-  "FullNameUA": "вулиця Нова Чуйківська, 44"
+  "FullNameUA": "вулиця Нова Чуйківська, 44",
+  "ChildsIds": []
  },
  {
   "id": 130944,
@@ -870,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30447283390001,
+  "longt": 36.3044728339,
   "lati": 50.0373768726,
-  "FullNameUA": "вулиця Нова Чуйківська, 46"
+  "FullNameUA": "вулиця Нова Чуйківська, 46",
+  "ChildsIds": []
  },
  {
   "id": 179477,
@@ -895,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30457804380001,
-  "lati": 50.037226705900004,
-  "FullNameUA": "вулиця Нова Чуйківська, 48"
+  "longt": 36.3045780438,
+  "lati": 50.0372267059,
+  "FullNameUA": "вулиця Нова Чуйківська, 48",
+  "ChildsIds": []
  },
  {
   "id": 179483,
@@ -920,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30467447110001,
+  "longt": 36.3046744711,
   "lati": 50.0369730143,
-  "FullNameUA": "вулиця Нова Чуйківська, 50"
+  "FullNameUA": "вулиця Нова Чуйківська, 50",
+  "ChildsIds": []
  },
  {
   "id": 179482,
@@ -946,8 +1165,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3048006538,
-  "lati": 50.036778582800004,
-  "FullNameUA": "вулиця Нова Чуйківська, 52"
+  "lati": 50.0367785828,
+  "FullNameUA": "вулиця Нова Чуйківська, 52",
+  "ChildsIds": []
  },
  {
   "id": 179481,
@@ -972,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.3049109389,
   "lati": 50.0365815763,
-  "FullNameUA": "вулиця Нова Чуйківська, 54"
- },
- {
-  "id": 179480,
-  "postcode": 61107,
-  "number": 56,
-  "suffix": "",
-  "block": "",
-  "streetid": 4587,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.30488944500001,
-  "lati": 50.036318761000004,
-  "FullNameUA": "вулиця Нова Чуйківська, 56"
+  "FullNameUA": "вулиця Нова Чуйківська, 54",
+  "ChildsIds": []
  },
  {
   "id": 179479,
@@ -1022,6 +1218,33 @@
   "reg_date": "",
   "longt": 36.3053548552,
   "lati": 50.0363313338,
-  "FullNameUA": "вулиця Нова Чуйківська, 56-А"
+  "FullNameUA": "вулиця Нова Чуйківська, 56-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 179480,
+  "postcode": 61107,
+  "number": 56,
+  "suffix": "",
+  "block": "",
+  "streetid": 4587,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.304889445,
+  "lati": 50.036318761,
+  "FullNameUA": "вулиця Нова Чуйківська, 56",
+  "ChildsIds": []
  }
 ]

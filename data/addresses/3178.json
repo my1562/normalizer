@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.196866402599994,
+  "longt": 36.1968664026,
   "lati": 50.0440491041,
-  "FullNameUA": "вулиця Лялі Убийвовк, 1-Б"
+  "FullNameUA": "вулиця Лялі Убийвовк, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 179015,
@@ -47,32 +48,8 @@
   "reg_date": "22.03.2018 14:18:28",
   "longt": 36.1971533952,
   "lati": 50.0434417631,
-  "FullNameUA": "вулиця Лялі Убийвовк, 1"
- },
- {
-  "id": 117673,
-  "postcode": 61051,
-  "number": 4,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3178,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1964192042,
-  "lati": 50.0429501718,
-  "FullNameUA": "вулиця Лялі Убийвовк, 4-Б"
+  "FullNameUA": "вулиця Лялі Убийвовк, 1",
+  "ChildsIds": []
  },
  {
   "id": 117672,
@@ -97,7 +74,34 @@
   "reg_date": "",
   "longt": 36.1966797034,
   "lati": 50.0430337241,
-  "FullNameUA": "вулиця Лялі Убийвовк, 4"
+  "FullNameUA": "вулиця Лялі Убийвовк, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 117673,
+  "postcode": 61051,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3178,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1964192042,
+  "lati": 50.0429501718,
+  "FullNameUA": "вулиця Лялі Убийвовк, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 117675,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.1985567032,
   "lati": 50.043623242,
-  "FullNameUA": "вулиця Лялі Убийвовк, 5-А"
+  "FullNameUA": "вулиця Лялі Убийвовк, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 117674,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1981920291,
   "lati": 50.0435697974,
-  "FullNameUA": "вулиця Лялі Убийвовк, 5"
+  "FullNameUA": "вулиця Лялі Убийвовк, 5",
+  "ChildsIds": []
  },
  {
   "id": 117676,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1968698029,
   "lati": 50.0430672216,
-  "FullNameUA": "вулиця Лялі Убийвовк, 6"
+  "FullNameUA": "вулиця Лялі Убийвовк, 6",
+  "ChildsIds": []
  },
  {
   "id": 117677,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.1988413342,
   "lati": 50.0436786532,
-  "FullNameUA": "вулиця Лялі Убийвовк, 7"
+  "FullNameUA": "вулиця Лялі Убийвовк, 7",
+  "ChildsIds": []
  },
  {
   "id": 117678,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1990642254,
   "lati": 50.0437093945,
-  "FullNameUA": "вулиця Лялі Убийвовк, 7-А"
+  "FullNameUA": "вулиця Лялі Убийвовк, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 117679,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.197185401,
   "lati": 50.043124642,
-  "FullNameUA": "вулиця Лялі Убийвовк, 8"
+  "FullNameUA": "вулиця Лялі Убийвовк, 8",
+  "ChildsIds": []
  },
  {
   "id": 117680,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1974488197,
-  "lati": 50.043155778999996,
-  "FullNameUA": "вулиця Лялі Убийвовк, 10"
+  "lati": 50.043155779,
+  "FullNameUA": "вулиця Лялі Убийвовк, 10",
+  "ChildsIds": []
  },
  {
   "id": 175844,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.197956433799995,
-  "lati": 50.043153339599996,
-  "FullNameUA": "вулиця Лялі Убийвовк, 12/32"
+  "longt": 36.1979564338,
+  "lati": 50.0431533396,
+  "FullNameUA": "вулиця Лялі Убийвовк, 12/32",
+  "ChildsIds": []
  },
  {
   "id": 117682,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2000216211,
   "lati": 50.0438635227,
-  "FullNameUA": "вулиця Лялі Убийвовк, 13"
+  "FullNameUA": "вулиця Лялі Убийвовк, 13",
+  "ChildsIds": []
  },
  {
   "id": 117684,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1983436794,
   "lati": 50.0433194316,
-  "FullNameUA": "вулиця Лялі Убийвовк, 14-А"
+  "FullNameUA": "вулиця Лялі Убийвовк, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 117683,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198147886499996,
-  "lati": 50.043286445599996,
-  "FullNameUA": "вулиця Лялі Убийвовк, 14"
+  "longt": 36.1981478865,
+  "lati": 50.0432864456,
+  "FullNameUA": "вулиця Лялі Убийвовк, 14",
+  "ChildsIds": []
  },
  {
   "id": 117685,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2002337683,
   "lati": 50.0439305528,
-  "FullNameUA": "вулиця Лялі Убийвовк, 15/1"
+  "FullNameUA": "вулиця Лялі Убийвовк, 15/1",
+  "ChildsIds": []
  },
  {
   "id": 117686,
@@ -422,32 +438,8 @@
   "reg_date": "",
   "longt": 36.1985923401,
   "lati": 50.0432392114,
-  "FullNameUA": "вулиця Лялі Убийвовк, 16"
- },
- {
-  "id": 117687,
-  "postcode": 61051,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3178,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.198937918199995,
-  "lati": 50.0434403147,
-  "FullNameUA": "вулиця Лялі Убийвовк, 18"
+  "FullNameUA": "вулиця Лялі Убийвовк, 16",
+  "ChildsIds": []
  },
  {
   "id": 117688,
@@ -470,9 +462,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198741487999996,
+  "longt": 36.198741488,
   "lati": 50.0433984814,
-  "FullNameUA": "вулиця Лялі Убийвовк, 18-А"
+  "FullNameUA": "вулиця Лялі Убийвовк, 18-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117687,
+  "postcode": 61051,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3178,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1989379182,
+  "lati": 50.0434403147,
+  "FullNameUA": "вулиця Лялі Убийвовк, 18",
+  "ChildsIds": []
  },
  {
   "id": 117689,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200884265000006,
+  "longt": 36.200884265,
   "lati": 50.0440306578,
-  "FullNameUA": "вулиця Лялі Убийвовк, 19"
+  "FullNameUA": "вулиця Лялі Убийвовк, 19",
+  "ChildsIds": []
  },
  {
   "id": 117690,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199123820299995,
+  "longt": 36.1991238203,
   "lati": 50.0434732643,
-  "FullNameUA": "вулиця Лялі Убийвовк, 20"
+  "FullNameUA": "вулиця Лялі Убийвовк, 20",
+  "ChildsIds": []
  },
  {
   "id": 117691,
@@ -547,32 +568,8 @@
   "reg_date": "",
   "longt": 36.2011497379,
   "lati": 50.0440771369,
-  "FullNameUA": "вулиця Лялі Убийвовк, 21/45"
- },
- {
-  "id": 117693,
-  "postcode": 61051,
-  "number": 22,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3178,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.200013617100005,
-  "lati": 50.0436185703,
-  "FullNameUA": "вулиця Лялі Убийвовк, 22-Б"
+  "FullNameUA": "вулиця Лялі Убийвовк, 21/45",
+  "ChildsIds": []
  },
  {
   "id": 117692,
@@ -595,9 +592,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200207375000005,
+  "longt": 36.200207375,
   "lati": 50.0436557962,
-  "FullNameUA": "вулиця Лялі Убийвовк, 22-А"
+  "FullNameUA": "вулиця Лялі Убийвовк, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117693,
+  "postcode": 61051,
+  "number": 22,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3178,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2000136171,
+  "lati": 50.0436185703,
+  "FullNameUA": "вулиця Лялі Убийвовк, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 117694,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2003947931,
   "lati": 50.043671573,
-  "FullNameUA": "вулиця Лялі Убийвовк, 24"
+  "FullNameUA": "вулиця Лялі Убийвовк, 24",
+  "ChildsIds": []
  },
  {
   "id": 117695,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201791315200005,
+  "longt": 36.2017913152,
   "lati": 50.0442176523,
-  "FullNameUA": "вулиця Лялі Убийвовк, 25"
+  "FullNameUA": "вулиця Лялі Убийвовк, 25",
+  "ChildsIds": []
  },
  {
   "id": 117696,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2005966863,
   "lati": 50.0437110477,
-  "FullNameUA": "вулиця Лялі Убийвовк, 26"
+  "FullNameUA": "вулиця Лялі Убийвовк, 26",
+  "ChildsIds": []
  },
  {
   "id": 117697,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202024355700004,
+  "longt": 36.2020243557,
   "lati": 50.0442719497,
-  "FullNameUA": "вулиця Лялі Убийвовк, 27"
+  "FullNameUA": "вулиця Лялі Убийвовк, 27",
+  "ChildsIds": []
  },
  {
   "id": 117698,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200884351400006,
+  "longt": 36.2008843514,
   "lati": 50.0437675549,
-  "FullNameUA": "вулиця Лялі Убийвовк, 28"
+  "FullNameUA": "вулиця Лялі Убийвовк, 28",
+  "ChildsIds": []
  },
  {
   "id": 117699,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2023175611,
   "lati": 50.0442980539,
-  "FullNameUA": "вулиця Лялі Убийвовк, 29"
+  "FullNameUA": "вулиця Лялі Убийвовк, 29",
+  "ChildsIds": []
  },
  {
   "id": 117700,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201070013300004,
+  "longt": 36.2010700133,
   "lati": 50.0437880763,
-  "FullNameUA": "вулиця Лялі Убийвовк, 30"
+  "FullNameUA": "вулиця Лялі Убийвовк, 30",
+  "ChildsIds": []
  },
  {
   "id": 117701,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2012448945,
   "lati": 50.0438531246,
-  "FullNameUA": "вулиця Лялі Убийвовк, 32"
+  "FullNameUA": "вулиця Лялі Убийвовк, 32",
+  "ChildsIds": []
  },
  {
   "id": 117702,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2019101932,
-  "lati": 50.043776386699996,
-  "FullNameUA": "вулиця Лялі Убийвовк, 36"
+  "lati": 50.0437763867,
+  "FullNameUA": "вулиця Лялі Убийвовк, 36",
+  "ChildsIds": []
  },
  {
   "id": 117703,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202027549600004,
+  "longt": 36.2020275496,
   "lati": 50.0439743702,
-  "FullNameUA": "вулиця Лялі Убийвовк, 38"
+  "FullNameUA": "вулиця Лялі Убийвовк, 38",
+  "ChildsIds": []
  },
  {
   "id": 117704,
@@ -871,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2022204932,
-  "lati": 50.043967956399996,
-  "FullNameUA": "вулиця Лялі Убийвовк, 40"
+  "lati": 50.0439679564,
+  "FullNameUA": "вулиця Лялі Убийвовк, 40",
+  "ChildsIds": []
  },
  {
   "id": 176971,
@@ -897,6 +932,7 @@
   "reg_date": "",
   "longt": 36.2023506696,
   "lati": 50.0440229543,
-  "FullNameUA": "вулиця Лялі Убийвовк, 42"
+  "FullNameUA": "вулиця Лялі Убийвовк, 42",
+  "ChildsIds": []
  }
 ]

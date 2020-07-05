@@ -20,8 +20,37 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.391435414600004,
-  "lati": 49.988718145300005,
-  "FullNameUA": "вулиця Шкільна (сел. Кулиничі), 5-А"
+  "longt": 36.3914354146,
+  "lati": 49.9887181453,
+  "FullNameUA": "вулиця Шкільна (сел. Кулиничі), 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 182820,
+  "postcode": 61026,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 7180,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "15.05.2020 16:47:34",
+  "longt": 36.3839637457,
+  "lati": 49.9927207381,
+  "FullNameUA": "вулиця Шкільна (сел. Кулиничі), 21",
+  "ChildsIds": [
+   107988
+  ]
  }
 ]

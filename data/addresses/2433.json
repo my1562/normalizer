@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3140153214,
   "lati": 50.0474590074,
-  "FullNameUA": "в'їзд Гірський, 1"
+  "FullNameUA": "в'їзд Гірський, 1",
+  "ChildsIds": []
  },
  {
   "id": 121960,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.315678549400005,
+  "longt": 36.3156785494,
   "lati": 50.0477789869,
-  "FullNameUA": "в'їзд Гірський, 2"
+  "FullNameUA": "в'їзд Гірський, 2",
+  "ChildsIds": []
  },
  {
   "id": 121961,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "викопіювання БТІ",
   "reg_date": "",
-  "longt": 36.315904422100004,
+  "longt": 36.3159044221,
   "lati": 50.0471232454,
-  "FullNameUA": "в'їзд Гірський, 3"
+  "FullNameUA": "в'їзд Гірський, 3",
+  "ChildsIds": []
  },
  {
   "id": 121962,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.31365956,
   "lati": 50.0480270853,
-  "FullNameUA": "в'їзд Гірський, 3-А"
+  "FullNameUA": "в'їзд Гірський, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 121965,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3136852899,
   "lati": 50.0478309732,
-  "FullNameUA": "в'їзд Гірський, 4-А"
+  "FullNameUA": "в'їзд Гірський, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 121963,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.315411075600004,
+  "longt": 36.3154110756,
   "lati": 50.0475489826,
-  "FullNameUA": "в'їзд Гірський, 4"
+  "FullNameUA": "в'їзд Гірський, 4",
+  "ChildsIds": []
  },
  {
   "id": 121964,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "викопіювання БТІ",
   "reg_date": "",
-  "longt": 36.316147045200005,
+  "longt": 36.3161470452,
   "lati": 50.0469441841,
-  "FullNameUA": "в'їзд Гірський, 5"
+  "FullNameUA": "в'їзд Гірський, 5",
+  "ChildsIds": []
  },
  {
   "id": 176391,
@@ -197,7 +204,8 @@
   "reg_date": "16.02.2017 11:01:38",
   "longt": 36.3138209448,
   "lati": 50.0475841125,
-  "FullNameUA": "в'їзд Гірський, 7"
+  "FullNameUA": "в'їзд Гірський, 7",
+  "ChildsIds": []
  },
  {
   "id": 121966,
@@ -222,7 +230,34 @@
   "reg_date": "",
   "longt": 36.3151053176,
   "lati": 50.047689193,
-  "FullNameUA": "в'їзд Гірський, 8"
+  "FullNameUA": "в'їзд Гірський, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182994,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2433,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\",  земельна ділянка (кадастровий номер 6310136600:14:006:0162)",
+  "confrm": "",
+  "reg_date": "10.06.2020 15:44:16",
+  "longt": 36.3149549213,
+  "lati": 50.0479386996,
+  "FullNameUA": "в'їзд Гірський, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 121967,
@@ -245,9 +280,12 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.314962973200004,
-  "lati": 50.0479403021,
-  "FullNameUA": "в'їзд Гірський, 10"
+  "longt": 36.314799154,
+  "lati": 50.0481672767,
+  "FullNameUA": "в'їзд Гірський, 10",
+  "ChildsIds": [
+   182994
+  ]
  },
  {
   "id": 121969,
@@ -272,7 +310,8 @@
   "reg_date": "",
   "longt": 36.3154762002,
   "lati": 50.048055012,
-  "FullNameUA": "в'їзд Гірський, 10-В"
+  "FullNameUA": "в'їзд Гірський, 10-В",
+  "ChildsIds": []
  },
  {
   "id": 121968,
@@ -297,7 +336,8 @@
   "reg_date": "",
   "longt": 36.315721001,
   "lati": 50.047983821,
-  "FullNameUA": "в'їзд Гірський, 10-А"
+  "FullNameUA": "в'їзд Гірський, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 121971,
@@ -320,9 +360,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.314821710900006,
+  "longt": 36.3148217109,
   "lati": 50.0483688469,
-  "FullNameUA": "в'їзд Гірський, 12"
+  "FullNameUA": "в'їзд Гірський, 12",
+  "ChildsIds": []
  },
  {
   "id": 121973,
@@ -345,9 +386,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.314987129500004,
+  "longt": 36.3149871295,
   "lati": 50.048244707,
-  "FullNameUA": "в'їзд Гірський, 14"
+  "FullNameUA": "в'їзд Гірський, 14",
+  "ChildsIds": []
  },
  {
   "id": 121974,
@@ -372,7 +414,8 @@
   "reg_date": "",
   "longt": 36.3143754624,
   "lati": 50.0481454129,
-  "FullNameUA": "в'їзд Гірський, 16"
+  "FullNameUA": "в'їзд Гірський, 16",
+  "ChildsIds": []
  },
  {
   "id": 121975,
@@ -397,7 +440,8 @@
   "reg_date": "",
   "longt": 36.3141582227,
   "lati": 50.0481415492,
-  "FullNameUA": "в'їзд Гірський, 18"
+  "FullNameUA": "в'їзд Гірський, 18",
+  "ChildsIds": []
  },
  {
   "id": 121976,
@@ -422,7 +466,8 @@
   "reg_date": "",
   "longt": 36.3140234261,
   "lati": 50.0482603281,
-  "FullNameUA": "в'їзд Гірський, 20"
+  "FullNameUA": "в'їзд Гірський, 20",
+  "ChildsIds": []
  },
  {
   "id": 121977,
@@ -445,9 +490,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.313839672300006,
+  "longt": 36.3138396723,
   "lati": 50.0484531272,
-  "FullNameUA": "в'їзд Гірський, 22"
+  "FullNameUA": "в'їзд Гірський, 22",
+  "ChildsIds": []
  },
  {
   "id": 121978,
@@ -472,7 +518,8 @@
   "reg_date": "",
   "longt": 36.3135979089,
   "lati": 50.0486112149,
-  "FullNameUA": "в'їзд Гірський, 24"
+  "FullNameUA": "в'їзд Гірський, 24",
+  "ChildsIds": []
  },
  {
   "id": 121979,
@@ -497,7 +544,34 @@
   "reg_date": "",
   "longt": 36.3134695388,
   "lati": 50.0487855472,
-  "FullNameUA": "в'їзд Гірський, 26"
+  "FullNameUA": "в'їзд Гірський, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 175769,
+  "postcode": 61107,
+  "number": 27,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2433,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3146719337,
+  "lati": 50.0497747645,
+  "FullNameUA": "в'їзд Гірський, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 175770,
@@ -522,32 +596,8 @@
   "reg_date": "",
   "longt": 36.3144573569,
   "lati": 50.0499883298,
-  "FullNameUA": "в'їзд Гірський, 27-Б"
- },
- {
-  "id": 175769,
-  "postcode": 61107,
-  "number": 27,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2433,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.314671933700005,
-  "lati": 50.0497747645,
-  "FullNameUA": "в'їзд Гірський, 27-А"
+  "FullNameUA": "в'їзд Гірський, 27-Б",
+  "ChildsIds": []
  },
  {
   "id": 121980,
@@ -570,59 +620,10 @@
   "same_adr_comm": "",
   "confrm": "in4",
   "reg_date": "",
-  "longt": 36.313836918700005,
+  "longt": 36.3138369187,
   "lati": 50.0489772341,
-  "FullNameUA": "в'їзд Гірський, 28"
- },
- {
-  "id": 175772,
-  "postcode": 61107,
-  "number": 29,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2433,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.315622780400005,
-  "lati": 50.0502245531,
-  "FullNameUA": "в'їзд Гірський, 29-Б"
- },
- {
-  "id": 175773,
-  "postcode": 61107,
-  "number": 29,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2433,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.315189475100006,
-  "lati": 50.0506205912,
-  "FullNameUA": "в'їзд Гірський, 29-В"
+  "FullNameUA": "в'їзд Гірський, 28",
+  "ChildsIds": []
  },
  {
   "id": 175771,
@@ -647,7 +648,60 @@
   "reg_date": "",
   "longt": 36.3151350658,
   "lati": 50.0499182294,
-  "FullNameUA": "в'їзд Гірський, 29-А"
+  "FullNameUA": "в'їзд Гірський, 29-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 175772,
+  "postcode": 61107,
+  "number": 29,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2433,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3156227804,
+  "lati": 50.0502245531,
+  "FullNameUA": "в'їзд Гірський, 29-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 175773,
+  "postcode": 61107,
+  "number": 29,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2433,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3151894751,
+  "lati": 50.0506205912,
+  "FullNameUA": "в'їзд Гірський, 29-В",
+  "ChildsIds": []
  },
  {
   "id": 121981,
@@ -670,9 +724,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315041319900004,
-  "lati": 50.049585737899996,
-  "FullNameUA": "в'їзд Гірський, 31/2"
+  "longt": 36.3150413199,
+  "lati": 50.0495857379,
+  "FullNameUA": "в'їзд Гірський, 31/2",
+  "ChildsIds": []
  },
  {
   "id": 176459,
@@ -695,9 +750,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.315954334400004,
+  "longt": 36.3159543344,
   "lati": 50.0500833043,
-  "FullNameUA": "в'їзд Гірський, 31-Б"
+  "FullNameUA": "в'їзд Гірський, 31-Б",
+  "ChildsIds": []
  },
  {
   "id": 121982,
@@ -722,7 +778,8 @@
   "reg_date": "",
   "longt": 36.3145129138,
   "lati": 50.049306074,
-  "FullNameUA": "в'їзд Гірський, 32"
+  "FullNameUA": "в'їзд Гірський, 32",
+  "ChildsIds": []
  },
  {
   "id": 121972,
@@ -746,8 +803,9 @@
   "confrm": "in4",
   "reg_date": "",
   "longt": 36.3152915239,
-  "lati": 50.049246013899996,
-  "FullNameUA": "в'їзд Гірський, 33"
+  "lati": 50.0492460139,
+  "FullNameUA": "в'їзд Гірський, 33",
+  "ChildsIds": []
  },
  {
   "id": 121983,
@@ -772,7 +830,8 @@
   "reg_date": "",
   "longt": 36.3146132381,
   "lati": 50.0490827311,
-  "FullNameUA": "в'їзд Гірський, 34"
+  "FullNameUA": "в'їзд Гірський, 34",
+  "ChildsIds": []
  },
  {
   "id": 175767,
@@ -797,7 +856,8 @@
   "reg_date": "",
   "longt": 36.3155058917,
   "lati": 50.0490174267,
-  "FullNameUA": "в'їзд Гірський, 35/1"
+  "FullNameUA": "в'їзд Гірський, 35/1",
+  "ChildsIds": []
  },
  {
   "id": 121984,
@@ -822,7 +882,8 @@
   "reg_date": "",
   "longt": 36.3142641058,
   "lati": 50.0487047652,
-  "FullNameUA": "в'їзд Гірський, 36"
+  "FullNameUA": "в'їзд Гірський, 36",
+  "ChildsIds": []
  },
  {
   "id": 121985,
@@ -847,7 +908,8 @@
   "reg_date": "",
   "longt": 36.3147404534,
   "lati": 50.0488490896,
-  "FullNameUA": "в'їзд Гірський, 38"
+  "FullNameUA": "в'їзд Гірський, 38",
+  "ChildsIds": []
  },
  {
   "id": 121986,
@@ -872,7 +934,8 @@
   "reg_date": "",
   "longt": 36.3151349899,
   "lati": 50.048809258,
-  "FullNameUA": "в'їзд Гірський, 40"
+  "FullNameUA": "в'їзд Гірський, 40",
+  "ChildsIds": []
  },
  {
   "id": 121987,
@@ -897,6 +960,7 @@
   "reg_date": "",
   "longt": 36.3152952665,
   "lati": 50.0485596904,
-  "FullNameUA": "в'їзд Гірський, 42"
+  "FullNameUA": "в'їзд Гірський, 42",
+  "ChildsIds": []
  }
 ]

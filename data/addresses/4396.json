@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2446342439,
   "lati": 49.9933451973,
-  "FullNameUA": "вулиця Шевченка, 2"
+  "FullNameUA": "вулиця Шевченка, 2",
+  "ChildsIds": []
  },
  {
   "id": 129994,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2471514072,
-  "lati": 49.994122433600005,
-  "FullNameUA": "вулиця Шевченка, 6"
+  "lati": 49.9941224336,
+  "FullNameUA": "вулиця Шевченка, 6",
+  "ChildsIds": []
  },
  {
   "id": 129995,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2487498172,
   "lati": 49.9945320772,
-  "FullNameUA": "вулиця Шевченка, 8"
+  "FullNameUA": "вулиця Шевченка, 8",
+  "ChildsIds": []
  },
  {
   "id": 129996,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2449083997,
   "lati": 49.9941720503,
-  "FullNameUA": "вулиця Шевченка, 9"
+  "FullNameUA": "вулиця Шевченка, 9",
+  "ChildsIds": []
  },
  {
   "id": 129997,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2509602356,
   "lati": 49.9956065872,
-  "FullNameUA": "вулиця Шевченка, 20"
+  "FullNameUA": "вулиця Шевченка, 20",
+  "ChildsIds": []
  },
  {
   "id": 129998,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2520730719,
-  "lati": 49.996015695000004,
-  "FullNameUA": "вулиця Шевченка, 22"
+  "lati": 49.996015695,
+  "FullNameUA": "вулиця Шевченка, 22",
+  "ChildsIds": []
  },
  {
   "id": 130000,
@@ -171,33 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2540934621,
-  "lati": 49.997512900400004,
-  "FullNameUA": "вулиця Шевченка, 24-А"
- },
- {
-  "id": 130001,
-  "postcode": 61013,
-  "number": 24,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2547651044,
-  "lati": 49.9955566208,
-  "FullNameUA": "вулиця Шевченка, 24-Б"
+  "lati": 49.9975129004,
+  "FullNameUA": "вулиця Шевченка, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 129999,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.2562380883,
   "lati": 49.9988821365,
-  "FullNameUA": "вулиця Шевченка, 24"
+  "FullNameUA": "вулиця Шевченка, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 130001,
+  "postcode": 61013,
+  "number": 24,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2547651044,
+  "lati": 49.9955566208,
+  "FullNameUA": "вулиця Шевченка, 24-Б",
+  "ChildsIds": []
  },
  {
   "id": 130002,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2576302584,
   "lati": 49.9997818601,
-  "FullNameUA": "вулиця Шевченка, 26"
+  "FullNameUA": "вулиця Шевченка, 26",
+  "ChildsIds": []
  },
  {
   "id": 130004,
@@ -271,8 +281,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2600113687,
-  "lati": 49.999294165100004,
-  "FullNameUA": "вулиця Шевченка, 28-А"
+  "lati": 49.9992941651,
+  "FullNameUA": "вулиця Шевченка, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 130003,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.258111257,
   "lati": 49.9997852863,
-  "FullNameUA": "вулиця Шевченка, 28"
+  "FullNameUA": "вулиця Шевченка, 28",
+  "ChildsIds": []
  },
  {
   "id": 130005,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2603943441,
   "lati": 49.9994158763,
-  "FullNameUA": "вулиця Шевченка, 28-В"
+  "FullNameUA": "вулиця Шевченка, 28-В",
+  "ChildsIds": []
  },
  {
   "id": 130006,
@@ -346,8 +359,9 @@
   "confrm": "73, 03.04.2007",
   "reg_date": "17.01.2019 16:17:04",
   "longt": 36.2598479552,
-  "lati": 49.999235216100004,
-  "FullNameUA": "вулиця Шевченка, 28-Г"
+  "lati": 49.9992352161,
+  "FullNameUA": "вулиця Шевченка, 28-Г",
+  "ChildsIds": []
  },
  {
   "id": 130007,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2587146561,
   "lati": 49.9999963797,
-  "FullNameUA": "вулиця Шевченка, 30"
+  "FullNameUA": "вулиця Шевченка, 30",
+  "ChildsIds": []
  },
  {
   "id": 130008,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.259839397,
   "lati": 49.9998350017,
-  "FullNameUA": "вулиця Шевченка, 32"
+  "FullNameUA": "вулиця Шевченка, 32",
+  "ChildsIds": []
  },
  {
   "id": 130009,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2609954901,
   "lati": 50.0003665171,
-  "FullNameUA": "вулиця Шевченка, 38"
+  "FullNameUA": "вулиця Шевченка, 38",
+  "ChildsIds": []
  },
  {
   "id": 130010,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2618601809,
   "lati": 50.0004602126,
-  "FullNameUA": "вулиця Шевченка, 40"
+  "FullNameUA": "вулиця Шевченка, 40",
+  "ChildsIds": []
  },
  {
   "id": 130011,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2498220378,
   "lati": 49.9961581852,
-  "FullNameUA": "вулиця Шевченка, 41"
+  "FullNameUA": "вулиця Шевченка, 41",
+  "ChildsIds": []
  },
  {
   "id": 130012,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2623451682,
   "lati": 50.0004971307,
-  "FullNameUA": "вулиця Шевченка, 42"
+  "FullNameUA": "вулиця Шевченка, 42",
+  "ChildsIds": []
  },
  {
   "id": 130013,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262625942599996,
+  "longt": 36.2626259426,
   "lati": 50.0002071183,
-  "FullNameUA": "вулиця Шевченка, 44"
+  "FullNameUA": "вулиця Шевченка, 44",
+  "ChildsIds": []
  },
  {
   "id": 130014,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2627473055,
   "lati": 50.0005270437,
-  "FullNameUA": "вулиця Шевченка, 46"
+  "FullNameUA": "вулиця Шевченка, 46",
+  "ChildsIds": []
  },
  {
   "id": 130015,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2515797522,
   "lati": 49.9970354895,
-  "FullNameUA": "вулиця Шевченка, 47"
+  "FullNameUA": "вулиця Шевченка, 47",
+  "ChildsIds": []
  },
  {
   "id": 130016,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262973355899994,
+  "longt": 36.2629733559,
   "lati": 50.000248067,
-  "FullNameUA": "вулиця Шевченка, 48"
+  "FullNameUA": "вулиця Шевченка, 48",
+  "ChildsIds": []
  },
  {
   "id": 130017,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2524989889,
   "lati": 49.9976308016,
-  "FullNameUA": "вулиця Шевченка, 49"
+  "FullNameUA": "вулиця Шевченка, 49",
+  "ChildsIds": []
  },
  {
   "id": 130018,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2631733435,
   "lati": 50.0005679218,
-  "FullNameUA": "вулиця Шевченка, 50"
+  "FullNameUA": "вулиця Шевченка, 50",
+  "ChildsIds": []
  },
  {
   "id": 130019,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263454240899996,
+  "longt": 36.2634542409,
   "lati": 50.0004202958,
-  "FullNameUA": "вулиця Шевченка, 52"
+  "FullNameUA": "вулиця Шевченка, 52",
+  "ChildsIds": []
  },
  {
   "id": 130020,
@@ -697,32 +724,8 @@
   "reg_date": "",
   "longt": 36.2638668178,
   "lati": 50.0005920342,
-  "FullNameUA": "вулиця Шевченка, 54"
- },
- {
-  "id": 130021,
-  "postcode": 61013,
-  "number": 56,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2641685032,
-  "lati": 50.0006100245,
-  "FullNameUA": "вулиця Шевченка, 56"
+  "FullNameUA": "вулиця Шевченка, 54",
+  "ChildsIds": []
  },
  {
   "id": 130022,
@@ -747,7 +750,34 @@
   "reg_date": "",
   "longt": 36.2644051801,
   "lati": 50.0003632875,
-  "FullNameUA": "вулиця Шевченка, 56-А"
+  "FullNameUA": "вулиця Шевченка, 56-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 130021,
+  "postcode": 61013,
+  "number": 56,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2641685032,
+  "lati": 50.0006100245,
+  "FullNameUA": "вулиця Шевченка, 56",
+  "ChildsIds": []
  },
  {
   "id": 130023,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2644811821,
   "lati": 50.000583812,
-  "FullNameUA": "вулиця Шевченка, 58"
+  "FullNameUA": "вулиця Шевченка, 58",
+  "ChildsIds": []
  },
  {
   "id": 130024,
@@ -796,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2532002514,
-  "lati": 49.997599118100005,
-  "FullNameUA": "вулиця Шевченка, 59"
+  "lati": 49.9975991181,
+  "FullNameUA": "вулиця Шевченка, 59",
+  "ChildsIds": []
  },
  {
   "id": 130025,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2647873881,
   "lati": 50.0005290914,
-  "FullNameUA": "вулиця Шевченка, 60"
+  "FullNameUA": "вулиця Шевченка, 60",
+  "ChildsIds": []
  },
  {
   "id": 130026,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2654486164,
   "lati": 50.0005751312,
-  "FullNameUA": "вулиця Шевченка, 62"
+  "FullNameUA": "вулиця Шевченка, 62",
+  "ChildsIds": []
  },
  {
   "id": 130027,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2536180829,
   "lati": 49.9979550332,
-  "FullNameUA": "вулиця Шевченка, 63"
+  "FullNameUA": "вулиця Шевченка, 63",
+  "ChildsIds": []
  },
  {
   "id": 130028,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.265668502,
   "lati": 50.000613864,
-  "FullNameUA": "вулиця Шевченка, 64"
+  "FullNameUA": "вулиця Шевченка, 64",
+  "ChildsIds": []
  },
  {
   "id": 130029,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2661567357,
   "lati": 50.0006640539,
-  "FullNameUA": "вулиця Шевченка, 66"
+  "FullNameUA": "вулиця Шевченка, 66",
+  "ChildsIds": []
  },
  {
   "id": 130030,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2542626357,
   "lati": 49.9984556813,
-  "FullNameUA": "вулиця Шевченка, 67"
+  "FullNameUA": "вулиця Шевченка, 67",
+  "ChildsIds": []
  },
  {
   "id": 130031,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2545871636,
   "lati": 49.998796587,
-  "FullNameUA": "вулиця Шевченка, 69"
+  "FullNameUA": "вулиця Шевченка, 69",
+  "ChildsIds": []
  },
  {
   "id": 130032,
@@ -996,33 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2541201688,
-  "lati": 49.999075998500004,
-  "FullNameUA": "вулиця Шевченка, 71"
- },
- {
-  "id": 130035,
-  "postcode": 61013,
-  "number": 72,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.266514306299996,
-  "lati": 50.000549889,
-  "FullNameUA": "вулиця Шевченка, 72-Б"
+  "lati": 49.9990759985,
+  "FullNameUA": "вулиця Шевченка, 71",
+  "ChildsIds": []
  },
  {
   "id": 130033,
@@ -1047,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2671580305,
   "lati": 50.0004466867,
-  "FullNameUA": "вулиця Шевченка, 72"
+  "FullNameUA": "вулиця Шевченка, 72",
+  "ChildsIds": []
  },
  {
   "id": 130034,
@@ -1072,7 +1088,34 @@
   "reg_date": "",
   "longt": 36.2667135316,
   "lati": 50.0005677677,
-  "FullNameUA": "вулиця Шевченка, 72-А"
+  "FullNameUA": "вулиця Шевченка, 72-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 130035,
+  "postcode": 61013,
+  "number": 72,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2665143063,
+  "lati": 50.000549889,
+  "FullNameUA": "вулиця Шевченка, 72-Б",
+  "ChildsIds": []
  },
  {
   "id": 130036,
@@ -1096,8 +1139,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2548327024,
-  "lati": 49.998844411200004,
-  "FullNameUA": "вулиця Шевченка, 73"
+  "lati": 49.9988444112,
+  "FullNameUA": "вулиця Шевченка, 73",
+  "ChildsIds": []
  },
  {
   "id": 130037,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2549567758,
   "lati": 49.9989530798,
-  "FullNameUA": "вулиця Шевченка, 75"
+  "FullNameUA": "вулиця Шевченка, 75",
+  "ChildsIds": []
  },
  {
   "id": 130038,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.267485034399996,
+  "longt": 36.2674850344,
   "lati": 50.0004131257,
-  "FullNameUA": "вулиця Шевченка, 76"
+  "FullNameUA": "вулиця Шевченка, 76",
+  "ChildsIds": []
  },
  {
   "id": 130039,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2551727268,
   "lati": 49.9991193075,
-  "FullNameUA": "вулиця Шевченка, 77"
+  "FullNameUA": "вулиця Шевченка, 77",
+  "ChildsIds": []
  },
  {
   "id": 130040,
@@ -1197,7 +1244,86 @@
   "reg_date": "",
   "longt": 36.2676914061,
   "lati": 50.0004860226,
-  "FullNameUA": "вулиця Шевченка, 78"
+  "FullNameUA": "вулиця Шевченка, 78",
+  "ChildsIds": []
+ },
+ {
+  "id": 177938,
+  "postcode": 61013,
+  "number": 79,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Анулирован согласно информации градархива (решение суда)",
+  "reg_date": "05.12.2019 14:30:41",
+  "longt": 36.255390024,
+  "lati": 49.9993421098,
+  "FullNameUA": "вулиця Шевченка, 79-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 130041,
+  "postcode": 61013,
+  "number": 79,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 22-14, 05.02.2008",
+  "reg_date": "13.03.2019 10:00:05",
+  "longt": 36.2553081186,
+  "lati": 49.9993628819,
+  "FullNameUA": "вулиця Шевченка, 79",
+  "ChildsIds": []
+ },
+ {
+  "id": 130042,
+  "postcode": 61013,
+  "number": 79,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2547175116,
+  "lati": 49.9995522717,
+  "FullNameUA": "вулиця Шевченка, 79-А",
+  "ChildsIds": []
  },
  {
   "id": 177937,
@@ -1222,82 +1348,8 @@
   "reg_date": "",
   "longt": 36.2552529443,
   "lati": 49.9992401277,
-  "FullNameUA": "вулиця Шевченка, 79-Б"
- },
- {
-  "id": 177938,
-  "postcode": 61013,
-  "number": 79,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Анулирован согласно информации градархива (решение суда)",
-  "reg_date": "05.12.2019 14:30:41",
-  "longt": 36.255390024,
-  "lati": 49.999342109800004,
-  "FullNameUA": "вулиця Шевченка, 79-В"
- },
- {
-  "id": 130042,
-  "postcode": 61013,
-  "number": 79,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2547175116,
-  "lati": 49.999552271700004,
-  "FullNameUA": "вулиця Шевченка, 79-А"
- },
- {
-  "id": 130041,
-  "postcode": 61013,
-  "number": 79,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 22-14, 05.02.2008",
-  "reg_date": "13.03.2019 10:00:05",
-  "longt": 36.2553081186,
-  "lati": 49.999362881900005,
-  "FullNameUA": "вулиця Шевченка, 79"
+  "FullNameUA": "вулиця Шевченка, 79-Б",
+  "ChildsIds": []
  },
  {
   "id": 176295,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.267889758799996,
+  "longt": 36.2678897588,
   "lati": 50.0007098522,
-  "FullNameUA": "вулиця Шевченка, 80"
+  "FullNameUA": "вулиця Шевченка, 80",
+  "ChildsIds": []
  },
  {
   "id": 130043,
@@ -1346,8 +1399,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2548496558,
-  "lati": 49.999897228500004,
-  "FullNameUA": "вулиця Шевченка, 81"
+  "lati": 49.9998972285,
+  "FullNameUA": "вулиця Шевченка, 81",
+  "ChildsIds": []
  },
  {
   "id": 130044,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2680135829,
   "lati": 50.0007452467,
-  "FullNameUA": "вулиця Шевченка, 82"
+  "FullNameUA": "вулиця Шевченка, 82",
+  "ChildsIds": []
  },
  {
   "id": 130045,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2557141995,
   "lati": 49.9995355545,
-  "FullNameUA": "вулиця Шевченка, 83"
+  "FullNameUA": "вулиця Шевченка, 83",
+  "ChildsIds": []
  },
  {
   "id": 130046,
@@ -1420,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.268342214499995,
+  "longt": 36.2683422145,
   "lati": 50.0006708807,
-  "FullNameUA": "вулиця Шевченка, 84"
+  "FullNameUA": "вулиця Шевченка, 84",
+  "ChildsIds": []
  },
  {
   "id": 130048,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2553574085,
   "lati": 49.9999671304,
-  "FullNameUA": "вулиця Шевченка, 85-А"
+  "FullNameUA": "вулиця Шевченка, 85-А",
+  "ChildsIds": []
  },
  {
   "id": 130047,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2557640725,
   "lati": 49.9997524952,
-  "FullNameUA": "вулиця Шевченка, 85"
+  "FullNameUA": "вулиця Шевченка, 85",
+  "ChildsIds": []
  },
  {
   "id": 130049,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2685615992,
   "lati": 50.000810991,
-  "FullNameUA": "вулиця Шевченка, 86"
+  "FullNameUA": "вулиця Шевченка, 86",
+  "ChildsIds": []
  },
  {
   "id": 130050,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2548874055,
   "lati": 50.0002987871,
-  "FullNameUA": "вулиця Шевченка, 87"
+  "FullNameUA": "вулиця Шевченка, 87",
+  "ChildsIds": []
  },
  {
   "id": 130051,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2687338099,
   "lati": 50.0007334541,
-  "FullNameUA": "вулиця Шевченка, 88"
+  "FullNameUA": "вулиця Шевченка, 88",
+  "ChildsIds": []
  },
  {
   "id": 130052,
@@ -1572,32 +1634,8 @@
   "reg_date": "",
   "longt": 36.2560262875,
   "lati": 49.9997908048,
-  "FullNameUA": "вулиця Шевченка, 89"
- },
- {
-  "id": 179770,
-  "postcode": 61013,
-  "number": 90,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "17.09.2018 10:30:27",
-  "longt": 36.269391477999996,
-  "lati": 50.0005413364,
-  "FullNameUA": "вулиця Шевченка, 90-А"
+  "FullNameUA": "вулиця Шевченка, 89",
+  "ChildsIds": []
  },
  {
   "id": 179771,
@@ -1622,7 +1660,8 @@
   "reg_date": "17.09.2018 10:34:35",
   "longt": 36.2695670489,
   "lati": 50.0005252293,
-  "FullNameUA": "вулиця Шевченка, 90-Б"
+  "FullNameUA": "вулиця Шевченка, 90-Б",
+  "ChildsIds": []
  },
  {
   "id": 130053,
@@ -1645,9 +1684,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "17.09.2018 10:27:42",
-  "longt": 36.269116484899996,
+  "longt": 36.2691164849,
   "lati": 50.0007840337,
-  "FullNameUA": "вулиця Шевченка, 90"
+  "FullNameUA": "вулиця Шевченка, 90",
+  "ChildsIds": []
+ },
+ {
+  "id": 179770,
+  "postcode": 61013,
+  "number": 90,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.09.2018 10:30:27",
+  "longt": 36.269391478,
+  "lati": 50.0005413364,
+  "FullNameUA": "вулиця Шевченка, 90-А",
+  "ChildsIds": []
  },
  {
   "id": 130054,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2561923271,
   "lati": 49.9998916709,
-  "FullNameUA": "вулиця Шевченка, 91"
+  "FullNameUA": "вулиця Шевченка, 91",
+  "ChildsIds": []
  },
  {
   "id": 130055,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.2563083416,
   "lati": 49.999975479,
-  "FullNameUA": "вулиця Шевченка, 93"
+  "FullNameUA": "вулиця Шевченка, 93",
+  "ChildsIds": []
  },
  {
   "id": 180195,
@@ -1720,9 +1788,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "28.02.2019 15:21:20",
-  "longt": 36.268579048999996,
+  "longt": 36.268579049,
   "lati": 50.0013874438,
-  "FullNameUA": "вулиця Шевченка, 94"
+  "FullNameUA": "вулиця Шевченка, 94",
+  "ChildsIds": []
  },
  {
   "id": 130056,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2564163214,
   "lati": 50.000009427,
-  "FullNameUA": "вулиця Шевченка, 95"
+  "FullNameUA": "вулиця Шевченка, 95",
+  "ChildsIds": []
  },
  {
   "id": 130057,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2565620163,
   "lati": 50.0002093295,
-  "FullNameUA": "вулиця Шевченка, 97"
+  "FullNameUA": "вулиця Шевченка, 97",
+  "ChildsIds": []
  },
  {
   "id": 130058,
@@ -1795,9 +1866,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.269858682599995,
+  "longt": 36.2698586826,
   "lati": 50.0017351878,
-  "FullNameUA": "вулиця Шевченка, 98"
+  "FullNameUA": "вулиця Шевченка, 98",
+  "ChildsIds": []
  },
  {
   "id": 130059,
@@ -1822,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.2562167928,
   "lati": 50.0007726783,
-  "FullNameUA": "вулиця Шевченка, 99"
+  "FullNameUA": "вулиця Шевченка, 99",
+  "ChildsIds": []
  },
  {
   "id": 130060,
@@ -1847,7 +1920,8 @@
   "reg_date": "",
   "longt": 36.2570290284,
   "lati": 50.0002122337,
-  "FullNameUA": "вулиця Шевченка, 103"
+  "FullNameUA": "вулиця Шевченка, 103",
+  "ChildsIds": []
  },
  {
   "id": 130061,
@@ -1872,32 +1946,8 @@
   "reg_date": "",
   "longt": 36.2572260396,
   "lati": 50.0002849905,
-  "FullNameUA": "вулиця Шевченка, 105"
- },
- {
-  "id": 130062,
-  "postcode": 61013,
-  "number": 111,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2575862212,
-  "lati": 50.0005751435,
-  "FullNameUA": "вулиця Шевченка, 111"
+  "FullNameUA": "вулиця Шевченка, 105",
+  "ChildsIds": []
  },
  {
   "id": 130063,
@@ -1922,7 +1972,34 @@
   "reg_date": "",
   "longt": 36.2587591586,
   "lati": 50.0010209092,
-  "FullNameUA": "вулиця Шевченка, 111-А"
+  "FullNameUA": "вулиця Шевченка, 111-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 130062,
+  "postcode": 61013,
+  "number": 111,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2575862212,
+  "lati": 50.0005751435,
+  "FullNameUA": "вулиця Шевченка, 111",
+  "ChildsIds": []
  },
  {
   "id": 130064,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.2604568142,
   "lati": 50.0008516005,
-  "FullNameUA": "вулиця Шевченка, 111/1"
+  "FullNameUA": "вулиця Шевченка, 111/1",
+  "ChildsIds": []
  },
  {
   "id": 130065,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2603443572,
   "lati": 50.0011854898,
-  "FullNameUA": "вулиця Шевченка, 117"
+  "FullNameUA": "вулиця Шевченка, 117",
+  "ChildsIds": []
  },
  {
   "id": 130066,
@@ -1997,32 +2076,8 @@
   "reg_date": "",
   "longt": 36.2721076603,
   "lati": 50.0019533969,
-  "FullNameUA": "вулиця Шевченка, 118"
- },
- {
-  "id": 130068,
-  "postcode": 61013,
-  "number": 120,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.272214899000005,
-  "lati": 50.0017386115,
-  "FullNameUA": "вулиця Шевченка, 120/2"
+  "FullNameUA": "вулиця Шевченка, 118",
+  "ChildsIds": []
  },
  {
   "id": 130067,
@@ -2045,9 +2100,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272392624400005,
+  "longt": 36.2723926244,
   "lati": 50.0016815169,
-  "FullNameUA": "вулиця Шевченка, 120/1"
+  "FullNameUA": "вулиця Шевченка, 120/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 130068,
+  "postcode": 61013,
+  "number": 120,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.272214899,
+  "lati": 50.0017386115,
+  "FullNameUA": "вулиця Шевченка, 120/2",
+  "ChildsIds": []
  },
  {
   "id": 130069,
@@ -2072,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.2622094452,
   "lati": 50.0013083148,
-  "FullNameUA": "вулиця Шевченка, 121"
+  "FullNameUA": "вулиця Шевченка, 121",
+  "ChildsIds": []
  },
  {
   "id": 130070,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.272598803,
   "lati": 50.0018242477,
-  "FullNameUA": "вулиця Шевченка, 122"
+  "FullNameUA": "вулиця Шевченка, 122",
+  "ChildsIds": []
  },
  {
   "id": 130071,
@@ -2120,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.272352039800005,
+  "longt": 36.2723520398,
   "lati": 50.0020587146,
-  "FullNameUA": "вулиця Шевченка, 124"
+  "FullNameUA": "вулиця Шевченка, 124",
+  "ChildsIds": []
  },
  {
   "id": 130072,
@@ -2147,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.2725317478,
   "lati": 50.0021341403,
-  "FullNameUA": "вулиця Шевченка, 126"
+  "FullNameUA": "вулиця Шевченка, 126",
+  "ChildsIds": []
  },
  {
   "id": 130073,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2726667363,
   "lati": 50.0023149222,
-  "FullNameUA": "вулиця Шевченка, 128"
+  "FullNameUA": "вулиця Шевченка, 128",
+  "ChildsIds": []
  },
  {
   "id": 130074,
@@ -2195,9 +2282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273094243200006,
+  "longt": 36.2730942432,
   "lati": 50.0022070242,
-  "FullNameUA": "вулиця Шевченка, 130"
+  "FullNameUA": "вулиця Шевченка, 130",
+  "ChildsIds": []
  },
  {
   "id": 130075,
@@ -2222,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.272788038,
   "lati": 50.0024351307,
-  "FullNameUA": "вулиця Шевченка, 132"
+  "FullNameUA": "вулиця Шевченка, 132",
+  "ChildsIds": []
  },
  {
   "id": 130076,
@@ -2245,9 +2334,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263943171099996,
+  "longt": 36.2639431711,
   "lati": 50.0017223822,
-  "FullNameUA": "вулиця Шевченка, 133"
+  "FullNameUA": "вулиця Шевченка, 133",
+  "ChildsIds": []
+ },
+ {
+  "id": 182561,
+  "postcode": 61013,
+  "number": 133,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2646931112,
+  "lati": 50.0018845724,
+  "FullNameUA": "вулиця Шевченка, 133-Б",
+  "ChildsIds": []
  },
  {
   "id": 130077,
@@ -2272,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.2729597729,
   "lati": 50.0025087526,
-  "FullNameUA": "вулиця Шевченка, 134"
+  "FullNameUA": "вулиця Шевченка, 134",
+  "ChildsIds": []
  },
  {
   "id": 130078,
@@ -2292,12 +2409,39 @@
   "detail_ua": "",
   "detail_number": "",
   "source_id": 1,
-  "same_adr_comm": "",
+  "same_adr_comm": "багатофункціональний комплекс (нежитлова булівля літ. \"А-1\")",
   "confrm": "285, 16.05.2012",
   "reg_date": "16.01.2019 10:45:16",
   "longt": 36.265384718,
   "lati": 50.0014732313,
-  "FullNameUA": "вулиця Шевченка, 135"
+  "FullNameUA": "вулиця Шевченка, 135",
+  "ChildsIds": []
+ },
+ {
+  "id": 130079,
+  "postcode": 61013,
+  "number": 136,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2731520275,
+  "lati": 50.0025833899,
+  "FullNameUA": "вулиця Шевченка, 136",
+  "ChildsIds": []
  },
  {
   "id": 130080,
@@ -2322,57 +2466,8 @@
   "reg_date": "",
   "longt": 36.2734884029,
   "lati": 50.0024732526,
-  "FullNameUA": "вулиця Шевченка, 136/1"
- },
- {
-  "id": 130079,
-  "postcode": 61013,
-  "number": 136,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.273152027500004,
-  "lati": 50.0025833899,
-  "FullNameUA": "вулиця Шевченка, 136"
- },
- {
-  "id": 130081,
-  "postcode": 61013,
-  "number": 137,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2661862223,
-  "lati": 50.0018863054,
-  "FullNameUA": "вулиця Шевченка, 137"
+  "FullNameUA": "вулиця Шевченка, 136/1",
+  "ChildsIds": []
  },
  {
   "id": 130082,
@@ -2397,7 +2492,8 @@
   "reg_date": "",
   "longt": 36.2670706643,
   "lati": 50.0016849007,
-  "FullNameUA": "вулиця Шевченка, 137-А"
+  "FullNameUA": "вулиця Шевченка, 137-А",
+  "ChildsIds": []
  },
  {
   "id": 177954,
@@ -2422,7 +2518,34 @@
   "reg_date": "05.03.2019 16:45:29",
   "longt": 36.2667649012,
   "lati": 50.0017831305,
-  "FullNameUA": "вулиця Шевченка, 137-Б"
+  "FullNameUA": "вулиця Шевченка, 137-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 130081,
+  "postcode": 61013,
+  "number": 137,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2661862223,
+  "lati": 50.0018863054,
+  "FullNameUA": "вулиця Шевченка, 137",
+  "ChildsIds": []
  },
  {
   "id": 130083,
@@ -2447,32 +2570,8 @@
   "reg_date": "",
   "longt": 36.2735411166,
   "lati": 50.0027381627,
-  "FullNameUA": "вулиця Шевченка, 138"
- },
- {
-  "id": 130084,
-  "postcode": 61013,
-  "number": 142,
-  "suffix": "",
-  "block": "",
-  "streetid": 4396,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2719032097,
-  "lati": 50.0024913213,
-  "FullNameUA": "вулиця Шевченка, 142"
+  "FullNameUA": "вулиця Шевченка, 138",
+  "ChildsIds": []
  },
  {
   "id": 130085,
@@ -2497,7 +2596,34 @@
   "reg_date": "",
   "longt": 36.2715912079,
   "lati": 50.0018271202,
-  "FullNameUA": "вулиця Шевченка, 142-А"
+  "FullNameUA": "вулиця Шевченка, 142-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 130084,
+  "postcode": 61013,
+  "number": 142,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2719032097,
+  "lati": 50.0024913213,
+  "FullNameUA": "вулиця Шевченка, 142",
+  "ChildsIds": []
  },
  {
   "id": 130086,
@@ -2522,7 +2648,8 @@
   "reg_date": "",
   "longt": 36.272647642,
   "lati": 50.002724457,
-  "FullNameUA": "вулиця Шевченка, 144"
+  "FullNameUA": "вулиця Шевченка, 144",
+  "ChildsIds": []
  },
  {
   "id": 130087,
@@ -2545,9 +2672,10 @@
   "same_adr_comm": "",
   "confrm": "586, 16.09.2015",
   "reg_date": "17.01.2019 16:24:20",
-  "longt": 36.273257852200004,
+  "longt": 36.2732578522,
   "lati": 50.0029415306,
-  "FullNameUA": "вулиця Шевченка, 146"
+  "FullNameUA": "вулиця Шевченка, 146",
+  "ChildsIds": []
  },
  {
   "id": 178031,
@@ -2570,9 +2698,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР 569, 06.09.2017; Рішення ХМР № 1047, 18.04.2018, дод. 3, п. 7",
   "reg_date": "14.09.2017 15:05:27",
-  "longt": 36.272905936300006,
+  "longt": 36.2729059363,
   "lati": 50.0029371115,
-  "FullNameUA": "вулиця Шевченка, 146-А"
+  "FullNameUA": "вулиця Шевченка, 146-А",
+  "ChildsIds": []
  },
  {
   "id": 130088,
@@ -2595,9 +2724,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274233130300004,
+  "longt": 36.2742331303,
   "lati": 50.0032689239,
-  "FullNameUA": "вулиця Шевченка, 152"
+  "FullNameUA": "вулиця Шевченка, 152",
+  "ChildsIds": []
  },
  {
   "id": 178605,
@@ -2620,9 +2750,10 @@
   "same_adr_comm": "салон по продажу та обслуговуванню автомобілів",
   "confrm": "Рішення ХМР № 877-17, 20.12.2017",
   "reg_date": "30.09.2019 10:04:00",
-  "longt": 36.267959618999996,
+  "longt": 36.267959619,
   "lati": 50.0019602535,
-  "FullNameUA": "вулиця Шевченка, 157"
+  "FullNameUA": "вулиця Шевченка, 157",
+  "ChildsIds": []
  },
  {
   "id": 130089,
@@ -2647,7 +2778,8 @@
   "reg_date": "",
   "longt": 36.2745577319,
   "lati": 50.0032302147,
-  "FullNameUA": "вулиця Шевченка, 158-А"
+  "FullNameUA": "вулиця Шевченка, 158-А",
+  "ChildsIds": []
  },
  {
   "id": 130090,
@@ -2672,7 +2804,8 @@
   "reg_date": "",
   "longt": 36.2690946627,
   "lati": 50.0020038182,
-  "FullNameUA": "вулиця Шевченка, 159"
+  "FullNameUA": "вулиця Шевченка, 159",
+  "ChildsIds": []
  },
  {
   "id": 130091,
@@ -2695,9 +2828,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275185170200004,
+  "longt": 36.2751851702,
   "lati": 50.0036952135,
-  "FullNameUA": "вулиця Шевченка, 160"
+  "FullNameUA": "вулиця Шевченка, 160",
+  "ChildsIds": []
  },
  {
   "id": 130092,
@@ -2722,7 +2856,8 @@
   "reg_date": "",
   "longt": 36.269289555,
   "lati": 50.0021102878,
-  "FullNameUA": "вулиця Шевченка, 161"
+  "FullNameUA": "вулиця Шевченка, 161",
+  "ChildsIds": []
  },
  {
   "id": 130093,
@@ -2745,9 +2880,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.27640812320001,
+  "longt": 36.2764081232,
   "lati": 50.0045599169,
-  "FullNameUA": "вулиця Шевченка, 164"
+  "FullNameUA": "вулиця Шевченка, 164",
+  "ChildsIds": []
  },
  {
   "id": 130094,
@@ -2772,7 +2908,8 @@
   "reg_date": "",
   "longt": 36.2701308584,
   "lati": 50.0024475416,
-  "FullNameUA": "вулиця Шевченка, 165"
+  "FullNameUA": "вулиця Шевченка, 165",
+  "ChildsIds": []
  },
  {
   "id": 130095,
@@ -2797,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.2706208186,
   "lati": 50.0026142766,
-  "FullNameUA": "вулиця Шевченка, 167"
+  "FullNameUA": "вулиця Шевченка, 167",
+  "ChildsIds": []
  },
  {
   "id": 130096,
@@ -2822,7 +2960,8 @@
   "reg_date": "",
   "longt": 36.2710122363,
   "lati": 50.0027657907,
-  "FullNameUA": "вулиця Шевченка, 169"
+  "FullNameUA": "вулиця Шевченка, 169",
+  "ChildsIds": []
  },
  {
   "id": 130097,
@@ -2847,7 +2986,8 @@
   "reg_date": "",
   "longt": 36.2712674598,
   "lati": 50.0028407769,
-  "FullNameUA": "вулиця Шевченка, 171"
+  "FullNameUA": "вулиця Шевченка, 171",
+  "ChildsIds": []
  },
  {
   "id": 130098,
@@ -2872,7 +3012,8 @@
   "reg_date": "",
   "longt": 36.2715414504,
   "lati": 50.0029710588,
-  "FullNameUA": "вулиця Шевченка, 173"
+  "FullNameUA": "вулиця Шевченка, 173",
+  "ChildsIds": []
  },
  {
   "id": 130099,
@@ -2895,9 +3036,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271797441400004,
+  "longt": 36.2717974414,
   "lati": 50.003244049,
-  "FullNameUA": "вулиця Шевченка, 175"
+  "FullNameUA": "вулиця Шевченка, 175",
+  "ChildsIds": []
  },
  {
   "id": 130100,
@@ -2922,7 +3064,8 @@
   "reg_date": "",
   "longt": 36.2778163652,
   "lati": 50.0054324963,
-  "FullNameUA": "вулиця Шевченка, 176"
+  "FullNameUA": "вулиця Шевченка, 176",
+  "ChildsIds": []
  },
  {
   "id": 130101,
@@ -2947,7 +3090,8 @@
   "reg_date": "",
   "longt": 36.2721325966,
   "lati": 50.0031625278,
-  "FullNameUA": "вулиця Шевченка, 177"
+  "FullNameUA": "вулиця Шевченка, 177",
+  "ChildsIds": []
  },
  {
   "id": 130102,
@@ -2972,7 +3116,8 @@
   "reg_date": "",
   "longt": 36.2719295,
   "lati": 50.0032944782,
-  "FullNameUA": "вулиця Шевченка, 177-А"
+  "FullNameUA": "вулиця Шевченка, 177-А",
+  "ChildsIds": []
  },
  {
   "id": 130103,
@@ -2995,9 +3140,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.278140790900004,
+  "longt": 36.2781407909,
   "lati": 50.0055710852,
-  "FullNameUA": "вулиця Шевченка, 178"
+  "FullNameUA": "вулиця Шевченка, 178",
+  "ChildsIds": []
  },
  {
   "id": 130104,
@@ -3022,7 +3168,8 @@
   "reg_date": "",
   "longt": 36.2724076499,
   "lati": 50.0033064039,
-  "FullNameUA": "вулиця Шевченка, 179"
+  "FullNameUA": "вулиця Шевченка, 179",
+  "ChildsIds": []
  },
  {
   "id": 130105,
@@ -3045,9 +3192,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278594307400006,
+  "longt": 36.2785943074,
   "lati": 50.0058400665,
-  "FullNameUA": "вулиця Шевченка, 180"
+  "FullNameUA": "вулиця Шевченка, 180",
+  "ChildsIds": []
  },
  {
   "id": 130107,
@@ -3072,7 +3220,8 @@
   "reg_date": "",
   "longt": 36.2728642601,
   "lati": 50.0035271861,
-  "FullNameUA": "вулиця Шевченка, 181-А"
+  "FullNameUA": "вулиця Шевченка, 181-А",
+  "ChildsIds": []
  },
  {
   "id": 130106,
@@ -3097,7 +3246,8 @@
   "reg_date": "",
   "longt": 36.2726581414,
   "lati": 50.0035123527,
-  "FullNameUA": "вулиця Шевченка, 181"
+  "FullNameUA": "вулиця Шевченка, 181",
+  "ChildsIds": []
  },
  {
   "id": 130108,
@@ -3122,7 +3272,8 @@
   "reg_date": "",
   "longt": 36.2730212692,
   "lati": 50.0036962129,
-  "FullNameUA": "вулиця Шевченка, 183"
+  "FullNameUA": "вулиця Шевченка, 183",
+  "ChildsIds": []
  },
  {
   "id": 130109,
@@ -3145,9 +3296,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273292142200006,
+  "longt": 36.2732921422,
   "lati": 50.0036390722,
-  "FullNameUA": "вулиця Шевченка, 185"
+  "FullNameUA": "вулиця Шевченка, 185",
+  "ChildsIds": []
+ },
+ {
+  "id": 182990,
+  "postcode": 61033,
+  "number": 186,
+  "suffix": "",
+  "block": "",
+  "streetid": 4396,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2828925039,
+  "lati": 50.0067949424,
+  "FullNameUA": "вулиця Шевченка, 186",
+  "ChildsIds": []
  },
  {
   "id": 130110,
@@ -3170,9 +3348,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273559748800004,
+  "longt": 36.2735597488,
   "lati": 50.003739915,
-  "FullNameUA": "вулиця Шевченка, 187"
+  "FullNameUA": "вулиця Шевченка, 187",
+  "ChildsIds": []
  },
  {
   "id": 130111,
@@ -3195,9 +3374,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273745791500005,
+  "longt": 36.2737457915,
   "lati": 50.003873743,
-  "FullNameUA": "вулиця Шевченка, 189"
+  "FullNameUA": "вулиця Шевченка, 189",
+  "ChildsIds": []
  },
  {
   "id": 130113,
@@ -3222,7 +3402,8 @@
   "reg_date": "",
   "longt": 36.2741125216,
   "lati": 50.0040921495,
-  "FullNameUA": "вулиця Шевченка, 191-А"
+  "FullNameUA": "вулиця Шевченка, 191-А",
+  "ChildsIds": []
  },
  {
   "id": 130112,
@@ -3247,7 +3428,8 @@
   "reg_date": "",
   "longt": 36.273990953,
   "lati": 50.0039361139,
-  "FullNameUA": "вулиця Шевченка, 191"
+  "FullNameUA": "вулиця Шевченка, 191",
+  "ChildsIds": []
  },
  {
   "id": 130114,
@@ -3270,9 +3452,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27461987860001,
+  "longt": 36.2746198786,
   "lati": 50.0041552041,
-  "FullNameUA": "вулиця Шевченка, 193"
+  "FullNameUA": "вулиця Шевченка, 193",
+  "ChildsIds": []
  },
  {
   "id": 130115,
@@ -3297,7 +3480,8 @@
   "reg_date": "",
   "longt": 36.2796855128,
   "lati": 50.0065252283,
-  "FullNameUA": "вулиця Шевченка, 194/196"
+  "FullNameUA": "вулиця Шевченка, 194/196",
+  "ChildsIds": []
  },
  {
   "id": 130116,
@@ -3322,7 +3506,8 @@
   "reg_date": "",
   "longt": 36.2749016685,
   "lati": 50.0043028397,
-  "FullNameUA": "вулиця Шевченка, 195"
+  "FullNameUA": "вулиця Шевченка, 195",
+  "ChildsIds": []
  },
  {
   "id": 130117,
@@ -3347,7 +3532,8 @@
   "reg_date": "",
   "longt": 36.2751493848,
   "lati": 50.0049305491,
-  "FullNameUA": "вулиця Шевченка, 197"
+  "FullNameUA": "вулиця Шевченка, 197",
+  "ChildsIds": []
  },
  {
   "id": 130118,
@@ -3372,7 +3558,8 @@
   "reg_date": "",
   "longt": 36.2810596051,
   "lati": 50.0074637016,
-  "FullNameUA": "вулиця Шевченка, 198"
+  "FullNameUA": "вулиця Шевченка, 198",
+  "ChildsIds": []
  },
  {
   "id": 130119,
@@ -3397,7 +3584,8 @@
   "reg_date": "",
   "longt": 36.2752273587,
   "lati": 50.0044942164,
-  "FullNameUA": "вулиця Шевченка, 199"
+  "FullNameUA": "вулиця Шевченка, 199",
+  "ChildsIds": []
  },
  {
   "id": 130120,
@@ -3420,9 +3608,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275393855100006,
+  "longt": 36.2753938551,
   "lati": 50.0046070579,
-  "FullNameUA": "вулиця Шевченка, 201"
+  "FullNameUA": "вулиця Шевченка, 201",
+  "ChildsIds": []
  },
  {
   "id": 130121,
@@ -3447,7 +3636,8 @@
   "reg_date": "",
   "longt": 36.2756490155,
   "lati": 50.0047821613,
-  "FullNameUA": "вулиця Шевченка, 203"
+  "FullNameUA": "вулиця Шевченка, 203",
+  "ChildsIds": []
  },
  {
   "id": 130122,
@@ -3470,9 +3660,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275538023900005,
+  "longt": 36.2755380239,
   "lati": 50.004988,
-  "FullNameUA": "вулиця Шевченка, 203-А"
+  "FullNameUA": "вулиця Шевченка, 203-А",
+  "ChildsIds": []
  },
  {
   "id": 130123,
@@ -3495,9 +3686,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275907094400004,
+  "longt": 36.2759070944,
   "lati": 50.0048780925,
-  "FullNameUA": "вулиця Шевченка, 205"
+  "FullNameUA": "вулиця Шевченка, 205",
+  "ChildsIds": []
  },
  {
   "id": 130124,
@@ -3522,7 +3714,8 @@
   "reg_date": "",
   "longt": 36.2761249558,
   "lati": 50.0050892974,
-  "FullNameUA": "вулиця Шевченка, 207/209"
+  "FullNameUA": "вулиця Шевченка, 207/209",
+  "ChildsIds": []
  },
  {
   "id": 130125,
@@ -3545,9 +3738,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276748310500004,
+  "longt": 36.2767483105,
   "lati": 50.0056164936,
-  "FullNameUA": "вулиця Шевченка, 211"
+  "FullNameUA": "вулиця Шевченка, 211",
+  "ChildsIds": []
  },
  {
   "id": 130126,
@@ -3572,7 +3766,8 @@
   "reg_date": "",
   "longt": 36.2771814274,
   "lati": 50.0056904524,
-  "FullNameUA": "вулиця Шевченка, 213"
+  "FullNameUA": "вулиця Шевченка, 213",
+  "ChildsIds": []
  },
  {
   "id": 130128,
@@ -3597,7 +3792,8 @@
   "reg_date": "",
   "longt": 36.2772625954,
   "lati": 50.0059986019,
-  "FullNameUA": "вулиця Шевченка, 215-А"
+  "FullNameUA": "вулиця Шевченка, 215-А",
+  "ChildsIds": []
  },
  {
   "id": 130127,
@@ -3622,7 +3818,8 @@
   "reg_date": "",
   "longt": 36.2773652253,
   "lati": 50.0057946763,
-  "FullNameUA": "вулиця Шевченка, 215"
+  "FullNameUA": "вулиця Шевченка, 215",
+  "ChildsIds": []
  },
  {
   "id": 130130,
@@ -3647,7 +3844,8 @@
   "reg_date": "",
   "longt": 36.283645034,
   "lati": 50.0090317457,
-  "FullNameUA": "вулиця Шевченка, 216-Б"
+  "FullNameUA": "вулиця Шевченка, 216-Б",
+  "ChildsIds": []
  },
  {
   "id": 130129,
@@ -3670,9 +3868,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284686685000004,
+  "longt": 36.284686685,
   "lati": 50.0098395045,
-  "FullNameUA": "вулиця Шевченка, 216"
+  "FullNameUA": "вулиця Шевченка, 216",
+  "ChildsIds": []
  },
  {
   "id": 130131,
@@ -3695,9 +3894,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277609999400006,
+  "longt": 36.2776099994,
   "lati": 50.0059582889,
-  "FullNameUA": "вулиця Шевченка, 217"
+  "FullNameUA": "вулиця Шевченка, 217",
+  "ChildsIds": []
  },
  {
   "id": 130132,
@@ -3722,7 +3922,8 @@
   "reg_date": "",
   "longt": 36.2777646125,
   "lati": 50.0060680715,
-  "FullNameUA": "вулиця Шевченка, 219"
+  "FullNameUA": "вулиця Шевченка, 219",
+  "ChildsIds": []
  },
  {
   "id": 130133,
@@ -3746,8 +3947,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2859545386,
-  "lati": 50.010491309799995,
-  "FullNameUA": "вулиця Шевченка, 220"
+  "lati": 50.0104913098,
+  "FullNameUA": "вулиця Шевченка, 220",
+  "ChildsIds": []
  },
  {
   "id": 130134,
@@ -3770,9 +3972,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278034740600006,
+  "longt": 36.2780347406,
   "lati": 50.0062256764,
-  "FullNameUA": "вулиця Шевченка, 221"
+  "FullNameUA": "вулиця Шевченка, 221",
+  "ChildsIds": []
  },
  {
   "id": 130135,
@@ -3796,8 +3999,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2870821473,
-  "lati": 50.011402837999995,
-  "FullNameUA": "вулиця Шевченка, 222"
+  "lati": 50.011402838,
+  "FullNameUA": "вулиця Шевченка, 222",
+  "ChildsIds": []
  },
  {
   "id": 130136,
@@ -3820,9 +4024,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278206830900004,
+  "longt": 36.2782068309,
   "lati": 50.0063344327,
-  "FullNameUA": "вулиця Шевченка, 223"
+  "FullNameUA": "вулиця Шевченка, 223",
+  "ChildsIds": []
  },
  {
   "id": 130137,
@@ -3845,9 +4050,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278061744700004,
+  "longt": 36.2780617447,
   "lati": 50.0065666996,
-  "FullNameUA": "вулиця Шевченка, 223-А"
+  "FullNameUA": "вулиця Шевченка, 223-А",
+  "ChildsIds": []
  },
  {
   "id": 130138,
@@ -3871,8 +4077,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2873038953,
-  "lati": 50.011808156899995,
-  "FullNameUA": "вулиця Шевченка, 224"
+  "lati": 50.0118081569,
+  "FullNameUA": "вулиця Шевченка, 224",
+  "ChildsIds": []
  },
  {
   "id": 130139,
@@ -3895,9 +4102,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278411061300005,
+  "longt": 36.2784110613,
   "lati": 50.0064670265,
-  "FullNameUA": "вулиця Шевченка, 225"
+  "FullNameUA": "вулиця Шевченка, 225",
+  "ChildsIds": []
  },
  {
   "id": 130140,
@@ -3922,7 +4130,8 @@
   "reg_date": "06.03.2019 12:42:39",
   "longt": 36.2876819103,
   "lati": 50.012027257,
-  "FullNameUA": "вулиця Шевченка, 226-А"
+  "FullNameUA": "вулиця Шевченка, 226-А",
+  "ChildsIds": []
  },
  {
   "id": 130141,
@@ -3947,7 +4156,8 @@
   "reg_date": "",
   "longt": 36.2786705955,
   "lati": 50.006618211,
-  "FullNameUA": "вулиця Шевченка, 227"
+  "FullNameUA": "вулиця Шевченка, 227",
+  "ChildsIds": []
  },
  {
   "id": 130142,
@@ -3972,7 +4182,8 @@
   "reg_date": "",
   "longt": 36.2789612194,
   "lati": 50.0068524905,
-  "FullNameUA": "вулиця Шевченка, 229"
+  "FullNameUA": "вулиця Шевченка, 229",
+  "ChildsIds": []
  },
  {
   "id": 130143,
@@ -3997,7 +4208,8 @@
   "reg_date": "",
   "longt": 36.279259766,
   "lati": 50.0070357724,
-  "FullNameUA": "вулиця Шевченка, 231"
+  "FullNameUA": "вулиця Шевченка, 231",
+  "ChildsIds": []
  },
  {
   "id": 130145,
@@ -4020,9 +4232,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278680395200006,
+  "longt": 36.2786803952,
   "lati": 50.0086174715,
-  "FullNameUA": "вулиця Шевченка, 233-А"
+  "FullNameUA": "вулиця Шевченка, 233-А",
+  "ChildsIds": []
  },
  {
   "id": 130146,
@@ -4045,9 +4258,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278052559600006,
+  "longt": 36.2780525596,
   "lati": 50.0084106781,
-  "FullNameUA": "вулиця Шевченка, 233-Б"
+  "FullNameUA": "вулиця Шевченка, 233-Б",
+  "ChildsIds": []
  },
  {
   "id": 130147,
@@ -4070,9 +4284,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Київської райради № 255-3, 05.12.2006",
   "reg_date": "04.03.2019 11:16:20",
-  "longt": 36.279273438800004,
+  "longt": 36.2792734388,
   "lati": 50.0078615083,
-  "FullNameUA": "вулиця Шевченка, 233-В"
+  "FullNameUA": "вулиця Шевченка, 233-В",
+  "ChildsIds": []
  },
  {
   "id": 130144,
@@ -4095,9 +4310,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279494757600006,
+  "longt": 36.2794947576,
   "lati": 50.0071874273,
-  "FullNameUA": "вулиця Шевченка, 233"
+  "FullNameUA": "вулиця Шевченка, 233",
+  "ChildsIds": []
  },
  {
   "id": 130148,
@@ -4122,7 +4338,8 @@
   "reg_date": "",
   "longt": 36.2802463161,
   "lati": 50.0076549302,
-  "FullNameUA": "вулиця Шевченка, 237"
+  "FullNameUA": "вулиця Шевченка, 237",
+  "ChildsIds": []
  },
  {
   "id": 130149,
@@ -4147,7 +4364,8 @@
   "reg_date": "",
   "longt": 36.2898780001,
   "lati": 50.0133762495,
-  "FullNameUA": "вулиця Шевченка, 238"
+  "FullNameUA": "вулиця Шевченка, 238",
+  "ChildsIds": []
  },
  {
   "id": 130150,
@@ -4172,7 +4390,8 @@
   "reg_date": "",
   "longt": 36.2805992028,
   "lati": 50.007914679,
-  "FullNameUA": "вулиця Шевченка, 239"
+  "FullNameUA": "вулиця Шевченка, 239",
+  "ChildsIds": []
  },
  {
   "id": 130151,
@@ -4197,7 +4416,8 @@
   "reg_date": "",
   "longt": 36.2809285355,
   "lati": 50.0081350901,
-  "FullNameUA": "вулиця Шевченка, 241"
+  "FullNameUA": "вулиця Шевченка, 241",
+  "ChildsIds": []
  },
  {
   "id": 130152,
@@ -4222,7 +4442,8 @@
   "reg_date": "",
   "longt": 36.2815066172,
   "lati": 50.0084848254,
-  "FullNameUA": "вулиця Шевченка, 245"
+  "FullNameUA": "вулиця Шевченка, 245",
+  "ChildsIds": []
  },
  {
   "id": 130153,
@@ -4247,7 +4468,8 @@
   "reg_date": "",
   "longt": 36.2817645452,
   "lati": 50.0086564701,
-  "FullNameUA": "вулиця Шевченка, 247"
+  "FullNameUA": "вулиця Шевченка, 247",
+  "ChildsIds": []
  },
  {
   "id": 130154,
@@ -4272,7 +4494,8 @@
   "reg_date": "",
   "longt": 36.2820811749,
   "lati": 50.0088884546,
-  "FullNameUA": "вулиця Шевченка, 249"
+  "FullNameUA": "вулиця Шевченка, 249",
+  "ChildsIds": []
  },
  {
   "id": 130155,
@@ -4297,7 +4520,8 @@
   "reg_date": "",
   "longt": 36.2820006022,
   "lati": 50.0094147506,
-  "FullNameUA": "вулиця Шевченка, 251"
+  "FullNameUA": "вулиця Шевченка, 251",
+  "ChildsIds": []
  },
  {
   "id": 130156,
@@ -4322,7 +4546,8 @@
   "reg_date": "",
   "longt": 36.2823993375,
   "lati": 50.0091205651,
-  "FullNameUA": "вулиця Шевченка, 253"
+  "FullNameUA": "вулиця Шевченка, 253",
+  "ChildsIds": []
  },
  {
   "id": 130157,
@@ -4347,7 +4572,8 @@
   "reg_date": "",
   "longt": 36.2826344578,
   "lati": 50.0092004462,
-  "FullNameUA": "вулиця Шевченка, 253-А"
+  "FullNameUA": "вулиця Шевченка, 253-А",
+  "ChildsIds": []
  },
  {
   "id": 130158,
@@ -4371,8 +4597,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2918667569,
-  "lati": 50.015163074899995,
-  "FullNameUA": "вулиця Шевченка, 254-А"
+  "lati": 50.0151630749,
+  "FullNameUA": "вулиця Шевченка, 254-А",
+  "ChildsIds": []
  },
  {
   "id": 130159,
@@ -4397,7 +4624,8 @@
   "reg_date": "",
   "longt": 36.2827728529,
   "lati": 50.0093341962,
-  "FullNameUA": "вулиця Шевченка, 255"
+  "FullNameUA": "вулиця Шевченка, 255",
+  "ChildsIds": []
  },
  {
   "id": 130160,
@@ -4422,7 +4650,8 @@
   "reg_date": "",
   "longt": 36.2825095233,
   "lati": 50.0095779481,
-  "FullNameUA": "вулиця Шевченка, 257"
+  "FullNameUA": "вулиця Шевченка, 257",
+  "ChildsIds": []
  },
  {
   "id": 130161,
@@ -4447,7 +4676,8 @@
   "reg_date": "",
   "longt": 36.2820288651,
   "lati": 50.0100443272,
-  "FullNameUA": "вулиця Шевченка, 257-А"
+  "FullNameUA": "вулиця Шевченка, 257-А",
+  "ChildsIds": []
  },
  {
   "id": 130162,
@@ -4472,7 +4702,8 @@
   "reg_date": "",
   "longt": 36.2920127951,
   "lati": 50.0153321001,
-  "FullNameUA": "вулиця Шевченка, 258"
+  "FullNameUA": "вулиця Шевченка, 258",
+  "ChildsIds": []
  },
  {
   "id": 130163,
@@ -4497,7 +4728,8 @@
   "reg_date": "",
   "longt": 36.2923354901,
   "lati": 50.0155444129,
-  "FullNameUA": "вулиця Шевченка, 258-Б"
+  "FullNameUA": "вулиця Шевченка, 258-Б",
+  "ChildsIds": []
  },
  {
   "id": 130164,
@@ -4522,7 +4754,8 @@
   "reg_date": "",
   "longt": 36.2822801923,
   "lati": 50.009799331,
-  "FullNameUA": "вулиця Шевченка, 259"
+  "FullNameUA": "вулиця Шевченка, 259",
+  "ChildsIds": []
  },
  {
   "id": 178332,
@@ -4547,7 +4780,8 @@
   "reg_date": "",
   "longt": 36.291949086,
   "lati": 50.0155403402,
-  "FullNameUA": "вулиця Шевченка, 260-А"
+  "FullNameUA": "вулиця Шевченка, 260-А",
+  "ChildsIds": []
  },
  {
   "id": 130165,
@@ -4571,8 +4805,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2977069616,
-  "lati": 50.023505870700006,
-  "FullNameUA": "вулиця Шевченка, 260"
+  "lati": 50.0235058707,
+  "FullNameUA": "вулиця Шевченка, 260",
+  "ChildsIds": []
  },
  {
   "id": 130167,
@@ -4595,9 +4830,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.282485887200004,
+  "longt": 36.2824858872,
   "lati": 50.0098295595,
-  "FullNameUA": "вулиця Шевченка, 261-А"
+  "FullNameUA": "вулиця Шевченка, 261-А",
+  "ChildsIds": []
  },
  {
   "id": 130166,
@@ -4622,7 +4858,8 @@
   "reg_date": "",
   "longt": 36.283028911,
   "lati": 50.0094451288,
-  "FullNameUA": "вулиця Шевченка, 261"
+  "FullNameUA": "вулиця Шевченка, 261",
+  "ChildsIds": []
  },
  {
   "id": 178331,
@@ -4647,7 +4884,8 @@
   "reg_date": "",
   "longt": 36.2919118605,
   "lati": 50.0157917298,
-  "FullNameUA": "вулиця Шевченка, 262"
+  "FullNameUA": "вулиця Шевченка, 262",
+  "ChildsIds": []
  },
  {
   "id": 130168,
@@ -4672,7 +4910,8 @@
   "reg_date": "",
   "longt": 36.2844269999,
   "lati": 50.010350744,
-  "FullNameUA": "вулиця Шевченка, 263"
+  "FullNameUA": "вулиця Шевченка, 263",
+  "ChildsIds": []
  },
  {
   "id": 130169,
@@ -4695,9 +4934,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.305220149300006,
+  "longt": 36.3052201493,
   "lati": 50.0185542359,
-  "FullNameUA": "вулиця Шевченка, 264"
+  "FullNameUA": "вулиця Шевченка, 264",
+  "ChildsIds": []
  },
  {
   "id": 130170,
@@ -4722,7 +4962,8 @@
   "reg_date": "",
   "longt": 36.2848140694,
   "lati": 50.010588327,
-  "FullNameUA": "вулиця Шевченка, 265"
+  "FullNameUA": "вулиця Шевченка, 265",
+  "ChildsIds": []
  },
  {
   "id": 130171,
@@ -4747,7 +4988,8 @@
   "reg_date": "",
   "longt": 36.2843911785,
   "lati": 50.0112010319,
-  "FullNameUA": "вулиця Шевченка, 267"
+  "FullNameUA": "вулиця Шевченка, 267",
+  "ChildsIds": []
  },
  {
   "id": 130172,
@@ -4772,7 +5014,8 @@
   "reg_date": "",
   "longt": 36.2988446417,
   "lati": 50.0186390896,
-  "FullNameUA": "вулиця Шевченка, 270"
+  "FullNameUA": "вулиця Шевченка, 270",
+  "ChildsIds": []
  },
  {
   "id": 130174,
@@ -4797,7 +5040,8 @@
   "reg_date": "",
   "longt": 36.2858019993,
   "lati": 50.0112928427,
-  "FullNameUA": "вулиця Шевченка, 271-А"
+  "FullNameUA": "вулиця Шевченка, 271-А",
+  "ChildsIds": []
  },
  {
   "id": 130173,
@@ -4822,7 +5066,8 @@
   "reg_date": "",
   "longt": 36.2851753619,
   "lati": 50.010876698,
-  "FullNameUA": "вулиця Шевченка, 271"
+  "FullNameUA": "вулиця Шевченка, 271",
+  "ChildsIds": []
  },
  {
   "id": 178871,
@@ -4847,7 +5092,8 @@
   "reg_date": "",
   "longt": 36.2946918038,
   "lati": 50.0187010728,
-  "FullNameUA": "вулиця Шевченка, 272"
+  "FullNameUA": "вулиця Шевченка, 272",
+  "ChildsIds": []
  },
  {
   "id": 130175,
@@ -4871,8 +5117,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2856614559,
-  "lati": 50.011209577799995,
-  "FullNameUA": "вулиця Шевченка, 273"
+  "lati": 50.0112095778,
+  "FullNameUA": "вулиця Шевченка, 273",
+  "ChildsIds": []
  },
  {
   "id": 130176,
@@ -4895,9 +5142,10 @@
   "same_adr_comm": "",
   "confrm": "250, 13.04.2016",
   "reg_date": "18.01.2019 09:37:46",
-  "longt": 36.30216714590001,
-  "lati": 50.020307930600005,
-  "FullNameUA": "вулиця Шевченка, 274-В"
+  "longt": 36.3021671459,
+  "lati": 50.0203079306,
+  "FullNameUA": "вулиця Шевченка, 274-В",
+  "ChildsIds": []
  },
  {
   "id": 178854,
@@ -4921,8 +5169,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2964026696,
-  "lati": 50.018227595599996,
-  "FullNameUA": "вулиця Шевченка, 274-А"
+  "lati": 50.0182275956,
+  "FullNameUA": "вулиця Шевченка, 274-А",
+  "ChildsIds": []
  },
  {
   "id": 130177,
@@ -4947,7 +5196,8 @@
   "reg_date": "",
   "longt": 36.2860817349,
   "lati": 50.011509925,
-  "FullNameUA": "вулиця Шевченка, 275"
+  "FullNameUA": "вулиця Шевченка, 275",
+  "ChildsIds": []
  },
  {
   "id": 130178,
@@ -4972,7 +5222,8 @@
   "reg_date": "",
   "longt": 36.2862968445,
   "lati": 50.0116381219,
-  "FullNameUA": "вулиця Шевченка, 277"
+  "FullNameUA": "вулиця Шевченка, 277",
+  "ChildsIds": []
  },
  {
   "id": 130179,
@@ -4995,9 +5246,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286379585300004,
+  "longt": 36.2863795853,
   "lati": 50.0117239378,
-  "FullNameUA": "вулиця Шевченка, 279"
+  "FullNameUA": "вулиця Шевченка, 279",
+  "ChildsIds": []
  },
  {
   "id": 130180,
@@ -5020,9 +5272,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286607107100004,
+  "longt": 36.2866071071,
   "lati": 50.0118842436,
-  "FullNameUA": "вулиця Шевченка, 281"
+  "FullNameUA": "вулиця Шевченка, 281",
+  "ChildsIds": []
  },
  {
   "id": 178897,
@@ -5047,7 +5300,8 @@
   "reg_date": "",
   "longt": 36.2955672653,
   "lati": 50.0212390275,
-  "FullNameUA": "вулиця Шевченка, 282-А"
+  "FullNameUA": "вулиця Шевченка, 282-А",
+  "ChildsIds": []
  },
  {
   "id": 130181,
@@ -5071,8 +5325,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2868177824,
-  "lati": 50.012015537399996,
-  "FullNameUA": "вулиця Шевченка, 283"
+  "lati": 50.0120155374,
+  "FullNameUA": "вулиця Шевченка, 283",
+  "ChildsIds": []
  },
  {
   "id": 178898,
@@ -5096,8 +5351,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2958777129,
-  "lati": 50.021593515700005,
-  "FullNameUA": "вулиця Шевченка, 284-А"
+  "lati": 50.0215935157,
+  "FullNameUA": "вулиця Шевченка, 284-А",
+  "ChildsIds": []
  },
  {
   "id": 130182,
@@ -5120,9 +5376,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286995675600004,
+  "longt": 36.2869956756,
   "lati": 50.0121551807,
-  "FullNameUA": "вулиця Шевченка, 285"
+  "FullNameUA": "вулиця Шевченка, 285",
+  "ChildsIds": []
  },
  {
   "id": 178899,
@@ -5147,7 +5404,8 @@
   "reg_date": "",
   "longt": 36.2968287414,
   "lati": 50.0225473121,
-  "FullNameUA": "вулиця Шевченка, 286"
+  "FullNameUA": "вулиця Шевченка, 286",
+  "ChildsIds": []
  },
  {
   "id": 130183,
@@ -5171,8 +5429,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2871952246,
-  "lati": 50.012336058399995,
-  "FullNameUA": "вулиця Шевченка, 287"
+  "lati": 50.0123360584,
+  "FullNameUA": "вулиця Шевченка, 287",
+  "ChildsIds": []
  },
  {
   "id": 130184,
@@ -5197,7 +5456,8 @@
   "reg_date": "",
   "longt": 36.287485965,
   "lati": 50.0125584196,
-  "FullNameUA": "вулиця Шевченка, 289"
+  "FullNameUA": "вулиця Шевченка, 289",
+  "ChildsIds": []
  },
  {
   "id": 130185,
@@ -5222,7 +5482,8 @@
   "reg_date": "",
   "longt": 36.2876894066,
   "lati": 50.0127106501,
-  "FullNameUA": "вулиця Шевченка, 291"
+  "FullNameUA": "вулиця Шевченка, 291",
+  "ChildsIds": []
  },
  {
   "id": 130186,
@@ -5246,8 +5507,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2878260555,
-  "lati": 50.012816605699996,
-  "FullNameUA": "вулиця Шевченка, 293"
+  "lati": 50.0128166057,
+  "FullNameUA": "вулиця Шевченка, 293",
+  "ChildsIds": []
  },
  {
   "id": 130187,
@@ -5272,7 +5534,8 @@
   "reg_date": "",
   "longt": 36.2880385822,
   "lati": 50.0129972478,
-  "FullNameUA": "вулиця Шевченка, 295"
+  "FullNameUA": "вулиця Шевченка, 295",
+  "ChildsIds": []
  },
  {
   "id": 130188,
@@ -5296,8 +5559,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2881635758,
-  "lati": 50.013105750499996,
-  "FullNameUA": "вулиця Шевченка, 297"
+  "lati": 50.0131057505,
+  "FullNameUA": "вулиця Шевченка, 297",
+  "ChildsIds": []
  },
  {
   "id": 130190,
@@ -5320,9 +5584,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.286698932600004,
+  "longt": 36.2866989326,
   "lati": 50.0141618697,
-  "FullNameUA": "вулиця Шевченка, 301-А"
+  "FullNameUA": "вулиця Шевченка, 301-А",
+  "ChildsIds": []
  },
  {
   "id": 130189,
@@ -5347,7 +5612,8 @@
   "reg_date": "",
   "longt": 36.2882857025,
   "lati": 50.0134681033,
-  "FullNameUA": "вулиця Шевченка, 301"
+  "FullNameUA": "вулиця Шевченка, 301",
+  "ChildsIds": []
  },
  {
   "id": 130191,
@@ -5370,9 +5636,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.288733560800004,
-  "lati": 50.014045520399996,
-  "FullNameUA": "вулиця Шевченка, 303/307"
+  "longt": 36.2887335608,
+  "lati": 50.0140455204,
+  "FullNameUA": "вулиця Шевченка, 303/307",
+  "ChildsIds": []
  },
  {
   "id": 130192,
@@ -5397,7 +5664,8 @@
   "reg_date": "18.01.2019 09:41:30",
   "longt": 36.2901804129,
   "lati": 50.0153772393,
-  "FullNameUA": "вулиця Шевченка, 307-А"
+  "FullNameUA": "вулиця Шевченка, 307-А",
+  "ChildsIds": []
  },
  {
   "id": 130194,
@@ -5422,7 +5690,8 @@
   "reg_date": "",
   "longt": 36.2882028646,
   "lati": 50.0172114585,
-  "FullNameUA": "вулиця Шевченка, 315-А"
+  "FullNameUA": "вулиця Шевченка, 315-А",
+  "ChildsIds": []
  },
  {
   "id": 130193,
@@ -5447,7 +5716,8 @@
   "reg_date": "",
   "longt": 36.2912116504,
   "lati": 50.0173247966,
-  "FullNameUA": "вулиця Шевченка, 315"
+  "FullNameUA": "вулиця Шевченка, 315",
+  "ChildsIds": []
  },
  {
   "id": 130195,
@@ -5472,7 +5742,8 @@
   "reg_date": "",
   "longt": 36.2914346448,
   "lati": 50.0199636301,
-  "FullNameUA": "вулиця Шевченка, 317"
+  "FullNameUA": "вулиця Шевченка, 317",
+  "ChildsIds": []
  },
  {
   "id": 130198,
@@ -5497,7 +5768,8 @@
   "reg_date": "",
   "longt": 36.2912367722,
   "lati": 50.0186388382,
-  "FullNameUA": "вулиця Шевченка, 317/1"
+  "FullNameUA": "вулиця Шевченка, 317/1",
+  "ChildsIds": []
  },
  {
   "id": 130197,
@@ -5522,7 +5794,8 @@
   "reg_date": "18.01.2019 09:46:03",
   "longt": 36.2919785929,
   "lati": 50.0183876503,
-  "FullNameUA": "вулиця Шевченка, 317-Д"
+  "FullNameUA": "вулиця Шевченка, 317-Д",
+  "ChildsIds": []
  },
  {
   "id": 130196,
@@ -5547,7 +5820,8 @@
   "reg_date": "",
   "longt": 36.2849738832,
   "lati": 50.019484188,
-  "FullNameUA": "вулиця Шевченка, 317-Б"
+  "FullNameUA": "вулиця Шевченка, 317-Б",
+  "ChildsIds": []
  },
  {
   "id": 130199,
@@ -5570,9 +5844,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289136874600004,
-  "lati": 50.023463629700004,
-  "FullNameUA": "вулиця Шевченка, 319"
+  "longt": 36.2891368746,
+  "lati": 50.0234636297,
+  "FullNameUA": "вулиця Шевченка, 319",
+  "ChildsIds": []
  },
  {
   "id": 130200,
@@ -5596,8 +5871,9 @@
   "confrm": "336, 19.05.2016",
   "reg_date": "18.01.2019 09:48:21",
   "longt": 36.2989068952,
-  "lati": 50.024713847300006,
-  "FullNameUA": "вулиця Шевченка, 324"
+  "lati": 50.0247138473,
+  "FullNameUA": "вулиця Шевченка, 324",
+  "ChildsIds": []
  },
  {
   "id": 130201,
@@ -5621,8 +5897,9 @@
   "confrm": "Рішення ВК ХМР № 292, 10.05.2017",
   "reg_date": "22.05.2017 15:32:19",
   "longt": 36.2892330951,
-  "lati": 50.021664413900005,
-  "FullNameUA": "вулиця Шевченка, 325"
+  "lati": 50.0216644139,
+  "FullNameUA": "вулиця Шевченка, 325",
+  "ChildsIds": []
  },
  {
   "id": 178794,
@@ -5647,7 +5924,8 @@
   "reg_date": "",
   "longt": 36.2969666719,
   "lati": 50.0242916652,
-  "FullNameUA": "вулиця Шевченка, 327-А"
+  "FullNameUA": "вулиця Шевченка, 327-А",
+  "ChildsIds": []
  },
  {
   "id": 130202,
@@ -5670,9 +5948,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.293261280399996,
+  "longt": 36.2932612804,
   "lati": 50.0202801308,
-  "FullNameUA": "вулиця Шевченка, 327"
+  "FullNameUA": "вулиця Шевченка, 327",
+  "ChildsIds": []
  },
  {
   "id": 130203,
@@ -5697,7 +5976,8 @@
   "reg_date": "",
   "longt": 36.288568974,
   "lati": 50.0273427017,
-  "FullNameUA": "вулиця Шевченка, 329"
+  "FullNameUA": "вулиця Шевченка, 329",
+  "ChildsIds": []
  },
  {
   "id": 130204,
@@ -5722,7 +6002,8 @@
   "reg_date": "",
   "longt": 36.2898772557,
   "lati": 50.0293475725,
-  "FullNameUA": "вулиця Шевченка, 329-А"
+  "FullNameUA": "вулиця Шевченка, 329-А",
+  "ChildsIds": []
  },
  {
   "id": 130205,
@@ -5746,8 +6027,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2997510403,
-  "lati": 50.027277887800004,
-  "FullNameUA": "вулиця Шевченка, 331"
+  "lati": 50.0272778878,
+  "FullNameUA": "вулиця Шевченка, 331",
+  "ChildsIds": []
  },
  {
   "id": 130206,
@@ -5772,7 +6054,8 @@
   "reg_date": "17.05.2018 09:30:29",
   "longt": 36.3007959353,
   "lati": 50.0263819882,
-  "FullNameUA": "вулиця Шевченка, 332"
+  "FullNameUA": "вулиця Шевченка, 332",
+  "ChildsIds": []
  },
  {
   "id": 130207,
@@ -5796,8 +6079,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2981093345,
-  "lati": 50.026909852500005,
-  "FullNameUA": "вулиця Шевченка, 333"
+  "lati": 50.0269098525,
+  "FullNameUA": "вулиця Шевченка, 333",
+  "ChildsIds": []
  },
  {
   "id": 130208,
@@ -5822,7 +6106,8 @@
   "reg_date": "04.03.2019 14:59:04",
   "longt": 36.3017717134,
   "lati": 50.027131119,
-  "FullNameUA": "вулиця Шевченка, 334"
+  "FullNameUA": "вулиця Шевченка, 334",
+  "ChildsIds": []
  },
  {
   "id": 130209,
@@ -5847,7 +6132,8 @@
   "reg_date": "",
   "longt": 36.2981951237,
   "lati": 50.0274312684,
-  "FullNameUA": "вулиця Шевченка, 335"
+  "FullNameUA": "вулиця Шевченка, 335",
+  "ChildsIds": []
  },
  {
   "id": 180540,
@@ -5871,8 +6157,9 @@
   "confrm": "",
   "reg_date": "10.04.2019 12:36:57",
   "longt": 36.3026562586,
-  "lati": 50.027753219900006,
-  "FullNameUA": "вулиця Шевченка, 336"
+  "lati": 50.0277532199,
+  "FullNameUA": "вулиця Шевченка, 336",
+  "ChildsIds": []
  },
  {
   "id": 130210,
@@ -5897,7 +6184,8 @@
   "reg_date": "",
   "longt": 36.2966240605,
   "lati": 50.0274203999,
-  "FullNameUA": "вулиця Шевченка, 337"
+  "FullNameUA": "вулиця Шевченка, 337",
+  "ChildsIds": []
  },
  {
   "id": 130211,
@@ -5922,7 +6210,8 @@
   "reg_date": "",
   "longt": 36.297239557,
   "lati": 50.0281336193,
-  "FullNameUA": "вулиця Шевченка, 339"
+  "FullNameUA": "вулиця Шевченка, 339",
+  "ChildsIds": []
  },
  {
   "id": 130212,
@@ -5946,8 +6235,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2981715817,
-  "lati": 50.028081276200005,
-  "FullNameUA": "вулиця Шевченка, 341"
+  "lati": 50.0280812762,
+  "FullNameUA": "вулиця Шевченка, 341",
+  "ChildsIds": []
  },
  {
   "id": 130213,
@@ -5972,6 +6262,7 @@
   "reg_date": "",
   "longt": 36.2990998013,
   "lati": 50.0280110952,
-  "FullNameUA": "вулиця Шевченка, 343"
+  "FullNameUA": "вулиця Шевченка, 343",
+  "ChildsIds": []
  }
 ]

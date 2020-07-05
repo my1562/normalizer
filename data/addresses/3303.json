@@ -1,9 +1,9 @@
 [
  {
-  "id": 169210,
+  "id": 169208,
   "postcode": 61037,
   "number": 1,
-  "suffix": "В",
+  "suffix": "А",
   "block": "",
   "streetid": 3303,
   "status_id": 1,
@@ -20,34 +20,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.2911129396,
-  "lati": 49.974809912699996,
-  "FullNameUA": "вулиця Морозова, 1-В"
- },
- {
-  "id": 169207,
-  "postcode": 61036,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.286709655100005,
-  "lati": 49.9659999124,
-  "FullNameUA": "вулиця Морозова, 1"
+  "longt": 36.2911751394,
+  "lati": 49.9753378289,
+  "FullNameUA": "вулиця Морозова, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 169209,
@@ -71,14 +47,41 @@
   "confrm": "Рішення ВК Комінтернівської райради 168-1, 16.08.2005",
   "reg_date": "04.04.2019 10:05:50",
   "longt": 36.2914119852,
-  "lati": 49.975781600299996,
-  "FullNameUA": "вулиця Морозова, 1-Б"
+  "lati": 49.9757816003,
+  "FullNameUA": "вулиця Морозова, 1-Б",
+  "ChildsIds": []
  },
  {
-  "id": 169208,
+  "id": 169207,
+  "postcode": 61036,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2867096551,
+  "lati": 49.9659999124,
+  "FullNameUA": "вулиця Морозова, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 169210,
   "postcode": 61037,
   "number": 1,
-  "suffix": "А",
+  "suffix": "В",
   "block": "",
   "streetid": 3303,
   "status_id": 1,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.291175139399996,
-  "lati": 49.975337828899995,
-  "FullNameUA": "вулиця Морозова, 1-А"
+  "longt": 36.2911129396,
+  "lati": 49.9748099127,
+  "FullNameUA": "вулиця Морозова, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 169212,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.290515299,
   "lati": 49.9757288486,
-  "FullNameUA": "вулиця Морозова, 2/4"
+  "FullNameUA": "вулиця Морозова, 2/4",
+  "ChildsIds": []
  },
  {
   "id": 169211,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2845071869,
   "lati": 49.9639537705,
-  "FullNameUA": "вулиця Морозова, 2"
+  "FullNameUA": "вулиця Морозова, 2",
+  "ChildsIds": []
  },
  {
   "id": 169214,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2814441542,
-  "lati": 49.943150588399995,
-  "FullNameUA": "вулиця Морозова, 3-А"
+  "lati": 49.9431505884,
+  "FullNameUA": "вулиця Морозова, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 169213,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286076632400004,
+  "longt": 36.2860766324,
   "lati": 49.9636550089,
-  "FullNameUA": "вулиця Морозова, 3"
+  "FullNameUA": "вулиця Морозова, 3",
+  "ChildsIds": []
  },
  {
   "id": 169215,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2841355232,
   "lati": 49.9630960334,
-  "FullNameUA": "вулиця Морозова, 4"
+  "FullNameUA": "вулиця Морозова, 4",
+  "ChildsIds": []
  },
  {
   "id": 169216,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2821091867,
   "lati": 49.9627760617,
-  "FullNameUA": "вулиця Морозова, 4/1"
+  "FullNameUA": "вулиця Морозова, 4/1",
+  "ChildsIds": []
  },
  {
   "id": 179297,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2847485053,
   "lati": 49.962993214,
-  "FullNameUA": "вулиця Морозова, 4-А"
+  "FullNameUA": "вулиця Морозова, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 179136,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2858310606,
   "lati": 49.9631183089,
-  "FullNameUA": "вулиця Морозова, 5/1"
+  "FullNameUA": "вулиця Морозова, 5/1",
+  "ChildsIds": []
  },
  {
   "id": 169217,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2857922059,
   "lati": 49.9626593588,
-  "FullNameUA": "вулиця Морозова, 5"
+  "FullNameUA": "вулиця Морозова, 5",
+  "ChildsIds": []
  },
  {
   "id": 169218,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819330973,
-  "lati": 49.962117768300004,
-  "FullNameUA": "вулиця Морозова, 6"
+  "lati": 49.9621177683,
+  "FullNameUA": "вулиця Морозова, 6",
+  "ChildsIds": []
  },
  {
   "id": 169219,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2852651185,
   "lati": 49.9622112367,
-  "FullNameUA": "вулиця Морозова, 7"
+  "FullNameUA": "вулиця Морозова, 7",
+  "ChildsIds": []
  },
  {
   "id": 169220,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.282403484,
   "lati": 49.9619535181,
-  "FullNameUA": "вулиця Морозова, 8"
+  "FullNameUA": "вулиця Морозова, 8",
+  "ChildsIds": []
  },
  {
   "id": 180135,
@@ -422,7 +438,8 @@
   "reg_date": "26.12.2018 11:47:10",
   "longt": 36.2824220501,
   "lati": 49.9584706125,
-  "FullNameUA": "вулиця Морозова, 8-Г"
+  "FullNameUA": "вулиця Морозова, 8-Г",
+  "ChildsIds": []
  },
  {
   "id": 180136,
@@ -446,33 +463,9 @@
   "confrm": "",
   "reg_date": "26.12.2018 11:55:49",
   "longt": 36.2829000729,
-  "lati": 49.958436621500006,
-  "FullNameUA": "вулиця Морозова, 8-В"
- },
- {
-  "id": 169222,
-  "postcode": 61036,
-  "number": 11,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2900942342,
-  "lati": 49.956504215,
-  "FullNameUA": "вулиця Морозова, 11/1"
+  "lati": 49.9584366215,
+  "FullNameUA": "вулиця Морозова, 8-В",
+  "ChildsIds": []
  },
  {
   "id": 169221,
@@ -497,7 +490,60 @@
   "reg_date": "",
   "longt": 36.2846576995,
   "lati": 49.9608140016,
-  "FullNameUA": "вулиця Морозова, 11"
+  "FullNameUA": "вулиця Морозова, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 169222,
+  "postcode": 61036,
+  "number": 11,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2900942342,
+  "lati": 49.956504215,
+  "FullNameUA": "вулиця Морозова, 11/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 169225,
+  "postcode": 61036,
+  "number": 13,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2917085784,
+  "lati": 49.9542968317,
+  "FullNameUA": "вулиця Морозова, 13-Б",
+  "ChildsIds": []
  },
  {
   "id": 169223,
@@ -522,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2834935253,
   "lati": 49.9550561674,
-  "FullNameUA": "вулиця Морозова, 13"
+  "FullNameUA": "вулиця Морозова, 13",
+  "ChildsIds": []
  },
  {
   "id": 169224,
@@ -547,32 +594,8 @@
   "reg_date": "",
   "longt": 36.2818760766,
   "lati": 49.951562951,
-  "FullNameUA": "вулиця Морозова, 13-А"
- },
- {
-  "id": 169225,
-  "postcode": 61036,
-  "number": 13,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2917085784,
-  "lati": 49.954296831700006,
-  "FullNameUA": "вулиця Морозова, 13-Б"
+  "FullNameUA": "вулиця Морозова, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 169226,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2838497774,
-  "lati": 49.957457076400004,
-  "FullNameUA": "вулиця Морозова, 15"
+  "lati": 49.9574570764,
+  "FullNameUA": "вулиця Морозова, 15",
+  "ChildsIds": []
  },
  {
   "id": 169227,
@@ -622,32 +646,8 @@
   "reg_date": "",
   "longt": 36.281930564,
   "lati": 49.949405592,
-  "FullNameUA": "вулиця Морозова, 18"
- },
- {
-  "id": 169229,
-  "postcode": 61105,
-  "number": 20,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Комінтернівської  райради № 312, 21.11.2006",
-  "reg_date": "",
-  "longt": 36.280596321800004,
-  "lati": 49.952260917100006,
-  "FullNameUA": "вулиця Морозова, 20-Б"
+  "FullNameUA": "вулиця Морозова, 18",
+  "ChildsIds": []
  },
  {
   "id": 169228,
@@ -671,8 +671,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2795747873,
-  "lati": 49.951621213200006,
-  "FullNameUA": "вулиця Морозова, 20-А"
+  "lati": 49.9516212132,
+  "FullNameUA": "вулиця Морозова, 20-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169229,
+  "postcode": 61105,
+  "number": 20,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Комінтернівської  райради № 312, 21.11.2006",
+  "reg_date": "",
+  "longt": 36.2805963218,
+  "lati": 49.9522609171,
+  "FullNameUA": "вулиця Морозова, 20-Б",
+  "ChildsIds": []
  },
  {
   "id": 169230,
@@ -697,32 +724,8 @@
   "reg_date": "",
   "longt": 36.2819000302,
   "lati": 49.9480062057,
-  "FullNameUA": "вулиця Морозова, 21"
- },
- {
-  "id": 169231,
-  "postcode": 61105,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.279559596700004,
-  "lati": 49.9480600985,
-  "FullNameUA": "вулиця Морозова, 22"
+  "FullNameUA": "вулиця Морозова, 21",
+  "ChildsIds": []
  },
  {
   "id": 169233,
@@ -747,7 +750,34 @@
   "reg_date": "",
   "longt": 36.2802619726,
   "lati": 49.9484718258,
-  "FullNameUA": "вулиця Морозова, 22-Б"
+  "FullNameUA": "вулиця Морозова, 22-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 169231,
+  "postcode": 61105,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2795595967,
+  "lati": 49.9480600985,
+  "FullNameUA": "вулиця Морозова, 22",
+  "ChildsIds": []
  },
  {
   "id": 169232,
@@ -771,8 +801,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2789531983,
-  "lati": 49.948072086399996,
-  "FullNameUA": "вулиця Морозова, 22-А"
+  "lati": 49.9480720864,
+  "FullNameUA": "вулиця Морозова, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169236,
+  "postcode": 61105,
+  "number": 24,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2789578278,
+  "lati": 49.9478083758,
+  "FullNameUA": "вулиця Морозова, 24-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 169235,
+  "postcode": 61105,
+  "number": 24,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2795618053,
+  "lati": 49.9477836239,
+  "FullNameUA": "вулиця Морозова, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 169234,
@@ -796,83 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2803992253,
-  "lati": 49.947774720999995,
-  "FullNameUA": "вулиця Морозова, 24"
- },
- {
-  "id": 169235,
-  "postcode": 61105,
-  "number": 24,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.279561805300006,
-  "lati": 49.9477836239,
-  "FullNameUA": "вулиця Морозова, 24-А"
- },
- {
-  "id": 169236,
-  "postcode": 61105,
-  "number": 24,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.278957827800006,
-  "lati": 49.9478083758,
-  "FullNameUA": "вулиця Морозова, 24-Б"
- },
- {
-  "id": 169238,
-  "postcode": 61105,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2795732979,
-  "lati": 49.9473043144,
-  "FullNameUA": "вулиця Морозова, 26-А"
+  "lati": 49.947774721,
+  "FullNameUA": "вулиця Морозова, 24",
+  "ChildsIds": []
  },
  {
   "id": 169237,
@@ -897,7 +906,34 @@
   "reg_date": "",
   "longt": 36.280396731,
   "lati": 49.9473071173,
-  "FullNameUA": "вулиця Морозова, 26"
+  "FullNameUA": "вулиця Морозова, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 169238,
+  "postcode": 61105,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2795732979,
+  "lati": 49.9473043144,
+  "FullNameUA": "вулиця Морозова, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 169239,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280398309300004,
-  "lati": 49.947012106799995,
-  "FullNameUA": "вулиця Морозова, 28"
+  "longt": 36.2803983093,
+  "lati": 49.9470121068,
+  "FullNameUA": "вулиця Морозова, 28",
+  "ChildsIds": []
  },
  {
   "id": 169240,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279575397900004,
+  "longt": 36.2795753979,
   "lati": 49.9470074654,
-  "FullNameUA": "вулиця Морозова, 28-А"
+  "FullNameUA": "вулиця Морозова, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 169241,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278480697400006,
+  "longt": 36.2784806974,
   "lati": 49.9471702524,
-  "FullNameUA": "вулиця Морозова, 28-Б"
+  "FullNameUA": "вулиця Морозова, 28-Б",
+  "ChildsIds": []
  },
  {
   "id": 169242,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.280094422,
   "lati": 49.9457042241,
-  "FullNameUA": "вулиця Морозова, 32"
+  "FullNameUA": "вулиця Морозова, 32",
+  "ChildsIds": []
  },
  {
   "id": 169243,
@@ -1021,8 +1061,9 @@
   "confrm": "градархив",
   "reg_date": "01.08.2019 17:38:54",
   "longt": 36.2816608375,
-  "lati": 49.948668835199996,
-  "FullNameUA": "вулиця Морозова, 33"
+  "lati": 49.9486688352,
+  "FullNameUA": "вулиця Морозова, 33",
+  "ChildsIds": []
  },
  {
   "id": 169244,
@@ -1047,7 +1088,34 @@
   "reg_date": "",
   "longt": 36.2800821509,
   "lati": 49.9450440377,
-  "FullNameUA": "вулиця Морозова, 34"
+  "FullNameUA": "вулиця Морозова, 34",
+  "ChildsIds": []
+ },
+ {
+  "id": 169245,
+  "postcode": 61105,
+  "number": 37,
+  "suffix": "",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.281971871,
+  "lati": 49.9459165792,
+  "FullNameUA": "вулиця Морозова, 37",
+  "ChildsIds": []
  },
  {
   "id": 169246,
@@ -1072,32 +1140,8 @@
   "reg_date": "",
   "longt": 36.2819481767,
   "lati": 49.9456824604,
-  "FullNameUA": "вулиця Морозова, 37-А"
- },
- {
-  "id": 169245,
-  "postcode": 61105,
-  "number": 37,
-  "suffix": "",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.281971871,
-  "lati": 49.945916579199995,
-  "FullNameUA": "вулиця Морозова, 37"
+  "FullNameUA": "вулиця Морозова, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 169247,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819537412,
-  "lati": 49.945576360299995,
-  "FullNameUA": "вулиця Морозова, 39"
+  "lati": 49.9455763603,
+  "FullNameUA": "вулиця Морозова, 39",
+  "ChildsIds": []
  },
  {
   "id": 169248,
@@ -1146,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2807584054,
-  "lati": 49.943761993799995,
-  "FullNameUA": "вулиця Морозова, 40"
+  "lati": 49.9437619938,
+  "FullNameUA": "вулиця Морозова, 40",
+  "ChildsIds": []
  },
  {
   "id": 169249,
@@ -1171,8 +1217,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819531129,
-  "lati": 49.945392821999995,
-  "FullNameUA": "вулиця Морозова, 41"
+  "lati": 49.945392822,
+  "FullNameUA": "вулиця Морозова, 41",
+  "ChildsIds": []
  },
  {
   "id": 169250,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2807271812,
   "lati": 49.9435438784,
-  "FullNameUA": "вулиця Морозова, 42"
+  "FullNameUA": "вулиця Морозова, 42",
+  "ChildsIds": []
  },
  {
   "id": 169251,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819197951,
-  "lati": 49.945215586299994,
-  "FullNameUA": "вулиця Морозова, 43"
+  "lati": 49.9452155863,
+  "FullNameUA": "вулиця Морозова, 43",
+  "ChildsIds": []
  },
  {
   "id": 169252,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280766872600005,
+  "longt": 36.2807668726,
   "lati": 49.9434298615,
-  "FullNameUA": "вулиця Морозова, 44"
+  "FullNameUA": "вулиця Морозова, 44",
+  "ChildsIds": []
  },
  {
   "id": 169253,
@@ -1271,8 +1321,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2821613857,
-  "lati": 49.945000742199994,
-  "FullNameUA": "вулиця Морозова, 45"
+  "lati": 49.9450007422,
+  "FullNameUA": "вулиця Морозова, 45",
+  "ChildsIds": []
  },
  {
   "id": 169254,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2807146428,
   "lati": 49.943210162,
-  "FullNameUA": "вулиця Морозова, 46"
+  "FullNameUA": "вулиця Морозова, 46",
+  "ChildsIds": []
  },
  {
   "id": 169255,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.2819842178,
   "lati": 49.9447976683,
-  "FullNameUA": "вулиця Морозова, 47"
+  "FullNameUA": "вулиця Морозова, 47",
+  "ChildsIds": []
  },
  {
   "id": 169256,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.280701586,
   "lati": 49.9429708419,
-  "FullNameUA": "вулиця Морозова, 48"
+  "FullNameUA": "вулиця Морозова, 48",
+  "ChildsIds": []
  },
  {
   "id": 169257,
@@ -1371,8 +1425,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.281934963,
-  "lati": 49.944663036499996,
-  "FullNameUA": "вулиця Морозова, 49"
+  "lati": 49.9446630365,
+  "FullNameUA": "вулиця Морозова, 49",
+  "ChildsIds": []
  },
  {
   "id": 169258,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280715084200004,
+  "longt": 36.2807150842,
   "lati": 49.9426945214,
-  "FullNameUA": "вулиця Морозова, 50"
+  "FullNameUA": "вулиця Морозова, 50",
+  "ChildsIds": []
  },
  {
   "id": 169259,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2819291586,
   "lati": 49.9445097599,
-  "FullNameUA": "вулиця Морозова, 51"
+  "FullNameUA": "вулиця Морозова, 51",
+  "ChildsIds": []
  },
  {
   "id": 169260,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2807179703,
   "lati": 49.9424962693,
-  "FullNameUA": "вулиця Морозова, 52"
+  "FullNameUA": "вулиця Морозова, 52",
+  "ChildsIds": []
  },
  {
   "id": 169261,
@@ -1470,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281880446900004,
-  "lati": 49.943793433399996,
-  "FullNameUA": "вулиця Морозова, 53"
+  "longt": 36.2818804469,
+  "lati": 49.9437934334,
+  "FullNameUA": "вулиця Морозова, 53",
+  "ChildsIds": []
  },
  {
   "id": 169262,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2807259104,
   "lati": 49.9423514198,
-  "FullNameUA": "вулиця Морозова, 54"
+  "FullNameUA": "вулиця Морозова, 54",
+  "ChildsIds": []
  },
  {
   "id": 169263,
@@ -1521,8 +1581,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819242229,
-  "lati": 49.943664506699996,
-  "FullNameUA": "вулиця Морозова, 55"
+  "lati": 49.9436645067,
+  "FullNameUA": "вулиця Морозова, 55",
+  "ChildsIds": []
  },
  {
   "id": 169264,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2807476341,
   "lati": 49.9420047387,
-  "FullNameUA": "вулиця Морозова, 56"
+  "FullNameUA": "вулиця Морозова, 56",
+  "ChildsIds": []
  },
  {
   "id": 169265,
@@ -1571,8 +1633,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2818871255,
-  "lati": 49.943522143799996,
-  "FullNameUA": "вулиця Морозова, 57"
+  "lati": 49.9435221438,
+  "FullNameUA": "вулиця Морозова, 57",
+  "ChildsIds": []
  },
  {
   "id": 169266,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280704412700004,
-  "lati": 49.941837969599995,
-  "FullNameUA": "вулиця Морозова, 58"
+  "longt": 36.2807044127,
+  "lati": 49.9418379696,
+  "FullNameUA": "вулиця Морозова, 58",
+  "ChildsIds": []
  },
  {
   "id": 169267,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2818840617,
   "lati": 49.9433758338,
-  "FullNameUA": "вулиця Морозова, 59"
+  "FullNameUA": "вулиця Морозова, 59",
+  "ChildsIds": []
  },
  {
   "id": 169268,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.2806770123,
   "lati": 49.9412753815,
-  "FullNameUA": "вулиця Морозова, 60"
+  "FullNameUA": "вулиця Морозова, 60",
+  "ChildsIds": []
  },
  {
   "id": 169269,
@@ -1671,33 +1737,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819104851,
-  "lati": 49.943167332799995,
-  "FullNameUA": "вулиця Морозова, 61"
- },
- {
-  "id": 181479,
-  "postcode": 61105,
-  "number": 62,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3303,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136900:08:022:0051), житловий будинок літ. \"И-2\"",
-  "confrm": "",
-  "reg_date": "28.10.2019 12:23:50",
-  "longt": 36.2808142438,
-  "lati": 49.940997167999996,
-  "FullNameUA": "вулиця Морозова, 62-А"
+  "lati": 49.9431673328,
+  "FullNameUA": "вулиця Морозова, 61",
+  "ChildsIds": []
  },
  {
   "id": 169270,
@@ -1722,7 +1764,36 @@
   "reg_date": "",
   "longt": 36.2804594972,
   "lati": 49.9409987905,
-  "FullNameUA": "вулиця Морозова, 62"
+  "FullNameUA": "вулиця Морозова, 62",
+  "ChildsIds": [
+   181479
+  ]
+ },
+ {
+  "id": 181479,
+  "postcode": 61105,
+  "number": 62,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3303,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136900:08:022:0051), житловий будинок літ. \"И-2\"",
+  "confrm": "",
+  "reg_date": "28.10.2019 12:23:50",
+  "longt": 36.2808142438,
+  "lati": 49.940997168,
+  "FullNameUA": "вулиця Морозова, 62-А",
+  "ChildsIds": []
  },
  {
   "id": 169271,
@@ -1747,7 +1818,8 @@
   "reg_date": "",
   "longt": 36.2818996798,
   "lati": 49.9429252099,
-  "FullNameUA": "вулиця Морозова, 63"
+  "FullNameUA": "вулиця Морозова, 63",
+  "ChildsIds": []
  },
  {
   "id": 169272,
@@ -1772,7 +1844,8 @@
   "reg_date": "",
   "longt": 36.2808486235,
   "lati": 49.9408891729,
-  "FullNameUA": "вулиця Морозова, 64"
+  "FullNameUA": "вулиця Морозова, 64",
+  "ChildsIds": []
  },
  {
   "id": 169273,
@@ -1797,7 +1870,8 @@
   "reg_date": "",
   "longt": 36.2819062147,
   "lati": 49.9426379336,
-  "FullNameUA": "вулиця Морозова, 65"
+  "FullNameUA": "вулиця Морозова, 65",
+  "ChildsIds": []
  },
  {
   "id": 169274,
@@ -1822,7 +1896,8 @@
   "reg_date": "",
   "longt": 36.2818558766,
   "lati": 49.9423358698,
-  "FullNameUA": "вулиця Морозова, 67"
+  "FullNameUA": "вулиця Морозова, 67",
+  "ChildsIds": []
  },
  {
   "id": 177577,
@@ -1847,7 +1922,8 @@
   "reg_date": "",
   "longt": 36.2807165949,
   "lati": 49.9398649154,
-  "FullNameUA": "вулиця Морозова, 68"
+  "FullNameUA": "вулиця Морозова, 68",
+  "ChildsIds": []
  },
  {
   "id": 169275,
@@ -1872,7 +1948,8 @@
   "reg_date": "",
   "longt": 36.2819408593,
   "lati": 49.9420221128,
-  "FullNameUA": "вулиця Морозова, 69"
+  "FullNameUA": "вулиця Морозова, 69",
+  "ChildsIds": []
  },
  {
   "id": 177578,
@@ -1896,8 +1973,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2806816274,
-  "lati": 49.939555766699996,
-  "FullNameUA": "вулиця Морозова, 70"
+  "lati": 49.9395557667,
+  "FullNameUA": "вулиця Морозова, 70",
+  "ChildsIds": []
  },
  {
   "id": 169276,
@@ -1921,8 +1999,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2819031076,
-  "lati": 49.941694855399994,
-  "FullNameUA": "вулиця Морозова, 71"
+  "lati": 49.9416948554,
+  "FullNameUA": "вулиця Морозова, 71",
+  "ChildsIds": []
  },
  {
   "id": 177581,
@@ -1947,7 +2026,8 @@
   "reg_date": "",
   "longt": 36.2806799633,
   "lati": 49.9391231752,
-  "FullNameUA": "вулиця Морозова, 72"
+  "FullNameUA": "вулиця Морозова, 72",
+  "ChildsIds": []
  },
  {
   "id": 169277,
@@ -1972,7 +2052,8 @@
   "reg_date": "",
   "longt": 36.2819146383,
   "lati": 49.9414783421,
-  "FullNameUA": "вулиця Морозова, 73"
+  "FullNameUA": "вулиця Морозова, 73",
+  "ChildsIds": []
  },
  {
   "id": 169278,
@@ -1997,7 +2078,8 @@
   "reg_date": "",
   "longt": 36.2818421442,
   "lati": 49.9413092016,
-  "FullNameUA": "вулиця Морозова, 75"
+  "FullNameUA": "вулиця Морозова, 75",
+  "ChildsIds": []
  },
  {
   "id": 169279,
@@ -2022,7 +2104,8 @@
   "reg_date": "",
   "longt": 36.2818293315,
   "lati": 49.9411312448,
-  "FullNameUA": "вулиця Морозова, 77"
+  "FullNameUA": "вулиця Морозова, 77",
+  "ChildsIds": []
  },
  {
   "id": 177588,
@@ -2045,9 +2128,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.280713857500004,
+  "longt": 36.2807138575,
   "lati": 49.9384669105,
-  "FullNameUA": "вулиця Морозова, 78"
+  "FullNameUA": "вулиця Морозова, 78",
+  "ChildsIds": []
  },
  {
   "id": 169280,
@@ -2071,8 +2155,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2818418408,
-  "lati": 49.940986393399996,
-  "FullNameUA": "вулиця Морозова, 79"
+  "lati": 49.9409863934,
+  "FullNameUA": "вулиця Морозова, 79",
+  "ChildsIds": []
  },
  {
   "id": 177589,
@@ -2097,7 +2182,8 @@
   "reg_date": "",
   "longt": 36.2807180591,
   "lati": 49.9382385433,
-  "FullNameUA": "вулиця Морозова, 80"
+  "FullNameUA": "вулиця Морозова, 80",
+  "ChildsIds": []
  },
  {
   "id": 169281,
@@ -2121,8 +2207,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2818423549,
-  "lati": 49.940826597699996,
-  "FullNameUA": "вулиця Морозова, 81"
+  "lati": 49.9408265977,
+  "FullNameUA": "вулиця Морозова, 81",
+  "ChildsIds": []
  },
  {
   "id": 169282,
@@ -2147,6 +2234,7 @@
   "reg_date": "",
   "longt": 36.2827699253,
   "lati": 49.9390665683,
-  "FullNameUA": "вулиця Морозова, 83"
+  "FullNameUA": "вулиця Морозова, 83",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.205050079,
   "lati": 50.041732029,
-  "FullNameUA": "вулиця Переможна, 3"
+  "FullNameUA": "вулиця Переможна, 3",
+  "ChildsIds": []
  },
  {
   "id": 118565,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2050964976,
   "lati": 50.0418982223,
-  "FullNameUA": "вулиця Переможна, 5"
+  "FullNameUA": "вулиця Переможна, 5",
+  "ChildsIds": []
  },
  {
   "id": 118566,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2052714829,
   "lati": 50.0420771503,
-  "FullNameUA": "вулиця Переможна, 7"
+  "FullNameUA": "вулиця Переможна, 7",
+  "ChildsIds": []
  },
  {
   "id": 118567,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205125882000004,
+  "longt": 36.205125882,
   "lati": 50.0411837323,
-  "FullNameUA": "вулиця Переможна, 8"
+  "FullNameUA": "вулиця Переможна, 8",
+  "ChildsIds": []
  },
  {
   "id": 118568,
@@ -122,7 +126,8 @@
   "reg_date": "17.05.2018 15:27:15",
   "longt": 36.2053982559,
   "lati": 50.0422135872,
-  "FullNameUA": "вулиця Переможна, 9"
+  "FullNameUA": "вулиця Переможна, 9",
+  "ChildsIds": []
  },
  {
   "id": 118569,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2052171371,
-  "lati": 50.041321359099996,
-  "FullNameUA": "вулиця Переможна, 10"
+  "lati": 50.0413213591,
+  "FullNameUA": "вулиця Переможна, 10",
+  "ChildsIds": []
  },
  {
   "id": 118570,
@@ -172,7 +178,8 @@
   "reg_date": "10.01.2020 11:00:55",
   "longt": 36.2053269357,
   "lati": 50.0424883783,
-  "FullNameUA": "вулиця Переможна, 11"
+  "FullNameUA": "вулиця Переможна, 11",
+  "ChildsIds": []
  },
  {
   "id": 118571,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2052944048,
   "lati": 50.0414426177,
-  "FullNameUA": "вулиця Переможна, 12"
+  "FullNameUA": "вулиця Переможна, 12",
+  "ChildsIds": []
  },
  {
   "id": 118572,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2056350909,
   "lati": 50.0426282174,
-  "FullNameUA": "вулиця Переможна, 13"
+  "FullNameUA": "вулиця Переможна, 13",
+  "ChildsIds": []
  },
  {
   "id": 118573,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2054140718,
-  "lati": 50.041586154899996,
-  "FullNameUA": "вулиця Переможна, 14"
+  "lati": 50.0415861549,
+  "FullNameUA": "вулиця Переможна, 14",
+  "ChildsIds": []
  },
  {
   "id": 118574,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205770304400005,
+  "longt": 36.2057703044,
   "lati": 50.042812034,
-  "FullNameUA": "вулиця Переможна, 15"
+  "FullNameUA": "вулиця Переможна, 15",
+  "ChildsIds": []
  },
  {
   "id": 118575,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205500007000005,
+  "longt": 36.205500007,
   "lati": 50.041720477,
-  "FullNameUA": "вулиця Переможна, 16"
+  "FullNameUA": "вулиця Переможна, 16",
+  "ChildsIds": []
  },
  {
   "id": 118576,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205923546200005,
+  "longt": 36.2059235462,
   "lati": 50.0429876858,
-  "FullNameUA": "вулиця Переможна, 17"
+  "FullNameUA": "вулиця Переможна, 17",
+  "ChildsIds": []
  },
  {
   "id": 118577,
@@ -345,9 +358,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205565359400005,
+  "longt": 36.2055653594,
   "lati": 50.0418552998,
-  "FullNameUA": "вулиця Переможна, 18"
+  "FullNameUA": "вулиця Переможна, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 183184,
+  "postcode": 61051,
+  "number": 19,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3549,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2060534321,
+  "lati": 50.0432251311,
+  "FullNameUA": "вулиця Переможна, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 118578,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.206270441200004,
+  "longt": 36.2062704412,
   "lati": 50.0440535372,
-  "FullNameUA": "вулиця Переможна, 19"
+  "FullNameUA": "вулиця Переможна, 19",
+  "ChildsIds": []
  },
  {
   "id": 118579,
@@ -397,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2056952748,
   "lati": 50.0419686796,
-  "FullNameUA": "вулиця Переможна, 20"
+  "FullNameUA": "вулиця Переможна, 20",
+  "ChildsIds": []
  },
  {
   "id": 118580,
@@ -422,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2055425439,
   "lati": 50.0443609826,
-  "FullNameUA": "вулиця Переможна, 21"
+  "FullNameUA": "вулиця Переможна, 21",
+  "ChildsIds": []
  },
  {
   "id": 118581,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205745715300004,
+  "longt": 36.2057457153,
   "lati": 50.0421124269,
-  "FullNameUA": "вулиця Переможна, 22"
+  "FullNameUA": "вулиця Переможна, 22",
+  "ChildsIds": []
  },
  {
   "id": 118582,
@@ -470,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.206453868800004,
+  "longt": 36.2064538688,
   "lati": 50.0446217139,
-  "FullNameUA": "вулиця Переможна, 23"
+  "FullNameUA": "вулиця Переможна, 23",
+  "ChildsIds": []
  },
  {
   "id": 118583,
@@ -495,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205842539900004,
+  "longt": 36.2058425399,
   "lati": 50.0422471503,
-  "FullNameUA": "вулиця Переможна, 24"
+  "FullNameUA": "вулиця Переможна, 24",
+  "ChildsIds": []
  },
  {
   "id": 118584,
@@ -520,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205931877800005,
+  "longt": 36.2059318778,
   "lati": 50.0423762482,
-  "FullNameUA": "вулиця Переможна, 26"
+  "FullNameUA": "вулиця Переможна, 26",
+  "ChildsIds": []
  },
  {
   "id": 118585,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206032136800005,
+  "longt": 36.2060321368,
   "lati": 50.0425138605,
-  "FullNameUA": "вулиця Переможна, 28"
+  "FullNameUA": "вулиця Переможна, 28",
+  "ChildsIds": []
  },
  {
   "id": 118586,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206122294900005,
+  "longt": 36.2061222949,
   "lati": 50.0426426204,
-  "FullNameUA": "вулиця Переможна, 30"
+  "FullNameUA": "вулиця Переможна, 30",
+  "ChildsIds": []
  },
  {
   "id": 118587,
@@ -595,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206219109900005,
+  "longt": 36.2062191099,
   "lati": 50.0427666489,
-  "FullNameUA": "вулиця Переможна, 32"
+  "FullNameUA": "вулиця Переможна, 32",
+  "ChildsIds": []
  },
  {
   "id": 118588,
@@ -622,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2062833042,
   "lati": 50.0429119864,
-  "FullNameUA": "вулиця Переможна, 34"
+  "FullNameUA": "вулиця Переможна, 34",
+  "ChildsIds": []
  },
  {
   "id": 118589,
@@ -647,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2063868596,
   "lati": 50.0430438692,
-  "FullNameUA": "вулиця Переможна, 36"
+  "FullNameUA": "вулиця Переможна, 36",
+  "ChildsIds": []
  },
  {
   "id": 118590,
@@ -670,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206477000700005,
+  "longt": 36.2064770007,
   "lati": 50.04316147,
-  "FullNameUA": "вулиця Переможна, 38"
+  "FullNameUA": "вулиця Переможна, 38",
+  "ChildsIds": []
  },
  {
   "id": 118591,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2065578133,
   "lati": 50.0432940779,
-  "FullNameUA": "вулиця Переможна, 40"
+  "FullNameUA": "вулиця Переможна, 40",
+  "ChildsIds": []
  },
  {
   "id": 118592,
@@ -720,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206747839600006,
+  "longt": 36.2067478396,
   "lati": 50.0435906074,
-  "FullNameUA": "вулиця Переможна, 42"
+  "FullNameUA": "вулиця Переможна, 42",
+  "ChildsIds": []
  },
  {
   "id": 118593,
@@ -745,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206851845900005,
-  "lati": 50.043710587599996,
-  "FullNameUA": "вулиця Переможна, 44"
+  "longt": 36.2068518459,
+  "lati": 50.0437105876,
+  "FullNameUA": "вулиця Переможна, 44",
+  "ChildsIds": []
  },
  {
   "id": 118594,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206929370800005,
-  "lati": 50.043865635399996,
-  "FullNameUA": "вулиця Переможна, 46"
+  "longt": 36.2069293708,
+  "lati": 50.0438656354,
+  "FullNameUA": "вулиця Переможна, 46",
+  "ChildsIds": []
  },
  {
   "id": 118595,
@@ -797,7 +854,8 @@
   "reg_date": "",
   "longt": 36.207016271,
   "lati": 50.0439640366,
-  "FullNameUA": "вулиця Переможна, 48"
+  "FullNameUA": "вулиця Переможна, 48",
+  "ChildsIds": []
  },
  {
   "id": 118596,
@@ -820,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207124179400004,
-  "lati": 50.044112489199996,
-  "FullNameUA": "вулиця Переможна, 50"
+  "longt": 36.2071241794,
+  "lati": 50.0441124892,
+  "FullNameUA": "вулиця Переможна, 50",
+  "ChildsIds": []
  },
  {
   "id": 118597,
@@ -847,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2072128382,
   "lati": 50.0442475009,
-  "FullNameUA": "вулиця Переможна, 52"
+  "FullNameUA": "вулиця Переможна, 52",
+  "ChildsIds": []
  },
  {
   "id": 118598,
@@ -872,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2073026327,
   "lati": 50.0443789921,
-  "FullNameUA": "вулиця Переможна, 54"
+  "FullNameUA": "вулиця Переможна, 54",
+  "ChildsIds": []
  },
  {
   "id": 118599,
@@ -897,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2073957766,
   "lati": 50.0445030222,
-  "FullNameUA": "вулиця Переможна, 56"
+  "FullNameUA": "вулиця Переможна, 56",
+  "ChildsIds": []
  },
  {
   "id": 118600,
@@ -920,34 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207478564400006,
+  "longt": 36.2074785644,
   "lati": 50.0446335228,
-  "FullNameUA": "вулиця Переможна, 58"
- },
- {
-  "id": 180130,
-  "postcode": 61202,
-  "number": 60,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3549,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "22.12.2018 12:01:56",
-  "longt": 36.2078364814,
-  "lati": 50.0452135663,
-  "FullNameUA": "вулиця Переможна, 60-А"
+  "FullNameUA": "вулиця Переможна, 58",
+  "ChildsIds": []
  },
  {
   "id": 177025,
@@ -972,6 +1010,33 @@
   "reg_date": "",
   "longt": 36.207657812,
   "lati": 50.0448517959,
-  "FullNameUA": "вулиця Переможна, 60"
+  "FullNameUA": "вулиця Переможна, 60",
+  "ChildsIds": []
+ },
+ {
+  "id": 180130,
+  "postcode": 61202,
+  "number": 60,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3549,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "22.12.2018 12:01:56",
+  "longt": 36.2078364814,
+  "lati": 50.0452135663,
+  "FullNameUA": "вулиця Переможна, 60-А",
+  "ChildsIds": []
  }
 ]

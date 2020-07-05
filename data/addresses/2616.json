@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.315273443500004,
+  "longt": 36.3152734435,
   "lati": 49.9805648422,
-  "FullNameUA": "вулиця Дружби, 1"
+  "FullNameUA": "вулиця Дружби, 1",
+  "ChildsIds": []
  },
  {
   "id": 101857,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3154543248,
-  "lati": 49.980359022900004,
-  "FullNameUA": "вулиця Дружби, 3"
+  "lati": 49.9803590229,
+  "FullNameUA": "вулиця Дружби, 3",
+  "ChildsIds": []
  },
  {
   "id": 101858,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3151051746,
   "lati": 49.980154079,
-  "FullNameUA": "вулиця Дружби, 4"
+  "FullNameUA": "вулиця Дружби, 4",
+  "ChildsIds": []
  },
  {
   "id": 101859,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3157258907,
-  "lati": 49.980330095700005,
-  "FullNameUA": "вулиця Дружби, 5"
+  "lati": 49.9803300957,
+  "FullNameUA": "вулиця Дружби, 5",
+  "ChildsIds": []
  },
  {
   "id": 101860,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315294328700006,
-  "lati": 49.98012489640001,
-  "FullNameUA": "вулиця Дружби, 6"
+  "longt": 36.3152943287,
+  "lati": 49.9801248964,
+  "FullNameUA": "вулиця Дружби, 6",
+  "ChildsIds": []
  },
  {
   "id": 101861,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3159130342,
   "lati": 49.980340916,
-  "FullNameUA": "вулиця Дружби, 7"
+  "FullNameUA": "вулиця Дружби, 7",
+  "ChildsIds": []
  },
  {
   "id": 101862,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3154976027,
   "lati": 49.9801068123,
-  "FullNameUA": "вулиця Дружби, 8"
+  "FullNameUA": "вулиця Дружби, 8",
+  "ChildsIds": []
  },
  {
   "id": 101863,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3161408792,
-  "lati": 49.98032434260001,
-  "FullNameUA": "вулиця Дружби, 9"
+  "lati": 49.9803243426,
+  "FullNameUA": "вулиця Дружби, 9",
+  "ChildsIds": []
  },
  {
   "id": 101864,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315699532000004,
-  "lati": 49.980093645900006,
-  "FullNameUA": "вулиця Дружби, 10"
+  "longt": 36.315699532,
+  "lati": 49.9800936459,
+  "FullNameUA": "вулиця Дружби, 10",
+  "ChildsIds": []
  },
  {
   "id": 101865,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.3166510997,
   "lati": 49.9803710034,
-  "FullNameUA": "вулиця Дружби, 11"
+  "FullNameUA": "вулиця Дружби, 11",
+  "ChildsIds": []
  },
  {
   "id": 101866,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3159353992,
-  "lati": 49.980048684100005,
-  "FullNameUA": "вулиця Дружби, 12"
+  "lati": 49.9800486841,
+  "FullNameUA": "вулиця Дружби, 12",
+  "ChildsIds": []
  },
  {
   "id": 101867,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3167363696,
-  "lati": 49.980363778100006,
-  "FullNameUA": "вулиця Дружби, 13"
+  "lati": 49.9803637781,
+  "FullNameUA": "вулиця Дружби, 13",
+  "ChildsIds": []
  },
  {
   "id": 101868,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3161904783,
-  "lati": 49.98004117280001,
-  "FullNameUA": "вулиця Дружби, 14"
+  "lati": 49.9800411728,
+  "FullNameUA": "вулиця Дружби, 14",
+  "ChildsIds": []
  },
  {
   "id": 101869,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.3170371133,
   "lati": 49.9801389172,
-  "FullNameUA": "вулиця Дружби, 15"
+  "FullNameUA": "вулиця Дружби, 15",
+  "ChildsIds": []
  },
  {
   "id": 101870,
@@ -372,7 +386,34 @@
   "reg_date": "",
   "longt": 36.3163366753,
   "lati": 49.9800412111,
-  "FullNameUA": "вулиця Дружби, 16"
+  "FullNameUA": "вулиця Дружби, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 101872,
+  "postcode": 61110,
+  "number": 17,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2616,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.317523468,
+  "lati": 49.9799548555,
+  "FullNameUA": "вулиця Дружби, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 101871,
@@ -397,32 +438,8 @@
   "reg_date": "",
   "longt": 36.3172762581,
   "lati": 49.9800437361,
-  "FullNameUA": "вулиця Дружби, 17"
- },
- {
-  "id": 101872,
-  "postcode": 61110,
-  "number": 17,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2616,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.317523468000005,
-  "lati": 49.9799548555,
-  "FullNameUA": "вулиця Дружби, 17-А"
+  "FullNameUA": "вулиця Дружби, 17",
+  "ChildsIds": []
  },
  {
   "id": 101873,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3165963322,
   "lati": 49.9799966956,
-  "FullNameUA": "вулиця Дружби, 18"
+  "FullNameUA": "вулиця Дружби, 18",
+  "ChildsIds": []
  },
  {
   "id": 101874,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.317708123,
-  "lati": 49.98005289140001,
-  "FullNameUA": "вулиця Дружби, 19"
+  "lati": 49.9800528914,
+  "FullNameUA": "вулиця Дружби, 19",
+  "ChildsIds": []
  },
  {
   "id": 101875,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3167910752,
   "lati": 49.9799176932,
-  "FullNameUA": "вулиця Дружби, 20"
+  "FullNameUA": "вулиця Дружби, 20",
+  "ChildsIds": []
  },
  {
   "id": 101876,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.3179535303,
   "lati": 49.9798230929,
-  "FullNameUA": "вулиця Дружби, 21"
+  "FullNameUA": "вулиця Дружби, 21",
+  "ChildsIds": []
  },
  {
   "id": 101877,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.3170416011,
   "lati": 49.9798445692,
-  "FullNameUA": "вулиця Дружби, 22"
+  "FullNameUA": "вулиця Дружби, 22",
+  "ChildsIds": []
  },
  {
   "id": 101878,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3172227019,
   "lati": 49.979772535,
-  "FullNameUA": "вулиця Дружби, 24"
+  "FullNameUA": "вулиця Дружби, 24",
+  "ChildsIds": []
  },
  {
   "id": 101879,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318171423500004,
+  "longt": 36.3181714235,
   "lati": 49.979865709,
-  "FullNameUA": "вулиця Дружби, 25"
+  "FullNameUA": "вулиця Дружби, 25",
+  "ChildsIds": []
  },
  {
   "id": 101880,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317353889900005,
+  "longt": 36.3173538899,
   "lati": 49.9797076388,
-  "FullNameUA": "вулиця Дружби, 26"
+  "FullNameUA": "вулиця Дружби, 26",
+  "ChildsIds": []
  },
  {
   "id": 101881,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318240458800005,
+  "longt": 36.3182404588,
   "lati": 49.9797025221,
-  "FullNameUA": "вулиця Дружби, 27"
+  "FullNameUA": "вулиця Дружби, 27",
+  "ChildsIds": []
  },
  {
   "id": 101882,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317561143700004,
+  "longt": 36.3175611437,
   "lati": 49.9796446777,
-  "FullNameUA": "вулиця Дружби, 28"
+  "FullNameUA": "вулиця Дружби, 28",
+  "ChildsIds": []
  },
  {
   "id": 101883,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318523237200004,
+  "longt": 36.3185232372,
   "lati": 49.9796483015,
-  "FullNameUA": "вулиця Дружби, 29"
+  "FullNameUA": "вулиця Дружби, 29",
+  "ChildsIds": []
  },
  {
   "id": 101884,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317775175600005,
+  "longt": 36.3177751756,
   "lati": 49.9795625803,
-  "FullNameUA": "вулиця Дружби, 30"
+  "FullNameUA": "вулиця Дружби, 30",
+  "ChildsIds": []
  },
  {
   "id": 101885,
@@ -746,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3187154552,
-  "lati": 49.979564030999995,
-  "FullNameUA": "вулиця Дружби, 31"
+  "lati": 49.979564031,
+  "FullNameUA": "вулиця Дружби, 31",
+  "ChildsIds": []
  },
  {
   "id": 101886,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3181234202,
   "lati": 49.9794701281,
-  "FullNameUA": "вулиця Дружби, 32"
+  "FullNameUA": "вулиця Дружби, 32",
+  "ChildsIds": []
  },
  {
   "id": 101887,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318985911700004,
+  "longt": 36.3189859117,
   "lati": 49.9794527098,
-  "FullNameUA": "вулиця Дружби, 33/1"
+  "FullNameUA": "вулиця Дружби, 33/1",
+  "ChildsIds": []
  },
  {
   "id": 101888,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3191675427,
-  "lati": 49.979492478699996,
-  "FullNameUA": "вулиця Дружби, 33/2"
+  "lati": 49.9794924787,
+  "FullNameUA": "вулиця Дружби, 33/2",
+  "ChildsIds": []
  },
  {
   "id": 101889,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318872104700006,
+  "longt": 36.3188721047,
   "lati": 49.9792016616,
-  "FullNameUA": "вулиця Дружби, 34"
+  "FullNameUA": "вулиця Дружби, 34",
+  "ChildsIds": []
  },
  {
   "id": 101890,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319462100100004,
+  "longt": 36.3194621001,
   "lati": 49.9793242548,
-  "FullNameUA": "вулиця Дружби, 35"
+  "FullNameUA": "вулиця Дружби, 35",
+  "ChildsIds": []
  },
  {
   "id": 101891,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.319056859,
   "lati": 49.9791338057,
-  "FullNameUA": "вулиця Дружби, 36"
+  "FullNameUA": "вулиця Дружби, 36",
+  "ChildsIds": []
  },
  {
   "id": 101892,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319252147300006,
+  "longt": 36.3192521473,
   "lati": 49.9790563028,
-  "FullNameUA": "вулиця Дружби, 38"
+  "FullNameUA": "вулиця Дружби, 38",
+  "ChildsIds": []
  },
  {
   "id": 101893,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.3196998721,
   "lati": 49.9792118657,
-  "FullNameUA": "вулиця Дружби, 39"
+  "FullNameUA": "вулиця Дружби, 39",
+  "ChildsIds": []
  },
  {
   "id": 101894,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.3194426351,
   "lati": 49.9789820493,
-  "FullNameUA": "вулиця Дружби, 40"
+  "FullNameUA": "вулиця Дружби, 40",
+  "ChildsIds": []
  },
  {
   "id": 101895,
@@ -996,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3198703109,
-  "lati": 49.979152130799996,
-  "FullNameUA": "вулиця Дружби, 41"
+  "lati": 49.9791521308,
+  "FullNameUA": "вулиця Дружби, 41",
+  "ChildsIds": []
  },
  {
   "id": 101896,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.3200635558,
   "lati": 49.9790824539,
-  "FullNameUA": "вулиця Дружби, 43"
+  "FullNameUA": "вулиця Дружби, 43",
+  "ChildsIds": []
  },
  {
   "id": 101897,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319799404600005,
+  "longt": 36.3197994046,
   "lati": 49.978864296,
-  "FullNameUA": "вулиця Дружби, 44"
+  "FullNameUA": "вулиця Дружби, 44",
+  "ChildsIds": []
  },
  {
   "id": 101898,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3203090208,
   "lati": 49.9790040014,
-  "FullNameUA": "вулиця Дружби, 45"
+  "FullNameUA": "вулиця Дружби, 45",
+  "ChildsIds": []
  },
  {
   "id": 101899,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3201315701,
   "lati": 49.9787801459,
-  "FullNameUA": "вулиця Дружби, 46/7"
+  "FullNameUA": "вулиця Дружби, 46/7",
+  "ChildsIds": []
  },
  {
   "id": 101900,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.3205852342,
   "lati": 49.979094414,
-  "FullNameUA": "вулиця Дружби, 47"
+  "FullNameUA": "вулиця Дружби, 47",
+  "ChildsIds": []
  },
  {
   "id": 101901,
@@ -1147,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.3204549726,
   "lati": 49.9786574393,
-  "FullNameUA": "вулиця Дружби, 48/3"
- },
- {
-  "id": 101903,
-  "postcode": 61110,
-  "number": 49,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2616,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.320879172,
-  "lati": 49.979167176699995,
-  "FullNameUA": "вулиця Дружби, 49-А"
+  "FullNameUA": "вулиця Дружби, 48/3",
+  "ChildsIds": []
  },
  {
   "id": 101902,
@@ -1196,8 +1217,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3206331954,
-  "lati": 49.978899616599996,
-  "FullNameUA": "вулиця Дружби, 49"
+  "lati": 49.9788996166,
+  "FullNameUA": "вулиця Дружби, 49",
+  "ChildsIds": []
+ },
+ {
+  "id": 101903,
+  "postcode": 61110,
+  "number": 49,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2616,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.320879172,
+  "lati": 49.9791671767,
+  "FullNameUA": "вулиця Дружби, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 101904,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.3206561691,
   "lati": 49.9785804627,
-  "FullNameUA": "вулиця Дружби, 50"
+  "FullNameUA": "вулиця Дружби, 50",
+  "ChildsIds": []
  },
  {
   "id": 101905,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.3208282051,
   "lati": 49.9788285957,
-  "FullNameUA": "вулиця Дружби, 51"
+  "FullNameUA": "вулиця Дружби, 51",
+  "ChildsIds": []
  },
  {
   "id": 101906,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.3208945178,
   "lati": 49.9784919017,
-  "FullNameUA": "вулиця Дружби, 52"
+  "FullNameUA": "вулиця Дружби, 52",
+  "ChildsIds": []
  },
  {
   "id": 101907,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.3212015493,
   "lati": 49.9790110369,
-  "FullNameUA": "вулиця Дружби, 53"
+  "FullNameUA": "вулиця Дружби, 53",
+  "ChildsIds": []
  },
  {
   "id": 101908,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3218650189,
   "lati": 49.9781727211,
-  "FullNameUA": "вулиця Дружби, 54"
+  "FullNameUA": "вулиця Дружби, 54",
+  "ChildsIds": []
  },
  {
   "id": 101909,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.321610867,
   "lati": 49.9785486532,
-  "FullNameUA": "вулиця Дружби, 57"
+  "FullNameUA": "вулиця Дружби, 57",
+  "ChildsIds": []
  },
  {
   "id": 101910,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3219561552,
   "lati": 49.9784336062,
-  "FullNameUA": "вулиця Дружби, 59"
+  "FullNameUA": "вулиця Дружби, 59",
+  "ChildsIds": []
  },
  {
   "id": 101911,
@@ -1391,13 +1446,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "318, від 27.05.2015",
-  "reg_date": "",
+  "reg_date": "22.01.2020 10:21:09",
   "longt": 36.3221163178,
   "lati": 49.9779777536,
-  "FullNameUA": "вулиця Дружби, 60"
+  "FullNameUA": "вулиця Дружби, 60",
+  "ChildsIds": []
  },
  {
   "id": 101912,
@@ -1421,8 +1477,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3221570057,
-  "lati": 49.978385478199996,
-  "FullNameUA": "вулиця Дружби, 61"
+  "lati": 49.9783854782,
+  "FullNameUA": "вулиця Дружби, 61",
+  "ChildsIds": []
  },
  {
   "id": 101913,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.3225541078,
   "lati": 49.9778809865,
-  "FullNameUA": "вулиця Дружби, 62"
+  "FullNameUA": "вулиця Дружби, 62",
+  "ChildsIds": []
  },
  {
   "id": 101914,
@@ -1471,8 +1529,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3224227787,
-  "lati": 49.978298607599996,
-  "FullNameUA": "вулиця Дружби, 63"
+  "lati": 49.9782986076,
+  "FullNameUA": "вулиця Дружби, 63",
+  "ChildsIds": []
  },
  {
   "id": 101915,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.3228227436,
   "lati": 49.9777733154,
-  "FullNameUA": "вулиця Дружби, 64"
+  "FullNameUA": "вулиця Дружби, 64",
+  "ChildsIds": []
  },
  {
   "id": 101916,
@@ -1522,6 +1582,7 @@
   "reg_date": "",
   "longt": 36.3226374329,
   "lati": 49.978262574,
-  "FullNameUA": "вулиця Дружби, 65"
+  "FullNameUA": "вулиця Дружби, 65",
+  "ChildsIds": []
  }
 ]

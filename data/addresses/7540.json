@@ -22,7 +22,36 @@
   "reg_date": "",
   "longt": 36.3317298104,
   "lati": 50.0544566542,
-  "FullNameUA": "проїзд Колосистий (сел. Циркуни), 1"
+  "FullNameUA": "проїзд Колосистий (сел. Циркуни), 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 183232,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7540,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "03.07.2020 10:10:21",
+  "longt": 36.3324964599,
+  "lati": 50.0547747947,
+  "FullNameUA": "проїзд Колосистий (сел. Циркуни), 3",
+  "ChildsIds": [
+   183234
+  ]
  },
  {
   "id": 180924,
@@ -46,7 +75,10 @@
   "confrm": "",
   "reg_date": "26.06.2019 14:40:16",
   "longt": 36.3328118073,
-  "lati": 50.05500230610001,
-  "FullNameUA": "проїзд Колосистий (сел. Циркуни), 4"
+  "lati": 50.0550023061,
+  "FullNameUA": "проїзд Колосистий (сел. Циркуни), 4",
+  "ChildsIds": [
+   180923
+  ]
  }
 ]

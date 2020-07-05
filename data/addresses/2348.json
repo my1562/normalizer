@@ -1,5 +1,31 @@
 [
  {
+  "id": 167658,
+  "postcode": 61124,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2348,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2602910294,
+  "lati": 49.9590704324,
+  "FullNameUA": "вулиця Вишнева, 2-А",
+  "ChildsIds": []
+ },
+ {
   "id": 167659,
   "postcode": 61124,
   "number": 2,
@@ -22,32 +48,8 @@
   "reg_date": "",
   "longt": 36.2603814534,
   "lati": 49.9590183736,
-  "FullNameUA": "вулиця Вишнева, 2-Б"
- },
- {
-  "id": 167658,
-  "postcode": 61124,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2348,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2602910294,
-  "lati": 49.959070432400004,
-  "FullNameUA": "вулиця Вишнева, 2-А"
+  "FullNameUA": "вулиця Вишнева, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 167660,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2609130472,
-  "lati": 49.959572331400004,
-  "FullNameUA": "вулиця Вишнева, 3"
+  "lati": 49.9595723314,
+  "FullNameUA": "вулиця Вишнева, 3",
+  "ChildsIds": []
  },
  {
   "id": 167661,
@@ -96,8 +99,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2605216924,
-  "lati": 49.959090158200006,
-  "FullNameUA": "вулиця Вишнева, 4"
+  "lati": 49.9590901582,
+  "FullNameUA": "вулиця Вишнева, 4",
+  "ChildsIds": []
  },
  {
   "id": 167662,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261616294999996,
+  "longt": 36.261616295,
   "lati": 49.9596840521,
-  "FullNameUA": "вулиця Вишнева, 5"
+  "FullNameUA": "вулиця Вишнева, 5",
+  "ChildsIds": []
  },
  {
   "id": 167663,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260787012799994,
-  "lati": 49.959098123500006,
-  "FullNameUA": "вулиця Вишнева, 6"
+  "longt": 36.2607870128,
+  "lati": 49.9590981235,
+  "FullNameUA": "вулиця Вишнева, 6",
+  "ChildsIds": []
  },
  {
   "id": 167664,
@@ -171,33 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2626133899,
-  "lati": 49.960010081600004,
-  "FullNameUA": "вулиця Вишнева, 7"
- },
- {
-  "id": 167665,
-  "postcode": 61124,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 2348,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2629071,
-  "lati": 49.9601830622,
-  "FullNameUA": "вулиця Вишнева, 9"
+  "lati": 49.9600100816,
+  "FullNameUA": "вулиця Вишнева, 7",
+  "ChildsIds": []
  },
  {
   "id": 167666,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.2631747924,
   "lati": 49.9601824552,
-  "FullNameUA": "вулиця Вишнева, 9-А"
+  "FullNameUA": "вулиця Вишнева, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167665,
+  "postcode": 61124,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2348,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2629071,
+  "lati": 49.9601830622,
+  "FullNameUA": "вулиця Вишнева, 9",
+  "ChildsIds": []
  },
  {
   "id": 167667,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2616511565,
   "lati": 49.9593704357,
-  "FullNameUA": "вулиця Вишнева, 10"
+  "FullNameUA": "вулиця Вишнева, 10",
+  "ChildsIds": []
  },
  {
   "id": 167668,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2635389712,
   "lati": 49.9602993703,
-  "FullNameUA": "вулиця Вишнева, 11"
+  "FullNameUA": "вулиця Вишнева, 11",
+  "ChildsIds": []
  },
  {
   "id": 167669,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2618642205,
   "lati": 49.9594187243,
-  "FullNameUA": "вулиця Вишнева, 12"
+  "FullNameUA": "вулиця Вишнева, 12",
+  "ChildsIds": []
  },
  {
   "id": 167671,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2636855226,
   "lati": 49.960350789,
-  "FullNameUA": "вулиця Вишнева, 13-А"
+  "FullNameUA": "вулиця Вишнева, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 167672,
@@ -345,34 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262176552199996,
+  "longt": 36.2621765522,
   "lati": 49.959568595,
-  "FullNameUA": "вулиця Вишнева, 14"
- },
- {
-  "id": 167673,
-  "postcode": 61124,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2348,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2639414143,
-  "lati": 49.9604558191,
-  "FullNameUA": "вулиця Вишнева, 15-А"
+  "FullNameUA": "вулиця Вишнева, 14",
+  "ChildsIds": []
  },
  {
   "id": 167670,
@@ -397,7 +386,34 @@
   "reg_date": "",
   "longt": 36.2636985376,
   "lati": 49.9605058513,
-  "FullNameUA": "вулиця Вишнева, 15"
+  "FullNameUA": "вулиця Вишнева, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 167673,
+  "postcode": 61124,
+  "number": 15,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2348,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2639414143,
+  "lati": 49.9604558191,
+  "FullNameUA": "вулиця Вишнева, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 167674,
@@ -420,34 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262790743699995,
+  "longt": 36.2627907437,
   "lati": 49.9597553607,
-  "FullNameUA": "вулиця Вишнева, 16"
- },
- {
-  "id": 167675,
-  "postcode": 61124,
-  "number": 17,
-  "suffix": "",
-  "block": "",
-  "streetid": 2348,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2644622074,
-  "lati": 49.9606184683,
-  "FullNameUA": "вулиця Вишнева, 17"
+  "FullNameUA": "вулиця Вишнева, 16",
+  "ChildsIds": []
  },
  {
   "id": 167676,
@@ -472,7 +464,34 @@
   "reg_date": "",
   "longt": 36.2641312097,
   "lati": 49.9605059959,
-  "FullNameUA": "вулиця Вишнева, 17-А"
+  "FullNameUA": "вулиця Вишнева, 17-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167675,
+  "postcode": 61124,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2348,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2644622074,
+  "lati": 49.9606184683,
+  "FullNameUA": "вулиця Вишнева, 17",
+  "ChildsIds": []
  },
  {
   "id": 167677,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2633900019,
   "lati": 49.9599370496,
-  "FullNameUA": "вулиця Вишнева, 18-Б"
+  "FullNameUA": "вулиця Вишнева, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 167678,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.263344155999995,
-  "lati": 49.959914318100004,
-  "FullNameUA": "вулиця Вишнева, 18-А"
+  "longt": 36.263344156,
+  "lati": 49.9599143181,
+  "FullNameUA": "вулиця Вишнева, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 167679,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264853094799996,
+  "longt": 36.2648530948,
   "lati": 49.9607449003,
-  "FullNameUA": "вулиця Вишнева, 19"
+  "FullNameUA": "вулиця Вишнева, 19",
+  "ChildsIds": []
  },
  {
   "id": 167680,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2637319997,
   "lati": 49.9600628218,
-  "FullNameUA": "вулиця Вишнева, 20/16"
+  "FullNameUA": "вулиця Вишнева, 20/16",
+  "ChildsIds": []
  },
  {
   "id": 177840,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.265126791899995,
+  "longt": 36.2651267919,
   "lati": 49.9608635331,
-  "FullNameUA": "вулиця Вишнева, 21"
+  "FullNameUA": "вулиця Вишнева, 21",
+  "ChildsIds": []
  },
  {
   "id": 167681,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2640343061,
   "lati": 49.9601759959,
-  "FullNameUA": "вулиця Вишнева, 22"
+  "FullNameUA": "вулиця Вишнева, 22",
+  "ChildsIds": []
  },
  {
   "id": 167682,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.265366443699996,
-  "lati": 49.960935857100004,
-  "FullNameUA": "вулиця Вишнева, 23"
+  "longt": 36.2653664437,
+  "lati": 49.9609358571,
+  "FullNameUA": "вулиця Вишнева, 23",
+  "ChildsIds": []
  },
  {
   "id": 167683,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2641788508,
-  "lati": 49.960218827700004,
-  "FullNameUA": "вулиця Вишнева, 24"
+  "lati": 49.9602188277,
+  "FullNameUA": "вулиця Вишнева, 24",
+  "ChildsIds": []
  },
  {
   "id": 167684,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2656060283,
   "lati": 49.961022596,
-  "FullNameUA": "вулиця Вишнева, 25"
+  "FullNameUA": "вулиця Вишнева, 25",
+  "ChildsIds": []
  },
  {
   "id": 167685,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2644536721,
   "lati": 49.9603195628,
-  "FullNameUA": "вулиця Вишнева, 26"
+  "FullNameUA": "вулиця Вишнева, 26",
+  "ChildsIds": []
  },
  {
   "id": 167686,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.268194073699995,
+  "longt": 36.2681940737,
   "lati": 49.9619457217,
-  "FullNameUA": "вулиця Вишнева, 27"
+  "FullNameUA": "вулиця Вишнева, 27",
+  "ChildsIds": []
  },
  {
   "id": 167687,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2646506516,
   "lati": 49.9603774546,
-  "FullNameUA": "вулиця Вишнева, 28"
+  "FullNameUA": "вулиця Вишнева, 28",
+  "ChildsIds": []
  },
  {
   "id": 167688,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.265056998599995,
+  "longt": 36.2650569986,
   "lati": 49.9605133026,
-  "FullNameUA": "вулиця Вишнева, 30"
+  "FullNameUA": "вулиця Вишнева, 30",
+  "ChildsIds": []
  },
  {
   "id": 167689,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.269545664,
   "lati": 49.9624139533,
-  "FullNameUA": "вулиця Вишнева, 31"
+  "FullNameUA": "вулиця Вишнева, 31",
+  "ChildsIds": []
  },
  {
   "id": 167690,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2653390834,
   "lati": 49.960625405,
-  "FullNameUA": "вулиця Вишнева, 32"
+  "FullNameUA": "вулиця Вишнева, 32",
+  "ChildsIds": []
  },
  {
   "id": 167691,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.269723629299996,
+  "longt": 36.2697236293,
   "lati": 49.9628712054,
-  "FullNameUA": "вулиця Вишнева, 33"
+  "FullNameUA": "вулиця Вишнева, 33",
+  "ChildsIds": []
  },
  {
   "id": 167693,
@@ -897,7 +932,8 @@
   "reg_date": "03.04.2019 12:13:43",
   "longt": 36.2655514751,
   "lati": 49.9606855408,
-  "FullNameUA": "вулиця Вишнева, 34-А"
+  "FullNameUA": "вулиця Вишнева, 34-А",
+  "ChildsIds": []
  },
  {
   "id": 167692,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2657438631,
   "lati": 49.9604675887,
-  "FullNameUA": "вулиця Вишнева, 34"
+  "FullNameUA": "вулиця Вишнева, 34",
+  "ChildsIds": []
  },
  {
   "id": 167694,
@@ -946,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2657610662,
-  "lati": 49.960740530100004,
-  "FullNameUA": "вулиця Вишнева, 36"
+  "lati": 49.9607405301,
+  "FullNameUA": "вулиця Вишнева, 36",
+  "ChildsIds": []
  },
  {
   "id": 167695,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2691866601,
   "lati": 49.9615999,
-  "FullNameUA": "вулиця Вишнева, 38"
+  "FullNameUA": "вулиця Вишнева, 38",
+  "ChildsIds": []
  },
  {
   "id": 167696,
@@ -996,7 +1035,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2697779846,
-  "lati": 49.961361213800004,
-  "FullNameUA": "вулиця Вишнева, 40"
+  "lati": 49.9613612138,
+  "FullNameUA": "вулиця Вишнева, 40",
+  "ChildsIds": []
  }
 ]

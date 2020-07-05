@@ -1,5 +1,31 @@
 [
  {
+  "id": 121918,
+  "postcode": 61168,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3169967392,
+  "lati": 50.0284347439,
+  "FullNameUA": "вулиця Героїв Праці, 2",
+  "ChildsIds": []
+ },
+ {
   "id": 121920,
   "postcode": 61168,
   "number": 2,
@@ -20,15 +46,16 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР 567, 03.08.2011",
   "reg_date": "18.08.2017 09:58:55",
-  "longt": 36.304367130900005,
+  "longt": 36.3043671309,
   "lati": 50.0283700804,
-  "FullNameUA": "вулиця Героїв Праці, 2-В"
+  "FullNameUA": "вулиця Героїв Праці, 2-В",
+  "ChildsIds": []
  },
  {
-  "id": 121921,
-  "postcode": 61168,
+  "id": 121919,
+  "postcode": 61033,
   "number": 2,
-  "suffix": "Г",
+  "suffix": "А",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -43,11 +70,12 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 574, 11.09.2013",
-  "reg_date": "16.05.2018 12:49:04",
-  "longt": 36.3232707128,
-  "lati": 50.0276367286,
-  "FullNameUA": "вулиця Героїв Праці, 2-Г"
+  "confrm": "172, 05.09.2006",
+  "reg_date": "17.01.2019 16:31:28",
+  "longt": 36.3145699911,
+  "lati": 50.0246858006,
+  "FullNameUA": "вулиця Героїв Праці, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 121922,
@@ -72,38 +100,14 @@
   "reg_date": "",
   "longt": 36.3249346425,
   "lati": 50.026756998,
-  "FullNameUA": "вулиця Героїв Праці, 2/48"
+  "FullNameUA": "вулиця Героїв Праці, 2/48",
+  "ChildsIds": []
  },
  {
-  "id": 121918,
+  "id": 121921,
   "postcode": 61168,
   "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3169967392,
-  "lati": 50.0284347439,
-  "FullNameUA": "вулиця Героїв Праці, 2"
- },
- {
-  "id": 121919,
-  "postcode": 61033,
-  "number": 2,
-  "suffix": "А",
+  "suffix": "Г",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -118,11 +122,12 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "172, 05.09.2006",
-  "reg_date": "17.01.2019 16:31:28",
-  "longt": 36.3145699911,
-  "lati": 50.024685800600004,
-  "FullNameUA": "вулиця Героїв Праці, 2-А"
+  "confrm": "Рішення ВК ХМР № 574, 11.09.2013",
+  "reg_date": "16.05.2018 12:49:04",
+  "longt": 36.3232707128,
+  "lati": 50.0276367286,
+  "FullNameUA": "вулиця Героїв Праці, 2-Г",
+  "ChildsIds": []
  },
  {
   "id": 121923,
@@ -146,133 +151,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.325820734,
-  "lati": 50.02856148950001,
-  "FullNameUA": "вулиця Героїв Праці, 3"
- },
- {
-  "id": 121925,
-  "postcode": 61168,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3254063657,
-  "lati": 50.025209696900006,
-  "FullNameUA": "вулиця Героїв Праці, 4-А"
- },
- {
-  "id": 121926,
-  "postcode": 61168,
-  "number": 4,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3261529038,
-  "lati": 50.024290587500005,
-  "FullNameUA": "вулиця Героїв Праці, 4-Б"
- },
- {
-  "id": 121928,
-  "postcode": 61168,
-  "number": 4,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3247343497,
-  "lati": 50.023933595100004,
-  "FullNameUA": "вулиця Героїв Праці, 4-Г"
- },
- {
-  "id": 121929,
-  "postcode": 61168,
-  "number": 4,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3264954371,
-  "lati": 50.0234077649,
-  "FullNameUA": "вулиця Героїв Праці, 4-Д"
- },
- {
-  "id": 121924,
-  "postcode": 61168,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3260820951,
-  "lati": 50.0267124865,
-  "FullNameUA": "вулиця Героїв Праці, 4"
+  "lati": 50.0285614895,
+  "FullNameUA": "вулиця Героїв Праці, 3",
+  "ChildsIds": []
  },
  {
   "id": 121927,
@@ -297,7 +178,138 @@
   "reg_date": "",
   "longt": 36.3257631675,
   "lati": 50.023392225,
-  "FullNameUA": "вулиця Героїв Праці, 4-В"
+  "FullNameUA": "вулиця Героїв Праці, 4-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 121924,
+  "postcode": 61168,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3260820951,
+  "lati": 50.0267124865,
+  "FullNameUA": "вулиця Героїв Праці, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 121929,
+  "postcode": 61168,
+  "number": 4,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3264954371,
+  "lati": 50.0234077649,
+  "FullNameUA": "вулиця Героїв Праці, 4-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 121926,
+  "postcode": 61168,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3261529038,
+  "lati": 50.0242905875,
+  "FullNameUA": "вулиця Героїв Праці, 4-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 121928,
+  "postcode": 61168,
+  "number": 4,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3247343497,
+  "lati": 50.0239335951,
+  "FullNameUA": "вулиця Героїв Праці, 4-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 121925,
+  "postcode": 61168,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3254063657,
+  "lati": 50.0252096969,
+  "FullNameUA": "вулиця Героїв Праці, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 121930,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3273034569,
   "lati": 50.0263450606,
-  "FullNameUA": "вулиця Героїв Праці, 6"
+  "FullNameUA": "вулиця Героїв Праці, 6",
+  "ChildsIds": []
  },
  {
   "id": 121931,
@@ -347,13 +360,40 @@
   "reg_date": "",
   "longt": 36.3282400765,
   "lati": 50.0290275137,
-  "FullNameUA": "вулиця Героїв Праці, 7"
+  "FullNameUA": "вулиця Героїв Праці, 7",
+  "ChildsIds": []
  },
  {
-  "id": 121939,
+  "id": 121935,
   "postcode": 61168,
   "number": 9,
-  "suffix": "І",
+  "suffix": "В",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 690, 05.11.2014, 1735, 24.12.2014",
+  "reg_date": "03.01.2020 11:16:56",
+  "longt": 36.3344291326,
+  "lati": 50.026869643,
+  "FullNameUA": "вулиця Героїв Праці, 9-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 121932,
+  "postcode": 61168,
+  "number": 9,
+  "suffix": "",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -368,136 +408,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "339, 14.09.2016",
-  "reg_date": "16.12.2019 17:36:59",
-  "longt": 36.3338477038,
-  "lati": 50.026313018,
-  "FullNameUA": "вулиця Героїв Праці, 9-І"
- },
- {
-  "id": 121941,
-  "postcode": 61107,
-  "number": 9,
-  "suffix": "К",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 327, 11.05.2018",
-  "reg_date": "22.05.2018 15:29:18",
-  "longt": 36.334821929899995,
-  "lati": 50.0250181576,
-  "FullNameUA": "вулиця Героїв Праці, 9-К"
- },
- {
-  "id": 121938,
-  "postcode": 61168,
-  "number": 9,
-  "suffix": "И",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "257, 06.07.2016",
-  "reg_date": "16.12.2019 17:00:30",
-  "longt": 36.3330910284,
-  "lati": 50.0258156684,
-  "FullNameUA": "вулиця Героїв Праці, 9-И"
- },
- {
-  "id": 121937,
-  "postcode": 61168,
-  "number": 9,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 828, 23.12.2014",
-  "reg_date": "16.12.2019 10:41:06",
-  "longt": 36.3340832309,
-  "lati": 50.025614711100005,
-  "FullNameUA": "вулиця Героїв Праці, 9-Ж"
- },
- {
-  "id": 121936,
-  "postcode": 61168,
-  "number": 9,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 827, 23.12.2014",
-  "reg_date": "16.12.2019 10:40:03",
-  "longt": 36.333435946899996,
-  "lati": 50.025406030300005,
-  "FullNameUA": "вулиця Героїв Праці, 9-Д"
- },
- {
-  "id": 121934,
-  "postcode": 61168,
-  "number": 9,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "будівля операторної з магазином та кафетерієм літ. \"А-1\", автомийка літ. \"Б-1\" та навіс літ. \"В\"\nземельна ділянка (кадастровий номер 6325185001:05:006:0075)\n",
-  "confrm": "107, 18.02.2015; 1902, 24.06.2015",
-  "reg_date": "05.08.2019 16:30:46",
-  "longt": 36.3317004806,
-  "lati": 50.0262908806,
-  "FullNameUA": "вулиця Героїв Праці, 9-Б"
+  "confrm": "Рішення ВК Київської райради № 32-3, 19.02.2008",
+  "reg_date": "",
+  "longt": 36.3308360836,
+  "lati": 50.0277552114,
+  "FullNameUA": "вулиця Героїв Праці, 9",
+  "ChildsIds": []
  },
  {
   "id": 121933,
@@ -522,38 +438,14 @@
   "reg_date": "16.12.2019 10:35:36",
   "longt": 36.3343213206,
   "lati": 50.0283987397,
-  "FullNameUA": "вулиця Героїв Праці, 9-А"
+  "FullNameUA": "вулиця Героїв Праці, 9-А",
+  "ChildsIds": []
  },
  {
-  "id": 121932,
+  "id": 121934,
   "postcode": 61168,
   "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 32-3, 19.02.2008",
-  "reg_date": "",
-  "longt": 36.3308360836,
-  "lati": 50.027755211400006,
-  "FullNameUA": "вулиця Героїв Праці, 9"
- },
- {
-  "id": 121935,
-  "postcode": 61168,
-  "number": 9,
-  "suffix": "В",
+  "suffix": "Б",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -567,12 +459,13 @@
   "detail_ua": "",
   "detail_number": "",
   "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 690, 05.11.2014, 1735, 24.12.2014",
-  "reg_date": "03.01.2020 11:16:56",
-  "longt": 36.3344291326,
-  "lati": 50.026869643000005,
-  "FullNameUA": "вулиця Героїв Праці, 9-В"
+  "same_adr_comm": "будівля операторної з магазином та кафетерієм літ. \"А-1\", автомийка літ. \"Б-1\" та навіс літ. \"В\"\nземельна ділянка (кадастровий номер 6325185001:05:006:0075)\n",
+  "confrm": "107, 18.02.2015; 1902, 24.06.2015",
+  "reg_date": "05.08.2019 16:30:46",
+  "longt": 36.3317004806,
+  "lati": 50.0262908806,
+  "FullNameUA": "вулиця Героїв Праці, 9-Б",
+  "ChildsIds": []
  },
  {
   "id": 179320,
@@ -596,8 +489,139 @@
   "confrm": "",
   "reg_date": "15.05.2018 16:38:53",
   "longt": 36.3356537935,
-  "lati": 50.025321213400005,
-  "FullNameUA": "вулиця Героїв Праці, 9-Г"
+  "lati": 50.0253212134,
+  "FullNameUA": "вулиця Героїв Праці, 9-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 121937,
+  "postcode": 61168,
+  "number": 9,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 828, 23.12.2014",
+  "reg_date": "16.12.2019 10:41:06",
+  "longt": 36.3340832309,
+  "lati": 50.0256147111,
+  "FullNameUA": "вулиця Героїв Праці, 9-Ж",
+  "ChildsIds": []
+ },
+ {
+  "id": 121938,
+  "postcode": 61168,
+  "number": 9,
+  "suffix": "И",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "257, 06.07.2016",
+  "reg_date": "16.12.2019 17:00:30",
+  "longt": 36.3330910284,
+  "lati": 50.0258156684,
+  "FullNameUA": "вулиця Героїв Праці, 9-И",
+  "ChildsIds": []
+ },
+ {
+  "id": 121941,
+  "postcode": 61107,
+  "number": 9,
+  "suffix": "К",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 327, 11.05.2018",
+  "reg_date": "22.05.2018 15:29:18",
+  "longt": 36.3348219299,
+  "lati": 50.0250181576,
+  "FullNameUA": "вулиця Героїв Праці, 9-К",
+  "ChildsIds": []
+ },
+ {
+  "id": 121939,
+  "postcode": 61168,
+  "number": 9,
+  "suffix": "І",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "339, 14.09.2016",
+  "reg_date": "16.12.2019 17:36:59",
+  "longt": 36.3338477038,
+  "lati": 50.026313018,
+  "FullNameUA": "вулиця Героїв Праці, 9-І",
+  "ChildsIds": []
+ },
+ {
+  "id": 121936,
+  "postcode": 61168,
+  "number": 9,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 827, 23.12.2014",
+  "reg_date": "16.12.2019 10:40:03",
+  "longt": 36.3334359469,
+  "lati": 50.0254060303,
+  "FullNameUA": "вулиця Героїв Праці, 9-Д",
+  "ChildsIds": []
  },
  {
   "id": 121940,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3283289049,
   "lati": 50.0256865129,
-  "FullNameUA": "вулиця Героїв Праці, 10"
+  "FullNameUA": "вулиця Героїв Праці, 10",
+  "ChildsIds": []
  },
  {
   "id": 133036,
@@ -647,7 +672,34 @@
   "reg_date": "",
   "longt": 36.3387824091,
   "lati": 50.0241285839,
-  "FullNameUA": "вулиця Героїв Праці, 11"
+  "FullNameUA": "вулиця Героїв Праці, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 121944,
+  "postcode": 61168,
+  "number": 12,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3287356618,
+  "lati": 50.0241259718,
+  "FullNameUA": "вулиця Героїв Праці, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 121948,
@@ -672,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3291897964,
   "lati": 50.023344793,
-  "FullNameUA": "вулиця Героїв Праці, 12-Е"
+  "FullNameUA": "вулиця Героїв Праці, 12-Е",
+  "ChildsIds": []
  },
  {
   "id": 121942,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.3294149913,
   "lati": 50.0256168861,
-  "FullNameUA": "вулиця Героїв Праці, 12"
+  "FullNameUA": "вулиця Героїв Праці, 12",
+  "ChildsIds": []
  },
  {
   "id": 121949,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.3272560537,
   "lati": 50.0246018212,
-  "FullNameUA": "вулиця Героїв Праці, 12-Ж"
- },
- {
-  "id": 121943,
-  "postcode": 61168,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3281869984,
-  "lati": 50.0248290143,
-  "FullNameUA": "вулиця Героїв Праці, 12-А"
+  "FullNameUA": "вулиця Героїв Праці, 12-Ж",
+  "ChildsIds": []
  },
  {
   "id": 121945,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3274427763,
   "lati": 50.0239193935,
-  "FullNameUA": "вулиця Героїв Праці, 12-В"
+  "FullNameUA": "вулиця Героїв Праці, 12-В",
+  "ChildsIds": []
  },
  {
   "id": 121946,
@@ -796,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3277621576,
-  "lati": 50.02294718420001,
-  "FullNameUA": "вулиця Героїв Праці, 12-Г"
+  "lati": 50.0229471842,
+  "FullNameUA": "вулиця Героїв Праці, 12-Г",
+  "ChildsIds": []
  },
  {
   "id": 121947,
@@ -822,13 +854,14 @@
   "reg_date": "",
   "longt": 36.3287925996,
   "lati": 50.0224020105,
-  "FullNameUA": "вулиця Героїв Праці, 12-Д"
+  "FullNameUA": "вулиця Героїв Праці, 12-Д",
+  "ChildsIds": []
  },
  {
-  "id": 121944,
+  "id": 121943,
   "postcode": 61168,
   "number": 12,
-  "suffix": "Б",
+  "suffix": "А",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3287356618,
-  "lati": 50.024125971800004,
-  "FullNameUA": "вулиця Героїв Праці, 12-Б"
+  "longt": 36.3281869984,
+  "lati": 50.0248290143,
+  "FullNameUA": "вулиця Героїв Праці, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 133037,
@@ -871,8 +905,9 @@
   "confrm": "Рішення ВК ХМР № 457, 05.07.2017",
   "reg_date": "12.07.2017 17:59:25",
   "longt": 36.3367361046,
-  "lati": 50.024456136000005,
-  "FullNameUA": "вулиця Героїв Праці, 13"
+  "lati": 50.024456136,
+  "FullNameUA": "вулиця Героїв Праці, 13",
+  "ChildsIds": []
  },
  {
   "id": 133038,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.337539604199996,
+  "longt": 36.3375396042,
   "lati": 50.0245116747,
-  "FullNameUA": "вулиця Героїв Праці, 13-А"
+  "FullNameUA": "вулиця Героїв Праці, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 121950,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330566184599995,
+  "longt": 36.3305661846,
   "lati": 50.024976322,
-  "FullNameUA": "вулиця Героїв Праці, 14"
+  "FullNameUA": "вулиця Героїв Праці, 14",
+  "ChildsIds": []
  },
  {
   "id": 133039,
@@ -946,8 +983,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3395828696,
-  "lati": 50.024072113200006,
-  "FullNameUA": "вулиця Героїв Праці, 15"
+  "lati": 50.0240721132,
+  "FullNameUA": "вулиця Героїв Праці, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 133041,
+  "postcode": 61144,
+  "number": 15,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3424562293,
+  "lati": 50.0247738642,
+  "FullNameUA": "вулиця Героїв Праці, 15-Б",
+  "ChildsIds": []
  },
  {
   "id": 133040,
@@ -971,83 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3427699204,
-  "lati": 50.024123211200006,
-  "FullNameUA": "вулиця Героїв Праці, 15-А"
- },
- {
-  "id": 133041,
-  "postcode": 61144,
-  "number": 15,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.342456229300005,
-  "lati": 50.0247738642,
-  "FullNameUA": "вулиця Героїв Праці, 15-Б"
- },
- {
-  "id": 133043,
-  "postcode": 61144,
-  "number": 17,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "504, 19.07.1976",
-  "reg_date": "",
-  "longt": 36.344796878900006,
-  "lati": 50.0250730579,
-  "FullNameUA": "вулиця Героїв Праці, 17-А"
- },
- {
-  "id": 133044,
-  "postcode": 61144,
-  "number": 17,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.344178094200004,
-  "lati": 50.025658843900004,
-  "FullNameUA": "вулиця Героїв Праці, 17-Б"
+  "lati": 50.0241232112,
+  "FullNameUA": "вулиця Героїв Праці, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 133042,
@@ -1070,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.343758614500004,
-  "lati": 50.023773648600006,
-  "FullNameUA": "вулиця Героїв Праці, 17"
+  "longt": 36.3437586145,
+  "lati": 50.0237736486,
+  "FullNameUA": "вулиця Героїв Праці, 17",
+  "ChildsIds": []
  },
  {
   "id": 133045,
@@ -1096,8 +1087,61 @@
   "confrm": "Рішення ВК ХМР № 437, 30.07.2014",
   "reg_date": "10.01.2020 12:14:49",
   "longt": 36.3426812781,
-  "lati": 50.022521594900006,
-  "FullNameUA": "вулиця Героїв Праці, 17-Д"
+  "lati": 50.0225215949,
+  "FullNameUA": "вулиця Героїв Праці, 17-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 133044,
+  "postcode": 61144,
+  "number": 17,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3441780942,
+  "lati": 50.0256588439,
+  "FullNameUA": "вулиця Героїв Праці, 17-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 133043,
+  "postcode": 61144,
+  "number": 17,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "504, 19.07.1976",
+  "reg_date": "",
+  "longt": 36.3447968789,
+  "lati": 50.0250730579,
+  "FullNameUA": "вулиця Героїв Праці, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 121951,
@@ -1121,133 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3316179096,
-  "lati": 50.024627627200005,
-  "FullNameUA": "вулиця Героїв Праці, 18"
- },
- {
-  "id": 133051,
-  "postcode": 61144,
-  "number": 19,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3468370454,
-  "lati": 50.0243397735,
-  "FullNameUA": "вулиця Героїв Праці, 19-Д"
- },
- {
-  "id": 133049,
-  "postcode": 61144,
-  "number": 19,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3446085587,
-  "lati": 50.0236673945,
-  "FullNameUA": "вулиця Героїв Праці, 19-В"
- },
- {
-  "id": 133048,
-  "postcode": 61144,
-  "number": 19,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.344907212200006,
-  "lati": 50.023002199900006,
-  "FullNameUA": "вулиця Героїв Праці, 19-Б"
- },
- {
-  "id": 133047,
-  "postcode": 61144,
-  "number": 19,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3441873569,
-  "lati": 50.023179720600005,
-  "FullNameUA": "вулиця Героїв Праці, 19-А"
- },
- {
-  "id": 133050,
-  "postcode": 61144,
-  "number": 19,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.345533258900005,
-  "lati": 50.024315406300005,
-  "FullNameUA": "вулиця Героїв Праці, 19-Г"
+  "lati": 50.0246276272,
+  "FullNameUA": "вулиця Героїв Праці, 18",
+  "ChildsIds": []
  },
  {
   "id": 133046,
@@ -1272,112 +1192,13 @@
   "reg_date": "",
   "longt": 36.3443285524,
   "lati": 50.0223571219,
-  "FullNameUA": "вулиця Героїв Праці, 19"
+  "FullNameUA": "вулиця Героїв Праці, 19",
+  "ChildsIds": []
  },
  {
-  "id": 121953,
-  "postcode": 61168,
-  "number": 20,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3320246818,
-  "lati": 50.023074660300004,
-  "FullNameUA": "вулиця Героїв Праці, 20-Б"
- },
- {
-  "id": 121957,
-  "postcode": 61168,
-  "number": 20,
-  "suffix": "/321В",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3340940339,
-  "lati": 50.0243477431,
-  "FullNameUA": "вулиця Героїв Праці, 20/321В"
- },
- {
-  "id": 121954,
-  "postcode": 61168,
-  "number": 20,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3305496502,
-  "lati": 50.0236874447,
-  "FullNameUA": "вулиця Героїв Праці, 20-В"
- },
- {
-  "id": 121956,
-  "postcode": 61168,
-  "number": 20,
-  "suffix": "/321А",
-  "block": "",
-  "streetid": 2427,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3336844146,
-  "lati": 50.024438524000004,
-  "FullNameUA": "вулиця Героїв Праці, 20/321А"
- },
- {
-  "id": 121955,
-  "postcode": 61168,
-  "number": 20,
+  "id": 133050,
+  "postcode": 61144,
+  "number": 19,
   "suffix": "Г",
   "block": "",
   "streetid": 2427,
@@ -1395,15 +1216,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330333847199995,
-  "lati": 50.022742501100005,
-  "FullNameUA": "вулиця Героїв Праці, 20-Г"
+  "longt": 36.3455332589,
+  "lati": 50.0243154063,
+  "FullNameUA": "вулиця Героїв Праці, 19-Г",
+  "ChildsIds": []
  },
  {
-  "id": 121958,
-  "postcode": 61168,
-  "number": 20,
-  "suffix": "/321",
+  "id": 133051,
+  "postcode": 61144,
+  "number": 19,
+  "suffix": "Д",
   "block": "",
   "streetid": 2427,
   "status_id": 1,
@@ -1420,9 +1242,88 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3327292186,
-  "lati": 50.024565444000004,
-  "FullNameUA": "вулиця Героїв Праці, 20/321"
+  "longt": 36.3468370454,
+  "lati": 50.0243397735,
+  "FullNameUA": "вулиця Героїв Праці, 19-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 133048,
+  "postcode": 61144,
+  "number": 19,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3449072122,
+  "lati": 50.0230021999,
+  "FullNameUA": "вулиця Героїв Праці, 19-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 133049,
+  "postcode": 61144,
+  "number": 19,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3446085587,
+  "lati": 50.0236673945,
+  "FullNameUA": "вулиця Героїв Праці, 19-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 133047,
+  "postcode": 61144,
+  "number": 19,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3441873569,
+  "lati": 50.0231797206,
+  "FullNameUA": "вулиця Героїв Праці, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 121952,
@@ -1447,7 +1348,164 @@
   "reg_date": "",
   "longt": 36.331456333,
   "lati": 50.0237782478,
-  "FullNameUA": "вулиця Героїв Праці, 20-А"
+  "FullNameUA": "вулиця Героїв Праці, 20-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121957,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "/321В",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3340940339,
+  "lati": 50.0243477431,
+  "FullNameUA": "вулиця Героїв Праці, 20/321В",
+  "ChildsIds": []
+ },
+ {
+  "id": 121953,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3320246818,
+  "lati": 50.0230746603,
+  "FullNameUA": "вулиця Героїв Праці, 20-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 121958,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "/321",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3327292186,
+  "lati": 50.024565444,
+  "FullNameUA": "вулиця Героїв Праці, 20/321",
+  "ChildsIds": []
+ },
+ {
+  "id": 121955,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3303338472,
+  "lati": 50.0227425011,
+  "FullNameUA": "вулиця Героїв Праці, 20-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 121956,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "/321А",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3336844146,
+  "lati": 50.024438524,
+  "FullNameUA": "вулиця Героїв Праці, 20/321А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121954,
+  "postcode": 61168,
+  "number": 20,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3305496502,
+  "lati": 50.0236874447,
+  "FullNameUA": "вулиця Героїв Праці, 20-В",
+  "ChildsIds": []
  },
  {
   "id": 133053,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.3456972836,
   "lati": 50.0229222848,
-  "FullNameUA": "вулиця Героїв Праці, 21-А"
+  "FullNameUA": "вулиця Героїв Праці, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 133052,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345713657500006,
+  "longt": 36.3457136575,
   "lati": 50.0222969395,
-  "FullNameUA": "вулиця Героїв Праці, 21"
+  "FullNameUA": "вулиця Героїв Праці, 21",
+  "ChildsIds": []
  },
  {
   "id": 133054,
@@ -1521,8 +1581,9 @@
   "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.3346947078,
-  "lati": 50.024296505600006,
-  "FullNameUA": "вулиця Героїв Праці, 22-М"
+  "lati": 50.0242965056,
+  "FullNameUA": "вулиця Героїв Праці, 22-М",
+  "ChildsIds": []
  },
  {
   "id": 178890,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.333481611399996,
-  "lati": 50.024345668600006,
-  "FullNameUA": "вулиця Героїв Праці, 22-В"
+  "longt": 36.3334816114,
+  "lati": 50.0243456686,
+  "FullNameUA": "вулиця Героїв Праці, 22-В",
+  "ChildsIds": []
  },
  {
   "id": 133056,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.3366680547,
   "lati": 50.0236306835,
-  "FullNameUA": "вулиця Героїв Праці, 24-А"
+  "FullNameUA": "вулиця Героїв Праці, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 133055,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.3366274992,
   "lati": 50.0233055547,
-  "FullNameUA": "вулиця Героїв Праці, 24"
+  "FullNameUA": "вулиця Героїв Праці, 24",
+  "ChildsIds": []
  },
  {
   "id": 133058,
@@ -1620,9 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 638, 15.10.2014 (квартира 7)",
   "reg_date": "",
-  "longt": 36.34645998880001,
-  "lati": 50.021986928100006,
-  "FullNameUA": "вулиця Героїв Праці, 25/71"
+  "longt": 36.3464599888,
+  "lati": 50.0219869281,
+  "FullNameUA": "вулиця Героїв Праці, 25/71",
+  "ChildsIds": []
  },
  {
   "id": 133057,
@@ -1645,9 +1710,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.347023007900006,
-  "lati": 50.022588062800004,
-  "FullNameUA": "вулиця Героїв Праці, 25/71А"
+  "longt": 36.3470230079,
+  "lati": 50.0225880628,
+  "FullNameUA": "вулиця Героїв Праці, 25/71А",
+  "ChildsIds": []
  },
  {
   "id": 133059,
@@ -1670,9 +1736,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.336995961599996,
+  "longt": 36.3369959616,
   "lati": 50.0228017664,
-  "FullNameUA": "вулиця Героїв Праці, 26"
+  "FullNameUA": "вулиця Героїв Праці, 26",
+  "ChildsIds": []
  },
  {
   "id": 133061,
@@ -1697,7 +1764,8 @@
   "reg_date": "28.02.2019 15:07:30",
   "longt": 36.3360497602,
   "lati": 50.0238774361,
-  "FullNameUA": "вулиця Героїв Праці, 26-Б"
+  "FullNameUA": "вулиця Героїв Праці, 26-Б",
+  "ChildsIds": []
  },
  {
   "id": 133060,
@@ -1721,8 +1789,9 @@
   "confrm": "градархив",
   "reg_date": "06.03.2019 12:06:49",
   "longt": 36.3374525,
-  "lati": 50.023415470100005,
-  "FullNameUA": "вулиця Героїв Праці, 26-А"
+  "lati": 50.0234154701,
+  "FullNameUA": "вулиця Героїв Праці, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 133062,
@@ -1745,9 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Московської райради 299, 09.09.2008",
   "reg_date": "01.03.2019 10:04:00",
-  "longt": 36.348941389100005,
+  "longt": 36.3489413891,
   "lati": 50.0213770053,
-  "FullNameUA": "вулиця Героїв Праці, 27-Г"
+  "FullNameUA": "вулиця Героїв Праці, 27-Г",
+  "ChildsIds": []
  },
  {
   "id": 133063,
@@ -1770,9 +1840,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.338372139899995,
-  "lati": 50.022583766500006,
-  "FullNameUA": "вулиця Героїв Праці, 28"
+  "longt": 36.3383721399,
+  "lati": 50.0225837665,
+  "FullNameUA": "вулиця Героїв Праці, 28",
+  "ChildsIds": []
  },
  {
   "id": 133065,
@@ -1795,9 +1866,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.338035012599995,
+  "longt": 36.3380350126,
   "lati": 50.021325187,
-  "FullNameUA": "вулиця Героїв Праці, 28-Б"
+  "FullNameUA": "вулиця Героїв Праці, 28-Б",
+  "ChildsIds": []
  },
  {
   "id": 133064,
@@ -1822,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.3374953693,
   "lati": 50.0220354438,
-  "FullNameUA": "вулиця Героїв Праці, 28-А"
+  "FullNameUA": "вулиця Героїв Праці, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 133067,
@@ -1846,8 +1919,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3531774165,
-  "lati": 50.022587896900006,
-  "FullNameUA": "вулиця Героїв Праці, 29-А"
+  "lati": 50.0225878969,
+  "FullNameUA": "вулиця Героїв Праці, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 133066,
@@ -1871,8 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3518287038,
-  "lati": 50.02186091350001,
-  "FullNameUA": "вулиця Героїв Праці, 29"
+  "lati": 50.0218609135,
+  "FullNameUA": "вулиця Героїв Праці, 29",
+  "ChildsIds": []
  },
  {
   "id": 180580,
@@ -1891,13 +1966,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "об'єкти торгівлі літ. \"А-1\"",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.349042619100004,
-  "lati": 50.021590782400004,
-  "FullNameUA": "вулиця Героїв Праці, 29-Г"
+  "reg_date": "12.05.2020 13:06:48",
+  "longt": 36.3490426191,
+  "lati": 50.0215907824,
+  "FullNameUA": "вулиця Героїв Праці, 29-Г",
+  "ChildsIds": []
  },
  {
   "id": 133069,
@@ -1922,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.3515899333,
   "lati": 50.0225324269,
-  "FullNameUA": "вулиця Героїв Праці, 29-В"
+  "FullNameUA": "вулиця Героїв Праці, 29-В",
+  "ChildsIds": []
  },
  {
   "id": 133068,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.3523985507,
   "lati": 50.0226092941,
-  "FullNameUA": "вулиця Героїв Праці, 29-Б"
+  "FullNameUA": "вулиця Героїв Праці, 29-Б",
+  "ChildsIds": []
  },
  {
   "id": 133070,
@@ -1970,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.339254055699996,
-  "lati": 50.021816835100005,
-  "FullNameUA": "вулиця Героїв Праці, 30"
+  "longt": 36.3392540557,
+  "lati": 50.0218168351,
+  "FullNameUA": "вулиця Героїв Праці, 30",
+  "ChildsIds": []
  },
  {
   "id": 133072,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.3542787752,
   "lati": 50.0248086865,
-  "FullNameUA": "вулиця Героїв Праці, 31-А"
+  "FullNameUA": "вулиця Героїв Праці, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 133071,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.3537153324,
   "lati": 50.0219321196,
-  "FullNameUA": "вулиця Героїв Праці, 31"
+  "FullNameUA": "вулиця Героїв Праці, 31",
+  "ChildsIds": []
  },
  {
   "id": 133073,
@@ -2046,8 +2127,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3566559294,
-  "lati": 50.02472290870001,
-  "FullNameUA": "вулиця Героїв Праці, 31-Б"
+  "lati": 50.0247229087,
+  "FullNameUA": "вулиця Героїв Праці, 31-Б",
+  "ChildsIds": []
  },
  {
   "id": 133074,
@@ -2072,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.3404960155,
   "lati": 50.0216054759,
-  "FullNameUA": "вулиця Героїв Праці, 32"
+  "FullNameUA": "вулиця Героїв Праці, 32",
+  "ChildsIds": []
  },
  {
   "id": 177675,
@@ -2096,8 +2179,9 @@
   "confrm": "Рішення ВК Московська районна рада № 49, 12.02.2008",
   "reg_date": "26.11.2019 14:25:34",
   "longt": 36.3391348383,
-  "lati": 50.020097165900005,
-  "FullNameUA": "вулиця Героїв Праці, 32-Г"
+  "lati": 50.0200971659,
+  "FullNameUA": "вулиця Героїв Праці, 32-Г",
+  "ChildsIds": []
  },
  {
   "id": 133076,
@@ -2121,8 +2205,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3407680122,
-  "lati": 50.020595588400006,
-  "FullNameUA": "вулиця Героїв Праці, 32-Б"
+  "lati": 50.0205955884,
+  "FullNameUA": "вулиця Героїв Праці, 32-Б",
+  "ChildsIds": []
  },
  {
   "id": 133075,
@@ -2145,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "220, 13.09.1989",
   "reg_date": "",
-  "longt": 36.339728628799996,
-  "lati": 50.020841252500006,
-  "FullNameUA": "вулиця Героїв Праці, 32-А"
+  "longt": 36.3397286288,
+  "lati": 50.0208412525,
+  "FullNameUA": "вулиця Героїв Праці, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 133077,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.355615194,
   "lati": 50.0217265036,
-  "FullNameUA": "вулиця Героїв Праці, 33"
+  "FullNameUA": "вулиця Героїв Праці, 33",
+  "ChildsIds": []
  },
  {
   "id": 133079,
@@ -2195,9 +2282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.356254563200004,
+  "longt": 36.3562545632,
   "lati": 50.0223144571,
-  "FullNameUA": "вулиця Героїв Праці, 33-Б"
+  "FullNameUA": "вулиця Героїв Праці, 33-Б",
+  "ChildsIds": []
  },
  {
   "id": 133080,
@@ -2222,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.3554351972,
   "lati": 50.0223502711,
-  "FullNameUA": "вулиця Героїв Праці, 33-В"
+  "FullNameUA": "вулиця Героїв Праці, 33-В",
+  "ChildsIds": []
  },
  {
   "id": 133078,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.3572257033,
   "lati": 50.02233288,
-  "FullNameUA": "вулиця Героїв Праці, 33-А"
+  "FullNameUA": "вулиця Героїв Праці, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 133082,
@@ -2271,8 +2361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3550379641,
-  "lati": 50.023055578500006,
-  "FullNameUA": "вулиця Героїв Праці, 33-Д"
+  "lati": 50.0230555785,
+  "FullNameUA": "вулиця Героїв Праці, 33-Д",
+  "ChildsIds": []
  },
  {
   "id": 133083,
@@ -2295,9 +2386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.356392242300004,
-  "lati": 50.022958658600004,
-  "FullNameUA": "вулиця Героїв Праці, 33-Е"
+  "longt": 36.3563922423,
+  "lati": 50.0229586586,
+  "FullNameUA": "вулиця Героїв Праці, 33-Е",
+  "ChildsIds": []
  },
  {
   "id": 133081,
@@ -2321,8 +2413,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3545244765,
-  "lati": 50.022514807600004,
-  "FullNameUA": "вулиця Героїв Праці, 33-Г"
+  "lati": 50.0225148076,
+  "FullNameUA": "вулиця Героїв Праці, 33-Г",
+  "ChildsIds": []
  },
  {
   "id": 133084,
@@ -2345,9 +2438,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341739498600006,
-  "lati": 50.021179610500006,
-  "FullNameUA": "вулиця Героїв Праці, 34"
+  "longt": 36.3417394986,
+  "lati": 50.0211796105,
+  "FullNameUA": "вулиця Героїв Праці, 34",
+  "ChildsIds": []
  },
  {
   "id": 133085,
@@ -2371,8 +2465,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3575111354,
-  "lati": 50.021492324300006,
-  "FullNameUA": "вулиця Героїв Праці, 35"
+  "lati": 50.0214923243,
+  "FullNameUA": "вулиця Героїв Праці, 35",
+  "ChildsIds": []
  },
  {
   "id": 133087,
@@ -2395,9 +2490,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34319927400001,
-  "lati": 50.020532208400006,
-  "FullNameUA": "вулиця Героїв Праці, 36-А"
+  "longt": 36.343199274,
+  "lati": 50.0205322084,
+  "FullNameUA": "вулиця Героїв Праці, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 133088,
@@ -2422,7 +2518,8 @@
   "reg_date": "",
   "longt": 36.3427155859,
   "lati": 50.0201591128,
-  "FullNameUA": "вулиця Героїв Праці, 36-Б"
+  "FullNameUA": "вулиця Героїв Праці, 36-Б",
+  "ChildsIds": []
  },
  {
   "id": 133086,
@@ -2445,9 +2542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342994965900004,
-  "lati": 50.021156634600004,
-  "FullNameUA": "вулиця Героїв Праці, 36"
+  "longt": 36.3429949659,
+  "lati": 50.0211566346,
+  "FullNameUA": "вулиця Героїв Праці, 36",
+  "ChildsIds": []
  },
  {
   "id": 133090,
@@ -2470,9 +2568,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342758157800006,
+  "longt": 36.3427581578,
   "lati": 50.0193588517,
-  "FullNameUA": "вулиця Героїв Праці, 36-Г"
+  "FullNameUA": "вулиця Героїв Праці, 36-Г",
+  "ChildsIds": []
  },
  {
   "id": 133089,
@@ -2495,9 +2594,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341486268500006,
+  "longt": 36.3414862685,
   "lati": 50.019765543,
-  "FullNameUA": "вулиця Героїв Праці, 36-В"
+  "FullNameUA": "вулиця Героїв Праці, 36-В",
+  "ChildsIds": []
  },
  {
   "id": 133091,
@@ -2521,8 +2621,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3592999276,
-  "lati": 50.021014247800004,
-  "FullNameUA": "вулиця Героїв Праці, 37"
+  "lati": 50.0210142478,
+  "FullNameUA": "вулиця Героїв Праці, 37",
+  "ChildsIds": []
  },
  {
   "id": 133092,
@@ -2546,8 +2647,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3585487867,
-  "lati": 50.022028702600004,
-  "FullNameUA": "вулиця Героїв Праці, 37-А"
+  "lati": 50.0220287026,
+  "FullNameUA": "вулиця Героїв Праці, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 133094,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.3599902455,
   "lati": 50.0214985502,
-  "FullNameUA": "вулиця Героїв Праці, 37-В"
+  "FullNameUA": "вулиця Героїв Праці, 37-В",
+  "ChildsIds": []
  },
  {
   "id": 133093,
@@ -2596,8 +2699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3596292685,
-  "lati": 50.022105045400004,
-  "FullNameUA": "вулиця Героїв Праці, 37-Б"
+  "lati": 50.0221050454,
+  "FullNameUA": "вулиця Героїв Праці, 37-Б",
+  "ChildsIds": []
  },
  {
   "id": 133096,
@@ -2622,7 +2726,8 @@
   "reg_date": "",
   "longt": 36.3609939083,
   "lati": 50.0218249687,
-  "FullNameUA": "вулиця Героїв Праці, 37-Д"
+  "FullNameUA": "вулиця Героїв Праці, 37-Д",
+  "ChildsIds": []
  },
  {
   "id": 133097,
@@ -2647,7 +2752,8 @@
   "reg_date": "",
   "longt": 36.3590812707,
   "lati": 50.0217999795,
-  "FullNameUA": "вулиця Героїв Праці, 37-Е"
+  "FullNameUA": "вулиця Героїв Праці, 37-Е",
+  "ChildsIds": []
  },
  {
   "id": 133095,
@@ -2672,7 +2778,8 @@
   "reg_date": "",
   "longt": 36.3607104318,
   "lati": 50.0212858,
-  "FullNameUA": "вулиця Героїв Праці, 37-Г"
+  "FullNameUA": "вулиця Героїв Праці, 37-Г",
+  "ChildsIds": []
  },
  {
   "id": 133099,
@@ -2697,7 +2804,8 @@
   "reg_date": "",
   "longt": 36.3441567379,
   "lati": 50.0199904379,
-  "FullNameUA": "вулиця Героїв Праці, 38-А"
+  "FullNameUA": "вулиця Героїв Праці, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 133098,
@@ -2721,8 +2829,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3447124626,
-  "lati": 50.020488099000005,
-  "FullNameUA": "вулиця Героїв Праці, 38"
+  "lati": 50.020488099,
+  "FullNameUA": "вулиця Героїв Праці, 38",
+  "ChildsIds": []
  },
  {
   "id": 133100,
@@ -2747,7 +2856,8 @@
   "reg_date": "",
   "longt": 36.3634193256,
   "lati": 50.0187909936,
-  "FullNameUA": "вулиця Героїв Праці, 43"
+  "FullNameUA": "вулиця Героїв Праці, 43",
+  "ChildsIds": []
  },
  {
   "id": 181680,
@@ -2772,7 +2882,8 @@
   "reg_date": "",
   "longt": 36.3638910586,
   "lati": 50.0189134373,
-  "FullNameUA": "вулиця Героїв Праці, 43-Б"
+  "FullNameUA": "вулиця Героїв Праці, 43-Б",
+  "ChildsIds": []
  },
  {
   "id": 133101,
@@ -2797,7 +2908,8 @@
   "reg_date": "",
   "longt": 36.362517803,
   "lati": 50.019455477,
-  "FullNameUA": "вулиця Героїв Праці, 43-А"
+  "FullNameUA": "вулиця Героїв Праці, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 133102,
@@ -2822,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.3646206703,
   "lati": 50.0186646625,
-  "FullNameUA": "вулиця Героїв Праці, 45"
+  "FullNameUA": "вулиця Героїв Праці, 45",
+  "ChildsIds": []
  },
  {
   "id": 133104,
@@ -2847,7 +2960,8 @@
   "reg_date": "",
   "longt": 36.3492156772,
   "lati": 50.0198679181,
-  "FullNameUA": "вулиця Героїв Праці, 46-А"
+  "FullNameUA": "вулиця Героїв Праці, 46-А",
+  "ChildsIds": []
  },
  {
   "id": 133103,
@@ -2870,9 +2984,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348639723400005,
-  "lati": 50.019861725599995,
-  "FullNameUA": "вулиця Героїв Праці, 46"
+  "longt": 36.3486397234,
+  "lati": 50.0198617256,
+  "FullNameUA": "вулиця Героїв Праці, 46",
+  "ChildsIds": []
  },
  {
   "id": 133105,
@@ -2896,8 +3011,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3654458009,
-  "lati": 50.017657731199996,
-  "FullNameUA": "вулиця Героїв Праці, 47"
+  "lati": 50.0176577312,
+  "FullNameUA": "вулиця Героїв Праці, 47",
+  "ChildsIds": []
  },
  {
   "id": 133106,
@@ -2921,8 +3037,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3665968991,
-  "lati": 50.017774308099995,
-  "FullNameUA": "вулиця Героїв Праці, 47-А"
+  "lati": 50.0177743081,
+  "FullNameUA": "вулиця Героїв Праці, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 133109,
@@ -2947,7 +3064,8 @@
   "reg_date": "",
   "longt": 36.367884083,
   "lati": 50.0196695318,
-  "FullNameUA": "вулиця Героїв Праці, 47-Д"
+  "FullNameUA": "вулиця Героїв Праці, 47-Д",
+  "ChildsIds": []
  },
  {
   "id": 133108,
@@ -2972,7 +3090,8 @@
   "reg_date": "",
   "longt": 36.3675034276,
   "lati": 50.0189154752,
-  "FullNameUA": "вулиця Героїв Праці, 47-Г"
+  "FullNameUA": "вулиця Героїв Праці, 47-Г",
+  "ChildsIds": []
  },
  {
   "id": 133110,
@@ -2991,13 +3110,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "320, 27.05.2015",
-  "reg_date": "",
+  "reg_date": "14.01.2020 16:08:54",
   "longt": 36.3671738437,
-  "lati": 50.019079748799996,
-  "FullNameUA": "вулиця Героїв Праці, 47-К"
+  "lati": 50.0190797488,
+  "FullNameUA": "вулиця Героїв Праці, 47-К",
+  "ChildsIds": []
  },
  {
   "id": 133107,
@@ -3022,7 +3142,8 @@
   "reg_date": "",
   "longt": 36.3665793328,
   "lati": 50.0183696633,
-  "FullNameUA": "вулиця Героїв Праці, 47-Б"
+  "FullNameUA": "вулиця Героїв Праці, 47-Б",
+  "ChildsIds": []
  },
  {
   "id": 133111,
@@ -3046,8 +3167,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3505402945,
-  "lati": 50.019857661799996,
-  "FullNameUA": "вулиця Героїв Праці, 48"
+  "lati": 50.0198576618,
+  "FullNameUA": "вулиця Героїв Праці, 48",
+  "ChildsIds": []
  },
  {
   "id": 133112,
@@ -3072,7 +3194,8 @@
   "reg_date": "",
   "longt": 36.3488660753,
   "lati": 50.0186676094,
-  "FullNameUA": "вулиця Героїв Праці, 48-А"
+  "FullNameUA": "вулиця Героїв Праці, 48-А",
+  "ChildsIds": []
  },
  {
   "id": 133116,
@@ -3096,8 +3219,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.35143386,
-  "lati": 50.017517575199996,
-  "FullNameUA": "вулиця Героїв Праці, 48-Е"
+  "lati": 50.0175175752,
+  "FullNameUA": "вулиця Героїв Праці, 48-Е",
+  "ChildsIds": []
  },
  {
   "id": 133114,
@@ -3122,7 +3246,8 @@
   "reg_date": "",
   "longt": 36.3495220264,
   "lati": 50.0181432016,
-  "FullNameUA": "вулиця Героїв Праці, 48-В"
+  "FullNameUA": "вулиця Героїв Праці, 48-В",
+  "ChildsIds": []
  },
  {
   "id": 133115,
@@ -3147,7 +3272,8 @@
   "reg_date": "",
   "longt": 36.3515861383,
   "lati": 50.0177755669,
-  "FullNameUA": "вулиця Героїв Праці, 48-Д"
+  "FullNameUA": "вулиця Героїв Праці, 48-Д",
+  "ChildsIds": []
  },
  {
   "id": 133113,
@@ -3172,7 +3298,8 @@
   "reg_date": "",
   "longt": 36.3498813579,
   "lati": 50.0186512667,
-  "FullNameUA": "вулиця Героїв Праці, 48-Б"
+  "FullNameUA": "вулиця Героїв Праці, 48-Б",
+  "ChildsIds": []
  },
  {
   "id": 133118,
@@ -3197,7 +3324,8 @@
   "reg_date": "",
   "longt": 36.3665083138,
   "lati": 50.0165112161,
-  "FullNameUA": "вулиця Героїв Праці, 49-А"
+  "FullNameUA": "вулиця Героїв Праці, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 133117,
@@ -3222,7 +3350,8 @@
   "reg_date": "",
   "longt": 36.3677116736,
   "lati": 50.0163440889,
-  "FullNameUA": "вулиця Героїв Праці, 49"
+  "FullNameUA": "вулиця Героїв Праці, 49",
+  "ChildsIds": []
  },
  {
   "id": 133119,
@@ -3247,7 +3376,8 @@
   "reg_date": "",
   "longt": 36.3516389292,
   "lati": 50.0204421806,
-  "FullNameUA": "вулиця Героїв Праці, 50"
+  "FullNameUA": "вулиця Героїв Праці, 50",
+  "ChildsIds": []
  },
  {
   "id": 133120,
@@ -3272,7 +3402,8 @@
   "reg_date": "",
   "longt": 36.3523384429,
   "lati": 50.0198589158,
-  "FullNameUA": "вулиця Героїв Праці, 52"
+  "FullNameUA": "вулиця Героїв Праці, 52",
+  "ChildsIds": []
  },
  {
   "id": 133122,
@@ -3297,7 +3428,8 @@
   "reg_date": "",
   "longt": 36.3516353598,
   "lati": 50.0186906545,
-  "FullNameUA": "вулиця Героїв Праці, 52-Б"
+  "FullNameUA": "вулиця Героїв Праці, 52-Б",
+  "ChildsIds": []
  },
  {
   "id": 133121,
@@ -3320,9 +3452,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.352585527100004,
+  "longt": 36.3525855271,
   "lati": 50.0189066669,
-  "FullNameUA": "вулиця Героїв Праці, 52-А"
+  "FullNameUA": "вулиця Героїв Праці, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 133123,
@@ -3346,8 +3479,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3539663621,
-  "lati": 50.019526018099995,
-  "FullNameUA": "вулиця Героїв Праці, 54"
+  "lati": 50.0195260181,
+  "FullNameUA": "вулиця Героїв Праці, 54",
+  "ChildsIds": []
+ },
+ {
+  "id": 182040,
+  "postcode": 61135,
+  "number": 54,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2427,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3542881909,
+  "lati": 50.0186683629,
+  "FullNameUA": "вулиця Героїв Праці, 54-Г",
+  "ChildsIds": []
  },
  {
   "id": 133124,
@@ -3372,7 +3532,8 @@
   "reg_date": "",
   "longt": 36.3531482859,
   "lati": 50.0185643318,
-  "FullNameUA": "вулиця Героїв Праці, 54-А"
+  "FullNameUA": "вулиця Героїв Праці, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 133125,
@@ -3397,7 +3558,8 @@
   "reg_date": "",
   "longt": 36.3536779889,
   "lati": 50.0182375041,
-  "FullNameUA": "вулиця Героїв Праці, 54-Б"
+  "FullNameUA": "вулиця Героїв Праці, 54-Б",
+  "ChildsIds": []
  },
  {
   "id": 133126,
@@ -3420,9 +3582,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.355240777300004,
-  "lati": 50.020259734700005,
-  "FullNameUA": "вулиця Героїв Праці, 56"
+  "longt": 36.3552407773,
+  "lati": 50.0202597347,
+  "FullNameUA": "вулиця Героїв Праці, 56",
+  "ChildsIds": []
  },
  {
   "id": 133128,
@@ -3447,7 +3610,8 @@
   "reg_date": "",
   "longt": 36.3546608052,
   "lati": 50.0186814911,
-  "FullNameUA": "вулиця Героїв Праці, 58-А"
+  "FullNameUA": "вулиця Героїв Праці, 58-А",
+  "ChildsIds": []
  },
  {
   "id": 133127,
@@ -3470,9 +3634,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.355800257700004,
+  "longt": 36.3558002577,
   "lati": 50.0195411454,
-  "FullNameUA": "вулиця Героїв Праці, 58"
+  "FullNameUA": "вулиця Героїв Праці, 58",
+  "ChildsIds": []
  },
  {
   "id": 133129,
@@ -3497,7 +3662,8 @@
   "reg_date": "",
   "longt": 36.3572929128,
   "lati": 50.0191141085,
-  "FullNameUA": "вулиця Героїв Праці, 60"
+  "FullNameUA": "вулиця Героїв Праці, 60",
+  "ChildsIds": []
  },
  {
   "id": 133132,
@@ -3522,7 +3688,8 @@
   "reg_date": "",
   "longt": 36.3547043183,
   "lati": 50.0183466604,
-  "FullNameUA": "вулиця Героїв Праці, 60-В"
+  "FullNameUA": "вулиця Героїв Праці, 60-В",
+  "ChildsIds": []
  },
  {
   "id": 133131,
@@ -3547,7 +3714,8 @@
   "reg_date": "",
   "longt": 36.3565303621,
   "lati": 50.0184607164,
-  "FullNameUA": "вулиця Героїв Праці, 60-Б"
+  "FullNameUA": "вулиця Героїв Праці, 60-Б",
+  "ChildsIds": []
  },
  {
   "id": 133130,
@@ -3570,9 +3738,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.356103578100004,
+  "longt": 36.3561035781,
   "lati": 50.0188758297,
-  "FullNameUA": "вулиця Героїв Праці, 60-А"
+  "FullNameUA": "вулиця Героїв Праці, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 133133,
@@ -3595,9 +3764,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.361246536399996,
+  "longt": 36.3612465364,
   "lati": 50.0168114981,
-  "FullNameUA": "вулиця Героїв Праці, 66"
+  "FullNameUA": "вулиця Героїв Праці, 66",
+  "ChildsIds": []
  },
  {
   "id": 133137,
@@ -3622,7 +3792,8 @@
   "reg_date": "",
   "longt": 36.3608810148,
   "lati": 50.0152363278,
-  "FullNameUA": "вулиця Героїв Праці, 68-Д"
+  "FullNameUA": "вулиця Героїв Праці, 68-Д",
+  "ChildsIds": []
  },
  {
   "id": 133135,
@@ -3646,8 +3817,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.362726663,
-  "lati": 50.016214997199995,
-  "FullNameUA": "вулиця Героїв Праці, 68-А"
+  "lati": 50.0162149972,
+  "FullNameUA": "вулиця Героїв Праці, 68-А",
+  "ChildsIds": []
  },
  {
   "id": 133134,
@@ -3672,7 +3844,8 @@
   "reg_date": "",
   "longt": 36.3630487804,
   "lati": 50.0171338305,
-  "FullNameUA": "вулиця Героїв Праці, 68"
+  "FullNameUA": "вулиця Героїв Праці, 68",
+  "ChildsIds": []
  },
  {
   "id": 133138,
@@ -3697,7 +3870,8 @@
   "reg_date": "",
   "longt": 36.3632064238,
   "lati": 50.0163130982,
-  "FullNameUA": "вулиця Героїв Праці, 68-Е"
+  "FullNameUA": "вулиця Героїв Праці, 68-Е",
+  "ChildsIds": []
  },
  {
   "id": 133136,
@@ -3722,7 +3896,8 @@
   "reg_date": "",
   "longt": 36.3615733749,
   "lati": 50.0158271672,
-  "FullNameUA": "вулиця Героїв Праці, 68-Б"
+  "FullNameUA": "вулиця Героїв Праці, 68-Б",
+  "ChildsIds": []
  },
  {
   "id": 133140,
@@ -3747,7 +3922,8 @@
   "reg_date": "",
   "longt": 36.3673866815,
   "lati": 50.0156022076,
-  "FullNameUA": "вулиця Героїв Праці, 70-А"
+  "FullNameUA": "вулиця Героїв Праці, 70-А",
+  "ChildsIds": []
  },
  {
   "id": 133139,
@@ -3771,7 +3947,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3653117414,
-  "lati": 50.015870964499996,
-  "FullNameUA": "вулиця Героїв Праці, 70"
+  "lati": 50.0158709645,
+  "FullNameUA": "вулиця Героїв Праці, 70",
+  "ChildsIds": []
  }
 ]

@@ -1,30 +1,5 @@
 [
  {
-  "id": 148267,
-  "postcode": 61020,
-  "number": 1,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2429,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1631522901,
-  "lati": 49.9416768098,
-  "FullNameUA": "провулок Герцена, 1-А"
- },
- {
   "id": 148266,
   "postcode": 61020,
   "number": 1,
@@ -47,7 +22,34 @@
   "reg_date": "",
   "longt": 36.163645354,
   "lati": 49.9414287289,
-  "FullNameUA": "провулок Герцена, 1"
+  "FullNameUA": "провулок Герцена, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 148267,
+  "postcode": 61020,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2429,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1631522901,
+  "lati": 49.9416768098,
+  "FullNameUA": "провулок Герцена, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 148268,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.162915570500004,
+  "longt": 36.1629155705,
   "lati": 49.9414321349,
-  "FullNameUA": "провулок Герцена, 2"
+  "FullNameUA": "провулок Герцена, 2",
+  "ChildsIds": []
  },
  {
   "id": 148269,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.163239383800004,
+  "longt": 36.1632393838,
   "lati": 49.9412723058,
-  "FullNameUA": "провулок Герцена, 4"
+  "FullNameUA": "провулок Герцена, 4",
+  "ChildsIds": []
  },
  {
   "id": 179446,
@@ -122,6 +126,7 @@
   "reg_date": "",
   "longt": 36.1644279957,
   "lati": 49.9397796866,
-  "FullNameUA": "провулок Герцена, 15"
+  "FullNameUA": "провулок Герцена, 15",
+  "ChildsIds": []
  }
 ]

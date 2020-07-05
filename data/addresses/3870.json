@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3178072276,
   "lati": 49.9988650809,
-  "FullNameUA": "вулиця Сахалінська, 2"
+  "FullNameUA": "вулиця Сахалінська, 2",
+  "ChildsIds": []
  },
  {
   "id": 135809,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3180714045,
   "lati": 49.9990320737,
-  "FullNameUA": "вулиця Сахалінська, 2-А"
+  "FullNameUA": "вулиця Сахалінська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 135810,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318352107100004,
-  "lati": 49.999203505400004,
-  "FullNameUA": "вулиця Сахалінська, 2-Б"
+  "longt": 36.3183521071,
+  "lati": 49.9992035054,
+  "FullNameUA": "вулиця Сахалінська, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 135811,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3177598268,
   "lati": 49.9992127095,
-  "FullNameUA": "вулиця Сахалінська, 3"
+  "FullNameUA": "вулиця Сахалінська, 3",
+  "ChildsIds": []
  },
  {
   "id": 135814,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.318957710300005,
+  "longt": 36.3189577103,
   "lati": 49.9995955826,
-  "FullNameUA": "вулиця Сахалінська, 4-Б"
+  "FullNameUA": "вулиця Сахалінська, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 135813,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.318750220300004,
-  "lati": 49.999470081400005,
-  "FullNameUA": "вулиця Сахалінська, 4-А"
+  "longt": 36.3187502203,
+  "lati": 49.9994700814,
+  "FullNameUA": "вулиця Сахалінська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 135812,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3185415705,
   "lati": 49.9993525215,
-  "FullNameUA": "вулиця Сахалінська, 4"
+  "FullNameUA": "вулиця Сахалінська, 4",
+  "ChildsIds": []
  },
  {
   "id": 135815,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318235605800005,
+  "longt": 36.3182356058,
   "lati": 49.999504502,
-  "FullNameUA": "вулиця Сахалінська, 5"
+  "FullNameUA": "вулиця Сахалінська, 5",
+  "ChildsIds": []
  },
  {
   "id": 177240,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.319300003500004,
+  "longt": 36.3193000035,
   "lati": 49.9996430181,
-  "FullNameUA": "вулиця Сахалінська, 6"
+  "FullNameUA": "вулиця Сахалінська, 6",
+  "ChildsIds": []
  },
  {
   "id": 135816,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319727437000004,
-  "lati": 49.999974010900004,
-  "FullNameUA": "вулиця Сахалінська, 6-А"
+  "longt": 36.319727437,
+  "lati": 49.9999740109,
+  "FullNameUA": "вулиця Сахалінська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 135817,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3185032071,
   "lati": 49.9996553522,
-  "FullNameUA": "вулиця Сахалінська, 7"
+  "FullNameUA": "вулиця Сахалінська, 7",
+  "ChildsIds": []
  },
  {
   "id": 135819,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.3200878518,
   "lati": 50.0002622795,
-  "FullNameUA": "вулиця Сахалінська, 8-А"
+  "FullNameUA": "вулиця Сахалінська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 135818,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3198543898,
   "lati": 50.0001388749,
-  "FullNameUA": "вулиця Сахалінська, 8"
+  "FullNameUA": "вулиця Сахалінська, 8",
+  "ChildsIds": []
  },
  {
   "id": 135820,
@@ -347,32 +360,8 @@
   "reg_date": "",
   "longt": 36.3187291219,
   "lati": 49.9997837036,
-  "FullNameUA": "вулиця Сахалінська, 9"
- },
- {
-  "id": 135822,
-  "postcode": 61054,
-  "number": 10,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3870,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3205015085,
-  "lati": 50.000479807,
-  "FullNameUA": "вулиця Сахалінська, 10-А"
+  "FullNameUA": "вулиця Сахалінська, 9",
+  "ChildsIds": []
  },
  {
   "id": 135821,
@@ -397,7 +386,60 @@
   "reg_date": "",
   "longt": 36.3202910515,
   "lati": 50.000411178,
-  "FullNameUA": "вулиця Сахалінська, 10"
+  "FullNameUA": "вулиця Сахалінська, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 135822,
+  "postcode": 61054,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3870,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3205015085,
+  "lati": 50.000479807,
+  "FullNameUA": "вулиця Сахалінська, 10-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135823,
+  "postcode": 61054,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3870,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3210688134,
+  "lati": 50.0009995176,
+  "FullNameUA": "вулиця Сахалінська, 12",
+  "ChildsIds": []
  },
  {
   "id": 135824,
@@ -422,32 +464,8 @@
   "reg_date": "",
   "longt": 36.3209882071,
   "lati": 50.000798475,
-  "FullNameUA": "вулиця Сахалінська, 12-А"
- },
- {
-  "id": 135823,
-  "postcode": 61054,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 3870,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.321068813400004,
-  "lati": 50.0009995176,
-  "FullNameUA": "вулиця Сахалінська, 12"
+  "FullNameUA": "вулиця Сахалінська, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 135825,
@@ -472,57 +490,8 @@
   "reg_date": "",
   "longt": 36.3213263426,
   "lati": 50.0011564686,
-  "FullNameUA": "вулиця Сахалінська, 14"
- },
- {
-  "id": 179493,
-  "postcode": 61054,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3870,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3214353976,
-  "lati": 50.0017684838,
-  "FullNameUA": "вулиця Сахалінська, 15-А"
- },
- {
-  "id": 135827,
-  "postcode": 61054,
-  "number": 15,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3870,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3217269201,
-  "lati": 50.0020175865,
-  "FullNameUA": "вулиця Сахалінська, 15-Б"
+  "FullNameUA": "вулиця Сахалінська, 14",
+  "ChildsIds": []
  },
  {
   "id": 135826,
@@ -547,7 +516,60 @@
   "reg_date": "",
   "longt": 36.3229868603,
   "lati": 50.0025708951,
-  "FullNameUA": "вулиця Сахалінська, 15"
+  "FullNameUA": "вулиця Сахалінська, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 135827,
+  "postcode": 61054,
+  "number": 15,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3870,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3217269201,
+  "lati": 50.0020175865,
+  "FullNameUA": "вулиця Сахалінська, 15-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 179493,
+  "postcode": 61054,
+  "number": 15,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3870,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3214353976,
+  "lati": 50.0017684838,
+  "FullNameUA": "вулиця Сахалінська, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 135828,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.321532435,
   "lati": 50.0013116014,
-  "FullNameUA": "вулиця Сахалінська, 16"
+  "FullNameUA": "вулиця Сахалінська, 16",
+  "ChildsIds": []
  },
  {
   "id": 135829,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.3232221926,
   "lati": 50.0027374176,
-  "FullNameUA": "вулиця Сахалінська, 17"
+  "FullNameUA": "вулиця Сахалінська, 17",
+  "ChildsIds": []
  },
  {
   "id": 135830,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3217370353,
   "lati": 50.0014399143,
-  "FullNameUA": "вулиця Сахалінська, 18"
+  "FullNameUA": "вулиця Сахалінська, 18",
+  "ChildsIds": []
  },
  {
   "id": 135831,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3234460089,
   "lati": 50.0028832015,
-  "FullNameUA": "вулиця Сахалінська, 19"
+  "FullNameUA": "вулиця Сахалінська, 19",
+  "ChildsIds": []
  },
  {
   "id": 135832,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3219336278,
   "lati": 50.0015610425,
-  "FullNameUA": "вулиця Сахалінська, 20"
+  "FullNameUA": "вулиця Сахалінська, 20",
+  "ChildsIds": []
  },
  {
   "id": 135833,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3236146802,
   "lati": 50.0029765449,
-  "FullNameUA": "вулиця Сахалінська, 21"
+  "FullNameUA": "вулиця Сахалінська, 21",
+  "ChildsIds": []
  },
  {
   "id": 135834,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.3221312597,
   "lati": 50.0016798441,
-  "FullNameUA": "вулиця Сахалінська, 22"
+  "FullNameUA": "вулиця Сахалінська, 22",
+  "ChildsIds": []
  },
  {
   "id": 135835,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.3238099308,
   "lati": 50.0030832167,
-  "FullNameUA": "вулиця Сахалінська, 23"
+  "FullNameUA": "вулиця Сахалінська, 23",
+  "ChildsIds": []
  },
  {
   "id": 135836,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3223122375,
   "lati": 50.0017802504,
-  "FullNameUA": "вулиця Сахалінська, 24"
+  "FullNameUA": "вулиця Сахалінська, 24",
+  "ChildsIds": []
  },
  {
   "id": 135837,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3240977153,
   "lati": 50.0032567327,
-  "FullNameUA": "вулиця Сахалінська, 25"
+  "FullNameUA": "вулиця Сахалінська, 25",
+  "ChildsIds": []
  },
  {
   "id": 135838,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3225405232,
   "lati": 50.0019230117,
-  "FullNameUA": "вулиця Сахалінська, 26"
+  "FullNameUA": "вулиця Сахалінська, 26",
+  "ChildsIds": []
  },
  {
   "id": 135839,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.3242761277,
   "lati": 50.0033752283,
-  "FullNameUA": "вулиця Сахалінська, 27"
+  "FullNameUA": "вулиця Сахалінська, 27",
+  "ChildsIds": []
  },
  {
   "id": 135840,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.3227749363,
   "lati": 50.0020903914,
-  "FullNameUA": "вулиця Сахалінська, 28"
+  "FullNameUA": "вулиця Сахалінська, 28",
+  "ChildsIds": []
  },
  {
   "id": 135841,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.3233186939,
   "lati": 50.0023670389,
-  "FullNameUA": "вулиця Сахалінська, 28-А"
+  "FullNameUA": "вулиця Сахалінська, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 135842,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3244886497,
   "lati": 50.0035178053,
-  "FullNameUA": "вулиця Сахалінська, 29"
+  "FullNameUA": "вулиця Сахалінська, 29",
+  "ChildsIds": []
  },
  {
   "id": 135843,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.3235722203,
   "lati": 50.0025671248,
-  "FullNameUA": "вулиця Сахалінська, 30"
+  "FullNameUA": "вулиця Сахалінська, 30",
+  "ChildsIds": []
  },
  {
   "id": 135844,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.3246856061,
   "lati": 50.003626195,
-  "FullNameUA": "вулиця Сахалінська, 31"
+  "FullNameUA": "вулиця Сахалінська, 31",
+  "ChildsIds": []
  },
  {
   "id": 135845,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.3238113522,
   "lati": 50.0027054717,
-  "FullNameUA": "вулиця Сахалінська, 32"
+  "FullNameUA": "вулиця Сахалінська, 32",
+  "ChildsIds": []
  },
  {
   "id": 135846,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.3249482619,
   "lati": 50.0037811475,
-  "FullNameUA": "вулиця Сахалінська, 33"
+  "FullNameUA": "вулиця Сахалінська, 33",
+  "ChildsIds": []
  },
  {
   "id": 135847,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.3240002434,
   "lati": 50.0028311433,
-  "FullNameUA": "вулиця Сахалінська, 34"
+  "FullNameUA": "вулиця Сахалінська, 34",
+  "ChildsIds": []
  },
  {
   "id": 135848,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3257024641,
   "lati": 50.0042437296,
-  "FullNameUA": "вулиця Сахалінська, 35"
+  "FullNameUA": "вулиця Сахалінська, 35",
+  "ChildsIds": []
  },
  {
   "id": 135849,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3242174738,
   "lati": 50.0029323447,
-  "FullNameUA": "вулиця Сахалінська, 36"
+  "FullNameUA": "вулиця Сахалінська, 36",
+  "ChildsIds": []
  },
  {
   "id": 135850,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.3259341397,
   "lati": 50.0043800737,
-  "FullNameUA": "вулиця Сахалінська, 37"
+  "FullNameUA": "вулиця Сахалінська, 37",
+  "ChildsIds": []
  },
  {
   "id": 135851,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3244136009,
   "lati": 50.0030654735,
-  "FullNameUA": "вулиця Сахалінська, 38"
+  "FullNameUA": "вулиця Сахалінська, 38",
+  "ChildsIds": []
  },
  {
   "id": 135852,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3277702229,
   "lati": 50.0054516463,
-  "FullNameUA": "вулиця Сахалінська, 39"
+  "FullNameUA": "вулиця Сахалінська, 39",
+  "ChildsIds": []
  },
  {
   "id": 135853,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.32462411,
   "lati": 50.0031408899,
-  "FullNameUA": "вулиця Сахалінська, 40"
+  "FullNameUA": "вулиця Сахалінська, 40",
+  "ChildsIds": []
  },
  {
   "id": 135854,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.3248261462,
   "lati": 50.0033234725,
-  "FullNameUA": "вулиця Сахалінська, 42"
+  "FullNameUA": "вулиця Сахалінська, 42",
+  "ChildsIds": []
  },
  {
   "id": 135855,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.3250206021,
   "lati": 50.0034424762,
-  "FullNameUA": "вулиця Сахалінська, 44"
+  "FullNameUA": "вулиця Сахалінська, 44",
+  "ChildsIds": []
  },
  {
   "id": 135856,
@@ -1272,6 +1322,7 @@
   "reg_date": "",
   "longt": 36.3252747139,
   "lati": 50.00360744,
-  "FullNameUA": "вулиця Сахалінська, 46"
+  "FullNameUA": "вулиця Сахалінська, 46",
+  "ChildsIds": []
  }
 ]

@@ -1,9 +1,9 @@
 [
  {
-  "id": 178958,
+  "id": 178957,
   "postcode": 61010,
   "number": 1,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 3119,
   "status_id": 1,
@@ -18,11 +18,12 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 276, 25.04.2017",
-  "reg_date": "10.05.2018 11:45:14",
-  "longt": 36.2409958007,
-  "lati": 49.98105317900001,
-  "FullNameUA": "вулиця Лисаветинська, 1-А"
+  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
+  "reg_date": "15.03.2018 16:01:55",
+  "longt": 36.2409077847,
+  "lati": 49.9806518464,
+  "FullNameUA": "вулиця Лисаветинська, 1",
+  "ChildsIds": []
  },
  {
   "id": 178959,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
   "reg_date": "16.03.2018 09:20:14",
-  "longt": 36.240992843600004,
+  "longt": 36.2409928436,
   "lati": 49.9803290114,
-  "FullNameUA": "вулиця Лисаветинська, 1-Б"
+  "FullNameUA": "вулиця Лисаветинська, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 178964,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
   "reg_date": "16.03.2018 10:24:32",
-  "longt": 36.241907233700005,
+  "longt": 36.2419072337,
   "lati": 49.9801536299,
-  "FullNameUA": "вулиця Лисаветинська, 1-Г"
+  "FullNameUA": "вулиця Лисаветинська, 1-Г",
+  "ChildsIds": []
  },
  {
   "id": 178965,
@@ -96,14 +99,15 @@
   "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
   "reg_date": "16.03.2018 10:31:02",
   "longt": 36.2414714426,
-  "lati": 49.980390436300006,
-  "FullNameUA": "вулиця Лисаветинська, 1-В"
+  "lati": 49.9803904363,
+  "FullNameUA": "вулиця Лисаветинська, 1-В",
+  "ChildsIds": []
  },
  {
-  "id": 178957,
+  "id": 178958,
   "postcode": 61010,
   "number": 1,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 3119,
   "status_id": 1,
@@ -118,11 +122,14 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
-  "reg_date": "15.03.2018 16:01:55",
-  "longt": 36.2409077847,
-  "lati": 49.9806518464,
-  "FullNameUA": "вулиця Лисаветинська, 1"
+  "confrm": "Рішення ВК ХМР № 276, 25.04.2017",
+  "reg_date": "10.05.2018 11:45:14",
+  "longt": 36.2409958007,
+  "lati": 49.981053179,
+  "FullNameUA": "вулиця Лисаветинська, 1-А",
+  "ChildsIds": [
+   182991
+  ]
  },
  {
   "id": 180460,
@@ -147,82 +154,8 @@
   "reg_date": "21.03.2019 17:50:24",
   "longt": 36.2404421006,
   "lati": 49.9796022294,
-  "FullNameUA": "вулиця Лисаветинська, 3-А"
- },
- {
-  "id": 179463,
-  "postcode": 61010,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "09.01.2019 10:30:38",
-  "longt": 36.2402459984,
-  "lati": 49.980071947000006,
-  "FullNameUA": "вулиця Лисаветинська, 3"
- },
- {
-  "id": 178960,
-  "postcode": 61010,
-  "number": 3,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
-  "reg_date": "16.03.2018 09:27:24",
-  "longt": 36.2411631115,
-  "lati": 49.9799444594,
-  "FullNameUA": "вулиця Лисаветинська, 3-Б"
- },
- {
-  "id": 178961,
-  "postcode": 61010,
-  "number": 3,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
-  "reg_date": "16.03.2018 09:33:21",
-  "longt": 36.2412289859,
-  "lati": 49.9795997934,
-  "FullNameUA": "вулиця Лисаветинська, 3-В"
+  "FullNameUA": "вулиця Лисаветинська, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 179464,
@@ -247,7 +180,164 @@
   "reg_date": "09.01.2019 10:32:14",
   "longt": 36.2418308635,
   "lati": 49.9794415208,
-  "FullNameUA": "вулиця Лисаветинська, 3-Г"
+  "FullNameUA": "вулиця Лисаветинська, 3-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 178960,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
+  "reg_date": "16.03.2018 09:27:24",
+  "longt": 36.2411631115,
+  "lati": 49.9799444594,
+  "FullNameUA": "вулиця Лисаветинська, 3-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 178961,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
+  "reg_date": "16.03.2018 09:33:21",
+  "longt": 36.2412289859,
+  "lati": 49.9795997934,
+  "FullNameUA": "вулиця Лисаветинська, 3-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 179463,
+  "postcode": 61010,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "09.01.2019 10:30:38",
+  "longt": 36.2402459984,
+  "lati": 49.980071947,
+  "FullNameUA": "вулиця Лисаветинська, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 178963,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
+  "reg_date": "16.03.2018 10:04:13",
+  "longt": 36.2415434494,
+  "lati": 49.9789179212,
+  "FullNameUA": "вулиця Лисаветинська, 5-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 179465,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "09.01.2019 10:33:50",
+  "longt": 36.2409357417,
+  "lati": 49.9785826394,
+  "FullNameUA": "вулиця Лисаветинська, 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 180461,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок № 9 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "21.03.2019 17:51:24",
+  "longt": 36.2405870693,
+  "lati": 49.9790845615,
+  "FullNameUA": "вулиця Лисаветинська, 5",
+  "ChildsIds": []
  },
  {
   "id": 178962,
@@ -272,132 +362,8 @@
   "reg_date": "16.03.2018 09:45:18",
   "longt": 36.2414151761,
   "lati": 49.9792128673,
-  "FullNameUA": "вулиця Лисаветинська, 5-Б"
- },
- {
-  "id": 179465,
-  "postcode": 61010,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "09.01.2019 10:33:50",
-  "longt": 36.2409357417,
-  "lati": 49.978582639399995,
-  "FullNameUA": "вулиця Лисаветинська, 5-А"
- },
- {
-  "id": 178963,
-  "postcode": 61010,
-  "number": 5,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 134, 28.02.2018",
-  "reg_date": "16.03.2018 10:04:13",
-  "longt": 36.241543449400005,
-  "lati": 49.9789179212,
-  "FullNameUA": "вулиця Лисаветинська, 5-В"
- },
- {
-  "id": 180461,
-  "postcode": 61010,
-  "number": 5,
-  "suffix": "",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок № 9 літ. \"А-16\"",
-  "confrm": "",
-  "reg_date": "21.03.2019 17:51:24",
-  "longt": 36.240587069300005,
-  "lati": 49.9790845615,
-  "FullNameUA": "вулиця Лисаветинська, 5"
- },
- {
-  "id": 180841,
-  "postcode": 61010,
-  "number": 7,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок № 14 літ. \"А-16\"",
-  "confrm": "",
-  "reg_date": "05.06.2019 10:54:00",
-  "longt": 36.2424610435,
-  "lati": 49.9783740312,
-  "FullNameUA": "вулиця Лисаветинська, 7-Б"
- },
- {
-  "id": 180462,
-  "postcode": 61010,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 3119,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок № 11 літ. \"А-16\"",
-  "confrm": "",
-  "reg_date": "21.03.2019 17:52:10",
-  "longt": 36.241759812000005,
-  "lati": 49.9782935875,
-  "FullNameUA": "вулиця Лисаветинська, 7"
+  "FullNameUA": "вулиця Лисаветинська, 5-Б",
+  "ChildsIds": []
  },
  {
   "id": 180840,
@@ -422,7 +388,60 @@
   "reg_date": "05.06.2019 10:53:43",
   "longt": 36.2424334537,
   "lati": 49.9787541648,
-  "FullNameUA": "вулиця Лисаветинська, 7-А"
+  "FullNameUA": "вулиця Лисаветинська, 7-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 180841,
+  "postcode": 61010,
+  "number": 7,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок № 14 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "05.06.2019 10:54:00",
+  "longt": 36.2424610435,
+  "lati": 49.9783740312,
+  "FullNameUA": "вулиця Лисаветинська, 7-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 180462,
+  "postcode": 61010,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок № 11 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "21.03.2019 17:52:10",
+  "longt": 36.241759812,
+  "lati": 49.9782935875,
+  "FullNameUA": "вулиця Лисаветинська, 7",
+  "ChildsIds": []
  },
  {
   "id": 178966,
@@ -447,7 +466,34 @@
   "reg_date": "16.03.2018 10:41:01",
   "longt": 36.2431389397,
   "lati": 49.9782103457,
-  "FullNameUA": "вулиця Лисаветинська, 7-Г"
+  "FullNameUA": "вулиця Лисаветинська, 7-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 182991,
+  "postcode": 61010,
+  "number": 7,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3119,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок № 15 літ. \"А-16\"",
+  "confrm": "",
+  "reg_date": "10.06.2020 12:21:24",
+  "longt": 36.2427686786,
+  "lati": 49.9779622142,
+  "FullNameUA": "вулиця Лисаветинська, 7-В",
+  "ChildsIds": []
  },
  {
   "id": 162910,
@@ -472,7 +518,8 @@
   "reg_date": "26.12.2019 16:05:05",
   "longt": 36.2409611105,
   "lati": 49.976997812,
-  "FullNameUA": "вулиця Лисаветинська, 9"
+  "FullNameUA": "вулиця Лисаветинська, 9",
+  "ChildsIds": []
  },
  {
   "id": 162912,
@@ -496,8 +543,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2409368599,
-  "lati": 49.978150303999996,
-  "FullNameUA": "вулиця Лисаветинська, 10/12"
+  "lati": 49.978150304,
+  "FullNameUA": "вулиця Лисаветинська, 10/12",
+  "ChildsIds": []
  },
  {
   "id": 162911,
@@ -522,7 +570,8 @@
   "reg_date": "",
   "longt": 36.2404380539,
   "lati": 49.9770589435,
-  "FullNameUA": "вулиця Лисаветинська, 10"
+  "FullNameUA": "вулиця Лисаветинська, 10",
+  "ChildsIds": []
  },
  {
   "id": 162913,
@@ -545,9 +594,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241202593400004,
+  "longt": 36.2412025934,
   "lati": 49.9761525561,
-  "FullNameUA": "вулиця Лисаветинська, 11"
+  "FullNameUA": "вулиця Лисаветинська, 11",
+  "ChildsIds": []
  },
  {
   "id": 162914,
@@ -572,7 +622,8 @@
   "reg_date": "",
   "longt": 36.2404234607,
   "lati": 49.9768855723,
-  "FullNameUA": "вулиця Лисаветинська, 12"
+  "FullNameUA": "вулиця Лисаветинська, 12",
+  "ChildsIds": []
  },
  {
   "id": 162915,
@@ -597,7 +648,8 @@
   "reg_date": "",
   "longt": 36.2412560454,
   "lati": 49.9759356017,
-  "FullNameUA": "вулиця Лисаветинська, 13"
+  "FullNameUA": "вулиця Лисаветинська, 13",
+  "ChildsIds": []
  },
  {
   "id": 176315,
@@ -622,7 +674,8 @@
   "reg_date": "",
   "longt": 36.2404432645,
   "lati": 49.9766088794,
-  "FullNameUA": "вулиця Лисаветинська, 14"
+  "FullNameUA": "вулиця Лисаветинська, 14",
+  "ChildsIds": []
  },
  {
   "id": 162916,
@@ -647,7 +700,8 @@
   "reg_date": "",
   "longt": 36.2413339187,
   "lati": 49.9757247731,
-  "FullNameUA": "вулиця Лисаветинська, 15"
+  "FullNameUA": "вулиця Лисаветинська, 15",
+  "ChildsIds": []
  },
  {
   "id": 162917,
@@ -670,9 +724,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240748459900004,
+  "longt": 36.2407484599,
   "lati": 49.9761894827,
-  "FullNameUA": "вулиця Лисаветинська, 16"
+  "FullNameUA": "вулиця Лисаветинська, 16",
+  "ChildsIds": []
  },
  {
   "id": 162918,
@@ -697,7 +752,8 @@
   "reg_date": "",
   "longt": 36.2419559949,
   "lati": 49.9749194048,
-  "FullNameUA": "вулиця Лисаветинська, 19"
+  "FullNameUA": "вулиця Лисаветинська, 19",
+  "ChildsIds": []
  },
  {
   "id": 162919,
@@ -720,9 +776,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242057309500005,
+  "longt": 36.2420573095,
   "lati": 49.9748189208,
-  "FullNameUA": "вулиця Лисаветинська, 21"
+  "FullNameUA": "вулиця Лисаветинська, 21",
+  "ChildsIds": []
  },
  {
   "id": 162920,
@@ -745,9 +802,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240826964200004,
-  "lati": 49.975805170899996,
-  "FullNameUA": "вулиця Лисаветинська, 22"
+  "longt": 36.2408269642,
+  "lati": 49.9758051709,
+  "FullNameUA": "вулиця Лисаветинська, 22",
+  "ChildsIds": []
  },
  {
   "id": 162921,
@@ -772,7 +830,8 @@
   "reg_date": "",
   "longt": 36.242319217,
   "lati": 49.9746698473,
-  "FullNameUA": "вулиця Лисаветинська, 23"
+  "FullNameUA": "вулиця Лисаветинська, 23",
+  "ChildsIds": []
  },
  {
   "id": 162922,
@@ -797,7 +856,8 @@
   "reg_date": "",
   "longt": 36.2408647366,
   "lati": 49.9756932059,
-  "FullNameUA": "вулиця Лисаветинська, 24"
+  "FullNameUA": "вулиця Лисаветинська, 24",
+  "ChildsIds": []
  },
  {
   "id": 162923,
@@ -820,9 +880,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242809816400005,
+  "longt": 36.2428098164,
   "lati": 49.9743431919,
-  "FullNameUA": "вулиця Лисаветинська, 25/13"
+  "FullNameUA": "вулиця Лисаветинська, 25/13",
+  "ChildsIds": []
  },
  {
   "id": 176316,
@@ -847,7 +908,8 @@
   "reg_date": "",
   "longt": 36.2414811552,
   "lati": 49.9748805297,
-  "FullNameUA": "вулиця Лисаветинська, 26"
+  "FullNameUA": "вулиця Лисаветинська, 26",
+  "ChildsIds": []
  },
  {
   "id": 162924,
@@ -872,7 +934,8 @@
   "reg_date": "",
   "longt": 36.2431503746,
   "lati": 49.9741581321,
-  "FullNameUA": "вулиця Лисаветинська, 27"
+  "FullNameUA": "вулиця Лисаветинська, 27",
+  "ChildsIds": []
  },
  {
   "id": 162925,
@@ -895,9 +958,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241733573000005,
+  "longt": 36.241733573,
   "lati": 49.9746617405,
-  "FullNameUA": "вулиця Лисаветинська, 28"
+  "FullNameUA": "вулиця Лисаветинська, 28",
+  "ChildsIds": []
  },
  {
   "id": 162926,
@@ -921,8 +985,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2419528048,
-  "lati": 49.974566921299996,
-  "FullNameUA": "вулиця Лисаветинська, 30"
+  "lati": 49.9745669213,
+  "FullNameUA": "вулиця Лисаветинська, 30",
+  "ChildsIds": []
  },
  {
   "id": 162927,
@@ -945,9 +1010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243738960900004,
+  "longt": 36.2437389609,
   "lati": 49.9738540921,
-  "FullNameUA": "вулиця Лисаветинська, 31"
+  "FullNameUA": "вулиця Лисаветинська, 31",
+  "ChildsIds": []
  },
  {
   "id": 162928,
@@ -972,7 +1038,8 @@
   "reg_date": "",
   "longt": 36.2421074418,
   "lati": 49.9744771274,
-  "FullNameUA": "вулиця Лисаветинська, 32"
+  "FullNameUA": "вулиця Лисаветинська, 32",
+  "ChildsIds": []
  },
  {
   "id": 162929,
@@ -997,7 +1064,8 @@
   "reg_date": "",
   "longt": 36.2439948661,
   "lati": 49.9737031073,
-  "FullNameUA": "вулиця Лисаветинська, 33"
+  "FullNameUA": "вулиця Лисаветинська, 33",
+  "ChildsIds": []
  },
  {
   "id": 162930,
@@ -1022,7 +1090,8 @@
   "reg_date": "",
   "longt": 36.2424688746,
   "lati": 49.9742322736,
-  "FullNameUA": "вулиця Лисаветинська, 34"
+  "FullNameUA": "вулиця Лисаветинська, 34",
+  "ChildsIds": []
  },
  {
   "id": 162931,
@@ -1047,7 +1116,8 @@
   "reg_date": "",
   "longt": 36.2441231493,
   "lati": 49.9736442468,
-  "FullNameUA": "вулиця Лисаветинська, 35"
+  "FullNameUA": "вулиця Лисаветинська, 35",
+  "ChildsIds": []
  },
  {
   "id": 162932,
@@ -1072,7 +1142,8 @@
   "reg_date": "",
   "longt": 36.243008862,
   "lati": 49.9738766435,
-  "FullNameUA": "вулиця Лисаветинська, 38"
+  "FullNameUA": "вулиця Лисаветинська, 38",
+  "ChildsIds": []
  },
  {
   "id": 162933,
@@ -1095,9 +1166,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243158463200004,
+  "longt": 36.2431584632,
   "lati": 49.9738223619,
-  "FullNameUA": "вулиця Лисаветинська, 40"
+  "FullNameUA": "вулиця Лисаветинська, 40",
+  "ChildsIds": []
  },
  {
   "id": 162934,
@@ -1120,9 +1192,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243357475900005,
+  "longt": 36.2433574759,
   "lati": 49.973702756,
-  "FullNameUA": "вулиця Лисаветинська, 42"
+  "FullNameUA": "вулиця Лисаветинська, 42",
+  "ChildsIds": []
  },
  {
   "id": 162935,
@@ -1145,8 +1218,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243621032600004,
+  "longt": 36.2436210326,
   "lati": 49.9735206761,
-  "FullNameUA": "вулиця Лисаветинська, 44"
+  "FullNameUA": "вулиця Лисаветинська, 44",
+  "ChildsIds": []
  }
 ]

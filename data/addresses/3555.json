@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1850158184,
   "lati": 49.9814210086,
-  "FullNameUA": "вулиця Пермська, 2"
+  "FullNameUA": "вулиця Пермська, 2",
+  "ChildsIds": []
  },
  {
   "id": 153721,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1854971115,
   "lati": 49.9815350534,
-  "FullNameUA": "вулиця Пермська, 3"
+  "FullNameUA": "вулиця Пермська, 3",
+  "ChildsIds": []
  },
  {
   "id": 153722,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1851838052,
   "lati": 49.9813745387,
-  "FullNameUA": "вулиця Пермська, 4"
+  "FullNameUA": "вулиця Пермська, 4",
+  "ChildsIds": []
  },
  {
   "id": 153723,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1877808117,
   "lati": 49.9790678694,
-  "FullNameUA": "вулиця Пермська, 6"
+  "FullNameUA": "вулиця Пермська, 6",
+  "ChildsIds": []
  },
  {
   "id": 153724,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.18674481,
-  "lati": 49.98082160760001,
-  "FullNameUA": "вулиця Пермська, 9"
+  "lati": 49.9808216076,
+  "FullNameUA": "вулиця Пермська, 9",
+  "ChildsIds": []
  },
  {
   "id": 153725,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1874457749,
   "lati": 49.9811713157,
-  "FullNameUA": "вулиця Пермська, 11"
+  "FullNameUA": "вулиця Пермська, 11",
+  "ChildsIds": []
  },
  {
   "id": 153726,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1874472899,
   "lati": 49.97973202,
-  "FullNameUA": "вулиця Пермська, 12/14"
+  "FullNameUA": "вулиця Пермська, 12/14",
+  "ChildsIds": []
  },
  {
   "id": 153727,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.1882035853,
   "lati": 49.9798743485,
-  "FullNameUA": "вулиця Пермська, 13"
+  "FullNameUA": "вулиця Пермська, 13",
+  "ChildsIds": []
  },
  {
   "id": 153728,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1888343011,
   "lati": 49.979498315,
-  "FullNameUA": "вулиця Пермська, 15"
+  "FullNameUA": "вулиця Пермська, 15",
+  "ChildsIds": []
  },
  {
   "id": 153729,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.1891236516,
   "lati": 49.9793156501,
-  "FullNameUA": "вулиця Пермська, 17"
+  "FullNameUA": "вулиця Пермська, 17",
+  "ChildsIds": []
  },
  {
   "id": 153730,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1894172705,
-  "lati": 49.979129873699996,
-  "FullNameUA": "вулиця Пермська, 19"
+  "lati": 49.9791298737,
+  "FullNameUA": "вулиця Пермська, 19",
+  "ChildsIds": []
  },
  {
   "id": 153731,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1886585581,
   "lati": 49.9785791151,
-  "FullNameUA": "вулиця Пермська, 20"
+  "FullNameUA": "вулиця Пермська, 20",
+  "ChildsIds": []
  },
  {
   "id": 179588,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.1881286896,
   "lati": 49.9785522752,
-  "FullNameUA": "вулиця Пермська, 20, гараж № 5"
+  "FullNameUA": "вулиця Пермська, 20, гараж № 5",
+  "ChildsIds": []
  },
  {
   "id": 153732,
@@ -346,8 +359,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1897862175,
-  "lati": 49.979888499699996,
-  "FullNameUA": "вулиця Пермська, 21"
+  "lati": 49.9798884997,
+  "FullNameUA": "вулиця Пермська, 21",
+  "ChildsIds": []
  },
  {
   "id": 181647,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1914821818,
   "lati": 49.9794301748,
-  "FullNameUA": "вулиця Пермська, 21-А"
+  "FullNameUA": "вулиця Пермська, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 153733,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1901771584,
   "lati": 49.9787098796,
-  "FullNameUA": "вулиця Пермська, 23"
+  "FullNameUA": "вулиця Пермська, 23",
+  "ChildsIds": []
  },
  {
   "id": 153734,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1905635742,
   "lati": 49.9786316023,
-  "FullNameUA": "вулиця Пермська, 25"
+  "FullNameUA": "вулиця Пермська, 25",
+  "ChildsIds": []
  },
  {
   "id": 153735,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1875821474,
   "lati": 49.9783836237,
-  "FullNameUA": "вулиця Пермська, 27"
+  "FullNameUA": "вулиця Пермська, 27",
+  "ChildsIds": []
  },
  {
   "id": 153736,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1894929552,
   "lati": 49.9786579446,
-  "FullNameUA": "вулиця Пермська, 36"
+  "FullNameUA": "вулиця Пермська, 36",
+  "ChildsIds": []
  },
  {
   "id": 153737,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1897002342,
   "lati": 49.9785184067,
-  "FullNameUA": "вулиця Пермська, 38"
+  "FullNameUA": "вулиця Пермська, 38",
+  "ChildsIds": []
  },
  {
   "id": 153738,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1899049214,
   "lati": 49.9783815888,
-  "FullNameUA": "вулиця Пермська, 40"
+  "FullNameUA": "вулиця Пермська, 40",
+  "ChildsIds": []
  },
  {
   "id": 153739,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.1900801109,
   "lati": 49.9782661,
-  "FullNameUA": "вулиця Пермська, 42"
+  "FullNameUA": "вулиця Пермська, 42",
+  "ChildsIds": []
  },
  {
   "id": 153740,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.190679657,
   "lati": 49.9779111525,
-  "FullNameUA": "вулиця Пермська, 46"
+  "FullNameUA": "вулиця Пермська, 46",
+  "ChildsIds": []
  },
  {
   "id": 153741,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.1909533359,
   "lati": 49.9781107673,
-  "FullNameUA": "вулиця Пермська, 47"
+  "FullNameUA": "вулиця Пермська, 47",
+  "ChildsIds": []
  },
  {
   "id": 153742,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.1908945248,
   "lati": 49.9777434932,
-  "FullNameUA": "вулиця Пермська, 48"
+  "FullNameUA": "вулиця Пермська, 48",
+  "ChildsIds": []
  },
  {
   "id": 153743,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.1911888268,
   "lati": 49.9779558563,
-  "FullNameUA": "вулиця Пермська, 49"
+  "FullNameUA": "вулиця Пермська, 49",
+  "ChildsIds": []
  },
  {
   "id": 153744,
@@ -670,34 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.191161771299996,
+  "longt": 36.1911617713,
   "lati": 49.9775860903,
-  "FullNameUA": "вулиця Пермська, 50"
- },
- {
-  "id": 153745,
-  "postcode": 61064,
-  "number": 51,
-  "suffix": "",
-  "block": "",
-  "streetid": 3555,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.191408273,
-  "lati": 49.9778363279,
-  "FullNameUA": "вулиця Пермська, 51"
+  "FullNameUA": "вулиця Пермська, 50",
+  "ChildsIds": []
  },
  {
   "id": 153746,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.1918266092,
   "lati": 49.9776869254,
-  "FullNameUA": "вулиця Пермська, 51-А"
+  "FullNameUA": "вулиця Пермська, 51-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 153745,
+  "postcode": 61064,
+  "number": 51,
+  "suffix": "",
+  "block": "",
+  "streetid": 3555,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.191408273,
+  "lati": 49.9778363279,
+  "FullNameUA": "вулиця Пермська, 51",
+  "ChildsIds": []
  },
  {
   "id": 153747,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1914058804,
   "lati": 49.9774391147,
-  "FullNameUA": "вулиця Пермська, 52"
+  "FullNameUA": "вулиця Пермська, 52",
+  "ChildsIds": []
  },
  {
   "id": 153748,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.1919015315,
   "lati": 49.9775295313,
-  "FullNameUA": "вулиця Пермська, 53"
+  "FullNameUA": "вулиця Пермська, 53",
+  "ChildsIds": []
  },
  {
   "id": 177391,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.1915813765,
   "lati": 49.9773446109,
-  "FullNameUA": "вулиця Пермська, 54/42"
+  "FullNameUA": "вулиця Пермська, 54/42",
+  "ChildsIds": []
  },
  {
   "id": 153749,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.1923227975,
   "lati": 49.9774977825,
-  "FullNameUA": "вулиця Пермська, 55"
+  "FullNameUA": "вулиця Пермська, 55",
+  "ChildsIds": []
  },
  {
   "id": 153750,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.191982263099995,
+  "longt": 36.1919822631,
   "lati": 49.9771020067,
-  "FullNameUA": "вулиця Пермська, 56"
+  "FullNameUA": "вулиця Пермська, 56",
+  "ChildsIds": []
  },
  {
   "id": 153751,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.1924798103,
   "lati": 49.9771350799,
-  "FullNameUA": "вулиця Пермська, 57"
+  "FullNameUA": "вулиця Пермська, 57",
+  "ChildsIds": []
  },
  {
   "id": 153752,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1920678916,
   "lati": 49.9770401652,
-  "FullNameUA": "вулиця Пермська, 58"
+  "FullNameUA": "вулиця Пермська, 58",
+  "ChildsIds": []
  },
  {
   "id": 153753,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192789841199996,
-  "lati": 49.976932196599996,
-  "FullNameUA": "вулиця Пермська, 59"
+  "longt": 36.1927898412,
+  "lati": 49.9769321966,
+  "FullNameUA": "вулиця Пермська, 59",
+  "ChildsIds": []
  },
  {
   "id": 153754,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.1923570022,
   "lati": 49.9768476136,
-  "FullNameUA": "вулиця Пермська, 60"
+  "FullNameUA": "вулиця Пермська, 60",
+  "ChildsIds": []
  },
  {
   "id": 153755,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1929841293,
   "lati": 49.9768106443,
-  "FullNameUA": "вулиця Пермська, 61"
+  "FullNameUA": "вулиця Пермська, 61",
+  "ChildsIds": []
  },
  {
   "id": 153756,
@@ -995,34 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192480753999995,
+  "longt": 36.192480754,
   "lati": 49.9767859314,
-  "FullNameUA": "вулиця Пермська, 62"
- },
- {
-  "id": 153758,
-  "postcode": 61064,
-  "number": 63,
-  "suffix": "",
-  "block": "",
-  "streetid": 3555,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.1935228618,
-  "lati": 49.9767063984,
-  "FullNameUA": "вулиця Пермська, 63"
+  "FullNameUA": "вулиця Пермська, 62",
+  "ChildsIds": []
  },
  {
   "id": 153757,
@@ -1047,7 +1062,34 @@
   "reg_date": "",
   "longt": 36.1931939455,
   "lati": 49.9766706821,
-  "FullNameUA": "вулиця Пермська, 63-А"
+  "FullNameUA": "вулиця Пермська, 63-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 153758,
+  "postcode": 61064,
+  "number": 63,
+  "suffix": "",
+  "block": "",
+  "streetid": 3555,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:2000",
+  "reg_date": "",
+  "longt": 36.1935228618,
+  "lati": 49.9767063984,
+  "FullNameUA": "вулиця Пермська, 63",
+  "ChildsIds": []
  },
  {
   "id": 153759,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.1925302636,
   "lati": 49.976629879,
-  "FullNameUA": "вулиця Пермська, 64"
+  "FullNameUA": "вулиця Пермська, 64",
+  "ChildsIds": []
  },
  {
   "id": 153760,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.1934116905,
   "lati": 49.9765418922,
-  "FullNameUA": "вулиця Пермська, 65"
+  "FullNameUA": "вулиця Пермська, 65",
+  "ChildsIds": []
  },
  {
   "id": 153761,
@@ -1120,34 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192700566199996,
+  "longt": 36.1927005662,
   "lati": 49.9766427746,
-  "FullNameUA": "вулиця Пермська, 66"
- },
- {
-  "id": 153763,
-  "postcode": 61064,
-  "number": 67,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3555,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.193826615599995,
-  "lati": 49.9762799382,
-  "FullNameUA": "вулиця Пермська, 67-А"
+  "FullNameUA": "вулиця Пермська, 66",
+  "ChildsIds": []
  },
  {
   "id": 153762,
@@ -1172,7 +1192,34 @@
   "reg_date": "",
   "longt": 36.1936158866,
   "lati": 49.9764097334,
-  "FullNameUA": "вулиця Пермська, 67"
+  "FullNameUA": "вулиця Пермська, 67",
+  "ChildsIds": []
+ },
+ {
+  "id": 153763,
+  "postcode": 61064,
+  "number": 67,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3555,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1938266156,
+  "lati": 49.9762799382,
+  "FullNameUA": "вулиця Пермська, 67-А",
+  "ChildsIds": []
  },
  {
   "id": 153764,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193030565499996,
+  "longt": 36.1930305655,
   "lati": 49.9764367972,
-  "FullNameUA": "вулиця Пермська, 68"
+  "FullNameUA": "вулиця Пермська, 68",
+  "ChildsIds": []
  },
  {
   "id": 153765,
@@ -1222,6 +1270,7 @@
   "reg_date": "",
   "longt": 36.1932373939,
   "lati": 49.9762905914,
-  "FullNameUA": "вулиця Пермська, 70"
+  "FullNameUA": "вулиця Пермська, 70",
+  "ChildsIds": []
  }
 ]

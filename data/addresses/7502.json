@@ -22,6 +22,37 @@
   "reg_date": "",
   "longt": 36.3141456298,
   "lati": 49.9291878808,
-  "FullNameUA": "вулиця Гагаріна (сел. Федірці), 1"
+  "FullNameUA": "вулиця Гагаріна (сел. Федірці), 1",
+  "ChildsIds": [
+   171504
+  ]
+ },
+ {
+  "id": 181983,
+  "postcode": 61162,
+  "number": 24,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 7502,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.01.2020 11:16:26",
+  "longt": 36.3193171335,
+  "lati": 49.9271961062,
+  "FullNameUA": "вулиця Гагаріна (сел. Федірці), 24/1",
+  "ChildsIds": [
+   171615
+  ]
  }
 ]

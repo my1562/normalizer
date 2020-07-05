@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232259447500006,
+  "longt": 36.2322594475,
   "lati": 49.9858912205,
-  "FullNameUA": "провулок Лопатинський, 1"
+  "FullNameUA": "провулок Лопатинський, 1",
+  "ChildsIds": []
  },
  {
   "id": 162982,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "кв. (ріш. 821), 23.11.2016",
   "reg_date": "",
-  "longt": 36.231638789200005,
-  "lati": 49.98597956890001,
-  "FullNameUA": "провулок Лопатинський, 2"
+  "longt": 36.2316387892,
+  "lati": 49.9859795689,
+  "FullNameUA": "провулок Лопатинський, 2",
+  "ChildsIds": []
  },
  {
   "id": 162983,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.232325127,
   "lati": 49.9858106495,
-  "FullNameUA": "провулок Лопатинський, 3"
+  "FullNameUA": "провулок Лопатинський, 3",
+  "ChildsIds": []
  },
  {
   "id": 162984,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232591006300005,
-  "lati": 49.985797940400005,
-  "FullNameUA": "провулок Лопатинський, 3-Б"
+  "longt": 36.2325910063,
+  "lati": 49.9857979404,
+  "FullNameUA": "провулок Лопатинський, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 162985,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2325844152,
-  "lati": 49.985709751600005,
-  "FullNameUA": "провулок Лопатинський, 3-В"
+  "lati": 49.9857097516,
+  "FullNameUA": "провулок Лопатинський, 3-В",
+  "ChildsIds": []
  },
  {
   "id": 162987,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232129067600006,
+  "longt": 36.2321290676,
   "lati": 49.9854345107,
-  "FullNameUA": "провулок Лопатинський, 4-А"
+  "FullNameUA": "провулок Лопатинський, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 162986,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231959936200006,
-  "lati": 49.985640216200004,
-  "FullNameUA": "провулок Лопатинський, 4"
+  "longt": 36.2319599362,
+  "lati": 49.9856402162,
+  "FullNameUA": "провулок Лопатинський, 4",
+  "ChildsIds": []
  },
  {
   "id": 162988,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232531480400006,
+  "longt": 36.2325314804,
   "lati": 49.9855259543,
-  "FullNameUA": "провулок Лопатинський, 5"
+  "FullNameUA": "провулок Лопатинський, 5",
+  "ChildsIds": []
  },
  {
   "id": 162989,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23217384790001,
-  "lati": 49.985157937400004,
-  "FullNameUA": "провулок Лопатинський, 6"
+  "longt": 36.2321738479,
+  "lati": 49.9851579374,
+  "FullNameUA": "провулок Лопатинський, 6",
+  "ChildsIds": []
  },
  {
   "id": 162990,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2327285176,
   "lati": 49.9854178729,
-  "FullNameUA": "провулок Лопатинський, 7"
+  "FullNameUA": "провулок Лопатинський, 7",
+  "ChildsIds": []
  },
  {
   "id": 162991,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.23219616,
   "lati": 49.985091863,
-  "FullNameUA": "провулок Лопатинський, 8"
+  "FullNameUA": "провулок Лопатинський, 8",
+  "ChildsIds": []
  },
  {
   "id": 162992,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2331498503,
-  "lati": 49.985451257200005,
-  "FullNameUA": "провулок Лопатинський, 9"
+  "lati": 49.9854512572,
+  "FullNameUA": "провулок Лопатинський, 9",
+  "ChildsIds": []
  },
  {
   "id": 162993,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23257204390001,
-  "lati": 49.984945033200006,
-  "FullNameUA": "провулок Лопатинський, 10"
+  "longt": 36.2325720439,
+  "lati": 49.9849450332,
+  "FullNameUA": "провулок Лопатинський, 10",
+  "ChildsIds": []
  },
  {
   "id": 162994,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2334021726,
-  "lati": 49.98462343640001,
-  "FullNameUA": "провулок Лопатинський, 11-Б"
+  "lati": 49.9846234364,
+  "FullNameUA": "провулок Лопатинський, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 162995,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23304099560001,
-  "lati": 49.98450344410001,
-  "FullNameUA": "провулок Лопатинський, 12"
+  "longt": 36.2330409956,
+  "lati": 49.9845034441,
+  "FullNameUA": "провулок Лопатинський, 12",
+  "ChildsIds": []
  },
  {
   "id": 162996,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2336125112,
   "lati": 49.9845313953,
-  "FullNameUA": "провулок Лопатинський, 13"
+  "FullNameUA": "провулок Лопатинський, 13",
+  "ChildsIds": []
  },
  {
   "id": 162997,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233251344100005,
-  "lati": 49.98430217960001,
-  "FullNameUA": "провулок Лопатинський, 14"
+  "longt": 36.2332513441,
+  "lati": 49.9843021796,
+  "FullNameUA": "провулок Лопатинський, 14",
+  "ChildsIds": []
  },
  {
   "id": 162998,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233770058100006,
-  "lati": 49.984287506200005,
-  "FullNameUA": "провулок Лопатинський, 15"
+  "longt": 36.2337700581,
+  "lati": 49.9842875062,
+  "FullNameUA": "провулок Лопатинський, 15",
+  "ChildsIds": []
  },
  {
   "id": 162999,
@@ -472,32 +490,8 @@
   "reg_date": "",
   "longt": 36.2335808969,
   "lati": 49.9837851475,
-  "FullNameUA": "провулок Лопатинський, 16"
- },
- {
-  "id": 163001,
-  "postcode": 61003,
-  "number": 17,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3151,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2338114117,
-  "lati": 49.984022466300004,
-  "FullNameUA": "провулок Лопатинський, 17-В"
+  "FullNameUA": "провулок Лопатинський, 16",
+  "ChildsIds": []
  },
  {
   "id": 163000,
@@ -520,59 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233967742100006,
+  "longt": 36.2339677421,
   "lati": 49.9837055395,
-  "FullNameUA": "провулок Лопатинський, 17"
- },
- {
-  "id": 163002,
-  "postcode": 61003,
-  "number": 17,
-  "suffix": "Е",
-  "block": "",
-  "streetid": 3151,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.233906384200004,
-  "lati": 49.983813768400005,
-  "FullNameUA": "провулок Лопатинський, 17-Е"
- },
- {
-  "id": 163003,
-  "postcode": 61003,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3151,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.233512420900006,
-  "lati": 49.983565322800004,
-  "FullNameUA": "провулок Лопатинський, 18"
+  "FullNameUA": "провулок Лопатинський, 17",
+  "ChildsIds": []
  },
  {
   "id": 163005,
@@ -595,9 +540,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23282260920001,
-  "lati": 49.983938989900004,
-  "FullNameUA": "провулок Лопатинський, 18-Ж"
+  "longt": 36.2328226092,
+  "lati": 49.9839389899,
+  "FullNameUA": "провулок Лопатинський, 18-Ж",
+  "ChildsIds": []
+ },
+ {
+  "id": 163003,
+  "postcode": 61003,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3151,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2335124209,
+  "lati": 49.9835653228,
+  "FullNameUA": "провулок Лопатинський, 18",
+  "ChildsIds": []
  },
  {
   "id": 163004,
@@ -620,8 +592,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233004482000005,
+  "longt": 36.233004482,
   "lati": 49.9839784113,
-  "FullNameUA": "провулок Лопатинський, 18-Б"
+  "FullNameUA": "провулок Лопатинський, 18-Б",
+  "ChildsIds": []
  }
 ]

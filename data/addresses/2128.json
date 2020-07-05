@@ -22,13 +22,14 @@
   "reg_date": "",
   "longt": 36.2224179626,
   "lati": 50.0157529901,
-  "FullNameUA": "вулиця Бакуліна, 1"
+  "FullNameUA": "вулиця Бакуліна, 1",
+  "ChildsIds": []
  },
  {
-  "id": 115116,
+  "id": 115117,
   "postcode": 61166,
   "number": 3,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 2128,
   "status_id": 1,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2239245367,
-  "lati": 50.015831148699995,
-  "FullNameUA": "вулиця Бакуліна, 3"
+  "longt": 36.2235301401,
+  "lati": 50.0164178775,
+  "FullNameUA": "вулиця Бакуліна, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 115118,
@@ -72,13 +74,14 @@
   "reg_date": "",
   "longt": 36.2243475756,
   "lati": 50.0163386408,
-  "FullNameUA": "вулиця Бакуліна, 3-Б"
+  "FullNameUA": "вулиця Бакуліна, 3-Б",
+  "ChildsIds": []
  },
  {
-  "id": 115117,
+  "id": 115116,
   "postcode": 61166,
   "number": 3,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 2128,
   "status_id": 1,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223530140099996,
-  "lati": 50.0164178775,
-  "FullNameUA": "вулиця Бакуліна, 3-А"
+  "longt": 36.2239245367,
+  "lati": 50.0158311487,
+  "FullNameUA": "вулиця Бакуліна, 3",
+  "ChildsIds": []
  },
  {
   "id": 115119,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222958827999996,
+  "longt": 36.222958828,
   "lati": 50.0153663443,
-  "FullNameUA": "вулиця Бакуліна, 4"
+  "FullNameUA": "вулиця Бакуліна, 4",
+  "ChildsIds": []
  },
  {
   "id": 115120,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.223406724,
   "lati": 50.0153550796,
-  "FullNameUA": "вулиця Бакуліна, 4-А"
+  "FullNameUA": "вулиця Бакуліна, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 115121,
@@ -172,32 +178,8 @@
   "reg_date": "",
   "longt": 36.2242194985,
   "lati": 50.015507323,
-  "FullNameUA": "вулиця Бакуліна, 6"
- },
- {
-  "id": 115122,
-  "postcode": 61166,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 2128,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.226940333099996,
-  "lati": 50.0162585779,
-  "FullNameUA": "вулиця Бакуліна, 9"
+  "FullNameUA": "вулиця Бакуліна, 6",
+  "ChildsIds": []
  },
  {
   "id": 115123,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.2299157573,
   "lati": 50.0165769084,
-  "FullNameUA": "вулиця Бакуліна, 9/13"
+  "FullNameUA": "вулиця Бакуліна, 9/13",
+  "ChildsIds": []
+ },
+ {
+  "id": 115122,
+  "postcode": 61166,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2128,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2269403331,
+  "lati": 50.0162585779,
+  "FullNameUA": "вулиця Бакуліна, 9",
+  "ChildsIds": []
  },
  {
   "id": 115124,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2270991065,
   "lati": 50.0158778307,
-  "FullNameUA": "вулиця Бакуліна, 10"
+  "FullNameUA": "вулиця Бакуліна, 10",
+  "ChildsIds": []
  },
  {
   "id": 115125,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2276811822,
   "lati": 50.0164013043,
-  "FullNameUA": "вулиця Бакуліна, 11"
+  "FullNameUA": "вулиця Бакуліна, 11",
+  "ChildsIds": []
  },
  {
   "id": 115126,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2282070068,
   "lati": 50.0160076398,
-  "FullNameUA": "вулиця Бакуліна, 12"
+  "FullNameUA": "вулиця Бакуліна, 12",
+  "ChildsIds": []
  },
  {
   "id": 179824,
@@ -322,7 +334,8 @@
   "reg_date": "19.10.2018 09:44:30",
   "longt": 36.228664342,
   "lati": 50.0157861681,
-  "FullNameUA": "вулиця Бакуліна, 12-Б, гараж № 2"
+  "FullNameUA": "вулиця Бакуліна, 12-Б, гараж № 2",
+  "ChildsIds": []
  },
  {
   "id": 115127,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2286556879,
   "lati": 50.0165418577,
-  "FullNameUA": "вулиця Бакуліна, 13"
+  "FullNameUA": "вулиця Бакуліна, 13",
+  "ChildsIds": []
  },
  {
   "id": 115128,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2292322232,
   "lati": 50.0161554575,
-  "FullNameUA": "вулиця Бакуліна, 14"
+  "FullNameUA": "вулиця Бакуліна, 14",
+  "ChildsIds": []
  },
  {
   "id": 115129,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2302774516,
   "lati": 50.0162669388,
-  "FullNameUA": "вулиця Бакуліна, 16"
+  "FullNameUA": "вулиця Бакуліна, 16",
+  "ChildsIds": []
  },
  {
   "id": 115130,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2310502097,
   "lati": 50.016790864,
-  "FullNameUA": "вулиця Бакуліна, 17-А"
+  "FullNameUA": "вулиця Бакуліна, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 115131,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23083834170001,
+  "longt": 36.2308383417,
   "lati": 50.0166802556,
-  "FullNameUA": "вулиця Бакуліна, 17/14"
+  "FullNameUA": "вулиця Бакуліна, 17/14",
+  "ChildsIds": []
  },
  {
   "id": 115132,
@@ -470,9 +488,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231741351100005,
+  "longt": 36.2317413511,
   "lati": 50.0165144992,
-  "FullNameUA": "вулиця Бакуліна, 18"
+  "FullNameUA": "вулиця Бакуліна, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 183121,
+  "postcode": 61166,
+  "number": 19,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2128,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2310229841,
+  "lati": 50.0171653457,
+  "FullNameUA": "вулиця Бакуліна, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 115133,
@@ -495,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.231074184200004,
+  "longt": 36.2310741842,
   "lati": 50.0169260607,
-  "FullNameUA": "вулиця Бакуліна, 19"
+  "FullNameUA": "вулиця Бакуліна, 19",
+  "ChildsIds": []
  },
  {
   "id": 115134,
@@ -520,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231670832000006,
+  "longt": 36.231670832,
   "lati": 50.0168499556,
-  "FullNameUA": "вулиця Бакуліна, 21"
+  "FullNameUA": "вулиця Бакуліна, 21",
+  "ChildsIds": []
  },
  {
   "id": 115135,
@@ -546,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2320854968,
-  "lati": 50.016990676199995,
-  "FullNameUA": "вулиця Бакуліна, 23"
+  "lati": 50.0169906762,
+  "FullNameUA": "вулиця Бакуліна, 23",
+  "ChildsIds": []
  },
  {
   "id": 115136,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232506408400006,
+  "longt": 36.2325064084,
   "lati": 50.0170981049,
-  "FullNameUA": "вулиця Бакуліна, 25"
+  "FullNameUA": "вулиця Бакуліна, 25",
+  "ChildsIds": []
  },
  {
   "id": 115138,
@@ -595,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23293794920001,
+  "longt": 36.2329379492,
   "lati": 50.0172080229,
-  "FullNameUA": "вулиця Бакуліна, 27"
+  "FullNameUA": "вулиця Бакуліна, 27",
+  "ChildsIds": []
  },
  {
   "id": 115137,
@@ -622,7 +672,8 @@
   "reg_date": "",
   "longt": 36.232644927,
   "lati": 50.016844119,
-  "FullNameUA": "вулиця Бакуліна, 28/16"
+  "FullNameUA": "вулиця Бакуліна, 28/16",
+  "ChildsIds": []
  },
  {
   "id": 115139,
@@ -647,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2329165896,
   "lati": 50.0167842865,
-  "FullNameUA": "вулиця Бакуліна, 28"
+  "FullNameUA": "вулиця Бакуліна, 28",
+  "ChildsIds": []
  },
  {
   "id": 115140,
@@ -670,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23319957340001,
+  "longt": 36.2331995734,
   "lati": 50.0173628664,
-  "FullNameUA": "вулиця Бакуліна, 29"
+  "FullNameUA": "вулиця Бакуліна, 29",
+  "ChildsIds": []
  },
  {
   "id": 115141,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233080337000004,
-  "lati": 50.016972697199996,
-  "FullNameUA": "вулиця Бакуліна, 30"
+  "longt": 36.233080337,
+  "lati": 50.0169726972,
+  "FullNameUA": "вулиця Бакуліна, 30",
+  "ChildsIds": []
  },
  {
   "id": 115143,
@@ -720,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233632544100004,
+  "longt": 36.2336325441,
   "lati": 50.0174698695,
-  "FullNameUA": "вулиця Бакуліна, 31/21"
+  "FullNameUA": "вулиця Бакуліна, 31/21",
+  "ChildsIds": []
  },
  {
   "id": 115142,
@@ -745,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23353971820001,
+  "longt": 36.2335397182,
   "lati": 50.017351847,
-  "FullNameUA": "вулиця Бакуліна, 31"
+  "FullNameUA": "вулиця Бакуліна, 31",
+  "ChildsIds": []
  },
  {
   "id": 115144,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233347424200005,
+  "longt": 36.2333474242,
   "lati": 50.017028879,
-  "FullNameUA": "вулиця Бакуліна, 32"
+  "FullNameUA": "вулиця Бакуліна, 32",
+  "ChildsIds": []
  },
  {
   "id": 115145,
@@ -795,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР №135, 05.03.2014; 822, 23.11.2016; 453, 21.12.2016",
   "reg_date": "03.02.2017 12:47:41",
-  "longt": 36.234506168900005,
-  "lati": 50.017668124299995,
-  "FullNameUA": "вулиця Бакуліна, 33"
+  "longt": 36.2345061689,
+  "lati": 50.0176681243,
+  "FullNameUA": "вулиця Бакуліна, 33",
+  "ChildsIds": []
  },
  {
   "id": 115146,
@@ -819,10 +877,11 @@
   "source_id": 0,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.233561595800005,
+  "reg_date": "20.01.2020 16:18:37",
+  "longt": 36.2335615958,
   "lati": 50.0170839726,
-  "FullNameUA": "вулиця Бакуліна, 34"
+  "FullNameUA": "вулиця Бакуліна, 34",
+  "ChildsIds": []
  },
  {
   "id": 115147,
@@ -845,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233851113200004,
+  "longt": 36.2338511132,
   "lati": 50.0171688347,
-  "FullNameUA": "вулиця Бакуліна, 36/19"
+  "FullNameUA": "вулиця Бакуліна, 36/19",
+  "ChildsIds": []
  },
  {
   "id": 115148,
@@ -871,8 +931,9 @@
   "confrm": "in4",
   "reg_date": "",
   "longt": 36.2342582208,
-  "lati": 50.017271534399995,
-  "FullNameUA": "вулиця Бакуліна, 38"
+  "lati": 50.0172715344,
+  "FullNameUA": "вулиця Бакуліна, 38",
+  "ChildsIds": []
  },
  {
   "id": 115149,
@@ -895,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234693934700005,
+  "longt": 36.2346939347,
   "lati": 50.0172056109,
-  "FullNameUA": "вулиця Бакуліна, 40"
+  "FullNameUA": "вулиця Бакуліна, 40",
+  "ChildsIds": []
  },
  {
   "id": 115150,
@@ -922,6 +984,7 @@
   "reg_date": "",
   "longt": 36.234903279,
   "lati": 50.0174270312,
-  "FullNameUA": "вулиця Бакуліна, 42"
+  "FullNameUA": "вулиця Бакуліна, 42",
+  "ChildsIds": []
  }
 ]

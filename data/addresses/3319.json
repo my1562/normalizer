@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193321132899996,
+  "longt": 36.1933211329,
   "lati": 49.9864069125,
-  "FullNameUA": "вулиця Озерянська, 1"
+  "FullNameUA": "вулиця Озерянська, 1",
+  "ChildsIds": []
  },
  {
   "id": 142226,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1929705277,
   "lati": 49.9868368508,
-  "FullNameUA": "вулиця Озерянська, 3"
+  "FullNameUA": "вулиця Озерянська, 3",
+  "ChildsIds": []
  },
  {
   "id": 142227,
@@ -72,32 +74,8 @@
   "reg_date": "",
   "longt": 36.1928026322,
   "lati": 49.9872902716,
-  "FullNameUA": "вулиця Озерянська, 5"
- },
- {
-  "id": 142229,
-  "postcode": 61093,
-  "number": 7,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.192575683,
-  "lati": 49.988660206300004,
-  "FullNameUA": "вулиця Озерянська, 7-А"
+  "FullNameUA": "вулиця Озерянська, 5",
+  "ChildsIds": []
  },
  {
   "id": 142228,
@@ -121,14 +99,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1923356811,
-  "lati": 49.988613030500005,
-  "FullNameUA": "вулиця Озерянська, 7"
+  "lati": 49.9886130305,
+  "FullNameUA": "вулиця Озерянська, 7",
+  "ChildsIds": []
  },
  {
-  "id": 142231,
+  "id": 142229,
   "postcode": 61093,
-  "number": 8,
-  "suffix": "/10",
+  "number": 7,
+  "suffix": "А",
   "block": "",
   "streetid": 3319,
   "status_id": 1,
@@ -143,11 +122,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.193480379899995,
-  "lati": 49.987434729200004,
-  "FullNameUA": "вулиця Озерянська, 8/10"
+  "longt": 36.192575683,
+  "lati": 49.9886602063,
+  "FullNameUA": "вулиця Озерянська, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 142230,
@@ -171,8 +151,35 @@
   "confrm": "градврхив",
   "reg_date": "",
   "longt": 36.1935303792,
-  "lati": 49.987023131300006,
-  "FullNameUA": "вулиця Озерянська, 8"
+  "lati": 49.9870231313,
+  "FullNameUA": "вулиця Озерянська, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 142231,
+  "postcode": 61093,
+  "number": 8,
+  "suffix": "/10",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1934803799,
+  "lati": 49.9874347292,
+  "FullNameUA": "вулиця Озерянська, 8/10",
+  "ChildsIds": []
  },
  {
   "id": 142232,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1926252997,
-  "lati": 49.989091176600006,
-  "FullNameUA": "вулиця Озерянська, 9"
+  "lati": 49.9890911766,
+  "FullNameUA": "вулиця Озерянська, 9",
+  "ChildsIds": []
  },
  {
   "id": 142233,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193395010399996,
-  "lati": 49.987569263900006,
-  "FullNameUA": "вулиця Озерянська, 10"
+  "longt": 36.1933950104,
+  "lati": 49.9875692639,
+  "FullNameUA": "вулиця Озерянська, 10",
+  "ChildsIds": []
  },
  {
   "id": 142234,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.1926119268,
   "lati": 49.9892545557,
-  "FullNameUA": "вулиця Озерянська, 11"
+  "FullNameUA": "вулиця Озерянська, 11",
+  "ChildsIds": []
  },
  {
   "id": 142235,
@@ -271,8 +281,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1937758103,
-  "lati": 49.987765300700005,
-  "FullNameUA": "вулиця Озерянська, 12"
+  "lati": 49.9877653007,
+  "FullNameUA": "вулиця Озерянська, 12",
+  "ChildsIds": []
  },
  {
   "id": 142236,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1926119198,
-  "lati": 49.98953411750001,
-  "FullNameUA": "вулиця Озерянська, 13"
+  "lati": 49.9895341175,
+  "FullNameUA": "вулиця Озерянська, 13",
+  "ChildsIds": []
  },
  {
   "id": 175302,
@@ -321,8 +333,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1940454679,
-  "lati": 49.987957178100004,
-  "FullNameUA": "вулиця Озерянська, 14-А"
+  "lati": 49.9879571781,
+  "FullNameUA": "вулиця Озерянська, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 175303,
@@ -347,7 +360,34 @@
   "reg_date": "",
   "longt": 36.1935990684,
   "lati": 49.9879587411,
-  "FullNameUA": "вулиця Озерянська, 14"
+  "FullNameUA": "вулиця Озерянська, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 142237,
+  "postcode": 61093,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1926783306,
+  "lati": 49.9897257243,
+  "FullNameUA": "вулиця Озерянська, 15",
+  "ChildsIds": []
  },
  {
   "id": 142238,
@@ -371,33 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1926736748,
-  "lati": 49.989870524400004,
-  "FullNameUA": "вулиця Озерянська, 15-А"
- },
- {
-  "id": 142237,
-  "postcode": 61093,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.192678330599996,
-  "lati": 49.9897257243,
-  "FullNameUA": "вулиця Озерянська, 15"
+  "lati": 49.9898705244,
+  "FullNameUA": "вулиця Озерянська, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 142239,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193834035799995,
-  "lati": 49.988200641000006,
-  "FullNameUA": "вулиця Озерянська, 16"
+  "longt": 36.1938340358,
+  "lati": 49.988200641,
+  "FullNameUA": "вулиця Озерянська, 16",
+  "ChildsIds": []
  },
  {
   "id": 142240,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1926922779,
-  "lati": 49.989977036800006,
-  "FullNameUA": "вулиця Озерянська, 17"
+  "lati": 49.9899770368,
+  "FullNameUA": "вулиця Озерянська, 17",
+  "ChildsIds": []
  },
  {
   "id": 142241,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1932951147,
   "lati": 49.9881563562,
-  "FullNameUA": "вулиця Озерянська, 18"
+  "FullNameUA": "вулиця Озерянська, 18",
+  "ChildsIds": []
  },
  {
   "id": 142242,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1927195074,
   "lati": 49.9902682169,
-  "FullNameUA": "вулиця Озерянська, 19"
+  "FullNameUA": "вулиця Озерянська, 19",
+  "ChildsIds": []
  },
  {
   "id": 142243,
@@ -520,34 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193139443899994,
+  "longt": 36.1931394439,
   "lati": 49.9883629973,
-  "FullNameUA": "вулиця Озерянська, 20"
- },
- {
-  "id": 142244,
-  "postcode": 61093,
-  "number": 21,
-  "suffix": "",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1927398668,
-  "lati": 49.9904909811,
-  "FullNameUA": "вулиця Озерянська, 21"
+  "FullNameUA": "вулиця Озерянська, 20",
+  "ChildsIds": []
  },
  {
   "id": 142245,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.1927552675,
   "lati": 49.990836342,
-  "FullNameUA": "вулиця Озерянська, 21-А"
+  "FullNameUA": "вулиця Озерянська, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 142244,
+  "postcode": 61093,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1927398668,
+  "lati": 49.9904909811,
+  "FullNameUA": "вулиця Озерянська, 21",
+  "ChildsIds": []
  },
  {
   "id": 142246,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.19360045,
   "lati": 49.9917243998,
-  "FullNameUA": "вулиця Озерянська, 23"
+  "FullNameUA": "вулиця Озерянська, 23",
+  "ChildsIds": []
  },
  {
   "id": 142247,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194618532199996,
+  "longt": 36.1946185322,
   "lati": 49.9944753244,
-  "FullNameUA": "вулиця Озерянська, 23-А"
+  "FullNameUA": "вулиця Озерянська, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 142248,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1931456014,
-  "lati": 49.988642769200005,
-  "FullNameUA": "вулиця Озерянська, 24"
+  "lati": 49.9886427692,
+  "FullNameUA": "вулиця Озерянська, 24",
+  "ChildsIds": []
  },
  {
   "id": 142249,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193819444199995,
+  "longt": 36.1938194442,
   "lati": 49.9919465136,
-  "FullNameUA": "вулиця Озерянська, 25"
+  "FullNameUA": "вулиця Озерянська, 25",
+  "ChildsIds": []
  },
  {
   "id": 142250,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.1931579519,
   "lati": 49.9888228917,
-  "FullNameUA": "вулиця Озерянська, 26"
+  "FullNameUA": "вулиця Озерянська, 26",
+  "ChildsIds": []
  },
  {
   "id": 142251,
@@ -721,8 +749,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1939844443,
-  "lati": 49.992068914600004,
-  "FullNameUA": "вулиця Озерянська, 27"
+  "lati": 49.9920689146,
+  "FullNameUA": "вулиця Озерянська, 27",
+  "ChildsIds": []
  },
  {
   "id": 142252,
@@ -746,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1931723442,
-  "lati": 49.989035760300006,
-  "FullNameUA": "вулиця Озерянська, 28"
+  "lati": 49.9890357603,
+  "FullNameUA": "вулиця Озерянська, 28",
+  "ChildsIds": []
  },
  {
   "id": 142253,
@@ -770,34 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194226398199994,
+  "longt": 36.1942263982,
   "lati": 49.9923271595,
-  "FullNameUA": "вулиця Озерянська, 29"
- },
- {
-  "id": 142255,
-  "postcode": 61093,
-  "number": 30,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.193245777399994,
-  "lati": 49.989414975,
-  "FullNameUA": "вулиця Озерянська, 30-А"
+  "FullNameUA": "вулиця Озерянська, 29",
+  "ChildsIds": []
  },
  {
   "id": 142254,
@@ -822,7 +828,34 @@
   "reg_date": "",
   "longt": 36.1932096323,
   "lati": 49.9892337786,
-  "FullNameUA": "вулиця Озерянська, 30"
+  "FullNameUA": "вулиця Озерянська, 30",
+  "ChildsIds": []
+ },
+ {
+  "id": 142255,
+  "postcode": 61093,
+  "number": 30,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1932457774,
+  "lati": 49.989414975,
+  "FullNameUA": "вулиця Озерянська, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 142256,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.1944232934,
   "lati": 49.9925340129,
-  "FullNameUA": "вулиця Озерянська, 31"
+  "FullNameUA": "вулиця Озерянська, 31",
+  "ChildsIds": []
  },
  {
   "id": 142258,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193279895399996,
-  "lati": 49.989753065500004,
-  "FullNameUA": "вулиця Озерянська, 32-А"
+  "longt": 36.1932798954,
+  "lati": 49.9897530655,
+  "FullNameUA": "вулиця Озерянська, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 142257,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1932323836,
   "lati": 49.9895241428,
-  "FullNameUA": "вулиця Озерянська, 32"
+  "FullNameUA": "вулиця Озерянська, 32",
+  "ChildsIds": []
  },
  {
   "id": 142259,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194489204199996,
+  "longt": 36.1944892042,
   "lati": 49.9926111546,
-  "FullNameUA": "вулиця Озерянська, 33"
+  "FullNameUA": "вулиця Озерянська, 33",
+  "ChildsIds": []
  },
  {
   "id": 142261,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.1933071947,
   "lati": 49.9902037915,
-  "FullNameUA": "вулиця Озерянська, 34-А"
+  "FullNameUA": "вулиця Озерянська, 34-А",
+  "ChildsIds": []
  },
  {
   "id": 142260,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1932932927,
   "lati": 49.9900491995,
-  "FullNameUA": "вулиця Озерянська, 34"
+  "FullNameUA": "вулиця Озерянська, 34",
+  "ChildsIds": []
  },
  {
   "id": 142262,
@@ -996,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1946144664,
-  "lati": 49.992733595000004,
-  "FullNameUA": "вулиця Озерянська, 35"
+  "lati": 49.992733595,
+  "FullNameUA": "вулиця Озерянська, 35",
+  "ChildsIds": []
  },
  {
   "id": 142266,
@@ -1020,59 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.193617800199995,
-  "lati": 49.990514353200005,
-  "FullNameUA": "вулиця Озерянська, 36-В"
- },
- {
-  "id": 142263,
-  "postcode": 61093,
-  "number": 36,
-  "suffix": "",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.193329455699995,
-  "lati": 49.990401321200004,
-  "FullNameUA": "вулиця Озерянська, 36"
- },
- {
-  "id": 142264,
-  "postcode": 61093,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1933519137,
-  "lati": 49.9906653189,
-  "FullNameUA": "вулиця Озерянська, 36-А"
+  "longt": 36.1936178002,
+  "lati": 49.9905143532,
+  "FullNameUA": "вулиця Озерянська, 36-В",
+  "ChildsIds": []
  },
  {
   "id": 142265,
@@ -1097,7 +1088,60 @@
   "reg_date": "",
   "longt": 36.1937902501,
   "lati": 49.990301123,
-  "FullNameUA": "вулиця Озерянська, 36-Б"
+  "FullNameUA": "вулиця Озерянська, 36-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 142264,
+  "postcode": 61093,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1933519137,
+  "lati": 49.9906653189,
+  "FullNameUA": "вулиця Озерянська, 36-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 142263,
+  "postcode": 61093,
+  "number": 36,
+  "suffix": "",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1933294557,
+  "lati": 49.9904013212,
+  "FullNameUA": "вулиця Озерянська, 36",
+  "ChildsIds": []
  },
  {
   "id": 142267,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1948101678,
-  "lati": 49.992947832700004,
-  "FullNameUA": "вулиця Озерянська, 37"
+  "lati": 49.9929478327,
+  "FullNameUA": "вулиця Озерянська, 37",
+  "ChildsIds": []
  },
  {
   "id": 142268,
@@ -1146,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1936700486,
-  "lati": 49.990796397000004,
-  "FullNameUA": "вулиця Озерянська, 38"
+  "lati": 49.990796397,
+  "FullNameUA": "вулиця Озерянська, 38",
+  "ChildsIds": []
  },
  {
   "id": 142269,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194983383899995,
+  "longt": 36.1949833839,
   "lati": 49.9931207281,
-  "FullNameUA": "вулиця Озерянська, 39"
+  "FullNameUA": "вулиця Озерянська, 39",
+  "ChildsIds": []
  },
  {
   "id": 142270,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.1936035425,
   "lati": 49.9909672278,
-  "FullNameUA": "вулиця Озерянська, 40"
+  "FullNameUA": "вулиця Озерянська, 40",
+  "ChildsIds": []
  },
  {
   "id": 142271,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.1936781178,
   "lati": 49.9911621563,
-  "FullNameUA": "вулиця Озерянська, 42"
+  "FullNameUA": "вулиця Озерянська, 42",
+  "ChildsIds": []
  },
  {
   "id": 142272,
@@ -1246,8 +1295,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1953573244,
-  "lati": 49.993496949000004,
-  "FullNameUA": "вулиця Озерянська, 43"
+  "lati": 49.993496949,
+  "FullNameUA": "вулиця Озерянська, 43",
+  "ChildsIds": []
  },
  {
   "id": 142273,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.1939773335,
   "lati": 49.9913755248,
-  "FullNameUA": "вулиця Озерянська, 44"
+  "FullNameUA": "вулиця Озерянська, 44",
+  "ChildsIds": []
  },
  {
   "id": 142274,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.1942052051,
   "lati": 49.9917050685,
-  "FullNameUA": "вулиця Озерянська, 46"
+  "FullNameUA": "вулиця Озерянська, 46",
+  "ChildsIds": []
  },
  {
   "id": 142275,
@@ -1322,32 +1374,8 @@
   "reg_date": "",
   "longt": 36.1958408756,
   "lati": 49.9939365776,
-  "FullNameUA": "вулиця Озерянська, 47/2"
- },
- {
-  "id": 142276,
-  "postcode": 61093,
-  "number": 48,
-  "suffix": "",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1943371101,
-  "lati": 49.991826766900004,
-  "FullNameUA": "вулиця Озерянська, 48"
+  "FullNameUA": "вулиця Озерянська, 47/2",
+  "ChildsIds": []
  },
  {
   "id": 142277,
@@ -1371,8 +1399,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1946020898,
-  "lati": 49.991957760300004,
-  "FullNameUA": "вулиця Озерянська, 48-А"
+  "lati": 49.9919577603,
+  "FullNameUA": "вулиця Озерянська, 48-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 142276,
+  "postcode": 61093,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1943371101,
+  "lati": 49.9918267669,
+  "FullNameUA": "вулиця Озерянська, 48",
+  "ChildsIds": []
  },
  {
   "id": 177558,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.1960385863,
   "lati": 49.9940761897,
-  "FullNameUA": "вулиця Озерянська, 49"
+  "FullNameUA": "вулиця Озерянська, 49",
+  "ChildsIds": []
  },
  {
   "id": 142278,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.1945571056,
   "lati": 49.9920878864,
-  "FullNameUA": "вулиця Озерянська, 50"
+  "FullNameUA": "вулиця Озерянська, 50",
+  "ChildsIds": []
  },
  {
   "id": 142279,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.1961617645,
   "lati": 49.9942038182,
-  "FullNameUA": "вулиця Озерянська, 51"
+  "FullNameUA": "вулиця Озерянська, 51",
+  "ChildsIds": []
  },
  {
   "id": 142280,
@@ -1470,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194846323099995,
+  "longt": 36.1948463231,
   "lati": 49.9920963614,
-  "FullNameUA": "вулиця Озерянська, 52"
+  "FullNameUA": "вулиця Озерянська, 52",
+  "ChildsIds": []
  },
  {
   "id": 142281,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196329118899996,
-  "lati": 49.994351108000004,
-  "FullNameUA": "вулиця Озерянська, 53"
+  "longt": 36.1963291189,
+  "lati": 49.994351108,
+  "FullNameUA": "вулиця Озерянська, 53",
+  "ChildsIds": []
  },
  {
   "id": 142283,
@@ -1520,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195147457299996,
+  "longt": 36.1951474573,
   "lati": 49.992158681,
-  "FullNameUA": "вулиця Озерянська, 54-А"
+  "FullNameUA": "вулиця Озерянська, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 142282,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.1948263817,
   "lati": 49.9923238263,
-  "FullNameUA": "вулиця Озерянська, 54"
+  "FullNameUA": "вулиця Озерянська, 54",
+  "ChildsIds": []
  },
  {
   "id": 142284,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.196508267,
   "lati": 49.9944942622,
-  "FullNameUA": "вулиця Озерянська, 55"
+  "FullNameUA": "вулиця Озерянська, 55",
+  "ChildsIds": []
  },
  {
   "id": 142285,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195006113699996,
+  "longt": 36.1950061137,
   "lati": 49.9925390195,
-  "FullNameUA": "вулиця Озерянська, 56"
+  "FullNameUA": "вулиця Озерянська, 56",
+  "ChildsIds": []
  },
  {
   "id": 142286,
@@ -1621,8 +1685,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1966359615,
-  "lati": 49.994650043200004,
-  "FullNameUA": "вулиця Озерянська, 57"
+  "lati": 49.9946500432,
+  "FullNameUA": "вулиця Озерянська, 57",
+  "ChildsIds": []
  },
  {
   "id": 142287,
@@ -1647,7 +1712,34 @@
   "reg_date": "",
   "longt": 36.1952344713,
   "lati": 49.9927534739,
-  "FullNameUA": "вулиця Озерянська, 58"
+  "FullNameUA": "вулиця Озерянська, 58",
+  "ChildsIds": []
+ },
+ {
+  "id": 142288,
+  "postcode": 61093,
+  "number": 59,
+  "suffix": "",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.1967904468,
+  "lati": 49.9947758445,
+  "FullNameUA": "вулиця Озерянська, 59",
+  "ChildsIds": []
  },
  {
   "id": 142289,
@@ -1672,32 +1764,8 @@
   "reg_date": "",
   "longt": 36.196957028,
   "lati": 49.9949068657,
-  "FullNameUA": "вулиця Озерянська, 59-Б"
- },
- {
-  "id": 142288,
-  "postcode": 61093,
-  "number": 59,
-  "suffix": "",
-  "block": "",
-  "streetid": 3319,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:500",
-  "reg_date": "",
-  "longt": 36.196790446799994,
-  "lati": 49.994775844500005,
-  "FullNameUA": "вулиця Озерянська, 59"
+  "FullNameUA": "вулиця Озерянська, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 142290,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.1956427537,
   "lati": 49.9928158492,
-  "FullNameUA": "вулиця Озерянська, 60"
+  "FullNameUA": "вулиця Озерянська, 60",
+  "ChildsIds": []
  },
  {
   "id": 142291,
@@ -1745,9 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197056786699996,
+  "longt": 36.1970567867,
   "lati": 49.9950010811,
-  "FullNameUA": "вулиця Озерянська, 61"
+  "FullNameUA": "вулиця Озерянська, 61",
+  "ChildsIds": []
  },
  {
   "id": 142292,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.1955012086,
   "lati": 49.9930280599,
-  "FullNameUA": "вулиця Озерянська, 62"
+  "FullNameUA": "вулиця Озерянська, 62",
+  "ChildsIds": []
  },
  {
   "id": 142293,
@@ -1797,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.1971787461,
   "lati": 49.9951413649,
-  "FullNameUA": "вулиця Озерянська, 63"
+  "FullNameUA": "вулиця Озерянська, 63",
+  "ChildsIds": []
  },
  {
   "id": 142294,
@@ -1822,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.1957049536,
   "lati": 49.9932275246,
-  "FullNameUA": "вулиця Озерянська, 64"
+  "FullNameUA": "вулиця Озерянська, 64",
+  "ChildsIds": []
  },
  {
   "id": 142295,
@@ -1845,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197545956199995,
+  "longt": 36.1975459562,
   "lati": 49.9954305981,
-  "FullNameUA": "вулиця Озерянська, 65"
+  "FullNameUA": "вулиця Озерянська, 65",
+  "ChildsIds": []
  },
  {
   "id": 142296,
@@ -1872,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.1958686216,
   "lati": 49.9933676243,
-  "FullNameUA": "вулиця Озерянська, 66"
+  "FullNameUA": "вулиця Озерянська, 66",
+  "ChildsIds": []
  },
  {
   "id": 142297,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.1959353875,
   "lati": 49.9934536203,
-  "FullNameUA": "вулиця Озерянська, 68"
+  "FullNameUA": "вулиця Озерянська, 68",
+  "ChildsIds": []
  },
  {
   "id": 142298,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196114954799995,
+  "longt": 36.1961149548,
   "lati": 49.99351326,
-  "FullNameUA": "вулиця Озерянська, 70"
+  "FullNameUA": "вулиця Озерянська, 70",
+  "ChildsIds": []
  },
  {
   "id": 142299,
@@ -1945,9 +2022,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196142111499995,
+  "longt": 36.1961421115,
   "lati": 49.9936583144,
-  "FullNameUA": "вулиця Озерянська, 72"
+  "FullNameUA": "вулиця Озерянська, 72",
+  "ChildsIds": []
  },
  {
   "id": 142300,
@@ -1971,8 +2049,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1962828971,
-  "lati": 49.993798895000005,
-  "FullNameUA": "вулиця Озерянська, 74"
+  "lati": 49.993798895,
+  "FullNameUA": "вулиця Озерянська, 74",
+  "ChildsIds": []
  },
  {
   "id": 142301,
@@ -1995,9 +2074,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196399274499996,
-  "lati": 49.993925720300005,
-  "FullNameUA": "вулиця Озерянська, 76"
+  "longt": 36.1963992745,
+  "lati": 49.9939257203,
+  "FullNameUA": "вулиця Озерянська, 76",
+  "ChildsIds": []
  },
  {
   "id": 177556,
@@ -2020,9 +2100,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.196521441799995,
-  "lati": 49.994024467100004,
-  "FullNameUA": "вулиця Озерянська, 78"
+  "longt": 36.1965214418,
+  "lati": 49.9940244671,
+  "FullNameUA": "вулиця Озерянська, 78",
+  "ChildsIds": []
  },
  {
   "id": 142302,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.1967341385,
   "lati": 49.9942448495,
-  "FullNameUA": "вулиця Озерянська, 80"
+  "FullNameUA": "вулиця Озерянська, 80",
+  "ChildsIds": []
  },
  {
   "id": 142303,
@@ -2070,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196816470499996,
-  "lati": 49.994346993600004,
-  "FullNameUA": "вулиця Озерянська, 82"
+  "longt": 36.1968164705,
+  "lati": 49.9943469936,
+  "FullNameUA": "вулиця Озерянська, 82",
+  "ChildsIds": []
  },
  {
   "id": 142304,
@@ -2095,9 +2178,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197223441999995,
-  "lati": 49.994612240500004,
-  "FullNameUA": "вулиця Озерянська, 86"
+  "longt": 36.197223442,
+  "lati": 49.9946122405,
+  "FullNameUA": "вулиця Озерянська, 86",
+  "ChildsIds": []
  },
  {
   "id": 142305,
@@ -2122,7 +2206,34 @@
   "reg_date": "",
   "longt": 36.1973239271,
   "lati": 49.9948218704,
-  "FullNameUA": "вулиця Озерянська, 88"
+  "FullNameUA": "вулиця Озерянська, 88",
+  "ChildsIds": []
+ },
+ {
+  "id": 182160,
+  "postcode": 61093,
+  "number": 92,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3319,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"О-1\" загальною площею 115,4 кв. м, житловою площею 39,3 кв. м",
+  "confrm": "",
+  "reg_date": "13.02.2020 10:47:55",
+  "longt": 36.1983865138,
+  "lati": 49.995222775,
+  "FullNameUA": "вулиця Озерянська, 92-А",
+  "ChildsIds": []
  },
  {
   "id": 142306,
@@ -2145,9 +2256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1983448159,
-  "lati": 49.995243537200004,
-  "FullNameUA": "вулиця Озерянська, 92"
+  "longt": 36.1982907915,
+  "lati": 49.9952747499,
+  "FullNameUA": "вулиця Озерянська, 92",
+  "ChildsIds": []
  },
  {
   "id": 142307,
@@ -2172,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.1984285219,
   "lati": 49.9956236023,
-  "FullNameUA": "вулиця Озерянська, 94"
+  "FullNameUA": "вулиця Озерянська, 94",
+  "ChildsIds": []
  },
  {
   "id": 142308,
@@ -2197,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.1985482428,
   "lati": 49.9956638352,
-  "FullNameUA": "вулиця Озерянська, 96"
+  "FullNameUA": "вулиця Озерянська, 96",
+  "ChildsIds": []
  },
  {
   "id": 142309,
@@ -2220,8 +2334,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199895950599995,
+  "longt": 36.1998959506,
   "lati": 49.9959740362,
-  "FullNameUA": "вулиця Озерянська, 106"
+  "FullNameUA": "вулиця Озерянська, 106",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2787922221,
   "lati": 49.952788632,
-  "FullNameUA": "вулиця Зернова, 1/2"
+  "FullNameUA": "вулиця Зернова, 1/2",
+  "ChildsIds": []
  },
  {
   "id": 168424,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27801087300001,
+  "longt": 36.278010873,
   "lati": 49.9531116808,
-  "FullNameUA": "вулиця Зернова, 2"
+  "FullNameUA": "вулиця Зернова, 2",
+  "ChildsIds": []
  },
  {
   "id": 168425,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278561119600006,
-  "lati": 49.952759806100005,
-  "FullNameUA": "вулиця Зернова, 3"
+  "longt": 36.2785611196,
+  "lati": 49.9527598061,
+  "FullNameUA": "вулиця Зернова, 3",
+  "ChildsIds": []
  },
  {
   "id": 168428,
@@ -96,8 +99,9 @@
   "confrm": "Рішення ВК Комінтернівської райради № 12-7, 15.01.2002",
   "reg_date": "",
   "longt": 36.2694604204,
-  "lati": 49.952597540300005,
-  "FullNameUA": "вулиця Зернова, 4-Б"
+  "lati": 49.9525975403,
+  "FullNameUA": "вулиця Зернова, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 168427,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.268088286499996,
+  "longt": 36.2680882865,
   "lati": 49.9525520448,
-  "FullNameUA": "вулиця Зернова, 4-А"
+  "FullNameUA": "вулиця Зернова, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 168426,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.266174992299995,
-  "lati": 49.953422182400004,
-  "FullNameUA": "вулиця Зернова, 4"
+  "longt": 36.2661749923,
+  "lati": 49.9534221824,
+  "FullNameUA": "вулиця Зернова, 4",
+  "ChildsIds": []
  },
  {
   "id": 168429,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2782946351,
   "lati": 49.952737757,
-  "FullNameUA": "вулиця Зернова, 5"
+  "FullNameUA": "вулиця Зернова, 5",
+  "ChildsIds": []
  },
  {
   "id": 168438,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2617283942,
-  "lati": 49.954187758900005,
-  "FullNameUA": "вулиця Зернова, 6/8"
+  "lati": 49.9541877589,
+  "FullNameUA": "вулиця Зернова, 6/8",
+  "ChildsIds": []
  },
  {
   "id": 168430,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263715649699996,
+  "longt": 36.2637156497,
   "lati": 49.9526274094,
-  "FullNameUA": "вулиця Зернова, 6"
+  "FullNameUA": "вулиця Зернова, 6",
+  "ChildsIds": []
  },
  {
   "id": 168434,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2630782596,
-  "lati": 49.953333686200004,
-  "FullNameUA": "вулиця Зернова, 6/4"
+  "lati": 49.9533336862,
+  "FullNameUA": "вулиця Зернова, 6/4",
+  "ChildsIds": []
  },
  {
   "id": 168437,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261590024099995,
-  "lati": 49.953174325300004,
-  "FullNameUA": "вулиця Зернова, 6/7"
+  "longt": 36.2615900241,
+  "lati": 49.9531743253,
+  "FullNameUA": "вулиця Зернова, 6/7",
+  "ChildsIds": []
  },
  {
   "id": 168436,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2626868553,
-  "lati": 49.954318724400004,
-  "FullNameUA": "вулиця Зернова, 6/6"
+  "lati": 49.9543187244,
+  "FullNameUA": "вулиця Зернова, 6/6",
+  "ChildsIds": []
  },
  {
   "id": 168435,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.262461885,
   "lati": 49.9533889252,
-  "FullNameUA": "вулиця Зернова, 6/5"
+  "FullNameUA": "вулиця Зернова, 6/5",
+  "ChildsIds": []
  },
  {
   "id": 168433,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263741736899995,
+  "longt": 36.2637417369,
   "lati": 49.9533376193,
-  "FullNameUA": "вулиця Зернова, 6/3"
+  "FullNameUA": "вулиця Зернова, 6/3",
+  "ChildsIds": []
  },
  {
   "id": 168432,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2644035034,
   "lati": 49.9533422318,
-  "FullNameUA": "вулиця Зернова, 6/2"
+  "FullNameUA": "вулиця Зернова, 6/2",
+  "ChildsIds": []
  },
  {
   "id": 168431,
@@ -396,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2650752287,
-  "lati": 49.953342426700004,
-  "FullNameUA": "вулиця Зернова, 6/1"
+  "lati": 49.9533424267,
+  "FullNameUA": "вулиця Зернова, 6/1",
+  "ChildsIds": []
  },
  {
   "id": 168439,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278091533600005,
-  "lati": 49.952708237500005,
-  "FullNameUA": "вулиця Зернова, 7"
+  "longt": 36.2780915336,
+  "lati": 49.9527082375,
+  "FullNameUA": "вулиця Зернова, 7",
+  "ChildsIds": []
  },
  {
   "id": 168440,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2778204026,
-  "lati": 49.952663110900005,
-  "FullNameUA": "вулиця Зернова, 9"
+  "lati": 49.9526631109,
+  "FullNameUA": "вулиця Зернова, 9",
+  "ChildsIds": []
  },
  {
   "id": 168441,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2666091173,
   "lati": 49.9519298788,
-  "FullNameUA": "вулиця Зернова, 9-А"
+  "FullNameUA": "вулиця Зернова, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 168442,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275373585400004,
-  "lati": 49.952803053400004,
-  "FullNameUA": "вулиця Зернова, 10"
+  "longt": 36.2753735854,
+  "lati": 49.9528030534,
+  "FullNameUA": "вулиця Зернова, 10",
+  "ChildsIds": []
  },
  {
   "id": 168443,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277589153600005,
-  "lati": 49.952668812800006,
-  "FullNameUA": "вулиця Зернова, 11"
+  "longt": 36.2775891536,
+  "lati": 49.9526688128,
+  "FullNameUA": "вулиця Зернова, 11",
+  "ChildsIds": []
  },
  {
   "id": 168444,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2659663282,
-  "lati": 49.954350694400006,
-  "FullNameUA": "вулиця Зернова, 12"
+  "lati": 49.9543506944,
+  "FullNameUA": "вулиця Зернова, 12",
+  "ChildsIds": []
  },
  {
   "id": 168445,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2773539477,
   "lati": 49.9526483499,
-  "FullNameUA": "вулиця Зернова, 13"
+  "FullNameUA": "вулиця Зернова, 13",
+  "ChildsIds": []
  },
  {
   "id": 168446,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2769799183,
-  "lati": 49.952602050500005,
-  "FullNameUA": "вулиця Зернова, 15"
+  "lati": 49.9526020505,
+  "FullNameUA": "вулиця Зернова, 15",
+  "ChildsIds": []
  },
  {
   "id": 168447,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2767626886,
   "lati": 49.9526084542,
-  "FullNameUA": "вулиця Зернова, 17"
+  "FullNameUA": "вулиця Зернова, 17",
+  "ChildsIds": []
  },
  {
   "id": 168448,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276519319900004,
+  "longt": 36.2765193199,
   "lati": 49.9525892339,
-  "FullNameUA": "вулиця Зернова, 19"
+  "FullNameUA": "вулиця Зернова, 19",
+  "ChildsIds": []
  },
  {
   "id": 168449,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2762418899,
   "lati": 49.9525569086,
-  "FullNameUA": "вулиця Зернова, 21"
+  "FullNameUA": "вулиця Зернова, 21",
+  "ChildsIds": []
  },
  {
   "id": 168450,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276010895000006,
-  "lati": 49.952529911300005,
-  "FullNameUA": "вулиця Зернова, 23-А"
+  "longt": 36.276010895,
+  "lati": 49.9525299113,
+  "FullNameUA": "вулиця Зернова, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 168451,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275786155300004,
+  "longt": 36.2757861553,
   "lati": 49.9525119671,
-  "FullNameUA": "вулиця Зернова, 25"
+  "FullNameUA": "вулиця Зернова, 25",
+  "ChildsIds": []
  },
  {
   "id": 168452,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27550481110001,
-  "lati": 49.952486417500005,
-  "FullNameUA": "вулиця Зернова, 27"
+  "longt": 36.2755048111,
+  "lati": 49.9524864175,
+  "FullNameUA": "вулиця Зернова, 27",
+  "ChildsIds": []
  },
  {
   "id": 168453,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2751178493,
-  "lati": 49.952452984900006,
-  "FullNameUA": "вулиця Зернова, 31"
+  "lati": 49.9524529849,
+  "FullNameUA": "вулиця Зернова, 31",
+  "ChildsIds": []
  },
  {
   "id": 168454,
@@ -796,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2748627181,
-  "lati": 49.952428331300005,
-  "FullNameUA": "вулиця Зернова, 33"
+  "lati": 49.9524283313,
+  "FullNameUA": "вулиця Зернова, 33",
+  "ChildsIds": []
  },
  {
   "id": 168455,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2745040908,
   "lati": 49.95238656,
-  "FullNameUA": "вулиця Зернова, 35/2"
+  "FullNameUA": "вулиця Зернова, 35/2",
+  "ChildsIds": []
  },
  {
   "id": 168456,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2740463545,
-  "lati": 49.952360581300006,
-  "FullNameUA": "вулиця Зернова, 37"
+  "lati": 49.9523605813,
+  "FullNameUA": "вулиця Зернова, 37",
+  "ChildsIds": []
  },
  {
   "id": 168457,
@@ -871,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2729988209,
-  "lati": 49.952258014600005,
-  "FullNameUA": "вулиця Зернова, 37-А"
+  "lati": 49.9522580146,
+  "FullNameUA": "вулиця Зернова, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 168458,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272118818200006,
-  "lati": 49.952148887700005,
-  "FullNameUA": "вулиця Зернова, 39"
+  "longt": 36.2721188182,
+  "lati": 49.9521488877,
+  "FullNameUA": "вулиця Зернова, 39",
+  "ChildsIds": []
  },
  {
   "id": 168459,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2716515429,
-  "lati": 49.952128292400005,
-  "FullNameUA": "вулиця Зернова, 41"
+  "lati": 49.9521282924,
+  "FullNameUA": "вулиця Зернова, 41",
+  "ChildsIds": []
  },
  {
   "id": 168460,
@@ -945,9 +982,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271409192200004,
-  "lati": 49.952133231000005,
-  "FullNameUA": "вулиця Зернова, 43"
+  "longt": 36.2714091922,
+  "lati": 49.952133231,
+  "FullNameUA": "вулиця Зернова, 43",
+  "ChildsIds": []
+ },
+ {
+  "id": 182620,
+  "postcode": 61105,
+  "number": 47,
+  "suffix": "",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок секція В літ. \"А-17\"",
+  "confrm": "",
+  "reg_date": "14.04.2020 17:13:47",
+  "longt": 36.2681368982,
+  "lati": 49.9517726206,
+  "FullNameUA": "вулиця Зернова, 47",
+  "ChildsIds": []
+ },
+ {
+  "id": 168462,
+  "postcode": 61124,
+  "number": 51,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2652347994,
+  "lati": 49.951927344,
+  "FullNameUA": "вулиця Зернова, 51-Б",
+  "ChildsIds": []
  },
  {
   "id": 168461,
@@ -972,32 +1062,8 @@
   "reg_date": "28.12.2019 12:50:27",
   "longt": 36.2657310476,
   "lati": 49.9519536852,
-  "FullNameUA": "вулиця Зернова, 51-А"
- },
- {
-  "id": 168462,
-  "postcode": 61124,
-  "number": 51,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2734,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2652347994,
-  "lati": 49.951927344000005,
-  "FullNameUA": "вулиця Зернова, 51-Б"
+  "FullNameUA": "вулиця Зернова, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 168473,
@@ -1022,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2635192949,
   "lati": 49.9484225525,
-  "FullNameUA": "вулиця Зернова, 53-К"
+  "FullNameUA": "вулиця Зернова, 53-К",
+  "ChildsIds": []
  },
  {
   "id": 168472,
@@ -1047,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2641873956,
   "lati": 49.9484360492,
-  "FullNameUA": "вулиця Зернова, 53-І"
+  "FullNameUA": "вулиця Зернова, 53-І",
+  "ChildsIds": []
  },
  {
   "id": 168471,
@@ -1071,8 +1139,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2648545999,
-  "lati": 49.948443898899995,
-  "FullNameUA": "вулиця Зернова, 53-З"
+  "lati": 49.9484438989,
+  "FullNameUA": "вулиця Зернова, 53-З",
+  "ChildsIds": []
  },
  {
   "id": 168469,
@@ -1096,58 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2634497881,
-  "lati": 49.950206830300004,
-  "FullNameUA": "вулиця Зернова, 53-Є"
- },
- {
-  "id": 168468,
-  "postcode": 61124,
-  "number": 53,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2734,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2641178361,
-  "lati": 49.9501969012,
-  "FullNameUA": "вулиця Зернова, 53-Д"
- },
- {
-  "id": 168465,
-  "postcode": 61124,
-  "number": 53,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2734,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2638803384,
-  "lati": 49.9509006945,
-  "FullNameUA": "вулиця Зернова, 53-Б"
+  "lati": 49.9502068303,
+  "FullNameUA": "вулиця Зернова, 53-Є",
+  "ChildsIds": []
  },
  {
   "id": 168463,
@@ -1172,7 +1192,60 @@
   "reg_date": "",
   "longt": 36.2650513045,
   "lati": 49.9514091973,
-  "FullNameUA": "вулиця Зернова, 53"
+  "FullNameUA": "вулиця Зернова, 53",
+  "ChildsIds": []
+ },
+ {
+  "id": 168465,
+  "postcode": 61124,
+  "number": 53,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2638803384,
+  "lati": 49.9509006945,
+  "FullNameUA": "вулиця Зернова, 53-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 168468,
+  "postcode": 61124,
+  "number": 53,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2641178361,
+  "lati": 49.9501969012,
+  "FullNameUA": "вулиця Зернова, 53-Д",
+  "ChildsIds": []
  },
  {
   "id": 168464,
@@ -1196,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2656389776,
-  "lati": 49.950909512200006,
-  "FullNameUA": "вулиця Зернова, 53-А"
+  "lati": 49.9509095122,
+  "FullNameUA": "вулиця Зернова, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 168470,
@@ -1222,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2655152619,
   "lati": 49.9484512896,
-  "FullNameUA": "вулиця Зернова, 53-Ж"
+  "FullNameUA": "вулиця Зернова, 53-Ж",
+  "ChildsIds": []
  },
  {
   "id": 168466,
@@ -1247,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2647842474,
   "lati": 49.9502091514,
-  "FullNameUA": "вулиця Зернова, 53-В"
+  "FullNameUA": "вулиця Зернова, 53-В",
+  "ChildsIds": []
  },
  {
   "id": 168467,
@@ -1270,9 +1346,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265443306799995,
-  "lati": 49.950211755800005,
-  "FullNameUA": "вулиця Зернова, 53-Г"
+  "longt": 36.2654433068,
+  "lati": 49.9502117558,
+  "FullNameUA": "вулиця Зернова, 53-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 168476,
+  "postcode": 61124,
+  "number": 55,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2635709527,
+  "lati": 49.9516088714,
+  "FullNameUA": "вулиця Зернова, 55-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 168475,
+  "postcode": 61124,
+  "number": 55,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2734,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2635792913,
+  "lati": 49.9518534991,
+  "FullNameUA": "вулиця Зернова, 55-А",
+  "ChildsIds": []
  },
  {
   "id": 168474,
@@ -1297,57 +1426,8 @@
   "reg_date": "",
   "longt": 36.2635861924,
   "lati": 49.9520988417,
-  "FullNameUA": "вулиця Зернова, 55"
- },
- {
-  "id": 168478,
-  "postcode": 61124,
-  "number": 55,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2734,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2646065884,
-  "lati": 49.9519146602,
-  "FullNameUA": "вулиця Зернова, 55-Г"
- },
- {
-  "id": 168476,
-  "postcode": 61124,
-  "number": 55,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2734,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2635709527,
-  "lati": 49.951608871400005,
-  "FullNameUA": "вулиця Зернова, 55-Б"
+  "FullNameUA": "вулиця Зернова, 55",
+  "ChildsIds": []
  },
  {
   "id": 168477,
@@ -1372,13 +1452,14 @@
   "reg_date": "",
   "longt": 36.2635620076,
   "lati": 49.9513695098,
-  "FullNameUA": "вулиця Зернова, 55-В"
+  "FullNameUA": "вулиця Зернова, 55-В",
+  "ChildsIds": []
  },
  {
-  "id": 168475,
+  "id": 168478,
   "postcode": 61124,
   "number": 55,
-  "suffix": "А",
+  "suffix": "Г",
   "block": "",
   "streetid": 2734,
   "status_id": 1,
@@ -1395,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2635792913,
-  "lati": 49.951853499100004,
-  "FullNameUA": "вулиця Зернова, 55-А"
+  "longt": 36.2646065884,
+  "lati": 49.9519146602,
+  "FullNameUA": "вулиця Зернова, 55-Г",
+  "ChildsIds": []
  },
  {
   "id": 168479,
@@ -1421,8 +1503,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.262883965,
-  "lati": 49.951762492200004,
-  "FullNameUA": "вулиця Зернова, 55/1"
+  "lati": 49.9517624922,
+  "FullNameUA": "вулиця Зернова, 55/1",
+  "ChildsIds": []
  },
  {
   "id": 168480,
@@ -1447,6 +1530,7 @@
   "reg_date": "",
   "longt": 36.262514616,
   "lati": 49.9522560865,
-  "FullNameUA": "вулиця Зернова, 57"
+  "FullNameUA": "вулиця Зернова, 57",
+  "ChildsIds": []
  }
 ]

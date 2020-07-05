@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.177559313,
   "lati": 49.9910889194,
-  "FullNameUA": "провулок Шпаківський, 3"
+  "FullNameUA": "провулок Шпаківський, 3",
+  "ChildsIds": []
  },
  {
   "id": 146352,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1780171052,
   "lati": 49.9911643362,
-  "FullNameUA": "провулок Шпаківський, 4"
+  "FullNameUA": "провулок Шпаківський, 4",
+  "ChildsIds": []
  },
  {
   "id": 146353,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1773311258,
-  "lati": 49.991243883500005,
-  "FullNameUA": "провулок Шпаківський, 5"
+  "lati": 49.9912438835,
+  "FullNameUA": "провулок Шпаківський, 5",
+  "ChildsIds": []
  },
  {
   "id": 146354,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.177715345900005,
+  "longt": 36.1777153459,
   "lati": 49.9913788812,
-  "FullNameUA": "провулок Шпаківський, 6"
+  "FullNameUA": "провулок Шпаківський, 6",
+  "ChildsIds": []
  },
  {
   "id": 146355,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.177132366900004,
+  "longt": 36.1771323669,
   "lati": 49.9913750153,
-  "FullNameUA": "провулок Шпаківський, 7"
+  "FullNameUA": "провулок Шпаківський, 7",
+  "ChildsIds": []
  },
  {
   "id": 146356,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.177546122100004,
-  "lati": 49.991514725900004,
-  "FullNameUA": "провулок Шпаківський, 8"
+  "longt": 36.1775461221,
+  "lati": 49.9915147259,
+  "FullNameUA": "провулок Шпаківський, 8",
+  "ChildsIds": []
  },
  {
   "id": 146357,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1769599012,
   "lati": 49.9915067285,
-  "FullNameUA": "провулок Шпаківський, 9"
+  "FullNameUA": "провулок Шпаківський, 9",
+  "ChildsIds": []
  },
  {
   "id": 146358,
@@ -197,32 +204,8 @@
   "reg_date": "",
   "longt": 36.1773662952,
   "lati": 49.9916512084,
-  "FullNameUA": "провулок Шпаківський, 10"
- },
- {
-  "id": 178010,
-  "postcode": 61093,
-  "number": 11,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 4425,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.1767782761,
-  "lati": 49.9916033235,
-  "FullNameUA": "провулок Шпаківський, 11/1"
+  "FullNameUA": "провулок Шпаківський, 10",
+  "ChildsIds": []
  },
  {
   "id": 146359,
@@ -243,11 +226,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1767065241,
-  "lati": 49.991656953500005,
-  "FullNameUA": "провулок Шпаківський, 11"
+  "longt": 36.176737948,
+  "lati": 49.9916300317,
+  "FullNameUA": "провулок Шпаківський, 11",
+  "ChildsIds": []
  },
  {
   "id": 146360,
@@ -272,7 +256,8 @@
   "reg_date": "",
   "longt": 36.1774292351,
   "lati": 49.9918360284,
-  "FullNameUA": "провулок Шпаківський, 12"
+  "FullNameUA": "провулок Шпаківський, 12",
+  "ChildsIds": []
  },
  {
   "id": 146361,
@@ -297,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1765360751,
   "lati": 49.9917660299,
-  "FullNameUA": "провулок Шпаківський, 13"
+  "FullNameUA": "провулок Шпаківський, 13",
+  "ChildsIds": []
  },
  {
   "id": 146362,
@@ -322,32 +308,8 @@
   "reg_date": "",
   "longt": 36.1769380044,
   "lati": 49.9918956594,
-  "FullNameUA": "провулок Шпаківський, 14"
- },
- {
-  "id": 146364,
-  "postcode": 61093,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4425,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.1762244446,
-  "lati": 49.9920037866,
-  "FullNameUA": "провулок Шпаківський, 15-А"
+  "FullNameUA": "провулок Шпаківський, 14",
+  "ChildsIds": []
  },
  {
   "id": 146363,
@@ -370,15 +332,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.176307681400004,
+  "longt": 36.1763076814,
   "lati": 49.9918662823,
-  "FullNameUA": "провулок Шпаківський, 15"
+  "FullNameUA": "провулок Шпаківський, 15",
+  "ChildsIds": []
  },
  {
-  "id": 178011,
+  "id": 146364,
   "postcode": 61093,
   "number": 15,
-  "suffix": "А/1",
+  "suffix": "А",
   "block": "",
   "streetid": 4425,
   "status_id": 1,
@@ -393,11 +356,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1762557199,
-  "lati": 49.991979952200005,
-  "FullNameUA": "провулок Шпаківський, 15А/1"
+  "longt": 36.1762383657,
+  "lati": 49.9919821153,
+  "FullNameUA": "провулок Шпаківський, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 146365,
@@ -421,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1769387541,
-  "lati": 49.991903380800004,
-  "FullNameUA": "провулок Шпаківський, 16"
+  "lati": 49.9919033808,
+  "FullNameUA": "провулок Шпаківський, 16",
+  "ChildsIds": []
  },
  {
   "id": 146367,
@@ -445,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.175880970600005,
+  "longt": 36.1758809706,
   "lati": 49.991912728,
-  "FullNameUA": "провулок Шпаківський, 17-А"
+  "FullNameUA": "провулок Шпаківський, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 146366,
@@ -472,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1760090977,
   "lati": 49.9921408884,
-  "FullNameUA": "провулок Шпаківський, 17"
+  "FullNameUA": "провулок Шпаківський, 17",
+  "ChildsIds": []
  },
  {
   "id": 146368,
@@ -496,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1767696658,
-  "lati": 49.992077283200004,
-  "FullNameUA": "провулок Шпаківський, 18"
+  "lati": 49.9920772832,
+  "FullNameUA": "провулок Шпаківський, 18",
+  "ChildsIds": []
  },
  {
   "id": 146369,
@@ -520,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.175800561900004,
+  "longt": 36.1758005619,
   "lati": 49.9921808072,
-  "FullNameUA": "провулок Шпаківський, 19"
+  "FullNameUA": "провулок Шпаківський, 19",
+  "ChildsIds": []
  },
  {
   "id": 146370,
@@ -545,34 +514,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.176466620300005,
-  "lati": 49.992186360800005,
-  "FullNameUA": "провулок Шпаківський, 20"
- },
- {
-  "id": 146372,
-  "postcode": 61093,
-  "number": 21,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4425,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.175526956300004,
-  "lati": 49.9924734465,
-  "FullNameUA": "провулок Шпаківський, 21-А"
+  "longt": 36.1764666203,
+  "lati": 49.9921863608,
+  "FullNameUA": "провулок Шпаківський, 20",
+  "ChildsIds": []
  },
  {
   "id": 146371,
@@ -597,7 +542,34 @@
   "reg_date": "",
   "longt": 36.1756784309,
   "lati": 49.9922964489,
-  "FullNameUA": "провулок Шпаківський, 21"
+  "FullNameUA": "провулок Шпаківський, 21",
+  "ChildsIds": []
+ },
+ {
+  "id": 146372,
+  "postcode": 61093,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4425,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.1755269563,
+  "lati": 49.9924734465,
+  "FullNameUA": "провулок Шпаківський, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 146373,
@@ -622,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1762835146,
   "lati": 49.9923206496,
-  "FullNameUA": "провулок Шпаківський, 22"
+  "FullNameUA": "провулок Шпаківський, 22",
+  "ChildsIds": []
  },
  {
   "id": 146374,
@@ -645,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.176073800800005,
+  "longt": 36.1760738008,
   "lati": 49.9924850979,
-  "FullNameUA": "провулок Шпаківський, 24"
+  "FullNameUA": "провулок Шпаківський, 24",
+  "ChildsIds": []
  },
  {
   "id": 146375,
@@ -671,7 +645,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.175804946,
-  "lati": 49.992621091100006,
-  "FullNameUA": "провулок Шпаківський, 26"
+  "lati": 49.9926210911,
+  "FullNameUA": "провулок Шпаківський, 26",
+  "ChildsIds": []
  }
 ]

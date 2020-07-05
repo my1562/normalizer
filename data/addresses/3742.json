@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1869940415,
   "lati": 49.940987703,
-  "FullNameUA": "вулиця Радіотехнічна, 2"
+  "FullNameUA": "вулиця Радіотехнічна, 2",
+  "ChildsIds": []
  },
  {
   "id": 154554,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1876545544,
   "lati": 49.9411212391,
-  "FullNameUA": "вулиця Радіотехнічна, 3"
+  "FullNameUA": "вулиця Радіотехнічна, 3",
+  "ChildsIds": []
  },
  {
   "id": 154555,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1870926511,
   "lati": 49.9407529775,
-  "FullNameUA": "вулиця Радіотехнічна, 4"
+  "FullNameUA": "вулиця Радіотехнічна, 4",
+  "ChildsIds": []
  },
  {
   "id": 154557,
@@ -97,7 +100,34 @@
   "reg_date": "",
   "longt": 36.1879589934,
   "lati": 49.9403092338,
-  "FullNameUA": "вулиця Радіотехнічна, 5-А"
+  "FullNameUA": "вулиця Радіотехнічна, 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 154556,
+  "postcode": 61071,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 3742,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1876694196,
+  "lati": 49.9407944199,
+  "FullNameUA": "вулиця Радіотехнічна, 5",
+  "ChildsIds": []
  },
  {
   "id": 154558,
@@ -122,32 +152,8 @@
   "reg_date": "",
   "longt": 36.1879824013,
   "lati": 49.9402625729,
-  "FullNameUA": "вулиця Радіотехнічна, 5-Б"
- },
- {
-  "id": 154556,
-  "postcode": 61071,
-  "number": 5,
-  "suffix": "",
-  "block": "",
-  "streetid": 3742,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1876694196,
-  "lati": 49.940794419899994,
-  "FullNameUA": "вулиця Радіотехнічна, 5"
+  "FullNameUA": "вулиця Радіотехнічна, 5-Б",
+  "ChildsIds": []
  },
  {
   "id": 154559,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1871894708,
   "lati": 49.9405132344,
-  "FullNameUA": "вулиця Радіотехнічна, 6"
+  "FullNameUA": "вулиця Радіотехнічна, 6",
+  "ChildsIds": []
  },
  {
   "id": 154560,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.1880475307,
   "lati": 49.9399694031,
-  "FullNameUA": "вулиця Радіотехнічна, 7-А"
+  "FullNameUA": "вулиця Радіотехнічна, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 154561,
@@ -221,33 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1873039579,
-  "lati": 49.940267360099995,
-  "FullNameUA": "вулиця Радіотехнічна, 8"
- },
- {
-  "id": 154562,
-  "postcode": 61071,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3742,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1883183448,
-  "lati": 49.9397964014,
-  "FullNameUA": "вулиця Радіотехнічна, 9"
+  "lati": 49.9402673601,
+  "FullNameUA": "вулиця Радіотехнічна, 8",
+  "ChildsIds": []
  },
  {
   "id": 154563,
@@ -272,12 +256,13 @@
   "reg_date": "",
   "longt": 36.188377383,
   "lati": 49.9396125209,
-  "FullNameUA": "вулиця Радіотехнічна, 9-А"
+  "FullNameUA": "вулиця Радіотехнічна, 9-А",
+  "ChildsIds": []
  },
  {
-  "id": 154564,
+  "id": 154562,
   "postcode": 61071,
-  "number": 10,
+  "number": 9,
   "suffix": "",
   "block": "",
   "streetid": 3742,
@@ -295,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1874157185,
-  "lati": 49.940031509,
-  "FullNameUA": "вулиця Радіотехнічна, 10"
+  "longt": 36.1883183448,
+  "lati": 49.9397964014,
+  "FullNameUA": "вулиця Радіотехнічна, 9",
+  "ChildsIds": []
  },
  {
   "id": 154565,
@@ -322,7 +308,34 @@
   "reg_date": "",
   "longt": 36.1892299846,
   "lati": 49.9359972489,
-  "FullNameUA": "вулиця Радіотехнічна, 10-Б"
+  "FullNameUA": "вулиця Радіотехнічна, 10-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 154564,
+  "postcode": 61071,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3742,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1874157185,
+  "lati": 49.940031509,
+  "FullNameUA": "вулиця Радіотехнічна, 10",
+  "ChildsIds": []
  },
  {
   "id": 154566,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1896824388,
   "lati": 49.9361829648,
-  "FullNameUA": "вулиця Радіотехнічна, 11"
+  "FullNameUA": "вулиця Радіотехнічна, 11",
+  "ChildsIds": []
  },
  {
   "id": 154567,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1875142984,
   "lati": 49.9397908206,
-  "FullNameUA": "вулиця Радіотехнічна, 12"
+  "FullNameUA": "вулиця Радіотехнічна, 12",
+  "ChildsIds": []
  },
  {
   "id": 154568,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1898433004,
   "lati": 49.9358353482,
-  "FullNameUA": "вулиця Радіотехнічна, 13"
+  "FullNameUA": "вулиця Радіотехнічна, 13",
+  "ChildsIds": []
  },
  {
   "id": 154569,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1876199563,
   "lati": 49.9395501245,
-  "FullNameUA": "вулиця Радіотехнічна, 14"
+  "FullNameUA": "вулиця Радіотехнічна, 14",
+  "ChildsIds": []
  },
  {
   "id": 154570,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.189932485,
   "lati": 49.9356286574,
-  "FullNameUA": "вулиця Радіотехнічна, 15"
+  "FullNameUA": "вулиця Радіотехнічна, 15",
+  "ChildsIds": []
  },
  {
   "id": 154571,
@@ -472,32 +490,8 @@
   "reg_date": "",
   "longt": 36.1877318967,
   "lati": 49.9393009757,
-  "FullNameUA": "вулиця Радіотехнічна, 16"
- },
- {
-  "id": 154572,
-  "postcode": 61071,
-  "number": 17,
-  "suffix": "",
-  "block": "",
-  "streetid": 3742,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:500",
-  "reg_date": "",
-  "longt": 36.1900133932,
-  "lati": 49.9354565327,
-  "FullNameUA": "вулиця Радіотехнічна, 17"
+  "FullNameUA": "вулиця Радіотехнічна, 16",
+  "ChildsIds": []
  },
  {
   "id": 154573,
@@ -522,7 +516,34 @@
   "reg_date": "",
   "longt": 36.1900776055,
   "lati": 49.9352769183,
-  "FullNameUA": "вулиця Радіотехнічна, 17-Б"
+  "FullNameUA": "вулиця Радіотехнічна, 17-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 154572,
+  "postcode": 61071,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 3742,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.1900133932,
+  "lati": 49.9354565327,
+  "FullNameUA": "вулиця Радіотехнічна, 17",
+  "ChildsIds": []
  },
  {
   "id": 178421,
@@ -547,7 +568,8 @@
   "reg_date": "23.11.2017 12:25:30",
   "longt": 36.1880757685,
   "lati": 49.9384692448,
-  "FullNameUA": "вулиця Радіотехнічна, 18-Б"
+  "FullNameUA": "вулиця Радіотехнічна, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 154574,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1878220319,
   "lati": 49.9390820159,
-  "FullNameUA": "вулиця Радіотехнічна, 18"
+  "FullNameUA": "вулиця Радіотехнічна, 18",
+  "ChildsIds": []
  },
  {
   "id": 154575,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.190373654,
   "lati": 49.934706704,
-  "FullNameUA": "вулиця Радіотехнічна, 19"
+  "FullNameUA": "вулиця Радіотехнічна, 19",
+  "ChildsIds": []
  },
  {
   "id": 154576,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.1896409698,
   "lati": 49.9350100131,
-  "FullNameUA": "вулиця Радіотехнічна, 20"
+  "FullNameUA": "вулиця Радіотехнічна, 20",
+  "ChildsIds": []
  },
  {
   "id": 154577,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.1907713397,
   "lati": 49.9345142032,
-  "FullNameUA": "вулиця Радіотехнічна, 21"
+  "FullNameUA": "вулиця Радіотехнічна, 21",
+  "ChildsIds": []
  },
  {
   "id": 154578,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.1897220525,
   "lati": 49.9348790902,
-  "FullNameUA": "вулиця Радіотехнічна, 22"
+  "FullNameUA": "вулиця Радіотехнічна, 22",
+  "ChildsIds": []
  },
  {
   "id": 154579,
@@ -695,34 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.190453434999995,
+  "longt": 36.190453435,
   "lati": 49.9342759006,
-  "FullNameUA": "вулиця Радіотехнічна, 23"
- },
- {
-  "id": 154580,
-  "postcode": 61071,
-  "number": 24,
-  "suffix": "",
-  "block": "",
-  "streetid": 3742,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1896046761,
-  "lati": 49.9347024647,
-  "FullNameUA": "вулиця Радіотехнічна, 24"
+  "FullNameUA": "вулиця Радіотехнічна, 23",
+  "ChildsIds": []
  },
  {
   "id": 154581,
@@ -747,7 +750,34 @@
   "reg_date": "",
   "longt": 36.189801503,
   "lati": 49.9345507006,
-  "FullNameUA": "вулиця Радіотехнічна, 24-А"
+  "FullNameUA": "вулиця Радіотехнічна, 24-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 154580,
+  "postcode": 61071,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 3742,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1896046761,
+  "lati": 49.9347024647,
+  "FullNameUA": "вулиця Радіотехнічна, 24",
+  "ChildsIds": []
  },
  {
   "id": 154582,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.1907375188,
   "lati": 49.9341107435,
-  "FullNameUA": "вулиця Радіотехнічна, 25"
+  "FullNameUA": "вулиця Радіотехнічна, 25",
+  "ChildsIds": []
  },
  {
   "id": 176186,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.1881692184,
   "lati": 49.9382697263,
-  "FullNameUA": "вулиця Радіотехнічна, 26"
+  "FullNameUA": "вулиця Радіотехнічна, 26",
+  "ChildsIds": []
  },
  {
   "id": 154583,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.1900242893,
   "lati": 49.934464712,
-  "FullNameUA": "вулиця Радіотехнічна, 26"
+  "FullNameUA": "вулиця Радіотехнічна, 26",
+  "ChildsIds": []
  },
  {
   "id": 154584,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1905519148,
-  "lati": 49.933903676199996,
-  "FullNameUA": "вулиця Радіотехнічна, 27"
+  "lati": 49.9339036762,
+  "FullNameUA": "вулиця Радіотехнічна, 27",
+  "ChildsIds": []
  },
  {
   "id": 154585,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.1899776708,
   "lati": 49.9341852456,
-  "FullNameUA": "вулиця Радіотехнічна, 28"
+  "FullNameUA": "вулиця Радіотехнічна, 28",
+  "ChildsIds": []
  },
  {
   "id": 154586,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1907031162,
   "lati": 49.9337249563,
-  "FullNameUA": "вулиця Радіотехнічна, 29"
+  "FullNameUA": "вулиця Радіотехнічна, 29",
+  "ChildsIds": []
  },
  {
   "id": 154587,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.1899212578,
   "lati": 49.9340332143,
-  "FullNameUA": "вулиця Радіотехнічна, 30"
+  "FullNameUA": "вулиця Радіотехнічна, 30",
+  "ChildsIds": []
  },
  {
   "id": 154588,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.190752834399994,
+  "longt": 36.1907528344,
   "lati": 49.9335482645,
-  "FullNameUA": "вулиця Радіотехнічна, 31"
+  "FullNameUA": "вулиця Радіотехнічна, 31",
+  "ChildsIds": []
  },
  {
   "id": 154589,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1879823335,
   "lati": 49.9386770044,
-  "FullNameUA": "вулиця Радіотехнічна, 32"
+  "FullNameUA": "вулиця Радіотехнічна, 32",
+  "ChildsIds": []
  },
  {
   "id": 154590,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.1907742727,
   "lati": 49.9333771791,
-  "FullNameUA": "вулиця Радіотехнічна, 33"
+  "FullNameUA": "вулиця Радіотехнічна, 33",
+  "ChildsIds": []
  },
  {
   "id": 154591,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.1898703684,
   "lati": 49.9334830209,
-  "FullNameUA": "вулиця Радіотехнічна, 34"
+  "FullNameUA": "вулиця Радіотехнічна, 34",
+  "ChildsIds": []
  },
  {
   "id": 154592,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.1908251127,
   "lati": 49.933205266,
-  "FullNameUA": "вулиця Радіотехнічна, 35"
+  "FullNameUA": "вулиця Радіотехнічна, 35",
+  "ChildsIds": []
  },
  {
   "id": 154593,
@@ -1071,8 +1113,9 @@
   "confrm": "зміна адреси",
   "reg_date": "",
   "longt": 36.1880628782,
-  "lati": 49.938471644399996,
-  "FullNameUA": "вулиця Радіотехнічна, 36"
+  "lati": 49.9384716444,
+  "FullNameUA": "вулиця Радіотехнічна, 36",
+  "ChildsIds": []
  },
  {
   "id": 154594,
@@ -1097,32 +1140,8 @@
   "reg_date": "",
   "longt": 36.1908826491,
   "lati": 49.9330489282,
-  "FullNameUA": "вулиця Радіотехнічна, 37"
- },
- {
-  "id": 154595,
-  "postcode": 61071,
-  "number": 38,
-  "suffix": "",
-  "block": "",
-  "streetid": 3742,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.190148516,
-  "lati": 49.9331466244,
-  "FullNameUA": "вулиця Радіотехнічна, 38"
+  "FullNameUA": "вулиця Радіотехнічна, 37",
+  "ChildsIds": []
  },
  {
   "id": 154596,
@@ -1147,7 +1166,34 @@
   "reg_date": "",
   "longt": 36.1895018648,
   "lati": 49.9330083957,
-  "FullNameUA": "вулиця Радіотехнічна, 38-Б"
+  "FullNameUA": "вулиця Радіотехнічна, 38-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 154595,
+  "postcode": 61071,
+  "number": 38,
+  "suffix": "",
+  "block": "",
+  "streetid": 3742,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.190148516,
+  "lati": 49.9331466244,
+  "FullNameUA": "вулиця Радіотехнічна, 38",
+  "ChildsIds": []
  },
  {
   "id": 154597,
@@ -1172,6 +1218,7 @@
   "reg_date": "",
   "longt": 36.1908801142,
   "lati": 49.9328550425,
-  "FullNameUA": "вулиця Радіотехнічна, 39"
+  "FullNameUA": "вулиця Радіотехнічна, 39",
+  "ChildsIds": []
  }
 ]

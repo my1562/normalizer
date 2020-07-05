@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.229153047,
   "lati": 50.0073144255,
-  "FullNameUA": "проспект Науки, 2"
+  "FullNameUA": "проспект Науки, 2",
+  "ChildsIds": []
  },
  {
   "id": 117458,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2288737465,
   "lati": 50.0092956053,
-  "FullNameUA": "проспект Науки, 4"
+  "FullNameUA": "проспект Науки, 4",
+  "ChildsIds": []
  },
  {
   "id": 117459,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2272372281,
   "lati": 50.0101219306,
-  "FullNameUA": "проспект Науки, 5"
+  "FullNameUA": "проспект Науки, 5",
+  "ChildsIds": []
  },
  {
   "id": 117460,
@@ -97,7 +100,34 @@
   "reg_date": "",
   "longt": 36.2270583225,
   "lati": 50.0112437115,
-  "FullNameUA": "проспект Науки, 7"
+  "FullNameUA": "проспект Науки, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 117461,
+  "postcode": 61166,
+  "number": 7,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2262619919,
+  "lati": 50.0127481745,
+  "FullNameUA": "проспект Науки, 7-В",
+  "ChildsIds": []
  },
  {
   "id": 117462,
@@ -121,33 +151,9 @@
   "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.2267566341,
-  "lati": 50.012221160799996,
-  "FullNameUA": "проспект Науки, 7-М"
- },
- {
-  "id": 117461,
-  "postcode": 61166,
-  "number": 7,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.226261991899996,
-  "lati": 50.0127481745,
-  "FullNameUA": "проспект Науки, 7-В"
+  "lati": 50.0122211608,
+  "FullNameUA": "проспект Науки, 7-М",
+  "ChildsIds": []
  },
  {
   "id": 117463,
@@ -172,57 +178,8 @@
   "reg_date": "27.02.2019 11:40:57",
   "longt": 36.2282758335,
   "lati": 50.0102187998,
-  "FullNameUA": "проспект Науки, 8"
- },
- {
-  "id": 117464,
-  "postcode": 61166,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2256264979,
-  "lati": 50.0149548969,
-  "FullNameUA": "проспект Науки, 9"
- },
- {
-  "id": 117465,
-  "postcode": 61166,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.224024723599996,
-  "lati": 50.0136081817,
-  "FullNameUA": "проспект Науки, 9-А"
+  "FullNameUA": "проспект Науки, 8",
+  "ChildsIds": []
  },
  {
   "id": 117468,
@@ -247,7 +204,8 @@
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.22638195,
   "lati": 50.0135947447,
-  "FullNameUA": "проспект Науки, 9-М"
+  "FullNameUA": "проспект Науки, 9-М",
+  "ChildsIds": []
  },
  {
   "id": 117467,
@@ -271,8 +229,9 @@
   "confrm": "Рішення ВК ХМР № 640, 15.10.2014",
   "reg_date": "21.11.2019 11:52:06",
   "longt": 36.2249116454,
-  "lati": 50.014263139499995,
-  "FullNameUA": "проспект Науки, 9-Д"
+  "lati": 50.0142631395,
+  "FullNameUA": "проспект Науки, 9-Д",
+  "ChildsIds": []
  },
  {
   "id": 117466,
@@ -297,7 +256,62 @@
   "reg_date": "",
   "longt": 36.2260927951,
   "lati": 50.0134140666,
-  "FullNameUA": "проспект Науки, 9-Б"
+  "FullNameUA": "проспект Науки, 9-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117465,
+  "postcode": 61166,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2240247236,
+  "lati": 50.0136081817,
+  "FullNameUA": "проспект Науки, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117464,
+  "postcode": 61166,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2256264979,
+  "lati": 50.0149548969,
+  "FullNameUA": "проспект Науки, 9",
+  "ChildsIds": [
+   117467
+  ]
  },
  {
   "id": 117469,
@@ -321,8 +335,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2280589968,
-  "lati": 50.010960463699995,
-  "FullNameUA": "проспект Науки, 10"
+  "lati": 50.0109604637,
+  "FullNameUA": "проспект Науки, 10",
+  "ChildsIds": []
  },
  {
   "id": 117470,
@@ -345,9 +360,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.225393777899995,
+  "longt": 36.2253937779,
   "lati": 50.0160402063,
-  "FullNameUA": "проспект Науки, 11"
+  "FullNameUA": "проспект Науки, 11",
+  "ChildsIds": []
  },
  {
   "id": 117471,
@@ -370,9 +386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227884724199996,
-  "lati": 50.011592994699996,
-  "FullNameUA": "проспект Науки, 12"
+  "longt": 36.2278847242,
+  "lati": 50.0115929947,
+  "FullNameUA": "проспект Науки, 12",
+  "ChildsIds": []
  },
  {
   "id": 117472,
@@ -395,9 +412,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.225301548299996,
-  "lati": 50.016944096799996,
-  "FullNameUA": "проспект Науки, 13"
+  "longt": 36.2253015483,
+  "lati": 50.0169440968,
+  "FullNameUA": "проспект Науки, 13",
+  "ChildsIds": []
  },
  {
   "id": 117473,
@@ -422,7 +440,34 @@
   "reg_date": "",
   "longt": 36.228088738,
   "lati": 50.0152774206,
-  "FullNameUA": "проспект Науки, 14"
+  "FullNameUA": "проспект Науки, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 117474,
+  "postcode": 61166,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2251357684,
+  "lati": 50.0174842281,
+  "FullNameUA": "проспект Науки, 15",
+  "ChildsIds": []
  },
  {
   "id": 117475,
@@ -447,57 +492,8 @@
   "reg_date": "",
   "longt": 36.2242742811,
   "lati": 50.0173580078,
-  "FullNameUA": "проспект Науки, 15-А"
- },
- {
-  "id": 117474,
-  "postcode": 61166,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2251357684,
-  "lati": 50.017484228099995,
-  "FullNameUA": "проспект Науки, 15"
- },
- {
-  "id": 117477,
-  "postcode": 61166,
-  "number": 17,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2228631505,
-  "lati": 50.0181574387,
-  "FullNameUA": "проспект Науки, 17-А"
+  "FullNameUA": "проспект Науки, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 117476,
@@ -522,7 +518,34 @@
   "reg_date": "",
   "longt": 36.2246506693,
   "lati": 50.0181389657,
-  "FullNameUA": "проспект Науки, 17"
+  "FullNameUA": "проспект Науки, 17",
+  "ChildsIds": []
+ },
+ {
+  "id": 117477,
+  "postcode": 61166,
+  "number": 17,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2228631505,
+  "lati": 50.0181574387,
+  "FullNameUA": "проспект Науки, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 117478,
@@ -547,32 +570,8 @@
   "reg_date": "",
   "longt": 36.2264982814,
   "lati": 50.0164349325,
-  "FullNameUA": "проспект Науки, 18/9"
- },
- {
-  "id": 117479,
-  "postcode": 61166,
-  "number": 19,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2247293457,
-  "lati": 50.0188606337,
-  "FullNameUA": "проспект Науки, 19"
+  "FullNameUA": "проспект Науки, 18/9",
+  "ChildsIds": []
  },
  {
   "id": 117482,
@@ -597,32 +596,8 @@
   "reg_date": "15.05.2018 11:46:23",
   "longt": 36.2243596,
   "lati": 50.0188539853,
-  "FullNameUA": "проспект Науки, 19-Г"
- },
- {
-  "id": 117481,
-  "postcode": 61166,
-  "number": 19,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2233343376,
-  "lati": 50.0189179332,
-  "FullNameUA": "проспект Науки, 19-Б"
+  "FullNameUA": "проспект Науки, 19-Г",
+  "ChildsIds": []
  },
  {
   "id": 117480,
@@ -647,7 +622,86 @@
   "reg_date": "",
   "longt": 36.2240534849,
   "lati": 50.0185303708,
-  "FullNameUA": "проспект Науки, 19-А"
+  "FullNameUA": "проспект Науки, 19-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117479,
+  "postcode": 61166,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2247293457,
+  "lati": 50.0188606337,
+  "FullNameUA": "проспект Науки, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 117481,
+  "postcode": 61166,
+  "number": 19,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2233343376,
+  "lati": 50.0189179332,
+  "FullNameUA": "проспект Науки, 19-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117483,
+  "postcode": 61166,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "адреса юр. особи",
+  "reg_date": "",
+  "longt": 36.2264076184,
+  "lati": 50.01735338,
+  "FullNameUA": "проспект Науки, 20",
+  "ChildsIds": []
  },
  {
   "id": 117484,
@@ -672,57 +726,8 @@
   "reg_date": "",
   "longt": 36.226036295,
   "lati": 50.0178827453,
-  "FullNameUA": "проспект Науки, 20-А"
- },
- {
-  "id": 117483,
-  "postcode": 61166,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "адреса юр. особи",
-  "reg_date": "",
-  "longt": 36.226407618399996,
-  "lati": 50.01735338,
-  "FullNameUA": "проспект Науки, 20"
- },
- {
-  "id": 117485,
-  "postcode": 61166,
-  "number": 21,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2244342777,
-  "lati": 50.019663662199996,
-  "FullNameUA": "проспект Науки, 21"
+  "FullNameUA": "проспект Науки, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 117486,
@@ -746,8 +751,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2229398194,
-  "lati": 50.020014112400006,
-  "FullNameUA": "проспект Науки, 21-А"
+  "lati": 50.0200141124,
+  "FullNameUA": "проспект Науки, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117485,
+  "postcode": 61166,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2244342777,
+  "lati": 50.0196636622,
+  "FullNameUA": "проспект Науки, 21",
+  "ChildsIds": []
  },
  {
   "id": 117487,
@@ -772,7 +804,8 @@
   "reg_date": "",
   "longt": 36.2261400752,
   "lati": 50.0183098002,
-  "FullNameUA": "проспект Науки, 22"
+  "FullNameUA": "проспект Науки, 22",
+  "ChildsIds": []
  },
  {
   "id": 117488,
@@ -797,7 +830,8 @@
   "reg_date": "",
   "longt": 36.2270935738,
   "lati": 50.0184315871,
-  "FullNameUA": "проспект Науки, 22-А"
+  "FullNameUA": "проспект Науки, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 117489,
@@ -822,7 +856,8 @@
   "reg_date": "",
   "longt": 36.2241228733,
   "lati": 50.0208715954,
-  "FullNameUA": "проспект Науки, 23"
+  "FullNameUA": "проспект Науки, 23",
+  "ChildsIds": []
  },
  {
   "id": 117490,
@@ -847,7 +882,8 @@
   "reg_date": "",
   "longt": 36.2257036281,
   "lati": 50.0189425501,
-  "FullNameUA": "проспект Науки, 24"
+  "FullNameUA": "проспект Науки, 24",
+  "ChildsIds": []
  },
  {
   "id": 117491,
@@ -871,8 +907,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2235927307,
-  "lati": 50.02205254610001,
-  "FullNameUA": "проспект Науки, 25"
+  "lati": 50.0220525461,
+  "FullNameUA": "проспект Науки, 25",
+  "ChildsIds": []
  },
  {
   "id": 178660,
@@ -897,7 +934,8 @@
   "reg_date": "",
   "longt": 36.222725553,
   "lati": 50.0246357901,
-  "FullNameUA": "проспект Науки, 25-В"
+  "FullNameUA": "проспект Науки, 25-В",
+  "ChildsIds": []
  },
  {
   "id": 117492,
@@ -922,7 +960,8 @@
   "reg_date": "",
   "longt": 36.2229964701,
   "lati": 50.0235571539,
-  "FullNameUA": "проспект Науки, 25-Б"
+  "FullNameUA": "проспект Науки, 25-Б",
+  "ChildsIds": []
  },
  {
   "id": 117493,
@@ -945,9 +984,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226414736399995,
+  "longt": 36.2264147364,
   "lati": 50.0195443297,
-  "FullNameUA": "проспект Науки, 26"
+  "FullNameUA": "проспект Науки, 26",
+  "ChildsIds": []
  },
  {
   "id": 117494,
@@ -971,8 +1011,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2220763544,
-  "lati": 50.027889010100004,
-  "FullNameUA": "проспект Науки, 27"
+  "lati": 50.0278890101,
+  "FullNameUA": "проспект Науки, 27",
+  "ChildsIds": []
  },
  {
   "id": 117496,
@@ -996,8 +1037,9 @@
   "confrm": "11, 21.01.2010",
   "reg_date": "15.01.2019 12:21:36",
   "longt": 36.2201953326,
-  "lati": 50.026548664500005,
-  "FullNameUA": "проспект Науки, 27-Б"
+  "lati": 50.0265486645,
+  "FullNameUA": "проспект Науки, 27-Б",
+  "ChildsIds": []
  },
  {
   "id": 117495,
@@ -1021,8 +1063,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2212314408,
-  "lati": 50.025753066700005,
-  "FullNameUA": "проспект Науки, 27-А"
+  "lati": 50.0257530667,
+  "FullNameUA": "проспект Науки, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 117497,
@@ -1046,8 +1089,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2259472205,
-  "lati": 50.02056905640001,
-  "FullNameUA": "проспект Науки, 28"
+  "lati": 50.0205690564,
+  "FullNameUA": "проспект Науки, 28",
+  "ChildsIds": []
  },
  {
   "id": 117499,
@@ -1072,7 +1116,8 @@
   "reg_date": "",
   "longt": 36.2211246014,
   "lati": 50.0284722906,
-  "FullNameUA": "проспект Науки, 29-А"
+  "FullNameUA": "проспект Науки, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 117498,
@@ -1097,7 +1142,8 @@
   "reg_date": "",
   "longt": 36.2217863738,
   "lati": 50.0285521571,
-  "FullNameUA": "проспект Науки, 29"
+  "FullNameUA": "проспект Науки, 29",
+  "ChildsIds": []
  },
  {
   "id": 117500,
@@ -1122,32 +1168,8 @@
   "reg_date": "",
   "longt": 36.2254223203,
   "lati": 50.0199263832,
-  "FullNameUA": "проспект Науки, 30"
- },
- {
-  "id": 117501,
-  "postcode": 61072,
-  "number": 31,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2216080865,
-  "lati": 50.029071088900004,
-  "FullNameUA": "проспект Науки, 31"
+  "FullNameUA": "проспект Науки, 30",
+  "ChildsIds": []
  },
  {
   "id": 117503,
@@ -1172,7 +1194,60 @@
   "reg_date": "",
   "longt": 36.2201112115,
   "lati": 50.0294221771,
-  "FullNameUA": "проспект Науки, 31-Б"
+  "FullNameUA": "проспект Науки, 31-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117501,
+  "postcode": 61072,
+  "number": 31,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2216080865,
+  "lati": 50.0290710889,
+  "FullNameUA": "проспект Науки, 31",
+  "ChildsIds": []
+ },
+ {
+  "id": 117502,
+  "postcode": 61072,
+  "number": 31,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2208627098,
+  "lati": 50.0292232339,
+  "FullNameUA": "проспект Науки, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 117504,
@@ -1197,32 +1272,8 @@
   "reg_date": "",
   "longt": 36.2191092541,
   "lati": 50.0293235155,
-  "FullNameUA": "проспект Науки, 31-В"
- },
- {
-  "id": 117502,
-  "postcode": 61072,
-  "number": 31,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2208627098,
-  "lati": 50.029223233900005,
-  "FullNameUA": "проспект Науки, 31-А"
+  "FullNameUA": "проспект Науки, 31-В",
+  "ChildsIds": []
  },
  {
   "id": 179823,
@@ -1247,7 +1298,8 @@
   "reg_date": "",
   "longt": 36.2197368643,
   "lati": 50.0292131642,
-  "FullNameUA": "проспект Науки, 31-Б, гараж № 100"
+  "FullNameUA": "проспект Науки, 31-Б, гараж № 100",
+  "ChildsIds": []
  },
  {
   "id": 117505,
@@ -1271,8 +1323,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2250918899,
-  "lati": 50.020994639600005,
-  "FullNameUA": "проспект Науки, 32"
+  "lati": 50.0209946396,
+  "FullNameUA": "проспект Науки, 32",
+  "ChildsIds": []
  },
  {
   "id": 117506,
@@ -1297,7 +1350,8 @@
   "reg_date": "",
   "longt": 36.2214282553,
   "lati": 50.0295840933,
-  "FullNameUA": "проспект Науки, 35"
+  "FullNameUA": "проспект Науки, 35",
+  "ChildsIds": []
  },
  {
   "id": 117507,
@@ -1321,8 +1375,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2248381108,
-  "lati": 50.021890882300006,
-  "FullNameUA": "проспект Науки, 36"
+  "lati": 50.0218908823,
+  "FullNameUA": "проспект Науки, 36",
+  "ChildsIds": []
  },
  {
   "id": 117508,
@@ -1347,7 +1402,8 @@
   "reg_date": "",
   "longt": 36.2213226039,
   "lati": 50.0303283274,
-  "FullNameUA": "проспект Науки, 37"
+  "FullNameUA": "проспект Науки, 37",
+  "ChildsIds": []
  },
  {
   "id": 117509,
@@ -1372,7 +1428,8 @@
   "reg_date": "",
   "longt": 36.224751566,
   "lati": 50.0226174314,
-  "FullNameUA": "проспект Науки, 38"
+  "FullNameUA": "проспект Науки, 38",
+  "ChildsIds": []
  },
  {
   "id": 117510,
@@ -1397,7 +1454,8 @@
   "reg_date": "",
   "longt": 36.2209759324,
   "lati": 50.0315709195,
-  "FullNameUA": "проспект Науки, 39"
+  "FullNameUA": "проспект Науки, 39",
+  "ChildsIds": []
  },
  {
   "id": 117511,
@@ -1422,7 +1480,8 @@
   "reg_date": "",
   "longt": 36.2197463184,
   "lati": 50.0315835082,
-  "FullNameUA": "проспект Науки, 39-А"
+  "FullNameUA": "проспект Науки, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 180778,
@@ -1447,7 +1506,8 @@
   "reg_date": "",
   "longt": 36.2247718458,
   "lati": 50.0241080138,
-  "FullNameUA": "проспект Науки, 40-А"
+  "FullNameUA": "проспект Науки, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 117512,
@@ -1470,9 +1530,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.225278702299995,
-  "lati": 50.023687405800004,
-  "FullNameUA": "проспект Науки, 40"
+  "longt": 36.2252787023,
+  "lati": 50.0236874058,
+  "FullNameUA": "проспект Науки, 40",
+  "ChildsIds": []
  },
  {
   "id": 117515,
@@ -1497,7 +1558,8 @@
   "reg_date": "",
   "longt": 36.2197197695,
   "lati": 50.032012999,
-  "FullNameUA": "проспект Науки, 41-А"
+  "FullNameUA": "проспект Науки, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 117514,
@@ -1521,8 +1583,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2204295819,
-  "lati": 50.033382160900004,
-  "FullNameUA": "проспект Науки, 41/43"
+  "lati": 50.0333821609,
+  "FullNameUA": "проспект Науки, 41/43",
+  "ChildsIds": []
  },
  {
   "id": 117513,
@@ -1547,7 +1610,8 @@
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.223680675,
   "lati": 50.0252463193,
-  "FullNameUA": "проспект Науки, 42-М"
+  "FullNameUA": "проспект Науки, 42-М",
+  "ChildsIds": []
  },
  {
   "id": 117516,
@@ -1572,7 +1636,8 @@
   "reg_date": "",
   "longt": 36.2198476947,
   "lati": 50.0350035846,
-  "FullNameUA": "проспект Науки, 43"
+  "FullNameUA": "проспект Науки, 43",
+  "ChildsIds": []
  },
  {
   "id": 117519,
@@ -1597,7 +1662,8 @@
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.2189781917,
   "lati": 50.0363842151,
-  "FullNameUA": "проспект Науки, 43-М"
+  "FullNameUA": "проспект Науки, 43-М",
+  "ChildsIds": []
  },
  {
   "id": 117518,
@@ -1621,8 +1687,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2201535641,
-  "lati": 50.036708862000005,
-  "FullNameUA": "проспект Науки, 43-Б"
+  "lati": 50.036708862,
+  "FullNameUA": "проспект Науки, 43-Б",
+  "ChildsIds": []
  },
  {
   "id": 117517,
@@ -1647,7 +1714,8 @@
   "reg_date": "04.11.2019 17:30:49",
   "longt": 36.2198268048,
   "lati": 50.0370817181,
-  "FullNameUA": "проспект Науки, 43-А"
+  "FullNameUA": "проспект Науки, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 117520,
@@ -1672,7 +1740,8 @@
   "reg_date": "",
   "longt": 36.2167605893,
   "lati": 50.0376260015,
-  "FullNameUA": "проспект Науки, 45-А"
+  "FullNameUA": "проспект Науки, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 117524,
@@ -1696,8 +1765,9 @@
   "confrm": "Рішення ВК ХМР № 859, 30.11.2011",
   "reg_date": "08.01.2020 11:11:21",
   "longt": 36.2185081339,
-  "lati": 50.038784567600004,
-  "FullNameUA": "проспект Науки, 45/3"
+  "lati": 50.0387845676,
+  "FullNameUA": "проспект Науки, 45/3",
+  "ChildsIds": []
  },
  {
   "id": 177935,
@@ -1722,7 +1792,8 @@
   "reg_date": "",
   "longt": 36.217804952,
   "lati": 50.0373911721,
-  "FullNameUA": "проспект Науки, 45-В"
+  "FullNameUA": "проспект Науки, 45-В",
+  "ChildsIds": []
  },
  {
   "id": 117522,
@@ -1747,7 +1818,10 @@
   "reg_date": "",
   "longt": 36.2193252701,
   "lati": 50.0386872016,
-  "FullNameUA": "проспект Науки, 45/1"
+  "FullNameUA": "проспект Науки, 45/1",
+  "ChildsIds": [
+   117524
+  ]
  },
  {
   "id": 117523,
@@ -1772,7 +1846,8 @@
   "reg_date": "17.01.2019 15:14:08",
   "longt": 36.2190671712,
   "lati": 50.036240709,
-  "FullNameUA": "проспект Науки, 45/2"
+  "FullNameUA": "проспект Науки, 45/2",
+  "ChildsIds": []
  },
  {
   "id": 117521,
@@ -1796,8 +1871,9 @@
   "confrm": "Рішення ВК Дзержинської райради № 9/1, 11.01.2008",
   "reg_date": "12.03.2019 12:42:25",
   "longt": 36.2174096704,
-  "lati": 50.037779994400005,
-  "FullNameUA": "проспект Науки, 45-Б"
+  "lati": 50.0377799944,
+  "FullNameUA": "проспект Науки, 45-Б",
+  "ChildsIds": []
  },
  {
   "id": 117526,
@@ -1816,13 +1892,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "74, 09.02.2011",
-  "reg_date": "",
-  "longt": 36.218012477100004,
+  "reg_date": "15.01.2020 11:10:06",
+  "longt": 36.2180124771,
   "lati": 50.0367319038,
-  "FullNameUA": "проспект Науки, 47/1"
+  "FullNameUA": "проспект Науки, 47/1",
+  "ChildsIds": []
  },
  {
   "id": 117525,
@@ -1845,9 +1922,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.220353647799996,
+  "longt": 36.2203536478,
   "lati": 50.0396515737,
-  "FullNameUA": "проспект Науки, 47"
+  "FullNameUA": "проспект Науки, 47",
+  "ChildsIds": []
  },
  {
   "id": 117527,
@@ -1872,7 +1950,8 @@
   "reg_date": "",
   "longt": 36.2229315076,
   "lati": 50.0284277207,
-  "FullNameUA": "проспект Науки, 48"
+  "FullNameUA": "проспект Науки, 48",
+  "ChildsIds": []
  },
  {
   "id": 117528,
@@ -1896,8 +1975,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2234343392,
-  "lati": 50.028983202000006,
-  "FullNameUA": "проспект Науки, 48-А"
+  "lati": 50.028983202,
+  "FullNameUA": "проспект Науки, 48-А",
+  "ChildsIds": []
  },
  {
   "id": 117529,
@@ -1922,7 +2002,8 @@
   "reg_date": "",
   "longt": 36.2153148651,
   "lati": 50.0404355177,
-  "FullNameUA": "проспект Науки, 49"
+  "FullNameUA": "проспект Науки, 49",
+  "ChildsIds": []
  },
  {
   "id": 117530,
@@ -1947,7 +2028,8 @@
   "reg_date": "",
   "longt": 36.2226456278,
   "lati": 50.0291995791,
-  "FullNameUA": "проспект Науки, 50"
+  "FullNameUA": "проспект Науки, 50",
+  "ChildsIds": []
  },
  {
   "id": 177973,
@@ -1971,8 +2053,9 @@
   "confrm": "Рішення ВК Дзержинської райради 27_14, 14.02.2006",
   "reg_date": "11.03.2019 15:30:23",
   "longt": 36.2226459666,
-  "lati": 50.029576627800004,
-  "FullNameUA": "проспект Науки, 50-Б"
+  "lati": 50.0295766278,
+  "FullNameUA": "проспект Науки, 50-Б",
+  "ChildsIds": []
  },
  {
   "id": 117531,
@@ -1996,8 +2079,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.223256809,
-  "lati": 50.02958552050001,
-  "FullNameUA": "проспект Науки, 50-А"
+  "lati": 50.0295855205,
+  "FullNameUA": "проспект Науки, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 117532,
@@ -2021,8 +2105,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2224577677,
-  "lati": 50.029835069300006,
-  "FullNameUA": "проспект Науки, 52"
+  "lati": 50.0298350693,
+  "FullNameUA": "проспект Науки, 52",
+  "ChildsIds": []
  },
  {
   "id": 117533,
@@ -2047,7 +2132,8 @@
   "reg_date": "",
   "longt": 36.2230680109,
   "lati": 50.0302125734,
-  "FullNameUA": "проспект Науки, 52-А"
+  "FullNameUA": "проспект Науки, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 117534,
@@ -2072,7 +2158,8 @@
   "reg_date": "",
   "longt": 36.2169344605,
   "lati": 50.0415545051,
-  "FullNameUA": "проспект Науки, 53"
+  "FullNameUA": "проспект Науки, 53",
+  "ChildsIds": []
  },
  {
   "id": 117535,
@@ -2097,7 +2184,8 @@
   "reg_date": "",
   "longt": 36.2222946686,
   "lati": 50.0303857149,
-  "FullNameUA": "проспект Науки, 54"
+  "FullNameUA": "проспект Науки, 54",
+  "ChildsIds": []
  },
  {
   "id": 117536,
@@ -2122,7 +2210,8 @@
   "reg_date": "",
   "longt": 36.2163771412,
   "lati": 50.0417656554,
-  "FullNameUA": "проспект Науки, 55"
+  "FullNameUA": "проспект Науки, 55",
+  "ChildsIds": []
  },
  {
   "id": 117537,
@@ -2146,8 +2235,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2220398268,
-  "lati": 50.031378024700004,
-  "FullNameUA": "проспект Науки, 56"
+  "lati": 50.0313780247,
+  "FullNameUA": "проспект Науки, 56",
+  "ChildsIds": []
  },
  {
   "id": 117538,
@@ -2172,7 +2262,8 @@
   "reg_date": "",
   "longt": 36.2163974145,
   "lati": 50.0402826081,
-  "FullNameUA": "проспект Науки, 57"
+  "FullNameUA": "проспект Науки, 57",
+  "ChildsIds": []
  },
  {
   "id": 117539,
@@ -2197,7 +2288,8 @@
   "reg_date": "",
   "longt": 36.2225326262,
   "lati": 50.0317279778,
-  "FullNameUA": "проспект Науки, 58"
+  "FullNameUA": "проспект Науки, 58",
+  "ChildsIds": []
  },
  {
   "id": 117540,
@@ -2222,7 +2314,8 @@
   "reg_date": "",
   "longt": 36.2166640617,
   "lati": 50.0409176443,
-  "FullNameUA": "проспект Науки, 59"
+  "FullNameUA": "проспект Науки, 59",
+  "ChildsIds": []
  },
  {
   "id": 177081,
@@ -2247,7 +2340,8 @@
   "reg_date": "",
   "longt": 36.222939369,
   "lati": 50.0335852359,
-  "FullNameUA": "проспект Науки, 60-А"
+  "FullNameUA": "проспект Науки, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 117541,
@@ -2271,8 +2365,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2214964857,
-  "lati": 50.033178912000004,
-  "FullNameUA": "проспект Науки, 60"
+  "lati": 50.033178912,
+  "FullNameUA": "проспект Науки, 60",
+  "ChildsIds": []
  },
  {
   "id": 117542,
@@ -2297,7 +2392,8 @@
   "reg_date": "",
   "longt": 36.2154742674,
   "lati": 50.0412160473,
-  "FullNameUA": "проспект Науки, 61"
+  "FullNameUA": "проспект Науки, 61",
+  "ChildsIds": []
  },
  {
   "id": 117543,
@@ -2320,34 +2416,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
   "reg_date": "18.06.2014 00:00:00",
-  "longt": 36.220891642699996,
+  "longt": 36.2208916427,
   "lati": 50.034203539,
-  "FullNameUA": "проспект Науки, 62-М"
- },
- {
-  "id": 117544,
-  "postcode": 61103,
-  "number": 63,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2158202743,
-  "lati": 50.0419741057,
-  "FullNameUA": "проспект Науки, 63"
+  "FullNameUA": "проспект Науки, 62-М",
+  "ChildsIds": []
  },
  {
   "id": 117545,
@@ -2372,13 +2444,14 @@
   "reg_date": "",
   "longt": 36.2151005401,
   "lati": 50.0424219508,
-  "FullNameUA": "проспект Науки, 63-А"
+  "FullNameUA": "проспект Науки, 63-А",
+  "ChildsIds": []
  },
  {
-  "id": 117547,
+  "id": 117544,
   "postcode": 61103,
-  "number": 64,
-  "suffix": "А",
+  "number": 63,
+  "suffix": "",
   "block": "",
   "streetid": 3107,
   "status_id": 1,
@@ -2395,59 +2468,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2226898475,
-  "lati": 50.036999032400004,
-  "FullNameUA": "проспект Науки, 64-А"
- },
- {
-  "id": 117548,
-  "postcode": 61103,
-  "number": 64,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2232704865,
-  "lati": 50.0367921015,
-  "FullNameUA": "проспект Науки, 64-Б"
- },
- {
-  "id": 117549,
-  "postcode": 61103,
-  "number": 64,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "17.01.2019 15:15:52",
-  "longt": 36.2205224684,
-  "lati": 50.0364017817,
-  "FullNameUA": "проспект Науки, 64/1"
+  "longt": 36.2158202743,
+  "lati": 50.0419741057,
+  "FullNameUA": "проспект Науки, 63",
+  "ChildsIds": []
  },
  {
   "id": 117546,
@@ -2472,7 +2496,86 @@
   "reg_date": "",
   "longt": 36.2210934133,
   "lati": 50.0362687941,
-  "FullNameUA": "проспект Науки, 64"
+  "FullNameUA": "проспект Науки, 64",
+  "ChildsIds": []
+ },
+ {
+  "id": 117547,
+  "postcode": 61103,
+  "number": 64,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2226898475,
+  "lati": 50.0369990324,
+  "FullNameUA": "проспект Науки, 64-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117548,
+  "postcode": 61103,
+  "number": 64,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2232704865,
+  "lati": 50.0367921015,
+  "FullNameUA": "проспект Науки, 64-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117549,
+  "postcode": 61103,
+  "number": 64,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2019 15:15:52",
+  "longt": 36.2205224684,
+  "lati": 50.0364017817,
+  "FullNameUA": "проспект Науки, 64/1",
+  "ChildsIds": []
  },
  {
   "id": 179715,
@@ -2497,57 +2600,8 @@
   "reg_date": "06.09.2018 11:58:57",
   "longt": 36.2224128886,
   "lati": 50.03716183,
-  "FullNameUA": "проспект Науки, 64-А, гараж № 1"
- },
- {
-  "id": 179343,
-  "postcode": 61103,
-  "number": 65,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 323, 11.05.2018",
-  "reg_date": "05.06.2018 11:54:11",
-  "longt": 36.2218652985,
-  "lati": 50.0407027002,
-  "FullNameUA": "проспект Науки, 65-В"
- },
- {
-  "id": 117559,
-  "postcode": 61103,
-  "number": 65,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2230037767,
-  "lati": 50.0428410111,
-  "FullNameUA": "проспект Науки, 65-Б"
+  "FullNameUA": "проспект Науки, 64-А, гараж № 1",
+  "ChildsIds": []
  },
  {
   "id": 117550,
@@ -2572,7 +2626,60 @@
   "reg_date": "",
   "longt": 36.2208670499,
   "lati": 50.040752381,
-  "FullNameUA": "проспект Науки, 65"
+  "FullNameUA": "проспект Науки, 65",
+  "ChildsIds": []
+ },
+ {
+  "id": 179343,
+  "postcode": 61103,
+  "number": 65,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 323, 11.05.2018",
+  "reg_date": "05.06.2018 11:54:11",
+  "longt": 36.2218652985,
+  "lati": 50.0407027002,
+  "FullNameUA": "проспект Науки, 65-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 117559,
+  "postcode": 61103,
+  "number": 65,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2230037767,
+  "lati": 50.0428410111,
+  "FullNameUA": "проспект Науки, 65-Б",
+  "ChildsIds": []
  },
  {
   "id": 117556,
@@ -2595,9 +2702,10 @@
   "same_adr_comm": "",
   "confrm": "121, 23.02.2016; 132, 24.02.2016",
   "reg_date": "26.12.2019 14:13:31",
-  "longt": 36.222022823799996,
+  "longt": 36.2220228238,
   "lati": 50.053716088,
-  "FullNameUA": "проспект Науки, 65, ділянка № 1138"
+  "FullNameUA": "проспект Науки, 65, ділянка № 1138",
+  "ChildsIds": []
  },
  {
   "id": 117557,
@@ -2621,8 +2729,9 @@
   "confrm": "Рішення ВК ХМР № 494, 13.08.2014",
   "reg_date": "26.12.2019 12:39:45",
   "longt": 36.2209982528,
-  "lati": 50.054662039200004,
-  "FullNameUA": "проспект Науки, 65, ділянка № 1179"
+  "lati": 50.0546620392,
+  "FullNameUA": "проспект Науки, 65, ділянка № 1179",
+  "ChildsIds": []
  },
  {
   "id": 179031,
@@ -2647,7 +2756,8 @@
   "reg_date": "26.03.2018 10:16:37",
   "longt": 36.2174257636,
   "lati": 50.0434448759,
-  "FullNameUA": "проспект Науки, 65, ділянка № 121-A"
+  "FullNameUA": "проспект Науки, 65, ділянка № 121-A",
+  "ChildsIds": []
  },
  {
   "id": 179610,
@@ -2671,8 +2781,9 @@
   "confrm": "Рішення ХМР № 598, 19.04.2017, дод. 2, п. 1",
   "reg_date": "06.08.2018 15:20:10",
   "longt": 36.2173635182,
-  "lati": 50.054753565700004,
-  "FullNameUA": "проспект Науки, 65, ділянка № 1238"
+  "lati": 50.0547535657,
+  "FullNameUA": "проспект Науки, 65, ділянка № 1238",
+  "ChildsIds": []
  },
  {
   "id": 179611,
@@ -2697,7 +2808,8 @@
   "reg_date": "06.08.2018 15:33:41",
   "longt": 36.2194474575,
   "lati": 50.0545452224,
-  "FullNameUA": "проспект Науки, 65, ділянка № 1273"
+  "FullNameUA": "проспект Науки, 65, ділянка № 1273",
+  "ChildsIds": []
  },
  {
   "id": 117558,
@@ -2722,7 +2834,8 @@
   "reg_date": "",
   "longt": 36.2186502245,
   "lati": 50.05361841,
-  "FullNameUA": "проспект Науки, 65, ділянка № 1285"
+  "FullNameUA": "проспект Науки, 65, ділянка № 1285",
+  "ChildsIds": []
  },
  {
   "id": 179683,
@@ -2747,7 +2860,8 @@
   "reg_date": "",
   "longt": 36.2201002141,
   "lati": 50.0449804023,
-  "FullNameUA": "проспект Науки, 65, ділянка № 291"
+  "FullNameUA": "проспект Науки, 65, ділянка № 291",
+  "ChildsIds": []
  },
  {
   "id": 179684,
@@ -2772,7 +2886,8 @@
   "reg_date": "05.09.2018 10:38:17",
   "longt": 36.2196254127,
   "lati": 50.0446581406,
-  "FullNameUA": "проспект Науки, 65, ділянка № 295"
+  "FullNameUA": "проспект Науки, 65, ділянка № 295",
+  "ChildsIds": []
  },
  {
   "id": 117551,
@@ -2797,7 +2912,8 @@
   "reg_date": "26.12.2019 12:02:30",
   "longt": 36.2225111605,
   "lati": 50.0457277379,
-  "FullNameUA": "проспект Науки, 65, ділянка № 329"
+  "FullNameUA": "проспект Науки, 65, ділянка № 329",
+  "ChildsIds": []
  },
  {
   "id": 117552,
@@ -2822,7 +2938,8 @@
   "reg_date": "26.12.2019 12:09:01",
   "longt": 36.2224926503,
   "lati": 50.0459368248,
-  "FullNameUA": "проспект Науки, 65, ділянка № 350"
+  "FullNameUA": "проспект Науки, 65, ділянка № 350",
+  "ChildsIds": []
  },
  {
   "id": 181021,
@@ -2847,7 +2964,8 @@
   "reg_date": "30.07.2019 15:15:38",
   "longt": 36.2193948219,
   "lati": 50.0459338034,
-  "FullNameUA": "проспект Науки, 65, ділянка № 359, садовий будинок № 359"
+  "FullNameUA": "проспект Науки, 65, ділянка № 359, садовий будинок № 359",
+  "ChildsIds": []
  },
  {
   "id": 117553,
@@ -2872,7 +2990,8 @@
   "reg_date": "",
   "longt": 36.2230110433,
   "lati": 50.0466066157,
-  "FullNameUA": "проспект Науки, 65, ділянка № 383"
+  "FullNameUA": "проспект Науки, 65, ділянка № 383",
+  "ChildsIds": []
  },
  {
   "id": 180895,
@@ -2897,7 +3016,8 @@
   "reg_date": "27.06.2019 15:26:04",
   "longt": 36.221198737,
   "lati": 50.0465074632,
-  "FullNameUA": "проспект Науки, 65, ділянка № 393"
+  "FullNameUA": "проспект Науки, 65, ділянка № 393",
+  "ChildsIds": []
  },
  {
   "id": 181484,
@@ -2922,7 +3042,8 @@
   "reg_date": "28.10.2019 15:14:13",
   "longt": 36.2184823941,
   "lati": 50.0484837718,
-  "FullNameUA": "проспект Науки, 65, ділянка № 551"
+  "FullNameUA": "проспект Науки, 65, ділянка № 551",
+  "ChildsIds": []
  },
  {
   "id": 179681,
@@ -2946,8 +3067,9 @@
   "confrm": "Рішення ХМР № 1177, 22.08.2018, дод. 2, п. 1",
   "reg_date": "05.09.2018 10:10:03",
   "longt": 36.22351089,
-  "lati": 50.05126219500001,
-  "FullNameUA": "проспект Науки, 65, ділянка № 804"
+  "lati": 50.051262195,
+  "FullNameUA": "проспект Науки, 65, ділянка № 804",
+  "ChildsIds": []
  },
  {
   "id": 179682,
@@ -2972,7 +3094,8 @@
   "reg_date": "",
   "longt": 36.2233316884,
   "lati": 50.0512788273,
-  "FullNameUA": "проспект Науки, 65, ділянка № 805"
+  "FullNameUA": "проспект Науки, 65, ділянка № 805",
+  "ChildsIds": []
  },
  {
   "id": 117554,
@@ -2996,8 +3119,9 @@
   "confrm": "317, 27.05.2015",
   "reg_date": "26.12.2019 12:10:46",
   "longt": 36.2239722404,
-  "lati": 50.05186173760001,
-  "FullNameUA": "проспект Науки, 65, ділянка № 814"
+  "lati": 50.0518617376,
+  "FullNameUA": "проспект Науки, 65, ділянка № 814",
+  "ChildsIds": []
  },
  {
   "id": 117555,
@@ -3022,7 +3146,8 @@
   "reg_date": "26.12.2019 12:15:46",
   "longt": 36.2231949711,
   "lati": 50.0527397748,
-  "FullNameUA": "проспект Науки, 65, ділянка № 836"
+  "FullNameUA": "проспект Науки, 65, ділянка № 836",
+  "ChildsIds": []
  },
  {
   "id": 176981,
@@ -3047,7 +3172,8 @@
   "reg_date": "30.03.2017 16:18:39",
   "longt": 36.2174301518,
   "lati": 50.0547819888,
-  "FullNameUA": "проспект Науки, 65, садовий будинок № 1238"
+  "FullNameUA": "проспект Науки, 65, садовий будинок № 1238",
+  "ChildsIds": []
  },
  {
   "id": 177406,
@@ -3072,7 +3198,8 @@
   "reg_date": "03.07.2017 11:14:17",
   "longt": 36.2194330485,
   "lati": 50.0546261244,
-  "FullNameUA": "проспект Науки, 65, садовий будинок № 1273"
+  "FullNameUA": "проспект Науки, 65, садовий будинок № 1273",
+  "ChildsIds": []
  },
  {
   "id": 180322,
@@ -3097,7 +3224,8 @@
   "reg_date": "27.02.2019 17:46:47",
   "longt": 36.2197319654,
   "lati": 50.0445342524,
-  "FullNameUA": "проспект Науки, 65, садовий будинок № 295"
+  "FullNameUA": "проспект Науки, 65, садовий будинок № 295",
+  "ChildsIds": []
  },
  {
   "id": 179825,
@@ -3122,7 +3250,8 @@
   "reg_date": "22.10.2018 14:50:05",
   "longt": 36.2198231693,
   "lati": 50.0418580649,
-  "FullNameUA": "проспект Науки, 65, садовий будинок № 68"
+  "FullNameUA": "проспект Науки, 65, садовий будинок № 68",
+  "ChildsIds": []
  },
  {
   "id": 117560,
@@ -3147,32 +3276,8 @@
   "reg_date": "",
   "longt": 36.2216044321,
   "lati": 50.0377479965,
-  "FullNameUA": "проспект Науки, 66"
- },
- {
-  "id": 117561,
-  "postcode": 61103,
-  "number": 66,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2228970939,
-  "lati": 50.0376240303,
-  "FullNameUA": "проспект Науки, 66-А"
+  "FullNameUA": "проспект Науки, 66",
+  "ChildsIds": []
  },
  {
   "id": 177041,
@@ -3197,7 +3302,34 @@
   "reg_date": "",
   "longt": 36.2217336269,
   "lati": 50.0386305819,
-  "FullNameUA": "проспект Науки, 66-Б"
+  "FullNameUA": "проспект Науки, 66-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117561,
+  "postcode": 61103,
+  "number": 66,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2228970939,
+  "lati": 50.0376240303,
+  "FullNameUA": "проспект Науки, 66-А",
+  "ChildsIds": []
  },
  {
   "id": 117562,
@@ -3222,7 +3354,8 @@
   "reg_date": "",
   "longt": 36.2164871307,
   "lati": 50.0398656595,
-  "FullNameUA": "проспект Науки, 67"
+  "FullNameUA": "проспект Науки, 67",
+  "ChildsIds": []
  },
  {
   "id": 117563,
@@ -3246,33 +3379,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2226518187,
-  "lati": 50.038471415000004,
-  "FullNameUA": "проспект Науки, 68"
- },
- {
-  "id": 117565,
-  "postcode": 61103,
-  "number": 68,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2257152396,
-  "lati": 50.0380596236,
-  "FullNameUA": "проспект Науки, 68-Б"
+  "lati": 50.038471415,
+  "FullNameUA": "проспект Науки, 68",
+  "ChildsIds": []
  },
  {
   "id": 117564,
@@ -3297,7 +3406,34 @@
   "reg_date": "",
   "longt": 36.2231592587,
   "lati": 50.0381795678,
-  "FullNameUA": "проспект Науки, 68-А"
+  "FullNameUA": "проспект Науки, 68-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117565,
+  "postcode": 61103,
+  "number": 68,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2257152396,
+  "lati": 50.0380596236,
+  "FullNameUA": "проспект Науки, 68-Б",
+  "ChildsIds": []
  },
  {
   "id": 117566,
@@ -3320,9 +3456,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215508433000004,
+  "longt": 36.215508433,
   "lati": 50.0401503865,
-  "FullNameUA": "проспект Науки, 69"
+  "FullNameUA": "проспект Науки, 69",
+  "ChildsIds": []
  },
  {
   "id": 117567,
@@ -3345,9 +3482,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223489516099995,
+  "longt": 36.2234895161,
   "lati": 50.0388572727,
-  "FullNameUA": "проспект Науки, 70"
+  "FullNameUA": "проспект Науки, 70",
+  "ChildsIds": []
  },
  {
   "id": 117568,
@@ -3372,7 +3510,8 @@
   "reg_date": "",
   "longt": 36.2145370336,
   "lati": 50.0404374638,
-  "FullNameUA": "проспект Науки, 71"
+  "FullNameUA": "проспект Науки, 71",
+  "ChildsIds": []
  },
  {
   "id": 117569,
@@ -3396,8 +3535,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2223108266,
-  "lati": 50.039504700500004,
-  "FullNameUA": "проспект Науки, 72"
+  "lati": 50.0395047005,
+  "FullNameUA": "проспект Науки, 72",
+  "ChildsIds": []
  },
  {
   "id": 117570,
@@ -3422,7 +3562,8 @@
   "reg_date": "",
   "longt": 36.22318779,
   "lati": 50.0394297028,
-  "FullNameUA": "проспект Науки, 74"
+  "FullNameUA": "проспект Науки, 74",
+  "ChildsIds": []
  },
  {
   "id": 117571,
@@ -3447,7 +3588,8 @@
   "reg_date": "",
   "longt": 36.2145085159,
   "lati": 50.0421152463,
-  "FullNameUA": "проспект Науки, 75"
+  "FullNameUA": "проспект Науки, 75",
+  "ChildsIds": []
  },
  {
   "id": 117572,
@@ -3472,7 +3614,8 @@
   "reg_date": "",
   "longt": 36.2229758912,
   "lati": 50.0398974139,
-  "FullNameUA": "проспект Науки, 76"
+  "FullNameUA": "проспект Науки, 76",
+  "ChildsIds": []
  },
  {
   "id": 117573,
@@ -3496,8 +3639,9 @@
   "confrm": "Рішення ВК ХМР № 593, 24.09.2014 (квартира)",
   "reg_date": "",
   "longt": 36.2200893406,
-  "lati": 50.037498428300005,
-  "FullNameUA": "проспект Науки, 77"
+  "lati": 50.0374984283,
+  "FullNameUA": "проспект Науки, 77",
+  "ChildsIds": []
  },
  {
   "id": 117574,
@@ -3522,32 +3666,8 @@
   "reg_date": "",
   "longt": 36.2226101543,
   "lati": 50.0402943578,
-  "FullNameUA": "проспект Науки, 78"
- },
- {
-  "id": 117575,
-  "postcode": 61103,
-  "number": 80,
-  "suffix": "",
-  "block": "",
-  "streetid": 3107,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2235153812,
-  "lati": 50.0402406556,
-  "FullNameUA": "проспект Науки, 80"
+  "FullNameUA": "проспект Науки, 78",
+  "ChildsIds": []
  },
  {
   "id": 117576,
@@ -3572,7 +3692,34 @@
   "reg_date": "",
   "longt": 36.2242870453,
   "lati": 50.0399348895,
-  "FullNameUA": "проспект Науки, 80-А"
+  "FullNameUA": "проспект Науки, 80-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117575,
+  "postcode": 61103,
+  "number": 80,
+  "suffix": "",
+  "block": "",
+  "streetid": 3107,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2235153812,
+  "lati": 50.0402406556,
+  "FullNameUA": "проспект Науки, 80",
+  "ChildsIds": []
  },
  {
   "id": 117577,
@@ -3597,7 +3744,8 @@
   "reg_date": "",
   "longt": 36.2233062172,
   "lati": 50.0406863711,
-  "FullNameUA": "проспект Науки, 82"
+  "FullNameUA": "проспект Науки, 82",
+  "ChildsIds": []
  },
  {
   "id": 117578,
@@ -3622,7 +3770,8 @@
   "reg_date": "",
   "longt": 36.2229486019,
   "lati": 50.041088792,
-  "FullNameUA": "проспект Науки, 84"
+  "FullNameUA": "проспект Науки, 84",
+  "ChildsIds": []
  },
  {
   "id": 117579,
@@ -3645,9 +3794,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223832507299996,
+  "longt": 36.2238325073,
   "lati": 50.0410201952,
-  "FullNameUA": "проспект Науки, 86"
+  "FullNameUA": "проспект Науки, 86",
+  "ChildsIds": []
  },
  {
   "id": 177924,
@@ -3672,7 +3822,8 @@
   "reg_date": "",
   "longt": 36.2245322585,
   "lati": 50.0407387197,
-  "FullNameUA": "проспект Науки, 86, гараж № 3/3"
+  "FullNameUA": "проспект Науки, 86, гараж № 3/3",
+  "ChildsIds": []
  },
  {
   "id": 117580,
@@ -3696,8 +3847,9 @@
   "confrm": "карта М1:500",
   "reg_date": "",
   "longt": 36.223502144,
-  "lati": 50.041529030599996,
-  "FullNameUA": "проспект Науки, 88/90"
+  "lati": 50.0415290306,
+  "FullNameUA": "проспект Науки, 88/90",
+  "ChildsIds": []
  },
  {
   "id": 117581,
@@ -3721,7 +3873,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232451264,
-  "lati": 50.041924593299996,
-  "FullNameUA": "проспект Науки, 92"
+  "lati": 50.0419245933,
+  "FullNameUA": "проспект Науки, 92",
+  "ChildsIds": []
  }
 ]

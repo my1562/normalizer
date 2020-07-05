@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2091873277,
-  "lati": 50.011714143599995,
-  "FullNameUA": "вулиця Мирна, 1"
+  "lati": 50.0117141436,
+  "FullNameUA": "вулиця Мирна, 1",
+  "ChildsIds": []
  },
  {
   "id": 117761,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2088258645,
   "lati": 50.0122007162,
-  "FullNameUA": "вулиця Мирна, 3-А"
+  "FullNameUA": "вулиця Мирна, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 117760,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2092042916,
   "lati": 50.0122178748,
-  "FullNameUA": "вулиця Мирна, 3"
+  "FullNameUA": "вулиця Мирна, 3",
+  "ChildsIds": []
  },
  {
   "id": 117762,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209128592800006,
+  "longt": 36.2091285928,
   "lati": 50.01263666,
-  "FullNameUA": "вулиця Мирна, 5"
+  "FullNameUA": "вулиця Мирна, 5",
+  "ChildsIds": []
  },
  {
   "id": 117763,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.208314338,
   "lati": 50.0125608173,
-  "FullNameUA": "вулиця Мирна, 5-А"
+  "FullNameUA": "вулиця Мирна, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 117764,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2103185181,
   "lati": 50.0094856628,
-  "FullNameUA": "вулиця Мирна, 6"
+  "FullNameUA": "вулиця Мирна, 6",
+  "ChildsIds": []
  },
  {
   "id": 117765,
@@ -170,34 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209050662900005,
-  "lati": 50.013046106699996,
-  "FullNameUA": "вулиця Мирна, 7"
- },
- {
-  "id": 117767,
-  "postcode": 61145,
-  "number": 7,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3261,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.207967182000004,
-  "lati": 50.0129417262,
-  "FullNameUA": "вулиця Мирна, 7-Б"
+  "longt": 36.2090506629,
+  "lati": 50.0130461067,
+  "FullNameUA": "вулиця Мирна, 7",
+  "ChildsIds": []
  },
  {
   "id": 117768,
@@ -221,8 +203,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2085219402,
-  "lati": 50.013357952199996,
-  "FullNameUA": "вулиця Мирна, 7-В"
+  "lati": 50.0133579522,
+  "FullNameUA": "вулиця Мирна, 7-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 117767,
+  "postcode": 61145,
+  "number": 7,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3261,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.207967182,
+  "lati": 50.0129417262,
+  "FullNameUA": "вулиця Мирна, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 117766,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2086717839,
-  "lati": 50.013011346199995,
-  "FullNameUA": "вулиця Мирна, 7-А"
+  "lati": 50.0130113462,
+  "FullNameUA": "вулиця Мирна, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 117769,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2102466167,
   "lati": 50.0097509254,
-  "FullNameUA": "вулиця Мирна, 8"
+  "FullNameUA": "вулиця Мирна, 8",
+  "ChildsIds": []
  },
  {
   "id": 117770,
@@ -297,32 +308,8 @@
   "reg_date": "",
   "longt": 36.2081313774,
   "lati": 50.012133815,
-  "FullNameUA": "вулиця Мирна, 9"
- },
- {
-  "id": 178661,
-  "postcode": 61145,
-  "number": 11,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3261,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2077582745,
-  "lati": 50.0138448353,
-  "FullNameUA": "вулиця Мирна, 11-Б"
+  "FullNameUA": "вулиця Мирна, 9",
+  "ChildsIds": []
  },
  {
   "id": 117772,
@@ -347,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2085618805,
   "lati": 50.0136173671,
-  "FullNameUA": "вулиця Мирна, 11-А"
+  "FullNameUA": "вулиця Мирна, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 117771,
@@ -370,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208790001800004,
+  "longt": 36.2087900018,
   "lati": 50.0145039927,
-  "FullNameUA": "вулиця Мирна, 11"
+  "FullNameUA": "вулиця Мирна, 11",
+  "ChildsIds": []
  },
  {
   "id": 178662,
@@ -395,9 +384,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.206880890200004,
-  "lati": 50.013870453799996,
-  "FullNameUA": "вулиця Мирна, 11-В"
+  "longt": 36.2068808902,
+  "lati": 50.0138704538,
+  "FullNameUA": "вулиця Мирна, 11-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 178661,
+  "postcode": 61145,
+  "number": 11,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3261,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2077582745,
+  "lati": 50.0138448353,
+  "FullNameUA": "вулиця Мирна, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 117774,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208180189100005,
+  "longt": 36.2081801891,
   "lati": 50.0158540419,
-  "FullNameUA": "вулиця Мирна, 13-А"
+  "FullNameUA": "вулиця Мирна, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 117773,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "адреса юр. особи",
   "reg_date": "",
-  "longt": 36.208201646800006,
+  "longt": 36.2082016468,
   "lati": 50.0158264655,
-  "FullNameUA": "вулиця Мирна, 13"
+  "FullNameUA": "вулиця Мирна, 13",
+  "ChildsIds": []
  },
  {
   "id": 117775,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2101375044,
   "lati": 50.0102971232,
-  "FullNameUA": "вулиця Мирна, 16"
+  "FullNameUA": "вулиця Мирна, 16",
+  "ChildsIds": []
  },
  {
   "id": 117776,
@@ -497,7 +516,8 @@
   "reg_date": "16.12.2019 10:09:04",
   "longt": 36.2060434176,
   "lati": 50.0168875264,
-  "FullNameUA": "вулиця Мирна, 19"
+  "FullNameUA": "вулиця Мирна, 19",
+  "ChildsIds": []
  },
  {
   "id": 117777,
@@ -522,7 +542,8 @@
   "reg_date": "16.12.2019 10:10:51",
   "longt": 36.2062507177,
   "lati": 50.0159856384,
-  "FullNameUA": "вулиця Мирна, 19-А"
+  "FullNameUA": "вулиця Мирна, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 117778,
@@ -546,8 +567,9 @@
   "confrm": "Рішення ВК Дзержинської РР 154_54, 17.08.99",
   "reg_date": "",
   "longt": 36.2100508264,
-  "lati": 50.010734958499995,
-  "FullNameUA": "вулиця Мирна, 22"
+  "lati": 50.0107349585,
+  "FullNameUA": "вулиця Мирна, 22",
+  "ChildsIds": []
  },
  {
   "id": 117779,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2098941864,
   "lati": 50.0116266391,
-  "FullNameUA": "вулиця Мирна, 28"
+  "FullNameUA": "вулиця Мирна, 28",
+  "ChildsIds": []
  },
  {
   "id": 117780,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2098304808,
-  "lati": 50.011834464399996,
-  "FullNameUA": "вулиця Мирна, 30"
+  "lati": 50.0118344644,
+  "FullNameUA": "вулиця Мирна, 30",
+  "ChildsIds": []
  },
  {
   "id": 117781,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.209836187,
   "lati": 50.0119581457,
-  "FullNameUA": "вулиця Мирна, 32"
+  "FullNameUA": "вулиця Мирна, 32",
+  "ChildsIds": []
  },
  {
   "id": 117782,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2097940195,
   "lati": 50.0121076035,
-  "FullNameUA": "вулиця Мирна, 34"
+  "FullNameUA": "вулиця Мирна, 34",
+  "ChildsIds": []
  },
  {
   "id": 117783,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209742022600004,
+  "longt": 36.2097420226,
   "lati": 50.0122037964,
-  "FullNameUA": "вулиця Мирна, 36"
+  "FullNameUA": "вулиця Мирна, 36",
+  "ChildsIds": []
  },
  {
   "id": 117784,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209747174700006,
+  "longt": 36.2097471747,
   "lati": 50.0123698194,
-  "FullNameUA": "вулиця Мирна, 38"
+  "FullNameUA": "вулиця Мирна, 38",
+  "ChildsIds": []
  },
  {
   "id": 117785,
@@ -721,7 +749,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.209682372,
-  "lati": 50.012746720399996,
-  "FullNameUA": "вулиця Мирна, 42"
+  "lati": 50.0127467204,
+  "FullNameUA": "вулиця Мирна, 42",
+  "ChildsIds": []
  }
 ]

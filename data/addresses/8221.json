@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "id": 182300,
+  "postcode": 61033,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 8221,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\", гараж літ. \"Б\"",
+  "confrm": "",
+  "reg_date": "25.02.2020 12:49:40",
+  "longt": 36.3063252938,
+  "lati": 50.0265344679,
+  "FullNameUA": "в'їзд Клеменова Дача, 6",
+  "ChildsIds": []
+ }
+]

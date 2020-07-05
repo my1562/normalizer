@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233482079000005,
+  "longt": 36.233482079,
   "lati": 50.0139685985,
-  "FullNameUA": "вулиця Шатилівська, 1"
+  "FullNameUA": "вулиця Шатилівська, 1",
+  "ChildsIds": []
  },
  {
   "id": 117407,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23393747950001,
+  "longt": 36.2339374795,
   "lati": 50.0149453896,
-  "FullNameUA": "вулиця Шатилівська, 2"
+  "FullNameUA": "вулиця Шатилівська, 2",
+  "ChildsIds": []
  },
  {
   "id": 117408,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2327984201,
   "lati": 50.0150761465,
-  "FullNameUA": "вулиця Шатилівська, 3"
+  "FullNameUA": "вулиця Шатилівська, 3",
+  "ChildsIds": []
  },
  {
   "id": 117409,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2337785236,
   "lati": 50.0150754526,
-  "FullNameUA": "вулиця Шатилівська, 4"
+  "FullNameUA": "вулиця Шатилівська, 4",
+  "ChildsIds": []
  },
  {
   "id": 117410,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23242961970001,
+  "longt": 36.2324296197,
   "lati": 50.0156875885,
-  "FullNameUA": "вулиця Шатилівська, 5"
+  "FullNameUA": "вулиця Шатилівська, 5",
+  "ChildsIds": []
  },
  {
   "id": 117411,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.2336201482,
   "lati": 50.0152881757,
-  "FullNameUA": "вулиця Шатилівська, 6"
- },
- {
-  "id": 117412,
-  "postcode": 61166,
-  "number": 8,
-  "suffix": "",
-  "block": "",
-  "streetid": 3106,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23346825110001,
-  "lati": 50.0155699873,
-  "FullNameUA": "вулиця Шатилівська, 8"
+  "FullNameUA": "вулиця Шатилівська, 6",
+  "ChildsIds": []
  },
  {
   "id": 117413,
@@ -197,7 +178,34 @@
   "reg_date": "",
   "longt": 36.2338960459,
   "lati": 50.0156756358,
-  "FullNameUA": "вулиця Шатилівська, 8-А"
+  "FullNameUA": "вулиця Шатилівська, 8-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117412,
+  "postcode": 61166,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3106,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2334682511,
+  "lati": 50.0155699873,
+  "FullNameUA": "вулиця Шатилівська, 8",
+  "ChildsIds": []
  },
  {
   "id": 117414,
@@ -222,13 +230,14 @@
   "reg_date": "",
   "longt": 36.2333164841,
   "lati": 50.0157699683,
-  "FullNameUA": "вулиця Шатилівська, 10"
+  "FullNameUA": "вулиця Шатилівська, 10",
+  "ChildsIds": []
  },
  {
-  "id": 117415,
+  "id": 117416,
   "postcode": 61166,
   "number": 12,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 3106,
   "status_id": 1,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233388179600006,
-  "lati": 50.0159761417,
-  "FullNameUA": "вулиця Шатилівська, 12"
+  "longt": 36.2331621445,
+  "lati": 50.016236865,
+  "FullNameUA": "вулиця Шатилівська, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 117417,
@@ -272,13 +282,14 @@
   "reg_date": "",
   "longt": 36.2333028784,
   "lati": 50.0160761879,
-  "FullNameUA": "вулиця Шатилівська, 12-Б"
+  "FullNameUA": "вулиця Шатилівська, 12-Б",
+  "ChildsIds": []
  },
  {
-  "id": 117416,
+  "id": 117415,
   "postcode": 61166,
   "number": 12,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 3106,
   "status_id": 1,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23316214450001,
-  "lati": 50.016236864999996,
-  "FullNameUA": "вулиця Шатилівська, 12-А"
+  "longt": 36.2333881796,
+  "lati": 50.0159761417,
+  "FullNameUA": "вулиця Шатилівська, 12",
+  "ChildsIds": []
  },
  {
   "id": 117418,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23300970100001,
+  "longt": 36.233009701,
   "lati": 50.0163941654,
-  "FullNameUA": "вулиця Шатилівська, 14"
+  "FullNameUA": "вулиця Шатилівська, 14",
+  "ChildsIds": []
  },
  {
   "id": 117419,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2324977593,
-  "lati": 50.017530462299995,
-  "FullNameUA": "вулиця Шатилівська, 18-А"
+  "lati": 50.0175304623,
+  "FullNameUA": "вулиця Шатилівська, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 117420,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2324844784,
-  "lati": 50.016325023499995,
-  "FullNameUA": "вулиця Шатилівська, 19"
+  "lati": 50.0163250235,
+  "FullNameUA": "вулиця Шатилівська, 19",
+  "ChildsIds": []
  },
  {
   "id": 117421,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232149695800004,
+  "longt": 36.2321496958,
   "lati": 50.0176072956,
-  "FullNameUA": "вулиця Шатилівська, 20"
+  "FullNameUA": "вулиця Шатилівська, 20",
+  "ChildsIds": []
  },
  {
   "id": 117422,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2319405717,
   "lati": 50.0171788225,
-  "FullNameUA": "вулиця Шатилівська, 21/23"
+  "FullNameUA": "вулиця Шатилівська, 21/23",
+  "ChildsIds": []
  },
  {
   "id": 117423,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232025808100005,
+  "longt": 36.2320258081,
   "lati": 50.0178038668,
-  "FullNameUA": "вулиця Шатилівська, 22"
+  "FullNameUA": "вулиця Шатилівська, 22",
+  "ChildsIds": []
  },
  {
   "id": 117424,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232132796200005,
+  "longt": 36.2321327962,
   "lati": 50.018018569,
-  "FullNameUA": "вулиця Шатилівська, 24"
+  "FullNameUA": "вулиця Шатилівська, 24",
+  "ChildsIds": []
  },
  {
   "id": 117425,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231293699000005,
+  "longt": 36.231293699,
   "lati": 50.0173195188,
-  "FullNameUA": "вулиця Шатилівська, 25"
+  "FullNameUA": "вулиця Шатилівська, 25",
+  "ChildsIds": []
  },
  {
   "id": 117426,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23151928870001,
+  "longt": 36.2315192887,
   "lati": 50.0176954329,
-  "FullNameUA": "вулиця Шатилівська, 25-А"
+  "FullNameUA": "вулиця Шатилівська, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 117427,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2320434043,
   "lati": 50.018217276,
-  "FullNameUA": "вулиця Шатилівська, 26"
+  "FullNameUA": "вулиця Шатилівська, 26",
+  "ChildsIds": []
  },
  {
   "id": 117428,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23150612920001,
-  "lati": 50.017916932599995,
-  "FullNameUA": "вулиця Шатилівська, 27"
+  "longt": 36.2315061292,
+  "lati": 50.0179169326,
+  "FullNameUA": "вулиця Шатилівська, 27",
+  "ChildsIds": []
  },
  {
   "id": 117429,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.232216805200004,
+  "longt": 36.2322168052,
   "lati": 50.0184263298,
-  "FullNameUA": "вулиця Шатилівська, 28"
+  "FullNameUA": "вулиця Шатилівська, 28",
+  "ChildsIds": []
  },
  {
   "id": 117430,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23144548210001,
+  "longt": 36.2314454821,
   "lati": 50.0180866576,
-  "FullNameUA": "вулиця Шатилівська, 29"
+  "FullNameUA": "вулиця Шатилівська, 29",
+  "ChildsIds": []
  },
  {
   "id": 117431,
@@ -645,34 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231581415200004,
-  "lati": 50.018510452099996,
-  "FullNameUA": "вулиця Шатилівська, 30"
- },
- {
-  "id": 117432,
-  "postcode": 61166,
-  "number": 31,
-  "suffix": "",
-  "block": "",
-  "streetid": 3106,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.231312567,
-  "lati": 50.018278208199995,
-  "FullNameUA": "вулиця Шатилівська, 31"
+  "longt": 36.2315814152,
+  "lati": 50.0185104521,
+  "FullNameUA": "вулиця Шатилівська, 30",
+  "ChildsIds": []
  },
  {
   "id": 117433,
@@ -697,7 +698,34 @@
   "reg_date": "",
   "longt": 36.2311400202,
   "lati": 50.018479008,
-  "FullNameUA": "вулиця Шатилівська, 31-А"
+  "FullNameUA": "вулиця Шатилівська, 31-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117432,
+  "postcode": 61166,
+  "number": 31,
+  "suffix": "",
+  "block": "",
+  "streetid": 3106,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.231312567,
+  "lati": 50.0182782082,
+  "FullNameUA": "вулиця Шатилівська, 31",
+  "ChildsIds": []
  },
  {
   "id": 117434,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2314867086,
   "lati": 50.0186850729,
-  "FullNameUA": "вулиця Шатилівська, 32"
+  "FullNameUA": "вулиця Шатилівська, 32",
+  "ChildsIds": []
  },
  {
   "id": 117437,
@@ -745,34 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230977581000005,
+  "longt": 36.230977581,
   "lati": 50.0186979509,
-  "FullNameUA": "вулиця Шатилівська, 33-Б"
- },
- {
-  "id": 117436,
-  "postcode": 61166,
-  "number": 33,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3106,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.230976662500005,
-  "lati": 50.018564637299995,
-  "FullNameUA": "вулиця Шатилівська, 33-А"
+  "FullNameUA": "вулиця Шатилівська, 33-Б",
+  "ChildsIds": []
  },
  {
   "id": 117435,
@@ -797,7 +802,34 @@
   "reg_date": "",
   "longt": 36.230862295,
   "lati": 50.0188787189,
-  "FullNameUA": "вулиця Шатилівська, 33"
+  "FullNameUA": "вулиця Шатилівська, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 117436,
+  "postcode": 61166,
+  "number": 33,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3106,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2309766625,
+  "lati": 50.0185646373,
+  "FullNameUA": "вулиця Шатилівська, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 117438,
@@ -821,33 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2313911313,
-  "lati": 50.018859950999996,
-  "FullNameUA": "вулиця Шатилівська, 34"
- },
- {
-  "id": 117440,
-  "postcode": 61166,
-  "number": 35,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3106,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.230554252800005,
-  "lati": 50.0192749342,
-  "FullNameUA": "вулиця Шатилівська, 35-А"
+  "lati": 50.018859951,
+  "FullNameUA": "вулиця Шатилівська, 34",
+  "ChildsIds": []
  },
  {
   "id": 117439,
@@ -871,8 +879,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2305706001,
-  "lati": 50.019065466899995,
-  "FullNameUA": "вулиця Шатилівська, 35"
+  "lati": 50.0190654669,
+  "FullNameUA": "вулиця Шатилівська, 35",
+  "ChildsIds": []
+ },
+ {
+  "id": 117440,
+  "postcode": 61166,
+  "number": 35,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3106,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2305542528,
+  "lati": 50.0192749342,
+  "FullNameUA": "вулиця Шатилівська, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 117441,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23115013340001,
-  "lati": 50.019278697299995,
-  "FullNameUA": "вулиця Шатилівська, 36"
+  "longt": 36.2311501334,
+  "lati": 50.0192786973,
+  "FullNameUA": "вулиця Шатилівська, 36",
+  "ChildsIds": []
  },
  {
   "id": 117442,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2310943441,
   "lati": 50.0193570789,
-  "FullNameUA": "вулиця Шатилівська, 38"
+  "FullNameUA": "вулиця Шатилівська, 38",
+  "ChildsIds": []
  },
  {
   "id": 117443,
@@ -945,9 +982,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23007315700001,
+  "longt": 36.230073157,
   "lati": 50.0201615346,
-  "FullNameUA": "вулиця Шатилівська, 39"
+  "FullNameUA": "вулиця Шатилівська, 39",
+  "ChildsIds": []
+ },
+ {
+  "id": 117445,
+  "postcode": 61166,
+  "number": 40,
+  "suffix": "/31",
+  "block": "",
+  "streetid": 3106,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2307818778,
+  "lati": 50.019846015,
+  "FullNameUA": "вулиця Шатилівська, 40/31",
+  "ChildsIds": []
  },
  {
   "id": 117444,
@@ -971,33 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2307367912,
-  "lati": 50.019986529899995,
-  "FullNameUA": "вулиця Шатилівська, 40"
- },
- {
-  "id": 117445,
-  "postcode": 61166,
-  "number": 40,
-  "suffix": "/31",
-  "block": "",
-  "streetid": 3106,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.230781877800005,
-  "lati": 50.019846015,
-  "FullNameUA": "вулиця Шатилівська, 40/31"
+  "lati": 50.0199865299,
+  "FullNameUA": "вулиця Шатилівська, 40",
+  "ChildsIds": []
  },
  {
   "id": 117446,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2297346951,
   "lati": 50.0207023278,
-  "FullNameUA": "вулиця Шатилівська, 41"
+  "FullNameUA": "вулиця Шатилівська, 41",
+  "ChildsIds": []
  },
  {
   "id": 180000,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2284377404,
   "lati": 50.0205814607,
-  "FullNameUA": "вулиця Шатилівська, 41, гараж № 88"
+  "FullNameUA": "вулиця Шатилівська, 41, гараж № 88",
+  "ChildsIds": []
  },
  {
   "id": 117447,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2305123399,
-  "lati": 50.020268873400006,
-  "FullNameUA": "вулиця Шатилівська, 42"
+  "lati": 50.0202688734,
+  "FullNameUA": "вулиця Шатилівська, 42",
+  "ChildsIds": []
  },
  {
   "id": 117448,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2303990077,
   "lati": 50.0204661072,
-  "FullNameUA": "вулиця Шатилівська, 44"
+  "FullNameUA": "вулиця Шатилівська, 44",
+  "ChildsIds": []
  },
  {
   "id": 117449,
@@ -1120,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230333433800006,
+  "longt": 36.2303334338,
   "lati": 50.0206353991,
-  "FullNameUA": "вулиця Шатилівська, 46"
+  "FullNameUA": "вулиця Шатилівська, 46",
+  "ChildsIds": []
  },
  {
   "id": 117450,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2304187371,
   "lati": 50.0208636495,
-  "FullNameUA": "вулиця Шатилівська, 48"
+  "FullNameUA": "вулиця Шатилівська, 48",
+  "ChildsIds": []
  },
  {
   "id": 117451,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230118660900004,
+  "longt": 36.2301186609,
   "lati": 50.0210158539,
-  "FullNameUA": "вулиця Шатилівська, 50"
+  "FullNameUA": "вулиця Шатилівська, 50",
+  "ChildsIds": []
  },
  {
   "id": 179312,
@@ -1196,8 +1243,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2294110569,
-  "lati": 50.021185618100006,
-  "FullNameUA": "вулиця Шатилівська, 51"
+  "lati": 50.0211856181,
+  "FullNameUA": "вулиця Шатилівська, 51",
+  "ChildsIds": []
  },
  {
   "id": 117452,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.2299765775,
   "lati": 50.021170943,
-  "FullNameUA": "вулиця Шатилівська, 52"
+  "FullNameUA": "вулиця Шатилівська, 52",
+  "ChildsIds": []
  },
  {
   "id": 117453,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2293696404,
   "lati": 50.0213638262,
-  "FullNameUA": "вулиця Шатилівська, 53"
+  "FullNameUA": "вулиця Шатилівська, 53",
+  "ChildsIds": []
  },
  {
   "id": 117454,
@@ -1271,8 +1321,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2300522207,
-  "lati": 50.021327957900006,
-  "FullNameUA": "вулиця Шатилівська, 54"
+  "lati": 50.0213279579,
+  "FullNameUA": "вулиця Шатилівська, 54",
+  "ChildsIds": []
  },
  {
   "id": 117455,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2299832669,
   "lati": 50.0214475302,
-  "FullNameUA": "вулиця Шатилівська, 56"
+  "FullNameUA": "вулиця Шатилівська, 56",
+  "ChildsIds": []
  },
  {
   "id": 117456,
@@ -1320,8 +1372,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.229617305299996,
+  "longt": 36.2296173053,
   "lati": 50.0217639838,
-  "FullNameUA": "вулиця Шатилівська, 58"
+  "FullNameUA": "вулиця Шатилівська, 58",
+  "ChildsIds": []
  }
 ]

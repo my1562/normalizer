@@ -1,30 +1,5 @@
 [
  {
-  "id": 117588,
-  "postcode": 61202,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2099935131,
-  "lati": 50.0439188088,
-  "FullNameUA": "проспект Людвіга Свободи, 20"
- },
- {
   "id": 177004,
   "postcode": 61202,
   "number": 20,
@@ -47,7 +22,8 @@
   "reg_date": "31.03.2017 12:56:42",
   "longt": 36.2100148201,
   "lati": 50.0434633931,
-  "FullNameUA": "проспект Людвіга Свободи, 20-А"
+  "FullNameUA": "проспект Людвіга Свободи, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 178540,
@@ -72,13 +48,14 @@
   "reg_date": "",
   "longt": 36.2107872963,
   "lati": 50.0449245083,
-  "FullNameUA": "проспект Людвіга Свободи, 20-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 20-Б",
+  "ChildsIds": []
  },
  {
-  "id": 117590,
+  "id": 117588,
   "postcode": 61202,
-  "number": 24,
-  "suffix": "А",
+  "number": 20,
+  "suffix": "",
   "block": "",
   "streetid": 3175,
   "status_id": 1,
@@ -95,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.210236538400004,
-  "lati": 50.0467681116,
-  "FullNameUA": "проспект Людвіга Свободи, 24-А"
+  "longt": 36.2099935131,
+  "lati": 50.0439188088,
+  "FullNameUA": "проспект Людвіга Свободи, 20",
+  "ChildsIds": []
  },
  {
   "id": 117589,
@@ -122,7 +100,34 @@
   "reg_date": "",
   "longt": 36.2089071965,
   "lati": 50.0459664543,
-  "FullNameUA": "проспект Людвіга Свободи, 24"
+  "FullNameUA": "проспект Людвіга Свободи, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 117590,
+  "postcode": 61202,
+  "number": 24,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2102365384,
+  "lati": 50.0467681116,
+  "FullNameUA": "проспект Людвіга Свободи, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 117591,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208879844900004,
+  "longt": 36.2088798449,
   "lati": 50.0468982474,
-  "FullNameUA": "проспект Людвіга Свободи, 26"
+  "FullNameUA": "проспект Людвіга Свободи, 26",
+  "ChildsIds": []
  },
  {
   "id": 178607,
@@ -172,7 +178,8 @@
   "reg_date": "07.10.2019 11:05:41",
   "longt": 36.2075058362,
   "lati": 50.0487220712,
-  "FullNameUA": "проспект Людвіга Свободи, 28-А"
+  "FullNameUA": "проспект Людвіга Свободи, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 117592,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2088336154,
   "lati": 50.0481729757,
-  "FullNameUA": "проспект Людвіга Свободи, 28"
+  "FullNameUA": "проспект Людвіга Свободи, 28",
+  "ChildsIds": []
  },
  {
   "id": 117593,
@@ -220,9 +228,36 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 335, 19.05.2016; 339, 14.09.2016",
   "reg_date": "14.01.2019 15:26:05",
-  "longt": 36.205958824700005,
+  "longt": 36.2059588247,
   "lati": 50.0484883603,
-  "FullNameUA": "проспект Людвіга Свободи, 29"
+  "FullNameUA": "проспект Людвіга Свободи, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 117595,
+  "postcode": 61204,
+  "number": 30,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2092061081,
+  "lati": 50.0489780171,
+  "FullNameUA": "проспект Людвіга Свободи, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 117597,
@@ -247,57 +282,8 @@
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.2073319149,
   "lati": 50.0495332316,
-  "FullNameUA": "проспект Людвіга Свободи, 30-М"
- },
- {
-  "id": 117596,
-  "postcode": 61204,
-  "number": 30,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208428444400006,
-  "lati": 50.0485369832,
-  "FullNameUA": "проспект Людвіга Свободи, 30-Б"
- },
- {
-  "id": 117595,
-  "postcode": 61204,
-  "number": 30,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.209206108100005,
-  "lati": 50.0489780171,
-  "FullNameUA": "проспект Людвіга Свободи, 30-А"
+  "FullNameUA": "проспект Людвіга Свободи, 30-М",
+  "ChildsIds": []
  },
  {
   "id": 117594,
@@ -322,38 +308,14 @@
   "reg_date": "",
   "longt": 36.208224256,
   "lati": 50.0491558042,
-  "FullNameUA": "проспект Людвіга Свободи, 30"
+  "FullNameUA": "проспект Людвіга Свободи, 30",
+  "ChildsIds": []
  },
  {
-  "id": 117600,
-  "postcode": 61202,
-  "number": 31,
-  "suffix": "М",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
-  "reg_date": "18.06.2014 00:00:00",
-  "longt": 36.205729855600005,
-  "lati": 50.051019669800006,
-  "FullNameUA": "проспект Людвіга Свободи, 31-М"
- },
- {
-  "id": 117599,
-  "postcode": 61202,
-  "number": 31,
-  "suffix": "А",
+  "id": 117596,
+  "postcode": 61204,
+  "number": 30,
+  "suffix": "Б",
   "block": "",
   "streetid": 3175,
   "status_id": 1,
@@ -370,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204101749900005,
-  "lati": 50.051136822100005,
-  "FullNameUA": "проспект Людвіга Свободи, 31-А"
+  "longt": 36.2084284444,
+  "lati": 50.0485369832,
+  "FullNameUA": "проспект Людвіга Свободи, 30-Б",
+  "ChildsIds": []
  },
  {
   "id": 117598,
@@ -397,7 +360,86 @@
   "reg_date": "",
   "longt": 36.2048840622,
   "lati": 50.0501313767,
-  "FullNameUA": "проспект Людвіга Свободи, 31"
+  "FullNameUA": "проспект Людвіга Свободи, 31",
+  "ChildsIds": []
+ },
+ {
+  "id": 117600,
+  "postcode": 61202,
+  "number": 31,
+  "suffix": "М",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
+  "reg_date": "18.06.2014 00:00:00",
+  "longt": 36.2057298556,
+  "lati": 50.0510196698,
+  "FullNameUA": "проспект Людвіга Свободи, 31-М",
+  "ChildsIds": []
+ },
+ {
+  "id": 117599,
+  "postcode": 61202,
+  "number": 31,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2041017499,
+  "lati": 50.0511368221,
+  "FullNameUA": "проспект Людвіга Свободи, 31-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117601,
+  "postcode": 61204,
+  "number": 32,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2086094735,
+  "lati": 50.0504315679,
+  "FullNameUA": "проспект Людвіга Свободи, 32",
+  "ChildsIds": []
  },
  {
   "id": 117602,
@@ -421,33 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2027084347,
-  "lati": 50.05091745680001,
-  "FullNameUA": "проспект Людвіга Свободи, 32-А"
- },
- {
-  "id": 117601,
-  "postcode": 61204,
-  "number": 32,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208609473500005,
-  "lati": 50.050431567900006,
-  "FullNameUA": "проспект Людвіга Свободи, 32"
+  "lati": 50.0509174568,
+  "FullNameUA": "проспект Людвіга Свободи, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 117603,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2048041492,
   "lati": 50.0518740329,
-  "FullNameUA": "проспект Людвіга Свободи, 33"
+  "FullNameUA": "проспект Людвіга Свободи, 33",
+  "ChildsIds": []
  },
  {
   "id": 177755,
@@ -496,8 +515,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2047306527,
-  "lati": 50.05231266090001,
-  "FullNameUA": "проспект Людвіга Свободи, 33-А"
+  "lati": 50.0523126609,
+  "FullNameUA": "проспект Людвіга Свободи, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 117604,
@@ -522,32 +542,8 @@
   "reg_date": "",
   "longt": 36.2077823046,
   "lati": 50.0508192667,
-  "FullNameUA": "проспект Людвіга Свободи, 34"
- },
- {
-  "id": 117605,
-  "postcode": 61202,
-  "number": 35,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.204293939500005,
-  "lati": 50.052656207000005,
-  "FullNameUA": "проспект Людвіга Свободи, 35"
+  "FullNameUA": "проспект Людвіга Свободи, 34",
+  "ChildsIds": []
  },
  {
   "id": 117608,
@@ -570,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201698640100005,
+  "longt": 36.2016986401,
   "lati": 50.0520448091,
-  "FullNameUA": "проспект Людвіга Свободи, 35-В"
+  "FullNameUA": "проспект Людвіга Свободи, 35-В",
+  "ChildsIds": []
  },
  {
   "id": 117607,
@@ -595,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202616901400006,
+  "longt": 36.2026169014,
   "lati": 50.0526386032,
-  "FullNameUA": "проспект Людвіга Свободи, 35-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 35-Б",
+  "ChildsIds": []
  },
  {
   "id": 117606,
@@ -620,9 +618,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202866060800005,
-  "lati": 50.052003278300006,
-  "FullNameUA": "проспект Людвіга Свободи, 35-А"
+  "longt": 36.2028660608,
+  "lati": 50.0520032783,
+  "FullNameUA": "проспект Людвіга Свободи, 35-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117605,
+  "postcode": 61202,
+  "number": 35,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2042939395,
+  "lati": 50.052656207,
+  "FullNameUA": "проспект Людвіга Свободи, 35",
+  "ChildsIds": []
  },
  {
   "id": 117610,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2083289837,
-  "lati": 50.05210073840001,
-  "FullNameUA": "проспект Людвіга Свободи, 36-А"
+  "lati": 50.0521007384,
+  "FullNameUA": "проспект Людвіга Свободи, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 117609,
@@ -671,58 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2069804962,
-  "lati": 50.052226983900006,
-  "FullNameUA": "проспект Людвіга Свободи, 36"
- },
- {
-  "id": 117611,
-  "postcode": 61202,
-  "number": 37,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.203943450400004,
-  "lati": 50.05409464940001,
-  "FullNameUA": "проспект Людвіга Свободи, 37"
- },
- {
-  "id": 117615,
-  "postcode": 61202,
-  "number": 37,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "71, 10.02.2016",
-  "reg_date": "08.01.2020 11:16:48",
-  "longt": 36.203831355700004,
-  "lati": 50.054451770700005,
-  "FullNameUA": "проспект Людвіга Свободи, 37-Д"
+  "lati": 50.0522269839,
+  "FullNameUA": "проспект Людвіга Свободи, 36",
+  "ChildsIds": []
  },
  {
   "id": 117614,
@@ -747,32 +724,8 @@
   "reg_date": "01.04.2019 16:46:45",
   "longt": 36.2030189524,
   "lati": 50.0537094298,
-  "FullNameUA": "проспект Людвіга Свободи, 37-Г"
- },
- {
-  "id": 117613,
-  "postcode": 61202,
-  "number": 37,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.199700380399996,
-  "lati": 50.052306965300005,
-  "FullNameUA": "проспект Людвіга Свободи, 37-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 37-Г",
+  "ChildsIds": []
  },
  {
   "id": 117612,
@@ -797,13 +750,14 @@
   "reg_date": "",
   "longt": 36.2018580995,
   "lati": 50.0531333881,
-  "FullNameUA": "проспект Людвіга Свободи, 37-А"
+  "FullNameUA": "проспект Людвіга Свободи, 37-А",
+  "ChildsIds": []
  },
  {
-  "id": 117620,
+  "id": 117613,
   "postcode": 61202,
-  "number": 39,
-  "suffix": "Г",
+  "number": 37,
+  "suffix": "Б",
   "block": "",
   "streetid": 3175,
   "status_id": 1,
@@ -820,9 +774,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2025888287,
-  "lati": 50.05587781090001,
-  "FullNameUA": "проспект Людвіга Свободи, 39-Г"
+  "longt": 36.1997003804,
+  "lati": 50.0523069653,
+  "FullNameUA": "проспект Людвіга Свободи, 37-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117611,
+  "postcode": 61202,
+  "number": 37,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2039434504,
+  "lati": 50.0540946494,
+  "FullNameUA": "проспект Людвіга Свободи, 37",
+  "ChildsIds": []
+ },
+ {
+  "id": 117615,
+  "postcode": 61202,
+  "number": 37,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "71, 10.02.2016",
+  "reg_date": "08.01.2020 11:16:48",
+  "longt": 36.2038313557,
+  "lati": 50.0544517707,
+  "FullNameUA": "проспект Людвіга Свободи, 37-Д",
+  "ChildsIds": []
  },
  {
   "id": 117616,
@@ -847,32 +854,10 @@
   "reg_date": "",
   "longt": 36.2031659661,
   "lati": 50.0545708813,
-  "FullNameUA": "проспект Людвіга Свободи, 39"
- },
- {
-  "id": 117619,
-  "postcode": 61202,
-  "number": 39,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.200825235800004,
-  "lati": 50.05426682820001,
-  "FullNameUA": "проспект Людвіга Свободи, 39-В"
+  "FullNameUA": "проспект Людвіга Свободи, 39",
+  "ChildsIds": [
+   117615
+  ]
  },
  {
   "id": 117618,
@@ -895,9 +880,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201737544900006,
+  "longt": 36.2017375449,
   "lati": 50.0548646785,
-  "FullNameUA": "проспект Людвіга Свободи, 39-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 39-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117619,
+  "postcode": 61202,
+  "number": 39,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2008252358,
+  "lati": 50.0542668282,
+  "FullNameUA": "проспект Людвіга Свободи, 39-В",
+  "ChildsIds": []
  },
  {
   "id": 117617,
@@ -920,9 +932,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201985555200004,
-  "lati": 50.054232314800004,
-  "FullNameUA": "проспект Людвіга Свободи, 39-А"
+  "longt": 36.2019855552,
+  "lati": 50.0542323148,
+  "FullNameUA": "проспект Людвіга Свободи, 39-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117620,
+  "postcode": 61202,
+  "number": 39,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2025888287,
+  "lati": 50.0558778109,
+  "FullNameUA": "проспект Людвіга Свободи, 39-Г",
+  "ChildsIds": []
  },
  {
   "id": 117621,
@@ -945,9 +984,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207201944400005,
-  "lati": 50.052911716800004,
-  "FullNameUA": "проспект Людвіга Свободи, 40"
+  "longt": 36.2072019444,
+  "lati": 50.0529117168,
+  "FullNameUA": "проспект Людвіга Свободи, 40",
+  "ChildsIds": []
  },
  {
   "id": 117623,
@@ -970,9 +1010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206380097200004,
-  "lati": 50.05404207710001,
-  "FullNameUA": "проспект Людвіга Свободи, 40-Б"
+  "longt": 36.2063800972,
+  "lati": 50.0540420771,
+  "FullNameUA": "проспект Людвіга Свободи, 40-Б",
+  "ChildsIds": []
  },
  {
   "id": 117622,
@@ -996,8 +1037,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.206624572,
-  "lati": 50.05340083070001,
-  "FullNameUA": "проспект Людвіга Свободи, 40-А"
+  "lati": 50.0534008307,
+  "FullNameUA": "проспект Людвіга Свободи, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 117624,
@@ -1021,8 +1063,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.203008589,
-  "lati": 50.056508466500006,
-  "FullNameUA": "проспект Людвіга Свободи, 41"
+  "lati": 50.0565084665,
+  "FullNameUA": "проспект Людвіга Свободи, 41",
+  "ChildsIds": []
  },
  {
   "id": 117625,
@@ -1045,34 +1088,12 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206124527700005,
-  "lati": 50.05444000880001,
-  "FullNameUA": "проспект Людвіга Свободи, 42"
- },
- {
-  "id": 117627,
-  "postcode": 61204,
-  "number": 42,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208506422700005,
-  "lati": 50.054424353200005,
-  "FullNameUA": "проспект Людвіга Свободи, 42-Б"
+  "longt": 36.2061245277,
+  "lati": 50.0544400088,
+  "FullNameUA": "проспект Людвіга Свободи, 42",
+  "ChildsIds": [
+   182794
+  ]
  },
  {
   "id": 117626,
@@ -1096,8 +1117,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2073290437,
-  "lati": 50.054493339400004,
-  "FullNameUA": "проспект Людвіга Свободи, 42-А"
+  "lati": 50.0544933394,
+  "FullNameUA": "проспект Людвіга Свободи, 42-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117627,
+  "postcode": 61204,
+  "number": 42,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2085064227,
+  "lati": 50.0544243532,
+  "FullNameUA": "проспект Людвіга Свободи, 42-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 182794,
+  "postcode": 61202,
+  "number": 42,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136300:14:006:0090)",
+  "confrm": "",
+  "reg_date": "04.05.2020 14:54:08",
+  "longt": 36.2048657702,
+  "lati": 50.0547266342,
+  "FullNameUA": "проспект Людвіга Свободи, 42-Г",
+  "ChildsIds": []
  },
  {
   "id": 178604,
@@ -1121,8 +1195,9 @@
   "confrm": "Рішення ХМР № 877-17, 20.12.2017",
   "reg_date": "",
   "longt": 36.201184988,
-  "lati": 50.05793090820001,
-  "FullNameUA": "проспект Людвіга Свободи, 43-А"
+  "lati": 50.0579309082,
+  "FullNameUA": "проспект Людвіга Свободи, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 117628,
@@ -1146,8 +1221,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2022352975,
-  "lati": 50.056858753300006,
-  "FullNameUA": "проспект Людвіга Свободи, 43"
+  "lati": 50.0568587533,
+  "FullNameUA": "проспект Людвіга Свободи, 43",
+  "ChildsIds": []
  },
  {
   "id": 117629,
@@ -1170,9 +1246,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197873946499996,
-  "lati": 50.060076279300006,
-  "FullNameUA": "проспект Людвіга Свободи, 45"
+  "longt": 36.1978739465,
+  "lati": 50.0600762793,
+  "FullNameUA": "проспект Людвіга Свободи, 45",
+  "ChildsIds": []
  },
  {
   "id": 117633,
@@ -1196,33 +1273,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.20890673,
-  "lati": 50.056031084100006,
-  "FullNameUA": "проспект Людвіга Свободи, 46-В"
- },
- {
-  "id": 117630,
-  "postcode": 61204,
-  "number": 46,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.206020424900004,
-  "lati": 50.0552887162,
-  "FullNameUA": "проспект Людвіга Свободи, 46"
+  "lati": 50.0560310841,
+  "FullNameUA": "проспект Людвіга Свободи, 46-В",
+  "ChildsIds": []
  },
  {
   "id": 117632,
@@ -1246,8 +1299,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2079539868,
-  "lati": 50.056199865900005,
-  "FullNameUA": "проспект Людвіга Свободи, 46-Б"
+  "lati": 50.0561998659,
+  "FullNameUA": "проспект Людвіга Свободи, 46-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117630,
+  "postcode": 61204,
+  "number": 46,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2060204249,
+  "lati": 50.0552887162,
+  "FullNameUA": "проспект Людвіга Свободи, 46",
+  "ChildsIds": []
  },
  {
   "id": 117631,
@@ -1272,32 +1352,8 @@
   "reg_date": "",
   "longt": 36.2074395228,
   "lati": 50.0554986379,
-  "FullNameUA": "проспект Людвіга Свободи, 46-А"
- },
- {
-  "id": 117635,
-  "postcode": 61174,
-  "number": 47,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1971667072,
-  "lati": 50.059816757700005,
-  "FullNameUA": "проспект Людвіга Свободи, 47-А"
+  "FullNameUA": "проспект Людвіга Свободи, 46-А",
+  "ChildsIds": []
  },
  {
   "id": 117634,
@@ -1321,13 +1377,14 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1978920308,
-  "lati": 50.059647046100004,
-  "FullNameUA": "проспект Людвіга Свободи, 47"
+  "lati": 50.0596470461,
+  "FullNameUA": "проспект Людвіга Свободи, 47",
+  "ChildsIds": []
  },
  {
-  "id": 117637,
-  "postcode": 61204,
-  "number": 48,
+  "id": 117635,
+  "postcode": 61174,
+  "number": 47,
   "suffix": "А",
   "block": "",
   "streetid": 3175,
@@ -1345,9 +1402,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2073336467,
-  "lati": 50.05675145480001,
-  "FullNameUA": "проспект Людвіга Свободи, 48-А"
+  "longt": 36.1971667072,
+  "lati": 50.0598167577,
+  "FullNameUA": "проспект Людвіга Свободи, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 117641,
@@ -1371,14 +1429,15 @@
   "confrm": "339, 14.09.2016",
   "reg_date": "20.12.2018 14:37:47",
   "longt": 36.2096292345,
-  "lati": 50.05762438040001,
-  "FullNameUA": "проспект Людвіга Свободи, 48-М"
+  "lati": 50.0576243804,
+  "FullNameUA": "проспект Людвіга Свободи, 48-М",
+  "ChildsIds": []
  },
  {
-  "id": 117636,
+  "id": 117637,
   "postcode": 61204,
   "number": 48,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 3175,
   "status_id": 1,
@@ -1395,9 +1454,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2051819292,
-  "lati": 50.0568549688,
-  "FullNameUA": "проспект Людвіга Свободи, 48"
+  "longt": 36.2073336467,
+  "lati": 50.0567514548,
+  "FullNameUA": "проспект Людвіга Свободи, 48-А",
+  "ChildsIds": []
  },
  {
   "id": 179422,
@@ -1422,57 +1482,8 @@
   "reg_date": "",
   "longt": 36.2101948679,
   "lati": 50.0565898062,
-  "FullNameUA": "проспект Людвіга Свободи, 48-Д"
- },
- {
-  "id": 117639,
-  "postcode": 61204,
-  "number": 48,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208799072400005,
-  "lati": 50.057223477300006,
-  "FullNameUA": "проспект Людвіга Свободи, 48-В"
- },
- {
-  "id": 117640,
-  "postcode": 61204,
-  "number": 48,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "34, 18.01.2012",
-  "reg_date": "27.11.2019 16:28:50",
-  "longt": 36.2047074237,
-  "lati": 50.056804582800005,
-  "FullNameUA": "проспект Людвіга Свободи, 48-Г"
+  "FullNameUA": "проспект Людвіга Свободи, 48-Д",
+  "ChildsIds": []
  },
  {
   "id": 179329,
@@ -1496,8 +1507,61 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2086751989,
-  "lati": 50.056735954900006,
-  "FullNameUA": "проспект Людвіга Свободи, 48-Е"
+  "lati": 50.0567359549,
+  "FullNameUA": "проспект Людвіга Свободи, 48-Е",
+  "ChildsIds": []
+ },
+ {
+  "id": 117640,
+  "postcode": 61204,
+  "number": 48,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "34, 18.01.2012",
+  "reg_date": "27.11.2019 16:28:50",
+  "longt": 36.2047074237,
+  "lati": 50.0568045828,
+  "FullNameUA": "проспект Людвіга Свободи, 48-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 117639,
+  "postcode": 61204,
+  "number": 48,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2087990724,
+  "lati": 50.0572234773,
+  "FullNameUA": "проспект Людвіга Свободи, 48-В",
+  "ChildsIds": []
  },
  {
   "id": 117638,
@@ -1521,8 +1585,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2077110716,
-  "lati": 50.057160295900005,
-  "FullNameUA": "проспект Людвіга Свободи, 48-Б"
+  "lati": 50.0571602959,
+  "FullNameUA": "проспект Людвіга Свободи, 48-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117636,
+  "postcode": 61204,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2051819292,
+  "lati": 50.0568549688,
+  "FullNameUA": "проспект Людвіга Свободи, 48",
+  "ChildsIds": []
  },
  {
   "id": 117642,
@@ -1547,7 +1638,8 @@
   "reg_date": "",
   "longt": 36.1987469853,
   "lati": 50.0602468725,
-  "FullNameUA": "проспект Людвіга Свободи, 49"
+  "FullNameUA": "проспект Людвіга Свободи, 49",
+  "ChildsIds": []
  },
  {
   "id": 180182,
@@ -1570,9 +1662,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198427677199994,
-  "lati": 50.060661942100005,
-  "FullNameUA": "проспект Людвіга Свободи, 49-Ж"
+  "longt": 36.1984276772,
+  "lati": 50.0606619421,
+  "FullNameUA": "проспект Людвіга Свободи, 49-Ж",
+  "ChildsIds": []
  },
  {
   "id": 117643,
@@ -1595,9 +1688,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199487808099995,
+  "longt": 36.1994878081,
   "lati": 50.060111811,
-  "FullNameUA": "проспект Людвіга Свободи, 49-В"
+  "FullNameUA": "проспект Людвіга Свободи, 49-В",
+  "ChildsIds": []
  },
  {
   "id": 117645,
@@ -1620,9 +1714,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Дзержинської райради № 18/4, 06.02.2007",
   "reg_date": "28.02.2019 14:12:26",
-  "longt": 36.208895807000005,
-  "lati": 50.058223201500006,
-  "FullNameUA": "проспект Людвіга Свободи, 50-А"
+  "longt": 36.208895807,
+  "lati": 50.0582232015,
+  "FullNameUA": "проспект Людвіга Свободи, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 117647,
@@ -1646,8 +1741,9 @@
   "confrm": "Рішення ВК Дзержинської райради № 34/2, 29.01.2008; Рішення ВК ХМР № 249, 13.04.2016 (квартира)",
   "reg_date": "28.02.2019 14:14:42",
   "longt": 36.2105776164,
-  "lati": 50.058379532400004,
-  "FullNameUA": "проспект Людвіга Свободи, 50-В"
+  "lati": 50.0583795324,
+  "FullNameUA": "проспект Людвіга Свободи, 50-В",
+  "ChildsIds": []
  },
  {
   "id": 117646,
@@ -1672,7 +1768,8 @@
   "reg_date": "28.02.2019 14:12:49",
   "longt": 36.2097311255,
   "lati": 50.0582918659,
-  "FullNameUA": "проспект Людвіга Свободи, 50-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 50-Б",
+  "ChildsIds": []
  },
  {
   "id": 117644,
@@ -1696,14 +1793,15 @@
   "confrm": "Рішення ВК Дзержинської райради № 18/4, 06.02.2007",
   "reg_date": "28.02.2019 14:11:45",
   "longt": 36.2080345711,
-  "lati": 50.058141494800005,
-  "FullNameUA": "проспект Людвіга Свободи, 50"
+  "lati": 50.0581414948,
+  "FullNameUA": "проспект Людвіга Свободи, 50",
+  "ChildsIds": []
  },
  {
-  "id": 117650,
+  "id": 117652,
   "postcode": 61174,
   "number": 51,
-  "suffix": "Б",
+  "suffix": "Д",
   "block": "",
   "streetid": 3175,
   "status_id": 1,
@@ -1720,9 +1818,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196195891399995,
-  "lati": 50.060034926,
-  "FullNameUA": "проспект Людвіга Свободи, 51-Б"
+  "longt": 36.1985244187,
+  "lati": 50.0600127668,
+  "FullNameUA": "проспект Людвіга Свободи, 51-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 117651,
+  "postcode": 61174,
+  "number": 51,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1991021348,
+  "lati": 50.0605130106,
+  "FullNameUA": "проспект Людвіга Свободи, 51-В",
+  "ChildsIds": []
  },
  {
   "id": 117648,
@@ -1745,9 +1870,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197003177599996,
+  "longt": 36.1970031776,
   "lati": 50.0604018359,
-  "FullNameUA": "проспект Людвіга Свободи, 51"
+  "FullNameUA": "проспект Людвіга Свободи, 51",
+  "ChildsIds": []
+ },
+ {
+  "id": 117650,
+  "postcode": 61174,
+  "number": 51,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1961958914,
+  "lati": 50.060034926,
+  "FullNameUA": "проспект Людвіга Свободи, 51-Б",
+  "ChildsIds": []
  },
  {
   "id": 117649,
@@ -1772,107 +1924,8 @@
   "reg_date": "",
   "longt": 36.1955841315,
   "lati": 50.0595732936,
-  "FullNameUA": "проспект Людвіга Свободи, 51-А"
- },
- {
-  "id": 117652,
-  "postcode": 61174,
-  "number": 51,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.198524418699996,
-  "lati": 50.0600127668,
-  "FullNameUA": "проспект Людвіга Свободи, 51-Д"
- },
- {
-  "id": 117651,
-  "postcode": 61174,
-  "number": 51,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1991021348,
-  "lati": 50.060513010600005,
-  "FullNameUA": "проспект Людвіга Свободи, 51-В"
- },
- {
-  "id": 117654,
-  "postcode": 61204,
-  "number": 52,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "in4",
-  "reg_date": "",
-  "longt": 36.2049132586,
-  "lati": 50.057657107500006,
-  "FullNameUA": "проспект Людвіга Свободи, 52-А"
- },
- {
-  "id": 117655,
-  "postcode": 61204,
-  "number": 52,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "71, 08.02.2012",
-  "reg_date": "16.12.2019 09:57:25",
-  "longt": 36.2064475199,
-  "lati": 50.05781046880001,
-  "FullNameUA": "проспект Людвіга Свободи, 52-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 117653,
@@ -1896,8 +1949,87 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2040317406,
-  "lati": 50.057411972000004,
-  "FullNameUA": "проспект Людвіга Свободи, 52"
+  "lati": 50.057411972,
+  "FullNameUA": "проспект Людвіга Свободи, 52",
+  "ChildsIds": []
+ },
+ {
+  "id": 117654,
+  "postcode": 61204,
+  "number": 52,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.2049132586,
+  "lati": 50.0576571075,
+  "FullNameUA": "проспект Людвіга Свободи, 52-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117655,
+  "postcode": 61204,
+  "number": 52,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "71, 08.02.2012",
+  "reg_date": "16.12.2019 09:57:25",
+  "longt": 36.2064475199,
+  "lati": 50.0578104688,
+  "FullNameUA": "проспект Людвіга Свободи, 52-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 117657,
+  "postcode": 61174,
+  "number": 53,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1962479457,
+  "lati": 50.0585664768,
+  "FullNameUA": "проспект Людвіга Свободи, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 117658,
@@ -1921,33 +2053,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1954476807,
-  "lati": 50.058893115900005,
-  "FullNameUA": "проспект Людвіга Свободи, 53-Б"
- },
- {
-  "id": 117657,
-  "postcode": 61174,
-  "number": 53,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.196247945699994,
-  "lati": 50.0585664768,
-  "FullNameUA": "проспект Людвіга Свободи, 53-А"
+  "lati": 50.0588931159,
+  "FullNameUA": "проспект Людвіга Свободи, 53-Б",
+  "ChildsIds": []
  },
  {
   "id": 117656,
@@ -1971,8 +2079,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1971599046,
-  "lati": 50.058883374900006,
-  "FullNameUA": "проспект Людвіга Свободи, 53"
+  "lati": 50.0588833749,
+  "FullNameUA": "проспект Людвіга Свободи, 53",
+  "ChildsIds": []
  },
  {
   "id": 175974,
@@ -1995,9 +2104,10 @@
   "same_adr_comm": "",
   "confrm": "39, 18.01.2017",
   "reg_date": "24.01.2017 14:38:02",
-  "longt": 36.202467083900004,
-  "lati": 50.05920862440001,
-  "FullNameUA": "проспект Людвіга Свободи, 54-М"
+  "longt": 36.2024670839,
+  "lati": 50.0592086244,
+  "FullNameUA": "проспект Людвіга Свободи, 54-М",
+  "ChildsIds": []
  },
  {
   "id": 117659,
@@ -2022,82 +2132,8 @@
   "reg_date": "",
   "longt": 36.1977357903,
   "lati": 50.0618582376,
-  "FullNameUA": "проспект Людвіга Свободи, 55"
- },
- {
-  "id": 117663,
-  "postcode": 61174,
-  "number": 57,
-  "suffix": "Е",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Дзержинської райради № 137/1, 25.09.2007",
-  "reg_date": "17.01.2019 15:39:32",
-  "longt": 36.1971768352,
-  "lati": 50.0626261736,
-  "FullNameUA": "проспект Людвіга Свободи, 57-Е"
- },
- {
-  "id": 117660,
-  "postcode": 61174,
-  "number": 57,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.195656741099995,
-  "lati": 50.0611787622,
-  "FullNameUA": "проспект Людвіга Свободи, 57"
- },
- {
-  "id": 117662,
-  "postcode": 61174,
-  "number": 57,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.197469404699994,
-  "lati": 50.0623025459,
-  "FullNameUA": "проспект Людвіга Свободи, 57-Г"
+  "FullNameUA": "проспект Людвіга Свободи, 55",
+  "ChildsIds": []
  },
  {
   "id": 117661,
@@ -2122,7 +2158,112 @@
   "reg_date": "",
   "longt": 36.1981407172,
   "lati": 50.0617475126,
-  "FullNameUA": "проспект Людвіга Свободи, 57-А"
+  "FullNameUA": "проспект Людвіга Свободи, 57-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117662,
+  "postcode": 61174,
+  "number": 57,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1974694047,
+  "lati": 50.0623025459,
+  "FullNameUA": "проспект Людвіга Свободи, 57-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 117663,
+  "postcode": 61174,
+  "number": 57,
+  "suffix": "Е",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської райради № 137/1, 25.09.2007",
+  "reg_date": "17.01.2019 15:39:32",
+  "longt": 36.1971768352,
+  "lati": 50.0626261736,
+  "FullNameUA": "проспект Людвіга Свободи, 57-Е",
+  "ChildsIds": []
+ },
+ {
+  "id": 117660,
+  "postcode": 61174,
+  "number": 57,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1956567411,
+  "lati": 50.0611787622,
+  "FullNameUA": "проспект Людвіга Свободи, 57",
+  "ChildsIds": []
+ },
+ {
+  "id": 117664,
+  "postcode": 61174,
+  "number": 58,
+  "suffix": "",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2000748831,
+  "lati": 50.0617127524,
+  "FullNameUA": "проспект Людвіга Свободи, 58",
+  "ChildsIds": []
  },
  {
   "id": 117665,
@@ -2147,32 +2288,8 @@
   "reg_date": "27.02.2019 11:27:49",
   "longt": 36.2004259343,
   "lati": 50.0610950533,
-  "FullNameUA": "проспект Людвіга Свободи, 58-А"
- },
- {
-  "id": 117664,
-  "postcode": 61174,
-  "number": 58,
-  "suffix": "",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2000748831,
-  "lati": 50.061712752400005,
-  "FullNameUA": "проспект Людвіга Свободи, 58"
+  "FullNameUA": "проспект Людвіга Свободи, 58-А",
+  "ChildsIds": []
  },
  {
   "id": 117667,
@@ -2195,34 +2312,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194763907399995,
+  "longt": 36.1947639074,
   "lati": 50.0609233233,
-  "FullNameUA": "проспект Людвіга Свободи, 59-А"
- },
- {
-  "id": 117668,
-  "postcode": 61174,
-  "number": 59,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3175,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.194060903899995,
-  "lati": 50.0605774467,
-  "FullNameUA": "проспект Людвіга Свободи, 59-Б"
+  "FullNameUA": "проспект Людвіга Свободи, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 117666,
@@ -2246,8 +2339,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1978476825,
-  "lati": 50.062008104600004,
-  "FullNameUA": "проспект Людвіга Свободи, 59"
+  "lati": 50.0620081046,
+  "FullNameUA": "проспект Людвіга Свободи, 59",
+  "ChildsIds": []
+ },
+ {
+  "id": 117668,
+  "postcode": 61174,
+  "number": 59,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3175,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1940609039,
+  "lati": 50.0605774467,
+  "FullNameUA": "проспект Людвіга Свободи, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 117669,
@@ -2272,7 +2392,8 @@
   "reg_date": "",
   "longt": 36.1992433971,
   "lati": 50.0630918231,
-  "FullNameUA": "проспект Людвіга Свободи, 60"
+  "FullNameUA": "проспект Людвіга Свободи, 60",
+  "ChildsIds": []
  },
  {
   "id": 177972,
@@ -2296,7 +2417,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1969784172,
-  "lati": 50.062750173000005,
-  "FullNameUA": "проспект Людвіга Свободи, 61-А"
+  "lati": 50.062750173,
+  "FullNameUA": "проспект Людвіга Свободи, 61-А",
+  "ChildsIds": []
  }
 ]

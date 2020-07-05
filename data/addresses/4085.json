@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3074785689,
   "lati": 49.9575785767,
-  "FullNameUA": "вулиця Танкопія, 1/2"
+  "FullNameUA": "вулиця Танкопія, 1/2",
+  "ChildsIds": []
  },
  {
   "id": 106509,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308874895900004,
-  "lati": 49.958224966500005,
-  "FullNameUA": "вулиця Танкопія, 1"
+  "longt": 36.3088748959,
+  "lati": 49.9582249665,
+  "FullNameUA": "вулиця Танкопія, 1",
+  "ChildsIds": []
  },
  {
   "id": 106510,
@@ -72,32 +74,8 @@
   "reg_date": "",
   "longt": 36.3089040977,
   "lati": 49.9578906797,
-  "FullNameUA": "вулиця Танкопія, 1-А"
- },
- {
-  "id": 106513,
-  "postcode": 61060,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30980730420001,
-  "lati": 49.9570081476,
-  "FullNameUA": "вулиця Танкопія, 3-А"
+  "FullNameUA": "вулиця Танкопія, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 106514,
@@ -122,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3103493479,
   "lati": 49.9585647551,
-  "FullNameUA": "вулиця Танкопія, 3/2"
+  "FullNameUA": "вулиця Танкопія, 3/2",
+  "ChildsIds": []
  },
  {
   "id": 106515,
@@ -146,8 +125,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3106895325,
-  "lati": 49.958027445000006,
-  "FullNameUA": "вулиця Танкопія, 3/1"
+  "lati": 49.958027445,
+  "FullNameUA": "вулиця Танкопія, 3/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 106513,
+  "postcode": 61060,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3098073042,
+  "lati": 49.9570081476,
+  "FullNameUA": "вулиця Танкопія, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 106512,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3101233828,
   "lati": 49.9577125912,
-  "FullNameUA": "вулиця Танкопія, 3"
+  "FullNameUA": "вулиця Танкопія, 3",
+  "ChildsIds": []
  },
  {
   "id": 106518,
@@ -196,83 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3135810721,
-  "lati": 49.957528983900005,
-  "FullNameUA": "вулиця Танкопія, 5/2"
- },
- {
-  "id": 106517,
-  "postcode": 61060,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3117164772,
-  "lati": 49.9574079375,
-  "FullNameUA": "вулиця Танкопія, 5-А"
- },
- {
-  "id": 106516,
-  "postcode": 61060,
-  "number": 5,
-  "suffix": "",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3129357408,
-  "lati": 49.9569455633,
-  "FullNameUA": "вулиця Танкопія, 5"
- },
- {
-  "id": 106519,
-  "postcode": 61060,
-  "number": 5,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.312435217600004,
-  "lati": 49.957941214200005,
-  "FullNameUA": "вулиця Танкопія, 5/1"
+  "lati": 49.9575289839,
+  "FullNameUA": "вулиця Танкопія, 5/2",
+  "ChildsIds": []
  },
  {
   "id": 106520,
@@ -297,7 +230,112 @@
   "reg_date": "",
   "longt": 36.3115973609,
   "lati": 49.9580897586,
-  "FullNameUA": "вулиця Танкопія, 5-Б"
+  "FullNameUA": "вулиця Танкопія, 5-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 106516,
+  "postcode": 61060,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3129357408,
+  "lati": 49.9569455633,
+  "FullNameUA": "вулиця Танкопія, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 106517,
+  "postcode": 61060,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3117164772,
+  "lati": 49.9574079375,
+  "FullNameUA": "вулиця Танкопія, 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 106519,
+  "postcode": 61060,
+  "number": 5,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3124352176,
+  "lati": 49.9579412142,
+  "FullNameUA": "вулиця Танкопія, 5/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 170723,
+  "postcode": 61128,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3064832759,
+  "lati": 49.9537049897,
+  "FullNameUA": "вулиця Танкопія, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 170722,
@@ -321,58 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3054879832,
-  "lati": 49.954018037100006,
-  "FullNameUA": "вулиця Танкопія, 6"
- },
- {
-  "id": 170723,
-  "postcode": 61128,
-  "number": 6,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30648327590001,
-  "lati": 49.9537049897,
-  "FullNameUA": "вулиця Танкопія, 6-А"
- },
- {
-  "id": 106523,
-  "postcode": 61060,
-  "number": 7,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.314843328600006,
-  "lati": 49.957752976100004,
-  "FullNameUA": "вулиця Танкопія, 7/2"
+  "lati": 49.9540180371,
+  "FullNameUA": "вулиця Танкопія, 6",
+  "ChildsIds": []
  },
  {
   "id": 106524,
@@ -396,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3153458846,
-  "lati": 49.957239095800006,
-  "FullNameUA": "вулиця Танкопія, 7/1"
+  "lati": 49.9572390958,
+  "FullNameUA": "вулиця Танкопія, 7/1",
+  "ChildsIds": []
  },
  {
   "id": 106521,
@@ -422,7 +412,8 @@
   "reg_date": "",
   "longt": 36.3148078118,
   "lati": 49.9569067921,
-  "FullNameUA": "вулиця Танкопія, 7"
+  "FullNameUA": "вулиця Танкопія, 7",
+  "ChildsIds": []
  },
  {
   "id": 106522,
@@ -446,14 +437,15 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3143956564,
-  "lati": 49.955895767600005,
-  "FullNameUA": "вулиця Танкопія, 7-А"
+  "lati": 49.9558957676,
+  "FullNameUA": "вулиця Танкопія, 7-А",
+  "ChildsIds": []
  },
  {
-  "id": 170728,
-  "postcode": 61128,
-  "number": 8,
-  "suffix": "Г",
+  "id": 106523,
+  "postcode": 61060,
+  "number": 7,
+  "suffix": "/2",
   "block": "",
   "streetid": 4085,
   "status_id": 1,
@@ -470,9 +462,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3077547492,
-  "lati": 49.9522350274,
-  "FullNameUA": "вулиця Танкопія, 8-Г"
+  "longt": 36.3148433286,
+  "lati": 49.9577529761,
+  "FullNameUA": "вулиця Танкопія, 7/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 170725,
+  "postcode": 61100,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3075084118,
+  "lati": 49.9537023268,
+  "FullNameUA": "вулиця Танкопія, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 170727,
@@ -497,57 +516,8 @@
   "reg_date": "",
   "longt": 36.3083604341,
   "lati": 49.9541644735,
-  "FullNameUA": "вулиця Танкопія, 8-В"
- },
- {
-  "id": 170725,
-  "postcode": 61100,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30750841180001,
-  "lati": 49.953702326800006,
-  "FullNameUA": "вулиця Танкопія, 8-А"
- },
- {
-  "id": 170726,
-  "postcode": 61100,
-  "number": 8,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.308851479800005,
-  "lati": 49.9535818116,
-  "FullNameUA": "вулиця Танкопія, 8-Б"
+  "FullNameUA": "вулиця Танкопія, 8-В",
+  "ChildsIds": []
  },
  {
   "id": 170724,
@@ -570,9 +540,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30893905760001,
+  "longt": 36.3089390576,
   "lati": 49.9544379995,
-  "FullNameUA": "вулиця Танкопія, 8"
+  "FullNameUA": "вулиця Танкопія, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 170728,
+  "postcode": 61128,
+  "number": 8,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3077547492,
+  "lati": 49.9522350274,
+  "FullNameUA": "вулиця Танкопія, 8-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 170726,
+  "postcode": 61100,
+  "number": 8,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3088514798,
+  "lati": 49.9535818116,
+  "FullNameUA": "вулиця Танкопія, 8-Б",
+  "ChildsIds": []
  },
  {
   "id": 106525,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317453855800004,
+  "longt": 36.3174538558,
   "lati": 49.9561064401,
-  "FullNameUA": "вулиця Танкопія, 9/23"
+  "FullNameUA": "вулиця Танкопія, 9/23",
+  "ChildsIds": []
  },
  {
   "id": 106529,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3188616611,
   "lati": 49.9565490486,
-  "FullNameUA": "вулиця Танкопія, 9/1"
+  "FullNameUA": "вулиця Танкопія, 9/1",
+  "ChildsIds": []
  },
  {
   "id": 106528,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3198465057,
-  "lati": 49.957618519600004,
-  "FullNameUA": "вулиця Танкопія, 9/3"
+  "lati": 49.9576185196,
+  "FullNameUA": "вулиця Танкопія, 9/3",
+  "ChildsIds": []
  },
  {
   "id": 106527,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3195017627,
   "lati": 49.9565943504,
-  "FullNameUA": "вулиця Танкопія, 9/2"
+  "FullNameUA": "вулиця Танкопія, 9/2",
+  "ChildsIds": []
  },
  {
   "id": 106526,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3186390022,
   "lati": 49.9558409571,
-  "FullNameUA": "вулиця Танкопія, 9-А"
+  "FullNameUA": "вулиця Танкопія, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 170729,
@@ -720,34 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.309933773900006,
+  "longt": 36.3099337739,
   "lati": 49.9534365995,
-  "FullNameUA": "вулиця Танкопія, 10"
- },
- {
-  "id": 106534,
-  "postcode": 61091,
-  "number": 11,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3207292829,
-  "lati": 49.9565141858,
-  "FullNameUA": "вулиця Танкопія, 11/1"
+  "FullNameUA": "вулиця Танкопія, 10",
+  "ChildsIds": []
  },
  {
   "id": 106533,
@@ -772,7 +776,8 @@
   "reg_date": "",
   "longt": 36.3216325354,
   "lati": 49.9576723419,
-  "FullNameUA": "вулиця Танкопія, 11/3"
+  "FullNameUA": "вулиця Танкопія, 11/3",
+  "ChildsIds": []
  },
  {
   "id": 106531,
@@ -797,32 +802,8 @@
   "reg_date": "05.08.2019 10:51:53",
   "longt": 36.3203228885,
   "lati": 49.9556773436,
-  "FullNameUA": "вулиця Танкопія, 11-А"
- },
- {
-  "id": 106532,
-  "postcode": 61091,
-  "number": 11,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3206647284,
-  "lati": 49.957459964200005,
-  "FullNameUA": "вулиця Танкопія, 11/2"
+  "FullNameUA": "вулиця Танкопія, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 106530,
@@ -847,7 +828,112 @@
   "reg_date": "",
   "longt": 36.3197834507,
   "lati": 49.9558321943,
-  "FullNameUA": "вулиця Танкопія, 11"
+  "FullNameUA": "вулиця Танкопія, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 106532,
+  "postcode": 61091,
+  "number": 11,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3206647284,
+  "lati": 49.9574599642,
+  "FullNameUA": "вулиця Танкопія, 11/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 106534,
+  "postcode": 61091,
+  "number": 11,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3207292829,
+  "lati": 49.9565141858,
+  "FullNameUA": "вулиця Танкопія, 11/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 170731,
+  "postcode": 61100,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.311311444,
+  "lati": 49.9533955873,
+  "FullNameUA": "вулиця Танкопія, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170730,
+  "postcode": 61100,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3113631412,
+  "lati": 49.954199623,
+  "FullNameUA": "вулиця Танкопія, 12",
+  "ChildsIds": []
  },
  {
   "id": 170733,
@@ -871,8 +957,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.310813787,
-  "lati": 49.953882324400006,
-  "FullNameUA": "вулиця Танкопія, 12/1"
+  "lati": 49.9538823244,
+  "FullNameUA": "вулиця Танкопія, 12/1",
+  "ChildsIds": []
  },
  {
   "id": 170732,
@@ -897,107 +984,8 @@
   "reg_date": "",
   "longt": 36.3110590722,
   "lati": 49.9528325691,
-  "FullNameUA": "вулиця Танкопія, 12-Б"
- },
- {
-  "id": 170731,
-  "postcode": 61100,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.311311444000005,
-  "lati": 49.9533955873,
-  "FullNameUA": "вулиця Танкопія, 12-А"
- },
- {
-  "id": 170730,
-  "postcode": 61100,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.311363141200005,
-  "lati": 49.954199623,
-  "FullNameUA": "вулиця Танкопія, 12"
- },
- {
-  "id": 106542,
-  "postcode": 61091,
-  "number": 13,
-  "suffix": "/7",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3230305545,
-  "lati": 49.9571441284,
-  "FullNameUA": "вулиця Танкопія, 13/7"
- },
- {
-  "id": 106541,
-  "postcode": 61091,
-  "number": 13,
-  "suffix": "/6",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3221564382,
-  "lati": 49.9571789501,
-  "FullNameUA": "вулиця Танкопія, 13/6"
+  "FullNameUA": "вулиця Танкопія, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 106539,
@@ -1021,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3233004689,
-  "lati": 49.955776581100004,
-  "FullNameUA": "вулиця Танкопія, 13/4"
+  "lati": 49.9557765811,
+  "FullNameUA": "вулиця Танкопія, 13/4",
+  "ChildsIds": []
  },
  {
   "id": 106538,
@@ -1047,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.3227975442,
   "lati": 49.9560236621,
-  "FullNameUA": "вулиця Танкопія, 13/3"
+  "FullNameUA": "вулиця Танкопія, 13/3",
+  "ChildsIds": []
  },
  {
   "id": 106537,
@@ -1071,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3222947774,
-  "lati": 49.956620986100006,
-  "FullNameUA": "вулиця Танкопія, 13/2"
+  "lati": 49.9566209861,
+  "FullNameUA": "вулиця Танкопія, 13/2",
+  "ChildsIds": []
  },
  {
   "id": 106536,
@@ -1096,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3230736355,
-  "lati": 49.955062013600006,
-  "FullNameUA": "вулиця Танкопія, 13-А"
+  "lati": 49.9550620136,
+  "FullNameUA": "вулиця Танкопія, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 106535,
@@ -1122,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3218889405,
   "lati": 49.9553250357,
-  "FullNameUA": "вулиця Танкопія, 13"
+  "FullNameUA": "вулиця Танкопія, 13",
+  "ChildsIds": []
  },
  {
   "id": 106540,
@@ -1147,13 +1140,14 @@
   "reg_date": "",
   "longt": 36.3239268408,
   "lati": 49.9558176358,
-  "FullNameUA": "вулиця Танкопія, 13/5"
+  "FullNameUA": "вулиця Танкопія, 13/5",
+  "ChildsIds": []
  },
  {
-  "id": 106543,
+  "id": 106541,
   "postcode": 61091,
   "number": 13,
-  "suffix": "/8",
+  "suffix": "/6",
   "block": "",
   "streetid": 4085,
   "status_id": 1,
@@ -1170,34 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3236852216,
-  "lati": 49.956653096500006,
-  "FullNameUA": "вулиця Танкопія, 13/8"
- },
- {
-  "id": 106544,
-  "postcode": 61091,
-  "number": 13,
-  "suffix": "/9",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3245451543,
-  "lati": 49.9568718051,
-  "FullNameUA": "вулиця Танкопія, 13/9"
+  "longt": 36.3221564382,
+  "lati": 49.9571789501,
+  "FullNameUA": "вулиця Танкопія, 13/6",
+  "ChildsIds": []
  },
  {
   "id": 106545,
@@ -1222,13 +1192,14 @@
   "reg_date": "",
   "longt": 36.32175204,
   "lati": 49.9560375211,
-  "FullNameUA": "вулиця Танкопія, 13/1"
+  "FullNameUA": "вулиця Танкопія, 13/1",
+  "ChildsIds": []
  },
  {
-  "id": 170735,
-  "postcode": 61100,
-  "number": 14,
-  "suffix": "А",
+  "id": 106542,
+  "postcode": 61091,
+  "number": 13,
+  "suffix": "/7",
   "block": "",
   "streetid": 4085,
   "status_id": 1,
@@ -1245,9 +1216,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3123737242,
-  "lati": 49.9532117855,
-  "FullNameUA": "вулиця Танкопія, 14-А"
+  "longt": 36.3230305545,
+  "lati": 49.9571441284,
+  "FullNameUA": "вулиця Танкопія, 13/7",
+  "ChildsIds": []
+ },
+ {
+  "id": 106543,
+  "postcode": 61091,
+  "number": 13,
+  "suffix": "/8",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3236852216,
+  "lati": 49.9566530965,
+  "FullNameUA": "вулиця Танкопія, 13/8",
+  "ChildsIds": []
+ },
+ {
+  "id": 106544,
+  "postcode": 61091,
+  "number": 13,
+  "suffix": "/9",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3245451543,
+  "lati": 49.9568718051,
+  "FullNameUA": "вулиця Танкопія, 13/9",
+  "ChildsIds": []
  },
  {
   "id": 170734,
@@ -1272,13 +1296,14 @@
   "reg_date": "",
   "longt": 36.3138015983,
   "lati": 49.953956214,
-  "FullNameUA": "вулиця Танкопія, 14"
+  "FullNameUA": "вулиця Танкопія, 14",
+  "ChildsIds": []
  },
  {
-  "id": 106546,
-  "postcode": 61091,
-  "number": 15,
-  "suffix": "",
+  "id": 170735,
+  "postcode": 61100,
+  "number": 14,
+  "suffix": "А",
   "block": "",
   "streetid": 4085,
   "status_id": 1,
@@ -1295,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3242129808,
-  "lati": 49.955056851200005,
-  "FullNameUA": "вулиця Танкопія, 15"
+  "longt": 36.3123737242,
+  "lati": 49.9532117855,
+  "FullNameUA": "вулиця Танкопія, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 106547,
@@ -1322,12 +1348,13 @@
   "reg_date": "",
   "longt": 36.3251600685,
   "lati": 49.9557348518,
-  "FullNameUA": "вулиця Танкопія, 15/2"
+  "FullNameUA": "вулиця Танкопія, 15/2",
+  "ChildsIds": []
  },
  {
-  "id": 170736,
-  "postcode": 61100,
-  "number": 16,
+  "id": 106546,
+  "postcode": 61091,
+  "number": 15,
   "suffix": "",
   "block": "",
   "streetid": 4085,
@@ -1345,34 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317483595300004,
-  "lati": 49.9531772009,
-  "FullNameUA": "вулиця Танкопія, 16"
- },
- {
-  "id": 180191,
-  "postcode": 61100,
-  "number": 16,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.319284862900005,
-  "lati": 49.955099482200005,
-  "FullNameUA": "вулиця Танкопія, 16-Б"
+  "longt": 36.3242129808,
+  "lati": 49.9550568512,
+  "FullNameUA": "вулиця Танкопія, 15",
+  "ChildsIds": []
  },
  {
   "id": 106548,
@@ -1395,9 +1398,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.316679919900004,
+  "longt": 36.3166799199,
   "lati": 49.9558094989,
-  "FullNameUA": "вулиця Танкопія, 16-В"
+  "FullNameUA": "вулиця Танкопія, 16-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 170736,
+  "postcode": 61100,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3174835953,
+  "lati": 49.9531772009,
+  "FullNameUA": "вулиця Танкопія, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 180191,
+  "postcode": 61100,
+  "number": 16,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3192848629,
+  "lati": 49.9550994822,
+  "FullNameUA": "вулиця Танкопія, 16-Б",
+  "ChildsIds": []
  },
  {
   "id": 106549,
@@ -1422,7 +1478,10 @@
   "reg_date": "",
   "longt": 36.3263119934,
   "lati": 49.95454572,
-  "FullNameUA": "вулиця Танкопія, 17"
+  "FullNameUA": "вулиця Танкопія, 17",
+  "ChildsIds": [
+   106617
+  ]
  },
  {
   "id": 106552,
@@ -1446,8 +1505,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3261664839,
-  "lati": 49.955256173900004,
-  "FullNameUA": "вулиця Танкопія, 17/1"
+  "lati": 49.9552561739,
+  "FullNameUA": "вулиця Танкопія, 17/1",
+  "ChildsIds": []
  },
  {
   "id": 106551,
@@ -1472,7 +1532,8 @@
   "reg_date": "",
   "longt": 36.3267060669,
   "lati": 49.9558256564,
-  "FullNameUA": "вулиця Танкопія, 17/2"
+  "FullNameUA": "вулиця Танкопія, 17/2",
+  "ChildsIds": []
  },
  {
   "id": 106550,
@@ -1496,8 +1557,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3253657373,
-  "lati": 49.954636617800006,
-  "FullNameUA": "вулиця Танкопія, 17-А"
+  "lati": 49.9546366178,
+  "FullNameUA": "вулиця Танкопія, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 170738,
@@ -1521,8 +1583,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3188720227,
-  "lati": 49.953293286400005,
-  "FullNameUA": "вулиця Танкопія, 18-А"
+  "lati": 49.9532932864,
+  "FullNameUA": "вулиця Танкопія, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 170737,
@@ -1547,7 +1610,8 @@
   "reg_date": "",
   "longt": 36.3179183378,
   "lati": 49.9527489437,
-  "FullNameUA": "вулиця Танкопія, 18"
+  "FullNameUA": "вулиця Танкопія, 18",
+  "ChildsIds": []
  },
  {
   "id": 106555,
@@ -1571,8 +1635,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3277045141,
-  "lati": 49.954979311100004,
-  "FullNameUA": "вулиця Танкопія, 19/2"
+  "lati": 49.9549793111,
+  "FullNameUA": "вулиця Танкопія, 19/2",
+  "ChildsIds": []
  },
  {
   "id": 106553,
@@ -1596,8 +1661,9 @@
   "confrm": "Рішення ВК ХМР № 498, 13.08.2014 (приміщення)",
   "reg_date": "",
   "longt": 36.3274928927,
-  "lati": 49.954281450500005,
-  "FullNameUA": "вулиця Танкопія, 19"
+  "lati": 49.9542814505,
+  "FullNameUA": "вулиця Танкопія, 19",
+  "ChildsIds": []
  },
  {
   "id": 106557,
@@ -1622,7 +1688,8 @@
   "reg_date": "",
   "longt": 36.3282025621,
   "lati": 49.9560783271,
-  "FullNameUA": "вулиця Танкопія, 19/4"
+  "FullNameUA": "вулиця Танкопія, 19/4",
+  "ChildsIds": []
  },
  {
   "id": 106556,
@@ -1647,7 +1714,8 @@
   "reg_date": "",
   "longt": 36.328326293,
   "lati": 49.9550127814,
-  "FullNameUA": "вулиця Танкопія, 19/3"
+  "FullNameUA": "вулиця Танкопія, 19/3",
+  "ChildsIds": []
  },
  {
   "id": 106554,
@@ -1672,7 +1740,8 @@
   "reg_date": "",
   "longt": 36.3272053946,
   "lati": 49.9552224716,
-  "FullNameUA": "вулиця Танкопія, 19/1"
+  "FullNameUA": "вулиця Танкопія, 19/1",
+  "ChildsIds": []
  },
  {
   "id": 170740,
@@ -1695,9 +1764,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317894178900005,
-  "lati": 49.951979782600006,
-  "FullNameUA": "вулиця Танкопія, 20-А"
+  "longt": 36.3178941789,
+  "lati": 49.9519797826,
+  "FullNameUA": "вулиця Танкопія, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 170739,
@@ -1720,9 +1790,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319295237300004,
+  "longt": 36.3192952373,
   "lati": 49.9528530252,
-  "FullNameUA": "вулиця Танкопія, 20"
+  "FullNameUA": "вулиця Танкопія, 20",
+  "ChildsIds": []
  },
  {
   "id": 106558,
@@ -1747,7 +1818,8 @@
   "reg_date": "",
   "longt": 36.3286273051,
   "lati": 49.9542699104,
-  "FullNameUA": "вулиця Танкопія, 21"
+  "FullNameUA": "вулиця Танкопія, 21",
+  "ChildsIds": []
  },
  {
   "id": 170742,
@@ -1771,8 +1843,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3206848652,
-  "lati": 49.952994133500006,
-  "FullNameUA": "вулиця Танкопія, 22-Б"
+  "lati": 49.9529941335,
+  "FullNameUA": "вулиця Танкопія, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 170741,
@@ -1796,8 +1869,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3197530247,
-  "lati": 49.952351160700005,
-  "FullNameUA": "вулиця Танкопія, 22"
+  "lati": 49.9523511607,
+  "FullNameUA": "вулиця Танкопія, 22",
+  "ChildsIds": []
  },
  {
   "id": 106559,
@@ -1821,8 +1895,9 @@
   "confrm": "Рішення ВК Фрунзенської райради № 243/2, 20.12.2005",
   "reg_date": "",
   "longt": 36.329827133,
-  "lati": 49.954252040200004,
-  "FullNameUA": "вулиця Танкопія, 23"
+  "lati": 49.9542520402,
+  "FullNameUA": "вулиця Танкопія, 23",
+  "ChildsIds": []
  },
  {
   "id": 170743,
@@ -1847,7 +1922,8 @@
   "reg_date": "",
   "longt": 36.3211315134,
   "lati": 49.9524547716,
-  "FullNameUA": "вулиця Танкопія, 24"
+  "FullNameUA": "вулиця Танкопія, 24",
+  "ChildsIds": []
  },
  {
   "id": 170745,
@@ -1870,9 +1946,10 @@
   "same_adr_comm": "",
   "confrm": "адреса юр. особи",
   "reg_date": "",
-  "longt": 36.318560226500004,
-  "lati": 49.951348266400004,
-  "FullNameUA": "вулиця Танкопія, 24/3"
+  "longt": 36.3185602265,
+  "lati": 49.9513482664,
+  "FullNameUA": "вулиця Танкопія, 24/3",
+  "ChildsIds": []
  },
  {
   "id": 170744,
@@ -1896,8 +1973,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3196842292,
-  "lati": 49.951590807200006,
-  "FullNameUA": "вулиця Танкопія, 24-А"
+  "lati": 49.9515908072,
+  "FullNameUA": "вулиця Танкопія, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 106560,
@@ -1922,7 +2000,8 @@
   "reg_date": "",
   "longt": 36.3307646332,
   "lati": 49.9536507432,
-  "FullNameUA": "вулиця Танкопія, 25"
+  "FullNameUA": "вулиця Танкопія, 25",
+  "ChildsIds": []
  },
  {
   "id": 170748,
@@ -1947,7 +2026,8 @@
   "reg_date": "",
   "longt": 36.3225795298,
   "lati": 49.9523158208,
-  "FullNameUA": "вулиця Танкопія, 26-Б"
+  "FullNameUA": "вулиця Танкопія, 26-Б",
+  "ChildsIds": []
  },
  {
   "id": 170749,
@@ -1972,7 +2052,8 @@
   "reg_date": "",
   "longt": 36.3230093058,
   "lati": 49.9528548332,
-  "FullNameUA": "вулиця Танкопія, 26-Є"
+  "FullNameUA": "вулиця Танкопія, 26-Є",
+  "ChildsIds": []
  },
  {
   "id": 170747,
@@ -1997,7 +2078,8 @@
   "reg_date": "",
   "longt": 36.3222380914,
   "lati": 49.9524830836,
-  "FullNameUA": "вулиця Танкопія, 26-А"
+  "FullNameUA": "вулиця Танкопія, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 170746,
@@ -2021,8 +2103,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3214482302,
-  "lati": 49.951827220400006,
-  "FullNameUA": "вулиця Танкопія, 26"
+  "lati": 49.9518272204,
+  "FullNameUA": "вулиця Танкопія, 26",
+  "ChildsIds": []
  },
  {
   "id": 106561,
@@ -2045,9 +2128,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.331427571599995,
-  "lati": 49.953557656200005,
-  "FullNameUA": "вулиця Танкопія, 27"
+  "longt": 36.3314275716,
+  "lati": 49.9535576562,
+  "FullNameUA": "вулиця Танкопія, 27",
+  "ChildsIds": []
  },
  {
   "id": 170751,
@@ -2072,7 +2156,8 @@
   "reg_date": "",
   "longt": 36.3215380553,
   "lati": 49.9512034476,
-  "FullNameUA": "вулиця Танкопія, 28-А"
+  "FullNameUA": "вулиця Танкопія, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 170750,
@@ -2096,8 +2181,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3228584452,
-  "lati": 49.951968628500005,
-  "FullNameUA": "вулиця Танкопія, 28"
+  "lati": 49.9519686285,
+  "FullNameUA": "вулиця Танкопія, 28",
+  "ChildsIds": []
  },
  {
   "id": 106562,
@@ -2122,7 +2208,8 @@
   "reg_date": "",
   "longt": 36.3324702049,
   "lati": 49.9535009972,
-  "FullNameUA": "вулиця Танкопія, 29"
+  "FullNameUA": "вулиця Танкопія, 29",
+  "ChildsIds": []
  },
  {
   "id": 106563,
@@ -2147,7 +2234,8 @@
   "reg_date": "",
   "longt": 36.3326864911,
   "lati": 49.9542944442,
-  "FullNameUA": "вулиця Танкопія, 29/1"
+  "FullNameUA": "вулиця Танкопія, 29/1",
+  "ChildsIds": []
  },
  {
   "id": 170752,
@@ -2172,7 +2260,8 @@
   "reg_date": "",
   "longt": 36.3235206474,
   "lati": 49.951702329,
-  "FullNameUA": "вулиця Танкопія, 30"
+  "FullNameUA": "вулиця Танкопія, 30",
+  "ChildsIds": []
  },
  {
   "id": 106564,
@@ -2196,8 +2285,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3335175052,
-  "lati": 49.953496093800005,
-  "FullNameUA": "вулиця Танкопія, 31"
+  "lati": 49.9534960938,
+  "FullNameUA": "вулиця Танкопія, 31",
+  "ChildsIds": []
  },
  {
   "id": 106565,
@@ -2222,7 +2312,8 @@
   "reg_date": "",
   "longt": 36.3333873904,
   "lati": 49.9544813082,
-  "FullNameUA": "вулиця Танкопія, 31/1"
+  "FullNameUA": "вулиця Танкопія, 31/1",
+  "ChildsIds": []
  },
  {
   "id": 106568,
@@ -2246,8 +2337,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.335108905,
-  "lati": 49.954849875600004,
-  "FullNameUA": "вулиця Танкопія, 31/4"
+  "lati": 49.9548498756,
+  "FullNameUA": "вулиця Танкопія, 31/4",
+  "ChildsIds": []
  },
  {
   "id": 106567,
@@ -2272,7 +2364,8 @@
   "reg_date": "",
   "longt": 36.3344220317,
   "lati": 49.9540349122,
-  "FullNameUA": "вулиця Танкопія, 31/3"
+  "FullNameUA": "вулиця Танкопія, 31/3",
+  "ChildsIds": []
  },
  {
   "id": 106566,
@@ -2297,7 +2390,8 @@
   "reg_date": "",
   "longt": 36.333956993,
   "lati": 49.9543741534,
-  "FullNameUA": "вулиця Танкопія, 31/2"
+  "FullNameUA": "вулиця Танкопія, 31/2",
+  "ChildsIds": []
  },
  {
   "id": 170753,
@@ -2321,8 +2415,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.324657417,
-  "lati": 49.951624380800006,
-  "FullNameUA": "вулиця Танкопія, 32"
+  "lati": 49.9516243808,
+  "FullNameUA": "вулиця Танкопія, 32",
+  "ChildsIds": []
  },
  {
   "id": 106570,
@@ -2347,7 +2442,8 @@
   "reg_date": "",
   "longt": 36.3351318231,
   "lati": 49.9541782278,
-  "FullNameUA": "вулиця Танкопія, 33/1"
+  "FullNameUA": "вулиця Танкопія, 33/1",
+  "ChildsIds": []
  },
  {
   "id": 106569,
@@ -2372,7 +2468,8 @@
   "reg_date": "",
   "longt": 36.3348892429,
   "lati": 49.9535976927,
-  "FullNameUA": "вулиця Танкопія, 33"
+  "FullNameUA": "вулиця Танкопія, 33",
+  "ChildsIds": []
  },
  {
   "id": 170754,
@@ -2396,8 +2493,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3259699938,
-  "lati": 49.951260553400004,
-  "FullNameUA": "вулиця Танкопія, 34"
+  "lati": 49.9512605534,
+  "FullNameUA": "вулиця Танкопія, 34",
+  "ChildsIds": []
  },
  {
   "id": 179069,
@@ -2422,7 +2520,8 @@
   "reg_date": "",
   "longt": 36.3267904115,
   "lati": 49.9515155679,
-  "FullNameUA": "вулиця Танкопія, 34-А"
+  "FullNameUA": "вулиця Танкопія, 34-А",
+  "ChildsIds": []
  },
  {
   "id": 179068,
@@ -2446,8 +2545,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3262885098,
-  "lati": 49.951874739500006,
-  "FullNameUA": "вулиця Танкопія, 34-Б"
+  "lati": 49.9518747395,
+  "FullNameUA": "вулиця Танкопія, 34-Б",
+  "ChildsIds": []
  },
  {
   "id": 106571,
@@ -2472,7 +2572,8 @@
   "reg_date": "",
   "longt": 36.3359403946,
   "lati": 49.9535925906,
-  "FullNameUA": "вулиця Танкопія, 35"
+  "FullNameUA": "вулиця Танкопія, 35",
+  "ChildsIds": []
  },
  {
   "id": 106573,
@@ -2497,7 +2598,8 @@
   "reg_date": "",
   "longt": 36.3363717315,
   "lati": 49.9544735236,
-  "FullNameUA": "вулиця Танкопія, 35/1"
+  "FullNameUA": "вулиця Танкопія, 35/1",
+  "ChildsIds": []
  },
  {
   "id": 106572,
@@ -2522,57 +2624,8 @@
   "reg_date": "",
   "longt": 36.3368399064,
   "lati": 49.954140776,
-  "FullNameUA": "вулиця Танкопія, 35/2"
- },
- {
-  "id": 170755,
-  "postcode": 61091,
-  "number": 36,
-  "suffix": "",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3281671286,
-  "lati": 49.953472247600004,
-  "FullNameUA": "вулиця Танкопія, 36"
- },
- {
-  "id": 106368,
-  "postcode": 61091,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4085,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Фрунзенської райради № 10/1, 20.01.1998",
-  "reg_date": "02.08.2019 16:03:53",
-  "longt": 36.330550981799995,
-  "lati": 49.953390677600005,
-  "FullNameUA": "вулиця Танкопія, 36-А"
+  "FullNameUA": "вулиця Танкопія, 35/2",
+  "ChildsIds": []
  },
  {
   "id": 106574,
@@ -2596,8 +2649,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3298802611,
-  "lati": 49.951218751800006,
-  "FullNameUA": "вулиця Танкопія, 36/2"
+  "lati": 49.9512187518,
+  "FullNameUA": "вулиця Танкопія, 36/2",
+  "ChildsIds": []
  },
  {
   "id": 179984,
@@ -2622,7 +2676,60 @@
   "reg_date": "",
   "longt": 36.3285989778,
   "lati": 49.9534033798,
-  "FullNameUA": "вулиця Танкопія, 36/4"
+  "FullNameUA": "вулиця Танкопія, 36/4",
+  "ChildsIds": []
+ },
+ {
+  "id": 170755,
+  "postcode": 61091,
+  "number": 36,
+  "suffix": "",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3281671286,
+  "lati": 49.9534722476,
+  "FullNameUA": "вулиця Танкопія, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 106368,
+  "postcode": 61091,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4085,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Фрунзенської райради № 10/1, 20.01.1998",
+  "reg_date": "02.08.2019 16:03:53",
+  "longt": 36.3305509818,
+  "lati": 49.9533906776,
+  "FullNameUA": "вулиця Танкопія, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 106576,
@@ -2647,7 +2754,8 @@
   "reg_date": "",
   "longt": 36.3375450256,
   "lati": 49.9542765766,
-  "FullNameUA": "вулиця Танкопія, 37/1"
+  "FullNameUA": "вулиця Танкопія, 37/1",
+  "ChildsIds": []
  },
  {
   "id": 106575,
@@ -2672,7 +2780,8 @@
   "reg_date": "",
   "longt": 36.3373052699,
   "lati": 49.9536977141,
-  "FullNameUA": "вулиця Танкопія, 37"
+  "FullNameUA": "вулиця Танкопія, 37",
+  "ChildsIds": []
  },
  {
   "id": 106577,
@@ -2697,7 +2806,8 @@
   "reg_date": "",
   "longt": 36.3302626691,
   "lati": 49.9513877572,
-  "FullNameUA": "вулиця Танкопія, 38"
+  "FullNameUA": "вулиця Танкопія, 38",
+  "ChildsIds": []
  },
  {
   "id": 106578,
@@ -2720,9 +2830,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.338353332699995,
-  "lati": 49.953694510400005,
-  "FullNameUA": "вулиця Танкопія, 39/18"
+  "longt": 36.3383533327,
+  "lati": 49.9536945104,
+  "FullNameUA": "вулиця Танкопія, 39/18",
+  "ChildsIds": []
  },
  {
   "id": 106579,
@@ -2746,8 +2857,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3304895527,
-  "lati": 49.951442746000005,
-  "FullNameUA": "вулиця Танкопія, 40"
+  "lati": 49.951442746,
+  "FullNameUA": "вулиця Танкопія, 40",
+  "ChildsIds": []
  },
  {
   "id": 106581,
@@ -2770,9 +2882,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34380302500001,
-  "lati": 49.953936106700006,
-  "FullNameUA": "вулиця Танкопія, 41-Б"
+  "longt": 36.343803025,
+  "lati": 49.9539361067,
+  "FullNameUA": "вулиця Танкопія, 41-Б",
+  "ChildsIds": []
  },
  {
   "id": 106580,
@@ -2796,8 +2909,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3424253311,
-  "lati": 49.953848704900004,
-  "FullNameUA": "вулиця Танкопія, 41-А"
+  "lati": 49.9538487049,
+  "FullNameUA": "вулиця Танкопія, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 106582,
@@ -2821,8 +2935,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3307372531,
-  "lati": 49.951530967500005,
-  "FullNameUA": "вулиця Танкопія, 42"
+  "lati": 49.9515309675,
+  "FullNameUA": "вулиця Танкопія, 42",
+  "ChildsIds": []
  },
  {
   "id": 106583,
@@ -2845,9 +2960,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344972887000004,
+  "longt": 36.344972887,
   "lati": 49.954489338,
-  "FullNameUA": "вулиця Танкопія, 43"
+  "FullNameUA": "вулиця Танкопія, 43",
+  "ChildsIds": []
  },
  {
   "id": 106584,
@@ -2870,9 +2986,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.330838062699996,
+  "longt": 36.3308380627,
   "lati": 49.9515836785,
-  "FullNameUA": "вулиця Танкопія, 44"
+  "FullNameUA": "вулиця Танкопія, 44",
+  "ChildsIds": []
  },
  {
   "id": 179080,
@@ -2895,9 +3012,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.331337350599995,
+  "longt": 36.3313373506,
   "lati": 49.9520982577,
-  "FullNameUA": "вулиця Танкопія, 44-Б"
+  "FullNameUA": "вулиця Танкопія, 44-Б",
+  "ChildsIds": []
  },
  {
   "id": 179079,
@@ -2920,9 +3038,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.330757493499995,
+  "longt": 36.3307574935,
   "lati": 49.9519453045,
-  "FullNameUA": "вулиця Танкопія, 44-А"
+  "FullNameUA": "вулиця Танкопія, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 106585,
@@ -2945,9 +3064,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34592485100001,
-  "lati": 49.954464066300005,
-  "FullNameUA": "вулиця Танкопія, 45"
+  "longt": 36.345924851,
+  "lati": 49.9544640663,
+  "FullNameUA": "вулиця Танкопія, 45",
+  "ChildsIds": []
  },
  {
   "id": 106586,
@@ -2971,8 +3091,9 @@
   "confrm": "818, 23.12.2015",
   "reg_date": "16.01.2019 11:58:44",
   "longt": 36.3328570785,
-  "lati": 49.952597922900004,
-  "FullNameUA": "вулиця Танкопія, 46-Б"
+  "lati": 49.9525979229,
+  "FullNameUA": "вулиця Танкопія, 46-Б",
+  "ChildsIds": []
  },
  {
   "id": 106587,
@@ -2995,9 +3116,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346502919900004,
+  "longt": 36.3465029199,
   "lati": 49.9543580149,
-  "FullNameUA": "вулиця Танкопія, 47"
+  "FullNameUA": "вулиця Танкопія, 47",
+  "ChildsIds": []
  },
  {
   "id": 106588,
@@ -3021,8 +3143,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3314505164,
-  "lati": 49.951717612100005,
-  "FullNameUA": "вулиця Танкопія, 48/2"
+  "lati": 49.9517176121,
+  "FullNameUA": "вулиця Танкопія, 48/2",
+  "ChildsIds": []
  },
  {
   "id": 106589,
@@ -3045,9 +3168,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.347068902100006,
+  "longt": 36.3470689021,
   "lati": 49.9542558253,
-  "FullNameUA": "вулиця Танкопія, 49"
+  "FullNameUA": "вулиця Танкопія, 49",
+  "ChildsIds": []
  },
  {
   "id": 106591,
@@ -3070,9 +3194,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "05.08.2019 12:31:39",
-  "longt": 36.343499350500004,
-  "lati": 49.953148788600004,
-  "FullNameUA": "вулиця Танкопія, 50-А"
+  "longt": 36.3434993505,
+  "lati": 49.9531487886,
+  "FullNameUA": "вулиця Танкопія, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 106592,
@@ -3095,9 +3220,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "08.08.2019 10:23:34",
-  "longt": 36.343848160200004,
+  "longt": 36.3438481602,
   "lati": 49.9531418447,
-  "FullNameUA": "вулиця Танкопія, 50-Б"
+  "FullNameUA": "вулиця Танкопія, 50-Б",
+  "ChildsIds": []
  },
  {
   "id": 106590,
@@ -3120,9 +3246,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.331825605199995,
+  "longt": 36.3318256052,
   "lati": 49.9518230858,
-  "FullNameUA": "вулиця Танкопія, 50"
+  "FullNameUA": "вулиця Танкопія, 50",
+  "ChildsIds": []
  },
  {
   "id": 106593,
@@ -3147,7 +3274,8 @@
   "reg_date": "",
   "longt": 36.3476364148,
   "lati": 49.9541499002,
-  "FullNameUA": "вулиця Танкопія, 51"
+  "FullNameUA": "вулиця Танкопія, 51",
+  "ChildsIds": []
  },
  {
   "id": 106594,
@@ -3172,7 +3300,8 @@
   "reg_date": "",
   "longt": 36.3320476125,
   "lati": 49.9518763012,
-  "FullNameUA": "вулиця Танкопія, 52"
+  "FullNameUA": "вулиця Танкопія, 52",
+  "ChildsIds": []
  },
  {
   "id": 179459,
@@ -3196,8 +3325,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3322989487,
-  "lati": 49.951808405600005,
-  "FullNameUA": "вулиця Танкопія, 54"
+  "lati": 49.9518084056,
+  "FullNameUA": "вулиця Танкопія, 54",
+  "ChildsIds": []
  },
  {
   "id": 106595,
@@ -3221,8 +3351,9 @@
   "confrm": "карта М1:500",
   "reg_date": "",
   "longt": 36.3322940155,
-  "lati": 49.952002285000006,
-  "FullNameUA": "вулиця Танкопія, 54-А"
+  "lati": 49.952002285,
+  "FullNameUA": "вулиця Танкопія, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 106596,
@@ -3247,7 +3378,8 @@
   "reg_date": "",
   "longt": 36.3324790307,
   "lati": 49.9520178439,
-  "FullNameUA": "вулиця Танкопія, 56"
+  "FullNameUA": "вулиця Танкопія, 56",
+  "ChildsIds": []
  },
  {
   "id": 106597,
@@ -3272,7 +3404,8 @@
   "reg_date": "",
   "longt": 36.3327117312,
   "lati": 49.9520788967,
-  "FullNameUA": "вулиця Танкопія, 58"
+  "FullNameUA": "вулиця Танкопія, 58",
+  "ChildsIds": []
  },
  {
   "id": 106598,
@@ -3297,7 +3430,8 @@
   "reg_date": "",
   "longt": 36.3328905654,
   "lati": 49.952128209,
-  "FullNameUA": "вулиця Танкопія, 60"
+  "FullNameUA": "вулиця Танкопія, 60",
+  "ChildsIds": []
  },
  {
   "id": 106599,
@@ -3322,7 +3456,8 @@
   "reg_date": "",
   "longt": 36.3332516343,
   "lati": 49.9520911548,
-  "FullNameUA": "вулиця Танкопія, 62"
+  "FullNameUA": "вулиця Танкопія, 62",
+  "ChildsIds": []
  },
  {
   "id": 106600,
@@ -3346,8 +3481,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3333180844,
-  "lati": 49.952243585000005,
-  "FullNameUA": "вулиця Танкопія, 64"
+  "lati": 49.952243585,
+  "FullNameUA": "вулиця Танкопія, 64",
+  "ChildsIds": []
  },
  {
   "id": 106602,
@@ -3370,9 +3506,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333838146299996,
+  "longt": 36.3338381463,
   "lati": 49.9523180738,
-  "FullNameUA": "вулиця Танкопія, 66-А"
+  "FullNameUA": "вулиця Танкопія, 66-А",
+  "ChildsIds": []
  },
  {
   "id": 106601,
@@ -3395,9 +3532,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333703727999996,
-  "lati": 49.952262152900005,
-  "FullNameUA": "вулиця Танкопія, 66"
+  "longt": 36.333703728,
+  "lati": 49.9522621529,
+  "FullNameUA": "вулиця Танкопія, 66",
+  "ChildsIds": []
  },
  {
   "id": 106603,
@@ -3422,7 +3560,8 @@
   "reg_date": "",
   "longt": 36.3343149491,
   "lati": 49.9525232831,
-  "FullNameUA": "вулиця Танкопія, 68/1"
+  "FullNameUA": "вулиця Танкопія, 68/1",
+  "ChildsIds": []
  },
  {
   "id": 106604,
@@ -3447,7 +3586,8 @@
   "reg_date": "",
   "longt": 36.3347609653,
   "lati": 49.9525331615,
-  "FullNameUA": "вулиця Танкопія, 70"
+  "FullNameUA": "вулиця Танкопія, 70",
+  "ChildsIds": []
  },
  {
   "id": 106605,
@@ -3472,7 +3612,8 @@
   "reg_date": "",
   "longt": 36.3351178244,
   "lati": 49.9525413515,
-  "FullNameUA": "вулиця Танкопія, 72/2"
+  "FullNameUA": "вулиця Танкопія, 72/2",
+  "ChildsIds": []
  },
  {
   "id": 106606,
@@ -3496,8 +3637,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3355024551,
-  "lati": 49.952566825000005,
-  "FullNameUA": "вулиця Танкопія, 74"
+  "lati": 49.952566825,
+  "FullNameUA": "вулиця Танкопія, 74",
+  "ChildsIds": []
  },
  {
   "id": 106607,
@@ -3522,7 +3664,8 @@
   "reg_date": "",
   "longt": 36.3358904546,
   "lati": 49.9525932054,
-  "FullNameUA": "вулиця Танкопія, 76"
+  "FullNameUA": "вулиця Танкопія, 76",
+  "ChildsIds": []
  },
  {
   "id": 106608,
@@ -3546,8 +3689,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3364083376,
-  "lati": 49.952632142800006,
-  "FullNameUA": "вулиця Танкопія, 78"
+  "lati": 49.9526321428,
+  "FullNameUA": "вулиця Танкопія, 78",
+  "ChildsIds": []
  },
  {
   "id": 106609,
@@ -3571,8 +3715,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3367888302,
-  "lati": 49.952635796200006,
-  "FullNameUA": "вулиця Танкопія, 80"
+  "lati": 49.9526357962,
+  "FullNameUA": "вулиця Танкопія, 80",
+  "ChildsIds": []
  },
  {
   "id": 106611,
@@ -3596,8 +3741,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3369811564,
-  "lati": 49.953150246700005,
-  "FullNameUA": "вулиця Танкопія, 82-А"
+  "lati": 49.9531502467,
+  "FullNameUA": "вулиця Танкопія, 82-А",
+  "ChildsIds": []
  },
  {
   "id": 106610,
@@ -3622,7 +3768,8 @@
   "reg_date": "",
   "longt": 36.3371736172,
   "lati": 49.9525152669,
-  "FullNameUA": "вулиця Танкопія, 82"
+  "FullNameUA": "вулиця Танкопія, 82",
+  "ChildsIds": []
  },
  {
   "id": 106612,
@@ -3647,7 +3794,8 @@
   "reg_date": "",
   "longt": 36.3374413289,
   "lati": 49.9526620684,
-  "FullNameUA": "вулиця Танкопія, 84"
+  "FullNameUA": "вулиця Танкопія, 84",
+  "ChildsIds": []
  },
  {
   "id": 106613,
@@ -3670,9 +3818,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.337771726999996,
-  "lati": 49.952672048900006,
-  "FullNameUA": "вулиця Танкопія, 86"
+  "longt": 36.337771727,
+  "lati": 49.9526720489,
+  "FullNameUA": "вулиця Танкопія, 86",
+  "ChildsIds": []
  },
  {
   "id": 106614,
@@ -3697,7 +3846,8 @@
   "reg_date": "",
   "longt": 36.3380586229,
   "lati": 49.9526821553,
-  "FullNameUA": "вулиця Танкопія, 88"
+  "FullNameUA": "вулиця Танкопія, 88",
+  "ChildsIds": []
  },
  {
   "id": 106615,
@@ -3721,8 +3871,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3384215902,
-  "lati": 49.952710117200006,
-  "FullNameUA": "вулиця Танкопія, 90"
+  "lati": 49.9527101172,
+  "FullNameUA": "вулиця Танкопія, 90",
+  "ChildsIds": []
  },
  {
   "id": 106616,
@@ -3747,7 +3898,8 @@
   "reg_date": "",
   "longt": 36.338822949,
   "lati": 49.9527451021,
-  "FullNameUA": "вулиця Танкопія, 92/2"
+  "FullNameUA": "вулиця Танкопія, 92/2",
+  "ChildsIds": []
  },
  {
   "id": 106617,
@@ -3772,6 +3924,7 @@
   "reg_date": "06.08.2019 17:57:00",
   "longt": 36.3396087665,
   "lati": 49.9528232047,
-  "FullNameUA": "вулиця Танкопія, 94"
+  "FullNameUA": "вулиця Танкопія, 94",
+  "ChildsIds": []
  }
 ]

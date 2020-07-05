@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265436815099996,
+  "longt": 36.2654368151,
   "lati": 50.0090881534,
-  "FullNameUA": "вулиця Барнаульська, 1-А"
+  "FullNameUA": "вулиця Барнаульська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 120518,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265848353399996,
+  "longt": 36.2658483534,
   "lati": 50.0090952826,
-  "FullNameUA": "вулиця Барнаульська, 1"
+  "FullNameUA": "вулиця Барнаульська, 1",
+  "ChildsIds": []
  },
  {
   "id": 120520,
@@ -72,7 +74,34 @@
   "reg_date": "",
   "longt": 36.2662515357,
   "lati": 50.0090893489,
-  "FullNameUA": "вулиця Барнаульська, 3"
+  "FullNameUA": "вулиця Барнаульська, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 120521,
+  "postcode": 61013,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2647850262,
+  "lati": 50.0091050608,
+  "FullNameUA": "вулиця Барнаульська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 120522,
@@ -97,32 +126,8 @@
   "reg_date": "",
   "longt": 36.2645279056,
   "lati": 50.0092018071,
-  "FullNameUA": "вулиця Барнаульська, 4-Б"
- },
- {
-  "id": 120521,
-  "postcode": 61013,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.264785026199995,
-  "lati": 50.0091050608,
-  "FullNameUA": "вулиця Барнаульська, 4-А"
+  "FullNameUA": "вулиця Барнаульська, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 179624,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2669312954,
   "lati": 50.0092214711,
-  "FullNameUA": "вулиця Барнаульська, 7"
+  "FullNameUA": "вулиця Барнаульська, 7",
+  "ChildsIds": []
  },
  {
   "id": 120523,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2667070886,
   "lati": 50.0089317686,
-  "FullNameUA": "вулиця Барнаульська, 10"
+  "FullNameUA": "вулиця Барнаульська, 10",
+  "ChildsIds": []
  },
  {
   "id": 179625,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.267497241499996,
+  "longt": 36.2674972415,
   "lati": 50.0093335154,
-  "FullNameUA": "вулиця Барнаульська, 11"
+  "FullNameUA": "вулиця Барнаульська, 11",
+  "ChildsIds": []
  },
  {
   "id": 120524,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2682740658,
   "lati": 50.0093435109,
-  "FullNameUA": "вулиця Барнаульська, 13"
+  "FullNameUA": "вулиця Барнаульська, 13",
+  "ChildsIds": []
  },
  {
   "id": 120525,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2686251006,
   "lati": 50.0094348095,
-  "FullNameUA": "вулиця Барнаульська, 15/50"
+  "FullNameUA": "вулиця Барнаульська, 15/50",
+  "ChildsIds": []
  },
  {
   "id": 120526,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2681154958,
   "lati": 50.0090657259,
-  "FullNameUA": "вулиця Барнаульська, 16"
+  "FullNameUA": "вулиця Барнаульська, 16",
+  "ChildsIds": []
  },
  {
   "id": 120527,
@@ -297,7 +308,34 @@
   "reg_date": "",
   "longt": 36.2690715994,
   "lati": 50.0095357103,
-  "FullNameUA": "вулиця Барнаульська, 17"
+  "FullNameUA": "вулиця Барнаульська, 17",
+  "ChildsIds": []
+ },
+ {
+  "id": 130409,
+  "postcode": 61013,
+  "number": 18,
+  "suffix": "/48",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": " карта М1:2000",
+  "reg_date": "",
+  "longt": 36.2688014208,
+  "lati": 50.0090917847,
+  "FullNameUA": "вулиця Барнаульська, 18/48",
+  "ChildsIds": []
  },
  {
   "id": 120528,
@@ -322,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2693193299,
   "lati": 50.0096060467,
-  "FullNameUA": "вулиця Барнаульська, 19"
+  "FullNameUA": "вулиця Барнаульська, 19",
+  "ChildsIds": []
  },
  {
   "id": 120529,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2691957865,
   "lati": 50.0092859054,
-  "FullNameUA": "вулиця Барнаульська, 20"
+  "FullNameUA": "вулиця Барнаульська, 20",
+  "ChildsIds": []
  },
  {
   "id": 120530,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269583590399996,
+  "longt": 36.2695835904,
   "lati": 50.0096429647,
-  "FullNameUA": "вулиця Барнаульська, 21"
+  "FullNameUA": "вулиця Барнаульська, 21",
+  "ChildsIds": []
  },
  {
   "id": 120531,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269380124899996,
+  "longt": 36.2693801249,
   "lati": 50.0093162286,
-  "FullNameUA": "вулиця Барнаульська, 22"
+  "FullNameUA": "вулиця Барнаульська, 22",
+  "ChildsIds": []
  },
  {
   "id": 120532,
@@ -422,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2699345394,
   "lati": 50.0097279119,
-  "FullNameUA": "вулиця Барнаульська, 23"
+  "FullNameUA": "вулиця Барнаульська, 23",
+  "ChildsIds": []
  },
  {
   "id": 120533,
@@ -447,32 +490,8 @@
   "reg_date": "",
   "longt": 36.2696099867,
   "lati": 50.0093623804,
-  "FullNameUA": "вулиця Барнаульська, 24"
- },
- {
-  "id": 120534,
-  "postcode": 61013,
-  "number": 25,
-  "suffix": "",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.270178676600004,
-  "lati": 50.0097560578,
-  "FullNameUA": "вулиця Барнаульська, 25"
+  "FullNameUA": "вулиця Барнаульська, 24",
+  "ChildsIds": []
  },
  {
   "id": 120535,
@@ -496,8 +515,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2701850595,
-  "lati": 50.010017175399994,
-  "FullNameUA": "вулиця Барнаульська, 25-А"
+  "lati": 50.0100171754,
+  "FullNameUA": "вулиця Барнаульська, 25-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 120534,
+  "postcode": 61013,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2701786766,
+  "lati": 50.0097560578,
+  "FullNameUA": "вулиця Барнаульська, 25",
+  "ChildsIds": []
  },
  {
   "id": 120536,
@@ -522,7 +568,8 @@
   "reg_date": "",
   "longt": 36.26996673,
   "lati": 50.0094382588,
-  "FullNameUA": "вулиця Барнаульська, 26"
+  "FullNameUA": "вулиця Барнаульська, 26",
+  "ChildsIds": []
  },
  {
   "id": 120537,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.270593926800004,
+  "longt": 36.2705939268,
   "lati": 50.0098714479,
-  "FullNameUA": "вулиця Барнаульська, 27/2"
+  "FullNameUA": "вулиця Барнаульська, 27/2",
+  "ChildsIds": []
  },
  {
   "id": 120538,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.270161483100004,
+  "longt": 36.2701614831,
   "lati": 50.0094840923,
-  "FullNameUA": "вулиця Барнаульська, 28"
+  "FullNameUA": "вулиця Барнаульська, 28",
+  "ChildsIds": []
  },
  {
   "id": 120539,
@@ -597,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2709234641,
   "lati": 50.0099231614,
-  "FullNameUA": "вулиця Барнаульська, 29/1"
+  "FullNameUA": "вулиця Барнаульська, 29/1",
+  "ChildsIds": []
  },
  {
   "id": 120540,
@@ -622,32 +672,8 @@
   "reg_date": "",
   "longt": 36.2704530358,
   "lati": 50.0095300232,
-  "FullNameUA": "вулиця Барнаульська, 30"
- },
- {
-  "id": 120542,
-  "postcode": 61013,
-  "number": 31,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.271345847400006,
-  "lati": 50.010237483299996,
-  "FullNameUA": "вулиця Барнаульська, 31-А"
+  "FullNameUA": "вулиця Барнаульська, 30",
+  "ChildsIds": []
  },
  {
   "id": 120541,
@@ -672,7 +698,34 @@
   "reg_date": "",
   "longt": 36.2713143491,
   "lati": 50.0099976078,
-  "FullNameUA": "вулиця Барнаульська, 31"
+  "FullNameUA": "вулиця Барнаульська, 31",
+  "ChildsIds": []
+ },
+ {
+  "id": 120542,
+  "postcode": 61013,
+  "number": 31,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2713458474,
+  "lati": 50.0102374833,
+  "FullNameUA": "вулиця Барнаульська, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 120544,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2708030939,
   "lati": 50.0092252812,
-  "FullNameUA": "вулиця Барнаульська, 32-А"
+  "FullNameUA": "вулиця Барнаульська, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 120543,
@@ -722,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2707385167,
   "lati": 50.0096011765,
-  "FullNameUA": "вулиця Барнаульська, 32"
+  "FullNameUA": "вулиця Барнаульська, 32",
+  "ChildsIds": []
  },
  {
   "id": 120545,
@@ -745,34 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271613466000005,
+  "longt": 36.271613466,
   "lati": 50.0100609111,
-  "FullNameUA": "вулиця Барнаульська, 33"
- },
- {
-  "id": 120546,
-  "postcode": 61013,
-  "number": 34,
-  "suffix": "",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.271029487,
-  "lati": 50.009671624,
-  "FullNameUA": "вулиця Барнаульська, 34"
+  "FullNameUA": "вулиця Барнаульська, 33",
+  "ChildsIds": []
  },
  {
   "id": 120547,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2710934564,
   "lati": 50.0093741126,
-  "FullNameUA": "вулиця Барнаульська, 34-А"
+  "FullNameUA": "вулиця Барнаульська, 34-А",
+  "ChildsIds": []
  },
  {
   "id": 120548,
@@ -822,7 +854,34 @@
   "reg_date": "",
   "longt": 36.2711445571,
   "lati": 50.0092452446,
-  "FullNameUA": "вулиця Барнаульська, 34-Б"
+  "FullNameUA": "вулиця Барнаульська, 34-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 120546,
+  "postcode": 61013,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271029487,
+  "lati": 50.009671624,
+  "FullNameUA": "вулиця Барнаульська, 34",
+  "ChildsIds": []
  },
  {
   "id": 120549,
@@ -847,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2718880177,
   "lati": 50.0101247129,
-  "FullNameUA": "вулиця Барнаульська, 35"
+  "FullNameUA": "вулиця Барнаульська, 35",
+  "ChildsIds": []
  },
  {
   "id": 120550,
@@ -870,34 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271318942200004,
+  "longt": 36.2713189422,
   "lati": 50.0097311495,
-  "FullNameUA": "вулиця Барнаульська, 36"
- },
- {
-  "id": 120552,
-  "postcode": 61013,
-  "number": 37,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.272425800600004,
-  "lati": 50.010230721999996,
-  "FullNameUA": "вулиця Барнаульська, 37-А"
+  "FullNameUA": "вулиця Барнаульська, 36",
+  "ChildsIds": []
  },
  {
   "id": 120551,
@@ -922,7 +958,34 @@
   "reg_date": "",
   "longt": 36.2720756972,
   "lati": 50.0102754681,
-  "FullNameUA": "вулиця Барнаульська, 37"
+  "FullNameUA": "вулиця Барнаульська, 37",
+  "ChildsIds": []
+ },
+ {
+  "id": 120552,
+  "postcode": 61013,
+  "number": 37,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2724258006,
+  "lati": 50.010230722,
+  "FullNameUA": "вулиця Барнаульська, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 120553,
@@ -947,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2726083048,
   "lati": 50.0102984034,
-  "FullNameUA": "вулиця Барнаульська, 37-Б"
+  "FullNameUA": "вулиця Барнаульська, 37-Б",
+  "ChildsIds": []
  },
  {
   "id": 120554,
@@ -970,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271584746100004,
+  "longt": 36.2715847461,
   "lati": 50.0097904131,
-  "FullNameUA": "вулиця Барнаульська, 38"
+  "FullNameUA": "вулиця Барнаульська, 38",
+  "ChildsIds": []
  },
  {
   "id": 120555,
@@ -997,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2718889605,
   "lati": 50.0096783108,
-  "FullNameUA": "вулиця Барнаульська, 40"
+  "FullNameUA": "вулиця Барнаульська, 40",
+  "ChildsIds": []
  },
  {
   "id": 120556,
@@ -1020,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272283812000005,
+  "longt": 36.272283812,
   "lati": 50.0099310267,
-  "FullNameUA": "вулиця Барнаульська, 42"
+  "FullNameUA": "вулиця Барнаульська, 42",
+  "ChildsIds": []
  },
  {
   "id": 120557,
@@ -1046,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2728362527,
-  "lati": 50.010052509699996,
-  "FullNameUA": "вулиця Барнаульська, 44"
+  "lati": 50.0100525097,
+  "FullNameUA": "вулиця Барнаульська, 44",
+  "ChildsIds": []
  },
  {
   "id": 120558,
@@ -1070,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27376358710001,
+  "longt": 36.2737635871,
   "lati": 50.0105056945,
-  "FullNameUA": "вулиця Барнаульська, 45"
+  "FullNameUA": "вулиця Барнаульська, 45",
+  "ChildsIds": []
  },
  {
   "id": 120559,
@@ -1095,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273794440500005,
+  "longt": 36.2737944405,
   "lati": 50.0107870852,
-  "FullNameUA": "вулиця Барнаульська, 47"
+  "FullNameUA": "вулиця Барнаульська, 47",
+  "ChildsIds": []
  },
  {
   "id": 120560,
@@ -1120,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274047683300005,
-  "lati": 50.010574555999995,
-  "FullNameUA": "вулиця Барнаульська, 49"
+  "longt": 36.2740476833,
+  "lati": 50.010574556,
+  "FullNameUA": "вулиця Барнаульська, 49",
+  "ChildsIds": []
  },
  {
   "id": 120561,
@@ -1145,34 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274490062400005,
-  "lati": 50.010676947099995,
-  "FullNameUA": "вулиця Барнаульська, 51"
- },
- {
-  "id": 120562,
-  "postcode": 61013,
-  "number": 53,
-  "suffix": "",
-  "block": "",
-  "streetid": 2152,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.274626072900006,
-  "lati": 50.0107283976,
-  "FullNameUA": "вулиця Барнаульська, 53"
+  "longt": 36.2744900624,
+  "lati": 50.0106769471,
+  "FullNameUA": "вулиця Барнаульська, 51",
+  "ChildsIds": []
  },
  {
   "id": 120563,
@@ -1196,8 +1243,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2746438356,
-  "lati": 50.011047627299995,
-  "FullNameUA": "вулиця Барнаульська, 53-А"
+  "lati": 50.0110476273,
+  "FullNameUA": "вулиця Барнаульська, 53-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 120562,
+  "postcode": 61013,
+  "number": 53,
+  "suffix": "",
+  "block": "",
+  "streetid": 2152,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2746260729,
+  "lati": 50.0107283976,
+  "FullNameUA": "вулиця Барнаульська, 53",
+  "ChildsIds": []
  },
  {
   "id": 120564,
@@ -1220,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274998734300006,
+  "longt": 36.2749987343,
   "lati": 50.0107980255,
-  "FullNameUA": "вулиця Барнаульська, 55"
+  "FullNameUA": "вулиця Барнаульська, 55",
+  "ChildsIds": []
  },
  {
   "id": 120565,
@@ -1247,6 +1322,7 @@
   "reg_date": "",
   "longt": 36.275163351,
   "lati": 50.0111378922,
-  "FullNameUA": "вулиця Барнаульська, 57-А"
+  "FullNameUA": "вулиця Барнаульська, 57-А",
+  "ChildsIds": []
  }
 ]

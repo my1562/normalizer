@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3828277053,
   "lati": 49.9357143298,
-  "FullNameUA": "вулиця Таджицька, 2"
+  "FullNameUA": "вулиця Таджицька, 2",
+  "ChildsIds": []
  },
  {
   "id": 112858,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.383997051,
   "lati": 49.93584054,
-  "FullNameUA": "вулиця Таджицька, 3"
+  "FullNameUA": "вулиця Таджицька, 3",
+  "ChildsIds": []
  },
  {
   "id": 112859,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.383145164000005,
+  "longt": 36.383145164,
   "lati": 49.9356141461,
-  "FullNameUA": "вулиця Таджицька, 4"
+  "FullNameUA": "вулиця Таджицька, 4",
+  "ChildsIds": []
  },
  {
   "id": 112860,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.384479548200005,
+  "longt": 36.3844795482,
   "lati": 49.9363463598,
-  "FullNameUA": "вулиця Таджицька, 5"
+  "FullNameUA": "вулиця Таджицька, 5",
+  "ChildsIds": []
  },
  {
   "id": 112861,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3834387603,
   "lati": 49.9355127799,
-  "FullNameUA": "вулиця Таджицька, 6"
+  "FullNameUA": "вулиця Таджицька, 6",
+  "ChildsIds": []
  },
  {
   "id": 112862,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3846295239,
   "lati": 49.9356446704,
-  "FullNameUA": "вулиця Таджицька, 7"
+  "FullNameUA": "вулиця Таджицька, 7",
+  "ChildsIds": []
  },
  {
   "id": 112863,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3837282471,
   "lati": 49.9354211169,
-  "FullNameUA": "вулиця Таджицька, 8"
+  "FullNameUA": "вулиця Таджицька, 8",
+  "ChildsIds": []
  },
  {
   "id": 112864,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3848563209,
   "lati": 49.9359413475,
-  "FullNameUA": "вулиця Таджицька, 9"
+  "FullNameUA": "вулиця Таджицька, 9",
+  "ChildsIds": []
  },
  {
   "id": 112865,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3840065811,
   "lati": 49.9353244191,
-  "FullNameUA": "вулиця Таджицька, 10"
+  "FullNameUA": "вулиця Таджицька, 10",
+  "ChildsIds": []
  },
  {
   "id": 112866,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.3853369538,
   "lati": 49.935407018,
-  "FullNameUA": "вулиця Таджицька, 11"
+  "FullNameUA": "вулиця Таджицька, 11",
+  "ChildsIds": []
  },
  {
   "id": 112867,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.384348675400005,
+  "longt": 36.3843486754,
   "lati": 49.9352487418,
-  "FullNameUA": "вулиця Таджицька, 12"
+  "FullNameUA": "вулиця Таджицька, 12",
+  "ChildsIds": []
  },
  {
   "id": 112868,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.3855804012,
   "lati": 49.9359843038,
-  "FullNameUA": "вулиця Таджицька, 13"
+  "FullNameUA": "вулиця Таджицька, 13",
+  "ChildsIds": []
  },
  {
   "id": 112869,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3845958443,
   "lati": 49.9351271556,
-  "FullNameUA": "вулиця Таджицька, 14"
+  "FullNameUA": "вулиця Таджицька, 14",
+  "ChildsIds": []
  },
  {
   "id": 112870,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.386166375200006,
+  "longt": 36.3861663752,
   "lati": 49.9352041041,
-  "FullNameUA": "вулиця Таджицька, 15"
+  "FullNameUA": "вулиця Таджицька, 15",
+  "ChildsIds": []
  },
  {
   "id": 112871,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.384875528500004,
+  "longt": 36.3848755285,
   "lati": 49.9350441495,
-  "FullNameUA": "вулиця Таджицька, 16"
+  "FullNameUA": "вулиця Таджицька, 16",
+  "ChildsIds": []
  },
  {
   "id": 112872,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.3865697022,
   "lati": 49.9357620529,
-  "FullNameUA": "вулиця Таджицька, 17"
+  "FullNameUA": "вулиця Таджицька, 17",
+  "ChildsIds": []
  },
  {
   "id": 112873,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3851732544,
   "lati": 49.9349505316,
-  "FullNameUA": "вулиця Таджицька, 18"
+  "FullNameUA": "вулиця Таджицька, 18",
+  "ChildsIds": []
  },
  {
   "id": 112874,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3866741634,
   "lati": 49.9351983468,
-  "FullNameUA": "вулиця Таджицька, 19"
+  "FullNameUA": "вулиця Таджицька, 19",
+  "ChildsIds": []
  },
  {
   "id": 112875,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3854713751,
   "lati": 49.9348621098,
-  "FullNameUA": "вулиця Таджицька, 20"
+  "FullNameUA": "вулиця Таджицька, 20",
+  "ChildsIds": []
  },
  {
   "id": 112876,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.385776651,
   "lati": 49.934747134,
-  "FullNameUA": "вулиця Таджицька, 22"
+  "FullNameUA": "вулиця Таджицька, 22",
+  "ChildsIds": []
  },
  {
   "id": 175293,
@@ -522,7 +542,34 @@
   "reg_date": "",
   "longt": 36.3907957566,
   "lati": 49.9341179136,
-  "FullNameUA": "вулиця Таджицька, 25"
+  "FullNameUA": "вулиця Таджицька, 25",
+  "ChildsIds": []
+ },
+ {
+  "id": 182543,
+  "postcode": 61138,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 4081,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3896790224,
+  "lati": 49.9333933013,
+  "FullNameUA": "вулиця Таджицька, 26",
+  "ChildsIds": []
  },
  {
   "id": 177076,
@@ -547,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3901291899,
   "lati": 49.9337663792,
-  "FullNameUA": "вулиця Таджицька, 26-А"
+  "FullNameUA": "вулиця Таджицька, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 175294,
@@ -572,7 +620,34 @@
   "reg_date": "",
   "longt": 36.3910242121,
   "lati": 49.9340109845,
-  "FullNameUA": "вулиця Таджицька, 27"
+  "FullNameUA": "вулиця Таджицька, 27",
+  "ChildsIds": []
+ },
+ {
+  "id": 182544,
+  "postcode": 61138,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 4081,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3899806961,
+  "lati": 49.9333309546,
+  "FullNameUA": "вулиця Таджицька, 28",
+  "ChildsIds": []
  },
  {
   "id": 175295,
@@ -597,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3912296357,
   "lati": 49.9338945848,
-  "FullNameUA": "вулиця Таджицька, 29"
+  "FullNameUA": "вулиця Таджицька, 29",
+  "ChildsIds": []
  },
  {
   "id": 177077,
@@ -622,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3903262431,
   "lati": 49.9333011841,
-  "FullNameUA": "вулиця Таджицька, 30"
+  "FullNameUA": "вулиця Таджицька, 30",
+  "ChildsIds": []
  },
  {
   "id": 175296,
@@ -647,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3915143725,
   "lati": 49.9337874289,
-  "FullNameUA": "вулиця Таджицька, 31"
+  "FullNameUA": "вулиця Таджицька, 31",
+  "ChildsIds": []
  },
  {
   "id": 177079,
@@ -672,7 +750,8 @@
   "reg_date": "",
   "longt": 36.3906924843,
   "lati": 49.9332517037,
-  "FullNameUA": "вулиця Таджицька, 32"
+  "FullNameUA": "вулиця Таджицька, 32",
+  "ChildsIds": []
  },
  {
   "id": 175297,
@@ -697,7 +776,34 @@
   "reg_date": "",
   "longt": 36.3919156031,
   "lati": 49.933612936,
-  "FullNameUA": "вулиця Таджицька, 33"
+  "FullNameUA": "вулиця Таджицька, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 182545,
+  "postcode": 61138,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 4081,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархів",
+  "reg_date": "",
+  "longt": 36.390996379,
+  "lati": 49.9331515113,
+  "FullNameUA": "вулиця Таджицька, 34",
+  "ChildsIds": []
  },
  {
   "id": 177072,
@@ -722,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3923129668,
   "lati": 49.932882873,
-  "FullNameUA": "вулиця Таджицька, 36"
+  "FullNameUA": "вулиця Таджицька, 36",
+  "ChildsIds": []
  },
  {
   "id": 177074,
@@ -746,8 +853,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3923916439,
-  "lati": 49.932587644899996,
-  "FullNameUA": "вулиця Таджицька, 38"
+  "lati": 49.9325876449,
+  "FullNameUA": "вулиця Таджицька, 38",
+  "ChildsIds": []
  },
  {
   "id": 177073,
@@ -772,6 +880,7 @@
   "reg_date": "",
   "longt": 36.3919652947,
   "lati": 49.9327270526,
-  "FullNameUA": "вулиця Таджицька, 40"
+  "FullNameUA": "вулиця Таджицька, 40",
+  "ChildsIds": []
  }
 ]

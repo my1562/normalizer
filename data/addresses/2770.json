@@ -1,5 +1,31 @@
 [
  {
+  "id": 123216,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.304860643,
+  "lati": 50.0335957569,
+  "FullNameUA": "вулиця Чуйківська, 1-А",
+  "ChildsIds": []
+ },
+ {
   "id": 123215,
   "postcode": 61107,
   "number": 1,
@@ -22,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3046579063,
   "lati": 50.0336969376,
-  "FullNameUA": "вулиця Чуйківська, 1"
+  "FullNameUA": "вулиця Чуйківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 123217,
@@ -45,34 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.305062682800006,
+  "longt": 36.3050626828,
   "lati": 50.0334566298,
-  "FullNameUA": "вулиця Чуйківська, 1-Б"
- },
- {
-  "id": 123216,
-  "postcode": 61107,
-  "number": 1,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.304860643000005,
-  "lati": 50.0335957569,
-  "FullNameUA": "вулиця Чуйківська, 1-А"
+  "FullNameUA": "вулиця Чуйківська, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 123218,
@@ -97,32 +100,8 @@
   "reg_date": "",
   "longt": 36.3051304831,
   "lati": 50.0337483954,
-  "FullNameUA": "вулиця Чуйківська, 2"
- },
- {
-  "id": 123220,
-  "postcode": 61107,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.304107712100006,
-  "lati": 50.0343256308,
-  "FullNameUA": "вулиця Чуйківська, 3-А"
+  "FullNameUA": "вулиця Чуйківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 123219,
@@ -147,7 +126,34 @@
   "reg_date": "",
   "longt": 36.3044546781,
   "lati": 50.0338528569,
-  "FullNameUA": "вулиця Чуйківська, 3"
+  "FullNameUA": "вулиця Чуйківська, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 123220,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3041077121,
+  "lati": 50.0343256308,
+  "FullNameUA": "вулиця Чуйківська, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 123221,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3048835493,
   "lati": 50.0339346113,
-  "FullNameUA": "вулиця Чуйківська, 4"
+  "FullNameUA": "вулиця Чуйківська, 4",
+  "ChildsIds": []
  },
  {
   "id": 123222,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304594886800004,
-  "lati": 50.034117538400004,
-  "FullNameUA": "вулиця Чуйківська, 6"
+  "longt": 36.3045948868,
+  "lati": 50.0341175384,
+  "FullNameUA": "вулиця Чуйківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 123223,
@@ -220,34 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303834270500005,
-  "lati": 50.034828529100004,
-  "FullNameUA": "вулиця Чуйківська, 7"
- },
- {
-  "id": 123226,
-  "postcode": 61107,
-  "number": 8,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.30252626240001,
-  "lati": 50.037630034100005,
-  "FullNameUA": "вулиця Чуйківська, 8-Б"
+  "longt": 36.3038342705,
+  "lati": 50.0348285291,
+  "FullNameUA": "вулиця Чуйківська, 7",
+  "ChildsIds": []
  },
  {
   "id": 123225,
@@ -270,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302400246000005,
-  "lati": 50.037852769000004,
-  "FullNameUA": "вулиця Чуйківська, 8-А"
+  "longt": 36.302400246,
+  "lati": 50.037852769,
+  "FullNameUA": "вулиця Чуйківська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 123224,
@@ -295,9 +280,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304589992100006,
+  "longt": 36.3045899921,
   "lati": 50.0343121341,
-  "FullNameUA": "вулиця Чуйківська, 8"
+  "FullNameUA": "вулиця Чуйківська, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 123226,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3025262624,
+  "lati": 50.0376300341,
+  "FullNameUA": "вулиця Чуйківська, 8-Б",
+  "ChildsIds": []
  },
  {
   "id": 123227,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303688287700005,
+  "longt": 36.3036882877,
   "lati": 50.0351415524,
-  "FullNameUA": "вулиця Чуйківська, 9"
+  "FullNameUA": "вулиця Чуйківська, 9",
+  "ChildsIds": []
  },
  {
   "id": 123228,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301935521000004,
+  "longt": 36.301935521,
   "lati": 50.0383410059,
-  "FullNameUA": "вулиця Чуйківська, 10"
+  "FullNameUA": "вулиця Чуйківська, 10",
+  "ChildsIds": []
  },
  {
   "id": 123229,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3036117504,
   "lati": 50.035260949,
-  "FullNameUA": "вулиця Чуйківська, 11"
+  "FullNameUA": "вулиця Чуйківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 123230,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.3042540817,
   "lati": 50.0348645992,
-  "FullNameUA": "вулиця Чуйківська, 12"
+  "FullNameUA": "вулиця Чуйківська, 12",
+  "ChildsIds": []
  },
  {
   "id": 123231,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303489919700006,
+  "longt": 36.3034899197,
   "lati": 50.0354103769,
-  "FullNameUA": "вулиця Чуйківська, 13"
+  "FullNameUA": "вулиця Чуйківська, 13",
+  "ChildsIds": []
  },
  {
   "id": 123232,
@@ -445,34 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30411773750001,
-  "lati": 50.035107161700004,
-  "FullNameUA": "вулиця Чуйківська, 14"
- },
- {
-  "id": 123234,
-  "postcode": 61107,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.303167176200006,
-  "lati": 50.0358160906,
-  "FullNameUA": "вулиця Чуйківська, 15-А"
+  "longt": 36.3041177375,
+  "lati": 50.0351071617,
+  "FullNameUA": "вулиця Чуйківська, 14",
+  "ChildsIds": []
  },
  {
   "id": 123233,
@@ -497,7 +490,34 @@
   "reg_date": "",
   "longt": 36.3032969105,
   "lati": 50.035649724,
-  "FullNameUA": "вулиця Чуйківська, 15"
+  "FullNameUA": "вулиця Чуйківська, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 123234,
+  "postcode": 61107,
+  "number": 15,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3031671762,
+  "lati": 50.0358160906,
+  "FullNameUA": "вулиця Чуйківська, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 123236,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.3040006339,
   "lati": 50.0352872781,
-  "FullNameUA": "вулиця Чуйківська, 16-А"
+  "FullNameUA": "вулиця Чуйківська, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 123235,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30149393440001,
-  "lati": 50.038915789600004,
-  "FullNameUA": "вулиця Чуйківська, 16"
+  "longt": 36.3014939344,
+  "lati": 50.0389157896,
+  "FullNameUA": "вулиця Чуйківська, 16",
+  "ChildsIds": []
  },
  {
   "id": 123237,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3030516071,
   "lati": 50.0360124965,
-  "FullNameUA": "вулиця Чуйківська, 17"
+  "FullNameUA": "вулиця Чуйківська, 17",
+  "ChildsIds": []
  },
  {
   "id": 123238,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3038554652,
-  "lati": 50.035474038400004,
-  "FullNameUA": "вулиця Чуйківська, 18"
+  "lati": 50.0354740384,
+  "FullNameUA": "вулиця Чуйківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 123239,
@@ -620,59 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302957966700006,
+  "longt": 36.3029579667,
   "lati": 50.0361614672,
-  "FullNameUA": "вулиця Чуйківська, 19"
- },
- {
-  "id": 123240,
-  "postcode": 61107,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3012160556,
-  "lati": 50.039289645400004,
-  "FullNameUA": "вулиця Чуйківська, 20"
- },
- {
-  "id": 123242,
-  "postcode": 61107,
-  "number": 20,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3036125164,
-  "lati": 50.0359638718,
-  "FullNameUA": "вулиця Чуйківська, 20-Б"
+  "FullNameUA": "вулиця Чуйківська, 19",
+  "ChildsIds": []
  },
  {
   "id": 123241,
@@ -697,13 +672,14 @@
   "reg_date": "",
   "longt": 36.303729437,
   "lati": 50.0356634162,
-  "FullNameUA": "вулиця Чуйківська, 20-А"
+  "FullNameUA": "вулиця Чуйківська, 20-А",
+  "ChildsIds": []
  },
  {
-  "id": 123244,
+  "id": 123242,
   "postcode": 61107,
-  "number": 21,
-  "suffix": "А",
+  "number": 20,
+  "suffix": "Б",
   "block": "",
   "streetid": 2770,
   "status_id": 1,
@@ -720,9 +696,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30279875630001,
-  "lati": 50.0362264391,
-  "FullNameUA": "вулиця Чуйківська, 21-А"
+  "longt": 36.3036125164,
+  "lati": 50.0359638718,
+  "FullNameUA": "вулиця Чуйківська, 20-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 123240,
+  "postcode": 61107,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3012160556,
+  "lati": 50.0392896454,
+  "FullNameUA": "вулиця Чуйківська, 20",
+  "ChildsIds": []
  },
  {
   "id": 123243,
@@ -747,13 +750,14 @@
   "reg_date": "",
   "longt": 36.3028477391,
   "lati": 50.0363595973,
-  "FullNameUA": "вулиця Чуйківська, 21"
+  "FullNameUA": "вулиця Чуйківська, 21",
+  "ChildsIds": []
  },
  {
-  "id": 123245,
+  "id": 123244,
   "postcode": 61107,
-  "number": 22,
-  "suffix": "",
+  "number": 21,
+  "suffix": "А",
   "block": "",
   "streetid": 2770,
   "status_id": 1,
@@ -770,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.301160469,
-  "lati": 50.039438857200004,
-  "FullNameUA": "вулиця Чуйківська, 22"
+  "longt": 36.3027987563,
+  "lati": 50.0362264391,
+  "FullNameUA": "вулиця Чуйківська, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 123246,
@@ -796,8 +801,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3034680143,
-  "lati": 50.036181898900004,
-  "FullNameUA": "вулиця Чуйківська, 22-А"
+  "lati": 50.0361818989,
+  "FullNameUA": "вулиця Чуйківська, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123245,
+  "postcode": 61107,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.301160469,
+  "lati": 50.0394388572,
+  "FullNameUA": "вулиця Чуйківська, 22",
+  "ChildsIds": []
  },
  {
   "id": 123247,
@@ -820,9 +852,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302731268200006,
+  "longt": 36.3027312682,
   "lati": 50.0365297892,
-  "FullNameUA": "вулиця Чуйківська, 23"
+  "FullNameUA": "вулиця Чуйківська, 23",
+  "ChildsIds": []
+ },
+ {
+  "id": 123248,
+  "postcode": 61107,
+  "number": 24,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3011230284,
+  "lati": 50.0395720907,
+  "FullNameUA": "вулиця Чуйківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 123249,
@@ -847,32 +906,8 @@
   "reg_date": "",
   "longt": 36.3033142108,
   "lati": 50.0363892461,
-  "FullNameUA": "вулиця Чуйківська, 24-А"
- },
- {
-  "id": 123248,
-  "postcode": 61107,
-  "number": 24,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.301123028400006,
-  "lati": 50.0395720907,
-  "FullNameUA": "вулиця Чуйківська, 24"
+  "FullNameUA": "вулиця Чуйківська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 123250,
@@ -895,9 +930,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302617226900004,
+  "longt": 36.3026172269,
   "lati": 50.0367041548,
-  "FullNameUA": "вулиця Чуйківська, 25"
+  "FullNameUA": "вулиця Чуйківська, 25",
+  "ChildsIds": []
+ },
+ {
+  "id": 123252,
+  "postcode": 61107,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.303250811,
+  "lati": 50.0365844635,
+  "FullNameUA": "вулиця Чуйківська, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 123251,
@@ -922,32 +984,8 @@
   "reg_date": "",
   "longt": 36.3010114148,
   "lati": 50.0397594686,
-  "FullNameUA": "вулиця Чуйківська, 26"
- },
- {
-  "id": 123252,
-  "postcode": 61107,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.303250811000005,
-  "lati": 50.0365844635,
-  "FullNameUA": "вулиця Чуйківська, 26-А"
+  "FullNameUA": "вулиця Чуйківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 123253,
@@ -971,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.302467309,
-  "lati": 50.036915845100005,
-  "FullNameUA": "вулиця Чуйківська, 27"
+  "lati": 50.0369158451,
+  "FullNameUA": "вулиця Чуйківська, 27",
+  "ChildsIds": []
  },
  {
   "id": 123254,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303038125700006,
+  "longt": 36.3030381257,
   "lati": 50.0368252656,
-  "FullNameUA": "вулиця Чуйківська, 28-А"
+  "FullNameUA": "вулиця Чуйківська, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 123255,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30201802450001,
+  "longt": 36.3020180245,
   "lati": 50.0369894634,
-  "FullNameUA": "вулиця Чуйківська, 29"
+  "FullNameUA": "вулиця Чуйківська, 29",
+  "ChildsIds": []
  },
  {
   "id": 123257,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302928530600006,
+  "longt": 36.3029285306,
   "lati": 50.037015846,
-  "FullNameUA": "вулиця Чуйківська, 30-А"
+  "FullNameUA": "вулиця Чуйківська, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 123256,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300857682300006,
+  "longt": 36.3008576823,
   "lati": 50.0401046808,
-  "FullNameUA": "вулиця Чуйківська, 30"
+  "FullNameUA": "вулиця Чуйківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 123258,
@@ -1095,34 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30226537590001,
+  "longt": 36.3022653759,
   "lati": 50.0373053784,
-  "FullNameUA": "вулиця Чуйківська, 31"
- },
- {
-  "id": 123259,
-  "postcode": 61107,
-  "number": 32,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300772071000004,
-  "lati": 50.0402851226,
-  "FullNameUA": "вулиця Чуйківська, 32"
+  "FullNameUA": "вулиця Чуйківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 123260,
@@ -1145,9 +1164,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.302796761100005,
+  "longt": 36.3027967611,
   "lati": 50.0372041055,
-  "FullNameUA": "вулиця Чуйківська, 32-А"
+  "FullNameUA": "вулиця Чуйківська, 32-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123259,
+  "postcode": 61107,
+  "number": 32,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.300772071,
+  "lati": 50.0402851226,
+  "FullNameUA": "вулиця Чуйківська, 32",
+  "ChildsIds": []
  },
  {
   "id": 123262,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302127480900005,
+  "longt": 36.3021274809,
   "lati": 50.0373746076,
-  "FullNameUA": "вулиця Чуйківська, 33-А"
+  "FullNameUA": "вулиця Чуйківська, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 123261,
@@ -1195,34 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30208956880001,
+  "longt": 36.3020895688,
   "lati": 50.0375160334,
-  "FullNameUA": "вулиця Чуйківська, 33"
- },
- {
-  "id": 123263,
-  "postcode": 61107,
-  "number": 34,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30071735320001,
-  "lati": 50.0404693479,
-  "FullNameUA": "вулиця Чуйківська, 34"
+  "FullNameUA": "вулиця Чуйківська, 33",
+  "ChildsIds": []
  },
  {
   "id": 123264,
@@ -1247,7 +1270,62 @@
   "reg_date": "",
   "longt": 36.3026650429,
   "lati": 50.0374006901,
-  "FullNameUA": "вулиця Чуйківська, 34-А"
+  "FullNameUA": "вулиця Чуйківська, 34-А",
+  "ChildsIds": [
+   182743
+  ]
+ },
+ {
+  "id": 123263,
+  "postcode": 61107,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3007173532,
+  "lati": 50.0404693479,
+  "FullNameUA": "вулиця Чуйківська, 34",
+  "ChildsIds": []
+ },
+ {
+  "id": 182743,
+  "postcode": 61107,
+  "number": 34,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\" загальною площею 145,5 кв. м, житловою площею 51,1 кв. м",
+  "confrm": "",
+  "reg_date": "27.04.2020 16:50:26",
+  "longt": 36.3006602927,
+  "lati": 50.040604033,
+  "FullNameUA": "вулиця Чуйківська, 34-Б",
+  "ChildsIds": []
  },
  {
   "id": 123265,
@@ -1270,34 +1348,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30196343990001,
+  "longt": 36.3019634399,
   "lati": 50.0377126002,
-  "FullNameUA": "вулиця Чуйківська, 35"
- },
- {
-  "id": 123267,
-  "postcode": 61107,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.30298654720001,
-  "lati": 50.037937983,
-  "FullNameUA": "вулиця Чуйківська, 36-А"
+  "FullNameUA": "вулиця Чуйківська, 35",
+  "ChildsIds": []
  },
  {
   "id": 123266,
@@ -1320,9 +1374,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300645686100005,
+  "longt": 36.3006456861,
   "lati": 50.0407314307,
-  "FullNameUA": "вулиця Чуйківська, 36"
+  "FullNameUA": "вулиця Чуйківська, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 123267,
+  "postcode": 61107,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3029865472,
+  "lati": 50.037937983,
+  "FullNameUA": "вулиця Чуйківська, 36-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123269,
+  "postcode": 61107,
+  "number": 37,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 26-4, 03.02.2009",
+  "reg_date": "02.04.2019 09:14:23",
+  "longt": 36.3016817514,
+  "lati": 50.0378712404,
+  "FullNameUA": "вулиця Чуйківська, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 123268,
@@ -1347,32 +1454,8 @@
   "reg_date": "02.04.2019 09:12:34",
   "longt": 36.3018564874,
   "lati": 50.0379053944,
-  "FullNameUA": "вулиця Чуйківська, 37"
- },
- {
-  "id": 123269,
-  "postcode": 61107,
-  "number": 37,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 26-4, 03.02.2009",
-  "reg_date": "02.04.2019 09:14:23",
-  "longt": 36.301681751400004,
-  "lati": 50.0378712404,
-  "FullNameUA": "вулиця Чуйківська, 37-А"
+  "FullNameUA": "вулиця Чуйківська, 37",
+  "ChildsIds": []
  },
  {
   "id": 123271,
@@ -1395,9 +1478,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303293529200005,
+  "longt": 36.3032935292,
   "lati": 50.0380085416,
-  "FullNameUA": "вулиця Чуйківська, 38-А"
+  "FullNameUA": "вулиця Чуйківська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 123270,
@@ -1422,7 +1506,8 @@
   "reg_date": "",
   "longt": 36.3006121207,
   "lati": 50.0408605476,
-  "FullNameUA": "вулиця Чуйківська, 38"
+  "FullNameUA": "вулиця Чуйківська, 38",
+  "ChildsIds": []
  },
  {
   "id": 123272,
@@ -1447,32 +1532,8 @@
   "reg_date": "",
   "longt": 36.3017221846,
   "lati": 50.0380096696,
-  "FullNameUA": "вулиця Чуйківська, 39"
- },
- {
-  "id": 123274,
-  "postcode": 61107,
-  "number": 40,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3033313246,
-  "lati": 50.037660885600005,
-  "FullNameUA": "вулиця Чуйківська, 40-А"
+  "FullNameUA": "вулиця Чуйківська, 39",
+  "ChildsIds": []
  },
  {
   "id": 123273,
@@ -1497,7 +1558,34 @@
   "reg_date": "",
   "longt": 36.3006265623,
   "lati": 50.0410808395,
-  "FullNameUA": "вулиця Чуйківська, 40"
+  "FullNameUA": "вулиця Чуйківська, 40",
+  "ChildsIds": []
+ },
+ {
+  "id": 123274,
+  "postcode": 61107,
+  "number": 40,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3033313246,
+  "lati": 50.0376608856,
+  "FullNameUA": "вулиця Чуйківська, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 123275,
@@ -1520,34 +1608,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301379447500004,
+  "longt": 36.3013794475,
   "lati": 50.0380934699,
-  "FullNameUA": "вулиця Чуйківська, 41"
- },
- {
-  "id": 123276,
-  "postcode": 61107,
-  "number": 42,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30067617420001,
-  "lati": 50.041314461,
-  "FullNameUA": "вулиця Чуйківська, 42"
+  "FullNameUA": "вулиця Чуйківська, 41",
+  "ChildsIds": []
  },
  {
   "id": 123277,
@@ -1570,9 +1634,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303444620200004,
+  "longt": 36.3034446202,
   "lati": 50.0374714844,
-  "FullNameUA": "вулиця Чуйківська, 42-А"
+  "FullNameUA": "вулиця Чуйківська, 42-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123276,
+  "postcode": 61107,
+  "number": 42,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3006761742,
+  "lati": 50.041314461,
+  "FullNameUA": "вулиця Чуйківська, 42",
+  "ChildsIds": []
  },
  {
   "id": 123278,
@@ -1595,9 +1686,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301534344100006,
+  "longt": 36.3015343441,
   "lati": 50.0383351371,
-  "FullNameUA": "вулиця Чуйківська, 43"
+  "FullNameUA": "вулиця Чуйківська, 43",
+  "ChildsIds": []
  },
  {
   "id": 123280,
@@ -1620,9 +1712,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.303541468300004,
+  "longt": 36.3035414683,
   "lati": 50.037309481,
-  "FullNameUA": "вулиця Чуйківська, 44-А"
+  "FullNameUA": "вулиця Чуйківська, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 123279,
@@ -1645,9 +1738,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.300617957200004,
-  "lati": 50.041465202699996,
-  "FullNameUA": "вулиця Чуйківська, 44"
+  "longt": 36.3006179572,
+  "lati": 50.0414652027,
+  "FullNameUA": "вулиця Чуйківська, 44",
+  "ChildsIds": []
  },
  {
   "id": 123281,
@@ -1670,9 +1764,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301424881200006,
+  "longt": 36.3014248812,
   "lati": 50.0384881198,
-  "FullNameUA": "вулиця Чуйківська, 45"
+  "FullNameUA": "вулиця Чуйківська, 45",
+  "ChildsIds": []
  },
  {
   "id": 123282,
@@ -1697,7 +1792,8 @@
   "reg_date": "",
   "longt": 36.3005976008,
   "lati": 50.0415899398,
-  "FullNameUA": "вулиця Чуйківська, 46"
+  "FullNameUA": "вулиця Чуйківська, 46",
+  "ChildsIds": []
  },
  {
   "id": 123283,
@@ -1722,7 +1818,8 @@
   "reg_date": "",
   "longt": 36.3036359847,
   "lati": 50.0371236276,
-  "FullNameUA": "вулиця Чуйківська, 46-А"
+  "FullNameUA": "вулиця Чуйківська, 46-А",
+  "ChildsIds": []
  },
  {
   "id": 123284,
@@ -1745,9 +1842,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30131327070001,
+  "longt": 36.3013132707,
   "lati": 50.0386058532,
-  "FullNameUA": "вулиця Чуйківська, 47"
+  "FullNameUA": "вулиця Чуйківська, 47",
+  "ChildsIds": []
  },
  {
   "id": 123285,
@@ -1772,7 +1870,8 @@
   "reg_date": "",
   "longt": 36.30061479,
   "lati": 50.0417767333,
-  "FullNameUA": "вулиця Чуйківська, 48"
+  "FullNameUA": "вулиця Чуйківська, 48",
+  "ChildsIds": []
  },
  {
   "id": 123286,
@@ -1795,9 +1894,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301228521300004,
+  "longt": 36.3012285213,
   "lati": 50.0387934579,
-  "FullNameUA": "вулиця Чуйківська, 49"
+  "FullNameUA": "вулиця Чуйківська, 49",
+  "ChildsIds": []
  },
  {
   "id": 123287,
@@ -1822,7 +1922,8 @@
   "reg_date": "",
   "longt": 36.3006885622,
   "lati": 50.042135548,
-  "FullNameUA": "вулиця Чуйківська, 50"
+  "FullNameUA": "вулиця Чуйківська, 50",
+  "ChildsIds": []
  },
  {
   "id": 123288,
@@ -1845,9 +1946,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301030337300006,
+  "longt": 36.3010303373,
   "lati": 50.0389133499,
-  "FullNameUA": "вулиця Чуйківська, 51"
+  "FullNameUA": "вулиця Чуйківська, 51",
+  "ChildsIds": []
  },
  {
   "id": 123289,
@@ -1872,7 +1974,8 @@
   "reg_date": "",
   "longt": 36.3006210798,
   "lati": 50.0422594575,
-  "FullNameUA": "вулиця Чуйківська, 52"
+  "FullNameUA": "вулиця Чуйківська, 52",
+  "ChildsIds": []
  },
  {
   "id": 123290,
@@ -1897,7 +2000,8 @@
   "reg_date": "",
   "longt": 36.3009900902,
   "lati": 50.0390493928,
-  "FullNameUA": "вулиця Чуйківська, 53"
+  "FullNameUA": "вулиця Чуйківська, 53",
+  "ChildsIds": []
  },
  {
   "id": 123291,
@@ -1920,9 +2024,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300695921700004,
+  "longt": 36.3006959217,
   "lati": 50.0423696708,
-  "FullNameUA": "вулиця Чуйківська, 54"
+  "FullNameUA": "вулиця Чуйківська, 54",
+  "ChildsIds": []
  },
  {
   "id": 123292,
@@ -1947,7 +2052,8 @@
   "reg_date": "",
   "longt": 36.3008468167,
   "lati": 50.0424885626,
-  "FullNameUA": "вулиця Чуйківська, 54-А"
+  "FullNameUA": "вулиця Чуйківська, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 123293,
@@ -1972,7 +2078,8 @@
   "reg_date": "",
   "longt": 36.3009287546,
   "lati": 50.0391867557,
-  "FullNameUA": "вулиця Чуйківська, 55"
+  "FullNameUA": "вулиця Чуйківська, 55",
+  "ChildsIds": []
  },
  {
   "id": 123295,
@@ -1995,9 +2102,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304520778400004,
+  "longt": 36.3045207784,
   "lati": 50.0360809164,
-  "FullNameUA": "вулиця Чуйківська, 56-А"
+  "FullNameUA": "вулиця Чуйківська, 56-А",
+  "ChildsIds": []
  },
  {
   "id": 123294,
@@ -2020,9 +2128,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300704286700004,
+  "longt": 36.3007042867,
   "lati": 50.0426339327,
-  "FullNameUA": "вулиця Чуйківська, 56"
+  "FullNameUA": "вулиця Чуйківська, 56",
+  "ChildsIds": []
  },
  {
   "id": 123296,
@@ -2045,34 +2154,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30042763350001,
+  "longt": 36.3004276335,
   "lati": 50.0392040643,
-  "FullNameUA": "вулиця Чуйківська, 57"
- },
- {
-  "id": 123297,
-  "postcode": 61107,
-  "number": 58,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3007401372,
-  "lati": 50.0429830677,
-  "FullNameUA": "вулиця Чуйківська, 58"
+  "FullNameUA": "вулиця Чуйківська, 57",
+  "ChildsIds": []
  },
  {
   "id": 123298,
@@ -2097,7 +2182,34 @@
   "reg_date": "",
   "longt": 36.3041975722,
   "lati": 50.0360236334,
-  "FullNameUA": "вулиця Чуйківська, 58-А"
+  "FullNameUA": "вулиця Чуйківська, 58-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123297,
+  "postcode": 61107,
+  "number": 58,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3007401372,
+  "lati": 50.0429830677,
+  "FullNameUA": "вулиця Чуйківська, 58",
+  "ChildsIds": []
  },
  {
   "id": 123299,
@@ -2120,9 +2232,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300836516800004,
+  "longt": 36.3008365168,
   "lati": 50.0393459652,
-  "FullNameUA": "вулиця Чуйківська, 59"
+  "FullNameUA": "вулиця Чуйківська, 59",
+  "ChildsIds": []
  },
  {
   "id": 123301,
@@ -2145,9 +2258,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300794542800006,
+  "longt": 36.3007945428,
   "lati": 50.0432993182,
-  "FullNameUA": "вулиця Чуйківська, 60-А"
+  "FullNameUA": "вулиця Чуйківська, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 123300,
@@ -2172,7 +2286,8 @@
   "reg_date": "",
   "longt": 36.3007413448,
   "lati": 50.0431789594,
-  "FullNameUA": "вулиця Чуйківська, 60"
+  "FullNameUA": "вулиця Чуйківська, 60",
+  "ChildsIds": []
  },
  {
   "id": 123302,
@@ -2195,9 +2310,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300740613900004,
+  "longt": 36.3007406139,
   "lati": 50.0395649084,
-  "FullNameUA": "вулиця Чуйківська, 61"
+  "FullNameUA": "вулиця Чуйківська, 61",
+  "ChildsIds": []
  },
  {
   "id": 123303,
@@ -2220,9 +2336,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300814397100005,
+  "longt": 36.3008143971,
   "lati": 50.0436329859,
-  "FullNameUA": "вулиця Чуйківська, 62"
+  "FullNameUA": "вулиця Чуйківська, 62",
+  "ChildsIds": []
  },
  {
   "id": 123304,
@@ -2245,9 +2362,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30065600140001,
-  "lati": 50.039747364600004,
-  "FullNameUA": "вулиця Чуйківська, 63"
+  "longt": 36.3006560014,
+  "lati": 50.0397473646,
+  "FullNameUA": "вулиця Чуйківська, 63",
+  "ChildsIds": []
  },
  {
   "id": 123306,
@@ -2270,9 +2388,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300850938900005,
+  "longt": 36.3008509389,
   "lati": 50.0437914778,
-  "FullNameUA": "вулиця Чуйківська, 64-А"
+  "FullNameUA": "вулиця Чуйківська, 64-А",
+  "ChildsIds": []
  },
  {
   "id": 123305,
@@ -2295,34 +2414,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300938679800005,
+  "longt": 36.3009386798,
   "lati": 50.0438271044,
-  "FullNameUA": "вулиця Чуйківська, 64"
- },
- {
-  "id": 123308,
-  "postcode": 61107,
-  "number": 65,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2997809146,
-  "lati": 50.0398736378,
-  "FullNameUA": "вулиця Чуйківська, 65-А"
+  "FullNameUA": "вулиця Чуйківська, 64",
+  "ChildsIds": []
  },
  {
   "id": 123307,
@@ -2347,37 +2442,13 @@
   "reg_date": "",
   "longt": 36.3005213041,
   "lati": 50.0399973247,
-  "FullNameUA": "вулиця Чуйківська, 65"
+  "FullNameUA": "вулиця Чуйківська, 65",
+  "ChildsIds": []
  },
  {
-  "id": 123311,
+  "id": 123308,
   "postcode": 61107,
-  "number": 66,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3010484511,
-  "lati": 50.0449502795,
-  "FullNameUA": "вулиця Чуйківська, 66-Б"
- },
- {
-  "id": 123310,
-  "postcode": 61107,
-  "number": 66,
+  "number": 65,
   "suffix": "А",
   "block": "",
   "streetid": 2770,
@@ -2395,84 +2466,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301066064800004,
-  "lati": 50.0453503684,
-  "FullNameUA": "вулиця Чуйківська, 66-А"
- },
- {
-  "id": 123309,
-  "postcode": 61107,
-  "number": 66,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300890051900005,
-  "lati": 50.0441976667,
-  "FullNameUA": "вулиця Чуйківська, 66"
- },
- {
-  "id": 175830,
-  "postcode": 61107,
-  "number": 66,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.301619495000004,
-  "lati": 50.0448952083,
-  "FullNameUA": "вулиця Чуйківська, 66-Г"
- },
- {
-  "id": 175828,
-  "postcode": 61107,
-  "number": 66,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.30207037660001,
-  "lati": 50.04484428,
-  "FullNameUA": "вулиця Чуйківська, 66-Д"
+  "longt": 36.2997809146,
+  "lati": 50.0398736378,
+  "FullNameUA": "вулиця Чуйківська, 65-А",
+  "ChildsIds": []
  },
  {
   "id": 178833,
@@ -2497,12 +2494,91 @@
   "reg_date": "",
   "longt": 36.3009888435,
   "lati": 50.0445895884,
-  "FullNameUA": "вулиця Чуйківська, 66-В"
+  "FullNameUA": "вулиця Чуйківська, 66-В",
+  "ChildsIds": []
  },
  {
-  "id": 123313,
+  "id": 175828,
   "postcode": 61107,
-  "number": 67,
+  "number": 66,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3020703766,
+  "lati": 50.04484428,
+  "FullNameUA": "вулиця Чуйківська, 66-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 175830,
+  "postcode": 61107,
+  "number": 66,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.301619495,
+  "lati": 50.0448952083,
+  "FullNameUA": "вулиця Чуйківська, 66-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 123311,
+  "postcode": 61107,
+  "number": 66,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3010484511,
+  "lati": 50.0449502795,
+  "FullNameUA": "вулиця Чуйківська, 66-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 123310,
+  "postcode": 61107,
+  "number": 66,
   "suffix": "А",
   "block": "",
   "streetid": 2770,
@@ -2520,9 +2596,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300060032400005,
-  "lati": 50.0401137349,
-  "FullNameUA": "вулиця Чуйківська, 67-А"
+  "longt": 36.3010660648,
+  "lati": 50.0453503684,
+  "FullNameUA": "вулиця Чуйківська, 66-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123309,
+  "postcode": 61107,
+  "number": 66,
+  "suffix": "",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3008900519,
+  "lati": 50.0441976667,
+  "FullNameUA": "вулиця Чуйківська, 66",
+  "ChildsIds": []
  },
  {
   "id": 123312,
@@ -2545,9 +2648,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300423320300006,
+  "longt": 36.3004233203,
   "lati": 50.0402017804,
-  "FullNameUA": "вулиця Чуйківська, 67"
+  "FullNameUA": "вулиця Чуйківська, 67",
+  "ChildsIds": []
+ },
+ {
+  "id": 123313,
+  "postcode": 61107,
+  "number": 67,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3000600324,
+  "lati": 50.0401137349,
+  "FullNameUA": "вулиця Чуйківська, 67-А",
+  "ChildsIds": []
  },
  {
   "id": 123314,
@@ -2572,7 +2702,8 @@
   "reg_date": "",
   "longt": 36.3010495234,
   "lati": 50.0452127219,
-  "FullNameUA": "вулиця Чуйківська, 68"
+  "FullNameUA": "вулиця Чуйківська, 68",
+  "ChildsIds": []
  },
  {
   "id": 123315,
@@ -2597,7 +2728,8 @@
   "reg_date": "",
   "longt": 36.3003560459,
   "lati": 50.0403550233,
-  "FullNameUA": "вулиця Чуйківська, 69"
+  "FullNameUA": "вулиця Чуйківська, 69",
+  "ChildsIds": []
  },
  {
   "id": 123316,
@@ -2620,9 +2752,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30031180460001,
+  "longt": 36.3003118046,
   "lati": 50.0404934111,
-  "FullNameUA": "вулиця Чуйківська, 71"
+  "FullNameUA": "вулиця Чуйківська, 71",
+  "ChildsIds": []
  },
  {
   "id": 123317,
@@ -2645,34 +2778,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300261095100005,
+  "longt": 36.3002610951,
   "lati": 50.0407891666,
-  "FullNameUA": "вулиця Чуйківська, 73"
- },
- {
-  "id": 123319,
-  "postcode": 61107,
-  "number": 75,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2993533057,
-  "lati": 50.0407913908,
-  "FullNameUA": "вулиця Чуйківська, 75-А"
+  "FullNameUA": "вулиця Чуйківська, 73",
+  "ChildsIds": []
  },
  {
   "id": 123318,
@@ -2697,7 +2806,34 @@
   "reg_date": "",
   "longt": 36.3002596683,
   "lati": 50.0409265179,
-  "FullNameUA": "вулиця Чуйківська, 75"
+  "FullNameUA": "вулиця Чуйківська, 75",
+  "ChildsIds": []
+ },
+ {
+  "id": 123319,
+  "postcode": 61107,
+  "number": 75,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2993533057,
+  "lati": 50.0407913908,
+  "FullNameUA": "вулиця Чуйківська, 75-А",
+  "ChildsIds": []
  },
  {
   "id": 123320,
@@ -2722,7 +2858,34 @@
   "reg_date": "",
   "longt": 36.3002865296,
   "lati": 50.0410670922,
-  "FullNameUA": "вулиця Чуйківська, 77"
+  "FullNameUA": "вулиця Чуйківська, 77",
+  "ChildsIds": []
+ },
+ {
+  "id": 123322,
+  "postcode": 61107,
+  "number": 79,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.300276112,
+  "lati": 50.041223128,
+  "FullNameUA": "вулиця Чуйківська, 79-А",
+  "ChildsIds": []
  },
  {
   "id": 123321,
@@ -2747,32 +2910,8 @@
   "reg_date": "",
   "longt": 36.3002543364,
   "lati": 50.0413729623,
-  "FullNameUA": "вулиця Чуйківська, 79"
- },
- {
-  "id": 123322,
-  "postcode": 61107,
-  "number": 79,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300276112000006,
-  "lati": 50.041223128,
-  "FullNameUA": "вулиця Чуйківська, 79-А"
+  "FullNameUA": "вулиця Чуйківська, 79",
+  "ChildsIds": []
  },
  {
   "id": 123323,
@@ -2795,9 +2934,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300154604700005,
+  "longt": 36.3001546047,
   "lati": 50.0414794614,
-  "FullNameUA": "вулиця Чуйківська, 81"
+  "FullNameUA": "вулиця Чуйківська, 81",
+  "ChildsIds": []
  },
  {
   "id": 123325,
@@ -2822,7 +2962,8 @@
   "reg_date": "",
   "longt": 36.2999077777,
   "lati": 50.0416829352,
-  "FullNameUA": "вулиця Чуйківська, 83-А"
+  "FullNameUA": "вулиця Чуйківська, 83-А",
+  "ChildsIds": []
  },
  {
   "id": 123324,
@@ -2847,7 +2988,8 @@
   "reg_date": "",
   "longt": 36.3002619637,
   "lati": 50.0415850886,
-  "FullNameUA": "вулиця Чуйківська, 83"
+  "FullNameUA": "вулиця Чуйківська, 83",
+  "ChildsIds": []
  },
  {
   "id": 123326,
@@ -2872,7 +3014,8 @@
   "reg_date": "",
   "longt": 36.3002577517,
   "lati": 50.0417266909,
-  "FullNameUA": "вулиця Чуйківська, 85"
+  "FullNameUA": "вулиця Чуйківська, 85",
+  "ChildsIds": []
  },
  {
   "id": 123327,
@@ -2895,34 +3038,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300211444400006,
+  "longt": 36.3002114444,
   "lati": 50.0419694019,
-  "FullNameUA": "вулиця Чуйківська, 87"
- },
- {
-  "id": 123328,
-  "postcode": 61107,
-  "number": 89,
-  "suffix": "",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300238497,
-  "lati": 50.042249299299996,
-  "FullNameUA": "вулиця Чуйківська, 89"
+  "FullNameUA": "вулиця Чуйківська, 87",
+  "ChildsIds": []
  },
  {
   "id": 123329,
@@ -2947,13 +3066,14 @@
   "reg_date": "16.05.2018 10:36:09",
   "longt": 36.3001599254,
   "lati": 50.0421118617,
-  "FullNameUA": "вулиця Чуйківська, 89-А"
+  "FullNameUA": "вулиця Чуйківська, 89-А",
+  "ChildsIds": []
  },
  {
-  "id": 123331,
+  "id": 123328,
   "postcode": 61107,
-  "number": 91,
-  "suffix": "А",
+  "number": 89,
+  "suffix": "",
   "block": "",
   "streetid": 2770,
   "status_id": 1,
@@ -2970,9 +3090,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30031167880001,
-  "lati": 50.0426150352,
-  "FullNameUA": "вулиця Чуйківська, 91-А"
+  "longt": 36.300238497,
+  "lati": 50.0422492993,
+  "FullNameUA": "вулиця Чуйківська, 89",
+  "ChildsIds": []
  },
  {
   "id": 123330,
@@ -2997,7 +3118,34 @@
   "reg_date": "",
   "longt": 36.3002326068,
   "lati": 50.0424057656,
-  "FullNameUA": "вулиця Чуйківська, 91"
+  "FullNameUA": "вулиця Чуйківська, 91",
+  "ChildsIds": []
+ },
+ {
+  "id": 123331,
+  "postcode": 61107,
+  "number": 91,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3003116788,
+  "lati": 50.0426150352,
+  "FullNameUA": "вулиця Чуйківська, 91-А",
+  "ChildsIds": []
  },
  {
   "id": 123332,
@@ -3020,9 +3168,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.300381628100006,
+  "longt": 36.3003816281,
   "lati": 50.0427550085,
-  "FullNameUA": "вулиця Чуйківська, 93"
+  "FullNameUA": "вулиця Чуйківська, 93",
+  "ChildsIds": []
  },
  {
   "id": 123333,
@@ -3047,7 +3196,8 @@
   "reg_date": "",
   "longt": 36.3000370545,
   "lati": 50.0429038998,
-  "FullNameUA": "вулиця Чуйківська, 95"
+  "FullNameUA": "вулиця Чуйківська, 95",
+  "ChildsIds": []
  },
  {
   "id": 123334,
@@ -3070,9 +3220,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300358362000004,
+  "longt": 36.300358362,
   "lati": 50.0429900956,
-  "FullNameUA": "вулиця Чуйківська, 97"
+  "FullNameUA": "вулиця Чуйківська, 97",
+  "ChildsIds": []
  },
  {
   "id": 123335,
@@ -3097,7 +3248,8 @@
   "reg_date": "",
   "longt": 36.3004238007,
   "lati": 50.0431733122,
-  "FullNameUA": "вулиця Чуйківська, 99"
+  "FullNameUA": "вулиця Чуйківська, 99",
+  "ChildsIds": []
  },
  {
   "id": 123336,
@@ -3120,9 +3272,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30028967690001,
+  "longt": 36.3002896769,
   "lati": 50.0433104033,
-  "FullNameUA": "вулиця Чуйківська, 101"
+  "FullNameUA": "вулиця Чуйківська, 101",
+  "ChildsIds": []
  },
  {
   "id": 123337,
@@ -3145,9 +3298,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300423732300004,
+  "longt": 36.3004237323,
   "lati": 50.043416427,
-  "FullNameUA": "вулиця Чуйківська, 103"
+  "FullNameUA": "вулиця Чуйківська, 103",
+  "ChildsIds": []
  },
  {
   "id": 123338,
@@ -3170,9 +3324,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300410531000004,
+  "longt": 36.300410531,
   "lati": 50.0437053097,
-  "FullNameUA": "вулиця Чуйківська, 107"
+  "FullNameUA": "вулиця Чуйківська, 107",
+  "ChildsIds": []
  },
  {
   "id": 123339,
@@ -3197,7 +3352,8 @@
   "reg_date": "",
   "longt": 36.300423133,
   "lati": 50.0440393309,
-  "FullNameUA": "вулиця Чуйківська, 109"
+  "FullNameUA": "вулиця Чуйківська, 109",
+  "ChildsIds": []
  },
  {
   "id": 123340,
@@ -3220,9 +3376,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300459172500005,
+  "longt": 36.3004591725,
   "lati": 50.0442368066,
-  "FullNameUA": "вулиця Чуйківська, 111"
+  "FullNameUA": "вулиця Чуйківська, 111",
+  "ChildsIds": []
  },
  {
   "id": 123341,
@@ -3245,9 +3402,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300246338700006,
+  "longt": 36.3002463387,
   "lati": 50.044391485,
-  "FullNameUA": "вулиця Чуйківська, 113"
+  "FullNameUA": "вулиця Чуйківська, 113",
+  "ChildsIds": []
  },
  {
   "id": 123342,
@@ -3270,9 +3428,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300503946400006,
+  "longt": 36.3005039464,
   "lati": 50.0444545099,
-  "FullNameUA": "вулиця Чуйківська, 115"
+  "FullNameUA": "вулиця Чуйківська, 115",
+  "ChildsIds": []
  },
  {
   "id": 123343,
@@ -3297,32 +3456,8 @@
   "reg_date": "",
   "longt": 36.3005459831,
   "lati": 50.0446886021,
-  "FullNameUA": "вулиця Чуйківська, 117"
- },
- {
-  "id": 123345,
-  "postcode": 61107,
-  "number": 119,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2770,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.300075671100004,
-  "lati": 50.044998162,
-  "FullNameUA": "вулиця Чуйківська, 119-А"
+  "FullNameUA": "вулиця Чуйківська, 117",
+  "ChildsIds": []
  },
  {
   "id": 123344,
@@ -3347,7 +3482,34 @@
   "reg_date": "",
   "longt": 36.3005893551,
   "lati": 50.0449315176,
-  "FullNameUA": "вулиця Чуйківська, 119"
+  "FullNameUA": "вулиця Чуйківська, 119",
+  "ChildsIds": []
+ },
+ {
+  "id": 123345,
+  "postcode": 61107,
+  "number": 119,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2770,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3000756711,
+  "lati": 50.044998162,
+  "FullNameUA": "вулиця Чуйківська, 119-А",
+  "ChildsIds": []
  },
  {
   "id": 123347,
@@ -3370,9 +3532,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30059974540001,
+  "longt": 36.3005997454,
   "lati": 50.0450645071,
-  "FullNameUA": "вулиця Чуйківська, 121-А"
+  "FullNameUA": "вулиця Чуйківська, 121-А",
+  "ChildsIds": []
  },
  {
   "id": 123346,
@@ -3397,7 +3560,8 @@
   "reg_date": "",
   "longt": 36.3006521872,
   "lati": 50.0452220536,
-  "FullNameUA": "вулиця Чуйківська, 121"
+  "FullNameUA": "вулиця Чуйківська, 121",
+  "ChildsIds": []
  },
  {
   "id": 123348,
@@ -3422,7 +3586,8 @@
   "reg_date": "",
   "longt": 36.3007161334,
   "lati": 50.0453941527,
-  "FullNameUA": "вулиця Чуйківська, 123"
+  "FullNameUA": "вулиця Чуйківська, 123",
+  "ChildsIds": []
  },
  {
   "id": 123349,
@@ -3446,8 +3611,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.30069334,
-  "lati": 50.045589297599996,
-  "FullNameUA": "вулиця Чуйківська, 125"
+  "lati": 50.0455892976,
+  "FullNameUA": "вулиця Чуйківська, 125",
+  "ChildsIds": []
  },
  {
   "id": 123350,
@@ -3470,8 +3636,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300807519600006,
-  "lati": 50.045858824599996,
-  "FullNameUA": "вулиця Чуйківська, 127"
+  "longt": 36.3008075196,
+  "lati": 50.0458588246,
+  "FullNameUA": "вулиця Чуйківська, 127",
+  "ChildsIds": []
  }
 ]

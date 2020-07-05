@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23448545790001,
-  "lati": 49.9338641984,
-  "FullNameUA": "вулиця Озерна, 1"
+  "longt": 36.2353064697,
+  "lati": 49.9352141628,
+  "FullNameUA": "вулиця Озерна, 1",
+  "ChildsIds": []
  },
  {
   "id": 164264,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2358561531,
   "lati": 49.9346752265,
-  "FullNameUA": "вулиця Озерна, 2"
+  "FullNameUA": "вулиця Озерна, 2",
+  "ChildsIds": []
  },
  {
   "id": 164265,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2358912703,
   "lati": 49.9344705852,
-  "FullNameUA": "вулиця Озерна, 3"
+  "FullNameUA": "вулиця Озерна, 3",
+  "ChildsIds": []
  },
  {
   "id": 164266,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23590945590001,
+  "longt": 36.2359094559,
   "lati": 49.9342702601,
-  "FullNameUA": "вулиця Озерна, 4"
+  "FullNameUA": "вулиця Озерна, 4",
+  "ChildsIds": []
  },
  {
   "id": 164267,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2359150651,
   "lati": 49.9340604456,
-  "FullNameUA": "вулиця Озерна, 5"
+  "FullNameUA": "вулиця Озерна, 5",
+  "ChildsIds": []
  },
  {
   "id": 164268,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.233399817400006,
+  "longt": 36.2333998174,
   "lati": 49.9351162534,
-  "FullNameUA": "вулиця Озерна, 6"
+  "FullNameUA": "вулиця Озерна, 6",
+  "ChildsIds": []
  },
  {
   "id": 164269,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23529374500001,
-  "lati": 49.934901082799996,
-  "FullNameUA": "вулиця Озерна, 7"
+  "longt": 36.235293745,
+  "lati": 49.9349010828,
+  "FullNameUA": "вулиця Озерна, 7",
+  "ChildsIds": []
  },
  {
   "id": 164270,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2357843997,
   "lati": 49.9348534636,
-  "FullNameUA": "вулиця Озерна, 7-Б"
+  "FullNameUA": "вулиця Озерна, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 164271,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2353664269,
   "lati": 49.9346906566,
-  "FullNameUA": "вулиця Озерна, 8"
+  "FullNameUA": "вулиця Озерна, 8",
+  "ChildsIds": []
  },
  {
   "id": 164273,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.235874201,
   "lati": 49.9338221233,
-  "FullNameUA": "вулиця Озерна, 9/2"
+  "FullNameUA": "вулиця Озерна, 9/2",
+  "ChildsIds": []
  },
  {
   "id": 164272,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235257262400005,
+  "longt": 36.2352572624,
   "lati": 49.934371654,
-  "FullNameUA": "вулиця Озерна, 9"
+  "FullNameUA": "вулиця Озерна, 9",
+  "ChildsIds": []
  },
  {
   "id": 164274,
@@ -297,32 +308,8 @@
   "reg_date": "",
   "longt": 36.2352057092,
   "lati": 49.9338249081,
-  "FullNameUA": "вулиця Озерна, 10"
- },
- {
-  "id": 164275,
-  "postcode": 61009,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2347372866,
-  "lati": 49.9338953156,
-  "FullNameUA": "вулиця Озерна, 11"
+  "FullNameUA": "вулиця Озерна, 10",
+  "ChildsIds": []
  },
  {
   "id": 164276,
@@ -347,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2339526168,
   "lati": 49.9349605127,
-  "FullNameUA": "вулиця Озерна, 14"
+  "FullNameUA": "вулиця Озерна, 14",
+  "ChildsIds": []
  },
  {
   "id": 164277,
@@ -370,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233738537700006,
+  "longt": 36.2337385377,
   "lati": 49.9348924372,
-  "FullNameUA": "вулиця Озерна, 15"
+  "FullNameUA": "вулиця Озерна, 15",
+  "ChildsIds": []
  },
  {
   "id": 164278,
@@ -395,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233373986900006,
+  "longt": 36.2333739869,
   "lati": 49.9349540665,
-  "FullNameUA": "вулиця Озерна, 16"
+  "FullNameUA": "вулиця Озерна, 16",
+  "ChildsIds": []
  },
  {
   "id": 164279,
@@ -422,13 +412,14 @@
   "reg_date": "",
   "longt": 36.2339427495,
   "lati": 49.9347493024,
-  "FullNameUA": "вулиця Озерна, 17"
+  "FullNameUA": "вулиця Озерна, 17",
+  "ChildsIds": []
  },
  {
   "id": 164280,
   "postcode": 61009,
   "number": 18,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 3461,
   "status_id": 1,
@@ -445,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234168265200005,
+  "longt": 36.2341682652,
   "lati": 49.9337381521,
-  "FullNameUA": "вулиця Озерна, 18"
+  "FullNameUA": "вулиця Озерна, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 164281,
@@ -472,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2334874686,
   "lati": 49.9347449071,
-  "FullNameUA": "вулиця Озерна, 19"
+  "FullNameUA": "вулиця Озерна, 19",
+  "ChildsIds": []
  },
  {
   "id": 177171,
@@ -497,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2135880839,
   "lati": 49.9336127148,
-  "FullNameUA": "вулиця Озерна, 21"
+  "FullNameUA": "вулиця Озерна, 21",
+  "ChildsIds": []
  },
  {
   "id": 177172,
@@ -522,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2133142415,
   "lati": 49.9336011267,
-  "FullNameUA": "вулиця Озерна, 22"
+  "FullNameUA": "вулиця Озерна, 22",
+  "ChildsIds": []
  },
  {
   "id": 177173,
@@ -545,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.213041409700004,
-  "lati": 49.933575456999996,
-  "FullNameUA": "вулиця Озерна, 23"
+  "longt": 36.2130414097,
+  "lati": 49.933575457,
+  "FullNameUA": "вулиця Озерна, 23",
+  "ChildsIds": []
  },
  {
   "id": 164282,
@@ -572,7 +568,8 @@
   "reg_date": "",
   "longt": 36.213439543,
   "lati": 49.9319384613,
-  "FullNameUA": "вулиця Озерна, 24-А"
+  "FullNameUA": "вулиця Озерна, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 177174,
@@ -597,32 +594,8 @@
   "reg_date": "",
   "longt": 36.2133481587,
   "lati": 49.9321843803,
-  "FullNameUA": "вулиця Озерна, 24"
- },
- {
-  "id": 177180,
-  "postcode": 61009,
-  "number": 25,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2130020077,
-  "lati": 49.9317397202,
-  "FullNameUA": "вулиця Озерна, 25-А"
+  "FullNameUA": "вулиця Озерна, 24",
+  "ChildsIds": []
  },
  {
   "id": 177175,
@@ -647,7 +620,60 @@
   "reg_date": "",
   "longt": 36.212806591,
   "lati": 49.932050264,
-  "FullNameUA": "вулиця Озерна, 25"
+  "FullNameUA": "вулиця Озерна, 25",
+  "ChildsIds": []
+ },
+ {
+  "id": 177180,
+  "postcode": 61009,
+  "number": 25,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2130020077,
+  "lati": 49.9317397202,
+  "FullNameUA": "вулиця Озерна, 25-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 164283,
+  "postcode": 61009,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2125402576,
+  "lati": 49.931911568,
+  "FullNameUA": "вулиця Озерна, 26",
+  "ChildsIds": []
  },
  {
   "id": 179402,
@@ -672,32 +698,8 @@
   "reg_date": "",
   "longt": 36.2126889476,
   "lati": 49.9315872798,
-  "FullNameUA": "вулиця Озерна, 26-А"
- },
- {
-  "id": 164283,
-  "postcode": 61009,
-  "number": 26,
-  "suffix": "",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.212540257600004,
-  "lati": 49.931911568,
-  "FullNameUA": "вулиця Озерна, 26"
+  "FullNameUA": "вулиця Озерна, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 164284,
@@ -722,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2122451524,
   "lati": 49.9318540833,
-  "FullNameUA": "вулиця Озерна, 27"
+  "FullNameUA": "вулиця Озерна, 27",
+  "ChildsIds": []
  },
  {
   "id": 177177,
@@ -747,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2122488725,
   "lati": 49.9312586965,
-  "FullNameUA": "вулиця Озерна, 28-А"
+  "FullNameUA": "вулиця Озерна, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 177176,
@@ -770,34 +774,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.211956167000004,
+  "longt": 36.211956167,
   "lati": 49.9317373544,
-  "FullNameUA": "вулиця Озерна, 28"
- },
- {
-  "id": 164285,
-  "postcode": 61009,
-  "number": 30,
-  "suffix": "",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2151801761,
-  "lati": 49.9328832518,
-  "FullNameUA": "вулиця Озерна, 30"
+  "FullNameUA": "вулиця Озерна, 28",
+  "ChildsIds": []
  },
  {
   "id": 164286,
@@ -822,13 +802,14 @@
   "reg_date": "",
   "longt": 36.2153429164,
   "lati": 49.9330161581,
-  "FullNameUA": "вулиця Озерна, 30-А"
+  "FullNameUA": "вулиця Озерна, 30-А",
+  "ChildsIds": []
  },
  {
-  "id": 164288,
+  "id": 164285,
   "postcode": 61009,
-  "number": 31,
-  "suffix": "А",
+  "number": 30,
+  "suffix": "",
   "block": "",
   "streetid": 3461,
   "status_id": 1,
@@ -845,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2150295636,
-  "lati": 49.9328254904,
-  "FullNameUA": "вулиця Озерна, 31-А"
+  "longt": 36.2151801761,
+  "lati": 49.9328832518,
+  "FullNameUA": "вулиця Озерна, 30",
+  "ChildsIds": []
  },
  {
   "id": 164287,
@@ -872,7 +854,34 @@
   "reg_date": "",
   "longt": 36.2146937691,
   "lati": 49.9327257305,
-  "FullNameUA": "вулиця Озерна, 31"
+  "FullNameUA": "вулиця Озерна, 31",
+  "ChildsIds": []
+ },
+ {
+  "id": 164288,
+  "postcode": 61009,
+  "number": 31,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2150295636,
+  "lati": 49.9328254904,
+  "FullNameUA": "вулиця Озерна, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 164289,
@@ -897,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2141935959,
   "lati": 49.9326210401,
-  "FullNameUA": "вулиця Озерна, 32"
+  "FullNameUA": "вулиця Озерна, 32",
+  "ChildsIds": []
  },
  {
   "id": 164290,
@@ -922,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2138025571,
   "lati": 49.93252804,
-  "FullNameUA": "вулиця Озерна, 33"
+  "FullNameUA": "вулиця Озерна, 33",
+  "ChildsIds": []
  },
  {
   "id": 164291,
@@ -947,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2133402113,
   "lati": 49.9324765595,
-  "FullNameUA": "вулиця Озерна, 34"
+  "FullNameUA": "вулиця Озерна, 34",
+  "ChildsIds": []
  },
  {
   "id": 164292,
@@ -972,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2128771859,
   "lati": 49.9324379235,
-  "FullNameUA": "вулиця Озерна, 35"
+  "FullNameUA": "вулиця Озерна, 35",
+  "ChildsIds": []
  },
  {
   "id": 164293,
@@ -997,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.212565044,
   "lati": 49.9323519106,
-  "FullNameUA": "вулиця Озерна, 36"
+  "FullNameUA": "вулиця Озерна, 36",
+  "ChildsIds": []
  },
  {
   "id": 164294,
@@ -1020,59 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.212247821300004,
+  "longt": 36.2122478213,
   "lati": 49.9322835087,
-  "FullNameUA": "вулиця Озерна, 37"
- },
- {
-  "id": 164296,
-  "postcode": 61009,
-  "number": 38,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2140298594,
-  "lati": 49.9311636408,
-  "FullNameUA": "вулиця Озерна, 38-А"
- },
- {
-  "id": 164297,
-  "postcode": 61009,
-  "number": 38,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.214433156700004,
-  "lati": 49.9313641356,
-  "FullNameUA": "вулиця Озерна, 38-Б"
+  "FullNameUA": "вулиця Озерна, 37",
+  "ChildsIds": []
  },
  {
   "id": 164298,
@@ -1097,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2145966686,
   "lati": 49.9311744871,
-  "FullNameUA": "вулиця Озерна, 38-В"
+  "FullNameUA": "вулиця Озерна, 38-В",
+  "ChildsIds": []
  },
  {
   "id": 164295,
@@ -1122,7 +1088,60 @@
   "reg_date": "",
   "longt": 36.2131472323,
   "lati": 49.9312342491,
-  "FullNameUA": "вулиця Озерна, 38"
+  "FullNameUA": "вулиця Озерна, 38",
+  "ChildsIds": []
+ },
+ {
+  "id": 164297,
+  "postcode": 61009,
+  "number": 38,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2144331567,
+  "lati": 49.9313641356,
+  "FullNameUA": "вулиця Озерна, 38-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 164296,
+  "postcode": 61009,
+  "number": 38,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2140298594,
+  "lati": 49.9311636408,
+  "FullNameUA": "вулиця Озерна, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 164299,
@@ -1145,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.213335747900004,
+  "longt": 36.2133357479,
   "lati": 49.9306972633,
-  "FullNameUA": "вулиця Озерна, 40"
+  "FullNameUA": "вулиця Озерна, 40",
+  "ChildsIds": []
  },
  {
   "id": 164300,
@@ -1172,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2132015276,
   "lati": 49.9310119768,
-  "FullNameUA": "вулиця Озерна, 40-А"
+  "FullNameUA": "вулиця Озерна, 40-А",
+  "ChildsIds": []
  },
  {
   "id": 164301,
@@ -1197,7 +1218,34 @@
   "reg_date": "",
   "longt": 36.2134043324,
   "lati": 49.9305401416,
-  "FullNameUA": "вулиця Озерна, 41"
+  "FullNameUA": "вулиця Озерна, 41",
+  "ChildsIds": []
+ },
+ {
+  "id": 164302,
+  "postcode": 61009,
+  "number": 42,
+  "suffix": "",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2134716715,
+  "lati": 49.9304348782,
+  "FullNameUA": "вулиця Озерна, 42",
+  "ChildsIds": []
  },
  {
   "id": 164306,
@@ -1220,59 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.213890164300004,
-  "lati": 49.929407927300005,
-  "FullNameUA": "вулиця Озерна, 42-Г"
- },
- {
-  "id": 164305,
-  "postcode": 61009,
-  "number": 42,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2138357055,
-  "lati": 49.9295921406,
-  "FullNameUA": "вулиця Озерна, 42-В"
- },
- {
-  "id": 177181,
-  "postcode": 61009,
-  "number": 42,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2140040384,
-  "lati": 49.9288639107,
-  "FullNameUA": "вулиця Озерна, 42-Д"
+  "longt": 36.2138901643,
+  "lati": 49.9294079273,
+  "FullNameUA": "вулиця Озерна, 42-Г",
+  "ChildsIds": []
  },
  {
   "id": 164304,
@@ -1297,13 +1296,14 @@
   "reg_date": "",
   "longt": 36.213692119,
   "lati": 49.9299539708,
-  "FullNameUA": "вулиця Озерна, 42-Б"
+  "FullNameUA": "вулиця Озерна, 42-Б",
+  "ChildsIds": []
  },
  {
-  "id": 164302,
+  "id": 164305,
   "postcode": 61009,
   "number": 42,
-  "suffix": "",
+  "suffix": "В",
   "block": "",
   "streetid": 3461,
   "status_id": 1,
@@ -1320,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2134716715,
-  "lati": 49.930434878199996,
-  "FullNameUA": "вулиця Озерна, 42"
+  "longt": 36.2138357055,
+  "lati": 49.9295921406,
+  "FullNameUA": "вулиця Озерна, 42-В",
+  "ChildsIds": []
  },
  {
   "id": 164303,
@@ -1347,157 +1348,8 @@
   "reg_date": "",
   "longt": 36.2135811336,
   "lati": 49.930188717,
-  "FullNameUA": "вулиця Озерна, 42-А"
- },
- {
-  "id": 164307,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2160416789,
-  "lati": 49.929972349900005,
-  "FullNameUA": "вулиця Озерна, 43"
- },
- {
-  "id": 164308,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2160990817,
-  "lati": 49.9302855053,
-  "FullNameUA": "вулиця Озерна, 43-А"
- },
- {
-  "id": 177185,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2154188233,
-  "lati": 49.9301178816,
-  "FullNameUA": "вулиця Озерна, 43-Ж"
- },
- {
-  "id": 177186,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2157890485,
-  "lati": 49.9301747584,
-  "FullNameUA": "вулиця Озерна, 43-Д"
- },
- {
-  "id": 177187,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.215478377400004,
-  "lati": 49.9304165383,
-  "FullNameUA": "вулиця Озерна, 43-Г"
- },
- {
-  "id": 177188,
-  "postcode": 61009,
-  "number": 43,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3461,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.215144534400004,
-  "lati": 49.9302549293,
-  "FullNameUA": "вулиця Озерна, 43-В"
+  "FullNameUA": "вулиця Озерна, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 177189,
@@ -1522,7 +1374,164 @@
   "reg_date": "",
   "longt": 36.2149174686,
   "lati": 49.9304047339,
-  "FullNameUA": "вулиця Озерна, 43-Б"
+  "FullNameUA": "вулиця Озерна, 43-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 164307,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2160416789,
+  "lati": 49.9299723499,
+  "FullNameUA": "вулиця Озерна, 43",
+  "ChildsIds": []
+ },
+ {
+  "id": 164308,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2160990817,
+  "lati": 49.9302855053,
+  "FullNameUA": "вулиця Озерна, 43-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177185,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2154188233,
+  "lati": 49.9301178816,
+  "FullNameUA": "вулиця Озерна, 43-Ж",
+  "ChildsIds": []
+ },
+ {
+  "id": 177186,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2157890485,
+  "lati": 49.9301747584,
+  "FullNameUA": "вулиця Озерна, 43-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 177187,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2154783774,
+  "lati": 49.9304165383,
+  "FullNameUA": "вулиця Озерна, 43-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 177188,
+  "postcode": 61009,
+  "number": 43,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3461,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2151445344,
+  "lati": 49.9302549293,
+  "FullNameUA": "вулиця Озерна, 43-В",
+  "ChildsIds": []
  },
  {
   "id": 164310,
@@ -1547,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2154870821,
   "lati": 49.9297697809,
-  "FullNameUA": "вулиця Озерна, 44-А"
+  "FullNameUA": "вулиця Озерна, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 164311,
@@ -1572,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2155906493,
   "lati": 49.9295264832,
-  "FullNameUA": "вулиця Озерна, 44-Б"
+  "FullNameUA": "вулиця Озерна, 44-Б",
+  "ChildsIds": []
  },
  {
   "id": 164309,
@@ -1597,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2157025893,
   "lati": 49.929237729,
-  "FullNameUA": "вулиця Озерна, 44"
+  "FullNameUA": "вулиця Озерна, 44",
+  "ChildsIds": []
  },
  {
   "id": 164312,
@@ -1621,8 +1633,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2159490004,
-  "lati": 49.928972071400004,
-  "FullNameUA": "вулиця Озерна, 45"
+  "lati": 49.9289720714,
+  "FullNameUA": "вулиця Озерна, 45",
+  "ChildsIds": []
  },
  {
   "id": 177182,
@@ -1646,8 +1659,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2171388508,
-  "lati": 49.928891591500005,
-  "FullNameUA": "вулиця Озерна, 46"
+  "lati": 49.9288915915,
+  "FullNameUA": "вулиця Озерна, 46",
+  "ChildsIds": []
  },
  {
   "id": 177183,
@@ -1672,6 +1686,7 @@
   "reg_date": "",
   "longt": 36.21701683,
   "lati": 49.9291263618,
-  "FullNameUA": "вулиця Озерна, 47-А"
+  "FullNameUA": "вулиця Озерна, 47-А",
+  "ChildsIds": []
  }
 ]

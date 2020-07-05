@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": 182379,
+  "postcode": 61070,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 8204,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:10:001:0406)",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:13:32",
+  "longt": 36.2761491304,
+  "lati": 50.0622103542,
+  "FullNameUA": "провулок Грибний 1-й, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 182382,
+  "postcode": 61070,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 8204,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:10:001:0414)",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:27:20",
+  "longt": 36.2767591407,
+  "lati": 50.0616237548,
+  "FullNameUA": "провулок Грибний 1-й, 4",
+  "ChildsIds": []
+ }
+]

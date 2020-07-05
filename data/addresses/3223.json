@@ -1,30 +1,5 @@
 [
  {
-  "id": 169069,
-  "postcode": 61124,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "198, 15.08.2000",
-  "reg_date": "",
-  "longt": 36.269543536,
-  "lati": 49.955680648800005,
-  "FullNameUA": "вулиця Матросова, 1-Б"
- },
- {
   "id": 169068,
   "postcode": 61124,
   "number": 1,
@@ -47,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2737239824,
   "lati": 49.9556544498,
-  "FullNameUA": "вулиця Матросова, 1-А"
- },
- {
-  "id": 169070,
-  "postcode": 61124,
-  "number": 1,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "198, 15.08.2000",
-  "reg_date": "",
-  "longt": 36.2694621356,
-  "lati": 49.9554323248,
-  "FullNameUA": "вулиця Матросова, 1-В"
+  "FullNameUA": "вулиця Матросова, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 169067,
@@ -97,13 +48,14 @@
   "reg_date": "",
   "longt": 36.2629574937,
   "lati": 49.9571225065,
-  "FullNameUA": "вулиця Матросова, 1"
+  "FullNameUA": "вулиця Матросова, 1",
+  "ChildsIds": []
  },
  {
-  "id": 169071,
+  "id": 169070,
   "postcode": 61124,
-  "number": 2,
-  "suffix": "",
+  "number": 1,
+  "suffix": "В",
   "block": "",
   "streetid": 3223,
   "status_id": 1,
@@ -118,11 +70,38 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "198, 15.08.2000",
   "reg_date": "",
-  "longt": 36.261018306699995,
-  "lati": 49.9569450636,
-  "FullNameUA": "вулиця Матросова, 2"
+  "longt": 36.2694621356,
+  "lati": 49.9554323248,
+  "FullNameUA": "вулиця Матросова, 1-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 169069,
+  "postcode": 61124,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "198, 15.08.2000",
+  "reg_date": "",
+  "longt": 36.269543536,
+  "lati": 49.9556806488,
+  "FullNameUA": "вулиця Матросова, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 169072,
@@ -147,7 +126,34 @@
   "reg_date": "",
   "longt": 36.261479684,
   "lati": 49.956356483,
-  "FullNameUA": "вулиця Матросова, 2-А"
+  "FullNameUA": "вулиця Матросова, 2-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169071,
+  "postcode": 61124,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2610183067,
+  "lati": 49.9569450636,
+  "FullNameUA": "вулиця Матросова, 2",
+  "ChildsIds": []
  },
  {
   "id": 169073,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.264425847599995,
-  "lati": 49.957078879600004,
-  "FullNameUA": "вулиця Матросова, 3"
+  "longt": 36.2644258476,
+  "lati": 49.9570788796,
+  "FullNameUA": "вулиця Матросова, 3",
+  "ChildsIds": []
  },
  {
   "id": 169074,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2615123423,
-  "lati": 49.956940382800006,
-  "FullNameUA": "вулиця Матросова, 4"
+  "lati": 49.9569403828,
+  "FullNameUA": "вулиця Матросова, 4",
+  "ChildsIds": []
  },
  {
   "id": 169075,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2619419958,
-  "lati": 49.956621855600005,
-  "FullNameUA": "вулиця Матросова, 4-А"
+  "lati": 49.9566218556,
+  "FullNameUA": "вулиця Матросова, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 169076,
@@ -245,34 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269451722999996,
+  "longt": 36.269451723,
   "lati": 49.9511924536,
-  "FullNameUA": "вулиця Матросова, 5"
- },
- {
-  "id": 179143,
-  "postcode": 61124,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2624174909,
-  "lati": 49.956709675000006,
-  "FullNameUA": "вулиця Матросова, 6"
+  "FullNameUA": "вулиця Матросова, 5",
+  "ChildsIds": []
  },
  {
   "id": 169078,
@@ -296,8 +281,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.261712937,
-  "lati": 49.955019817200004,
-  "FullNameUA": "вулиця Матросова, 6-Б"
+  "lati": 49.9550198172,
+  "FullNameUA": "вулиця Матросова, 6-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 179143,
+  "postcode": 61124,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2624174909,
+  "lati": 49.956709675,
+  "FullNameUA": "вулиця Матросова, 6",
+  "ChildsIds": []
  },
  {
   "id": 169077,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2616915637,
-  "lati": 49.955838142100006,
-  "FullNameUA": "вулиця Матросова, 6-А"
+  "lati": 49.9558381421,
+  "FullNameUA": "вулиця Матросова, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 169079,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2694463335,
   "lati": 49.9515480784,
-  "FullNameUA": "вулиця Матросова, 7"
+  "FullNameUA": "вулиця Матросова, 7",
+  "ChildsIds": []
  },
  {
   "id": 169081,
@@ -370,34 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263198596799995,
-  "lati": 49.955929084100006,
-  "FullNameUA": "вулиця Матросова, 8-А"
- },
- {
-  "id": 169080,
-  "postcode": 61124,
-  "number": 8,
-  "suffix": "",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2632113604,
-  "lati": 49.956579632600004,
-  "FullNameUA": "вулиця Матросова, 8"
+  "longt": 36.2631985968,
+  "lati": 49.9559290841,
+  "FullNameUA": "вулиця Матросова, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 169082,
@@ -422,7 +412,34 @@
   "reg_date": "",
   "longt": 36.2625179837,
   "lati": 49.9551825216,
-  "FullNameUA": "вулиця Матросова, 8-Б"
+  "FullNameUA": "вулиця Матросова, 8-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 169080,
+  "postcode": 61124,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2632113604,
+  "lati": 49.9565796326,
+  "FullNameUA": "вулиця Матросова, 8",
+  "ChildsIds": []
  },
  {
   "id": 169083,
@@ -446,33 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2792323242,
-  "lati": 49.955907124300005,
-  "FullNameUA": "вулиця Матросова, 9"
- },
- {
-  "id": 169085,
-  "postcode": 61124,
-  "number": 10,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2631787111,
-  "lati": 49.955188163900004,
-  "FullNameUA": "вулиця Матросова, 10-А"
+  "lati": 49.9559071243,
+  "FullNameUA": "вулиця Матросова, 9",
+  "ChildsIds": []
  },
  {
   "id": 169084,
@@ -496,8 +489,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2639001815,
-  "lati": 49.956205752100004,
-  "FullNameUA": "вулиця Матросова, 10"
+  "lati": 49.9562057521,
+  "FullNameUA": "вулиця Матросова, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 169085,
+  "postcode": 61124,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2631787111,
+  "lati": 49.9551881639,
+  "FullNameUA": "вулиця Матросова, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 169087,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2638424207,
-  "lati": 49.955200928500005,
-  "FullNameUA": "вулиця Матросова, 12-Б"
+  "lati": 49.9552009285,
+  "FullNameUA": "вулиця Матросова, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 169086,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2644483328,
   "lati": 49.9561046484,
-  "FullNameUA": "вулиця Матросова, 12"
+  "FullNameUA": "вулиця Матросова, 12",
+  "ChildsIds": []
  },
  {
   "id": 169088,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264986047499995,
+  "longt": 36.2649860475,
   "lati": 49.9559987581,
-  "FullNameUA": "вулиця Матросова, 14"
+  "FullNameUA": "вулиця Матросова, 14",
+  "ChildsIds": []
  },
  {
   "id": 169089,
@@ -597,7 +620,34 @@
   "reg_date": "",
   "longt": 36.264491305,
   "lati": 49.9551994508,
-  "FullNameUA": "вулиця Матросова, 14-А"
+  "FullNameUA": "вулиця Матросова, 14-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169091,
+  "postcode": 61124,
+  "number": 16,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3223,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2651624148,
+  "lati": 49.9552169484,
+  "FullNameUA": "вулиця Матросова, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 169090,
@@ -621,13 +671,14 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2655403836,
-  "lati": 49.955898774000005,
-  "FullNameUA": "вулиця Матросова, 16"
+  "lati": 49.955898774,
+  "FullNameUA": "вулиця Матросова, 16",
+  "ChildsIds": []
  },
  {
-  "id": 169091,
+  "id": 169092,
   "postcode": 61124,
-  "number": 16,
+  "number": 18,
   "suffix": "А",
   "block": "",
   "streetid": 3223,
@@ -645,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265162414799995,
-  "lati": 49.9552169484,
-  "FullNameUA": "вулиця Матросова, 16-А"
+  "longt": 36.2664965346,
+  "lati": 49.955454141,
+  "FullNameUA": "вулиця Матросова, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 169093,
@@ -671,8 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.263559428,
-  "lati": 49.954491588900005,
-  "FullNameUA": "вулиця Матросова, 18-Б"
+  "lati": 49.9544915889,
+  "FullNameUA": "вулиця Матросова, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 169094,
@@ -697,32 +750,8 @@
   "reg_date": "21.08.2017 12:48:38",
   "longt": 36.268704577,
   "lati": 49.9556166914,
-  "FullNameUA": "вулиця Матросова, 18-Г"
- },
- {
-  "id": 169092,
-  "postcode": 61124,
-  "number": 18,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3223,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.266496534599995,
-  "lati": 49.955454141000004,
-  "FullNameUA": "вулиця Матросова, 18-А"
+  "FullNameUA": "вулиця Матросова, 18-Г",
+  "ChildsIds": []
  },
  {
   "id": 169095,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2814885514,
   "lati": 49.9552687456,
-  "FullNameUA": "вулиця Матросова, 20"
+  "FullNameUA": "вулиця Матросова, 20",
+  "ChildsIds": []
  },
  {
   "id": 169096,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "11.03.2019 11:04:01",
   "longt": 36.2758252594,
-  "lati": 49.955581854900004,
-  "FullNameUA": "вулиця Матросова, 22"
+  "lati": 49.9555818549,
+  "FullNameUA": "вулиця Матросова, 22",
+  "ChildsIds": []
  },
  {
   "id": 169097,
@@ -795,8 +826,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278869922700004,
+  "longt": 36.2788699227,
   "lati": 49.9553974273,
-  "FullNameUA": "вулиця Матросова, 24"
+  "FullNameUA": "вулиця Матросова, 24",
+  "ChildsIds": []
  }
 ]

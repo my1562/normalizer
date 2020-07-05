@@ -1,5 +1,31 @@
 [
  {
+  "id": 104940,
+  "postcode": 61029,
+  "number": 1,
+  "suffix": "/12",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3275772417,
+  "lati": 49.9816686529,
+  "FullNameUA": "вулиця Петрозаводська, 1/12",
+  "ChildsIds": []
+ },
+ {
   "id": 104941,
   "postcode": 61029,
   "number": 1,
@@ -22,32 +48,8 @@
   "reg_date": "",
   "longt": 36.3278589949,
   "lati": 49.981642389,
-  "FullNameUA": "вулиця Петрозаводська, 1-А"
- },
- {
-  "id": 104940,
-  "postcode": 61029,
-  "number": 1,
-  "suffix": "/12",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3275772417,
-  "lati": 49.981668652900005,
-  "FullNameUA": "вулиця Петрозаводська, 1/12"
+  "FullNameUA": "вулиця Петрозаводська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 104944,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3243786407,
   "lati": 49.9810517661,
-  "FullNameUA": "вулиця Петрозаводська, 2-В"
+  "FullNameUA": "вулиця Петрозаводська, 2-В",
+  "ChildsIds": []
  },
  {
   "id": 104942,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.325066164,
   "lati": 49.9810630938,
-  "FullNameUA": "вулиця Петрозаводська, 2-А"
+  "FullNameUA": "вулиця Петрозаводська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 104943,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.324732856,
   "lati": 49.9810482521,
-  "FullNameUA": "вулиця Петрозаводська, 2-Б"
+  "FullNameUA": "вулиця Петрозаводська, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 104945,
@@ -146,33 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3280589925,
-  "lati": 49.98163379180001,
-  "FullNameUA": "вулиця Петрозаводська, 3"
- },
- {
-  "id": 104947,
-  "postcode": 61029,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3254679569,
-  "lati": 49.981076181300004,
-  "FullNameUA": "вулиця Петрозаводська, 4-А"
+  "lati": 49.9816337918,
+  "FullNameUA": "вулиця Петрозаводська, 3",
+  "ChildsIds": []
  },
  {
   "id": 104946,
@@ -197,7 +178,34 @@
   "reg_date": "",
   "longt": 36.3280955724,
   "lati": 49.9813903466,
-  "FullNameUA": "вулиця Петрозаводська, 4"
+  "FullNameUA": "вулиця Петрозаводська, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 104947,
+  "postcode": 61029,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3254679569,
+  "lati": 49.9810761813,
+  "FullNameUA": "вулиця Петрозаводська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 104948,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3282976738,
-  "lati": 49.98163702750001,
-  "FullNameUA": "вулиця Петрозаводська, 5"
+  "lati": 49.9816370275,
+  "FullNameUA": "вулиця Петрозаводська, 5",
+  "ChildsIds": []
  },
  {
   "id": 104949,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3282967368,
-  "lati": 49.98139030270001,
-  "FullNameUA": "вулиця Петрозаводська, 6"
+  "lati": 49.9813903027,
+  "FullNameUA": "вулиця Петрозаводська, 6",
+  "ChildsIds": []
  },
  {
   "id": 104950,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3285083576,
-  "lati": 49.981624130200004,
-  "FullNameUA": "вулиця Петрозаводська, 7"
+  "lati": 49.9816241302,
+  "FullNameUA": "вулиця Петрозаводська, 7",
+  "ChildsIds": []
  },
  {
   "id": 104952,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3291386109,
-  "lati": 49.981394196100005,
-  "FullNameUA": "вулиця Петрозаводська, 8-А"
+  "lati": 49.9813941961,
+  "FullNameUA": "вулиця Петрозаводська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 104951,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3288520538,
-  "lati": 49.981396067800006,
-  "FullNameUA": "вулиця Петрозаводська, 8"
+  "lati": 49.9813960678,
+  "FullNameUA": "вулиця Петрозаводська, 8",
+  "ChildsIds": []
  },
  {
   "id": 104954,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.3287493878,
   "lati": 49.9816187958,
-  "FullNameUA": "вулиця Петрозаводська, 9-А"
+  "FullNameUA": "вулиця Петрозаводська, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 104953,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3290752902,
-  "lati": 49.981641186100006,
-  "FullNameUA": "вулиця Петрозаводська, 9/15"
+  "lati": 49.9816411861,
+  "FullNameUA": "вулиця Петрозаводська, 9/15",
+  "ChildsIds": []
  },
  {
   "id": 104956,
@@ -396,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3300131603,
-  "lati": 49.981394382000005,
-  "FullNameUA": "вулиця Петрозаводська, 10-А"
+  "lati": 49.981394382,
+  "FullNameUA": "вулиця Петрозаводська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 104955,
@@ -422,57 +438,8 @@
   "reg_date": "",
   "longt": 36.3264238101,
   "lati": 49.9811251495,
-  "FullNameUA": "вулиця Петрозаводська, 10"
- },
- {
-  "id": 104957,
-  "postcode": 61029,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.330131444799996,
-  "lati": 49.98168810800001,
-  "FullNameUA": "вулиця Петрозаводська, 11"
- },
- {
-  "id": 104958,
-  "postcode": 61029,
-  "number": 11,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.330365487499996,
-  "lati": 49.98162916770001,
-  "FullNameUA": "вулиця Петрозаводська, 11-А"
+  "FullNameUA": "вулиця Петрозаводська, 10",
+  "ChildsIds": []
  },
  {
   "id": 104959,
@@ -497,12 +464,39 @@
   "reg_date": "",
   "longt": 36.3296613751,
   "lati": 49.9817072494,
-  "FullNameUA": "вулиця Петрозаводська, 11-Б"
+  "FullNameUA": "вулиця Петрозаводська, 11-Б",
+  "ChildsIds": []
  },
  {
-  "id": 104961,
+  "id": 104958,
   "postcode": 61029,
-  "number": 12,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3303654875,
+  "lati": 49.9816291677,
+  "FullNameUA": "вулиця Петрозаводська, 11-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 104957,
+  "postcode": 61029,
+  "number": 11,
   "suffix": "",
   "block": "",
   "streetid": 3579,
@@ -518,11 +512,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "карта М1:2000",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.3305996282,
-  "lati": 49.9813033526,
-  "FullNameUA": "вулиця Петрозаводська, 12"
+  "longt": 36.3301314448,
+  "lati": 49.981688108,
+  "FullNameUA": "вулиця Петрозаводська, 11",
+  "ChildsIds": []
  },
  {
   "id": 104960,
@@ -547,7 +542,34 @@
   "reg_date": "",
   "longt": 36.3266307589,
   "lati": 49.9811460457,
-  "FullNameUA": "вулиця Петрозаводська, 12-А"
+  "FullNameUA": "вулиця Петрозаводська, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 104961,
+  "postcode": 61029,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:2000",
+  "reg_date": "",
+  "longt": 36.3305996282,
+  "lati": 49.9813033526,
+  "FullNameUA": "вулиця Петрозаводська, 12",
+  "ChildsIds": []
  },
  {
   "id": 177379,
@@ -572,32 +594,8 @@
   "reg_date": "",
   "longt": 36.3307993977,
   "lati": 49.9816743322,
-  "FullNameUA": "вулиця Петрозаводська, 13"
- },
- {
-  "id": 104963,
-  "postcode": 61029,
-  "number": 14,
-  "suffix": "/16",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3314509307,
-  "lati": 49.98140127520001,
-  "FullNameUA": "вулиця Петрозаводська, 14/16"
+  "FullNameUA": "вулиця Петрозаводська, 13",
+  "ChildsIds": []
  },
  {
   "id": 104962,
@@ -621,8 +619,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3269005483,
-  "lati": 49.98113796410001,
-  "FullNameUA": "вулиця Петрозаводська, 14-А"
+  "lati": 49.9811379641,
+  "FullNameUA": "вулиця Петрозаводська, 14-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 104963,
+  "postcode": 61029,
+  "number": 14,
+  "suffix": "/16",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3314509307,
+  "lati": 49.9814012752,
+  "FullNameUA": "вулиця Петрозаводська, 14/16",
+  "ChildsIds": []
  },
  {
   "id": 104964,
@@ -646,33 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3317900957,
-  "lati": 49.981451296500005,
-  "FullNameUA": "вулиця Петрозаводська, 18"
- },
- {
-  "id": 104965,
-  "postcode": 61029,
-  "number": 19,
-  "suffix": "",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.331813889799996,
-  "lati": 49.9816835011,
-  "FullNameUA": "вулиця Петрозаводська, 19"
+  "lati": 49.9814512965,
+  "FullNameUA": "вулиця Петрозаводська, 18",
+  "ChildsIds": []
  },
  {
   "id": 104966,
@@ -696,8 +697,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3316042806,
-  "lati": 49.98165197030001,
-  "FullNameUA": "вулиця Петрозаводська, 19-А"
+  "lati": 49.9816519703,
+  "FullNameUA": "вулиця Петрозаводська, 19-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 104965,
+  "postcode": 61029,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3318138898,
+  "lati": 49.9816835011,
+  "FullNameUA": "вулиця Петрозаводська, 19",
+  "ChildsIds": []
  },
  {
   "id": 104967,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.3321324163,
   "lati": 49.9814961825,
-  "FullNameUA": "вулиця Петрозаводська, 20"
+  "FullNameUA": "вулиця Петрозаводська, 20",
+  "ChildsIds": []
  },
  {
   "id": 104968,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.3319538472,
   "lati": 49.9818058386,
-  "FullNameUA": "вулиця Петрозаводська, 21"
+  "FullNameUA": "вулиця Петрозаводська, 21",
+  "ChildsIds": []
  },
  {
   "id": 104969,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3323186661,
-  "lati": 49.981514432400004,
-  "FullNameUA": "вулиця Петрозаводська, 22/15"
+  "lati": 49.9815144324,
+  "FullNameUA": "вулиця Петрозаводська, 22/15",
+  "ChildsIds": []
  },
  {
   "id": 104970,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3322193004,
   "lati": 49.9817540777,
-  "FullNameUA": "вулиця Петрозаводська, 23"
+  "FullNameUA": "вулиця Петрозаводська, 23",
+  "ChildsIds": []
  },
  {
   "id": 104971,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3326098241,
   "lati": 49.9815758848,
-  "FullNameUA": "вулиця Петрозаводська, 24"
+  "FullNameUA": "вулиця Петрозаводська, 24",
+  "ChildsIds": []
  },
  {
   "id": 104972,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.3325456985,
   "lati": 49.981806742,
-  "FullNameUA": "вулиця Петрозаводська, 25/20"
+  "FullNameUA": "вулиця Петрозаводська, 25/20",
+  "ChildsIds": []
  },
  {
   "id": 104973,
@@ -871,8 +905,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3328831962,
-  "lati": 49.981601244500006,
-  "FullNameUA": "вулиця Петрозаводська, 26"
+  "lati": 49.9816012445,
+  "FullNameUA": "вулиця Петрозаводська, 26",
+  "ChildsIds": []
  },
  {
   "id": 104974,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3328945699,
-  "lati": 49.98185371700001,
-  "FullNameUA": "вулиця Петрозаводська, 27"
+  "lati": 49.981853717,
+  "FullNameUA": "вулиця Петрозаводська, 27",
+  "ChildsIds": []
  },
  {
   "id": 104975,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333064811599996,
+  "longt": 36.3330648116,
   "lati": 49.9816364081,
-  "FullNameUA": "вулиця Петрозаводська, 28"
+  "FullNameUA": "вулиця Петрозаводська, 28",
+  "ChildsIds": []
  },
  {
   "id": 104976,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.3330396733,
   "lati": 49.9818726819,
-  "FullNameUA": "вулиця Петрозаводська, 29"
+  "FullNameUA": "вулиця Петрозаводська, 29",
+  "ChildsIds": []
  },
  {
   "id": 104977,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.3332600727,
   "lati": 49.9816677421,
-  "FullNameUA": "вулиця Петрозаводська, 30"
+  "FullNameUA": "вулиця Петрозаводська, 30",
+  "ChildsIds": []
  },
  {
   "id": 104978,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333383796199996,
+  "longt": 36.3333837962,
   "lati": 49.9819336831,
-  "FullNameUA": "вулиця Петрозаводська, 31/19"
+  "FullNameUA": "вулиця Петрозаводська, 31/19",
+  "ChildsIds": []
  },
  {
   "id": 104979,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.333457714,
   "lati": 49.9816649392,
-  "FullNameUA": "вулиця Петрозаводська, 32/17"
+  "FullNameUA": "вулиця Петрозаводська, 32/17",
+  "ChildsIds": []
  },
  {
   "id": 104980,
@@ -1046,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3338171492,
-  "lati": 49.98198121590001,
-  "FullNameUA": "вулиця Петрозаводська, 33"
+  "lati": 49.9819812159,
+  "FullNameUA": "вулиця Петрозаводська, 33",
+  "ChildsIds": []
  },
  {
   "id": 104981,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.333889141499995,
-  "lati": 49.981746538900005,
-  "FullNameUA": "вулиця Петрозаводська, 34"
+  "longt": 36.3338891415,
+  "lati": 49.9817465389,
+  "FullNameUA": "вулиця Петрозаводська, 34",
+  "ChildsIds": []
  },
  {
   "id": 104982,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3341263219,
   "lati": 49.9819986015,
-  "FullNameUA": "вулиця Петрозаводська, 35"
+  "FullNameUA": "вулиця Петрозаводська, 35",
+  "ChildsIds": []
  },
  {
   "id": 104983,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3340881619,
-  "lati": 49.981746356100004,
-  "FullNameUA": "вулиця Петрозаводська, 36"
+  "lati": 49.9817463561,
+  "FullNameUA": "вулиця Петрозаводська, 36",
+  "ChildsIds": []
  },
  {
   "id": 104984,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3343154946,
   "lati": 49.9820371798,
-  "FullNameUA": "вулиця Петрозаводська, 37"
+  "FullNameUA": "вулиця Петрозаводська, 37",
+  "ChildsIds": []
  },
  {
   "id": 104985,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3343017229,
   "lati": 49.9818038411,
-  "FullNameUA": "вулиця Петрозаводська, 38"
+  "FullNameUA": "вулиця Петрозаводська, 38",
+  "ChildsIds": []
  },
  {
   "id": 104986,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334563943999996,
-  "lati": 49.982060878000006,
-  "FullNameUA": "вулиця Петрозаводська, 39"
+  "longt": 36.334563944,
+  "lati": 49.982060878,
+  "FullNameUA": "вулиця Петрозаводська, 39",
+  "ChildsIds": []
  },
  {
   "id": 104987,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3344814109,
-  "lati": 49.98182710100001,
-  "FullNameUA": "вулиця Петрозаводська, 40"
+  "lati": 49.981827101,
+  "FullNameUA": "вулиця Петрозаводська, 40",
+  "ChildsIds": []
  },
  {
   "id": 104988,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334756918299995,
-  "lati": 49.982097074600006,
-  "FullNameUA": "вулиця Петрозаводська, 41"
+  "longt": 36.3347569183,
+  "lati": 49.9820970746,
+  "FullNameUA": "вулиця Петрозаводська, 41",
+  "ChildsIds": []
  },
  {
   "id": 104989,
@@ -1271,8 +1321,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3346746811,
-  "lati": 49.981855796800005,
-  "FullNameUA": "вулиця Петрозаводська, 42"
+  "lati": 49.9818557968,
+  "FullNameUA": "вулиця Петрозаводська, 42",
+  "ChildsIds": []
  },
  {
   "id": 104990,
@@ -1296,8 +1347,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3351560645,
-  "lati": 49.982169138900005,
-  "FullNameUA": "вулиця Петрозаводська, 43"
+  "lati": 49.9821691389,
+  "FullNameUA": "вулиця Петрозаводська, 43",
+  "ChildsIds": []
  },
  {
   "id": 104991,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3349220283,
   "lati": 49.9818706243,
-  "FullNameUA": "вулиця Петрозаводська, 44/23"
+  "FullNameUA": "вулиця Петрозаводська, 44/23",
+  "ChildsIds": []
  },
  {
   "id": 104992,
@@ -1346,8 +1399,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.335383183,
-  "lati": 49.982171151100005,
-  "FullNameUA": "вулиця Петрозаводська, 45"
+  "lati": 49.9821711511,
+  "FullNameUA": "вулиця Петрозаводська, 45",
+  "ChildsIds": []
  },
  {
   "id": 104993,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3352369649,
   "lati": 49.9819178389,
-  "FullNameUA": "вулиця Петрозаводська, 46"
+  "FullNameUA": "вулиця Петрозаводська, 46",
+  "ChildsIds": []
  },
  {
   "id": 104994,
@@ -1396,8 +1451,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.335601531,
-  "lati": 49.98221055050001,
-  "FullNameUA": "вулиця Петрозаводська, 47"
+  "lati": 49.9822105505,
+  "FullNameUA": "вулиця Петрозаводська, 47",
+  "ChildsIds": []
  },
  {
   "id": 104995,
@@ -1421,8 +1477,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.335373626,
-  "lati": 49.981945253300005,
-  "FullNameUA": "вулиця Петрозаводська, 48"
+  "lati": 49.9819452533,
+  "FullNameUA": "вулиця Петрозаводська, 48",
+  "ChildsIds": []
  },
  {
   "id": 104996,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.3357929639,
   "lati": 49.9822241425,
-  "FullNameUA": "вулиця Петрозаводська, 49"
+  "FullNameUA": "вулиця Петрозаводська, 49",
+  "ChildsIds": []
  },
  {
   "id": 104997,
@@ -1471,8 +1529,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3355686357,
-  "lati": 49.98197417790001,
-  "FullNameUA": "вулиця Петрозаводська, 50"
+  "lati": 49.9819741779,
+  "FullNameUA": "вулиця Петрозаводська, 50",
+  "ChildsIds": []
  },
  {
   "id": 104998,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.3361296263,
   "lati": 49.982299218,
-  "FullNameUA": "вулиця Петрозаводська, 51"
+  "FullNameUA": "вулиця Петрозаводська, 51",
+  "ChildsIds": []
  },
  {
   "id": 104999,
@@ -1521,8 +1581,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3358376529,
-  "lati": 49.982009354400006,
-  "FullNameUA": "вулиця Петрозаводська, 52"
+  "lati": 49.9820093544,
+  "FullNameUA": "вулиця Петрозаводська, 52",
+  "ChildsIds": []
  },
  {
   "id": 105000,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.336559441599995,
+  "longt": 36.3365594416,
   "lati": 49.9823364817,
-  "FullNameUA": "вулиця Петрозаводська, 53"
+  "FullNameUA": "вулиця Петрозаводська, 53",
+  "ChildsIds": []
  },
  {
   "id": 105001,
@@ -1571,8 +1633,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3360239591,
-  "lati": 49.98203533860001,
-  "FullNameUA": "вулиця Петрозаводська, 54"
+  "lati": 49.9820353386,
+  "FullNameUA": "вулиця Петрозаводська, 54",
+  "ChildsIds": []
  },
  {
   "id": 105002,
@@ -1596,14 +1659,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.33691495,
-  "lati": 49.982375174000005,
-  "FullNameUA": "вулиця Петрозаводська, 55"
+  "lati": 49.982375174,
+  "FullNameUA": "вулиця Петрозаводська, 55",
+  "ChildsIds": []
  },
  {
-  "id": 105005,
+  "id": 105003,
   "postcode": 61029,
   "number": 56,
-  "suffix": "Б",
+  "suffix": "/25",
   "block": "",
   "streetid": 3579,
   "status_id": 1,
@@ -1620,9 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3368223541,
-  "lati": 49.98214363,
-  "FullNameUA": "вулиця Петрозаводська, 56-Б"
+  "longt": 36.3362125231,
+  "lati": 49.9820362761,
+  "FullNameUA": "вулиця Петрозаводська, 56/25",
+  "ChildsIds": []
  },
  {
   "id": 105004,
@@ -1646,58 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3366185498,
-  "lati": 49.982098627000006,
-  "FullNameUA": "вулиця Петрозаводська, 56-А"
- },
- {
-  "id": 105003,
-  "postcode": 61029,
-  "number": 56,
-  "suffix": "/25",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.336212523099995,
-  "lati": 49.982036276100004,
-  "FullNameUA": "вулиця Петрозаводська, 56/25"
- },
- {
-  "id": 105006,
-  "postcode": 61029,
-  "number": 56,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3370611029,
-  "lati": 49.9821704601,
-  "FullNameUA": "вулиця Петрозаводська, 56-В"
+  "lati": 49.982098627,
+  "FullNameUA": "вулиця Петрозаводська, 56-А",
+  "ChildsIds": []
  },
  {
   "id": 105007,
@@ -1722,7 +1738,60 @@
   "reg_date": "",
   "longt": 36.3372974208,
   "lati": 49.9821900003,
-  "FullNameUA": "вулиця Петрозаводська, 56Г/15"
+  "FullNameUA": "вулиця Петрозаводська, 56Г/15",
+  "ChildsIds": []
+ },
+ {
+  "id": 105006,
+  "postcode": 61029,
+  "number": 56,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3370611029,
+  "lati": 49.9821704601,
+  "FullNameUA": "вулиця Петрозаводська, 56-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 105005,
+  "postcode": 61029,
+  "number": 56,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3368223541,
+  "lati": 49.98214363,
+  "FullNameUA": "вулиця Петрозаводська, 56-Б",
+  "ChildsIds": []
  },
  {
   "id": 105008,
@@ -1747,57 +1816,8 @@
   "reg_date": "",
   "longt": 36.3370960377,
   "lati": 49.9823990211,
-  "FullNameUA": "вулиця Петрозаводська, 57"
- },
- {
-  "id": 105010,
-  "postcode": 61029,
-  "number": 58,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.339260155699996,
-  "lati": 49.98245630780001,
-  "FullNameUA": "вулиця Петрозаводська, 58-Б"
- },
- {
-  "id": 177378,
-  "postcode": 61029,
-  "number": 58,
-  "suffix": "/22",
-  "block": "",
-  "streetid": 3579,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.3386120956,
-  "lati": 49.98239013920001,
-  "FullNameUA": "вулиця Петрозаводська, 58/22"
+  "FullNameUA": "вулиця Петрозаводська, 57",
+  "ChildsIds": []
  },
  {
   "id": 105009,
@@ -1821,8 +1841,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3389961818,
-  "lati": 49.982438726400005,
-  "FullNameUA": "вулиця Петрозаводська, 58-А"
+  "lati": 49.9824387264,
+  "FullNameUA": "вулиця Петрозаводська, 58-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177378,
+  "postcode": 61029,
+  "number": 58,
+  "suffix": "/22",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.3386120956,
+  "lati": 49.9823901392,
+  "FullNameUA": "вулиця Петрозаводська, 58/22",
+  "ChildsIds": []
+ },
+ {
+  "id": 105010,
+  "postcode": 61029,
+  "number": 58,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3579,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3392601557,
+  "lati": 49.9824563078,
+  "FullNameUA": "вулиця Петрозаводська, 58-Б",
+  "ChildsIds": []
  },
  {
   "id": 105011,
@@ -1847,7 +1920,8 @@
   "reg_date": "",
   "longt": 36.3372802457,
   "lati": 49.9824225495,
-  "FullNameUA": "вулиця Петрозаводська, 59"
+  "FullNameUA": "вулиця Петрозаводська, 59",
+  "ChildsIds": []
  },
  {
   "id": 105013,
@@ -1870,9 +1944,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.337650753599995,
-  "lati": 49.982504603100004,
-  "FullNameUA": "вулиця Петрозаводська, 61/1"
+  "longt": 36.3376507536,
+  "lati": 49.9825046031,
+  "FullNameUA": "вулиця Петрозаводська, 61/1",
+  "ChildsIds": []
  },
  {
   "id": 105012,
@@ -1895,9 +1970,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.337675899299995,
+  "longt": 36.3376758993,
   "lati": 49.9825035252,
-  "FullNameUA": "вулиця Петрозаводська, 61"
+  "FullNameUA": "вулиця Петрозаводська, 61",
+  "ChildsIds": []
  },
  {
   "id": 105014,
@@ -1921,8 +1997,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3403517164,
-  "lati": 49.98261582640001,
-  "FullNameUA": "вулиця Петрозаводська, 62"
+  "lati": 49.9826158264,
+  "FullNameUA": "вулиця Петрозаводська, 62",
+  "ChildsIds": []
  },
  {
   "id": 105015,
@@ -1945,9 +2022,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.337953452099995,
-  "lati": 49.982639859200006,
-  "FullNameUA": "вулиця Петрозаводська, 63"
+  "longt": 36.3379534521,
+  "lati": 49.9826398592,
+  "FullNameUA": "вулиця Петрозаводська, 63",
+  "ChildsIds": []
  },
  {
   "id": 105016,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.3406069935,
   "lati": 49.9826491652,
-  "FullNameUA": "вулиця Петрозаводська, 64"
+  "FullNameUA": "вулиця Петрозаводська, 64",
+  "ChildsIds": []
  },
  {
   "id": 105017,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.3383356226,
   "lati": 49.9825807874,
-  "FullNameUA": "вулиця Петрозаводська, 65"
+  "FullNameUA": "вулиця Петрозаводська, 65",
+  "ChildsIds": []
  },
  {
   "id": 105018,
@@ -2021,8 +2101,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.3408278026,
-  "lati": 49.982670443800004,
-  "FullNameUA": "вулиця Петрозаводська, 66"
+  "lati": 49.9826704438,
+  "FullNameUA": "вулиця Петрозаводська, 66",
+  "ChildsIds": []
  },
  {
   "id": 105019,
@@ -2046,8 +2127,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3385260732,
-  "lati": 49.982603120200004,
-  "FullNameUA": "вулиця Петрозаводська, 67"
+  "lati": 49.9826031202,
+  "FullNameUA": "вулиця Петрозаводська, 67",
+  "ChildsIds": []
  },
  {
   "id": 105021,
@@ -2072,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.3386873807,
   "lati": 49.9826286101,
-  "FullNameUA": "вулиця Петрозаводська, 69"
+  "FullNameUA": "вулиця Петрозаводська, 69",
+  "ChildsIds": []
  },
  {
   "id": 105023,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.3390892754,
   "lati": 49.9826950662,
-  "FullNameUA": "вулиця Петрозаводська, 71/3"
+  "FullNameUA": "вулиця Петрозаводська, 71/3",
+  "ChildsIds": []
  },
  {
   "id": 105024,
@@ -2120,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342732633000004,
-  "lati": 49.982933580700006,
-  "FullNameUA": "вулиця Петрозаводська, 72"
+  "longt": 36.342732633,
+  "lati": 49.9829335807,
+  "FullNameUA": "вулиця Петрозаводська, 72",
+  "ChildsIds": []
  },
  {
   "id": 105026,
@@ -2147,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.3401479353,
   "lati": 49.9828252821,
-  "FullNameUA": "вулиця Петрозаводська, 75"
+  "FullNameUA": "вулиця Петрозаводська, 75",
+  "ChildsIds": []
  },
  {
   "id": 105028,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.3404284163,
   "lati": 49.9828838919,
-  "FullNameUA": "вулиця Петрозаводська, 77"
+  "FullNameUA": "вулиця Петрозаводська, 77",
+  "ChildsIds": []
  },
  {
   "id": 105029,
@@ -2195,9 +2282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.343729012400004,
-  "lati": 49.98306366520001,
-  "FullNameUA": "вулиця Петрозаводська, 78"
+  "longt": 36.3437290124,
+  "lati": 49.9830636652,
+  "FullNameUA": "вулиця Петрозаводська, 78",
+  "ChildsIds": []
  },
  {
   "id": 105030,
@@ -2220,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.340677855900005,
+  "longt": 36.3406778559,
   "lati": 49.9829069628,
-  "FullNameUA": "вулиця Петрозаводська, 79/45"
+  "FullNameUA": "вулиця Петрозаводська, 79/45",
+  "ChildsIds": []
  },
  {
   "id": 105031,
@@ -2246,7 +2335,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.343953063,
-  "lati": 49.983096654600004,
-  "FullNameUA": "вулиця Петрозаводська, 80"
+  "lati": 49.9830966546,
+  "FullNameUA": "вулиця Петрозаводська, 80",
+  "ChildsIds": []
  }
 ]

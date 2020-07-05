@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2066371863,
   "lati": 49.9330159058,
-  "FullNameUA": "вулиця Гутянська, 1"
+  "FullNameUA": "вулиця Гутянська, 1",
+  "ChildsIds": []
  },
  {
   "id": 159988,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205451935400006,
+  "longt": 36.2054519354,
   "lati": 49.9317126786,
-  "FullNameUA": "вулиця Гутянська, 2-А"
+  "FullNameUA": "вулиця Гутянська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 159987,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206017196400005,
+  "longt": 36.2060171964,
   "lati": 49.9329153078,
-  "FullNameUA": "вулиця Гутянська, 2"
+  "FullNameUA": "вулиця Гутянська, 2",
+  "ChildsIds": []
  },
  {
   "id": 159989,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2067213176,
   "lati": 49.9321124267,
-  "FullNameUA": "вулиця Гутянська, 3"
+  "FullNameUA": "вулиця Гутянська, 3",
+  "ChildsIds": []
  },
  {
   "id": 159990,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2063492244,
   "lati": 49.9321368765,
-  "FullNameUA": "вулиця Гутянська, 4-А"
+  "FullNameUA": "вулиця Гутянська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 159991,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2072214554,
   "lati": 49.9318700942,
-  "FullNameUA": "вулиця Гутянська, 5"
+  "FullNameUA": "вулиця Гутянська, 5",
+  "ChildsIds": []
  },
  {
   "id": 159994,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.204309238,
   "lati": 49.9316373887,
-  "FullNameUA": "вулиця Гутянська, 6-Б"
+  "FullNameUA": "вулиця Гутянська, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 159993,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2050076781,
   "lati": 49.9316647009,
-  "FullNameUA": "вулиця Гутянська, 6-А"
+  "FullNameUA": "вулиця Гутянська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 159992,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2063707662,
   "lati": 49.9320036299,
-  "FullNameUA": "вулиця Гутянська, 6"
+  "FullNameUA": "вулиця Гутянська, 6",
+  "ChildsIds": []
  },
  {
   "id": 159995,
@@ -247,32 +256,8 @@
   "reg_date": "",
   "longt": 36.2074934536,
   "lati": 49.9318765296,
-  "FullNameUA": "вулиця Гутянська, 7"
- },
- {
-  "id": 159997,
-  "postcode": 61009,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.204036286000004,
-  "lati": 49.9316162835,
-  "FullNameUA": "вулиця Гутянська, 8-А"
+  "FullNameUA": "вулиця Гутянська, 7",
+  "ChildsIds": []
  },
  {
   "id": 159996,
@@ -295,9 +280,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.204477795500004,
+  "longt": 36.2044777955,
   "lati": 49.9318863413,
-  "FullNameUA": "вулиця Гутянська, 8"
+  "FullNameUA": "вулиця Гутянська, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 159997,
+  "postcode": 61009,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.204036286,
+  "lati": 49.9316162835,
+  "FullNameUA": "вулиця Гутянська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 159998,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207764281100005,
+  "longt": 36.2077642811,
   "lati": 49.931884987,
-  "FullNameUA": "вулиця Гутянська, 9"
+  "FullNameUA": "вулиця Гутянська, 9",
+  "ChildsIds": []
  },
  {
   "id": 159999,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203824602800005,
+  "longt": 36.2038246028,
   "lati": 49.9315742725,
-  "FullNameUA": "вулиця Гутянська, 10"
+  "FullNameUA": "вулиця Гутянська, 10",
+  "ChildsIds": []
  },
  {
   "id": 160000,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207959167700004,
+  "longt": 36.2079591677,
   "lati": 49.9318736425,
-  "FullNameUA": "вулиця Гутянська, 11"
+  "FullNameUA": "вулиця Гутянська, 11",
+  "ChildsIds": []
  },
  {
   "id": 160001,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206431931800005,
+  "longt": 36.2064319318,
   "lati": 49.9315928233,
-  "FullNameUA": "вулиця Гутянська, 12"
+  "FullNameUA": "вулиця Гутянська, 12",
+  "ChildsIds": []
  },
  {
   "id": 160002,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2048393067,
   "lati": 49.9314350833,
-  "FullNameUA": "вулиця Гутянська, 12-А"
+  "FullNameUA": "вулиця Гутянська, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 160004,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.204529627,
   "lati": 49.9314035171,
-  "FullNameUA": "вулиця Гутянська, 12-В"
+  "FullNameUA": "вулиця Гутянська, 12-В",
+  "ChildsIds": []
  },
  {
   "id": 160003,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2061661214,
   "lati": 49.9310473799,
-  "FullNameUA": "вулиця Гутянська, 12-Б"
+  "FullNameUA": "вулиця Гутянська, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 160005,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208164055100006,
+  "longt": 36.2081640551,
   "lati": 49.9318721601,
-  "FullNameUA": "вулиця Гутянська, 13"
+  "FullNameUA": "вулиця Гутянська, 13",
+  "ChildsIds": []
  },
  {
   "id": 160006,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206242412900004,
+  "longt": 36.2062424129,
   "lati": 49.9305278852,
-  "FullNameUA": "вулиця Гутянська, 14"
+  "FullNameUA": "вулиця Гутянська, 14",
+  "ChildsIds": []
  },
  {
   "id": 160007,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208565585600006,
+  "longt": 36.2085655856,
   "lati": 49.9318791076,
-  "FullNameUA": "вулиця Гутянська, 15"
+  "FullNameUA": "вулиця Гутянська, 15",
+  "ChildsIds": []
  },
  {
   "id": 160008,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.20620917,
   "lati": 49.9301370142,
-  "FullNameUA": "вулиця Гутянська, 16"
+  "FullNameUA": "вулиця Гутянська, 16",
+  "ChildsIds": []
  },
  {
   "id": 160009,
@@ -597,32 +620,8 @@
   "reg_date": "",
   "longt": 36.2062044596,
   "lati": 49.9303285096,
-  "FullNameUA": "вулиця Гутянська, 16-А"
- },
- {
-  "id": 160010,
-  "postcode": 61009,
-  "number": 17,
-  "suffix": "",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.207897478,
-  "lati": 49.9326934132,
-  "FullNameUA": "вулиця Гутянська, 17"
+  "FullNameUA": "вулиця Гутянська, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 160011,
@@ -645,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208134554800004,
+  "longt": 36.2081345548,
   "lati": 49.9325502649,
-  "FullNameUA": "вулиця Гутянська, 17-А"
+  "FullNameUA": "вулиця Гутянська, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 160012,
@@ -672,7 +672,34 @@
   "reg_date": "",
   "longt": 36.207554082,
   "lati": 49.9329652022,
-  "FullNameUA": "вулиця Гутянська, 17-Б"
+  "FullNameUA": "вулиця Гутянська, 17-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 160010,
+  "postcode": 61009,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.207897478,
+  "lati": 49.9326934132,
+  "FullNameUA": "вулиця Гутянська, 17",
+  "ChildsIds": []
  },
  {
   "id": 160013,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2069419958,
   "lati": 49.9295044756,
-  "FullNameUA": "вулиця Гутянська, 18"
+  "FullNameUA": "вулиця Гутянська, 18",
+  "ChildsIds": []
  },
  {
   "id": 160014,
@@ -722,7 +750,34 @@
   "reg_date": "",
   "longt": 36.2078636106,
   "lati": 49.9330189216,
-  "FullNameUA": "вулиця Гутянська, 19"
+  "FullNameUA": "вулиця Гутянська, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 160016,
+  "postcode": 61009,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2077592936,
+  "lati": 49.9299460154,
+  "FullNameUA": "вулиця Гутянська, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 160015,
@@ -747,32 +802,8 @@
   "reg_date": "",
   "longt": 36.2065478469,
   "lati": 49.9302355532,
-  "FullNameUA": "вулиця Гутянська, 20"
- },
- {
-  "id": 160016,
-  "postcode": 61009,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.207759293600006,
-  "lati": 49.9299460154,
-  "FullNameUA": "вулиця Гутянська, 20-А"
+  "FullNameUA": "вулиця Гутянська, 20",
+  "ChildsIds": []
  },
  {
   "id": 160017,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208120443000006,
+  "longt": 36.208120443,
   "lati": 49.9329658293,
-  "FullNameUA": "вулиця Гутянська, 21"
+  "FullNameUA": "вулиця Гутянська, 21",
+  "ChildsIds": []
  },
  {
   "id": 160018,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2061254376,
-  "lati": 49.929824545900004,
-  "FullNameUA": "вулиця Гутянська, 22"
+  "lati": 49.9298245459,
+  "FullNameUA": "вулиця Гутянська, 22",
+  "ChildsIds": []
  },
  {
   "id": 160019,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208280170900004,
+  "longt": 36.2082801709,
   "lati": 49.9327546604,
-  "FullNameUA": "вулиця Гутянська, 23"
+  "FullNameUA": "вулиця Гутянська, 23",
+  "ChildsIds": []
  },
  {
   "id": 160021,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208280987100004,
+  "longt": 36.2082809871,
   "lati": 49.9310852347,
-  "FullNameUA": "вулиця Гутянська, 24-А"
+  "FullNameUA": "вулиця Гутянська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 160020,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2060854428,
   "lati": 49.9296260874,
-  "FullNameUA": "вулиця Гутянська, 24"
+  "FullNameUA": "вулиця Гутянська, 24",
+  "ChildsIds": []
  },
  {
   "id": 160022,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208399805300004,
+  "longt": 36.2083998053,
   "lati": 49.9325727325,
-  "FullNameUA": "вулиця Гутянська, 25"
+  "FullNameUA": "вулиця Гутянська, 25",
+  "ChildsIds": []
  },
  {
   "id": 160023,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206075176700004,
-  "lati": 49.929540202300004,
-  "FullNameUA": "вулиця Гутянська, 26"
+  "longt": 36.2060751767,
+  "lati": 49.9295402023,
+  "FullNameUA": "вулиця Гутянська, 26",
+  "ChildsIds": []
  },
  {
   "id": 160024,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2081413995,
   "lati": 49.9301585481,
-  "FullNameUA": "вулиця Гутянська, 26-А"
+  "FullNameUA": "вулиця Гутянська, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 160025,
@@ -997,57 +1036,8 @@
   "reg_date": "",
   "longt": 36.2088183113,
   "lati": 49.9322344577,
-  "FullNameUA": "вулиця Гутянська, 27"
- },
- {
-  "id": 177211,
-  "postcode": 61009,
-  "number": 28,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.207835209100004,
-  "lati": 49.9304553576,
-  "FullNameUA": "вулиця Гутянська, 28-Б"
- },
- {
-  "id": 160026,
-  "postcode": 61009,
-  "number": 28,
-  "suffix": "",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2085625701,
-  "lati": 49.9306704412,
-  "FullNameUA": "вулиця Гутянська, 28"
+  "FullNameUA": "вулиця Гутянська, 27",
+  "ChildsIds": []
  },
  {
   "id": 177209,
@@ -1072,7 +1062,60 @@
   "reg_date": "",
   "longt": 36.2081268339,
   "lati": 49.9305737707,
-  "FullNameUA": "вулиця Гутянська, 28-А"
+  "FullNameUA": "вулиця Гутянська, 28-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 160026,
+  "postcode": 61009,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2085625701,
+  "lati": 49.9306704412,
+  "FullNameUA": "вулиця Гутянська, 28",
+  "ChildsIds": []
+ },
+ {
+  "id": 177211,
+  "postcode": 61009,
+  "number": 28,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2078352091,
+  "lati": 49.9304553576,
+  "FullNameUA": "вулиця Гутянська, 28-Б",
+  "ChildsIds": []
  },
  {
   "id": 160027,
@@ -1095,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208848959700006,
+  "longt": 36.2088489597,
   "lati": 49.9320329632,
-  "FullNameUA": "вулиця Гутянська, 29"
+  "FullNameUA": "вулиця Гутянська, 29",
+  "ChildsIds": []
  },
  {
   "id": 160028,
@@ -1120,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208282204700005,
+  "longt": 36.2082822047,
   "lati": 49.9302345785,
-  "FullNameUA": "вулиця Гутянська, 30"
+  "FullNameUA": "вулиця Гутянська, 30",
+  "ChildsIds": []
  },
  {
   "id": 160030,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208879985500005,
+  "longt": 36.2088799855,
   "lati": 49.931883716,
-  "FullNameUA": "вулиця Гутянська, 31-А"
+  "FullNameUA": "вулиця Гутянська, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 160029,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209026346200005,
+  "longt": 36.2090263462,
   "lati": 49.9317093779,
-  "FullNameUA": "вулиця Гутянська, 31"
+  "FullNameUA": "вулиця Гутянська, 31",
+  "ChildsIds": []
  },
  {
   "id": 160031,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2085309559,
   "lati": 49.9303503678,
-  "FullNameUA": "вулиця Гутянська, 32"
+  "FullNameUA": "вулиця Гутянська, 32",
+  "ChildsIds": []
  },
  {
   "id": 160032,
@@ -1220,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209517499300006,
+  "longt": 36.2095174993,
   "lati": 49.9313869011,
-  "FullNameUA": "вулиця Гутянська, 33"
+  "FullNameUA": "вулиця Гутянська, 33",
+  "ChildsIds": []
  },
  {
   "id": 160033,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2117116473,
   "lati": 49.9321571901,
-  "FullNameUA": "вулиця Гутянська, 33-Б"
+  "FullNameUA": "вулиця Гутянська, 33-Б",
+  "ChildsIds": []
  },
  {
   "id": 177195,
@@ -1272,57 +1322,8 @@
   "reg_date": "",
   "longt": 36.2097688351,
   "lati": 49.9295594413,
-  "FullNameUA": "вулиця Гутянська, 34-В"
- },
- {
-  "id": 160034,
-  "postcode": 61009,
-  "number": 34,
-  "suffix": "",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208873418900005,
-  "lati": 49.9303451889,
-  "FullNameUA": "вулиця Гутянська, 34"
- },
- {
-  "id": 177193,
-  "postcode": 61009,
-  "number": 34,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.209703886300005,
-  "lati": 49.9298790514,
-  "FullNameUA": "вулиця Гутянська, 34-Б"
+  "FullNameUA": "вулиця Гутянська, 34-В",
+  "ChildsIds": []
  },
  {
   "id": 160035,
@@ -1345,9 +1346,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208970386400004,
+  "longt": 36.2089703864,
   "lati": 49.9301868293,
-  "FullNameUA": "вулиця Гутянська, 34-А"
+  "FullNameUA": "вулиця Гутянська, 34-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 160034,
+  "postcode": 61009,
+  "number": 34,
+  "suffix": "",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2088734189,
+  "lati": 49.9303451889,
+  "FullNameUA": "вулиця Гутянська, 34",
+  "ChildsIds": []
+ },
+ {
+  "id": 177193,
+  "postcode": 61009,
+  "number": 34,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2097038863,
+  "lati": 49.9298790514,
+  "FullNameUA": "вулиця Гутянська, 34-Б",
+  "ChildsIds": []
  },
  {
   "id": 160036,
@@ -1371,8 +1425,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2101736438,
-  "lati": 49.930990756599996,
-  "FullNameUA": "вулиця Гутянська, 35"
+  "lati": 49.9309907566,
+  "FullNameUA": "вулиця Гутянська, 35",
+  "ChildsIds": []
  },
  {
   "id": 160037,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209229199300005,
+  "longt": 36.2092291993,
   "lati": 49.9305994929,
-  "FullNameUA": "вулиця Гутянська, 37"
+  "FullNameUA": "вулиця Гутянська, 37",
+  "ChildsIds": []
  },
  {
   "id": 177204,
@@ -1421,8 +1477,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2072672133,
-  "lati": 49.929593670100004,
-  "FullNameUA": "вулиця Гутянська, 38-А"
+  "lati": 49.9295936701,
+  "FullNameUA": "вулиця Гутянська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 177205,
@@ -1445,34 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.207507222900006,
+  "longt": 36.2075072229,
   "lati": 49.9297074193,
-  "FullNameUA": "вулиця Гутянська, 38-Б"
- },
- {
-  "id": 160039,
-  "postcode": 61009,
-  "number": 39,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2113946986,
-  "lati": 49.9319813045,
-  "FullNameUA": "вулиця Гутянська, 39-А"
+  "FullNameUA": "вулиця Гутянська, 38-Б",
+  "ChildsIds": []
  },
  {
   "id": 160038,
@@ -1497,7 +1530,60 @@
   "reg_date": "",
   "longt": 36.2115814574,
   "lati": 49.9314433819,
-  "FullNameUA": "вулиця Гутянська, 39"
+  "FullNameUA": "вулиця Гутянська, 39",
+  "ChildsIds": []
+ },
+ {
+  "id": 160039,
+  "postcode": 61009,
+  "number": 39,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2113946986,
+  "lati": 49.9319813045,
+  "FullNameUA": "вулиця Гутянська, 39-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177181,
+  "postcode": 61009,
+  "number": 42,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2140040384,
+  "lati": 49.9288639107,
+  "FullNameUA": "вулиця Гутянська, 42-Д",
+  "ChildsIds": []
  },
  {
   "id": 160040,
@@ -1522,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2116477938,
   "lati": 49.9313189413,
-  "FullNameUA": "вулиця Гутянська, 43"
+  "FullNameUA": "вулиця Гутянська, 43",
+  "ChildsIds": []
  },
  {
   "id": 160041,
@@ -1547,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.211685251,
   "lati": 49.9311389298,
-  "FullNameUA": "вулиця Гутянська, 45"
+  "FullNameUA": "вулиця Гутянська, 45",
+  "ChildsIds": []
  },
  {
   "id": 160043,
@@ -1572,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2123406335,
   "lati": 49.9305048191,
-  "FullNameUA": "вулиця Гутянська, 47-А"
+  "FullNameUA": "вулиця Гутянська, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 160042,
@@ -1597,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.211874984,
   "lati": 49.930998153,
-  "FullNameUA": "вулиця Гутянська, 47"
+  "FullNameUA": "вулиця Гутянська, 47",
+  "ChildsIds": []
  },
  {
   "id": 160044,
@@ -1622,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.2125673587,
   "lati": 49.9305270016,
-  "FullNameUA": "вулиця Гутянська, 49"
+  "FullNameUA": "вулиця Гутянська, 49",
+  "ChildsIds": []
  },
  {
   "id": 177192,
@@ -1647,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2108513216,
   "lati": 49.9302012588,
-  "FullNameUA": "вулиця Гутянська, 49-А"
+  "FullNameUA": "вулиця Гутянська, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 177191,
@@ -1672,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.21061152,
   "lati": 49.930137469,
-  "FullNameUA": "вулиця Гутянська, 49-Б"
+  "FullNameUA": "вулиця Гутянська, 49-Б",
+  "ChildsIds": []
  },
  {
   "id": 177190,
@@ -1697,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2103827946,
   "lati": 49.9300784161,
-  "FullNameUA": "вулиця Гутянська, 49-В"
+  "FullNameUA": "вулиця Гутянська, 49-В",
+  "ChildsIds": []
  },
  {
   "id": 181002,
@@ -1722,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2115147714,
   "lati": 49.929935019,
-  "FullNameUA": "вулиця Гутянська, 49-Г"
+  "FullNameUA": "вулиця Гутянська, 49-Г",
+  "ChildsIds": []
  },
  {
   "id": 181001,
@@ -1747,7 +1842,34 @@
   "reg_date": "",
   "longt": 36.2111227076,
   "lati": 49.9302583635,
-  "FullNameUA": "вулиця Гутянська, 49-Д"
+  "FullNameUA": "вулиця Гутянська, 49-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 160046,
+  "postcode": 61009,
+  "number": 51,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2498,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2125223545,
+  "lati": 49.9303486801,
+  "FullNameUA": "вулиця Гутянська, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 160045,
@@ -1772,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.2126496426,
   "lati": 49.9303841276,
-  "FullNameUA": "вулиця Гутянська, 51"
+  "FullNameUA": "вулиця Гутянська, 51",
+  "ChildsIds": []
  },
  {
   "id": 160047,
@@ -1797,32 +1920,8 @@
   "reg_date": "",
   "longt": 36.2123612644,
   "lati": 49.9301681924,
-  "FullNameUA": "вулиця Гутянська, 51-Б"
- },
- {
-  "id": 160046,
-  "postcode": 61009,
-  "number": 51,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2498,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2125223545,
-  "lati": 49.930348680099996,
-  "FullNameUA": "вулиця Гутянська, 51-А"
+  "FullNameUA": "вулиця Гутянська, 51-Б",
+  "ChildsIds": []
  },
  {
   "id": 160048,
@@ -1847,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.2127981505,
   "lati": 49.9302173448,
-  "FullNameUA": "вулиця Гутянська, 53"
+  "FullNameUA": "вулиця Гутянська, 53",
+  "ChildsIds": []
  },
  {
   "id": 160049,
@@ -1872,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.2129373454,
   "lati": 49.9300279811,
-  "FullNameUA": "вулиця Гутянська, 54"
+  "FullNameUA": "вулиця Гутянська, 54",
+  "ChildsIds": []
  },
  {
   "id": 160050,
@@ -1897,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.2130144146,
   "lati": 49.929956478,
-  "FullNameUA": "вулиця Гутянська, 55"
+  "FullNameUA": "вулиця Гутянська, 55",
+  "ChildsIds": []
  },
  {
   "id": 160051,
@@ -1922,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.2129783281,
   "lati": 49.929711536,
-  "FullNameUA": "вулиця Гутянська, 56"
+  "FullNameUA": "вулиця Гутянська, 56",
+  "ChildsIds": []
  },
  {
   "id": 160052,
@@ -1947,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.213238902,
   "lati": 49.9294719958,
-  "FullNameUA": "вулиця Гутянська, 57"
+  "FullNameUA": "вулиця Гутянська, 57",
+  "ChildsIds": []
  },
  {
   "id": 160053,
@@ -1972,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.2134192095,
   "lati": 49.9293310818,
-  "FullNameUA": "вулиця Гутянська, 58"
+  "FullNameUA": "вулиця Гутянська, 58",
+  "ChildsIds": []
  },
  {
   "id": 160054,
@@ -1997,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.2132677672,
   "lati": 49.9292492945,
-  "FullNameUA": "вулиця Гутянська, 59"
+  "FullNameUA": "вулиця Гутянська, 59",
+  "ChildsIds": []
  },
  {
   "id": 160055,
@@ -2020,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.213124792900004,
+  "longt": 36.2131247929,
   "lati": 49.9289986023,
-  "FullNameUA": "вулиця Гутянська, 60"
+  "FullNameUA": "вулиця Гутянська, 60",
+  "ChildsIds": []
  },
  {
   "id": 160056,
@@ -2047,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.2132587392,
   "lati": 49.9288734733,
-  "FullNameUA": "вулиця Гутянська, 61"
+  "FullNameUA": "вулиця Гутянська, 61",
+  "ChildsIds": []
  },
  {
   "id": 160057,
@@ -2071,7 +2179,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2133757512,
-  "lati": 49.928668688100004,
-  "FullNameUA": "вулиця Гутянська, 63"
+  "lati": 49.9286686881,
+  "FullNameUA": "вулиця Гутянська, 63",
+  "ChildsIds": []
  }
 ]

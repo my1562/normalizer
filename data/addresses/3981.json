@@ -1,30 +1,5 @@
 [
  {
-  "id": 165892,
-  "postcode": 61003,
-  "number": 2,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3981,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2341761025,
-  "lati": 49.984150872200004,
-  "FullNameUA": "провулок Соляниківський, 2-Б"
- },
- {
   "id": 165891,
   "postcode": 61003,
   "number": 2,
@@ -46,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.234054346,
-  "lati": 49.98437008610001,
-  "FullNameUA": "провулок Соляниківський, 2"
+  "lati": 49.9843700861,
+  "FullNameUA": "провулок Соляниківський, 2",
+  "ChildsIds": []
  },
  {
   "id": 165893,
@@ -71,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.234330155,
-  "lati": 49.984711560600005,
-  "FullNameUA": "провулок Соляниківський, 3"
+  "lati": 49.9847115606,
+  "FullNameUA": "провулок Соляниківський, 3",
+  "ChildsIds": []
  },
  {
   "id": 165894,
@@ -97,13 +74,14 @@
   "reg_date": "",
   "longt": 36.2345392518,
   "lati": 49.9845157951,
-  "FullNameUA": "провулок Соляниківський, 4"
+  "FullNameUA": "провулок Соляниківський, 4",
+  "ChildsIds": []
  },
  {
-  "id": 165895,
+  "id": 182586,
   "postcode": 61003,
   "number": 4,
-  "suffix": "Б",
+  "suffix": "В",
   "block": "",
   "streetid": 3981,
   "status_id": 1,
@@ -116,13 +94,40 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Н2-1\"",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.23469654390001,
-  "lati": 49.9841724082,
-  "FullNameUA": "провулок Соляниківський, 4-Б"
+  "reg_date": "25.03.2020 14:29:50",
+  "longt": 36.2352322973,
+  "lati": 49.9840641841,
+  "FullNameUA": "провулок Соляниківський, 4-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 182585,
+  "postcode": 61003,
+  "number": 4,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3981,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Н1-1\"",
+  "confrm": "",
+  "reg_date": "25.03.2020 14:34:37",
+  "longt": 36.235264899,
+  "lati": 49.9839418763,
+  "FullNameUA": "провулок Соляниківський, 4-Г",
+  "ChildsIds": []
  },
  {
   "id": 165896,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23461763700001,
-  "lati": 49.984810775700005,
-  "FullNameUA": "провулок Соляниківський, 5"
+  "longt": 36.234617637,
+  "lati": 49.9848107757,
+  "FullNameUA": "провулок Соляниківський, 5",
+  "ChildsIds": []
  },
  {
   "id": 165897,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2349388071,
   "lati": 49.9846481284,
-  "FullNameUA": "провулок Соляниківський, 6"
+  "FullNameUA": "провулок Соляниківський, 6",
+  "ChildsIds": []
  },
  {
   "id": 165898,
@@ -196,8 +203,9 @@
   "confrm": "Рішення ВК ХМР № 771 (кв.), 29.11.2017",
   "reg_date": "",
   "longt": 36.2350135645,
-  "lati": 49.984975301400006,
-  "FullNameUA": "провулок Соляниківський, 7"
+  "lati": 49.9849753014,
+  "FullNameUA": "провулок Соляниківський, 7",
+  "ChildsIds": []
  },
  {
   "id": 165899,
@@ -220,9 +228,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23523876910001,
+  "longt": 36.2352387691,
   "lati": 49.9847296251,
-  "FullNameUA": "провулок Соляниківський, 8"
+  "FullNameUA": "провулок Соляниківський, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182584,
+  "postcode": 61003,
+  "number": 8,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3981,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Н3-1\" з господарською будівлею літ. \"М-2\"",
+  "confrm": "",
+  "reg_date": "25.03.2020 14:42:21",
+  "longt": 36.2351923661,
+  "lati": 49.9841989223,
+  "FullNameUA": "провулок Соляниківський, 8-В",
+  "ChildsIds": []
  },
  {
   "id": 165900,
@@ -245,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235252744200004,
-  "lati": 49.984974477200005,
-  "FullNameUA": "провулок Соляниківський, 9"
+  "longt": 36.2352527442,
+  "lati": 49.9849744772,
+  "FullNameUA": "провулок Соляниківський, 9",
+  "ChildsIds": []
  },
  {
   "id": 165901,
@@ -271,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2354427964,
-  "lati": 49.984760242700006,
-  "FullNameUA": "провулок Соляниківський, 10"
+  "lati": 49.9847602427,
+  "FullNameUA": "провулок Соляниківський, 10",
+  "ChildsIds": []
  },
  {
   "id": 165902,
@@ -295,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235737563200004,
-  "lati": 49.98468232970001,
-  "FullNameUA": "провулок Соляниківський, 10/12"
+  "longt": 36.2357375632,
+  "lati": 49.9846823297,
+  "FullNameUA": "провулок Соляниківський, 10/12",
+  "ChildsIds": []
  },
  {
   "id": 165903,
@@ -322,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2363798104,
   "lati": 49.9849756336,
-  "FullNameUA": "провулок Соляниківський, 12"
+  "FullNameUA": "провулок Соляниківський, 12",
+  "ChildsIds": []
  },
  {
   "id": 165904,
@@ -346,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2359000828,
-  "lati": 49.984943665100005,
-  "FullNameUA": "провулок Соляниківський, 12/14"
+  "lati": 49.9849436651,
+  "FullNameUA": "провулок Соляниківський, 12/14",
+  "ChildsIds": []
  },
  {
   "id": 165905,
@@ -372,6 +412,7 @@
   "reg_date": "",
   "longt": 36.2361097705,
   "lati": 49.9848144198,
-  "FullNameUA": "провулок Соляниківський, 14"
+  "FullNameUA": "провулок Соляниківський, 14",
+  "ChildsIds": []
  }
 ]

@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "id": 182542,
+  "postcode": 61138,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4583,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3917491373,
+  "lati": 49.9341808221,
+  "FullNameUA": "вулиця Кожедуба, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 182541,
+  "postcode": 61138,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 4583,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3914994266,
+  "lati": 49.9342910879,
+  "FullNameUA": "вулиця Кожедуба, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 182540,
+  "postcode": 61138,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 4583,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3912571599,
+  "lati": 49.9344108399,
+  "FullNameUA": "вулиця Кожедуба, 14",
+  "ChildsIds": []
+ }
+]

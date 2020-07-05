@@ -1,59 +1,9 @@
 [
  {
-  "id": 103467,
+  "id": 103465,
   "postcode": 61060,
   "number": 2,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "нежитлові будівлі для охорони автостоянки літ. \"А-1\" та літ. \"Б-1\"",
-  "confrm": "500, 20.07.2016",
-  "reg_date": "26.02.2019 16:36:07",
-  "longt": 36.3181732436,
-  "lati": 49.9643593503,
-  "FullNameUA": "проспект Петра Григоренка, 2-Ж"
- },
- {
-  "id": 180391,
-  "postcode": 61060,
-  "number": 2,
-  "suffix": "К",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-15\"",
-  "confrm": "",
-  "reg_date": "15.03.2019 14:28:28",
-  "longt": 36.3185927656,
-  "lati": 49.9647887486,
-  "FullNameUA": "проспект Петра Григоренка, 2-К"
- },
- {
-  "id": 103470,
-  "postcode": 61060,
-  "number": 2,
-  "suffix": "/146",
+  "suffix": "",
   "block": "",
   "streetid": 3219,
   "status_id": 1,
@@ -70,34 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3194333395,
-  "lati": 49.964484398,
-  "FullNameUA": "проспект Петра Григоренка, 2/146"
- },
- {
-  "id": 103468,
-  "postcode": 61060,
-  "number": 2,
-  "suffix": "/144",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Фрунзенської райради 120_1, 19.07.2005",
-  "reg_date": "06.03.2019 10:27:10",
-  "longt": 36.319611174500004,
-  "lati": 49.9639622289,
-  "FullNameUA": "проспект Петра Григоренка, 2/144"
+  "longt": 36.3165452657,
+  "lati": 49.959681698,
+  "FullNameUA": "проспект Петра Григоренка, 2",
+  "ChildsIds": []
  },
  {
   "id": 180392,
@@ -122,7 +48,88 @@
   "reg_date": "15.03.2019 14:30:01",
   "longt": 36.3181503953,
   "lati": 49.9648656122,
-  "FullNameUA": "проспект Петра Григоренка, 2-Л"
+  "FullNameUA": "проспект Петра Григоренка, 2-Л",
+  "ChildsIds": []
+ },
+ {
+  "id": 103467,
+  "postcode": 61060,
+  "number": 2,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлові будівлі для охорони автостоянки літ. \"А-1\" та літ. \"Б-1\"",
+  "confrm": "500, 20.07.2016",
+  "reg_date": "26.02.2019 16:36:07",
+  "longt": 36.3181732436,
+  "lati": 49.9643593503,
+  "FullNameUA": "проспект Петра Григоренка, 2-Ж",
+  "ChildsIds": [
+   180392
+  ]
+ },
+ {
+  "id": 103468,
+  "postcode": 61060,
+  "number": 2,
+  "suffix": "/144",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Фрунзенської райради 120_1, 19.07.2005",
+  "reg_date": "06.03.2019 10:27:10",
+  "longt": 36.3196111745,
+  "lati": 49.9639622289,
+  "FullNameUA": "проспект Петра Григоренка, 2/144",
+  "ChildsIds": []
+ },
+ {
+  "id": 103470,
+  "postcode": 61060,
+  "number": 2,
+  "suffix": "/146",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3194333395,
+  "lati": 49.964484398,
+  "FullNameUA": "проспект Петра Григоренка, 2/146",
+  "ChildsIds": []
  },
  {
   "id": 103466,
@@ -147,13 +154,14 @@
   "reg_date": "",
   "longt": 36.3178445276,
   "lati": 49.9642324984,
-  "FullNameUA": "проспект Петра Григоренка, 2-А"
+  "FullNameUA": "проспект Петра Григоренка, 2-А",
+  "ChildsIds": []
  },
  {
-  "id": 103465,
+  "id": 180391,
   "postcode": 61060,
   "number": 2,
-  "suffix": "",
+  "suffix": "К",
   "block": "",
   "streetid": 3219,
   "status_id": 1,
@@ -166,13 +174,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-15\"",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.3165452657,
-  "lati": 49.959681698000004,
-  "FullNameUA": "проспект Петра Григоренка, 2"
+  "reg_date": "15.03.2019 14:28:28",
+  "longt": 36.3185927656,
+  "lati": 49.9647887486,
+  "FullNameUA": "проспект Петра Григоренка, 2-К",
+  "ChildsIds": []
  },
  {
   "id": 103472,
@@ -197,7 +206,8 @@
   "reg_date": "",
   "longt": 36.3213408797,
   "lati": 49.9646047687,
-  "FullNameUA": "проспект Петра Григоренка, 3-А"
+  "FullNameUA": "проспект Петра Григоренка, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 103471,
@@ -222,7 +232,8 @@
   "reg_date": "",
   "longt": 36.3210807945,
   "lati": 49.9649741414,
-  "FullNameUA": "проспект Петра Григоренка, 3"
+  "FullNameUA": "проспект Петра Григоренка, 3",
+  "ChildsIds": []
  },
  {
   "id": 103473,
@@ -247,7 +258,8 @@
   "reg_date": "25.07.2018 14:30:16",
   "longt": 36.3159888983,
   "lati": 49.9572806752,
-  "FullNameUA": "проспект Петра Григоренка, 4-Б"
+  "FullNameUA": "проспект Петра Григоренка, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 103475,
@@ -272,7 +284,34 @@
   "reg_date": "",
   "longt": 36.3212301541,
   "lati": 49.9638713023,
-  "FullNameUA": "проспект Петра Григоренка, 5/1"
+  "FullNameUA": "проспект Петра Григоренка, 5/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 103476,
+  "postcode": 61082,
+  "number": 5,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3219798798,
+  "lati": 49.9640899139,
+  "FullNameUA": "проспект Петра Григоренка, 5/2",
+  "ChildsIds": []
  },
  {
   "id": 103474,
@@ -297,32 +336,8 @@
   "reg_date": "",
   "longt": 36.3207558347,
   "lati": 49.9642900408,
-  "FullNameUA": "проспект Петра Григоренка, 5"
- },
- {
-  "id": 103476,
-  "postcode": 61082,
-  "number": 5,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3219798798,
-  "lati": 49.964089913900004,
-  "FullNameUA": "проспект Петра Григоренка, 5/2"
+  "FullNameUA": "проспект Петра Григоренка, 5",
+  "ChildsIds": []
  },
  {
   "id": 103477,
@@ -347,7 +362,8 @@
   "reg_date": "",
   "longt": 36.3204417958,
   "lati": 49.9636053389,
-  "FullNameUA": "проспект Петра Григоренка, 7"
+  "FullNameUA": "проспект Петра Григоренка, 7",
+  "ChildsIds": []
  },
  {
   "id": 103478,
@@ -372,7 +388,8 @@
   "reg_date": "",
   "longt": 36.3208610366,
   "lati": 49.9633983262,
-  "FullNameUA": "проспект Петра Григоренка, 7/2"
+  "FullNameUA": "проспект Петра Григоренка, 7/2",
+  "ChildsIds": []
  },
  {
   "id": 103479,
@@ -397,107 +414,8 @@
   "reg_date": "",
   "longt": 36.3201194653,
   "lati": 49.9628857526,
-  "FullNameUA": "проспект Петра Григоренка, 9/1"
- },
- {
-  "id": 169038,
-  "postcode": 61100,
-  "number": 10,
-  "suffix": "/14",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Комінтернівської  райради № 303-2, 23.10.2001",
-  "reg_date": "04.03.2019 10:53:07",
-  "longt": 36.315035041,
-  "lati": 49.9543113562,
-  "FullNameUA": "проспект Петра Григоренка, 10/14"
- },
- {
-  "id": 169035,
-  "postcode": 61100,
-  "number": 10,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3124787451,
-  "lati": 49.952093669300005,
-  "FullNameUA": "проспект Петра Григоренка, 10-В"
- },
- {
-  "id": 169034,
-  "postcode": 61100,
-  "number": 10,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.313036808300005,
-  "lati": 49.9525230504,
-  "FullNameUA": "проспект Петра Григоренка, 10-Б"
- },
- {
-  "id": 169036,
-  "postcode": 61100,
-  "number": 10,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.312977257300005,
-  "lati": 49.951672930200004,
-  "FullNameUA": "проспект Петра Григоренка, 10-Г"
+  "FullNameUA": "проспект Петра Григоренка, 9/1",
+  "ChildsIds": []
  },
  {
   "id": 169033,
@@ -522,7 +440,8 @@
   "reg_date": "",
   "longt": 36.3135907463,
   "lati": 49.9529501956,
-  "FullNameUA": "проспект Петра Григоренка, 10-А"
+  "FullNameUA": "проспект Петра Григоренка, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 169032,
@@ -547,7 +466,86 @@
   "reg_date": "",
   "longt": 36.3139275136,
   "lati": 49.9519701782,
-  "FullNameUA": "проспект Петра Григоренка, 10"
+  "FullNameUA": "проспект Петра Григоренка, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 169034,
+  "postcode": 61100,
+  "number": 10,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3130368083,
+  "lati": 49.9525230504,
+  "FullNameUA": "проспект Петра Григоренка, 10-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 169035,
+  "postcode": 61100,
+  "number": 10,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3124787451,
+  "lati": 49.9520936693,
+  "FullNameUA": "проспект Петра Григоренка, 10-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 169036,
+  "postcode": 61100,
+  "number": 10,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3129772573,
+  "lati": 49.9516729302,
+  "FullNameUA": "проспект Петра Григоренка, 10-Г",
+  "ChildsIds": []
  },
  {
   "id": 169037,
@@ -572,7 +570,34 @@
   "reg_date": "",
   "longt": 36.3119263149,
   "lati": 49.9516677016,
-  "FullNameUA": "проспект Петра Григоренка, 10-Д"
+  "FullNameUA": "проспект Петра Григоренка, 10-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 169038,
+  "postcode": 61100,
+  "number": 10,
+  "suffix": "/14",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Комінтернівської  райради № 303-2, 23.10.2001",
+  "reg_date": "04.03.2019 10:53:07",
+  "longt": 36.315035041,
+  "lati": 49.9543113562,
+  "FullNameUA": "проспект Петра Григоренка, 10/14",
+  "ChildsIds": []
  },
  {
   "id": 103480,
@@ -597,32 +622,8 @@
   "reg_date": "",
   "longt": 36.3191725109,
   "lati": 49.9606692101,
-  "FullNameUA": "проспект Петра Григоренка, 11-А"
- },
- {
-  "id": 169040,
-  "postcode": 61100,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3121334311,
-  "lati": 49.9511034294,
-  "FullNameUA": "проспект Петра Григоренка, 12-А"
+  "FullNameUA": "проспект Петра Григоренка, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 176199,
@@ -646,8 +647,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3112483314,
-  "lati": 49.950502326000006,
-  "FullNameUA": "проспект Петра Григоренка, 12-Г"
+  "lati": 49.950502326,
+  "FullNameUA": "проспект Петра Григоренка, 12-Г",
+  "ChildsIds": []
  },
  {
   "id": 169042,
@@ -670,9 +672,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312141949200004,
-  "lati": 49.949940790599996,
-  "FullNameUA": "проспект Петра Григоренка, 12-В"
+  "longt": 36.3121419492,
+  "lati": 49.9499407906,
+  "FullNameUA": "проспект Петра Григоренка, 12-В",
+  "ChildsIds": []
  },
  {
   "id": 169041,
@@ -697,7 +700,8 @@
   "reg_date": "",
   "longt": 36.3122967843,
   "lati": 49.9504465966,
-  "FullNameUA": "проспект Петра Григоренка, 12-Б"
+  "FullNameUA": "проспект Петра Григоренка, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 169039,
@@ -722,7 +726,34 @@
   "reg_date": "",
   "longt": 36.31295328,
   "lati": 49.9501110017,
-  "FullNameUA": "проспект Петра Григоренка, 12"
+  "FullNameUA": "проспект Петра Григоренка, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 169040,
+  "postcode": 61100,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3121334311,
+  "lati": 49.9511034294,
+  "FullNameUA": "проспект Петра Григоренка, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 179996,
@@ -746,8 +777,11 @@
   "confrm": "",
   "reg_date": "07.12.2018 15:24:02",
   "longt": 36.3111334764,
-  "lati": 49.949739217899996,
-  "FullNameUA": "проспект Петра Григоренка, 12-В, гараж № 39"
+  "lati": 49.9497392179,
+  "FullNameUA": "проспект Петра Григоренка, 12-В, гараж № 39",
+  "ChildsIds": [
+   179995
+  ]
  },
  {
   "id": 103481,
@@ -770,9 +804,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318716749100005,
+  "longt": 36.3187167491,
   "lati": 49.9598087115,
-  "FullNameUA": "проспект Петра Григоренка, 13"
+  "FullNameUA": "проспект Петра Григоренка, 13",
+  "ChildsIds": []
  },
  {
   "id": 169043,
@@ -795,34 +830,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 7, 21.01.2010; Рішення ВК ХМР № 46, 22.01.2014 (квартира 211)",
   "reg_date": "16.01.2019 15:18:17",
-  "longt": 36.312468956100005,
+  "longt": 36.3124689561,
   "lati": 49.9481303606,
-  "FullNameUA": "проспект Петра Григоренка, 14"
- },
- {
-  "id": 103482,
-  "postcode": 61091,
-  "number": 15,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3199207874,
-  "lati": 49.9583642886,
-  "FullNameUA": "проспект Петра Григоренка, 15/1"
+  "FullNameUA": "проспект Петра Григоренка, 14",
+  "ChildsIds": []
  },
  {
   "id": 103483,
@@ -847,7 +858,34 @@
   "reg_date": "",
   "longt": 36.3215221819,
   "lati": 49.9582468487,
-  "FullNameUA": "проспект Петра Григоренка, 15/2"
+  "FullNameUA": "проспект Петра Григоренка, 15/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 103482,
+  "postcode": 61091,
+  "number": 15,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3199207874,
+  "lati": 49.9583642886,
+  "FullNameUA": "проспект Петра Григоренка, 15/1",
+  "ChildsIds": []
  },
  {
   "id": 169044,
@@ -872,7 +910,8 @@
   "reg_date": "28.12.2019 12:22:10",
   "longt": 36.3129098561,
   "lati": 49.9473501504,
-  "FullNameUA": "проспект Петра Григоренка, 16"
+  "FullNameUA": "проспект Петра Григоренка, 16",
+  "ChildsIds": []
  },
  {
   "id": 103484,
@@ -896,8 +935,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3182148877,
-  "lati": 49.958276268700004,
-  "FullNameUA": "проспект Петра Григоренка, 17"
+  "lati": 49.9582762687,
+  "FullNameUA": "проспект Петра Григоренка, 17",
+  "ChildsIds": []
  },
  {
   "id": 169047,
@@ -922,13 +962,14 @@
   "reg_date": "28.02.2019 11:34:24",
   "longt": 36.3129692945,
   "lati": 49.9460257107,
-  "FullNameUA": "проспект Петра Григоренка, 18-В"
+  "FullNameUA": "проспект Петра Григоренка, 18-В",
+  "ChildsIds": []
  },
  {
-  "id": 169046,
+  "id": 169048,
   "postcode": 61100,
   "number": 18,
-  "suffix": "А",
+  "suffix": "/1",
   "block": "",
   "streetid": 3219,
   "status_id": 1,
@@ -943,11 +984,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "7, 21.01.2010",
   "reg_date": "",
-  "longt": 36.310348257600005,
-  "lati": 49.9467403795,
-  "FullNameUA": "проспект Петра Григоренка, 18-А"
+  "longt": 36.3129297844,
+  "lati": 49.9482271386,
+  "FullNameUA": "проспект Петра Григоренка, 18/1",
+  "ChildsIds": []
  },
  {
   "id": 176475,
@@ -971,14 +1013,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3110789624,
-  "lati": 49.946860240999996,
-  "FullNameUA": "проспект Петра Григоренка, 18-Б"
+  "lati": 49.946860241,
+  "FullNameUA": "проспект Петра Григоренка, 18-Б",
+  "ChildsIds": []
  },
  {
-  "id": 169048,
+  "id": 169046,
   "postcode": 61100,
   "number": 18,
-  "suffix": "/1",
+  "suffix": "А",
   "block": "",
   "streetid": 3219,
   "status_id": 1,
@@ -993,11 +1036,14 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "7, 21.01.2010",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.312929784400005,
-  "lati": 49.9482271386,
-  "FullNameUA": "проспект Петра Григоренка, 18/1"
+  "longt": 36.3103482576,
+  "lati": 49.9467403795,
+  "FullNameUA": "проспект Петра Григоренка, 18-А",
+  "ChildsIds": [
+   169044
+  ]
  },
  {
   "id": 103486,
@@ -1020,9 +1066,10 @@
   "same_adr_comm": "торговельний павільйон літ. \"Б-1\"",
   "confrm": "Рішення ВК ХМР № 526, 14.08.2013",
   "reg_date": "16.05.2018 12:42:28",
-  "longt": 36.319216336500006,
+  "longt": 36.3192163365,
   "lati": 49.9572071157,
-  "FullNameUA": "проспект Петра Григоренка, 19-А"
+  "FullNameUA": "проспект Петра Григоренка, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 103485,
@@ -1046,8 +1093,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3179170322,
-  "lati": 49.957396620800004,
-  "FullNameUA": "проспект Петра Григоренка, 19"
+  "lati": 49.9573966208,
+  "FullNameUA": "проспект Петра Григоренка, 19",
+  "ChildsIds": []
  },
  {
   "id": 103487,
@@ -1072,7 +1120,8 @@
   "reg_date": "27.02.2019 12:46:14",
   "longt": 36.318067796,
   "lati": 49.9571056452,
-  "FullNameUA": "проспект Петра Григоренка, 19-Б, гараж № 1"
+  "FullNameUA": "проспект Петра Григоренка, 19-Б, гараж № 1",
+  "ChildsIds": []
  },
  {
   "id": 176474,
@@ -1095,9 +1144,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.311588169400004,
+  "longt": 36.3115881694,
   "lati": 49.946452285,
-  "FullNameUA": "проспект Петра Григоренка, 20/3"
+  "FullNameUA": "проспект Петра Григоренка, 20/3",
+  "ChildsIds": []
  },
  {
   "id": 169045,
@@ -1120,9 +1170,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:500",
   "reg_date": "",
-  "longt": 36.313016052600005,
+  "longt": 36.3130160526,
   "lati": 49.9467104938,
-  "FullNameUA": "проспект Петра Григоренка, 20"
+  "FullNameUA": "проспект Петра Григоренка, 20",
+  "ChildsIds": []
  },
  {
   "id": 103488,
@@ -1145,9 +1196,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317349283300004,
+  "longt": 36.3173492833,
   "lati": 49.956825524,
-  "FullNameUA": "проспект Петра Григоренка, 21"
+  "FullNameUA": "проспект Петра Григоренка, 21",
+  "ChildsIds": []
  },
  {
   "id": 103489,
@@ -1172,7 +1224,8 @@
   "reg_date": "",
   "longt": 36.3183693415,
   "lati": 49.9567915804,
-  "FullNameUA": "проспект Петра Григоренка, 21/1"
+  "FullNameUA": "проспект Петра Григоренка, 21/1",
+  "ChildsIds": []
  },
  {
   "id": 169049,
@@ -1196,8 +1249,9 @@
   "confrm": "Рішення ВК Комінтернівської  райради № 156-1, 15.06.2004",
   "reg_date": "04.03.2019 12:32:40",
   "longt": 36.3128110736,
-  "lati": 49.944944834699996,
-  "FullNameUA": "проспект Петра Григоренка, 22"
+  "lati": 49.9449448347,
+  "FullNameUA": "проспект Петра Григоренка, 22",
+  "ChildsIds": []
  },
  {
   "id": 169050,
@@ -1221,8 +1275,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3161257859,
-  "lati": 49.953728347900004,
-  "FullNameUA": "проспект Петра Григоренка, 23"
+  "lati": 49.9537283479,
+  "FullNameUA": "проспект Петра Григоренка, 23",
+  "ChildsIds": []
  },
  {
   "id": 169051,
@@ -1247,7 +1302,8 @@
   "reg_date": "",
   "longt": 36.3165275757,
   "lati": 49.9536132108,
-  "FullNameUA": "проспект Петра Григоренка, 25"
+  "FullNameUA": "проспект Петра Григоренка, 25",
+  "ChildsIds": []
  },
  {
   "id": 169052,
@@ -1270,9 +1326,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.316077356600005,
-  "lati": 49.953068181000006,
-  "FullNameUA": "проспект Петра Григоренка, 27"
+  "longt": 36.3160773566,
+  "lati": 49.953068181,
+  "FullNameUA": "проспект Петра Григоренка, 27",
+  "ChildsIds": []
  },
  {
   "id": 169053,
@@ -1295,9 +1352,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315510260500005,
-  "lati": 49.952694149200006,
-  "FullNameUA": "проспект Петра Григоренка, 31"
+  "longt": 36.3155102605,
+  "lati": 49.9526941492,
+  "FullNameUA": "проспект Петра Григоренка, 31",
+  "ChildsIds": []
  },
  {
   "id": 169054,
@@ -1322,7 +1380,8 @@
   "reg_date": "",
   "longt": 36.31603658,
   "lati": 49.9523021718,
-  "FullNameUA": "проспект Петра Григоренка, 33"
+  "FullNameUA": "проспект Петра Григоренка, 33",
+  "ChildsIds": []
  },
  {
   "id": 169057,
@@ -1347,7 +1406,8 @@
   "reg_date": "",
   "longt": 36.3158006266,
   "lati": 49.9515491618,
-  "FullNameUA": "проспект Петра Григоренка, 35/1"
+  "FullNameUA": "проспект Петра Григоренка, 35/1",
+  "ChildsIds": []
  },
  {
   "id": 169056,
@@ -1370,9 +1430,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.316735355000006,
-  "lati": 49.951715327900004,
-  "FullNameUA": "проспект Петра Григоренка, 35-А"
+  "longt": 36.316735355,
+  "lati": 49.9517153279,
+  "FullNameUA": "проспект Петра Григоренка, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 169055,
@@ -1397,7 +1458,8 @@
   "reg_date": "",
   "longt": 36.3154114534,
   "lati": 49.9517046707,
-  "FullNameUA": "проспект Петра Григоренка, 35"
+  "FullNameUA": "проспект Петра Григоренка, 35",
+  "ChildsIds": []
  },
  {
   "id": 169058,
@@ -1422,7 +1484,8 @@
   "reg_date": "",
   "longt": 36.3147554748,
   "lati": 49.9512783988,
-  "FullNameUA": "проспект Петра Григоренка, 37"
+  "FullNameUA": "проспект Петра Григоренка, 37",
+  "ChildsIds": []
  },
  {
   "id": 169059,
@@ -1447,7 +1510,8 @@
   "reg_date": "",
   "longt": 36.314202877,
   "lati": 49.9499668789,
-  "FullNameUA": "проспект Петра Григоренка, 39"
+  "FullNameUA": "проспект Петра Григоренка, 39",
+  "ChildsIds": []
  },
  {
   "id": 169060,
@@ -1470,9 +1534,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315208493700005,
+  "longt": 36.3152084937,
   "lati": 49.9505754743,
-  "FullNameUA": "проспект Петра Григоренка, 41"
+  "FullNameUA": "проспект Петра Григоренка, 41",
+  "ChildsIds": []
  },
  {
   "id": 169061,
@@ -1497,7 +1562,8 @@
   "reg_date": "",
   "longt": 36.3169826465,
   "lati": 49.9535615495,
-  "FullNameUA": "проспект Петра Григоренка, 45"
+  "FullNameUA": "проспект Петра Григоренка, 45",
+  "ChildsIds": []
  },
  {
   "id": 169062,
@@ -1521,8 +1587,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3143055653,
-  "lati": 49.947624908099996,
-  "FullNameUA": "проспект Петра Григоренка, 49"
+  "lati": 49.9476249081,
+  "FullNameUA": "проспект Петра Григоренка, 49",
+  "ChildsIds": []
  },
  {
   "id": 169063,
@@ -1546,8 +1613,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3142149971,
-  "lati": 49.946649129899996,
-  "FullNameUA": "проспект Петра Григоренка, 51"
+  "lati": 49.9466491299,
+  "FullNameUA": "проспект Петра Григоренка, 51",
+  "ChildsIds": []
  },
  {
   "id": 169064,
@@ -1570,34 +1638,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.314281571900004,
+  "longt": 36.3142815719,
   "lati": 49.9460427825,
-  "FullNameUA": "проспект Петра Григоренка, 53"
- },
- {
-  "id": 169065,
-  "postcode": 61096,
-  "number": 55,
-  "suffix": "",
-  "block": "",
-  "streetid": 3219,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3143565429,
-  "lati": 49.9454273805,
-  "FullNameUA": "проспект Петра Григоренка, 55"
+  "FullNameUA": "проспект Петра Григоренка, 53",
+  "ChildsIds": []
  },
  {
   "id": 169066,
@@ -1622,6 +1666,33 @@
   "reg_date": "",
   "longt": 36.3141953322,
   "lati": 49.9450961633,
-  "FullNameUA": "проспект Петра Григоренка, 55/1"
+  "FullNameUA": "проспект Петра Григоренка, 55/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 169065,
+  "postcode": 61096,
+  "number": 55,
+  "suffix": "",
+  "block": "",
+  "streetid": 3219,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3143565429,
+  "lati": 49.9454273805,
+  "FullNameUA": "проспект Петра Григоренка, 55",
+  "ChildsIds": []
  }
 ]

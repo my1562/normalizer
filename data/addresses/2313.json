@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.138862520500005,
+  "longt": 36.1388625205,
   "lati": 49.9351030502,
-  "FullNameUA": "в'їзд Верхній, 1"
+  "FullNameUA": "в'їзд Верхній, 1",
+  "ChildsIds": []
  },
  {
   "id": 147813,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.138713853300004,
+  "longt": 36.1387138533,
   "lati": 49.9349668774,
-  "FullNameUA": "в'їзд Верхній, 2"
+  "FullNameUA": "в'їзд Верхній, 2",
+  "ChildsIds": []
  },
  {
   "id": 147814,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1390159362,
   "lati": 49.9349937518,
-  "FullNameUA": "в'їзд Верхній, 3"
+  "FullNameUA": "в'їзд Верхній, 3",
+  "ChildsIds": []
  },
  {
   "id": 147815,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1391524119,
   "lati": 49.9347204754,
-  "FullNameUA": "в'їзд Верхній, 4"
+  "FullNameUA": "в'їзд Верхній, 4",
+  "ChildsIds": []
  },
  {
   "id": 147816,
@@ -122,6 +126,7 @@
   "reg_date": "",
   "longt": 36.13940722,
   "lati": 49.9345650234,
-  "FullNameUA": "в'їзд Верхній, 6"
+  "FullNameUA": "в'їзд Верхній, 6",
+  "ChildsIds": []
  }
 ]

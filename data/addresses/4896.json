@@ -1,5 +1,57 @@
 [
  {
+  "id": 182763,
+  "postcode": 61033,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:08:001:0141)\n\n",
+  "confrm": "",
+  "reg_date": "04.05.2020 12:33:34",
+  "longt": 36.3044557958,
+  "lati": 50.024059004,
+  "FullNameUA": "провулок Клеменова Дача, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182766,
+  "postcode": 61033,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 4896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:08:001:0138)",
+  "confrm": "",
+  "reg_date": "04.05.2020 12:28:52",
+  "longt": 36.3048318573,
+  "lati": 50.0245572474,
+  "FullNameUA": "провулок Клеменова Дача, 13",
+  "ChildsIds": []
+ },
+ {
   "id": 178696,
   "postcode": 61033,
   "number": 15,
@@ -20,8 +72,9 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 4; Рішення ВК ХМР № 274, 25.04.2017",
   "reg_date": "24.01.2018 15:28:54",
-  "longt": 36.30505938420001,
+  "longt": 36.3050593842,
   "lati": 50.0243357302,
-  "FullNameUA": "провулок Клеменова Дача, 15"
+  "FullNameUA": "провулок Клеменова Дача, 15",
+  "ChildsIds": []
  }
 ]

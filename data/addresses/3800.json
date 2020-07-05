@@ -1,5 +1,341 @@
 [
  {
+  "id": 182796,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "04.05.2020 16:14:26",
+  "longt": 36.2200465086,
+  "lati": 49.9986221211,
+  "FullNameUA": "вулиця Рогатинська Левада, 4",
+  "ChildsIds": [
+   118893
+  ]
+ },
+ {
+  "id": 182717,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "256",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:52:38",
+  "longt": 36.2198437641,
+  "lati": 49.998813082,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 256",
+  "ChildsIds": [
+   182720
+  ]
+ },
+ {
+  "id": 182718,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "257",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:53:35",
+  "longt": 36.2198626142,
+  "lati": 49.9988544557,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 257",
+  "ChildsIds": [
+   182721
+  ]
+ },
+ {
+  "id": 182702,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "72",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:39:37",
+  "longt": 36.219734365,
+  "lati": 49.9985659208,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 72",
+  "ChildsIds": [
+   182700
+  ]
+ },
+ {
+  "id": 182703,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "73",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:40:29",
+  "longt": 36.2197486548,
+  "lati": 49.9985921184,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 73",
+  "ChildsIds": [
+   182701
+  ]
+ },
+ {
+  "id": 182705,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "74",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:44:45",
+  "longt": 36.2197561524,
+  "lati": 49.998618347,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 74",
+  "ChildsIds": [
+   182704
+  ]
+ },
+ {
+  "id": 182707,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "75",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:45:35",
+  "longt": 36.2197688288,
+  "lati": 49.9986455456,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 75",
+  "ChildsIds": [
+   182706
+  ]
+ },
+ {
+  "id": 182708,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "76",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:47:10",
+  "longt": 36.2197807344,
+  "lati": 49.998668835,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 76",
+  "ChildsIds": [
+   182709
+  ]
+ },
+ {
+  "id": 182710,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "77",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:48:21",
+  "longt": 36.2197934081,
+  "lati": 49.9986954403,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 77",
+  "ChildsIds": [
+   182711
+  ]
+ },
+ {
+  "id": 182712,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "78",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:49:08",
+  "longt": 36.2198053419,
+  "lati": 49.9987218582,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 78",
+  "ChildsIds": [
+   182714
+  ]
+ },
+ {
+  "id": 182713,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "79",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:50:17",
+  "longt": 36.2198165289,
+  "lati": 49.998749671,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 79",
+  "ChildsIds": [
+   182716
+  ]
+ },
+ {
+  "id": 182715,
+  "postcode": 61058,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "80",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "24.04.2020 14:51:37",
+  "longt": 36.2198273583,
+  "lati": 49.9987755516,
+  "FullNameUA": "вулиця Рогатинська Левада, 4, гараж № 80",
+  "ChildsIds": [
+   182719
+  ]
+ },
+ {
   "id": 180457,
   "postcode": 61058,
   "number": 6,
@@ -22,7 +358,8 @@
   "reg_date": "21.03.2019 16:31:32",
   "longt": 36.2180818599,
   "lati": 49.9977708965,
-  "FullNameUA": "вулиця Рогатинська Левада, 6"
+  "FullNameUA": "вулиця Рогатинська Левада, 6",
+  "ChildsIds": []
  },
  {
   "id": 179989,
@@ -47,7 +384,8 @@
   "reg_date": "06.12.2018 16:23:00",
   "longt": 36.2184175868,
   "lati": 49.9982572041,
-  "FullNameUA": "вулиця Рогатинська Левада, 8"
+  "FullNameUA": "вулиця Рогатинська Левада, 8",
+  "ChildsIds": []
  },
  {
   "id": 179990,
@@ -72,7 +410,8 @@
   "reg_date": "06.12.2018 16:37:29",
   "longt": 36.2185787587,
   "lati": 49.9987748037,
-  "FullNameUA": "вулиця Рогатинська Левада, 10"
+  "FullNameUA": "вулиця Рогатинська Левада, 10",
+  "ChildsIds": []
  },
  {
   "id": 179991,
@@ -96,8 +435,9 @@
   "confrm": "",
   "reg_date": "07.12.2018 09:37:17",
   "longt": 36.2188069236,
-  "lati": 49.999246181400004,
-  "FullNameUA": "вулиця Рогатинська Левада, 12"
+  "lati": 49.9992461814,
+  "FullNameUA": "вулиця Рогатинська Левада, 12",
+  "ChildsIds": []
  },
  {
   "id": 180846,
@@ -120,9 +460,36 @@
   "same_adr_comm": "житловий будинок № 4 літ. \"Л-16\"",
   "confrm": "",
   "reg_date": "05.06.2019 10:51:57",
-  "longt": 36.217716937300004,
+  "longt": 36.2177169373,
   "lati": 49.9981254942,
-  "FullNameUA": "вулиця Рогатинська Левада, 14"
+  "FullNameUA": "вулиця Рогатинська Левада, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 180845,
+  "postcode": 61058,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3800,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок № 2 літ. \"К-16\" ",
+  "confrm": "",
+  "reg_date": "05.06.2019 10:49:12",
+  "longt": 36.2174493019,
+  "lati": 49.9985139731,
+  "FullNameUA": "вулиця Рогатинська Левада, 16",
+  "ChildsIds": []
  },
  {
   "id": 179992,
@@ -147,32 +514,8 @@
   "reg_date": "07.12.2018 10:13:50",
   "longt": 36.2167034562,
   "lati": 49.99855951,
-  "FullNameUA": "вулиця Рогатинська Левада, 16-А"
- },
- {
-  "id": 180845,
-  "postcode": 61058,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3800,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок № 2 літ. \"К-16\" ",
-  "confrm": "",
-  "reg_date": "05.06.2019 10:49:12",
-  "longt": 36.217449301900004,
-  "lati": 49.9985139731,
-  "FullNameUA": "вулиця Рогатинська Левада, 16"
+  "FullNameUA": "вулиця Рогатинська Левада, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 180844,
@@ -197,7 +540,8 @@
   "reg_date": "05.06.2019 10:48:22",
   "longt": 36.2178010452,
   "lati": 49.9987723333,
-  "FullNameUA": "вулиця Рогатинська Левада, 18"
+  "FullNameUA": "вулиця Рогатинська Левада, 18",
+  "ChildsIds": []
  },
  {
   "id": 179993,
@@ -222,6 +566,7 @@
   "reg_date": "07.12.2018 10:15:35",
   "longt": 36.2167657171,
   "lati": 49.9989251929,
-  "FullNameUA": "вулиця Рогатинська Левада, 18-А"
+  "FullNameUA": "вулиця Рогатинська Левада, 18-А",
+  "ChildsIds": []
  }
 ]

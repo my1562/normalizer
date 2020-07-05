@@ -1,5 +1,33 @@
 [
  {
+  "id": 177966,
+  "postcode": 61125,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Червонозаводської райради 192, 27.04.2005",
+  "reg_date": "16.12.2019 17:48:18",
+  "longt": 36.2405540654,
+  "lati": 49.9827331319,
+  "FullNameUA": "проспект Гагаріна, 1-А",
+  "ChildsIds": [
+   167274
+  ]
+ },
+ {
   "id": 159498,
   "postcode": 61001,
   "number": 1,
@@ -21,33 +49,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2457958507,
-  "lati": 49.983792226400006,
-  "FullNameUA": "проспект Гагаріна, 1"
- },
- {
-  "id": 177966,
-  "postcode": 61125,
-  "number": 1,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Червонозаводської райради 192, 27.04.2005",
-  "reg_date": "16.12.2019 17:48:18",
-  "longt": 36.240554065400005,
-  "lati": 49.982733131900005,
-  "FullNameUA": "проспект Гагаріна, 1-А"
+  "lati": 49.9837922264,
+  "FullNameUA": "проспект Гагаріна, 1",
+  "ChildsIds": []
  },
  {
   "id": 159500,
@@ -71,8 +75,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2437662902,
-  "lati": 49.98399744740001,
-  "FullNameUA": "проспект Гагаріна, 2-А"
+  "lati": 49.9839974474,
+  "FullNameUA": "проспект Гагаріна, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 159499,
@@ -97,7 +102,8 @@
   "reg_date": "",
   "longt": 36.2446736544,
   "lati": 49.9841928569,
-  "FullNameUA": "проспект Гагаріна, 2"
+  "FullNameUA": "проспект Гагаріна, 2",
+  "ChildsIds": []
  },
  {
   "id": 159501,
@@ -121,33 +127,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2447012027,
-  "lati": 49.983691793300004,
-  "FullNameUA": "проспект Гагаріна, 4"
- },
- {
-  "id": 159502,
-  "postcode": 61001,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2464053467,
-  "lati": 49.982143536200006,
-  "FullNameUA": "проспект Гагаріна, 7"
+  "lati": 49.9836917933,
+  "FullNameUA": "проспект Гагаріна, 4",
+  "ChildsIds": []
  },
  {
   "id": 179980,
@@ -172,7 +154,60 @@
   "reg_date": "",
   "longt": 36.2474937601,
   "lati": 49.9826223422,
-  "FullNameUA": "проспект Гагаріна, 7-Б"
+  "FullNameUA": "проспект Гагаріна, 7-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159502,
+  "postcode": 61001,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2464053467,
+  "lati": 49.9821435362,
+  "FullNameUA": "проспект Гагаріна, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 159503,
+  "postcode": 61010,
+  "number": 10,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2453249256,
+  "lati": 49.9830196829,
+  "FullNameUA": "проспект Гагаріна, 10/1",
+  "ChildsIds": []
  },
  {
   "id": 159504,
@@ -197,32 +232,8 @@
   "reg_date": "",
   "longt": 36.2455926464,
   "lati": 49.9827098856,
-  "FullNameUA": "проспект Гагаріна, 10/2"
- },
- {
-  "id": 159503,
-  "postcode": 61010,
-  "number": 10,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2453249256,
-  "lati": 49.98301968290001,
-  "FullNameUA": "проспект Гагаріна, 10/1"
+  "FullNameUA": "проспект Гагаріна, 10/2",
+  "ChildsIds": []
  },
  {
   "id": 159505,
@@ -245,9 +256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246570898200005,
-  "lati": 49.981811795300004,
-  "FullNameUA": "проспект Гагаріна, 11"
+  "longt": 36.2465708982,
+  "lati": 49.9818117953,
+  "FullNameUA": "проспект Гагаріна, 11",
+  "ChildsIds": []
  },
  {
   "id": 159507,
@@ -271,8 +283,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2456358358,
-  "lati": 49.982498089900005,
-  "FullNameUA": "проспект Гагаріна, 12-А"
+  "lati": 49.9824980899,
+  "FullNameUA": "проспект Гагаріна, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 159506,
@@ -295,9 +308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244334548000005,
+  "longt": 36.244334548,
   "lati": 49.981951358,
-  "FullNameUA": "проспект Гагаріна, 12"
+  "FullNameUA": "проспект Гагаріна, 12",
+  "ChildsIds": []
  },
  {
   "id": 159509,
@@ -322,7 +336,8 @@
   "reg_date": "",
   "longt": 36.2466192026,
   "lati": 49.9814302412,
-  "FullNameUA": "проспект Гагаріна, 13-А"
+  "FullNameUA": "проспект Гагаріна, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 159508,
@@ -347,7 +362,8 @@
   "reg_date": "",
   "longt": 36.24687358,
   "lati": 49.9815872694,
-  "FullNameUA": "проспект Гагаріна, 13"
+  "FullNameUA": "проспект Гагаріна, 13",
+  "ChildsIds": []
  },
  {
   "id": 159510,
@@ -370,9 +386,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.245818828000004,
-  "lati": 49.982212258400004,
-  "FullNameUA": "проспект Гагаріна, 14"
+  "longt": 36.245818828,
+  "lati": 49.9822122584,
+  "FullNameUA": "проспект Гагаріна, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 159511,
+  "postcode": 61001,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2471493315,
+  "lati": 49.9810408096,
+  "FullNameUA": "проспект Гагаріна, 15",
+  "ChildsIds": []
  },
  {
   "id": 159512,
@@ -397,32 +440,8 @@
   "reg_date": "04.03.2019 12:24:45",
   "longt": 36.2473055028,
   "lati": 49.9812576774,
-  "FullNameUA": "проспект Гагаріна, 15-А"
- },
- {
-  "id": 159511,
-  "postcode": 61001,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.247149331500005,
-  "lati": 49.9810408096,
-  "FullNameUA": "проспект Гагаріна, 15"
+  "FullNameUA": "проспект Гагаріна, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 159513,
@@ -447,7 +466,8 @@
   "reg_date": "",
   "longt": 36.2467881536,
   "lati": 49.9811150485,
-  "FullNameUA": "проспект Гагаріна, 17"
+  "FullNameUA": "проспект Гагаріна, 17",
+  "ChildsIds": []
  },
  {
   "id": 159514,
@@ -470,9 +490,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246897911800005,
+  "longt": 36.2468979118,
   "lati": 49.9806646926,
-  "FullNameUA": "проспект Гагаріна, 19"
+  "FullNameUA": "проспект Гагаріна, 19",
+  "ChildsIds": []
  },
  {
   "id": 159516,
@@ -495,9 +516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.245375709600005,
-  "lati": 49.981399681000006,
-  "FullNameUA": "проспект Гагаріна, 20-А"
+  "longt": 36.2453757096,
+  "lati": 49.981399681,
+  "FullNameUA": "проспект Гагаріна, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 159515,
@@ -522,7 +544,8 @@
   "reg_date": "",
   "longt": 36.2461694303,
   "lati": 49.9807961885,
-  "FullNameUA": "проспект Гагаріна, 20"
+  "FullNameUA": "проспект Гагаріна, 20",
+  "ChildsIds": []
  },
  {
   "id": 159517,
@@ -547,107 +570,8 @@
   "reg_date": "",
   "longt": 36.2471380049,
   "lati": 49.9799625139,
-  "FullNameUA": "проспект Гагаріна, 21"
- },
- {
-  "id": 159518,
-  "postcode": 61001,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2463036452,
-  "lati": 49.9793428754,
-  "FullNameUA": "проспект Гагаріна, 22"
- },
- {
-  "id": 177819,
-  "postcode": 61001,
-  "number": 22,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2429552033,
-  "lati": 49.98059197480001,
-  "FullNameUA": "проспект Гагаріна, 22-Г"
- },
- {
-  "id": 159520,
-  "postcode": 61001,
-  "number": 22,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Червонозаводської  райради № 407, 10.12.2003",
-  "reg_date": "04.03.2019 16:45:13",
-  "longt": 36.243408409800004,
-  "lati": 49.9804178683,
-  "FullNameUA": "проспект Гагаріна, 22-В"
- },
- {
-  "id": 177965,
-  "postcode": 61140,
-  "number": 22,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Червонозаводської райради 192, 27.04.2005",
-  "reg_date": "06.12.2019 10:21:53",
-  "longt": 36.241988449800004,
-  "lati": 49.98111706980001,
-  "FullNameUA": "проспект Гагаріна, 22-Б"
+  "FullNameUA": "проспект Гагаріна, 21",
+  "ChildsIds": []
  },
  {
   "id": 159519,
@@ -670,9 +594,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244454057300004,
+  "longt": 36.2444540573,
   "lati": 49.9800988141,
-  "FullNameUA": "проспект Гагаріна, 22-А"
+  "FullNameUA": "проспект Гагаріна, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159520,
+  "postcode": 61001,
+  "number": 22,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Червонозаводської  райради № 407, 10.12.2003",
+  "reg_date": "04.03.2019 16:45:13",
+  "longt": 36.2434084098,
+  "lati": 49.9804178683,
+  "FullNameUA": "проспект Гагаріна, 22-В",
+  "ChildsIds": []
  },
  {
   "id": 179648,
@@ -697,7 +648,88 @@
   "reg_date": "",
   "longt": 36.2433967994,
   "lati": 49.9801524678,
-  "FullNameUA": "проспект Гагаріна, 22-Д"
+  "FullNameUA": "проспект Гагаріна, 22-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 177819,
+  "postcode": 61001,
+  "number": 22,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2429552033,
+  "lati": 49.9805919748,
+  "FullNameUA": "проспект Гагаріна, 22-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 177965,
+  "postcode": 61140,
+  "number": 22,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Червонозаводської райради 192, 27.04.2005",
+  "reg_date": "06.12.2019 10:21:53",
+  "longt": 36.2419884498,
+  "lati": 49.9811170698,
+  "FullNameUA": "проспект Гагаріна, 22-Б",
+  "ChildsIds": [
+   167281
+  ]
+ },
+ {
+  "id": 159518,
+  "postcode": 61001,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2463036452,
+  "lati": 49.9793428754,
+  "FullNameUA": "проспект Гагаріна, 22",
+  "ChildsIds": []
  },
  {
   "id": 159521,
@@ -720,134 +752,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.247633613000005,
+  "longt": 36.247633613,
   "lati": 49.9795502581,
-  "FullNameUA": "проспект Гагаріна, 23"
- },
- {
-  "id": 159526,
-  "postcode": 61001,
-  "number": 24,
-  "suffix": "/36А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "нежитлова будівля, магазин",
-  "confrm": "",
-  "reg_date": "04.04.2019 14:09:38",
-  "longt": 36.2489989477,
-  "lati": 49.9780716911,
-  "FullNameUA": "проспект Гагаріна, 24/36А"
- },
- {
-  "id": 180771,
-  "postcode": 61001,
-  "number": 24,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.246935839900004,
-  "lati": 49.9788090571,
-  "FullNameUA": "проспект Гагаріна, 24-Д"
- },
- {
-  "id": 159525,
-  "postcode": 61001,
-  "number": 24,
-  "suffix": "/36",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2487603796,
-  "lati": 49.9781858395,
-  "FullNameUA": "проспект Гагаріна, 24/36"
- },
- {
-  "id": 159523,
-  "postcode": 61001,
-  "number": 24,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "02.04.2019 14:59:20",
-  "longt": 36.249627763300005,
-  "lati": 49.9777669413,
-  "FullNameUA": "проспект Гагаріна, 24-Б"
- },
- {
-  "id": 159524,
-  "postcode": 61001,
-  "number": 24,
-  "suffix": "/30",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2485248726,
-  "lati": 49.9782957645,
-  "FullNameUA": "проспект Гагаріна, 24/30"
+  "FullNameUA": "проспект Гагаріна, 23",
+  "ChildsIds": []
  },
  {
   "id": 159522,
@@ -872,7 +780,138 @@
   "reg_date": "",
   "longt": 36.2493490194,
   "lati": 49.9778872382,
-  "FullNameUA": "проспект Гагаріна, 24"
+  "FullNameUA": "проспект Гагаріна, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 159523,
+  "postcode": 61001,
+  "number": 24,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "02.04.2019 14:59:20",
+  "longt": 36.2496277633,
+  "lati": 49.9777669413,
+  "FullNameUA": "проспект Гагаріна, 24-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 180771,
+  "postcode": 61001,
+  "number": 24,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2469358399,
+  "lati": 49.9788090571,
+  "FullNameUA": "проспект Гагаріна, 24-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 159525,
+  "postcode": 61001,
+  "number": 24,
+  "suffix": "/36",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2487603796,
+  "lati": 49.9781858395,
+  "FullNameUA": "проспект Гагаріна, 24/36",
+  "ChildsIds": []
+ },
+ {
+  "id": 159526,
+  "postcode": 61001,
+  "number": 24,
+  "suffix": "/36А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "нежитлова будівля, магазин",
+  "confrm": "",
+  "reg_date": "04.04.2019 14:09:38",
+  "longt": 36.2489989477,
+  "lati": 49.9780716911,
+  "FullNameUA": "проспект Гагаріна, 24/36А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159524,
+  "postcode": 61001,
+  "number": 24,
+  "suffix": "/30",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2485248726,
+  "lati": 49.9782957645,
+  "FullNameUA": "проспект Гагаріна, 24/30",
+  "ChildsIds": []
  },
  {
   "id": 159527,
@@ -897,7 +936,8 @@
   "reg_date": "",
   "longt": 36.2477999142,
   "lati": 49.9786279547,
-  "FullNameUA": "проспект Гагаріна, 26"
+  "FullNameUA": "проспект Гагаріна, 26",
+  "ChildsIds": []
  },
  {
   "id": 159528,
@@ -922,7 +962,8 @@
   "reg_date": "",
   "longt": 36.2482670125,
   "lati": 49.9783629202,
-  "FullNameUA": "проспект Гагаріна, 28"
+  "FullNameUA": "проспект Гагаріна, 28",
+  "ChildsIds": []
  },
  {
   "id": 159529,
@@ -947,7 +988,8 @@
   "reg_date": "04.03.2019 14:04:38",
   "longt": 36.2500218333,
   "lati": 49.9767493851,
-  "FullNameUA": "проспект Гагаріна, 30"
+  "FullNameUA": "проспект Гагаріна, 30",
+  "ChildsIds": []
  },
  {
   "id": 159530,
@@ -972,7 +1014,8 @@
   "reg_date": "",
   "longt": 36.2494760429,
   "lati": 49.9784969103,
-  "FullNameUA": "проспект Гагаріна, 31"
+  "FullNameUA": "проспект Гагаріна, 31",
+  "ChildsIds": []
  },
  {
   "id": 159532,
@@ -997,7 +1040,8 @@
   "reg_date": "05.04.2019 09:27:22",
   "longt": 36.2504459295,
   "lati": 49.9786582762,
-  "FullNameUA": "проспект Гагаріна, 35-А"
+  "FullNameUA": "проспект Гагаріна, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 159531,
@@ -1022,7 +1066,8 @@
   "reg_date": "",
   "longt": 36.2501624259,
   "lati": 49.9784178642,
-  "FullNameUA": "проспект Гагаріна, 35"
+  "FullNameUA": "проспект Гагаріна, 35",
+  "ChildsIds": []
  },
  {
   "id": 159533,
@@ -1046,8 +1091,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2480667632,
-  "lati": 49.978156401599996,
-  "FullNameUA": "проспект Гагаріна, 36"
+  "lati": 49.9781564016,
+  "FullNameUA": "проспект Гагаріна, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 159535,
+  "postcode": 61140,
+  "number": 38,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "392, 30.06.1979",
+  "reg_date": "",
+  "longt": 36.2493110662,
+  "lati": 49.9756521608,
+  "FullNameUA": "проспект Гагаріна, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 159534,
@@ -1072,7 +1144,8 @@
   "reg_date": "",
   "longt": 36.2509442941,
   "lati": 49.9764904487,
-  "FullNameUA": "проспект Гагаріна, 38"
+  "FullNameUA": "проспект Гагаріна, 38",
+  "ChildsIds": []
  },
  {
   "id": 159536,
@@ -1097,32 +1170,8 @@
   "reg_date": "",
   "longt": 36.2486671854,
   "lati": 49.9777548451,
-  "FullNameUA": "проспект Гагаріна, 38-Б"
- },
- {
-  "id": 159535,
-  "postcode": 61140,
-  "number": 38,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "392, 30.06.1979",
-  "reg_date": "",
-  "longt": 36.2493110662,
-  "lati": 49.975652160799996,
-  "FullNameUA": "проспект Гагаріна, 38-А"
+  "FullNameUA": "проспект Гагаріна, 38-Б",
+  "ChildsIds": []
  },
  {
   "id": 167863,
@@ -1147,7 +1196,8 @@
   "reg_date": "",
   "longt": 36.2536222662,
   "lati": 49.9778178116,
-  "FullNameUA": "проспект Гагаріна, 39"
+  "FullNameUA": "проспект Гагаріна, 39",
+  "ChildsIds": []
  },
  {
   "id": 167865,
@@ -1172,7 +1222,8 @@
   "reg_date": "",
   "longt": 36.2524421292,
   "lati": 49.9776732382,
-  "FullNameUA": "проспект Гагаріна, 39-Б"
+  "FullNameUA": "проспект Гагаріна, 39-Б",
+  "ChildsIds": []
  },
  {
   "id": 167864,
@@ -1197,7 +1248,8 @@
   "reg_date": "",
   "longt": 36.2523841231,
   "lati": 49.9782192842,
-  "FullNameUA": "проспект Гагаріна, 39-А"
+  "FullNameUA": "проспект Гагаріна, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 159537,
@@ -1222,7 +1274,8 @@
   "reg_date": "",
   "longt": 36.2490363652,
   "lati": 49.9749517318,
-  "FullNameUA": "проспект Гагаріна, 40"
+  "FullNameUA": "проспект Гагаріна, 40",
+  "ChildsIds": []
  },
  {
   "id": 167868,
@@ -1247,7 +1300,8 @@
   "reg_date": "18.08.2017 12:00:30",
   "longt": 36.2545529325,
   "lati": 49.9762873773,
-  "FullNameUA": "проспект Гагаріна, 41/2"
+  "FullNameUA": "проспект Гагаріна, 41/2",
+  "ChildsIds": []
  },
  {
   "id": 167867,
@@ -1272,7 +1326,8 @@
   "reg_date": "",
   "longt": 36.2559703249,
   "lati": 49.9784077491,
-  "FullNameUA": "проспект Гагаріна, 41-Б"
+  "FullNameUA": "проспект Гагаріна, 41-Б",
+  "ChildsIds": []
  },
  {
   "id": 167866,
@@ -1297,7 +1352,8 @@
   "reg_date": "",
   "longt": 36.2555084395,
   "lati": 49.9770206889,
-  "FullNameUA": "проспект Гагаріна, 41-А"
+  "FullNameUA": "проспект Гагаріна, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 159538,
@@ -1322,7 +1378,8 @@
   "reg_date": "",
   "longt": 36.250234754,
   "lati": 49.9745676656,
-  "FullNameUA": "проспект Гагаріна, 42"
+  "FullNameUA": "проспект Гагаріна, 42",
+  "ChildsIds": []
  },
  {
   "id": 167869,
@@ -1347,7 +1404,8 @@
   "reg_date": "17.01.2019 15:50:13",
   "longt": 36.2561816217,
   "lati": 49.974998373,
-  "FullNameUA": "проспект Гагаріна, 43"
+  "FullNameUA": "проспект Гагаріна, 43",
+  "ChildsIds": []
  },
  {
   "id": 167870,
@@ -1371,8 +1429,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2567209757,
-  "lati": 49.976536928099996,
-  "FullNameUA": "проспект Гагаріна, 43-А"
+  "lati": 49.9765369281,
+  "FullNameUA": "проспект Гагаріна, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 167874,
@@ -1397,7 +1456,8 @@
   "reg_date": "02.04.2019 11:51:49",
   "longt": 36.2576154838,
   "lati": 49.9738348595,
-  "FullNameUA": "проспект Гагаріна, 43/2"
+  "FullNameUA": "проспект Гагаріна, 43/2",
+  "ChildsIds": []
  },
  {
   "id": 167872,
@@ -1422,7 +1482,8 @@
   "reg_date": "",
   "longt": 36.2584692184,
   "lati": 49.976316606,
-  "FullNameUA": "проспект Гагаріна, 43-Г"
+  "FullNameUA": "проспект Гагаріна, 43-Г",
+  "ChildsIds": []
  },
  {
   "id": 167873,
@@ -1447,7 +1508,8 @@
   "reg_date": "04.03.2019 11:36:21",
   "longt": 36.2570202833,
   "lati": 49.97422225,
-  "FullNameUA": "проспект Гагаріна, 43/1"
+  "FullNameUA": "проспект Гагаріна, 43/1",
+  "ChildsIds": []
  },
  {
   "id": 167871,
@@ -1472,7 +1534,8 @@
   "reg_date": "",
   "longt": 36.2572266516,
   "lati": 49.9772453801,
-  "FullNameUA": "проспект Гагаріна, 43-Б"
+  "FullNameUA": "проспект Гагаріна, 43-Б",
+  "ChildsIds": []
  },
  {
   "id": 159539,
@@ -1497,7 +1560,8 @@
   "reg_date": "",
   "longt": 36.2501146222,
   "lati": 49.9751924395,
-  "FullNameUA": "проспект Гагаріна, 44"
+  "FullNameUA": "проспект Гагаріна, 44",
+  "ChildsIds": []
  },
  {
   "id": 167875,
@@ -1522,7 +1586,8 @@
   "reg_date": "",
   "longt": 36.2573322762,
   "lati": 49.9755652091,
-  "FullNameUA": "проспект Гагаріна, 45-А"
+  "FullNameUA": "проспект Гагаріна, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 167876,
@@ -1547,7 +1612,8 @@
   "reg_date": "",
   "longt": 36.2579088179,
   "lati": 49.9757941559,
-  "FullNameUA": "проспект Гагаріна, 45-Б"
+  "FullNameUA": "проспект Гагаріна, 45-Б",
+  "ChildsIds": []
  },
  {
   "id": 159540,
@@ -1572,7 +1638,8 @@
   "reg_date": "",
   "longt": 36.2511775854,
   "lati": 49.9755124374,
-  "FullNameUA": "проспект Гагаріна, 46"
+  "FullNameUA": "проспект Гагаріна, 46",
+  "ChildsIds": []
  },
  {
   "id": 167877,
@@ -1597,7 +1664,8 @@
   "reg_date": "",
   "longt": 36.2587382535,
   "lati": 49.9753982038,
-  "FullNameUA": "проспект Гагаріна, 47-А"
+  "FullNameUA": "проспект Гагаріна, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 159541,
@@ -1622,7 +1690,8 @@
   "reg_date": "",
   "longt": 36.2523948422,
   "lati": 49.9760517747,
-  "FullNameUA": "проспект Гагаріна, 48"
+  "FullNameUA": "проспект Гагаріна, 48",
+  "ChildsIds": []
  },
  {
   "id": 167879,
@@ -1647,7 +1716,8 @@
   "reg_date": "",
   "longt": 36.2589947635,
   "lati": 49.974389654,
-  "FullNameUA": "проспект Гагаріна, 49-А"
+  "FullNameUA": "проспект Гагаріна, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 167878,
@@ -1672,7 +1742,8 @@
   "reg_date": "",
   "longt": 36.2586064286,
   "lati": 49.9731181743,
-  "FullNameUA": "проспект Гагаріна, 49"
+  "FullNameUA": "проспект Гагаріна, 49",
+  "ChildsIds": []
  },
  {
   "id": 159542,
@@ -1697,7 +1768,8 @@
   "reg_date": "",
   "longt": 36.2528627366,
   "lati": 49.975798321,
-  "FullNameUA": "проспект Гагаріна, 50"
+  "FullNameUA": "проспект Гагаріна, 50",
+  "ChildsIds": []
  },
  {
   "id": 159543,
@@ -1722,7 +1794,8 @@
   "reg_date": "",
   "longt": 36.253365697,
   "lati": 49.9755314864,
-  "FullNameUA": "проспект Гагаріна, 52"
+  "FullNameUA": "проспект Гагаріна, 52",
+  "ChildsIds": []
  },
  {
   "id": 159545,
@@ -1747,7 +1820,8 @@
   "reg_date": "",
   "longt": 36.2526026933,
   "lati": 49.9752039259,
-  "FullNameUA": "проспект Гагаріна, 54-А"
+  "FullNameUA": "проспект Гагаріна, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 159544,
@@ -1771,8 +1845,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2514971624,
-  "lati": 49.974774128199996,
-  "FullNameUA": "проспект Гагаріна, 54"
+  "lati": 49.9747741282,
+  "FullNameUA": "проспект Гагаріна, 54",
+  "ChildsIds": []
  },
  {
   "id": 159546,
@@ -1797,7 +1872,8 @@
   "reg_date": "",
   "longt": 36.2527800258,
   "lati": 49.9745689088,
-  "FullNameUA": "проспект Гагаріна, 56"
+  "FullNameUA": "проспект Гагаріна, 56",
+  "ChildsIds": []
  },
  {
   "id": 159547,
@@ -1822,7 +1898,8 @@
   "reg_date": "",
   "longt": 36.251586422,
   "lati": 49.9732924679,
-  "FullNameUA": "проспект Гагаріна, 58"
+  "FullNameUA": "проспект Гагаріна, 58",
+  "ChildsIds": []
  },
  {
   "id": 159548,
@@ -1847,7 +1924,8 @@
   "reg_date": "",
   "longt": 36.2528105124,
   "lati": 49.9737299978,
-  "FullNameUA": "проспект Гагаріна, 60"
+  "FullNameUA": "проспект Гагаріна, 60",
+  "ChildsIds": []
  },
  {
   "id": 159549,
@@ -1871,8 +1949,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2538981004,
-  "lati": 49.973931828699996,
-  "FullNameUA": "проспект Гагаріна, 62"
+  "lati": 49.9739318287,
+  "FullNameUA": "проспект Гагаріна, 62",
+  "ChildsIds": []
  },
  {
   "id": 159550,
@@ -1897,7 +1976,8 @@
   "reg_date": "",
   "longt": 36.2532490376,
   "lati": 49.973289937,
-  "FullNameUA": "проспект Гагаріна, 62-А"
+  "FullNameUA": "проспект Гагаріна, 62-А",
+  "ChildsIds": []
  },
  {
   "id": 159551,
@@ -1922,7 +2002,34 @@
   "reg_date": "",
   "longt": 36.254092269,
   "lati": 49.9730635198,
-  "FullNameUA": "проспект Гагаріна, 62-В"
+  "FullNameUA": "проспект Гагаріна, 62-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 183187,
+  "postcode": 61140,
+  "number": 62,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2535824029,
+  "lati": 49.9744886121,
+  "FullNameUA": "проспект Гагаріна, 62-Б",
+  "ChildsIds": []
  },
  {
   "id": 159552,
@@ -1947,7 +2054,8 @@
   "reg_date": "",
   "longt": 36.2548721684,
   "lati": 49.9742030719,
-  "FullNameUA": "проспект Гагаріна, 64"
+  "FullNameUA": "проспект Гагаріна, 64",
+  "ChildsIds": []
  },
  {
   "id": 159553,
@@ -1972,7 +2080,8 @@
   "reg_date": "",
   "longt": 36.2552313365,
   "lati": 49.9739175033,
-  "FullNameUA": "проспект Гагаріна, 66"
+  "FullNameUA": "проспект Гагаріна, 66",
+  "ChildsIds": []
  },
  {
   "id": 159554,
@@ -1997,7 +2106,8 @@
   "reg_date": "",
   "longt": 36.2555943911,
   "lati": 49.9737353425,
-  "FullNameUA": "проспект Гагаріна, 68"
+  "FullNameUA": "проспект Гагаріна, 68",
+  "ChildsIds": []
  },
  {
   "id": 159555,
@@ -2022,7 +2132,8 @@
   "reg_date": "",
   "longt": 36.2528680953,
   "lati": 49.9727985689,
-  "FullNameUA": "проспект Гагаріна, 70"
+  "FullNameUA": "проспект Гагаріна, 70",
+  "ChildsIds": []
  },
  {
   "id": 159556,
@@ -2046,8 +2157,9 @@
   "confrm": "742, 25.11.2015; 32, 23.12.2015",
   "reg_date": "15.11.2019 09:08:56",
   "longt": 36.254070164,
-  "lati": 49.972929307899996,
-  "FullNameUA": "проспект Гагаріна, 70-А, гараж № 2"
+  "lati": 49.9729293079,
+  "FullNameUA": "проспект Гагаріна, 70-А, гараж № 2",
+  "ChildsIds": []
  },
  {
   "id": 159557,
@@ -2072,7 +2184,8 @@
   "reg_date": "15.11.2019 09:29:31",
   "longt": 36.2540243621,
   "lati": 49.9729291273,
-  "FullNameUA": "проспект Гагаріна, 70-А, гараж № 3"
+  "FullNameUA": "проспект Гагаріна, 70-А, гараж № 3",
+  "ChildsIds": []
  },
  {
   "id": 159558,
@@ -2097,7 +2210,8 @@
   "reg_date": "",
   "longt": 36.2549315065,
   "lati": 49.9728710984,
-  "FullNameUA": "проспект Гагаріна, 72"
+  "FullNameUA": "проспект Гагаріна, 72",
+  "ChildsIds": []
  },
  {
   "id": 159559,
@@ -2122,7 +2236,8 @@
   "reg_date": "",
   "longt": 36.2537501309,
   "lati": 49.9716739075,
-  "FullNameUA": "проспект Гагаріна, 74"
+  "FullNameUA": "проспект Гагаріна, 74",
+  "ChildsIds": []
  },
  {
   "id": 159560,
@@ -2147,7 +2262,8 @@
   "reg_date": "",
   "longt": 36.2546442929,
   "lati": 49.9712691075,
-  "FullNameUA": "проспект Гагаріна, 76"
+  "FullNameUA": "проспект Гагаріна, 76",
+  "ChildsIds": []
  },
  {
   "id": 159561,
@@ -2172,7 +2288,8 @@
   "reg_date": "",
   "longt": 36.2548772701,
   "lati": 49.9720086931,
-  "FullNameUA": "проспект Гагаріна, 78"
+  "FullNameUA": "проспект Гагаріна, 78",
+  "ChildsIds": []
  },
  {
   "id": 159562,
@@ -2197,7 +2314,8 @@
   "reg_date": "",
   "longt": 36.255960946,
   "lati": 49.9722420382,
-  "FullNameUA": "проспект Гагаріна, 80"
+  "FullNameUA": "проспект Гагаріна, 80",
+  "ChildsIds": []
  },
  {
   "id": 159563,
@@ -2221,8 +2339,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2569068186,
-  "lati": 49.972678594899996,
-  "FullNameUA": "проспект Гагаріна, 82"
+  "lati": 49.9726785949,
+  "FullNameUA": "проспект Гагаріна, 82",
+  "ChildsIds": []
+ },
+ {
+  "id": 159565,
+  "postcode": 61140,
+  "number": 84,
+  "suffix": "/86",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2575540537,
+  "lati": 49.9722114866,
+  "FullNameUA": "проспект Гагаріна, 84/86",
+  "ChildsIds": []
  },
  {
   "id": 159564,
@@ -2247,32 +2392,8 @@
   "reg_date": "",
   "longt": 36.2573295385,
   "lati": 49.9723660962,
-  "FullNameUA": "проспект Гагаріна, 84"
- },
- {
-  "id": 159565,
-  "postcode": 61140,
-  "number": 84,
-  "suffix": "/86",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2575540537,
-  "lati": 49.972211486599996,
-  "FullNameUA": "проспект Гагаріна, 84/86"
+  "FullNameUA": "проспект Гагаріна, 84",
+  "ChildsIds": []
  },
  {
   "id": 159566,
@@ -2297,7 +2418,8 @@
   "reg_date": "",
   "longt": 36.257753219,
   "lati": 49.9720616136,
-  "FullNameUA": "проспект Гагаріна, 86"
+  "FullNameUA": "проспект Гагаріна, 86",
+  "ChildsIds": []
  },
  {
   "id": 159568,
@@ -2321,8 +2443,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2562167402,
-  "lati": 49.971463102099996,
-  "FullNameUA": "проспект Гагаріна, 90-А"
+  "lati": 49.9714631021,
+  "FullNameUA": "проспект Гагаріна, 90-А",
+  "ChildsIds": []
  },
  {
   "id": 159567,
@@ -2347,7 +2470,8 @@
   "reg_date": "",
   "longt": 36.2576313125,
   "lati": 49.9714446657,
-  "FullNameUA": "проспект Гагаріна, 90"
+  "FullNameUA": "проспект Гагаріна, 90",
+  "ChildsIds": []
  },
  {
   "id": 159569,
@@ -2372,7 +2496,8 @@
   "reg_date": "",
   "longt": 36.2583824318,
   "lati": 49.9708739653,
-  "FullNameUA": "проспект Гагаріна, 92"
+  "FullNameUA": "проспект Гагаріна, 92",
+  "ChildsIds": []
  },
  {
   "id": 159570,
@@ -2396,8 +2521,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2572351168,
-  "lati": 49.970413738299996,
-  "FullNameUA": "проспект Гагаріна, 94"
+  "lati": 49.9704137383,
+  "FullNameUA": "проспект Гагаріна, 94",
+  "ChildsIds": []
  },
  {
   "id": 159571,
@@ -2421,8 +2547,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2557353901,
-  "lati": 49.970584474999995,
-  "FullNameUA": "проспект Гагаріна, 94-А"
+  "lati": 49.970584475,
+  "FullNameUA": "проспект Гагаріна, 94-А",
+  "ChildsIds": []
  },
  {
   "id": 167880,
@@ -2447,7 +2574,8 @@
   "reg_date": "",
   "longt": 36.2595293605,
   "lati": 49.9721651211,
-  "FullNameUA": "проспект Гагаріна, 97"
+  "FullNameUA": "проспект Гагаріна, 97",
+  "ChildsIds": []
  },
  {
   "id": 159572,
@@ -2472,7 +2600,8 @@
   "reg_date": "",
   "longt": 36.258194455,
   "lati": 49.9692275471,
-  "FullNameUA": "проспект Гагаріна, 98"
+  "FullNameUA": "проспект Гагаріна, 98",
+  "ChildsIds": []
  },
  {
   "id": 167881,
@@ -2496,8 +2625,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2597016752,
-  "lati": 49.972017416999996,
-  "FullNameUA": "проспект Гагаріна, 99"
+  "lati": 49.972017417,
+  "FullNameUA": "проспект Гагаріна, 99",
+  "ChildsIds": []
  },
  {
   "id": 159573,
@@ -2522,7 +2652,8 @@
   "reg_date": "",
   "longt": 36.2580157157,
   "lati": 49.9661241482,
-  "FullNameUA": "проспект Гагаріна, 100"
+  "FullNameUA": "проспект Гагаріна, 100",
+  "ChildsIds": []
  },
  {
   "id": 167882,
@@ -2547,7 +2678,8 @@
   "reg_date": "",
   "longt": 36.2598474711,
   "lati": 49.9718863799,
-  "FullNameUA": "проспект Гагаріна, 101"
+  "FullNameUA": "проспект Гагаріна, 101",
+  "ChildsIds": []
  },
  {
   "id": 167883,
@@ -2572,7 +2704,8 @@
   "reg_date": "",
   "longt": 36.2579399631,
   "lati": 49.9626451257,
-  "FullNameUA": "проспект Гагаріна, 104"
+  "FullNameUA": "проспект Гагаріна, 104",
+  "ChildsIds": []
  },
  {
   "id": 167884,
@@ -2597,7 +2730,8 @@
   "reg_date": "",
   "longt": 36.2600392234,
   "lati": 49.97167337,
-  "FullNameUA": "проспект Гагаріна, 105"
+  "FullNameUA": "проспект Гагаріна, 105",
+  "ChildsIds": []
  },
  {
   "id": 167885,
@@ -2622,7 +2756,8 @@
   "reg_date": "18.05.2018 11:16:38",
   "longt": 36.2578359796,
   "lati": 49.9614747548,
-  "FullNameUA": "проспект Гагаріна, 106"
+  "FullNameUA": "проспект Гагаріна, 106",
+  "ChildsIds": []
  },
  {
   "id": 180137,
@@ -2647,32 +2782,8 @@
   "reg_date": "26.12.2018 11:58:46",
   "longt": 36.2598633544,
   "lati": 49.9703827473,
-  "FullNameUA": "проспект Гагаріна, 111-В"
- },
- {
-  "id": 167886,
-  "postcode": 61140,
-  "number": 113,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2599468283,
-  "lati": 49.9695792078,
-  "FullNameUA": "проспект Гагаріна, 113"
+  "FullNameUA": "проспект Гагаріна, 111-В",
+  "ChildsIds": []
  },
  {
   "id": 167887,
@@ -2697,7 +2808,34 @@
   "reg_date": "",
   "longt": 36.2601165292,
   "lati": 49.9693363321,
-  "FullNameUA": "проспект Гагаріна, 113-А"
+  "FullNameUA": "проспект Гагаріна, 113-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167886,
+  "postcode": 61140,
+  "number": 113,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2599468283,
+  "lati": 49.9695792078,
+  "FullNameUA": "проспект Гагаріна, 113",
+  "ChildsIds": []
  },
  {
   "id": 167888,
@@ -2722,7 +2860,8 @@
   "reg_date": "",
   "longt": 36.2600524119,
   "lati": 49.9692161452,
-  "FullNameUA": "проспект Гагаріна, 115-А"
+  "FullNameUA": "проспект Гагаріна, 115-А",
+  "ChildsIds": []
  },
  {
   "id": 167889,
@@ -2747,7 +2886,8 @@
   "reg_date": "",
   "longt": 36.2601642736,
   "lati": 49.9682053987,
-  "FullNameUA": "проспект Гагаріна, 117"
+  "FullNameUA": "проспект Гагаріна, 117",
+  "ChildsIds": []
  },
  {
   "id": 167890,
@@ -2771,8 +2911,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2597532676,
-  "lati": 49.967372877500004,
-  "FullNameUA": "проспект Гагаріна, 119"
+  "lati": 49.9673728775,
+  "FullNameUA": "проспект Гагаріна, 119",
+  "ChildsIds": []
  },
  {
   "id": 167891,
@@ -2797,7 +2938,8 @@
   "reg_date": "",
   "longt": 36.2599042392,
   "lati": 49.96672734,
-  "FullNameUA": "проспект Гагаріна, 123"
+  "FullNameUA": "проспект Гагаріна, 123",
+  "ChildsIds": []
  },
  {
   "id": 167892,
@@ -2822,32 +2964,8 @@
   "reg_date": "",
   "longt": 36.2595566347,
   "lati": 49.9662374798,
-  "FullNameUA": "проспект Гагаріна, 125"
- },
- {
-  "id": 167893,
-  "postcode": 61140,
-  "number": 127,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2592511894,
-  "lati": 49.9652355152,
-  "FullNameUA": "проспект Гагаріна, 127"
+  "FullNameUA": "проспект Гагаріна, 125",
+  "ChildsIds": []
  },
  {
   "id": 167894,
@@ -2872,12 +2990,13 @@
   "reg_date": "",
   "longt": 36.2596269697,
   "lati": 49.9625806321,
-  "FullNameUA": "проспект Гагаріна, 127-А"
+  "FullNameUA": "проспект Гагаріна, 127-А",
+  "ChildsIds": []
  },
  {
-  "id": 167895,
-  "postcode": 61124,
-  "number": 129,
+  "id": 167893,
+  "postcode": 61140,
+  "number": 127,
   "suffix": "",
   "block": "",
   "streetid": 2401,
@@ -2893,11 +3012,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2595129758,
-  "lati": 49.962980068,
-  "FullNameUA": "проспект Гагаріна, 129"
+  "longt": 36.2592511894,
+  "lati": 49.9652355152,
+  "FullNameUA": "проспект Гагаріна, 127",
+  "ChildsIds": []
  },
  {
   "id": 167896,
@@ -2922,7 +3042,34 @@
   "reg_date": "",
   "longt": 36.2608192116,
   "lati": 49.9638332797,
-  "FullNameUA": "проспект Гагаріна, 129/1"
+  "FullNameUA": "проспект Гагаріна, 129/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 167895,
+  "postcode": 61124,
+  "number": 129,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2595129758,
+  "lati": 49.962980068,
+  "FullNameUA": "проспект Гагаріна, 129",
+  "ChildsIds": []
  },
  {
   "id": 167897,
@@ -2947,7 +3094,8 @@
   "reg_date": "",
   "longt": 36.25978522,
   "lati": 49.9615203423,
-  "FullNameUA": "проспект Гагаріна, 131"
+  "FullNameUA": "проспект Гагаріна, 131",
+  "ChildsIds": []
  },
  {
   "id": 167898,
@@ -2972,7 +3120,8 @@
   "reg_date": "",
   "longt": 36.2597530335,
   "lati": 49.9610518749,
-  "FullNameUA": "проспект Гагаріна, 135"
+  "FullNameUA": "проспект Гагаріна, 135",
+  "ChildsIds": []
  },
  {
   "id": 167899,
@@ -2996,33 +3145,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2600157621,
-  "lati": 49.960712915100004,
-  "FullNameUA": "проспект Гагаріна, 137"
- },
- {
-  "id": 167900,
-  "postcode": 61124,
-  "number": 141,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2597190509,
-  "lati": 49.9600896475,
-  "FullNameUA": "проспект Гагаріна, 141"
+  "lati": 49.9607129151,
+  "FullNameUA": "проспект Гагаріна, 137",
+  "ChildsIds": []
  },
  {
   "id": 167901,
@@ -3047,7 +3172,34 @@
   "reg_date": "",
   "longt": 36.2599958115,
   "lati": 49.9599610045,
-  "FullNameUA": "проспект Гагаріна, 141/1"
+  "FullNameUA": "проспект Гагаріна, 141/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 167900,
+  "postcode": 61124,
+  "number": 141,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2597190509,
+  "lati": 49.9600896475,
+  "FullNameUA": "проспект Гагаріна, 141",
+  "ChildsIds": []
  },
  {
   "id": 167902,
@@ -3072,7 +3224,8 @@
   "reg_date": "",
   "longt": 36.2597702137,
   "lati": 49.9598027938,
-  "FullNameUA": "проспект Гагаріна, 143"
+  "FullNameUA": "проспект Гагаріна, 143",
+  "ChildsIds": []
  },
  {
   "id": 167903,
@@ -3097,7 +3250,34 @@
   "reg_date": "",
   "longt": 36.2600207855,
   "lati": 49.9596040305,
-  "FullNameUA": "проспект Гагаріна, 145"
+  "FullNameUA": "проспект Гагаріна, 145",
+  "ChildsIds": []
+ },
+ {
+  "id": 167905,
+  "postcode": 61124,
+  "number": 147,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2602203829,
+  "lati": 49.9594113866,
+  "FullNameUA": "проспект Гагаріна, 147-Б",
+  "ChildsIds": []
  },
  {
   "id": 167904,
@@ -3122,32 +3302,8 @@
   "reg_date": "",
   "longt": 36.2598488336,
   "lati": 49.9593431823,
-  "FullNameUA": "проспект Гагаріна, 147"
- },
- {
-  "id": 167905,
-  "postcode": 61124,
-  "number": 147,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.260220382899995,
-  "lati": 49.9594113866,
-  "FullNameUA": "проспект Гагаріна, 147-Б"
+  "FullNameUA": "проспект Гагаріна, 147",
+  "ChildsIds": []
  },
  {
   "id": 167906,
@@ -3171,8 +3327,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2598321267,
-  "lati": 49.959038032200006,
-  "FullNameUA": "проспект Гагаріна, 149/2"
+  "lati": 49.9590380322,
+  "FullNameUA": "проспект Гагаріна, 149/2",
+  "ChildsIds": []
  },
  {
   "id": 159574,
@@ -3197,7 +3354,8 @@
   "reg_date": "13.03.2019 10:30:04",
   "longt": 36.2586766757,
   "lati": 49.9587853389,
-  "FullNameUA": "проспект Гагаріна, 150-А"
+  "FullNameUA": "проспект Гагаріна, 150-А",
+  "ChildsIds": []
  },
  {
   "id": 167907,
@@ -3221,8 +3379,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2598796183,
-  "lati": 49.958828045400004,
-  "FullNameUA": "проспект Гагаріна, 151"
+  "lati": 49.9588280454,
+  "FullNameUA": "проспект Гагаріна, 151",
+  "ChildsIds": []
  },
  {
   "id": 167908,
@@ -3245,9 +3404,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260333116199995,
+  "longt": 36.2603331162,
   "lati": 49.9587896286,
-  "FullNameUA": "проспект Гагаріна, 151-А"
+  "FullNameUA": "проспект Гагаріна, 151-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159576,
+  "postcode": 61035,
+  "number": 152,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2589966061,
+  "lati": 49.9567799333,
+  "FullNameUA": "проспект Гагаріна, 152-А",
+  "ChildsIds": []
  },
  {
   "id": 159575,
@@ -3272,32 +3458,8 @@
   "reg_date": "",
   "longt": 36.259129666,
   "lati": 49.956017815,
-  "FullNameUA": "проспект Гагаріна, 152"
- },
- {
-  "id": 159576,
-  "postcode": 61035,
-  "number": 152,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2589966061,
-  "lati": 49.956779933300005,
-  "FullNameUA": "проспект Гагаріна, 152-А"
+  "FullNameUA": "проспект Гагаріна, 152",
+  "ChildsIds": []
  },
  {
   "id": 167909,
@@ -3322,7 +3484,8 @@
   "reg_date": "",
   "longt": 36.2598938537,
   "lati": 49.9586584819,
-  "FullNameUA": "проспект Гагаріна, 153"
+  "FullNameUA": "проспект Гагаріна, 153",
+  "ChildsIds": []
  },
  {
   "id": 159577,
@@ -3347,7 +3510,8 @@
   "reg_date": "",
   "longt": 36.2589354977,
   "lati": 49.9555615361,
-  "FullNameUA": "проспект Гагаріна, 154"
+  "FullNameUA": "проспект Гагаріна, 154",
+  "ChildsIds": []
  },
  {
   "id": 167910,
@@ -3370,9 +3534,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.260304840299995,
+  "longt": 36.2603048403,
   "lati": 49.9574377093,
-  "FullNameUA": "проспект Гагаріна, 155-А"
+  "FullNameUA": "проспект Гагаріна, 155-А",
+  "ChildsIds": []
  },
  {
   "id": 159578,
@@ -3397,57 +3562,8 @@
   "reg_date": "",
   "longt": 36.2593021666,
   "lati": 49.9551848807,
-  "FullNameUA": "проспект Гагаріна, 156"
- },
- {
-  "id": 167911,
-  "postcode": 61124,
-  "number": 157,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "адреса юр. особи",
-  "reg_date": "",
-  "longt": 36.260517184899996,
-  "lati": 49.9548583679,
-  "FullNameUA": "проспект Гагаріна, 157"
- },
- {
-  "id": 167912,
-  "postcode": 61124,
-  "number": 157,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2607826594,
-  "lati": 49.953598376,
-  "FullNameUA": "проспект Гагаріна, 157-А"
+  "FullNameUA": "проспект Гагаріна, 156",
+  "ChildsIds": []
  },
  {
   "id": 167913,
@@ -3472,7 +3588,60 @@
   "reg_date": "",
   "longt": 36.2607497579,
   "lati": 49.9530224597,
-  "FullNameUA": "проспект Гагаріна, 157/6"
+  "FullNameUA": "проспект Гагаріна, 157/6",
+  "ChildsIds": []
+ },
+ {
+  "id": 167912,
+  "postcode": 61124,
+  "number": 157,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2607826594,
+  "lati": 49.953598376,
+  "FullNameUA": "проспект Гагаріна, 157-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167911,
+  "postcode": 61124,
+  "number": 157,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "адреса юр. особи",
+  "reg_date": "",
+  "longt": 36.2605171849,
+  "lati": 49.9548583679,
+  "FullNameUA": "проспект Гагаріна, 157",
+  "ChildsIds": []
  },
  {
   "id": 159579,
@@ -3496,8 +3665,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2589684627,
-  "lati": 49.954833576800006,
-  "FullNameUA": "проспект Гагаріна, 158"
+  "lati": 49.9548335768,
+  "FullNameUA": "проспект Гагаріна, 158",
+  "ChildsIds": []
  },
  {
   "id": 167915,
@@ -3521,8 +3691,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2607710551,
-  "lati": 49.956342131700005,
-  "FullNameUA": "проспект Гагаріна, 159-А"
+  "lati": 49.9563421317,
+  "FullNameUA": "проспект Гагаріна, 159-А",
+  "ChildsIds": []
  },
  {
   "id": 167914,
@@ -3546,8 +3717,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2602037035,
-  "lati": 49.956424281900006,
-  "FullNameUA": "проспект Гагаріна, 159"
+  "lati": 49.9564242819,
+  "FullNameUA": "проспект Гагаріна, 159",
+  "ChildsIds": []
  },
  {
   "id": 159580,
@@ -3572,7 +3744,8 @@
   "reg_date": "",
   "longt": 36.259343266,
   "lati": 49.9545996258,
-  "FullNameUA": "проспект Гагаріна, 160/2"
+  "FullNameUA": "проспект Гагаріна, 160/2",
+  "ChildsIds": []
  },
  {
   "id": 167916,
@@ -3596,8 +3769,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2617419538,
-  "lati": 49.953655844000004,
-  "FullNameUA": "проспект Гагаріна, 163-А"
+  "lati": 49.953655844,
+  "FullNameUA": "проспект Гагаріна, 163-А",
+  "ChildsIds": []
  },
  {
   "id": 177520,
@@ -3621,15 +3795,16 @@
   "confrm": "адреса юр. особи",
   "reg_date": "",
   "longt": 36.2586480551,
-  "lati": 49.953156560400004,
-  "FullNameUA": "проспект Гагаріна, 164"
+  "lati": 49.9531565604,
+  "FullNameUA": "проспект Гагаріна, 164",
+  "ChildsIds": []
  },
  {
-  "id": 167920,
+  "id": 167918,
   "postcode": 61124,
   "number": 165,
   "suffix": "",
-  "block": "3",
+  "block": "1",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -3645,9 +3820,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2618045116,
-  "lati": 49.951639843200006,
-  "FullNameUA": "проспект Гагаріна, 165, корпус № 3"
+  "longt": 36.2618158095,
+  "lati": 49.9521569867,
+  "FullNameUA": "проспект Гагаріна, 165, корпус № 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 167917,
+  "postcode": 61124,
+  "number": 165,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.260802309,
+  "lati": 49.9520563408,
+  "FullNameUA": "проспект Гагаріна, 165",
+  "ChildsIds": []
  },
  {
   "id": 167922,
@@ -3672,32 +3874,8 @@
   "reg_date": "",
   "longt": 36.2612530468,
   "lati": 49.9512201518,
-  "FullNameUA": "проспект Гагаріна, 165, корпус № 5"
- },
- {
-  "id": 167917,
-  "postcode": 61124,
-  "number": 165,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.260802309,
-  "lati": 49.952056340800006,
-  "FullNameUA": "проспект Гагаріна, 165"
+  "FullNameUA": "проспект Гагаріна, 165, корпус № 5",
+  "ChildsIds": []
  },
  {
   "id": 167923,
@@ -3722,32 +3900,8 @@
   "reg_date": "",
   "longt": 36.260883545,
   "lati": 49.9515720654,
-  "FullNameUA": "проспект Гагаріна, 165-Г"
- },
- {
-  "id": 167921,
-  "postcode": 61124,
-  "number": 165,
-  "suffix": "",
-  "block": "4",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.261523439899996,
-  "lati": 49.9514080521,
-  "FullNameUA": "проспект Гагаріна, 165, корпус № 4"
+  "FullNameUA": "проспект Гагаріна, 165-Г",
+  "ChildsIds": []
  },
  {
   "id": 167919,
@@ -3771,8 +3925,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2620438372,
-  "lati": 49.951911659500006,
-  "FullNameUA": "проспект Гагаріна, 165, корпус № 2"
+  "lati": 49.9519116595,
+  "FullNameUA": "проспект Гагаріна, 165, корпус № 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 167920,
+  "postcode": 61124,
+  "number": 165,
+  "suffix": "",
+  "block": "3",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2618045116,
+  "lati": 49.9516398432,
+  "FullNameUA": "проспект Гагаріна, 165, корпус № 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 167921,
+  "postcode": 61124,
+  "number": 165,
+  "suffix": "",
+  "block": "4",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2615234399,
+  "lati": 49.9514080521,
+  "FullNameUA": "проспект Гагаріна, 165, корпус № 4",
+  "ChildsIds": []
  },
  {
   "id": 179987,
@@ -3797,32 +4004,8 @@
   "reg_date": "",
   "longt": 36.2631133008,
   "lati": 49.9511853787,
-  "FullNameUA": "проспект Гагаріна, 165-Ж"
- },
- {
-  "id": 167918,
-  "postcode": 61124,
-  "number": 165,
-  "suffix": "",
-  "block": "1",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2618158095,
-  "lati": 49.952156986700004,
-  "FullNameUA": "проспект Гагаріна, 165, корпус № 1"
+  "FullNameUA": "проспект Гагаріна, 165-Ж",
+  "ChildsIds": []
  },
  {
   "id": 159581,
@@ -3846,33 +4029,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2593612066,
-  "lati": 49.952188779900005,
-  "FullNameUA": "проспект Гагаріна, 166"
- },
- {
-  "id": 167925,
-  "postcode": 61124,
-  "number": 167,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2621018495,
-  "lati": 49.950822582200004,
-  "FullNameUA": "проспект Гагаріна, 167-А"
+  "lati": 49.9521887799,
+  "FullNameUA": "проспект Гагаріна, 166",
+  "ChildsIds": []
  },
  {
   "id": 167927,
@@ -3895,9 +4054,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260938922499996,
+  "longt": 36.2609389225,
   "lati": 49.9495386526,
-  "FullNameUA": "проспект Гагаріна, 167/1"
+  "FullNameUA": "проспект Гагаріна, 167/1",
+  "ChildsIds": []
  },
  {
   "id": 167926,
@@ -3921,8 +4081,35 @@
   "confrm": "362, 20.06.2012",
   "reg_date": "28.12.2019 09:52:23",
   "longt": 36.260950502,
-  "lati": 49.950838627500005,
-  "FullNameUA": "проспект Гагаріна, 167-Г"
+  "lati": 49.9508386275,
+  "FullNameUA": "проспект Гагаріна, 167-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 167925,
+  "postcode": 61124,
+  "number": 167,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2621018495,
+  "lati": 49.9508225822,
+  "FullNameUA": "проспект Гагаріна, 167-А",
+  "ChildsIds": []
  },
  {
   "id": 167924,
@@ -3947,7 +4134,10 @@
   "reg_date": "",
   "longt": 36.2609332852,
   "lati": 49.9504826308,
-  "FullNameUA": "проспект Гагаріна, 167"
+  "FullNameUA": "проспект Гагаріна, 167",
+  "ChildsIds": [
+   167926
+  ]
  },
  {
   "id": 159582,
@@ -3972,32 +4162,8 @@
   "reg_date": "",
   "longt": 36.2574627641,
   "lati": 49.9529723686,
-  "FullNameUA": "проспект Гагаріна, 168"
- },
- {
-  "id": 167928,
-  "postcode": 61124,
-  "number": 169,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.261797241299995,
-  "lati": 49.9501491783,
-  "FullNameUA": "проспект Гагаріна, 169-А"
+  "FullNameUA": "проспект Гагаріна, 168",
+  "ChildsIds": []
  },
  {
   "id": 167929,
@@ -4022,14 +4188,15 @@
   "reg_date": "",
   "longt": 36.2626383462,
   "lati": 49.9501897285,
-  "FullNameUA": "проспект Гагаріна, 169-Б"
+  "FullNameUA": "проспект Гагаріна, 169-Б",
+  "ChildsIds": []
  },
  {
-  "id": 159584,
+  "id": 167928,
   "postcode": 61124,
-  "number": 170,
-  "suffix": "",
-  "block": "2",
+  "number": 169,
+  "suffix": "А",
+  "block": "",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -4043,11 +4210,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "71, 13.02.2007",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2561122785,
-  "lati": 49.952571555700004,
-  "FullNameUA": "проспект Гагаріна, 170, корпус № 2"
+  "longt": 36.2617972413,
+  "lati": 49.9501491783,
+  "FullNameUA": "проспект Гагаріна, 169-А",
+  "ChildsIds": []
  },
  {
   "id": 159583,
@@ -4072,7 +4240,8 @@
   "reg_date": "",
   "longt": 36.2552922953,
   "lati": 49.9523728029,
-  "FullNameUA": "проспект Гагаріна, 170, корпус № 1"
+  "FullNameUA": "проспект Гагаріна, 170, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 181792,
@@ -4097,14 +4266,15 @@
   "reg_date": "",
   "longt": 36.2558737773,
   "lati": 49.9528786622,
-  "FullNameUA": "проспект Гагаріна, 170-А"
+  "FullNameUA": "проспект Гагаріна, 170-А",
+  "ChildsIds": []
  },
  {
-  "id": 167930,
+  "id": 159584,
   "postcode": 61124,
-  "number": 171,
+  "number": 170,
   "suffix": "",
-  "block": "",
+  "block": "2",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -4118,11 +4288,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "71, 13.02.2007",
   "reg_date": "",
-  "longt": 36.261820741499996,
-  "lati": 49.9493066812,
-  "FullNameUA": "проспект Гагаріна, 171"
+  "longt": 36.2561122785,
+  "lati": 49.9525715557,
+  "FullNameUA": "проспект Гагаріна, 170, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 167931,
@@ -4147,7 +4318,8 @@
   "reg_date": "",
   "longt": 36.2633740745,
   "lati": 49.9492850054,
-  "FullNameUA": "проспект Гагаріна, 171-А"
+  "FullNameUA": "проспект Гагаріна, 171-А",
+  "ChildsIds": []
  },
  {
   "id": 167932,
@@ -4170,14 +4342,15 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262725578499996,
-  "lati": 49.948931170799995,
-  "FullNameUA": "проспект Гагаріна, 171/1"
+  "longt": 36.2627255785,
+  "lati": 49.9489311708,
+  "FullNameUA": "проспект Гагаріна, 171/1",
+  "ChildsIds": []
  },
  {
-  "id": 159585,
+  "id": 167930,
   "postcode": 61124,
-  "number": 172,
+  "number": 171,
   "suffix": "",
   "block": "",
   "streetid": 2401,
@@ -4193,11 +4366,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2560279419,
-  "lati": 49.952059724600005,
-  "FullNameUA": "проспект Гагаріна, 172"
+  "longt": 36.2618207415,
+  "lati": 49.9493066812,
+  "FullNameUA": "проспект Гагаріна, 171",
+  "ChildsIds": []
  },
  {
   "id": 181068,
@@ -4222,7 +4396,34 @@
   "reg_date": "",
   "longt": 36.2568244611,
   "lati": 49.952102183,
-  "FullNameUA": "проспект Гагаріна, 172-Б"
+  "FullNameUA": "проспект Гагаріна, 172-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159585,
+  "postcode": 61124,
+  "number": 172,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2560279419,
+  "lati": 49.9520597246,
+  "FullNameUA": "проспект Гагаріна, 172",
+  "ChildsIds": []
  },
  {
   "id": 167933,
@@ -4246,8 +4447,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.261811736,
-  "lati": 49.948431833499995,
-  "FullNameUA": "проспект Гагаріна, 173-А"
+  "lati": 49.9484318335,
+  "FullNameUA": "проспект Гагаріна, 173-А",
+  "ChildsIds": []
  },
  {
   "id": 167934,
@@ -4271,8 +4473,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2627089972,
-  "lati": 49.948428508199996,
-  "FullNameUA": "проспект Гагаріна, 173-Б"
+  "lati": 49.9484285082,
+  "FullNameUA": "проспект Гагаріна, 173-Б",
+  "ChildsIds": []
  },
  {
   "id": 167935,
@@ -4297,7 +4500,60 @@
   "reg_date": "",
   "longt": 36.260947288,
   "lati": 49.9489007169,
-  "FullNameUA": "проспект Гагаріна, 173-В"
+  "FullNameUA": "проспект Гагаріна, 173-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 159592,
+  "postcode": 61124,
+  "number": 174,
+  "suffix": "",
+  "block": "7",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2553894189,
+  "lati": 49.9513415239,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 183061,
+  "postcode": 61124,
+  "number": 174,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2564027622,
+  "lati": 49.950030165,
+  "FullNameUA": "проспект Гагаріна, 174-Б",
+  "ChildsIds": []
  },
  {
   "id": 180962,
@@ -4321,8 +4577,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2585826442,
-  "lati": 49.951340764600005,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 1"
+  "lati": 49.9513407646,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 177519,
@@ -4346,8 +4603,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2590672541,
-  "lati": 49.953640882200006,
-  "FullNameUA": "проспект Гагаріна, 174-Л"
+  "lati": 49.9536408822,
+  "FullNameUA": "проспект Гагаріна, 174-Л",
+  "ChildsIds": []
  },
  {
   "id": 177518,
@@ -4371,58 +4629,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2590534132,
-  "lati": 49.953809801700004,
-  "FullNameUA": "проспект Гагаріна, 174-К"
- },
- {
-  "id": 159591,
-  "postcode": 61124,
-  "number": 174,
-  "suffix": "Є",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "автосервіс, магазин супутніх товарів, адміністративно-побутові приміщення з гостьовою автостоянкою",
-  "confrm": "483, 08.12.2010",
-  "reg_date": "26.02.2019 15:39:11",
-  "longt": 36.2582848185,
-  "lati": 49.9522025145,
-  "FullNameUA": "проспект Гагаріна, 174-Є"
- },
- {
-  "id": 159590,
-  "postcode": 61124,
-  "number": 174,
-  "suffix": "",
-  "block": "5",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2574613196,
-  "lati": 49.950272352700004,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 5"
+  "lati": 49.9538098017,
+  "FullNameUA": "проспект Гагаріна, 174-К",
+  "ChildsIds": []
  },
  {
   "id": 159594,
@@ -4447,32 +4656,8 @@
   "reg_date": "",
   "longt": 36.256367936,
   "lati": 49.950999824,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 6"
- },
- {
-  "id": 159586,
-  "postcode": 61124,
-  "number": 174,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2584689606,
-  "lati": 49.950075539100006,
-  "FullNameUA": "проспект Гагаріна, 174"
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 6",
+  "ChildsIds": []
  },
  {
   "id": 159593,
@@ -4496,15 +4681,16 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.255511217,
-  "lati": 49.950377764600006,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 8"
+  "lati": 49.9503777646,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 8",
+  "ChildsIds": []
  },
  {
-  "id": 159587,
+  "id": 183060,
   "postcode": 61124,
   "number": 174,
-  "suffix": "",
-  "block": "2",
+  "suffix": "А",
+  "block": "",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -4520,9 +4706,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2589059653,
-  "lati": 49.9504445946,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 2"
+  "longt": 36.2564067391,
+  "lati": 49.9501756388,
+  "FullNameUA": "проспект Гагаріна, 174-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159589,
+  "postcode": 61124,
+  "number": 174,
+  "suffix": "",
+  "block": "4",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2575543355,
+  "lati": 49.9508829821,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 4",
+  "ChildsIds": []
  },
  {
   "id": 159588,
@@ -4547,14 +4760,15 @@
   "reg_date": "",
   "longt": 36.2570913173,
   "lati": 49.9514518756,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 3"
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 3",
+  "ChildsIds": []
  },
  {
-  "id": 159589,
+  "id": 159587,
   "postcode": 61124,
   "number": 174,
   "suffix": "",
-  "block": "4",
+  "block": "2",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -4570,16 +4784,43 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2575543355,
-  "lati": 49.950882982100005,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 4"
+  "longt": 36.2589059653,
+  "lati": 49.9504445946,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 2",
+  "ChildsIds": []
  },
  {
-  "id": 159592,
+  "id": 159591,
+  "postcode": 61124,
+  "number": 174,
+  "suffix": "Є",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "автосервіс, магазин супутніх товарів, адміністративно-побутові приміщення з гостьовою автостоянкою",
+  "confrm": "483, 08.12.2010",
+  "reg_date": "26.02.2019 15:39:11",
+  "longt": 36.2582848185,
+  "lati": 49.9522025145,
+  "FullNameUA": "проспект Гагаріна, 174-Є",
+  "ChildsIds": []
+ },
+ {
+  "id": 159590,
   "postcode": 61124,
   "number": 174,
   "suffix": "",
-  "block": "7",
+  "block": "5",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -4595,9 +4836,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2553894189,
-  "lati": 49.951341523900005,
-  "FullNameUA": "проспект Гагаріна, 174, корпус № 7"
+  "longt": 36.2574613196,
+  "lati": 49.9502723527,
+  "FullNameUA": "проспект Гагаріна, 174, корпус № 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 159586,
+  "postcode": 61124,
+  "number": 174,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2584689606,
+  "lati": 49.9500755391,
+  "FullNameUA": "проспект Гагаріна, 174",
+  "ChildsIds": []
  },
  {
   "id": 167937,
@@ -4622,7 +4890,8 @@
   "reg_date": "",
   "longt": 36.2627144425,
   "lati": 49.9472522309,
-  "FullNameUA": "проспект Гагаріна, 175-А"
+  "FullNameUA": "проспект Гагаріна, 175-А",
+  "ChildsIds": []
  },
  {
   "id": 167936,
@@ -4646,8 +4915,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2618306638,
-  "lati": 49.947534154799996,
-  "FullNameUA": "проспект Гагаріна, 175"
+  "lati": 49.9475341548,
+  "FullNameUA": "проспект Гагаріна, 175",
+  "ChildsIds": []
  },
  {
   "id": 159602,
@@ -4672,232 +4942,8 @@
   "reg_date": "",
   "longt": 36.2553942595,
   "lati": 49.9494887264,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 8"
- },
- {
-  "id": 159603,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "9",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2563773952,
-  "lati": 49.949147996099995,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 9"
- },
- {
-  "id": 159605,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "11",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2553827713,
-  "lati": 49.9476977258,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 11"
- },
- {
-  "id": 159595,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2586120327,
-  "lati": 49.9493460523,
-  "FullNameUA": "проспект Гагаріна, 176"
- },
- {
-  "id": 159600,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "6",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.257385568,
-  "lati": 49.9483647116,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 6"
- },
- {
-  "id": 159604,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "10",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2555027336,
-  "lati": 49.9485224576,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 10"
- },
- {
-  "id": 159601,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "7",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.257255877,
-  "lati": 49.9478203442,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 7"
- },
- {
-  "id": 159596,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "2",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2589243791,
-  "lati": 49.9484744779,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 2"
- },
- {
-  "id": 159597,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "3",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.258520318,
-  "lati": 49.9478257433,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 3"
- },
- {
-  "id": 159598,
-  "postcode": 61124,
-  "number": 176,
-  "suffix": "",
-  "block": "4",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2572450024,
-  "lati": 49.9496193114,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 4"
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 8",
+  "ChildsIds": []
  },
  {
   "id": 159599,
@@ -4922,7 +4968,242 @@
   "reg_date": "",
   "longt": 36.2574915005,
   "lati": 49.9489094964,
-  "FullNameUA": "проспект Гагаріна, 176, корпус № 5"
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 159595,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2586120327,
+  "lati": 49.9493460523,
+  "FullNameUA": "проспект Гагаріна, 176",
+  "ChildsIds": []
+ },
+ {
+  "id": 159596,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "2",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2589243791,
+  "lati": 49.9484744779,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 159604,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "10",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2555027336,
+  "lati": 49.9485224576,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 159601,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "7",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.257255877,
+  "lati": 49.9478203442,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 159598,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "4",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2572450024,
+  "lati": 49.9496193114,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 159597,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "3",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.258520318,
+  "lati": 49.9478257433,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 159603,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "9",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2563773952,
+  "lati": 49.9491479961,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 159605,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "11",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2553827713,
+  "lati": 49.9476977258,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 159600,
+  "postcode": 61124,
+  "number": 176,
+  "suffix": "",
+  "block": "6",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.257385568,
+  "lati": 49.9483647116,
+  "FullNameUA": "проспект Гагаріна, 176, корпус № 6",
+  "ChildsIds": []
  },
  {
   "id": 167938,
@@ -4945,9 +5226,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260938194299996,
+  "longt": 36.2609381943,
   "lati": 49.9474326832,
-  "FullNameUA": "проспект Гагаріна, 177"
+  "FullNameUA": "проспект Гагаріна, 177",
+  "ChildsIds": []
  },
  {
   "id": 159606,
@@ -4972,7 +5254,8 @@
   "reg_date": "",
   "longt": 36.2587898741,
   "lati": 49.9471463557,
-  "FullNameUA": "проспект Гагаріна, 178"
+  "FullNameUA": "проспект Гагаріна, 178",
+  "ChildsIds": []
  },
  {
   "id": 167939,
@@ -4997,82 +5280,8 @@
   "reg_date": "",
   "longt": 36.2618772246,
   "lati": 49.9467241789,
-  "FullNameUA": "проспект Гагаріна, 179"
- },
- {
-  "id": 159609,
-  "postcode": 61124,
-  "number": 180,
-  "suffix": "",
-  "block": "3",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2552710396,
-  "lati": 49.946978082,
-  "FullNameUA": "проспект Гагаріна, 180, корпус № 3"
- },
- {
-  "id": 159608,
-  "postcode": 61124,
-  "number": 180,
-  "suffix": "",
-  "block": "2",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2561330559,
-  "lati": 49.9469253478,
-  "FullNameUA": "проспект Гагаріна, 180, корпус № 2"
- },
- {
-  "id": 159607,
-  "postcode": 61124,
-  "number": 180,
-  "suffix": "",
-  "block": "1",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2575506901,
-  "lati": 49.947299197499994,
-  "FullNameUA": "проспект Гагаріна, 180, корпус № 1"
+  "FullNameUA": "проспект Гагаріна, 179",
+  "ChildsIds": []
  },
  {
   "id": 179330,
@@ -5097,39 +5306,15 @@
   "reg_date": "",
   "longt": 36.2574670662,
   "lati": 49.9467379325,
-  "FullNameUA": "проспект Гагаріна, 180"
+  "FullNameUA": "проспект Гагаріна, 180",
+  "ChildsIds": []
  },
  {
-  "id": 167942,
-  "postcode": 61105,
-  "number": 181,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2607080677,
-  "lati": 49.946110337099995,
-  "FullNameUA": "проспект Гагаріна, 181-Б"
- },
- {
-  "id": 167940,
-  "postcode": 61105,
-  "number": 181,
+  "id": 159609,
+  "postcode": 61124,
+  "number": 180,
   "suffix": "",
-  "block": "",
+  "block": "3",
   "streetid": 2401,
   "status_id": 1,
   "detail_type_index": 0,
@@ -5145,9 +5330,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2611615756,
-  "lati": 49.9430250929,
-  "FullNameUA": "проспект Гагаріна, 181"
+  "longt": 36.2552710396,
+  "lati": 49.946978082,
+  "FullNameUA": "проспект Гагаріна, 180, корпус № 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 159607,
+  "postcode": 61124,
+  "number": 180,
+  "suffix": "",
+  "block": "1",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2575506901,
+  "lati": 49.9472991975,
+  "FullNameUA": "проспект Гагаріна, 180, корпус № 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 159608,
+  "postcode": 61124,
+  "number": 180,
+  "suffix": "",
+  "block": "2",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2561330559,
+  "lati": 49.9469253478,
+  "FullNameUA": "проспект Гагаріна, 180, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 167941,
@@ -5172,7 +5410,60 @@
   "reg_date": "",
   "longt": 36.2607019209,
   "lati": 49.9459590834,
-  "FullNameUA": "проспект Гагаріна, 181-А"
+  "FullNameUA": "проспект Гагаріна, 181-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167940,
+  "postcode": 61105,
+  "number": 181,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2611615756,
+  "lati": 49.9430250929,
+  "FullNameUA": "проспект Гагаріна, 181",
+  "ChildsIds": []
+ },
+ {
+  "id": 167942,
+  "postcode": 61105,
+  "number": 181,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2607080677,
+  "lati": 49.9461103371,
+  "FullNameUA": "проспект Гагаріна, 181-Б",
+  "ChildsIds": []
  },
  {
   "id": 159610,
@@ -5197,7 +5488,34 @@
   "reg_date": "",
   "longt": 36.258393346,
   "lati": 49.9467619228,
-  "FullNameUA": "проспект Гагаріна, 182-А"
+  "FullNameUA": "проспект Гагаріна, 182-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167943,
+  "postcode": 61105,
+  "number": 183,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2639871212,
+  "lati": 49.9387629659,
+  "FullNameUA": "проспект Гагаріна, 183-А",
+  "ChildsIds": []
  },
  {
   "id": 167944,
@@ -5221,33 +5539,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.26337908,
-  "lati": 49.938103064399996,
-  "FullNameUA": "проспект Гагаріна, 183-Б"
- },
- {
-  "id": 167943,
-  "postcode": 61105,
-  "number": 183,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.263987121199996,
-  "lati": 49.9387629659,
-  "FullNameUA": "проспект Гагаріна, 183-А"
+  "lati": 49.9381030644,
+  "FullNameUA": "проспект Гагаріна, 183-Б",
+  "ChildsIds": []
  },
  {
   "id": 167947,
@@ -5272,32 +5566,8 @@
   "reg_date": "",
   "longt": 36.2634637029,
   "lati": 49.9348723139,
-  "FullNameUA": "проспект Гагаріна, 185-Б"
- },
- {
-  "id": 167945,
-  "postcode": 61105,
-  "number": 185,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2628694807,
-  "lati": 49.9353874655,
-  "FullNameUA": "проспект Гагаріна, 185"
+  "FullNameUA": "проспект Гагаріна, 185-Б",
+  "ChildsIds": []
  },
  {
   "id": 167946,
@@ -5322,7 +5592,34 @@
   "reg_date": "",
   "longt": 36.2622426947,
   "lati": 49.9378772823,
-  "FullNameUA": "проспект Гагаріна, 185/1"
+  "FullNameUA": "проспект Гагаріна, 185/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 167945,
+  "postcode": 61105,
+  "number": 185,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2628694807,
+  "lati": 49.9353874655,
+  "FullNameUA": "проспект Гагаріна, 185",
+  "ChildsIds": []
  },
  {
   "id": 167948,
@@ -5347,7 +5644,8 @@
   "reg_date": "",
   "longt": 36.2630321693,
   "lati": 49.9341311326,
-  "FullNameUA": "проспект Гагаріна, 187"
+  "FullNameUA": "проспект Гагаріна, 187",
+  "ChildsIds": []
  },
  {
   "id": 167949,
@@ -5372,13 +5670,14 @@
   "reg_date": "",
   "longt": 36.2650308577,
   "lati": 49.9330180992,
-  "FullNameUA": "проспект Гагаріна, 187/1"
+  "FullNameUA": "проспект Гагаріна, 187/1",
+  "ChildsIds": []
  },
  {
-  "id": 167952,
-  "postcode": 61105,
+  "id": 167951,
+  "postcode": 61080,
   "number": 191,
-  "suffix": "/1",
+  "suffix": "А",
   "block": "",
   "streetid": 2401,
   "status_id": 1,
@@ -5393,11 +5692,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2629704018,
-  "lati": 49.9322615984,
-  "FullNameUA": "проспект Гагаріна, 191/1"
+  "longt": 36.2646522256,
+  "lati": 49.9307533179,
+  "FullNameUA": "проспект Гагаріна, 191-А",
+  "ChildsIds": []
  },
  {
   "id": 167950,
@@ -5422,13 +5722,14 @@
   "reg_date": "",
   "longt": 36.2638907427,
   "lati": 49.930701469,
-  "FullNameUA": "проспект Гагаріна, 191"
+  "FullNameUA": "проспект Гагаріна, 191",
+  "ChildsIds": []
  },
  {
-  "id": 167951,
-  "postcode": 61080,
+  "id": 167952,
+  "postcode": 61105,
   "number": 191,
-  "suffix": "А",
+  "suffix": "/1",
   "block": "",
   "streetid": 2401,
   "status_id": 1,
@@ -5443,11 +5744,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.264652225599995,
-  "lati": 49.9307533179,
-  "FullNameUA": "проспект Гагаріна, 191-А"
+  "longt": 36.2629704018,
+  "lati": 49.9322615984,
+  "FullNameUA": "проспект Гагаріна, 191/1",
+  "ChildsIds": []
  },
  {
   "id": 167954,
@@ -5472,7 +5774,8 @@
   "reg_date": "",
   "longt": 36.2646370297,
   "lati": 49.9311281222,
-  "FullNameUA": "проспект Гагаріна, 193-А"
+  "FullNameUA": "проспект Гагаріна, 193-А",
+  "ChildsIds": []
  },
  {
   "id": 167955,
@@ -5495,9 +5798,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.266356412099995,
-  "lati": 49.930226887399996,
-  "FullNameUA": "проспект Гагаріна, 193-Б"
+  "longt": 36.2663564121,
+  "lati": 49.9302268874,
+  "FullNameUA": "проспект Гагаріна, 193-Б",
+  "ChildsIds": []
  },
  {
   "id": 167953,
@@ -5520,9 +5824,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.265079111599995,
+  "longt": 36.2650791116,
   "lati": 49.9301918985,
-  "FullNameUA": "проспект Гагаріна, 193"
+  "FullNameUA": "проспект Гагаріна, 193",
+  "ChildsIds": []
  },
  {
   "id": 167956,
@@ -5545,9 +5850,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264463975999995,
+  "longt": 36.264463976,
   "lati": 49.9297310354,
-  "FullNameUA": "проспект Гагаріна, 195"
+  "FullNameUA": "проспект Гагаріна, 195",
+  "ChildsIds": []
  },
  {
   "id": 167957,
@@ -5572,7 +5878,8 @@
   "reg_date": "",
   "longt": 36.2655419965,
   "lati": 49.9308711696,
-  "FullNameUA": "проспект Гагаріна, 195-А"
+  "FullNameUA": "проспект Гагаріна, 195-А",
+  "ChildsIds": []
  },
  {
   "id": 167958,
@@ -5597,7 +5904,60 @@
   "reg_date": "",
   "longt": 36.265536413,
   "lati": 49.9296678774,
-  "FullNameUA": "проспект Гагаріна, 197"
+  "FullNameUA": "проспект Гагаріна, 197",
+  "ChildsIds": []
+ },
+ {
+  "id": 167960,
+  "postcode": 61080,
+  "number": 199,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2662536625,
+  "lati": 49.9292161983,
+  "FullNameUA": "проспект Гагаріна, 199-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167961,
+  "postcode": 61080,
+  "number": 199,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.267442985,
+  "lati": 49.9295206658,
+  "FullNameUA": "проспект Гагаріна, 199/2",
+  "ChildsIds": []
  },
  {
   "id": 167959,
@@ -5622,107 +5982,8 @@
   "reg_date": "",
   "longt": 36.2650412706,
   "lati": 49.9290623576,
-  "FullNameUA": "проспект Гагаріна, 199"
- },
- {
-  "id": 167961,
-  "postcode": 61080,
-  "number": 199,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.267442984999995,
-  "lati": 49.9295206658,
-  "FullNameUA": "проспект Гагаріна, 199/2"
- },
- {
-  "id": 167960,
-  "postcode": 61080,
-  "number": 199,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2662536625,
-  "lati": 49.929216198300004,
-  "FullNameUA": "проспект Гагаріна, 199-А"
- },
- {
-  "id": 167962,
-  "postcode": 61080,
-  "number": 201,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2676232122,
-  "lati": 49.9281474061,
-  "FullNameUA": "проспект Гагаріна, 201"
- },
- {
-  "id": 179056,
-  "postcode": 61080,
-  "number": 201,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2669572775,
-  "lati": 49.9313574615,
-  "FullNameUA": "проспект Гагаріна, 201-В"
+  "FullNameUA": "проспект Гагаріна, 199",
+  "ChildsIds": []
  },
  {
   "id": 176582,
@@ -5747,13 +6008,14 @@
   "reg_date": "",
   "longt": 36.267004135,
   "lati": 49.927446457,
-  "FullNameUA": "проспект Гагаріна, 201-Б"
+  "FullNameUA": "проспект Гагаріна, 201-Б",
+  "ChildsIds": []
  },
  {
-  "id": 167964,
+  "id": 179056,
   "postcode": 61080,
   "number": 201,
-  "suffix": "Д",
+  "suffix": "В",
   "block": "",
   "streetid": 2401,
   "status_id": 1,
@@ -5766,13 +6028,40 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
+  "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "126, 23.02.2016",
-  "reg_date": "28.12.2019 10:55:44",
-  "longt": 36.267816886199995,
-  "lati": 49.926105166700005,
-  "FullNameUA": "проспект Гагаріна, 201-Д"
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2669572775,
+  "lati": 49.9313574615,
+  "FullNameUA": "проспект Гагаріна, 201-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 167962,
+  "postcode": 61080,
+  "number": 201,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2676232122,
+  "lati": 49.9281474061,
+  "FullNameUA": "проспект Гагаріна, 201",
+  "ChildsIds": []
  },
  {
   "id": 167963,
@@ -5795,9 +6084,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.266810215199996,
+  "longt": 36.2668102152,
   "lati": 49.9307987009,
-  "FullNameUA": "проспект Гагаріна, 201-А"
+  "FullNameUA": "проспект Гагаріна, 201-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 167964,
+  "postcode": 61080,
+  "number": 201,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "126, 23.02.2016",
+  "reg_date": "28.12.2019 10:55:44",
+  "longt": 36.2678168862,
+  "lati": 49.9261051667,
+  "FullNameUA": "проспект Гагаріна, 201-Д",
+  "ChildsIds": []
  },
  {
   "id": 167965,
@@ -5820,9 +6136,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273213251200005,
-  "lati": 49.919320147300006,
-  "FullNameUA": "проспект Гагаріна, 203"
+  "longt": 36.2732132512,
+  "lati": 49.9193201473,
+  "FullNameUA": "проспект Гагаріна, 203",
+  "ChildsIds": []
  },
  {
   "id": 167966,
@@ -5846,8 +6163,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2736693434,
-  "lati": 49.918787293600005,
-  "FullNameUA": "проспект Гагаріна, 205"
+  "lati": 49.9187872936,
+  "FullNameUA": "проспект Гагаріна, 205",
+  "ChildsIds": []
  },
  {
   "id": 167967,
@@ -5871,8 +6189,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2742816979,
-  "lati": 49.91881215750001,
-  "FullNameUA": "проспект Гагаріна, 205/1"
+  "lati": 49.9188121575,
+  "FullNameUA": "проспект Гагаріна, 205/1",
+  "ChildsIds": []
  },
  {
   "id": 167968,
@@ -5896,8 +6215,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.274579293,
-  "lati": 49.917904626100004,
-  "FullNameUA": "проспект Гагаріна, 207"
+  "lati": 49.9179046261,
+  "FullNameUA": "проспект Гагаріна, 207",
+  "ChildsIds": []
  },
  {
   "id": 167969,
@@ -5922,7 +6242,8 @@
   "reg_date": "",
   "longt": 36.2749396553,
   "lati": 49.9176539942,
-  "FullNameUA": "проспект Гагаріна, 209"
+  "FullNameUA": "проспект Гагаріна, 209",
+  "ChildsIds": []
  },
  {
   "id": 167970,
@@ -5946,8 +6267,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2763968044,
-  "lati": 49.915903647200004,
-  "FullNameUA": "проспект Гагаріна, 211"
+  "lati": 49.9159036472,
+  "FullNameUA": "проспект Гагаріна, 211",
+  "ChildsIds": []
  },
  {
   "id": 167971,
@@ -5972,7 +6294,8 @@
   "reg_date": "",
   "longt": 36.2765731307,
   "lati": 49.9148078933,
-  "FullNameUA": "проспект Гагаріна, 213"
+  "FullNameUA": "проспект Гагаріна, 213",
+  "ChildsIds": []
  },
  {
   "id": 167972,
@@ -5997,7 +6320,8 @@
   "reg_date": "24.07.2019 17:21:47",
   "longt": 36.2783719755,
   "lati": 49.912273654,
-  "FullNameUA": "проспект Гагаріна, 217"
+  "FullNameUA": "проспект Гагаріна, 217",
+  "ChildsIds": []
  },
  {
   "id": 159611,
@@ -6022,7 +6346,8 @@
   "reg_date": "23.12.2019 10:21:17",
   "longt": 36.2917813266,
   "lati": 49.8859264723,
-  "FullNameUA": "проспект Гагаріна, 221"
+  "FullNameUA": "проспект Гагаріна, 221",
+  "ChildsIds": []
  },
  {
   "id": 159612,
@@ -6046,8 +6371,9 @@
   "confrm": "32, 23.12.2015; 589, 22.08.2016",
   "reg_date": "23.12.2019 10:25:44",
   "longt": 36.29192375,
-  "lati": 49.884309283300006,
-  "FullNameUA": "проспект Гагаріна, 223"
+  "lati": 49.8843092833,
+  "FullNameUA": "проспект Гагаріна, 223",
+  "ChildsIds": []
  },
  {
   "id": 159613,
@@ -6070,9 +6396,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 781, 10.12.2014; 1735, 24.12.2014",
   "reg_date": "01.03.2019 12:06:32",
-  "longt": 36.292682323499996,
-  "lati": 49.883315245800006,
-  "FullNameUA": "проспект Гагаріна, 225"
+  "longt": 36.2926823235,
+  "lati": 49.8833152458,
+  "FullNameUA": "проспект Гагаріна, 225",
+  "ChildsIds": []
  },
  {
   "id": 159614,
@@ -6097,32 +6424,8 @@
   "reg_date": "01.03.2019 11:59:16",
   "longt": 36.2931978886,
   "lati": 49.8832539621,
-  "FullNameUA": "проспект Гагаріна, 227"
- },
- {
-  "id": 159615,
-  "postcode": 61009,
-  "number": 244,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2592272747,
-  "lati": 49.946158753,
-  "FullNameUA": "проспект Гагаріна, 244"
+  "FullNameUA": "проспект Гагаріна, 227",
+  "ChildsIds": []
  },
  {
   "id": 178905,
@@ -6147,7 +6450,34 @@
   "reg_date": "",
   "longt": 36.2594715067,
   "lati": 49.9464168179,
-  "FullNameUA": "проспект Гагаріна, 244-Б"
+  "FullNameUA": "проспект Гагаріна, 244-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159615,
+  "postcode": 61009,
+  "number": 244,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2592272747,
+  "lati": 49.946158753,
+  "FullNameUA": "проспект Гагаріна, 244",
+  "ChildsIds": []
  },
  {
   "id": 159616,
@@ -6171,8 +6501,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2591694339,
-  "lati": 49.945319508299995,
-  "FullNameUA": "проспект Гагаріна, 246"
+  "lati": 49.9453195083,
+  "FullNameUA": "проспект Гагаріна, 246",
+  "ChildsIds": []
  },
  {
   "id": 159617,
@@ -6197,7 +6528,8 @@
   "reg_date": "",
   "longt": 36.2591403617,
   "lati": 49.9446928036,
-  "FullNameUA": "проспект Гагаріна, 248"
+  "FullNameUA": "проспект Гагаріна, 248",
+  "ChildsIds": []
  },
  {
   "id": 159618,
@@ -6222,7 +6554,8 @@
   "reg_date": "",
   "longt": 36.2591553113,
   "lati": 49.9440594249,
-  "FullNameUA": "проспект Гагаріна, 250"
+  "FullNameUA": "проспект Гагаріна, 250",
+  "ChildsIds": []
  },
  {
   "id": 159619,
@@ -6247,7 +6580,8 @@
   "reg_date": "",
   "longt": 36.259188371,
   "lati": 49.9434030256,
-  "FullNameUA": "проспект Гагаріна, 252"
+  "FullNameUA": "проспект Гагаріна, 252",
+  "ChildsIds": []
  },
  {
   "id": 159620,
@@ -6272,7 +6606,8 @@
   "reg_date": "",
   "longt": 36.2590258058,
   "lati": 49.942847089,
-  "FullNameUA": "проспект Гагаріна, 254"
+  "FullNameUA": "проспект Гагаріна, 254",
+  "ChildsIds": []
  },
  {
   "id": 159621,
@@ -6296,8 +6631,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2588173232,
-  "lati": 49.942421539399994,
-  "FullNameUA": "проспект Гагаріна, 256"
+  "lati": 49.9424215394,
+  "FullNameUA": "проспект Гагаріна, 256",
+  "ChildsIds": []
  },
  {
   "id": 159622,
@@ -6322,7 +6658,34 @@
   "reg_date": "",
   "longt": 36.2593808457,
   "lati": 49.9424315331,
-  "FullNameUA": "проспект Гагаріна, 258"
+  "FullNameUA": "проспект Гагаріна, 258",
+  "ChildsIds": []
+ },
+ {
+  "id": 159624,
+  "postcode": 61009,
+  "number": 260,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2586470307,
+  "lati": 49.9410278758,
+  "FullNameUA": "проспект Гагаріна, 260-А",
+  "ChildsIds": []
  },
  {
   "id": 159623,
@@ -6347,32 +6710,8 @@
   "reg_date": "",
   "longt": 36.2593228897,
   "lati": 49.94135834,
-  "FullNameUA": "проспект Гагаріна, 260"
- },
- {
-  "id": 159624,
-  "postcode": 61009,
-  "number": 260,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2586470307,
-  "lati": 49.941027875799996,
-  "FullNameUA": "проспект Гагаріна, 260-А"
+  "FullNameUA": "проспект Гагаріна, 260",
+  "ChildsIds": []
  },
  {
   "id": 159625,
@@ -6397,7 +6736,8 @@
   "reg_date": "",
   "longt": 36.2596087348,
   "lati": 49.9408020674,
-  "FullNameUA": "проспект Гагаріна, 262"
+  "FullNameUA": "проспект Гагаріна, 262",
+  "ChildsIds": []
  },
  {
   "id": 159626,
@@ -6421,8 +6761,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2594994275,
-  "lati": 49.940351078999996,
-  "FullNameUA": "проспект Гагаріна, 264"
+  "lati": 49.940351079,
+  "FullNameUA": "проспект Гагаріна, 264",
+  "ChildsIds": []
  },
  {
   "id": 159627,
@@ -6447,7 +6788,8 @@
   "reg_date": "",
   "longt": 36.2571669449,
   "lati": 49.9387412669,
-  "FullNameUA": "проспект Гагаріна, 266"
+  "FullNameUA": "проспект Гагаріна, 266",
+  "ChildsIds": []
  },
  {
   "id": 159628,
@@ -6470,9 +6812,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260541520299995,
+  "longt": 36.2605415203,
   "lati": 49.9381390602,
-  "FullNameUA": "проспект Гагаріна, 268"
+  "FullNameUA": "проспект Гагаріна, 268",
+  "ChildsIds": []
  },
  {
   "id": 159629,
@@ -6497,7 +6840,8 @@
   "reg_date": "",
   "longt": 36.2605899658,
   "lati": 49.9379437593,
-  "FullNameUA": "проспект Гагаріна, 270"
+  "FullNameUA": "проспект Гагаріна, 270",
+  "ChildsIds": []
  },
  {
   "id": 159630,
@@ -6522,7 +6866,8 @@
   "reg_date": "",
   "longt": 36.2606228099,
   "lati": 49.937760996,
-  "FullNameUA": "проспект Гагаріна, 272"
+  "FullNameUA": "проспект Гагаріна, 272",
+  "ChildsIds": []
  },
  {
   "id": 159631,
@@ -6547,7 +6892,8 @@
   "reg_date": "",
   "longt": 36.2607466699,
   "lati": 49.9374921756,
-  "FullNameUA": "проспект Гагаріна, 274"
+  "FullNameUA": "проспект Гагаріна, 274",
+  "ChildsIds": []
  },
  {
   "id": 159632,
@@ -6572,7 +6918,8 @@
   "reg_date": "",
   "longt": 36.2607329056,
   "lati": 49.9373788249,
-  "FullNameUA": "проспект Гагаріна, 276/33"
+  "FullNameUA": "проспект Гагаріна, 276/33",
+  "ChildsIds": []
  },
  {
   "id": 159633,
@@ -6597,7 +6944,8 @@
   "reg_date": "",
   "longt": 36.2608039214,
   "lati": 49.9367578292,
-  "FullNameUA": "проспект Гагаріна, 278"
+  "FullNameUA": "проспект Гагаріна, 278",
+  "ChildsIds": []
  },
  {
   "id": 159634,
@@ -6622,7 +6970,8 @@
   "reg_date": "",
   "longt": 36.2605935299,
   "lati": 49.9364669952,
-  "FullNameUA": "проспект Гагаріна, 280"
+  "FullNameUA": "проспект Гагаріна, 280",
+  "ChildsIds": []
  },
  {
   "id": 159635,
@@ -6647,7 +6996,8 @@
   "reg_date": "",
   "longt": 36.2609515367,
   "lati": 49.9355719997,
-  "FullNameUA": "проспект Гагаріна, 286"
+  "FullNameUA": "проспект Гагаріна, 286",
+  "ChildsIds": []
  },
  {
   "id": 159636,
@@ -6672,7 +7022,8 @@
   "reg_date": "",
   "longt": 36.2610366407,
   "lati": 49.9353856416,
-  "FullNameUA": "проспект Гагаріна, 288"
+  "FullNameUA": "проспект Гагаріна, 288",
+  "ChildsIds": []
  },
  {
   "id": 176544,
@@ -6696,8 +7047,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2609925241,
-  "lati": 49.935018778999996,
-  "FullNameUA": "проспект Гагаріна, 290"
+  "lati": 49.935018779,
+  "FullNameUA": "проспект Гагаріна, 290",
+  "ChildsIds": []
  },
  {
   "id": 159637,
@@ -6722,7 +7074,8 @@
   "reg_date": "",
   "longt": 36.2610673846,
   "lati": 49.934600963,
-  "FullNameUA": "проспект Гагаріна, 292"
+  "FullNameUA": "проспект Гагаріна, 292",
+  "ChildsIds": []
  },
  {
   "id": 159638,
@@ -6747,7 +7100,8 @@
   "reg_date": "",
   "longt": 36.2610226638,
   "lati": 49.9338405836,
-  "FullNameUA": "проспект Гагаріна, 296"
+  "FullNameUA": "проспект Гагаріна, 296",
+  "ChildsIds": []
  },
  {
   "id": 159639,
@@ -6770,9 +7124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261124077699996,
-  "lati": 49.933301683399996,
-  "FullNameUA": "проспект Гагаріна, 298"
+  "longt": 36.2611240777,
+  "lati": 49.9333016834,
+  "FullNameUA": "проспект Гагаріна, 298",
+  "ChildsIds": []
  },
  {
   "id": 159640,
@@ -6797,7 +7152,8 @@
   "reg_date": "",
   "longt": 36.2610888709,
   "lati": 49.9328034681,
-  "FullNameUA": "проспект Гагаріна, 300"
+  "FullNameUA": "проспект Гагаріна, 300",
+  "ChildsIds": []
  },
  {
   "id": 159641,
@@ -6820,9 +7176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261427185799995,
+  "longt": 36.2614271858,
   "lati": 49.9311936386,
-  "FullNameUA": "проспект Гагаріна, 302"
+  "FullNameUA": "проспект Гагаріна, 302",
+  "ChildsIds": []
  },
  {
   "id": 159642,
@@ -6845,9 +7202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261224880099995,
+  "longt": 36.2612248801,
   "lati": 49.9323986107,
-  "FullNameUA": "проспект Гагаріна, 304"
+  "FullNameUA": "проспект Гагаріна, 304",
+  "ChildsIds": []
  },
  {
   "id": 159643,
@@ -6870,9 +7228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262145530299996,
+  "longt": 36.2621455303,
   "lati": 49.9301355119,
-  "FullNameUA": "проспект Гагаріна, 306"
+  "FullNameUA": "проспект Гагаріна, 306",
+  "ChildsIds": []
  },
  {
   "id": 159644,
@@ -6895,9 +7254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262527453699995,
+  "longt": 36.2625274537,
   "lati": 49.9296822449,
-  "FullNameUA": "проспект Гагаріна, 308"
+  "FullNameUA": "проспект Гагаріна, 308",
+  "ChildsIds": []
  },
  {
   "id": 159645,
@@ -6922,7 +7282,8 @@
   "reg_date": "",
   "longt": 36.2633886455,
   "lati": 49.9290951331,
-  "FullNameUA": "проспект Гагаріна, 310"
+  "FullNameUA": "проспект Гагаріна, 310",
+  "ChildsIds": []
  },
  {
   "id": 159646,
@@ -6946,8 +7307,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2626003532,
-  "lati": 49.928953226400004,
-  "FullNameUA": "проспект Гагаріна, 310-А"
+  "lati": 49.9289532264,
+  "FullNameUA": "проспект Гагаріна, 310-А",
+  "ChildsIds": []
  },
  {
   "id": 159648,
@@ -6972,7 +7334,8 @@
   "reg_date": "",
   "longt": 36.2630932359,
   "lati": 49.9277652229,
-  "FullNameUA": "проспект Гагаріна, 312-А"
+  "FullNameUA": "проспект Гагаріна, 312-А",
+  "ChildsIds": []
  },
  {
   "id": 159647,
@@ -6995,9 +7358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263471730999996,
+  "longt": 36.263471731,
   "lati": 49.9280584769,
-  "FullNameUA": "проспект Гагаріна, 312"
+  "FullNameUA": "проспект Гагаріна, 312",
+  "ChildsIds": []
  },
  {
   "id": 159649,
@@ -7022,32 +7386,8 @@
   "reg_date": "",
   "longt": 36.2638712761,
   "lati": 49.927590644,
-  "FullNameUA": "проспект Гагаріна, 314"
- },
- {
-  "id": 159650,
-  "postcode": 61080,
-  "number": 314,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.263433628899996,
-  "lati": 49.9273725532,
-  "FullNameUA": "проспект Гагаріна, 314-А"
+  "FullNameUA": "проспект Гагаріна, 314",
+  "ChildsIds": []
  },
  {
   "id": 159651,
@@ -7070,9 +7410,62 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.264232231099996,
+  "longt": 36.2642322311,
   "lati": 49.9279295308,
-  "FullNameUA": "проспект Гагаріна, 314-Б"
+  "FullNameUA": "проспект Гагаріна, 314-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159650,
+  "postcode": 61080,
+  "number": 314,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2634336289,
+  "lati": 49.9273725532,
+  "FullNameUA": "проспект Гагаріна, 314-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159656,
+  "postcode": 61031,
+  "number": 316,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.272836811,
+  "lati": 49.9170516052,
+  "FullNameUA": "проспект Гагаріна, 316-Г",
+  "ChildsIds": []
  },
  {
   "id": 159657,
@@ -7097,7 +7490,8 @@
   "reg_date": "",
   "longt": 36.2735581178,
   "lati": 49.9166445695,
-  "FullNameUA": "проспект Гагаріна, 316-Д"
+  "FullNameUA": "проспект Гагаріна, 316-Д",
+  "ChildsIds": []
  },
  {
   "id": 159658,
@@ -7120,59 +7514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274232600800005,
-  "lati": 49.917044661300004,
-  "FullNameUA": "проспект Гагаріна, 316-Е"
- },
- {
-  "id": 159659,
-  "postcode": 61031,
-  "number": 316,
-  "suffix": "Ж",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "60, 17.02.2010",
-  "reg_date": "16.01.2019 15:06:50",
-  "longt": 36.265418073,
-  "lati": 49.9268385627,
-  "FullNameUA": "проспект Гагаріна, 316-Ж"
- },
- {
-  "id": 159656,
-  "postcode": 61031,
-  "number": 316,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.272836811000005,
-  "lati": 49.9170516052,
-  "FullNameUA": "проспект Гагаріна, 316-Г"
+  "longt": 36.2742326008,
+  "lati": 49.9170446613,
+  "FullNameUA": "проспект Гагаріна, 316-Е",
+  "ChildsIds": []
  },
  {
   "id": 159654,
@@ -7196,8 +7541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2739454986,
-  "lati": 49.91592538890001,
-  "FullNameUA": "проспект Гагаріна, 316-Б"
+  "lati": 49.9159253889,
+  "FullNameUA": "проспект Гагаріна, 316-Б",
+  "ChildsIds": []
  },
  {
   "id": 159653,
@@ -7222,7 +7568,8 @@
   "reg_date": "",
   "longt": 36.2637886256,
   "lati": 49.9269644488,
-  "FullNameUA": "проспект Гагаріна, 316-А"
+  "FullNameUA": "проспект Гагаріна, 316-А",
+  "ChildsIds": []
  },
  {
   "id": 159652,
@@ -7245,9 +7592,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264281212899995,
+  "longt": 36.2642812129,
   "lati": 49.9271298559,
-  "FullNameUA": "проспект Гагаріна, 316"
+  "FullNameUA": "проспект Гагаріна, 316",
+  "ChildsIds": []
+ },
+ {
+  "id": 159659,
+  "postcode": 61031,
+  "number": 316,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "60, 17.02.2010",
+  "reg_date": "16.01.2019 15:06:50",
+  "longt": 36.265418073,
+  "lati": 49.9268385627,
+  "FullNameUA": "проспект Гагаріна, 316-Ж",
+  "ChildsIds": []
  },
  {
   "id": 159655,
@@ -7272,7 +7646,8 @@
   "reg_date": "",
   "longt": 36.2744776691,
   "lati": 49.9152957164,
-  "FullNameUA": "проспект Гагаріна, 316-В"
+  "FullNameUA": "проспект Гагаріна, 316-В",
+  "ChildsIds": []
  },
  {
   "id": 159662,
@@ -7295,34 +7670,10 @@
   "same_adr_comm": "",
   "confrm": "862, 30.11.2011",
   "reg_date": "27.12.2019 11:49:07",
-  "longt": 36.267200498899996,
+  "longt": 36.2672004989,
   "lati": 49.9240773445,
-  "FullNameUA": "проспект Гагаріна, 318-Г"
- },
- {
-  "id": 159660,
-  "postcode": 61031,
-  "number": 318,
-  "suffix": "",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.269461374399995,
-  "lati": 49.9220143709,
-  "FullNameUA": "проспект Гагаріна, 318"
+  "FullNameUA": "проспект Гагаріна, 318-Г",
+  "ChildsIds": []
  },
  {
   "id": 159661,
@@ -7346,8 +7697,37 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2664434472,
-  "lati": 49.924804385600005,
-  "FullNameUA": "проспект Гагаріна, 318-В"
+  "lati": 49.9248043856,
+  "FullNameUA": "проспект Гагаріна, 318-В",
+  "ChildsIds": [
+   159662
+  ]
+ },
+ {
+  "id": 159660,
+  "postcode": 61031,
+  "number": 318,
+  "suffix": "",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2694613744,
+  "lati": 49.9220143709,
+  "FullNameUA": "проспект Гагаріна, 318",
+  "ChildsIds": []
  },
  {
   "id": 159663,
@@ -7372,7 +7752,8 @@
   "reg_date": "",
   "longt": 36.2696687844,
   "lati": 49.9217903922,
-  "FullNameUA": "проспект Гагаріна, 320"
+  "FullNameUA": "проспект Гагаріна, 320",
+  "ChildsIds": []
  },
  {
   "id": 159664,
@@ -7395,9 +7776,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269865392499995,
+  "longt": 36.2698653925,
   "lati": 49.9215520908,
-  "FullNameUA": "проспект Гагаріна, 322"
+  "FullNameUA": "проспект Гагаріна, 322",
+  "ChildsIds": []
  },
  {
   "id": 159665,
@@ -7422,7 +7804,8 @@
   "reg_date": "",
   "longt": 36.2700614333,
   "lati": 49.9213121856,
-  "FullNameUA": "проспект Гагаріна, 324"
+  "FullNameUA": "проспект Гагаріна, 324",
+  "ChildsIds": []
  },
  {
   "id": 159666,
@@ -7447,7 +7830,8 @@
   "reg_date": "",
   "longt": 36.2702599168,
   "lati": 49.9210686905,
-  "FullNameUA": "проспект Гагаріна, 326"
+  "FullNameUA": "проспект Гагаріна, 326",
+  "ChildsIds": []
  },
  {
   "id": 159667,
@@ -7471,8 +7855,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2704643813,
-  "lati": 49.920837756000005,
-  "FullNameUA": "проспект Гагаріна, 328"
+  "lati": 49.920837756,
+  "FullNameUA": "проспект Гагаріна, 328",
+  "ChildsIds": []
  },
  {
   "id": 159668,
@@ -7496,8 +7881,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2707564716,
-  "lati": 49.920506626000005,
-  "FullNameUA": "проспект Гагаріна, 330"
+  "lati": 49.920506626,
+  "FullNameUA": "проспект Гагаріна, 330",
+  "ChildsIds": []
  },
  {
   "id": 159669,
@@ -7520,9 +7906,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.270951395500006,
+  "longt": 36.2709513955,
   "lati": 49.9202757424,
-  "FullNameUA": "проспект Гагаріна, 332"
+  "FullNameUA": "проспект Гагаріна, 332",
+  "ChildsIds": []
  },
  {
   "id": 159670,
@@ -7545,59 +7932,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27127386550001,
+  "longt": 36.2712738655,
   "lati": 49.9198482854,
-  "FullNameUA": "проспект Гагаріна, 334"
- },
- {
-  "id": 159673,
-  "postcode": 61031,
-  "number": 336,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2723053312,
-  "lati": 49.9186694623,
-  "FullNameUA": "проспект Гагаріна, 336-Б"
- },
- {
-  "id": 159674,
-  "postcode": 61031,
-  "number": 336,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "19, 04.02.2003",
-  "reg_date": "17.01.2019 15:22:49",
-  "longt": 36.271662687200006,
-  "lati": 49.919271309500004,
-  "FullNameUA": "проспект Гагаріна, 336-Г"
+  "FullNameUA": "проспект Гагаріна, 334",
+  "ChildsIds": []
  },
  {
   "id": 159671,
@@ -7622,7 +7960,8 @@
   "reg_date": "",
   "longt": 36.2715255533,
   "lati": 49.9195643782,
-  "FullNameUA": "проспект Гагаріна, 336"
+  "FullNameUA": "проспект Гагаріна, 336",
+  "ChildsIds": []
  },
  {
   "id": 159672,
@@ -7647,7 +7986,86 @@
   "reg_date": "17.01.2019 15:24:09",
   "longt": 36.2719227332,
   "lati": 49.9189995252,
-  "FullNameUA": "проспект Гагаріна, 336-А"
+  "FullNameUA": "проспект Гагаріна, 336-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159674,
+  "postcode": 61031,
+  "number": 336,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "19, 04.02.2003",
+  "reg_date": "17.01.2019 15:22:49",
+  "longt": 36.2716626872,
+  "lati": 49.9192713095,
+  "FullNameUA": "проспект Гагаріна, 336-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 159673,
+  "postcode": 61031,
+  "number": 336,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2723053312,
+  "lati": 49.9186694623,
+  "FullNameUA": "проспект Гагаріна, 336-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159676,
+  "postcode": 61031,
+  "number": 348,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2743007725,
+  "lati": 49.9142932588,
+  "FullNameUA": "проспект Гагаріна, 348-Б",
+  "ChildsIds": []
  },
  {
   "id": 159675,
@@ -7672,32 +8090,8 @@
   "reg_date": "",
   "longt": 36.2756626664,
   "lati": 49.9140186166,
-  "FullNameUA": "проспект Гагаріна, 348"
- },
- {
-  "id": 159676,
-  "postcode": 61031,
-  "number": 348,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.274300772500006,
-  "lati": 49.9142932588,
-  "FullNameUA": "проспект Гагаріна, 348-Б"
+  "FullNameUA": "проспект Гагаріна, 348",
+  "ChildsIds": []
  },
  {
   "id": 159677,
@@ -7720,9 +8114,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275040567800005,
+  "longt": 36.2750405678,
   "lati": 49.910926414,
-  "FullNameUA": "проспект Гагаріна, 350"
+  "FullNameUA": "проспект Гагаріна, 350",
+  "ChildsIds": []
  },
  {
   "id": 159678,
@@ -7745,34 +8140,10 @@
   "same_adr_comm": "нежитлова будівля літ. \"В-1\"",
   "confrm": "",
   "reg_date": "13.12.2019 10:34:11",
-  "longt": 36.277164686000006,
+  "longt": 36.277164686,
   "lati": 49.9096593,
-  "FullNameUA": "проспект Гагаріна, 352"
- },
- {
-  "id": 159681,
-  "postcode": 61109,
-  "number": 354,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2798538679,
-  "lati": 49.900462200599996,
-  "FullNameUA": "проспект Гагаріна, 354-В"
+  "FullNameUA": "проспект Гагаріна, 352",
+  "ChildsIds": []
  },
  {
   "id": 159680,
@@ -7797,7 +8168,34 @@
   "reg_date": "",
   "longt": 36.275218443,
   "lati": 49.9022688451,
-  "FullNameUA": "проспект Гагаріна, 354-Б"
+  "FullNameUA": "проспект Гагаріна, 354-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 159681,
+  "postcode": 61109,
+  "number": 354,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2798538679,
+  "lati": 49.9004622006,
+  "FullNameUA": "проспект Гагаріна, 354-В",
+  "ChildsIds": []
  },
  {
   "id": 159679,
@@ -7822,32 +8220,8 @@
   "reg_date": "",
   "longt": 36.2831505316,
   "lati": 49.8990429189,
-  "FullNameUA": "проспект Гагаріна, 354"
- },
- {
-  "id": 159683,
-  "postcode": 61109,
-  "number": 356,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Червонозаводської  райради № 30, 27.01.2009",
-  "reg_date": "28.02.2019 11:15:27",
-  "longt": 36.2850345239,
-  "lati": 49.8949020883,
-  "FullNameUA": "проспект Гагаріна, 356-Б"
+  "FullNameUA": "проспект Гагаріна, 354",
+  "ChildsIds": []
  },
  {
   "id": 159682,
@@ -7872,7 +8246,34 @@
   "reg_date": "",
   "longt": 36.2840472298,
   "lati": 49.8963262348,
-  "FullNameUA": "проспект Гагаріна, 356"
+  "FullNameUA": "проспект Гагаріна, 356",
+  "ChildsIds": []
+ },
+ {
+  "id": 159683,
+  "postcode": 61109,
+  "number": 356,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Червонозаводської  райради № 30, 27.01.2009",
+  "reg_date": "28.02.2019 11:15:27",
+  "longt": 36.2850345239,
+  "lati": 49.8949020883,
+  "FullNameUA": "проспект Гагаріна, 356-Б",
+  "ChildsIds": []
  },
  {
   "id": 159684,
@@ -7897,32 +8298,8 @@
   "reg_date": "",
   "longt": 36.2835153937,
   "lati": 49.8974507357,
-  "FullNameUA": "проспект Гагаріна, 358"
- },
- {
-  "id": 175642,
-  "postcode": 61109,
-  "number": 360,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2401,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.272947803700006,
-  "lati": 49.8931204666,
-  "FullNameUA": "проспект Гагаріна, 360-Б"
+  "FullNameUA": "проспект Гагаріна, 358",
+  "ChildsIds": []
  },
  {
   "id": 159686,
@@ -7945,9 +8322,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274342954000005,
-  "lati": 49.893290599800004,
-  "FullNameUA": "проспект Гагаріна, 360-А"
+  "longt": 36.274342954,
+  "lati": 49.8932905998,
+  "FullNameUA": "проспект Гагаріна, 360-А",
+  "ChildsIds": []
  },
  {
   "id": 159685,
@@ -7972,7 +8350,34 @@
   "reg_date": "",
   "longt": 36.2737097018,
   "lati": 49.8921082029,
-  "FullNameUA": "проспект Гагаріна, 360"
+  "FullNameUA": "проспект Гагаріна, 360",
+  "ChildsIds": []
+ },
+ {
+  "id": 175642,
+  "postcode": 61109,
+  "number": 360,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2401,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2729478037,
+  "lati": 49.8931204666,
+  "FullNameUA": "проспект Гагаріна, 360-Б",
+  "ChildsIds": []
  },
  {
   "id": 159687,
@@ -7997,7 +8402,8 @@
   "reg_date": "23.12.2019 12:36:40",
   "longt": 36.2880449742,
   "lati": 49.8885692038,
-  "FullNameUA": "проспект Гагаріна, 362"
+  "FullNameUA": "проспект Гагаріна, 362",
+  "ChildsIds": []
  },
  {
   "id": 159688,
@@ -8020,8 +8426,9 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.283400973700004,
+  "longt": 36.2834009737,
   "lati": 49.8825575794,
-  "FullNameUA": "проспект Гагаріна, 370"
+  "FullNameUA": "проспект Гагаріна, 370",
+  "ChildsIds": []
  }
 ]

@@ -21,33 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2558356809,
-  "lati": 49.957161192300006,
-  "FullNameUA": "вулиця Ширяєва, 1/19"
- },
- {
-  "id": 167025,
-  "postcode": 61124,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4406,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2558307376,
-  "lati": 49.956878612400004,
-  "FullNameUA": "вулиця Ширяєва, 3-А"
+  "lati": 49.9571611923,
+  "FullNameUA": "вулиця Ширяєва, 1/19",
+  "ChildsIds": []
  },
  {
   "id": 167024,
@@ -71,8 +47,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.255823555,
-  "lati": 49.956960218000006,
-  "FullNameUA": "вулиця Ширяєва, 3"
+  "lati": 49.956960218,
+  "FullNameUA": "вулиця Ширяєва, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 167025,
+  "postcode": 61124,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4406,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2558307376,
+  "lati": 49.9568786124,
+  "FullNameUA": "вулиця Ширяєва, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 167027,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2548490258,
   "lati": 49.9571148383,
-  "FullNameUA": "вулиця Ширяєва, 4-А"
+  "FullNameUA": "вулиця Ширяєва, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 167026,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2548117987,
   "lati": 49.9569074966,
-  "FullNameUA": "вулиця Ширяєва, 4"
+  "FullNameUA": "вулиця Ширяєва, 4",
+  "ChildsIds": []
  },
  {
   "id": 167028,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.2558388906,
   "lati": 49.9567472896,
-  "FullNameUA": "вулиця Ширяєва, 5"
- },
- {
-  "id": 167029,
-  "postcode": 61124,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 4406,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "865, 14.12.2016",
-  "reg_date": "03.01.2017 16:01:28",
-  "longt": 36.25488905,
-  "lati": 49.9565947643,
-  "FullNameUA": "вулиця Ширяєва, 6"
+  "FullNameUA": "вулиця Ширяєва, 5",
+  "ChildsIds": []
  },
  {
   "id": 175854,
@@ -197,7 +178,36 @@
   "reg_date": "",
   "longt": 36.2548868805,
   "lati": 49.9566028567,
-  "FullNameUA": "вулиця Ширяєва, 6, корпус № 5"
+  "FullNameUA": "вулиця Ширяєва, 6, корпус № 5",
+  "ChildsIds": [
+   167029
+  ]
+ },
+ {
+  "id": 167029,
+  "postcode": 61124,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 4406,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "865, 14.12.2016",
+  "reg_date": "03.01.2017 16:01:28",
+  "longt": 36.25488905,
+  "lati": 49.9565947643,
+  "FullNameUA": "вулиця Ширяєва, 6",
+  "ChildsIds": []
  },
  {
   "id": 167030,
@@ -222,7 +232,8 @@
   "reg_date": "",
   "longt": 36.2553436945,
   "lati": 49.956950571,
-  "FullNameUA": "вулиця Ширяєва, 6-А"
+  "FullNameUA": "вулиця Ширяєва, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 167031,
@@ -246,8 +257,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2558598704,
-  "lati": 49.956531732100004,
-  "FullNameUA": "вулиця Ширяєва, 7"
+  "lati": 49.9565317321,
+  "FullNameUA": "вулиця Ширяєва, 7",
+  "ChildsIds": []
  },
  {
   "id": 167033,
@@ -271,33 +283,9 @@
   "confrm": "",
   "reg_date": "18.01.2019 10:39:22",
   "longt": 36.2548829695,
-  "lati": 49.956423519800005,
-  "FullNameUA": "вулиця Ширяєва, 8-А"
- },
- {
-  "id": 167032,
-  "postcode": 61124,
-  "number": 8,
-  "suffix": "",
-  "block": "",
-  "streetid": 4406,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2554457847,
-  "lati": 49.956455098700005,
-  "FullNameUA": "вулиця Ширяєва, 8"
+  "lati": 49.9564235198,
+  "FullNameUA": "вулиця Ширяєва, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 167034,
@@ -321,8 +309,35 @@
   "confrm": "917, 20.12.2011",
   "reg_date": "18.01.2019 10:37:27",
   "longt": 36.2547011253,
-  "lati": 49.956548800300006,
-  "FullNameUA": "вулиця Ширяєва, 8-В"
+  "lati": 49.9565488003,
+  "FullNameUA": "вулиця Ширяєва, 8-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 167032,
+  "postcode": 61124,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4406,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2554457847,
+  "lati": 49.9564550987,
+  "FullNameUA": "вулиця Ширяєва, 8",
+  "ChildsIds": []
  },
  {
   "id": 167035,
@@ -346,33 +361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2561964974,
-  "lati": 49.956336735700006,
-  "FullNameUA": "вулиця Ширяєва, 9"
- },
- {
-  "id": 167036,
-  "postcode": 61124,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 4406,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2554551724,
-  "lati": 49.956290796400005,
-  "FullNameUA": "вулиця Ширяєва, 10"
+  "lati": 49.9563367357,
+  "FullNameUA": "вулиця Ширяєва, 9",
+  "ChildsIds": []
  },
  {
   "id": 167037,
@@ -396,8 +387,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2548745816,
-  "lati": 49.956311103100006,
-  "FullNameUA": "вулиця Ширяєва, 10/1"
+  "lati": 49.9563111031,
+  "FullNameUA": "вулиця Ширяєва, 10/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 167036,
+  "postcode": 61124,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 4406,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2554551724,
+  "lati": 49.9562907964,
+  "FullNameUA": "вулиця Ширяєва, 10",
+  "ChildsIds": []
  },
  {
   "id": 167038,
@@ -421,33 +439,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2558843466,
-  "lati": 49.956223246600004,
-  "FullNameUA": "вулиця Ширяєва, 11"
- },
- {
-  "id": 167040,
-  "postcode": 61124,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4406,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2548881176,
-  "lati": 49.9560815278,
-  "FullNameUA": "вулиця Ширяєва, 12-А"
+  "lati": 49.9562232466,
+  "FullNameUA": "вулиця Ширяєва, 11",
+  "ChildsIds": []
  },
  {
   "id": 167039,
@@ -472,7 +466,34 @@
   "reg_date": "",
   "longt": 36.2554762682,
   "lati": 49.956096885,
-  "FullNameUA": "вулиця Ширяєва, 12"
+  "FullNameUA": "вулиця Ширяєва, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 167040,
+  "postcode": 61124,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4406,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2548881176,
+  "lati": 49.9560815278,
+  "FullNameUA": "вулиця Ширяєва, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 167041,
@@ -497,7 +518,8 @@
   "reg_date": "",
   "longt": 36.2561601023,
   "lati": 49.956078726,
-  "FullNameUA": "вулиця Ширяєва, 13"
+  "FullNameUA": "вулиця Ширяєва, 13",
+  "ChildsIds": []
  },
  {
   "id": 167042,
@@ -522,7 +544,8 @@
   "reg_date": "",
   "longt": 36.2555011074,
   "lati": 49.9559136696,
-  "FullNameUA": "вулиця Ширяєва, 14"
+  "FullNameUA": "вулиця Ширяєва, 14",
+  "ChildsIds": []
  },
  {
   "id": 167043,
@@ -546,8 +569,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2558959107,
-  "lati": 49.955831209500005,
-  "FullNameUA": "вулиця Ширяєва, 15"
+  "lati": 49.9558312095,
+  "FullNameUA": "вулиця Ширяєва, 15",
+  "ChildsIds": []
  },
  {
   "id": 175858,
@@ -571,8 +595,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.255488432,
-  "lati": 49.955608508900006,
-  "FullNameUA": "вулиця Ширяєва, 16/24"
+  "lati": 49.9556085089,
+  "FullNameUA": "вулиця Ширяєва, 16/24",
+  "ChildsIds": []
  },
  {
   "id": 176624,
@@ -595,9 +620,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.2559049924,
-  "lati": 49.9557360411,
-  "FullNameUA": "вулиця Ширяєва, 17"
+  "longt": 36.2559152559,
+  "lati": 49.9557256377,
+  "FullNameUA": "вулиця Ширяєва, 17",
+  "ChildsIds": []
  },
  {
   "id": 167044,
@@ -622,7 +648,8 @@
   "reg_date": "",
   "longt": 36.2559284505,
   "lati": 49.9552925976,
-  "FullNameUA": "вулиця Ширяєва, 19/13"
+  "FullNameUA": "вулиця Ширяєва, 19/13",
+  "ChildsIds": []
  },
  {
   "id": 167045,
@@ -646,8 +673,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2555119818,
-  "lati": 49.955042323700006,
-  "FullNameUA": "вулиця Ширяєва, 20"
+  "lati": 49.9550423237,
+  "FullNameUA": "вулиця Ширяєва, 20",
+  "ChildsIds": []
  },
  {
   "id": 167046,
@@ -671,8 +699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.255933012,
-  "lati": 49.955179360900004,
-  "FullNameUA": "вулиця Ширяєва, 21"
+  "lati": 49.9551793609,
+  "FullNameUA": "вулиця Ширяєва, 21",
+  "ChildsIds": []
  },
  {
   "id": 167047,
@@ -696,8 +725,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2555448429,
-  "lati": 49.954703047100004,
-  "FullNameUA": "вулиця Ширяєва, 22"
+  "lati": 49.9547030471,
+  "FullNameUA": "вулиця Ширяєва, 22",
+  "ChildsIds": []
  },
  {
   "id": 167048,
@@ -722,7 +752,8 @@
   "reg_date": "18.01.2019 11:14:29",
   "longt": 36.2555340152,
   "lati": 49.9548866203,
-  "FullNameUA": "вулиця Ширяєва, 22-А"
+  "FullNameUA": "вулиця Ширяєва, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 167049,
@@ -747,7 +778,8 @@
   "reg_date": "",
   "longt": 36.2559660912,
   "lati": 49.9550208657,
-  "FullNameUA": "вулиця Ширяєва, 23"
+  "FullNameUA": "вулиця Ширяєва, 23",
+  "ChildsIds": []
  },
  {
   "id": 175387,
@@ -771,8 +803,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2555592318,
-  "lati": 49.954502580500005,
-  "FullNameUA": "вулиця Ширяєва, 24/20"
+  "lati": 49.9545025805,
+  "FullNameUA": "вулиця Ширяєва, 24/20",
+  "ChildsIds": []
  },
  {
   "id": 167050,
@@ -797,6 +830,7 @@
   "reg_date": "",
   "longt": 36.2559319234,
   "lati": 49.9548414388,
-  "FullNameUA": "вулиця Ширяєва, 25"
+  "FullNameUA": "вулиця Ширяєва, 25",
+  "ChildsIds": []
  }
 ]

@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.3038745432,
   "lati": 49.9505570671,
-  "FullNameUA": "проїзд Садовий, 1"
- },
- {
-  "id": 170126,
-  "postcode": 61128,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3042501205,
-  "lati": 49.9482968611,
-  "FullNameUA": "проїзд Садовий, 2"
+  "FullNameUA": "проїзд Садовий, 1",
+  "ChildsIds": []
  },
  {
   "id": 170127,
@@ -71,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3052779136,
-  "lati": 49.949438671799996,
-  "FullNameUA": "проїзд Садовий, 2-А"
+  "lati": 49.9494386718,
+  "FullNameUA": "проїзд Садовий, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 170128,
@@ -97,13 +74,14 @@
   "reg_date": "",
   "longt": 36.3034523373,
   "lati": 49.9499280369,
-  "FullNameUA": "проїзд Садовий, 2/16"
+  "FullNameUA": "проїзд Садовий, 2/16",
+  "ChildsIds": []
  },
  {
-  "id": 170130,
+  "id": 170126,
   "postcode": 61128,
-  "number": 3,
-  "suffix": "А",
+  "number": 2,
+  "suffix": "",
   "block": "",
   "streetid": 3845,
   "status_id": 1,
@@ -120,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30531809720001,
-  "lati": 49.9516198987,
-  "FullNameUA": "проїзд Садовий, 3-А"
+  "longt": 36.3042501205,
+  "lati": 49.9482968611,
+  "FullNameUA": "проїзд Садовий, 2",
+  "ChildsIds": []
  },
  {
   "id": 170129,
@@ -145,9 +124,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30559046530001,
+  "longt": 36.3055904653,
   "lati": 49.9508086385,
-  "FullNameUA": "проїзд Садовий, 3"
+  "FullNameUA": "проїзд Садовий, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 170130,
+  "postcode": 61128,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3053180972,
+  "lati": 49.9516198987,
+  "FullNameUA": "проїзд Садовий, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 170131,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304860866000006,
-  "lati": 49.948514948299994,
-  "FullNameUA": "проїзд Садовий, 4"
+  "longt": 36.304860866,
+  "lati": 49.9485149483,
+  "FullNameUA": "проїзд Садовий, 4",
+  "ChildsIds": []
  },
  {
   "id": 170132,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303785447100005,
-  "lati": 49.947619745299995,
-  "FullNameUA": "проїзд Садовий, 4-А"
+  "longt": 36.3037854471,
+  "lati": 49.9476197453,
+  "FullNameUA": "проїзд Садовий, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 170134,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3072246851,
   "lati": 49.9518582922,
-  "FullNameUA": "проїзд Садовий, 5-А"
+  "FullNameUA": "проїзд Садовий, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 170133,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306682542500006,
-  "lati": 49.951440597200005,
-  "FullNameUA": "проїзд Садовий, 5"
+  "longt": 36.3066825425,
+  "lati": 49.9514405972,
+  "FullNameUA": "проїзд Садовий, 5",
+  "ChildsIds": []
  },
  {
   "id": 170135,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3054517328,
   "lati": 49.9487244108,
-  "FullNameUA": "проїзд Садовий, 6"
+  "FullNameUA": "проїзд Садовий, 6",
+  "ChildsIds": []
  },
  {
   "id": 170136,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307842466500006,
-  "lati": 49.950630945300006,
-  "FullNameUA": "проїзд Садовий, 7"
+  "longt": 36.3078424665,
+  "lati": 49.9506309453,
+  "FullNameUA": "проїзд Садовий, 7",
+  "ChildsIds": []
  },
  {
   "id": 170137,
@@ -320,34 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306134109000006,
+  "longt": 36.306134109,
   "lati": 49.9489681631,
-  "FullNameUA": "проїзд Садовий, 8"
- },
- {
-  "id": 170138,
-  "postcode": 61128,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.308086891100004,
-  "lati": 49.9515783439,
-  "FullNameUA": "проїзд Садовий, 9"
+  "FullNameUA": "проїзд Садовий, 8",
+  "ChildsIds": []
  },
  {
   "id": 176194,
@@ -370,9 +358,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308751526100004,
+  "longt": 36.3087515261,
   "lati": 49.9512496723,
-  "FullNameUA": "проїзд Садовий, 9-А"
+  "FullNameUA": "проїзд Садовий, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170138,
+  "postcode": 61128,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3080868911,
+  "lati": 49.9515783439,
+  "FullNameUA": "проїзд Садовий, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 170139,
+  "postcode": 61162,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3065687683,
+  "lati": 49.9484343607,
+  "FullNameUA": "проїзд Садовий, 10",
+  "ChildsIds": []
  },
  {
   "id": 170140,
@@ -397,57 +438,8 @@
   "reg_date": "",
   "longt": 36.3054880683,
   "lati": 49.9478354678,
-  "FullNameUA": "проїзд Садовий, 10-А"
- },
- {
-  "id": 170139,
-  "postcode": 61162,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.306568768300004,
-  "lati": 49.9484343607,
-  "FullNameUA": "проїзд Садовий, 10"
- },
- {
-  "id": 170142,
-  "postcode": 61100,
-  "number": 11,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.310006048400005,
-  "lati": 49.9504467264,
-  "FullNameUA": "проїзд Садовий, 11-А"
+  "FullNameUA": "проїзд Садовий, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 170141,
@@ -471,8 +463,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3082240438,
-  "lati": 49.952037129100006,
-  "FullNameUA": "проїзд Садовий, 11"
+  "lati": 49.9520371291,
+  "FullNameUA": "проїзд Садовий, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 170142,
+  "postcode": 61100,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3100060484,
+  "lati": 49.9504467264,
+  "FullNameUA": "проїзд Садовий, 11-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170144,
+  "postcode": 61128,
+  "number": 12,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3070062483,
+  "lati": 49.9494036828,
+  "FullNameUA": "проїзд Садовий, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 170143,
@@ -497,32 +542,8 @@
   "reg_date": "",
   "longt": 36.3071626719,
   "lati": 49.9488570253,
-  "FullNameUA": "проїзд Садовий, 12"
- },
- {
-  "id": 170144,
-  "postcode": 61128,
-  "number": 12,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.307006248300006,
-  "lati": 49.949403682799996,
-  "FullNameUA": "проїзд Садовий, 12-А"
+  "FullNameUA": "проїзд Садовий, 12",
+  "ChildsIds": []
  },
  {
   "id": 175898,
@@ -547,7 +568,8 @@
   "reg_date": "11.01.2017 09:30:54",
   "longt": 36.3098022005,
   "lati": 49.9515236554,
-  "FullNameUA": "проїзд Садовий, 13"
+  "FullNameUA": "проїзд Садовий, 13",
+  "ChildsIds": []
  },
  {
   "id": 170145,
@@ -571,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.30815504,
-  "lati": 49.948778502799996,
-  "FullNameUA": "проїзд Садовий, 14"
+  "lati": 49.9487785028,
+  "FullNameUA": "проїзд Садовий, 14",
+  "ChildsIds": []
  },
  {
   "id": 178003,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 535, 21.08.2017",
   "reg_date": "04.09.2017 11:40:20",
-  "longt": 36.30967345450001,
-  "lati": 49.951109454800005,
-  "FullNameUA": "проїзд Садовий, 15, корпус № 2"
+  "longt": 36.3096734545,
+  "lati": 49.9511094548,
+  "FullNameUA": "проїзд Садовий, 15, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 178640,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 859, 27.12.2017",
   "reg_date": "09.01.2018 10:05:31",
-  "longt": 36.310485005400004,
+  "longt": 36.3104850054,
   "lati": 49.9509851939,
-  "FullNameUA": "проїзд Садовий, 15, корпус № 3"
+  "FullNameUA": "проїзд Садовий, 15, корпус № 3",
+  "ChildsIds": []
  },
  {
   "id": 175897,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "912, 28.12.2016",
   "reg_date": "10.01.2017 16:54:14",
-  "longt": 36.309555437300006,
-  "lati": 49.952144949700006,
-  "FullNameUA": "проїзд Садовий, 15, корпус № 1"
+  "longt": 36.3095554373,
+  "lati": 49.9521449497,
+  "FullNameUA": "проїзд Садовий, 15, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 170146,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308048003900005,
+  "longt": 36.3080480039,
   "lati": 49.949324237,
-  "FullNameUA": "проїзд Садовий, 16"
+  "FullNameUA": "проїзд Садовий, 16",
+  "ChildsIds": []
  },
  {
   "id": 170147,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308691715900004,
-  "lati": 49.949140176099995,
-  "FullNameUA": "проїзд Садовий, 16-А"
+  "longt": 36.3086917159,
+  "lati": 49.9491401761,
+  "FullNameUA": "проїзд Садовий, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 179995,
@@ -720,34 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "07.12.2018 15:21:58",
-  "longt": 36.3111351767,
-  "lati": 49.9497370327,
-  "FullNameUA": "проїзд Садовий, 17-А, гараж № 39"
- },
- {
-  "id": 170148,
-  "postcode": 61100,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3845,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3088476137,
-  "lati": 49.948755389,
-  "FullNameUA": "проїзд Садовий, 18"
+  "longt": 36.3112594582,
+  "lati": 49.9497196826,
+  "FullNameUA": "проїзд Садовий, 17-А, гараж № 39",
+  "ChildsIds": []
  },
  {
   "id": 170151,
@@ -772,7 +776,8 @@
   "reg_date": "",
   "longt": 36.3094807526,
   "lati": 49.9493289139,
-  "FullNameUA": "проїзд Садовий, 18/2"
+  "FullNameUA": "проїзд Садовий, 18/2",
+  "ChildsIds": []
  },
  {
   "id": 170149,
@@ -797,7 +802,34 @@
   "reg_date": "",
   "longt": 36.3095094601,
   "lati": 49.947890424,
-  "FullNameUA": "проїзд Садовий, 18/1"
+  "FullNameUA": "проїзд Садовий, 18/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 170148,
+  "postcode": 61100,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3845,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3088476137,
+  "lati": 49.948755389,
+  "FullNameUA": "проїзд Садовий, 18",
+  "ChildsIds": []
  },
  {
   "id": 170150,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3077310966,
   "lati": 49.9480493828,
-  "FullNameUA": "проїзд Садовий, 18-Б"
+  "FullNameUA": "проїзд Садовий, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 170153,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.310073126700004,
-  "lati": 49.948236289899995,
-  "FullNameUA": "проїзд Садовий, 20-А"
+  "longt": 36.3100731267,
+  "lati": 49.9482362899,
+  "FullNameUA": "проїзд Садовий, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 170152,
@@ -872,13 +906,14 @@
   "reg_date": "",
   "longt": 36.3103398467,
   "lati": 49.9492898455,
-  "FullNameUA": "проїзд Садовий, 20"
+  "FullNameUA": "проїзд Садовий, 20",
+  "ChildsIds": []
  },
  {
-  "id": 170156,
+  "id": 170155,
   "postcode": 61100,
   "number": 22,
-  "suffix": "Б",
+  "suffix": "А",
   "block": "",
   "streetid": 3845,
   "status_id": 1,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3104162273,
-  "lati": 49.947803386,
-  "FullNameUA": "проїзд Садовий, 22-Б"
+  "longt": 36.3111032321,
+  "lati": 49.9480205635,
+  "FullNameUA": "проїзд Садовий, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 170154,
@@ -922,13 +958,14 @@
   "reg_date": "",
   "longt": 36.3107588438,
   "lati": 49.9492376631,
-  "FullNameUA": "проїзд Садовий, 22"
+  "FullNameUA": "проїзд Садовий, 22",
+  "ChildsIds": []
  },
  {
-  "id": 170155,
+  "id": 170156,
   "postcode": 61100,
   "number": 22,
-  "suffix": "А",
+  "suffix": "Б",
   "block": "",
   "streetid": 3845,
   "status_id": 1,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3111032321,
-  "lati": 49.948020563499995,
-  "FullNameUA": "проїзд Садовий, 22-А"
+  "longt": 36.3104162273,
+  "lati": 49.947803386,
+  "FullNameUA": "проїзд Садовий, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 170158,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.310763092100004,
+  "longt": 36.3107630921,
   "lati": 49.9484661363,
-  "FullNameUA": "проїзд Садовий, 24-А"
+  "FullNameUA": "проїзд Садовий, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 170157,
@@ -996,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3111741263,
-  "lati": 49.949182574299996,
-  "FullNameUA": "проїзд Садовий, 24"
+  "lati": 49.9491825743,
+  "FullNameUA": "проїзд Садовий, 24",
+  "ChildsIds": []
  },
  {
   "id": 170159,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.311865638300006,
-  "lati": 49.949159118299995,
-  "FullNameUA": "проїзд Садовий, 26"
+  "longt": 36.3118656383,
+  "lati": 49.9491591183,
+  "FullNameUA": "проїзд Садовий, 26",
+  "ChildsIds": []
  },
  {
   "id": 170160,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.3122800913,
   "lati": 49.9491015161,
-  "FullNameUA": "проїзд Садовий, 28"
+  "FullNameUA": "проїзд Садовий, 28",
+  "ChildsIds": []
  },
  {
   "id": 170161,
@@ -1072,6 +1114,7 @@
   "reg_date": "",
   "longt": 36.3126960494,
   "lati": 49.9490495703,
-  "FullNameUA": "проїзд Садовий, 30"
+  "FullNameUA": "проїзд Садовий, 30",
+  "ChildsIds": []
  }
 ]

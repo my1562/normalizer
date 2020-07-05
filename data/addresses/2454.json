@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.23347063,
   "lati": 49.975878157,
-  "FullNameUA": "вулиця Гордієнківська, 1"
+  "FullNameUA": "вулиця Гордієнківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 159826,
@@ -45,9 +46,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234349787700005,
+  "longt": 36.2343497877,
   "lati": 49.9756849718,
-  "FullNameUA": "вулиця Гордієнківська, 4"
+  "FullNameUA": "вулиця Гордієнківська, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 159828,
+  "postcode": 61010,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2454,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.234594288,
+  "lati": 49.9755258498,
+  "FullNameUA": "вулиця Гордієнківська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 159827,
@@ -72,32 +100,8 @@
   "reg_date": "",
   "longt": 36.2345411872,
   "lati": 49.9757362046,
-  "FullNameUA": "вулиця Гордієнківська, 6"
- },
- {
-  "id": 159828,
-  "postcode": 61010,
-  "number": 6,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2454,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.234594288000004,
-  "lati": 49.9755258498,
-  "FullNameUA": "вулиця Гордієнківська, 6-А"
+  "FullNameUA": "вулиця Гордієнківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 159829,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235085920100005,
+  "longt": 36.2350859201,
   "lati": 49.975528828,
-  "FullNameUA": "вулиця Гордієнківська, 8"
+  "FullNameUA": "вулиця Гордієнківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 159830,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.235541339,
   "lati": 49.9758195792,
-  "FullNameUA": "вулиця Гордієнківська, 10"
+  "FullNameUA": "вулиця Гордієнківська, 10",
+  "ChildsIds": []
  },
  {
   "id": 159831,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237444394300006,
-  "lati": 49.976320166899995,
-  "FullNameUA": "вулиця Гордієнківська, 11"
+  "longt": 36.2374443943,
+  "lati": 49.9763201669,
+  "FullNameUA": "вулиця Гордієнківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 159832,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.236338041,
   "lati": 49.9758739733,
-  "FullNameUA": "вулиця Гордієнківська, 12"
+  "FullNameUA": "вулиця Гордієнківська, 12",
+  "ChildsIds": []
  },
  {
   "id": 159833,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237692339700004,
+  "longt": 36.2376923397,
   "lati": 49.9763401767,
-  "FullNameUA": "вулиця Гордієнківська, 13"
+  "FullNameUA": "вулиця Гордієнківська, 13",
+  "ChildsIds": []
  },
  {
   "id": 159834,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237947960300005,
+  "longt": 36.2379479603,
   "lati": 49.9763382612,
-  "FullNameUA": "вулиця Гордієнківська, 15"
+  "FullNameUA": "вулиця Гордієнківська, 15",
+  "ChildsIds": []
  },
  {
   "id": 159835,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238250811200004,
+  "longt": 36.2382508112,
   "lati": 49.9763451304,
-  "FullNameUA": "вулиця Гордієнківська, 17"
+  "FullNameUA": "вулиця Гордієнківська, 17",
+  "ChildsIds": []
  },
  {
   "id": 159836,
@@ -297,32 +308,8 @@
   "reg_date": "",
   "longt": 36.2367225862,
   "lati": 49.9755104,
-  "FullNameUA": "вулиця Гордієнківська, 18"
- },
- {
-  "id": 159838,
-  "postcode": 61010,
-  "number": 19,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2454,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.238689901700006,
-  "lati": 49.9764280697,
-  "FullNameUA": "вулиця Гордієнківська, 19-А"
+  "FullNameUA": "вулиця Гордієнківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 159837,
@@ -346,8 +333,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2384686169,
-  "lati": 49.976395439899996,
-  "FullNameUA": "вулиця Гордієнківська, 19"
+  "lati": 49.9763954399,
+  "FullNameUA": "вулиця Гордієнківська, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 159838,
+  "postcode": 61010,
+  "number": 19,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2454,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2386899017,
+  "lati": 49.9764280697,
+  "FullNameUA": "вулиця Гордієнківська, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 159839,
@@ -370,34 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23828010850001,
+  "longt": 36.2382801085,
   "lati": 49.976086398,
-  "FullNameUA": "вулиця Гордієнківська, 20"
- },
- {
-  "id": 159840,
-  "postcode": 61010,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 2454,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2386232038,
-  "lati": 49.9761340183,
-  "FullNameUA": "вулиця Гордієнківська, 22"
+  "FullNameUA": "вулиця Гордієнківська, 20",
+  "ChildsIds": []
  },
  {
   "id": 159841,
@@ -422,7 +412,34 @@
   "reg_date": "",
   "longt": 36.2385786484,
   "lati": 49.9760459875,
-  "FullNameUA": "вулиця Гордієнківська, 22-А"
+  "FullNameUA": "вулиця Гордієнківська, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 159840,
+  "postcode": 61010,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2454,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2386232038,
+  "lati": 49.9761340183,
+  "FullNameUA": "вулиця Гордієнківська, 22",
+  "ChildsIds": []
  },
  {
   "id": 159842,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238892098600004,
+  "longt": 36.2388920986,
   "lati": 49.9765158304,
-  "FullNameUA": "вулиця Гордієнківська, 23"
+  "FullNameUA": "вулиця Гордієнківська, 23",
+  "ChildsIds": []
  },
  {
   "id": 159843,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239122372800004,
+  "longt": 36.2391223728,
   "lati": 49.9761746347,
-  "FullNameUA": "вулиця Гордієнківська, 24"
+  "FullNameUA": "вулиця Гордієнківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 159844,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239332485400006,
+  "longt": 36.2393324854,
   "lati": 49.976492986,
-  "FullNameUA": "вулиця Гордієнківська, 25"
+  "FullNameUA": "вулиця Гордієнківська, 25",
+  "ChildsIds": []
  },
  {
   "id": 159845,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2392566373,
   "lati": 49.9761706413,
-  "FullNameUA": "вулиця Гордієнківська, 26"
+  "FullNameUA": "вулиця Гордієнківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 159846,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239526548700006,
+  "longt": 36.2395265487,
   "lati": 49.976928604,
-  "FullNameUA": "вулиця Гордієнківська, 27"
+  "FullNameUA": "вулиця Гордієнківська, 27",
+  "ChildsIds": []
  },
  {
   "id": 159847,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239653866800005,
-  "lati": 49.976232314099995,
-  "FullNameUA": "вулиця Гордієнківська, 28"
+  "longt": 36.2396538668,
+  "lati": 49.9762323141,
+  "FullNameUA": "вулиця Гордієнківська, 28",
+  "ChildsIds": []
  },
  {
   "id": 159848,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2398758482,
   "lati": 49.9765294922,
-  "FullNameUA": "вулиця Гордієнківська, 29"
+  "FullNameUA": "вулиця Гордієнківська, 29",
+  "ChildsIds": []
  },
  {
   "id": 159849,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2400531543,
-  "lati": 49.976252357599996,
-  "FullNameUA": "вулиця Гордієнківська, 30"
+  "lati": 49.9762523576,
+  "FullNameUA": "вулиця Гордієнківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 159850,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2401934424,
   "lati": 49.9765611776,
-  "FullNameUA": "вулиця Гордієнківська, 31"
+  "FullNameUA": "вулиця Гордієнківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 159851,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240232891400005,
+  "longt": 36.2402328914,
   "lati": 49.9762931781,
-  "FullNameUA": "вулиця Гордієнківська, 32"
+  "FullNameUA": "вулиця Гордієнківська, 32",
+  "ChildsIds": []
  },
  {
   "id": 159852,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240417368100005,
-  "lati": 49.976593471499996,
-  "FullNameUA": "вулиця Гордієнківська, 33"
+  "longt": 36.2404173681,
+  "lati": 49.9765934715,
+  "FullNameUA": "вулиця Гордієнківська, 33",
+  "ChildsIds": []
  },
  {
   "id": 159853,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2404572399,
   "lati": 49.9763081838,
-  "FullNameUA": "вулиця Гордієнківська, 34"
+  "FullNameUA": "вулиця Гордієнківська, 34",
+  "ChildsIds": []
  },
  {
   "id": 159854,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.241349348,
   "lati": 49.976688519,
-  "FullNameUA": "вулиця Гордієнківська, 35"
+  "FullNameUA": "вулиця Гордієнківська, 35",
+  "ChildsIds": []
  },
  {
   "id": 159855,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241267791300004,
+  "longt": 36.2412677913,
   "lati": 49.9763837207,
-  "FullNameUA": "вулиця Гордієнківська, 36"
+  "FullNameUA": "вулиця Гордієнківська, 36",
+  "ChildsIds": []
  },
  {
   "id": 159856,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2414954928,
   "lati": 49.9767276344,
-  "FullNameUA": "вулиця Гордієнківська, 37"
+  "FullNameUA": "вулиця Гордієнківська, 37",
+  "ChildsIds": []
  },
  {
   "id": 159857,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2416788741,
-  "lati": 49.976438250099996,
-  "FullNameUA": "вулиця Гордієнківська, 38"
+  "lati": 49.9764382501,
+  "FullNameUA": "вулиця Гордієнківська, 38",
+  "ChildsIds": []
  },
  {
   "id": 159858,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2417012379,
   "lati": 49.9769061974,
-  "FullNameUA": "вулиця Гордієнківська, 39"
+  "FullNameUA": "вулиця Гордієнківська, 39",
+  "ChildsIds": []
  },
  {
   "id": 159859,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241922234200004,
+  "longt": 36.2419222342,
   "lati": 49.9767435954,
-  "FullNameUA": "вулиця Гордієнківська, 41"
+  "FullNameUA": "вулиця Гордієнківська, 41",
+  "ChildsIds": []
  },
  {
   "id": 159860,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2419232712,
   "lati": 49.9762719255,
-  "FullNameUA": "вулиця Гордієнківська, 42"
+  "FullNameUA": "вулиця Гордієнківська, 42",
+  "ChildsIds": []
  },
  {
   "id": 159861,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242571620300005,
+  "longt": 36.2425716203,
   "lati": 49.9772853651,
-  "FullNameUA": "вулиця Гордієнківська, 43-А"
+  "FullNameUA": "вулиця Гордієнківська, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 159862,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2428078251,
   "lati": 49.976848284,
-  "FullNameUA": "вулиця Гордієнківська, 45"
+  "FullNameUA": "вулиця Гордієнківська, 45",
+  "ChildsIds": []
  },
  {
   "id": 159863,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243128367400004,
+  "longt": 36.2431283674,
   "lati": 49.9768892408,
-  "FullNameUA": "вулиця Гордієнківська, 47"
+  "FullNameUA": "вулиця Гордієнківська, 47",
+  "ChildsIds": []
  },
  {
   "id": 159864,
@@ -996,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2428439998,
-  "lati": 49.976570956399996,
-  "FullNameUA": "вулиця Гордієнківська, 48"
+  "lati": 49.9765709564,
+  "FullNameUA": "вулиця Гордієнківська, 48",
+  "ChildsIds": []
  },
  {
   "id": 159865,
@@ -1021,7 +1061,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2434071061,
-  "lati": 49.976606294199996,
-  "FullNameUA": "вулиця Гордієнківська, 50"
+  "lati": 49.9766062942,
+  "FullNameUA": "вулиця Гордієнківська, 50",
+  "ChildsIds": []
  }
 ]

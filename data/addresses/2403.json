@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2749685618,
-  "lati": 49.992891999200005,
-  "FullNameUA": "вулиця Галинська, 1"
+  "lati": 49.9928919992,
+  "FullNameUA": "вулиця Галинська, 1",
+  "ChildsIds": []
  },
  {
   "id": 132814,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275695119800005,
+  "longt": 36.2756951198,
   "lati": 49.9928232873,
-  "FullNameUA": "вулиця Галинська, 2"
+  "FullNameUA": "вулиця Галинська, 2",
+  "ChildsIds": []
  },
  {
   "id": 132815,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275176092500004,
+  "longt": 36.2751760925,
   "lati": 49.9929620898,
-  "FullNameUA": "вулиця Галинська, 3"
+  "FullNameUA": "вулиця Галинська, 3",
+  "ChildsIds": []
  },
  {
   "id": 132816,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275074354100006,
+  "longt": 36.2750743541,
   "lati": 49.9931945816,
-  "FullNameUA": "вулиця Галинська, 3-А"
+  "FullNameUA": "вулиця Галинська, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 132817,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2759977588,
   "lati": 49.9928982679,
-  "FullNameUA": "вулиця Галинська, 4"
+  "FullNameUA": "вулиця Галинська, 4",
+  "ChildsIds": []
  },
  {
   "id": 132818,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2754388707,
   "lati": 49.9930197819,
-  "FullNameUA": "вулиця Галинська, 5"
+  "FullNameUA": "вулиця Галинська, 5",
+  "ChildsIds": []
  },
  {
   "id": 132819,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2762357362,
   "lati": 49.9929861981,
-  "FullNameUA": "вулиця Галинська, 6"
+  "FullNameUA": "вулиця Галинська, 6",
+  "ChildsIds": []
  },
  {
   "id": 132821,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275808633500006,
+  "longt": 36.2758086335,
   "lati": 49.9931452391,
-  "FullNameUA": "вулиця Галинська, 7-А"
+  "FullNameUA": "вулиця Галинська, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 132820,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275658155500004,
-  "lati": 49.993096064700005,
-  "FullNameUA": "вулиця Галинська, 7"
+  "longt": 36.2756581555,
+  "lati": 49.9930960647,
+  "FullNameUA": "вулиця Галинська, 7",
+  "ChildsIds": []
  },
  {
   "id": 132822,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "in4",
   "reg_date": "",
-  "longt": 36.276493885300006,
+  "longt": 36.2764938853,
   "lati": 49.9931150967,
-  "FullNameUA": "вулиця Галинська, 8"
+  "FullNameUA": "вулиця Галинська, 8",
+  "ChildsIds": []
  },
  {
   "id": 132823,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275990022100004,
+  "longt": 36.2759900221,
   "lati": 49.9932175173,
-  "FullNameUA": "вулиця Галинська, 9"
+  "FullNameUA": "вулиця Галинська, 9",
+  "ChildsIds": []
  },
  {
   "id": 121720,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277106736300006,
+  "longt": 36.2771067363,
   "lati": 49.99320593,
-  "FullNameUA": "вулиця Галинська, 10-А"
+  "FullNameUA": "вулиця Галинська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 121719,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2770251848,
   "lati": 49.9930968548,
-  "FullNameUA": "вулиця Галинська, 10"
+  "FullNameUA": "вулиця Галинська, 10",
+  "ChildsIds": []
  },
  {
   "id": 132825,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2762668275,
   "lati": 49.9933231835,
-  "FullNameUA": "вулиця Галинська, 11"
+  "FullNameUA": "вулиця Галинська, 11",
+  "ChildsIds": []
  },
  {
   "id": 121721,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.27730471,
-  "lati": 49.993343789600004,
-  "FullNameUA": "вулиця Галинська, 12"
+  "lati": 49.9933437896,
+  "FullNameUA": "вулиця Галинська, 12",
+  "ChildsIds": []
  },
  {
   "id": 121722,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2766900132,
   "lati": 49.9934869801,
-  "FullNameUA": "вулиця Галинська, 13"
+  "FullNameUA": "вулиця Галинська, 13",
+  "ChildsIds": []
  },
  {
   "id": 121723,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277524932300004,
+  "longt": 36.2775249323,
   "lati": 49.9934112309,
-  "FullNameUA": "вулиця Галинська, 14"
+  "FullNameUA": "вулиця Галинська, 14",
+  "ChildsIds": []
  },
  {
   "id": 121724,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2770002867,
   "lati": 49.99354317,
-  "FullNameUA": "вулиця Галинська, 15"
+  "FullNameUA": "вулиця Галинська, 15",
+  "ChildsIds": []
  },
  {
   "id": 121725,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277811862300005,
-  "lati": 49.993510736000005,
-  "FullNameUA": "вулиця Галинська, 16"
+  "longt": 36.2778118623,
+  "lati": 49.993510736,
+  "FullNameUA": "вулиця Галинська, 16",
+  "ChildsIds": []
  },
  {
   "id": 121726,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277075630400006,
-  "lati": 49.993608108400004,
-  "FullNameUA": "вулиця Галинська, 17"
+  "longt": 36.2770756304,
+  "lati": 49.9936081084,
+  "FullNameUA": "вулиця Галинська, 17",
+  "ChildsIds": []
  },
  {
   "id": 121727,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278046958800005,
+  "longt": 36.2780469588,
   "lati": 49.9935892043,
-  "FullNameUA": "вулиця Галинська, 18"
+  "FullNameUA": "вулиця Галинська, 18",
+  "ChildsIds": []
  },
  {
   "id": 121728,
@@ -545,9 +566,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277385691300005,
+  "longt": 36.2773856913,
   "lati": 49.9937202229,
-  "FullNameUA": "вулиця Галинська, 19"
+  "FullNameUA": "вулиця Галинська, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 121730,
+  "postcode": 61068,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2783681815,
+  "lati": 49.9937148344,
+  "FullNameUA": "вулиця Галинська, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 121729,
@@ -572,32 +620,8 @@
   "reg_date": "",
   "longt": 36.2782921375,
   "lati": 49.9936806447,
-  "FullNameUA": "вулиця Галинська, 20"
- },
- {
-  "id": 121730,
-  "postcode": 61068,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.27836818150001,
-  "lati": 49.9937148344,
-  "FullNameUA": "вулиця Галинська, 20-А"
+  "FullNameUA": "вулиця Галинська, 20",
+  "ChildsIds": []
  },
  {
   "id": 121731,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2775962329,
-  "lati": 49.993790143400005,
-  "FullNameUA": "вулиця Галинська, 21"
+  "lati": 49.9937901434,
+  "FullNameUA": "вулиця Галинська, 21",
+  "ChildsIds": []
  },
  {
   "id": 121733,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278566440400006,
+  "longt": 36.2785664404,
   "lati": 49.9936583877,
-  "FullNameUA": "вулиця Галинська, 22-А"
+  "FullNameUA": "вулиця Галинська, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 121732,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.278631633,
-  "lati": 49.993807104400005,
-  "FullNameUA": "вулиця Галинська, 22"
+  "lati": 49.9938071044,
+  "FullNameUA": "вулиця Галинська, 22",
+  "ChildsIds": []
  },
  {
   "id": 121734,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277796160600005,
-  "lati": 49.993852238100004,
-  "FullNameUA": "вулиця Галинська, 23"
+  "longt": 36.2777961606,
+  "lati": 49.9938522381,
+  "FullNameUA": "вулиця Галинська, 23",
+  "ChildsIds": []
  },
  {
   "id": 121735,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2787446482,
   "lati": 49.993828295,
-  "FullNameUA": "вулиця Галинська, 24"
+  "FullNameUA": "вулиця Галинська, 24",
+  "ChildsIds": []
  },
  {
   "id": 121736,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278057727900006,
-  "lati": 49.993934584600005,
-  "FullNameUA": "вулиця Галинська, 25"
+  "longt": 36.2780577279,
+  "lati": 49.9939345846,
+  "FullNameUA": "вулиця Галинська, 25",
+  "ChildsIds": []
  },
  {
   "id": 121737,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279123050200006,
+  "longt": 36.2791230502,
   "lati": 49.9939514124,
-  "FullNameUA": "вулиця Галинська, 26"
+  "FullNameUA": "вулиця Галинська, 26",
+  "ChildsIds": []
  },
  {
   "id": 121738,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278406606500006,
-  "lati": 49.994034355100005,
-  "FullNameUA": "вулиця Галинська, 27"
+  "longt": 36.2784066065,
+  "lati": 49.9940343551,
+  "FullNameUA": "вулиця Галинська, 27",
+  "ChildsIds": []
  },
  {
   "id": 121739,
@@ -821,33 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2785845386,
-  "lati": 49.994120747100006,
-  "FullNameUA": "вулиця Галинська, 29"
- },
- {
-  "id": 121740,
-  "postcode": 61068,
-  "number": 31,
-  "suffix": "",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2788056588,
-  "lati": 49.994183266,
-  "FullNameUA": "вулиця Галинська, 31"
+  "lati": 49.9941207471,
+  "FullNameUA": "вулиця Галинська, 29",
+  "ChildsIds": []
  },
  {
   "id": 121741,
@@ -872,7 +880,34 @@
   "reg_date": "",
   "longt": 36.2786231807,
   "lati": 49.9943925421,
-  "FullNameUA": "вулиця Галинська, 31-А"
+  "FullNameUA": "вулиця Галинська, 31-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121740,
+  "postcode": 61068,
+  "number": 31,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2788056588,
+  "lati": 49.994183266,
+  "FullNameUA": "вулиця Галинська, 31",
+  "ChildsIds": []
  },
  {
   "id": 121742,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2801220009,
   "lati": 49.9943027415,
-  "FullNameUA": "вулиця Галинська, 32"
+  "FullNameUA": "вулиця Галинська, 32",
+  "ChildsIds": []
  },
  {
   "id": 121743,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.279172942,
-  "lati": 49.994282137300004,
-  "FullNameUA": "вулиця Галинська, 33/19"
+  "lati": 49.9942821373,
+  "FullNameUA": "вулиця Галинська, 33/19",
+  "ChildsIds": []
  },
  {
   "id": 121744,
@@ -946,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2804069463,
-  "lati": 49.994364184700004,
-  "FullNameUA": "вулиця Галинська, 34"
+  "lati": 49.9943641847,
+  "FullNameUA": "вулиця Галинська, 34",
+  "ChildsIds": []
  },
  {
   "id": 121745,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27962779280001,
+  "longt": 36.2796277928,
   "lati": 49.9944368863,
-  "FullNameUA": "вулиця Галинська, 35/10"
+  "FullNameUA": "вулиця Галинська, 35/10",
+  "ChildsIds": []
  },
  {
   "id": 121746,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2806111377,
   "lati": 49.9944244968,
-  "FullNameUA": "вулиця Галинська, 36"
+  "FullNameUA": "вулиця Галинська, 36",
+  "ChildsIds": []
  },
  {
   "id": 121748,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279723317000006,
-  "lati": 49.994763054500005,
-  "FullNameUA": "вулиця Галинська, 37/2"
+  "longt": 36.279723317,
+  "lati": 49.9947630545,
+  "FullNameUA": "вулиця Галинська, 37/2",
+  "ChildsIds": []
  },
  {
   "id": 121747,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279912204000006,
+  "longt": 36.279912204,
   "lati": 49.9945658159,
-  "FullNameUA": "вулиця Галинська, 37"
+  "FullNameUA": "вулиця Галинська, 37",
+  "ChildsIds": []
  },
  {
   "id": 121749,
@@ -1070,34 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280293625700004,
-  "lati": 49.994640614400005,
-  "FullNameUA": "вулиця Галинська, 39"
- },
- {
-  "id": 121750,
-  "postcode": 61161,
-  "number": 40,
-  "suffix": "",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2807909857,
-  "lati": 49.9945084697,
-  "FullNameUA": "вулиця Галинська, 40"
+  "longt": 36.2802936257,
+  "lati": 49.9946406144,
+  "FullNameUA": "вулиця Галинська, 39",
+  "ChildsIds": []
  },
  {
   "id": 121751,
@@ -1122,7 +1140,34 @@
   "reg_date": "",
   "longt": 36.28109729,
   "lati": 49.994422407,
-  "FullNameUA": "вулиця Галинська, 40-А"
+  "FullNameUA": "вулиця Галинська, 40-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121750,
+  "postcode": 61161,
+  "number": 40,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2807909857,
+  "lati": 49.9945084697,
+  "FullNameUA": "вулиця Галинська, 40",
+  "ChildsIds": []
  },
  {
   "id": 121752,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2804156514,
   "lati": 49.9947161666,
-  "FullNameUA": "вулиця Галинська, 41"
+  "FullNameUA": "вулиця Галинська, 41",
+  "ChildsIds": []
  },
  {
   "id": 121753,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281049292700004,
+  "longt": 36.2810492927,
   "lati": 49.9946085858,
-  "FullNameUA": "вулиця Галинська, 42"
+  "FullNameUA": "вулиця Галинська, 42",
+  "ChildsIds": []
  },
  {
   "id": 121754,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2806891732,
   "lati": 49.9947826231,
-  "FullNameUA": "вулиця Галинська, 43"
+  "FullNameUA": "вулиця Галинська, 43",
+  "ChildsIds": []
  },
  {
   "id": 121755,
@@ -1220,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281463471900004,
-  "lati": 49.994736156200005,
-  "FullNameUA": "вулиця Галинська, 44"
+  "longt": 36.2814634719,
+  "lati": 49.9947361562,
+  "FullNameUA": "вулиця Галинська, 44",
+  "ChildsIds": []
  },
  {
   "id": 121756,
@@ -1246,33 +1295,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2809375696,
-  "lati": 49.994869973600004,
-  "FullNameUA": "вулиця Галинська, 45"
- },
- {
-  "id": 121757,
-  "postcode": 61161,
-  "number": 45,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2810981946,
-  "lati": 49.9949062691,
-  "FullNameUA": "вулиця Галинська, 45-А"
+  "lati": 49.9948699736,
+  "FullNameUA": "вулиця Галинська, 45",
+  "ChildsIds": []
  },
  {
   "id": 121758,
@@ -1297,13 +1322,14 @@
   "reg_date": "",
   "longt": 36.2811931181,
   "lati": 49.994940577,
-  "FullNameUA": "вулиця Галинська, 45-Б"
+  "FullNameUA": "вулиця Галинська, 45-Б",
+  "ChildsIds": []
  },
  {
-  "id": 121759,
+  "id": 121757,
   "postcode": 61161,
-  "number": 46,
-  "suffix": "",
+  "number": 45,
+  "suffix": "А",
   "block": "",
   "streetid": 2403,
   "status_id": 1,
@@ -1320,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2817388918,
-  "lati": 49.994817919700004,
-  "FullNameUA": "вулиця Галинська, 46"
+  "longt": 36.2810981946,
+  "lati": 49.9949062691,
+  "FullNameUA": "вулиця Галинська, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 121760,
@@ -1347,7 +1374,34 @@
   "reg_date": "",
   "longt": 36.2820691724,
   "lati": 49.9946550015,
-  "FullNameUA": "вулиця Галинська, 46-А"
+  "FullNameUA": "вулиця Галинська, 46-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121759,
+  "postcode": 61161,
+  "number": 46,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2817388918,
+  "lati": 49.9948179197,
+  "FullNameUA": "вулиця Галинська, 46",
+  "ChildsIds": []
  },
  {
   "id": 121761,
@@ -1370,9 +1424,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281450937100004,
+  "longt": 36.2814509371,
   "lati": 49.9950281482,
-  "FullNameUA": "вулиця Галинська, 47"
+  "FullNameUA": "вулиця Галинська, 47",
+  "ChildsIds": []
  },
  {
   "id": 121762,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2820079787,
   "lati": 49.9949053362,
-  "FullNameUA": "вулиця Галинська, 48"
+  "FullNameUA": "вулиця Галинська, 48",
+  "ChildsIds": []
  },
  {
   "id": 121763,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2817427798,
   "lati": 49.9951195598,
-  "FullNameUA": "вулиця Галинська, 49"
+  "FullNameUA": "вулиця Галинська, 49",
+  "ChildsIds": []
  },
  {
   "id": 121764,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2822090354,
   "lati": 49.9949654089,
-  "FullNameUA": "вулиця Галинська, 50"
+  "FullNameUA": "вулиця Галинська, 50",
+  "ChildsIds": []
  },
  {
   "id": 121765,
@@ -1472,32 +1530,8 @@
   "reg_date": "",
   "longt": 36.2819873814,
   "lati": 49.9952084619,
-  "FullNameUA": "вулиця Галинська, 51"
- },
- {
-  "id": 121767,
-  "postcode": 61161,
-  "number": 52,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2825809268,
-  "lati": 49.9951060371,
-  "FullNameUA": "вулиця Галинська, 52-А"
+  "FullNameUA": "вулиця Галинська, 51",
+  "ChildsIds": []
  },
  {
   "id": 121766,
@@ -1522,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2823918809,
   "lati": 49.9950355499,
-  "FullNameUA": "вулиця Галинська, 52"
+  "FullNameUA": "вулиця Галинська, 52",
+  "ChildsIds": []
  },
  {
   "id": 121768,
@@ -1545,9 +1580,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.282813405300004,
+  "longt": 36.2828134053,
   "lati": 49.9951584011,
-  "FullNameUA": "вулиця Галинська, 52/27"
+  "FullNameUA": "вулиця Галинська, 52/27",
+  "ChildsIds": []
+ },
+ {
+  "id": 121767,
+  "postcode": 61161,
+  "number": 52,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2825809268,
+  "lati": 49.9951060371,
+  "FullNameUA": "вулиця Галинська, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 121769,
@@ -1571,8 +1633,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2822966942,
-  "lati": 49.995331435000004,
-  "FullNameUA": "вулиця Галинська, 53"
+  "lati": 49.995331435,
+  "FullNameUA": "вулиця Галинська, 53",
+  "ChildsIds": []
  },
  {
   "id": 121770,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2826299889,
   "lati": 49.995431234,
-  "FullNameUA": "вулиця Галинська, 55"
+  "FullNameUA": "вулиця Галинська, 55",
+  "ChildsIds": []
  },
  {
   "id": 121771,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2836379315,
   "lati": 49.9954542747,
-  "FullNameUA": "вулиця Галинська, 56"
+  "FullNameUA": "вулиця Галинська, 56",
+  "ChildsIds": []
  },
  {
   "id": 121772,
@@ -1646,8 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2830259539,
-  "lati": 49.995553634100006,
-  "FullNameUA": "вулиця Галинська, 57/50"
+  "lati": 49.9955536341,
+  "FullNameUA": "вулиця Галинська, 57/50",
+  "ChildsIds": []
  },
  {
   "id": 121773,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2839624883,
   "lati": 49.995448511,
-  "FullNameUA": "вулиця Галинська, 58"
+  "FullNameUA": "вулиця Галинська, 58",
+  "ChildsIds": []
  },
  {
   "id": 121774,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.2833771238,
   "lati": 49.9956593224,
-  "FullNameUA": "вулиця Галинська, 59"
+  "FullNameUA": "вулиця Галинська, 59",
+  "ChildsIds": []
  },
  {
   "id": 121775,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2841887952,
   "lati": 49.9956174378,
-  "FullNameUA": "вулиця Галинська, 60"
+  "FullNameUA": "вулиця Галинська, 60",
+  "ChildsIds": []
  },
  {
   "id": 121776,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.284214653,
   "lati": 49.9954216125,
-  "FullNameUA": "вулиця Галинська, 60-А"
+  "FullNameUA": "вулиця Галинська, 60-А",
+  "ChildsIds": []
  },
  {
   "id": 121777,
@@ -1771,8 +1841,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2836087141,
-  "lati": 49.995763129100006,
-  "FullNameUA": "вулиця Галинська, 61"
+  "lati": 49.9957631291,
+  "FullNameUA": "вулиця Галинська, 61",
+  "ChildsIds": []
  },
  {
   "id": 121778,
@@ -1797,32 +1868,8 @@
   "reg_date": "",
   "longt": 36.2844486493,
   "lati": 49.9957004193,
-  "FullNameUA": "вулиця Галинська, 62"
- },
- {
-  "id": 121779,
-  "postcode": 61161,
-  "number": 63,
-  "suffix": "",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2838724007,
-  "lati": 49.99585471,
-  "FullNameUA": "вулиця Галинська, 63"
+  "FullNameUA": "вулиця Галинська, 62",
+  "ChildsIds": []
  },
  {
   "id": 121780,
@@ -1847,7 +1894,34 @@
   "reg_date": "",
   "longt": 36.283964896,
   "lati": 49.995850704,
-  "FullNameUA": "вулиця Галинська, 63-А"
+  "FullNameUA": "вулиця Галинська, 63-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121779,
+  "postcode": 61161,
+  "number": 63,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2838724007,
+  "lati": 49.99585471,
+  "FullNameUA": "вулиця Галинська, 63",
+  "ChildsIds": []
  },
  {
   "id": 121781,
@@ -1871,8 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2847810546,
-  "lati": 49.995828457100004,
-  "FullNameUA": "вулиця Галинська, 64"
+  "lati": 49.9958284571,
+  "FullNameUA": "вулиця Галинська, 64",
+  "ChildsIds": []
  },
  {
   "id": 121782,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.2841076158,
   "lati": 49.9959034633,
-  "FullNameUA": "вулиця Галинська, 65"
+  "FullNameUA": "вулиця Галинська, 65",
+  "ChildsIds": []
  },
  {
   "id": 121783,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285075516300004,
+  "longt": 36.2850755163,
   "lati": 49.9959140499,
-  "FullNameUA": "вулиця Галинська, 66"
+  "FullNameUA": "вулиця Галинська, 66",
+  "ChildsIds": []
  },
  {
   "id": 121784,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.2843013736,
   "lati": 49.9959663587,
-  "FullNameUA": "вулиця Галинська, 67"
+  "FullNameUA": "вулиця Галинська, 67",
+  "ChildsIds": []
  },
  {
   "id": 121785,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2854354881,
   "lati": 49.9960145342,
-  "FullNameUA": "вулиця Галинська, 68/21"
+  "FullNameUA": "вулиця Галинська, 68/21",
+  "ChildsIds": []
  },
  {
   "id": 121786,
@@ -1996,8 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2845531201,
-  "lati": 49.996044003600005,
-  "FullNameUA": "вулиця Галинська, 69"
+  "lati": 49.9960440036,
+  "FullNameUA": "вулиця Галинська, 69",
+  "ChildsIds": []
  },
  {
   "id": 121787,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.2859423964,
   "lati": 49.9962149452,
-  "FullNameUA": "вулиця Галинська, 70"
+  "FullNameUA": "вулиця Галинська, 70",
+  "ChildsIds": []
  },
  {
   "id": 121788,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.284791045,
   "lati": 49.9961163181,
-  "FullNameUA": "вулиця Галинська, 71"
+  "FullNameUA": "вулиця Галинська, 71",
+  "ChildsIds": []
  },
  {
   "id": 121789,
@@ -2072,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.2861153518,
   "lati": 49.9962764001,
-  "FullNameUA": "вулиця Галинська, 72"
+  "FullNameUA": "вулиця Галинська, 72",
+  "ChildsIds": []
  },
  {
   "id": 121790,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.2849322121,
   "lati": 49.9961628943,
-  "FullNameUA": "вулиця Галинська, 73"
+  "FullNameUA": "вулиця Галинська, 73",
+  "ChildsIds": []
  },
  {
   "id": 121791,
@@ -2122,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.286375977,
   "lati": 49.9963576211,
-  "FullNameUA": "вулиця Галинська, 74"
+  "FullNameUA": "вулиця Галинська, 74",
+  "ChildsIds": []
  },
  {
   "id": 121792,
@@ -2147,7 +2232,34 @@
   "reg_date": "",
   "longt": 36.2851258131,
   "lati": 49.9962272742,
-  "FullNameUA": "вулиця Галинська, 75"
+  "FullNameUA": "вулиця Галинська, 75",
+  "ChildsIds": []
+ },
+ {
+  "id": 121793,
+  "postcode": 61161,
+  "number": 76,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2867087916,
+  "lati": 49.9964777007,
+  "FullNameUA": "вулиця Галинська, 76",
+  "ChildsIds": []
  },
  {
   "id": 121794,
@@ -2172,32 +2284,8 @@
   "reg_date": "",
   "longt": 36.2869763472,
   "lati": 49.9964064754,
-  "FullNameUA": "вулиця Галинська, 76-А"
- },
- {
-  "id": 121793,
-  "postcode": 61161,
-  "number": 76,
-  "suffix": "",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2867087916,
-  "lati": 49.996477700700005,
-  "FullNameUA": "вулиця Галинська, 76"
+  "FullNameUA": "вулиця Галинська, 76-А",
+  "ChildsIds": []
  },
  {
   "id": 121795,
@@ -2222,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.2856386299,
   "lati": 49.9964223466,
-  "FullNameUA": "вулиця Галинська, 77/24"
+  "FullNameUA": "вулиця Галинська, 77/24",
+  "ChildsIds": []
  },
  {
   "id": 121796,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.2870067211,
   "lati": 49.996570188,
-  "FullNameUA": "вулиця Галинська, 78"
+  "FullNameUA": "вулиця Галинська, 78",
+  "ChildsIds": []
  },
  {
   "id": 121797,
@@ -2270,9 +2360,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285960145000004,
+  "longt": 36.285960145,
   "lati": 49.9965244285,
-  "FullNameUA": "вулиця Галинська, 79"
+  "FullNameUA": "вулиця Галинська, 79",
+  "ChildsIds": []
  },
  {
   "id": 121799,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.2872554075,
   "lati": 49.9964518302,
-  "FullNameUA": "вулиця Галинська, 80-А"
+  "FullNameUA": "вулиця Галинська, 80-А",
+  "ChildsIds": []
  },
  {
   "id": 121798,
@@ -2322,7 +2414,8 @@
   "reg_date": "",
   "longt": 36.287241697,
   "lati": 49.9966529592,
-  "FullNameUA": "вулиця Галинська, 80"
+  "FullNameUA": "вулиця Галинська, 80",
+  "ChildsIds": []
  },
  {
   "id": 121800,
@@ -2347,13 +2440,14 @@
   "reg_date": "",
   "longt": 36.2861225474,
   "lati": 49.9965620148,
-  "FullNameUA": "вулиця Галинська, 81"
+  "FullNameUA": "вулиця Галинська, 81",
+  "ChildsIds": []
  },
  {
-  "id": 121801,
+  "id": 121803,
   "postcode": 61161,
   "number": 82,
-  "suffix": "",
+  "suffix": "Б",
   "block": "",
   "streetid": 2403,
   "status_id": 1,
@@ -2370,9 +2464,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2875320928,
-  "lati": 49.996747056800004,
-  "FullNameUA": "вулиця Галинська, 82"
+  "longt": 36.2875759917,
+  "lati": 49.9964771679,
+  "FullNameUA": "вулиця Галинська, 82-Б",
+  "ChildsIds": []
  },
  {
   "id": 121802,
@@ -2397,37 +2492,13 @@
   "reg_date": "",
   "longt": 36.2874051502,
   "lati": 49.9966738075,
-  "FullNameUA": "вулиця Галинська, 82-А"
+  "FullNameUA": "вулиця Галинська, 82-А",
+  "ChildsIds": []
  },
  {
-  "id": 121803,
+  "id": 121801,
   "postcode": 61161,
   "number": 82,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2403,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2875759917,
-  "lati": 49.996477167900004,
-  "FullNameUA": "вулиця Галинська, 82-Б"
- },
- {
-  "id": 121804,
-  "postcode": 61161,
-  "number": 83,
   "suffix": "",
   "block": "",
   "streetid": 2403,
@@ -2445,9 +2516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2863965185,
-  "lati": 49.9966680539,
-  "FullNameUA": "вулиця Галинська, 83"
+  "longt": 36.2875320928,
+  "lati": 49.9967470568,
+  "FullNameUA": "вулиця Галинська, 82",
+  "ChildsIds": []
  },
  {
   "id": 121805,
@@ -2472,7 +2544,34 @@
   "reg_date": "",
   "longt": 36.2865772358,
   "lati": 49.9967111284,
-  "FullNameUA": "вулиця Галинська, 83-А"
+  "FullNameUA": "вулиця Галинська, 83-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121804,
+  "postcode": 61161,
+  "number": 83,
+  "suffix": "",
+  "block": "",
+  "streetid": 2403,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2863965185,
+  "lati": 49.9966680539,
+  "FullNameUA": "вулиця Галинська, 83",
+  "ChildsIds": []
  },
  {
   "id": 121806,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.2877820692,
   "lati": 49.9968139626,
-  "FullNameUA": "вулиця Галинська, 84"
+  "FullNameUA": "вулиця Галинська, 84",
+  "ChildsIds": []
  },
  {
   "id": 121807,
@@ -2520,9 +2620,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286732241900005,
+  "longt": 36.2867322419,
   "lati": 49.9967666071,
-  "FullNameUA": "вулиця Галинська, 85"
+  "FullNameUA": "вулиця Галинська, 85",
+  "ChildsIds": []
  },
  {
   "id": 121808,
@@ -2547,7 +2648,8 @@
   "reg_date": "",
   "longt": 36.2879558565,
   "lati": 49.996845352,
-  "FullNameUA": "вулиця Галинська, 86"
+  "FullNameUA": "вулиця Галинська, 86",
+  "ChildsIds": []
  },
  {
   "id": 121809,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.2869246816,
   "lati": 49.9968285625,
-  "FullNameUA": "вулиця Галинська, 87"
+  "FullNameUA": "вулиця Галинська, 87",
+  "ChildsIds": []
  },
  {
   "id": 121810,
@@ -2596,8 +2699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2883612602,
-  "lati": 49.996958826400004,
-  "FullNameUA": "вулиця Галинська, 88"
+  "lati": 49.9969588264,
+  "FullNameUA": "вулиця Галинська, 88",
+  "ChildsIds": []
  },
  {
   "id": 121811,
@@ -2622,7 +2726,8 @@
   "reg_date": "",
   "longt": 36.2881039382,
   "lati": 49.9968867562,
-  "FullNameUA": "вулиця Галинська, 88-А"
+  "FullNameUA": "вулиця Галинська, 88-А",
+  "ChildsIds": []
  },
  {
   "id": 121812,
@@ -2645,9 +2750,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287216078200004,
-  "lati": 49.996913542200005,
-  "FullNameUA": "вулиця Галинська, 89"
+  "longt": 36.2872160782,
+  "lati": 49.9969135422,
+  "FullNameUA": "вулиця Галинська, 89",
+  "ChildsIds": []
  },
  {
   "id": 121813,
@@ -2671,8 +2777,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2886312779,
-  "lati": 49.997122230900004,
-  "FullNameUA": "вулиця Галинська, 90"
+  "lati": 49.9971222309,
+  "FullNameUA": "вулиця Галинська, 90",
+  "ChildsIds": []
  },
  {
   "id": 121814,
@@ -2697,7 +2804,8 @@
   "reg_date": "",
   "longt": 36.2874561441,
   "lati": 49.9970057545,
-  "FullNameUA": "вулиця Галинська, 91"
+  "FullNameUA": "вулиця Галинська, 91",
+  "ChildsIds": []
  },
  {
   "id": 121815,
@@ -2720,9 +2828,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287670994500004,
+  "longt": 36.2876709945,
   "lati": 49.9970886049,
-  "FullNameUA": "вулиця Галинська, 93"
+  "FullNameUA": "вулиця Галинська, 93",
+  "ChildsIds": []
  },
  {
   "id": 121816,
@@ -2747,7 +2856,8 @@
   "reg_date": "",
   "longt": 36.2880384829,
   "lati": 49.9971996767,
-  "FullNameUA": "вулиця Галинська, 95"
+  "FullNameUA": "вулиця Галинська, 95",
+  "ChildsIds": []
  },
  {
   "id": 121817,
@@ -2771,7 +2881,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2883695692,
-  "lati": 49.997281893600004,
-  "FullNameUA": "вулиця Галинська, 97"
+  "lati": 49.9972818936,
+  "FullNameUA": "вулиця Галинська, 97",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "15.04.2019 11:28:00",
   "longt": 36.3479428719,
   "lati": 50.0485037221,
-  "FullNameUA": "в'їзд Зоряний, 9"
+  "FullNameUA": "в'їзд Зоряний, 9",
+  "ChildsIds": []
  },
  {
   "id": 131159,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "20.11.2017 15:22:08",
-  "longt": 36.347708205500005,
+  "longt": 36.3477082055,
   "lati": 50.048747047,
-  "FullNameUA": "в'їзд Зоряний, 11"
+  "FullNameUA": "в'їзд Зоряний, 11",
+  "ChildsIds": []
  },
  {
   "id": 178339,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "20.11.2017 15:20:19",
-  "longt": 36.347518421500006,
+  "longt": 36.3475184215,
   "lati": 50.0485549426,
-  "FullNameUA": "в'їзд Зоряний, 11-А"
+  "FullNameUA": "в'їзд Зоряний, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 177781,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "23.03.2018 10:40:02",
-  "longt": 36.348271393800005,
-  "lati": 50.048980847399996,
-  "FullNameUA": "в'їзд Зоряний, 12"
+  "longt": 36.3482713938,
+  "lati": 50.0489808474,
+  "FullNameUA": "в'їзд Зоряний, 12",
+  "ChildsIds": []
  },
  {
   "id": 179020,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "23.03.2018 10:43:47",
-  "longt": 36.348273597100004,
+  "longt": 36.3482735971,
   "lati": 50.0492853114,
-  "FullNameUA": "в'їзд Зоряний, 12-Б"
+  "FullNameUA": "в'їзд Зоряний, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 179019,
@@ -145,34 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "23.03.2018 10:41:56",
-  "longt": 36.34798413950001,
+  "longt": 36.3479841395,
   "lati": 50.0491030215,
-  "FullNameUA": "в'їзд Зоряний, 12-А"
- },
- {
-  "id": 179558,
-  "postcode": 61107,
-  "number": 13,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4744,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "23.07.2018 16:27:54",
-  "longt": 36.346708183400004,
-  "lati": 50.0488951377,
-  "FullNameUA": "в'їзд Зоряний, 13-А"
+  "FullNameUA": "в'їзд Зоряний, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 177776,
@@ -195,9 +176,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "06.07.2017 12:10:55",
-  "longt": 36.347124471600004,
+  "longt": 36.3471244716,
   "lati": 50.0487369008,
-  "FullNameUA": "в'їзд Зоряний, 13"
+  "FullNameUA": "в'їзд Зоряний, 13",
+  "ChildsIds": []
+ },
+ {
+  "id": 179558,
+  "postcode": 61107,
+  "number": 13,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4744,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "23.07.2018 16:27:54",
+  "longt": 36.3467081834,
+  "lati": 50.0488951377,
+  "FullNameUA": "в'їзд Зоряний, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 180056,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "14.12.2018 09:24:40",
-  "longt": 36.347056601700004,
-  "lati": 50.049058224999996,
-  "FullNameUA": "в'їзд Зоряний, 15"
+  "longt": 36.3470566017,
+  "lati": 50.049058225,
+  "FullNameUA": "в'їзд Зоряний, 15",
+  "ChildsIds": []
  },
  {
   "id": 180050,
@@ -247,7 +256,8 @@
   "reg_date": "13.12.2018 16:41:10",
   "longt": 36.3472393926,
   "lati": 50.0493050606,
-  "FullNameUA": "в'їзд Зоряний, 17"
+  "FullNameUA": "в'їзд Зоряний, 17",
+  "ChildsIds": []
  },
  {
   "id": 179228,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "08.05.2018 09:42:49",
-  "longt": 36.347330246400006,
+  "longt": 36.3473302464,
   "lati": 50.0496092593,
-  "FullNameUA": "в'їзд Зоряний, 19-А"
+  "FullNameUA": "в'їзд Зоряний, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 177777,
@@ -295,8 +306,61 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "06.07.2017 12:07:27",
-  "longt": 36.347635941200004,
+  "longt": 36.3476359412,
   "lati": 50.0494822743,
-  "FullNameUA": "в'їзд Зоряний, 19"
+  "FullNameUA": "в'їзд Зоряний, 19",
+  "ChildsIds": []
+ },
+ {
+  "id": 181948,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4744,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3478474033,
+  "lati": 50.049717851,
+  "FullNameUA": "в'їзд Зоряний, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 181947,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 4744,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3475088471,
+  "lati": 50.049897007,
+  "FullNameUA": "в'їзд Зоряний, 21",
+  "ChildsIds": []
  }
 ]

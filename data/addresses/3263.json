@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23544129850001,
+  "longt": 36.2354412985,
   "lati": 49.9993660286,
-  "FullNameUA": "вулиця Мироносицька, 1"
+  "FullNameUA": "вулиця Мироносицька, 1",
+  "ChildsIds": []
  },
  {
   "id": 125268,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23636463690001,
-  "lati": 49.999738208000004,
-  "FullNameUA": "вулиця Мироносицька, 2"
+  "longt": 36.2363646369,
+  "lati": 49.999738208,
+  "FullNameUA": "вулиця Мироносицька, 2",
+  "ChildsIds": []
  },
  {
   "id": 125269,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235753439700005,
+  "longt": 36.2357534397,
   "lati": 49.9998581885,
-  "FullNameUA": "вулиця Мироносицька, 3"
+  "FullNameUA": "вулиця Мироносицька, 3",
+  "ChildsIds": []
  },
  {
   "id": 125270,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236667862800005,
+  "longt": 36.2366678628,
   "lati": 50.0005585737,
-  "FullNameUA": "вулиця Мироносицька, 4"
+  "FullNameUA": "вулиця Мироносицька, 4",
+  "ChildsIds": []
  },
  {
   "id": 125271,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236784734400004,
+  "longt": 36.2367847344,
   "lati": 50.0011507409,
-  "FullNameUA": "вулиця Мироносицька, 6"
+  "FullNameUA": "вулиця Мироносицька, 6",
+  "ChildsIds": []
  },
  {
   "id": 125272,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2368639875,
   "lati": 50.001390809,
-  "FullNameUA": "вулиця Мироносицька, 8"
+  "FullNameUA": "вулиця Мироносицька, 8",
+  "ChildsIds": []
  },
  {
   "id": 125273,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236906766100006,
+  "longt": 36.2369067661,
   "lati": 50.0015945551,
-  "FullNameUA": "вулиця Мироносицька, 10"
+  "FullNameUA": "вулиця Мироносицька, 10",
+  "ChildsIds": []
  },
  {
   "id": 125274,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2361003381,
   "lati": 50.0009075392,
-  "FullNameUA": "вулиця Мироносицька, 11/6"
+  "FullNameUA": "вулиця Мироносицька, 11/6",
+  "ChildsIds": []
  },
  {
   "id": 125275,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.23696512,
   "lati": 50.0018261105,
-  "FullNameUA": "вулиця Мироносицька, 12"
+  "FullNameUA": "вулиця Мироносицька, 12",
+  "ChildsIds": []
  },
  {
   "id": 125276,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236185280700006,
+  "longt": 36.2361852807,
   "lati": 50.0012323317,
-  "FullNameUA": "вулиця Мироносицька, 13"
+  "FullNameUA": "вулиця Мироносицька, 13",
+  "ChildsIds": []
  },
  {
   "id": 125277,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237074608600004,
+  "longt": 36.2370746086,
   "lati": 50.0020744508,
-  "FullNameUA": "вулиця Мироносицька, 14"
+  "FullNameUA": "вулиця Мироносицька, 14",
+  "ChildsIds": []
  },
  {
   "id": 125278,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2364035661,
   "lati": 50.0017390312,
-  "FullNameUA": "вулиця Мироносицька, 15"
+  "FullNameUA": "вулиця Мироносицька, 15",
+  "ChildsIds": []
  },
  {
   "id": 125279,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.237212419500004,
+  "longt": 36.2372124195,
   "lati": 50.0022845603,
-  "FullNameUA": "вулиця Мироносицька, 16"
+  "FullNameUA": "вулиця Мироносицька, 16",
+  "ChildsIds": []
  },
  {
   "id": 125280,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23656218440001,
+  "longt": 36.2365621844,
   "lati": 50.0021640094,
-  "FullNameUA": "вулиця Мироносицька, 17"
+  "FullNameUA": "вулиця Мироносицька, 17",
+  "ChildsIds": []
  },
  {
   "id": 125281,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237304364100005,
+  "longt": 36.2373043641,
   "lati": 50.0026972292,
-  "FullNameUA": "вулиця Мироносицька, 18"
+  "FullNameUA": "вулиця Мироносицька, 18",
+  "ChildsIds": []
  },
  {
   "id": 125282,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2364659504,
   "lati": 50.0025493738,
-  "FullNameUA": "вулиця Мироносицька, 19"
+  "FullNameUA": "вулиця Мироносицька, 19",
+  "ChildsIds": []
  },
  {
   "id": 125284,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237377505800005,
+  "longt": 36.2373775058,
   "lati": 50.0028935008,
-  "FullNameUA": "вулиця Мироносицька, 20"
+  "FullNameUA": "вулиця Мироносицька, 20",
+  "ChildsIds": []
  },
  {
   "id": 125285,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236672381700004,
+  "longt": 36.2366723817,
   "lati": 50.002718394,
-  "FullNameUA": "вулиця Мироносицька, 21"
+  "FullNameUA": "вулиця Мироносицька, 21",
+  "ChildsIds": []
  },
  {
   "id": 125286,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2374361987,
   "lati": 50.0030786757,
-  "FullNameUA": "вулиця Мироносицька, 22"
+  "FullNameUA": "вулиця Мироносицька, 22",
+  "ChildsIds": []
  },
  {
   "id": 125287,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23751231080001,
+  "longt": 36.2375123108,
   "lati": 50.003348654,
-  "FullNameUA": "вулиця Мироносицька, 24"
+  "FullNameUA": "вулиця Мироносицька, 24",
+  "ChildsIds": []
  },
  {
   "id": 125288,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236873353600004,
+  "longt": 36.2368733536,
   "lati": 50.0030625442,
-  "FullNameUA": "вулиця Мироносицька, 25"
+  "FullNameUA": "вулиця Мироносицька, 25",
+  "ChildsIds": []
  },
  {
   "id": 125289,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237258806700005,
+  "longt": 36.2372588067,
   "lati": 50.0040539271,
-  "FullNameUA": "вулиця Мироносицька, 29"
+  "FullNameUA": "вулиця Мироносицька, 29",
+  "ChildsIds": []
  },
  {
   "id": 125290,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2380926848,
   "lati": 50.0044233084,
-  "FullNameUA": "вулиця Мироносицька, 30"
+  "FullNameUA": "вулиця Мироносицька, 30",
+  "ChildsIds": []
  },
  {
   "id": 125291,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2379280198,
   "lati": 50.004616754,
-  "FullNameUA": "вулиця Мироносицька, 32"
+  "FullNameUA": "вулиця Мироносицька, 32",
+  "ChildsIds": []
  },
  {
   "id": 125292,
@@ -620,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237346298300004,
+  "longt": 36.2373462983,
   "lati": 50.0044501851,
-  "FullNameUA": "вулиця Мироносицька, 33"
+  "FullNameUA": "вулиця Мироносицька, 33",
+  "ChildsIds": []
  },
  {
   "id": 125293,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23799807420001,
+  "longt": 36.2379980742,
   "lati": 50.0048584313,
-  "FullNameUA": "вулиця Мироносицька, 34"
+  "FullNameUA": "вулиця Мироносицька, 34",
+  "ChildsIds": []
  },
  {
   "id": 125294,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2381680653,
   "lati": 50.0050928496,
-  "FullNameUA": "вулиця Мироносицька, 36"
+  "FullNameUA": "вулиця Мироносицька, 36",
+  "ChildsIds": []
  },
  {
   "id": 125295,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238251246900006,
+  "longt": 36.2382512469,
   "lati": 50.0052489343,
-  "FullNameUA": "вулиця Мироносицька, 38"
+  "FullNameUA": "вулиця Мироносицька, 38",
+  "ChildsIds": []
  },
  {
   "id": 125296,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2384268495,
   "lati": 50.0055118945,
-  "FullNameUA": "вулиця Мироносицька, 40"
+  "FullNameUA": "вулиця Мироносицька, 40",
+  "ChildsIds": []
  },
  {
   "id": 125297,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237680175200005,
+  "longt": 36.2376801752,
   "lati": 50.0054164647,
-  "FullNameUA": "вулиця Мироносицька, 41"
+  "FullNameUA": "вулиця Мироносицька, 41",
+  "ChildsIds": []
  },
  {
   "id": 125298,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2387671059,
   "lati": 50.0058227279,
-  "FullNameUA": "вулиця Мироносицька, 42"
+  "FullNameUA": "вулиця Мироносицька, 42",
+  "ChildsIds": []
  },
  {
   "id": 125299,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237861042300004,
+  "longt": 36.2378610423,
   "lati": 50.0058109198,
-  "FullNameUA": "вулиця Мироносицька, 43"
+  "FullNameUA": "вулиця Мироносицька, 43",
+  "ChildsIds": []
  },
  {
   "id": 125300,
@@ -820,9 +852,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238776002600005,
+  "longt": 36.2387760026,
   "lati": 50.0061758272,
-  "FullNameUA": "вулиця Мироносицька, 44"
+  "FullNameUA": "вулиця Мироносицька, 44",
+  "ChildsIds": []
+ },
+ {
+  "id": 125303,
+  "postcode": 61002,
+  "number": 45,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2376384365,
+  "lati": 50.0058867964,
+  "FullNameUA": "вулиця Мироносицька, 45-Б",
+  "ChildsIds": []
  },
  {
   "id": 125302,
@@ -847,7 +906,8 @@
   "reg_date": "",
   "longt": 36.237840804,
   "lati": 50.0059092162,
-  "FullNameUA": "вулиця Мироносицька, 45-А"
+  "FullNameUA": "вулиця Мироносицька, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 125301,
@@ -872,32 +932,8 @@
   "reg_date": "",
   "longt": 36.2380252255,
   "lati": 50.0058850511,
-  "FullNameUA": "вулиця Мироносицька, 45"
- },
- {
-  "id": 125303,
-  "postcode": 61002,
-  "number": 45,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237638436500006,
-  "lati": 50.0058867964,
-  "FullNameUA": "вулиця Мироносицька, 45-Б"
+  "FullNameUA": "вулиця Мироносицька, 45",
+  "ChildsIds": []
  },
  {
   "id": 125305,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239551584500006,
+  "longt": 36.2395515845,
   "lati": 50.0059974946,
-  "FullNameUA": "вулиця Мироносицька, 46-А"
+  "FullNameUA": "вулиця Мироносицька, 46-А",
+  "ChildsIds": []
  },
  {
   "id": 125304,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2389917905,
   "lati": 50.0063815193,
-  "FullNameUA": "вулиця Мироносицька, 46"
+  "FullNameUA": "вулиця Мироносицька, 46",
+  "ChildsIds": []
  },
  {
   "id": 125307,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.23781791,
   "lati": 50.0061852224,
-  "FullNameUA": "вулиця Мироносицька, 47-А"
+  "FullNameUA": "вулиця Мироносицька, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 125306,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2381400017,
   "lati": 50.0060927298,
-  "FullNameUA": "вулиця Мироносицька, 47"
+  "FullNameUA": "вулиця Мироносицька, 47",
+  "ChildsIds": []
  },
  {
   "id": 125308,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.239054852200006,
+  "longt": 36.2390548522,
   "lati": 50.0066222951,
-  "FullNameUA": "вулиця Мироносицька, 48"
+  "FullNameUA": "вулиця Мироносицька, 48",
+  "ChildsIds": []
  },
  {
   "id": 125309,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238262296600006,
+  "longt": 36.2382622966,
   "lati": 50.0062433297,
-  "FullNameUA": "вулиця Мироносицька, 49"
+  "FullNameUA": "вулиця Мироносицька, 49",
+  "ChildsIds": []
  },
  {
   "id": 125310,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238481796100004,
+  "longt": 36.2384817961,
   "lati": 50.0066351529,
-  "FullNameUA": "вулиця Мироносицька, 51"
+  "FullNameUA": "вулиця Мироносицька, 51",
+  "ChildsIds": []
  },
  {
   "id": 125311,
@@ -1095,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23966894390001,
+  "longt": 36.2396689439,
   "lati": 50.0072326906,
-  "FullNameUA": "вулиця Мироносицька, 52"
+  "FullNameUA": "вулиця Мироносицька, 52",
+  "ChildsIds": []
  },
  {
   "id": 125312,
@@ -1120,34 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238595344100005,
+  "longt": 36.2385953441,
   "lati": 50.006834054,
-  "FullNameUA": "вулиця Мироносицька, 53"
- },
- {
-  "id": 125313,
-  "postcode": 61002,
-  "number": 54,
-  "suffix": "",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2400046687,
-  "lati": 50.0075002748,
-  "FullNameUA": "вулиця Мироносицька, 54"
+  "FullNameUA": "вулиця Мироносицька, 53",
+  "ChildsIds": []
  },
  {
   "id": 125316,
@@ -1172,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.2404272376,
   "lati": 50.0069647551,
-  "FullNameUA": "вулиця Мироносицька, 54-В"
- },
- {
-  "id": 125315,
-  "postcode": 61002,
-  "number": 54,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.240678438100005,
-  "lati": 50.0071928594,
-  "FullNameUA": "вулиця Мироносицька, 54-Б"
+  "FullNameUA": "вулиця Мироносицька, 54-В",
+  "ChildsIds": []
  },
  {
   "id": 125314,
@@ -1222,7 +1218,60 @@
   "reg_date": "",
   "longt": 36.2405226375,
   "lati": 50.0074511487,
-  "FullNameUA": "вулиця Мироносицька, 54-А"
+  "FullNameUA": "вулиця Мироносицька, 54-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 125315,
+  "postcode": 61002,
+  "number": 54,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2406784381,
+  "lati": 50.0071928594,
+  "FullNameUA": "вулиця Мироносицька, 54-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 125313,
+  "postcode": 61002,
+  "number": 54,
+  "suffix": "",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2400046687,
+  "lati": 50.0075002748,
+  "FullNameUA": "вулиця Мироносицька, 54",
+  "ChildsIds": []
  },
  {
   "id": 125317,
@@ -1247,32 +1296,8 @@
   "reg_date": "",
   "longt": 36.2402560155,
   "lati": 50.0077782314,
-  "FullNameUA": "вулиця Мироносицька, 56"
- },
- {
-  "id": 125321,
-  "postcode": 61002,
-  "number": 57,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23924407050001,
-  "lati": 50.0078304818,
-  "FullNameUA": "вулиця Мироносицька, 57-В"
+  "FullNameUA": "вулиця Мироносицька, 56",
+  "ChildsIds": []
  },
  {
   "id": 125318,
@@ -1295,34 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239386310700006,
+  "longt": 36.2393863107,
   "lati": 50.0075445985,
-  "FullNameUA": "вулиця Мироносицька, 57"
- },
- {
-  "id": 125320,
-  "postcode": 61002,
-  "number": 57,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23976731810001,
-  "lati": 50.0078518241,
-  "FullNameUA": "вулиця Мироносицька, 57-Б"
+  "FullNameUA": "вулиця Мироносицька, 57",
+  "ChildsIds": []
  },
  {
   "id": 125319,
@@ -1345,9 +1346,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238888512200006,
+  "longt": 36.2388885122,
   "lati": 50.0074379477,
-  "FullNameUA": "вулиця Мироносицька, 57-А"
+  "FullNameUA": "вулиця Мироносицька, 57-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 125320,
+  "postcode": 61002,
+  "number": 57,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2397673181,
+  "lati": 50.0078518241,
+  "FullNameUA": "вулиця Мироносицька, 57-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 125321,
+  "postcode": 61002,
+  "number": 57,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2392440705,
+  "lati": 50.0078304818,
+  "FullNameUA": "вулиця Мироносицька, 57-В",
+  "ChildsIds": []
  },
  {
   "id": 125322,
@@ -1370,9 +1424,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239781577600006,
+  "longt": 36.2397815776,
   "lati": 50.00790391,
-  "FullNameUA": "вулиця Мироносицька, 59"
+  "FullNameUA": "вулиця Мироносицька, 59",
+  "ChildsIds": []
  },
  {
   "id": 125323,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.24105518,
   "lati": 50.0083023831,
-  "FullNameUA": "вулиця Мироносицька, 60"
+  "FullNameUA": "вулиця Мироносицька, 60",
+  "ChildsIds": []
  },
  {
   "id": 125324,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2403130531,
   "lati": 50.0082975269,
-  "FullNameUA": "вулиця Мироносицька, 61"
+  "FullNameUA": "вулиця Мироносицька, 61",
+  "ChildsIds": []
  },
  {
   "id": 125325,
@@ -1447,32 +1504,8 @@
   "reg_date": "",
   "longt": 36.24117196,
   "lati": 50.008549897,
-  "FullNameUA": "вулиця Мироносицька, 62"
- },
- {
-  "id": 125327,
-  "postcode": 61002,
-  "number": 63,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.240261255600004,
-  "lati": 50.0087672201,
-  "FullNameUA": "вулиця Мироносицька, 63-А"
+  "FullNameUA": "вулиця Мироносицька, 62",
+  "ChildsIds": []
  },
  {
   "id": 125326,
@@ -1497,7 +1530,34 @@
   "reg_date": "",
   "longt": 36.2406289829,
   "lati": 50.0085809499,
-  "FullNameUA": "вулиця Мироносицька, 63"
+  "FullNameUA": "вулиця Мироносицька, 63",
+  "ChildsIds": []
+ },
+ {
+  "id": 125327,
+  "postcode": 61002,
+  "number": 63,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2402612556,
+  "lati": 50.0087672201,
+  "FullNameUA": "вулиця Мироносицька, 63-А",
+  "ChildsIds": []
  },
  {
   "id": 125328,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2414821041,
   "lati": 50.0086937875,
-  "FullNameUA": "вулиця Мироносицька, 64"
+  "FullNameUA": "вулиця Мироносицька, 64",
+  "ChildsIds": []
  },
  {
   "id": 125329,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2409191292,
   "lati": 50.0088347336,
-  "FullNameUA": "вулиця Мироносицька, 65"
+  "FullNameUA": "вулиця Мироносицька, 65",
+  "ChildsIds": []
  },
  {
   "id": 125330,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.2416104852,
   "lati": 50.0088834448,
-  "FullNameUA": "вулиця Мироносицька, 66"
+  "FullNameUA": "вулиця Мироносицька, 66",
+  "ChildsIds": []
  },
  {
   "id": 125331,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241106214700004,
+  "longt": 36.2411062147,
   "lati": 50.0090200047,
-  "FullNameUA": "вулиця Мироносицька, 67"
+  "FullNameUA": "вулиця Мироносицька, 67",
+  "ChildsIds": []
  },
  {
   "id": 125332,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2418782428,
   "lati": 50.0090105852,
-  "FullNameUA": "вулиця Мироносицька, 68"
+  "FullNameUA": "вулиця Мироносицька, 68",
+  "ChildsIds": []
  },
  {
   "id": 125333,
@@ -1645,9 +1710,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241323300800005,
+  "longt": 36.2413233008,
   "lati": 50.0091877827,
-  "FullNameUA": "вулиця Мироносицька, 69"
+  "FullNameUA": "вулиця Мироносицька, 69",
+  "ChildsIds": []
  },
  {
   "id": 125334,
@@ -1670,9 +1736,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242092906900005,
+  "longt": 36.2420929069,
   "lati": 50.0092891252,
-  "FullNameUA": "вулиця Мироносицька, 70"
+  "FullNameUA": "вулиця Мироносицька, 70",
+  "ChildsIds": []
  },
  {
   "id": 125335,
@@ -1695,9 +1762,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.241224739100005,
+  "longt": 36.2412247391,
   "lati": 50.0095003041,
-  "FullNameUA": "вулиця Мироносицька, 71"
+  "FullNameUA": "вулиця Мироносицька, 71",
+  "ChildsIds": []
  },
  {
   "id": 125336,
@@ -1722,32 +1790,8 @@
   "reg_date": "",
   "longt": 36.2425688598,
   "lati": 50.0097122909,
-  "FullNameUA": "вулиця Мироносицька, 72"
- },
- {
-  "id": 125337,
-  "postcode": 61002,
-  "number": 73,
-  "suffix": "",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2419711614,
-  "lati": 50.009768173,
-  "FullNameUA": "вулиця Мироносицька, 73"
+  "FullNameUA": "вулиця Мироносицька, 72",
+  "ChildsIds": []
  },
  {
   "id": 125338,
@@ -1772,7 +1816,34 @@
   "reg_date": "02.04.2019 09:46:51",
   "longt": 36.2418975491,
   "lati": 50.0096189585,
-  "FullNameUA": "вулиця Мироносицька, 73-А"
+  "FullNameUA": "вулиця Мироносицька, 73-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 125337,
+  "postcode": 61002,
+  "number": 73,
+  "suffix": "",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2419711614,
+  "lati": 50.009768173,
+  "FullNameUA": "вулиця Мироносицька, 73",
+  "ChildsIds": []
  },
  {
   "id": 125339,
@@ -1797,7 +1868,8 @@
   "reg_date": "02.04.2019 09:47:19",
   "longt": 36.2417206311,
   "lati": 50.0096692797,
-  "FullNameUA": "вулиця Мироносицька, 73-Б"
+  "FullNameUA": "вулиця Мироносицька, 73-Б",
+  "ChildsIds": []
  },
  {
   "id": 125340,
@@ -1822,7 +1894,8 @@
   "reg_date": "21.03.2019 18:05:55",
   "longt": 36.2428232111,
   "lati": 50.0099269953,
-  "FullNameUA": "вулиця Мироносицька, 74"
+  "FullNameUA": "вулиця Мироносицька, 74",
+  "ChildsIds": []
  },
  {
   "id": 125341,
@@ -1847,7 +1920,8 @@
   "reg_date": "",
   "longt": 36.242200378,
   "lati": 50.0098908015,
-  "FullNameUA": "вулиця Мироносицька, 75"
+  "FullNameUA": "вулиця Мироносицька, 75",
+  "ChildsIds": []
  },
  {
   "id": 125342,
@@ -1871,8 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2432566534,
-  "lati": 50.010272199199996,
-  "FullNameUA": "вулиця Мироносицька, 76"
+  "lati": 50.0102721992,
+  "FullNameUA": "вулиця Мироносицька, 76",
+  "ChildsIds": []
  },
  {
   "id": 125343,
@@ -1895,9 +1970,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242363482200005,
+  "longt": 36.2423634822,
   "lati": 50.0100446086,
-  "FullNameUA": "вулиця Мироносицька, 77"
+  "FullNameUA": "вулиця Мироносицька, 77",
+  "ChildsIds": []
  },
  {
   "id": 125344,
@@ -1921,8 +1997,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2434881443,
-  "lati": 50.010489319499996,
-  "FullNameUA": "вулиця Мироносицька, 78"
+  "lati": 50.0104893195,
+  "FullNameUA": "вулиця Мироносицька, 78",
+  "ChildsIds": []
  },
  {
   "id": 125345,
@@ -1946,8 +2023,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2438525305,
-  "lati": 50.010450341799995,
-  "FullNameUA": "вулиця Мироносицька, 78-А"
+  "lati": 50.0104503418,
+  "FullNameUA": "вулиця Мироносицька, 78-А",
+  "ChildsIds": []
  },
  {
   "id": 125346,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2426573038,
   "lati": 50.0103100132,
-  "FullNameUA": "вулиця Мироносицька, 79"
+  "FullNameUA": "вулиця Мироносицька, 79",
+  "ChildsIds": []
  },
  {
   "id": 125347,
@@ -1997,32 +2076,8 @@
   "reg_date": "",
   "longt": 36.2437343314,
   "lati": 50.0106942722,
-  "FullNameUA": "вулиця Мироносицька, 80"
- },
- {
-  "id": 125349,
-  "postcode": 61023,
-  "number": 81,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2426791579,
-  "lati": 50.0107520713,
-  "FullNameUA": "вулиця Мироносицька, 81-А"
+  "FullNameUA": "вулиця Мироносицька, 80",
+  "ChildsIds": []
  },
  {
   "id": 125348,
@@ -2047,7 +2102,34 @@
   "reg_date": "",
   "longt": 36.2433567475,
   "lati": 50.0108640577,
-  "FullNameUA": "вулиця Мироносицька, 81/85"
+  "FullNameUA": "вулиця Мироносицька, 81/85",
+  "ChildsIds": []
+ },
+ {
+  "id": 125349,
+  "postcode": 61023,
+  "number": 81,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2426791579,
+  "lati": 50.0107520713,
+  "FullNameUA": "вулиця Мироносицька, 81-А",
+  "ChildsIds": []
  },
  {
   "id": 125350,
@@ -2071,8 +2153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2439240657,
-  "lati": 50.010821569499996,
-  "FullNameUA": "вулиця Мироносицька, 82"
+  "lati": 50.0108215695,
+  "FullNameUA": "вулиця Мироносицька, 82",
+  "ChildsIds": []
  },
  {
   "id": 125351,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.244140397,
   "lati": 50.0109860766,
-  "FullNameUA": "вулиця Мироносицька, 84"
+  "FullNameUA": "вулиця Мироносицька, 84",
+  "ChildsIds": []
  },
  {
   "id": 125352,
@@ -2122,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.2443214106,
   "lati": 50.0111252882,
-  "FullNameUA": "вулиця Мироносицька, 86"
+  "FullNameUA": "вулиця Мироносицька, 86",
+  "ChildsIds": []
  },
  {
   "id": 125353,
@@ -2145,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243749117700006,
+  "longt": 36.2437491177,
   "lati": 50.0111959749,
-  "FullNameUA": "вулиця Мироносицька, 87"
+  "FullNameUA": "вулиця Мироносицька, 87",
+  "ChildsIds": []
  },
  {
   "id": 125354,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2445986007,
   "lati": 50.0113967815,
-  "FullNameUA": "вулиця Мироносицька, 88"
+  "FullNameUA": "вулиця Мироносицька, 88",
+  "ChildsIds": []
  },
  {
   "id": 125355,
@@ -2195,9 +2282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243981638600005,
-  "lati": 50.011395224699996,
-  "FullNameUA": "вулиця Мироносицька, 89"
+  "longt": 36.2439816386,
+  "lati": 50.0113952247,
+  "FullNameUA": "вулиця Мироносицька, 89",
+  "ChildsIds": []
  },
  {
   "id": 125356,
@@ -2220,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244320201600004,
+  "longt": 36.2443202016,
   "lati": 50.011680899,
-  "FullNameUA": "вулиця Мироносицька, 91"
+  "FullNameUA": "вулиця Мироносицька, 91",
+  "ChildsIds": []
  },
  {
   "id": 125357,
@@ -2247,32 +2336,8 @@
   "reg_date": "",
   "longt": 36.2468753297,
   "lati": 50.0128255376,
-  "FullNameUA": "вулиця Мироносицька, 92"
- },
- {
-  "id": 125359,
-  "postcode": 61023,
-  "number": 93,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3263,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2454840013,
-  "lati": 50.0127149708,
-  "FullNameUA": "вулиця Мироносицька, 93-А"
+  "FullNameUA": "вулиця Мироносицька, 92",
+  "ChildsIds": []
  },
  {
   "id": 125358,
@@ -2297,12 +2362,13 @@
   "reg_date": "",
   "longt": 36.2447273215,
   "lati": 50.0122894915,
-  "FullNameUA": "вулиця Мироносицька, 93"
+  "FullNameUA": "вулиця Мироносицька, 93",
+  "ChildsIds": []
  },
  {
-  "id": 125361,
+  "id": 125359,
   "postcode": 61023,
-  "number": 94,
+  "number": 93,
   "suffix": "А",
   "block": "",
   "streetid": 3263,
@@ -2320,9 +2386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2483441294,
-  "lati": 50.014675622599995,
-  "FullNameUA": "вулиця Мироносицька, 94-А"
+  "longt": 36.2454840013,
+  "lati": 50.0127149708,
+  "FullNameUA": "вулиця Мироносицька, 93-А",
+  "ChildsIds": []
  },
  {
   "id": 125360,
@@ -2347,7 +2414,34 @@
   "reg_date": "",
   "longt": 36.2474355167,
   "lati": 50.0134014612,
-  "FullNameUA": "вулиця Мироносицька, 94"
+  "FullNameUA": "вулиця Мироносицька, 94",
+  "ChildsIds": []
+ },
+ {
+  "id": 125361,
+  "postcode": 61023,
+  "number": 94,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3263,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2483441294,
+  "lati": 50.0146756226,
+  "FullNameUA": "вулиця Мироносицька, 94-А",
+  "ChildsIds": []
  },
  {
   "id": 125362,
@@ -2372,7 +2466,8 @@
   "reg_date": "",
   "longt": 36.2456605805,
   "lati": 50.0128876282,
-  "FullNameUA": "вулиця Мироносицька, 95"
+  "FullNameUA": "вулиця Мироносицька, 95",
+  "ChildsIds": []
  },
  {
   "id": 125363,
@@ -2395,9 +2490,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246269994900004,
+  "longt": 36.2462699949,
   "lati": 50.0134150079,
-  "FullNameUA": "вулиця Мироносицька, 97"
+  "FullNameUA": "вулиця Мироносицька, 97",
+  "ChildsIds": []
  },
  {
   "id": 125365,
@@ -2422,7 +2518,8 @@
   "reg_date": "",
   "longt": 36.2470254508,
   "lati": 50.0147849954,
-  "FullNameUA": "вулиця Мироносицька, 99-А"
+  "FullNameUA": "вулиця Мироносицька, 99-А",
+  "ChildsIds": []
  },
  {
   "id": 125366,
@@ -2445,9 +2542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246795466200005,
-  "lati": 50.014568535399995,
-  "FullNameUA": "вулиця Мироносицька, 99-Б"
+  "longt": 36.2467954662,
+  "lati": 50.0145685354,
+  "FullNameUA": "вулиця Мироносицька, 99-Б",
+  "ChildsIds": []
  },
  {
   "id": 125364,
@@ -2472,6 +2570,7 @@
   "reg_date": "",
   "longt": 36.2477277775,
   "lati": 50.0148145279,
-  "FullNameUA": "вулиця Мироносицька, 99"
+  "FullNameUA": "вулиця Мироносицька, 99",
+  "ChildsIds": []
  }
 ]

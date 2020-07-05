@@ -1,105 +1,5 @@
 [
  {
-  "id": 109912,
-  "postcode": 61007,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.360337391499996,
-  "lati": 49.9518492662,
-  "FullNameUA": "вулиця Біблика, 1-Б"
- },
- {
-  "id": 109915,
-  "postcode": 61007,
-  "number": 1,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3599168095,
-  "lati": 49.952868151400004,
-  "FullNameUA": "вулиця Біблика, 1-Д"
- },
- {
-  "id": 109914,
-  "postcode": 61007,
-  "number": 1,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3622508354,
-  "lati": 49.951223427100004,
-  "FullNameUA": "вулиця Біблика, 1-Г"
- },
- {
-  "id": 109913,
-  "postcode": 61007,
-  "number": 1,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3615003814,
-  "lati": 49.9523210563,
-  "FullNameUA": "вулиця Біблика, 1-В"
- },
- {
   "id": 109911,
   "postcode": 61007,
   "number": 1,
@@ -120,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.359204023000004,
-  "lati": 49.952616622300006,
-  "FullNameUA": "вулиця Біблика, 1-А"
+  "longt": 36.359204023,
+  "lati": 49.9526166223,
+  "FullNameUA": "вулиця Біблика, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 109910,
@@ -147,37 +48,13 @@
   "reg_date": "",
   "longt": 36.3639164594,
   "lati": 49.9509928422,
-  "FullNameUA": "вулиця Біблика, 1"
+  "FullNameUA": "вулиця Біблика, 1",
+  "ChildsIds": []
  },
  {
-  "id": 109916,
-  "postcode": 61115,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3599015492,
-  "lati": 49.9514955343,
-  "FullNameUA": "вулиця Біблика, 2"
- },
- {
-  "id": 109918,
-  "postcode": 61115,
-  "number": 2,
+  "id": 109912,
+  "postcode": 61007,
+  "number": 1,
   "suffix": "Б",
   "block": "",
   "streetid": 2615,
@@ -195,15 +72,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3596590616,
-  "lati": 49.9501602801,
-  "FullNameUA": "вулиця Біблика, 2-Б"
+  "longt": 36.3603373915,
+  "lati": 49.9518492662,
+  "FullNameUA": "вулиця Біблика, 1-Б",
+  "ChildsIds": []
  },
  {
-  "id": 109922,
-  "postcode": 61046,
-  "number": 2,
-  "suffix": "К",
+  "id": 109915,
+  "postcode": 61007,
+  "number": 1,
+  "suffix": "Д",
   "block": "",
   "streetid": 2615,
   "status_id": 1,
@@ -220,9 +98,114 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.356939721,
-  "lati": 49.9487694113,
-  "FullNameUA": "вулиця Біблика, 2-К"
+  "longt": 36.3599168095,
+  "lati": 49.9528681514,
+  "FullNameUA": "вулиця Біблика, 1-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 109914,
+  "postcode": 61007,
+  "number": 1,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3622508354,
+  "lati": 49.9512234271,
+  "FullNameUA": "вулиця Біблика, 1-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 109913,
+  "postcode": 61007,
+  "number": 1,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3615003814,
+  "lati": 49.9523210563,
+  "FullNameUA": "вулиця Біблика, 1-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 109921,
+  "postcode": 61115,
+  "number": 2,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3604916746,
+  "lati": 49.9498285175,
+  "FullNameUA": "вулиця Біблика, 2-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 109917,
+  "postcode": 61115,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3591742007,
+  "lati": 49.9509277489,
+  "FullNameUA": "вулиця Біблика, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 109919,
@@ -247,13 +230,14 @@
   "reg_date": "",
   "longt": 36.3586983449,
   "lati": 49.9496289615,
-  "FullNameUA": "вулиця Біблика, 2-В"
+  "FullNameUA": "вулиця Біблика, 2-В",
+  "ChildsIds": []
  },
  {
-  "id": 109921,
-  "postcode": 61115,
+  "id": 109922,
+  "postcode": 61046,
   "number": 2,
-  "suffix": "Д",
+  "suffix": "К",
   "block": "",
   "streetid": 2615,
   "status_id": 1,
@@ -268,36 +252,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.3604916746,
-  "lati": 49.949828517499995,
-  "FullNameUA": "вулиця Біблика, 2-Д"
- },
- {
-  "id": 109917,
-  "postcode": 61115,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.359174200700004,
-  "lati": 49.9509277489,
-  "FullNameUA": "вулиця Біблика, 2-А"
+  "longt": 36.356939721,
+  "lati": 49.9487694113,
+  "FullNameUA": "вулиця Біблика, 2-К",
+  "ChildsIds": []
  },
  {
   "id": 109920,
@@ -321,8 +281,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3591908369,
-  "lati": 49.948999964399995,
-  "FullNameUA": "вулиця Біблика, 2-Г"
+  "lati": 49.9489999644,
+  "FullNameUA": "вулиця Біблика, 2-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 109918,
+  "postcode": 61115,
+  "number": 2,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3596590616,
+  "lati": 49.9501602801,
+  "FullNameUA": "вулиця Біблика, 2-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 109916,
+  "postcode": 61115,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3599015492,
+  "lati": 49.9514955343,
+  "FullNameUA": "вулиця Біблика, 2",
+  "ChildsIds": []
  },
  {
   "id": 109923,
@@ -347,32 +360,8 @@
   "reg_date": "",
   "longt": 36.3648530758,
   "lati": 49.9509434372,
-  "FullNameUA": "вулиця Біблика, 3"
- },
- {
-  "id": 109926,
-  "postcode": 61007,
-  "number": 4,
-  "suffix": "",
-  "block": "2",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3635289931,
-  "lati": 49.949591834799996,
-  "FullNameUA": "вулиця Біблика, 4, корпус № 2"
+  "FullNameUA": "вулиця Біблика, 3",
+  "ChildsIds": []
  },
  {
   "id": 109924,
@@ -396,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3622252431,
-  "lati": 49.950251249900006,
-  "FullNameUA": "вулиця Біблика, 4"
+  "lati": 49.9502512499,
+  "FullNameUA": "вулиця Біблика, 4",
+  "ChildsIds": []
  },
  {
   "id": 109925,
@@ -420,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.364071050599996,
+  "longt": 36.3640710506,
   "lati": 49.9501003696,
-  "FullNameUA": "вулиця Біблика, 4, корпус № 1"
+  "FullNameUA": "вулиця Біблика, 4, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 109927,
@@ -447,7 +438,8 @@
   "reg_date": "",
   "longt": 36.363202785,
   "lati": 49.9493526061,
-  "FullNameUA": "вулиця Біблика, 4, корпус № 3"
+  "FullNameUA": "вулиця Біблика, 4, корпус № 3",
+  "ChildsIds": []
  },
  {
   "id": 109928,
@@ -472,7 +464,34 @@
   "reg_date": "",
   "longt": 36.3602646202,
   "lati": 49.9512858489,
-  "FullNameUA": "вулиця Біблика, 4-А"
+  "FullNameUA": "вулиця Біблика, 4-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 109926,
+  "postcode": 61007,
+  "number": 4,
+  "suffix": "",
+  "block": "2",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3635289931,
+  "lati": 49.9495918348,
+  "FullNameUA": "вулиця Біблика, 4, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 109929,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3654014985,
   "lati": 49.9507705543,
-  "FullNameUA": "вулиця Біблика, 5"
+  "FullNameUA": "вулиця Біблика, 5",
+  "ChildsIds": []
  },
  {
   "id": 109930,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.3653117754,
   "lati": 49.949437096,
-  "FullNameUA": "вулиця Біблика, 6"
+  "FullNameUA": "вулиця Біблика, 6",
+  "ChildsIds": []
  },
  {
   "id": 109931,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3658888139,
-  "lati": 49.950513210400004,
-  "FullNameUA": "вулиця Біблика, 7"
+  "lati": 49.9505132104,
+  "FullNameUA": "вулиця Біблика, 7",
+  "ChildsIds": []
  },
  {
   "id": 109932,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3668580083,
   "lati": 49.9484355333,
-  "FullNameUA": "вулиця Біблика, 8"
+  "FullNameUA": "вулиця Біблика, 8",
+  "ChildsIds": []
  },
  {
   "id": 109933,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.3672853685,
   "lati": 49.9498374914,
-  "FullNameUA": "вулиця Біблика, 9"
+  "FullNameUA": "вулиця Біблика, 9",
+  "ChildsIds": []
  },
  {
   "id": 109934,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3679803555,
   "lati": 49.9497273646,
-  "FullNameUA": "вулиця Біблика, 11"
+  "FullNameUA": "вулиця Біблика, 11",
+  "ChildsIds": []
  },
  {
   "id": 109935,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3690609032,
   "lati": 49.9479463115,
-  "FullNameUA": "вулиця Біблика, 12"
+  "FullNameUA": "вулиця Біблика, 12",
+  "ChildsIds": []
  },
  {
   "id": 109936,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3691484718,
   "lati": 49.9500893592,
-  "FullNameUA": "вулиця Біблика, 13"
+  "FullNameUA": "вулиця Біблика, 13",
+  "ChildsIds": []
  },
  {
   "id": 109937,
@@ -696,8 +723,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3693579207,
-  "lati": 49.949262862699996,
-  "FullNameUA": "вулиця Біблика, 15"
+  "lati": 49.9492628627,
+  "FullNameUA": "вулиця Біблика, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 109938,
+  "postcode": 61007,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3699139806,
+  "lati": 49.9489908153,
+  "FullNameUA": "вулиця Біблика, 17",
+  "ChildsIds": []
  },
  {
   "id": 180225,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.3699478456,
   "lati": 49.9486860606,
-  "FullNameUA": "вулиця Біблика, 17-Б"
- },
- {
-  "id": 109938,
-  "postcode": 61007,
-  "number": 17,
-  "suffix": "",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.369913980599996,
-  "lati": 49.9489908153,
-  "FullNameUA": "вулиця Біблика, 17"
+  "FullNameUA": "вулиця Біблика, 17-Б",
+  "ChildsIds": []
  },
  {
   "id": 109939,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.374833157999994,
+  "longt": 36.374833158,
   "lati": 49.9466235778,
-  "FullNameUA": "вулиця Біблика, 18"
+  "FullNameUA": "вулиця Біблика, 18",
+  "ChildsIds": []
  },
  {
   "id": 109940,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3717886249,
   "lati": 49.9482611392,
-  "FullNameUA": "вулиця Біблика, 19"
+  "FullNameUA": "вулиця Біблика, 19",
+  "ChildsIds": []
  },
  {
   "id": 179810,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "04.10.2018 10:27:25",
   "longt": 36.3722324265,
-  "lati": 49.948661541199996,
-  "FullNameUA": "вулиця Біблика, 19-Г, гараж № 3"
+  "lati": 49.9486615412,
+  "FullNameUA": "вулиця Біблика, 19-Г, гараж № 3",
+  "ChildsIds": []
  },
  {
   "id": 109941,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.3759059124,
   "lati": 49.9462943049,
-  "FullNameUA": "вулиця Біблика, 20/8"
+  "FullNameUA": "вулиця Біблика, 20/8",
+  "ChildsIds": []
  },
  {
   "id": 109942,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.3740882277,
   "lati": 49.9476283029,
-  "FullNameUA": "вулиця Біблика, 21"
+  "FullNameUA": "вулиця Біблика, 21",
+  "ChildsIds": []
  },
  {
   "id": 109943,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.3767478407,
   "lati": 49.9459731069,
-  "FullNameUA": "вулиця Біблика, 22/9"
+  "FullNameUA": "вулиця Біблика, 22/9",
+  "ChildsIds": []
  },
  {
   "id": 109944,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.374768221299995,
-  "lati": 49.947477233099995,
-  "FullNameUA": "вулиця Біблика, 23"
+  "longt": 36.3747682213,
+  "lati": 49.9474772331,
+  "FullNameUA": "вулиця Біблика, 23",
+  "ChildsIds": []
  },
  {
   "id": 109945,
@@ -947,32 +984,8 @@
   "reg_date": "",
   "longt": 36.3774490728,
   "lati": 49.9455070891,
-  "FullNameUA": "вулиця Біблика, 24"
- },
- {
-  "id": 109947,
-  "postcode": 61007,
-  "number": 25,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Орджонікідзевської райради 171_1, 07.07.2009",
-  "reg_date": "28.02.2019 11:03:42",
-  "longt": 36.376754638799994,
-  "lati": 49.947423146999995,
-  "FullNameUA": "вулиця Біблика, 25-А"
+  "FullNameUA": "вулиця Біблика, 24",
+  "ChildsIds": []
  },
  {
   "id": 109946,
@@ -995,9 +1008,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.375932118099996,
-  "lati": 49.947850396999996,
-  "FullNameUA": "вулиця Біблика, 25"
+  "longt": 36.3759321181,
+  "lati": 49.947850397,
+  "FullNameUA": "вулиця Біблика, 25",
+  "ChildsIds": []
+ },
+ {
+  "id": 109947,
+  "postcode": 61007,
+  "number": 25,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Орджонікідзевської райради 171_1, 07.07.2009",
+  "reg_date": "28.02.2019 11:03:42",
+  "longt": 36.3767546388,
+  "lati": 49.947423147,
+  "FullNameUA": "вулиця Біблика, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 109948,
@@ -1022,7 +1062,34 @@
   "reg_date": "",
   "longt": 36.3779771009,
   "lati": 49.9452060131,
-  "FullNameUA": "вулиця Біблика, 26"
+  "FullNameUA": "вулиця Біблика, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 109949,
+  "postcode": 61007,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3761492714,
+  "lati": 49.9470251776,
+  "FullNameUA": "вулиця Біблика, 27",
+  "ChildsIds": []
  },
  {
   "id": 109950,
@@ -1046,33 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3755462455,
-  "lati": 49.946786436299995,
-  "FullNameUA": "вулиця Біблика, 27-А"
- },
- {
-  "id": 109949,
-  "postcode": 61007,
-  "number": 27,
-  "suffix": "",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.376149271399996,
-  "lati": 49.9470251776,
-  "FullNameUA": "вулиця Біблика, 27"
+  "lati": 49.9467864363,
+  "FullNameUA": "вулиця Біблика, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 109951,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3776666849,
   "lati": 49.944837295,
-  "FullNameUA": "вулиця Біблика, 28"
+  "FullNameUA": "вулиця Біблика, 28",
+  "ChildsIds": []
  },
  {
   "id": 109952,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.376705496,
   "lati": 49.9467502579,
-  "FullNameUA": "вулиця Біблика, 29"
+  "FullNameUA": "вулиця Біблика, 29",
+  "ChildsIds": []
  },
  {
   "id": 109953,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3787644457,
   "lati": 49.9452592401,
-  "FullNameUA": "вулиця Біблика, 30"
+  "FullNameUA": "вулиця Біблика, 30",
+  "ChildsIds": []
  },
  {
   "id": 109954,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3783682667,
   "lati": 49.9464179026,
-  "FullNameUA": "вулиця Біблика, 31"
+  "FullNameUA": "вулиця Біблика, 31",
+  "ChildsIds": []
  },
  {
   "id": 109955,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.3795000705,
   "lati": 49.9448492944,
-  "FullNameUA": "вулиця Біблика, 32/10"
+  "FullNameUA": "вулиця Біблика, 32/10",
+  "ChildsIds": []
  },
  {
   "id": 109956,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.3789704939,
   "lati": 49.9462904953,
-  "FullNameUA": "вулиця Біблика, 33"
+  "FullNameUA": "вулиця Біблика, 33",
+  "ChildsIds": []
  },
  {
   "id": 109957,
@@ -1246,8 +1295,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3795176749,
-  "lati": 49.946102889399995,
-  "FullNameUA": "вулиця Біблика, 35"
+  "lati": 49.9461028894,
+  "FullNameUA": "вулиця Біблика, 35",
+  "ChildsIds": []
  },
  {
   "id": 109958,
@@ -1271,8 +1321,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3820536113,
-  "lati": 49.943326998399996,
-  "FullNameUA": "вулиця Біблика, 36"
+  "lati": 49.9433269984,
+  "FullNameUA": "вулиця Біблика, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 109960,
+  "postcode": 61007,
+  "number": 37,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3828013512,
+  "lati": 49.9444463485,
+  "FullNameUA": "вулиця Біблика, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 109959,
@@ -1297,57 +1374,8 @@
   "reg_date": "",
   "longt": 36.3801079934,
   "lati": 49.9456387455,
-  "FullNameUA": "вулиця Біблика, 37/8"
- },
- {
-  "id": 109960,
-  "postcode": 61007,
-  "number": 37,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3828013512,
-  "lati": 49.944446348499994,
-  "FullNameUA": "вулиця Біблика, 37-А"
- },
- {
-  "id": 109962,
-  "postcode": 61089,
-  "number": 38,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2615,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.382160899700004,
-  "lati": 49.943824119,
-  "FullNameUA": "вулиця Біблика, 38-А"
+  "FullNameUA": "вулиця Біблика, 37/8",
+  "ChildsIds": []
  },
  {
   "id": 109961,
@@ -1370,9 +1398,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.382555967500004,
-  "lati": 49.943945905499994,
-  "FullNameUA": "вулиця Біблика, 38"
+  "longt": 36.3825559675,
+  "lati": 49.9439459055,
+  "FullNameUA": "вулиця Біблика, 38",
+  "ChildsIds": []
+ },
+ {
+  "id": 109962,
+  "postcode": 61089,
+  "number": 38,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2615,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3821608997,
+  "lati": 49.943824119,
+  "FullNameUA": "вулиця Біблика, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 109963,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.383768976300004,
+  "longt": 36.3837689763,
   "lati": 49.9437123551,
-  "FullNameUA": "вулиця Біблика, 40/10"
+  "FullNameUA": "вулиця Біблика, 40/10",
+  "ChildsIds": []
  },
  {
   "id": 109964,
@@ -1420,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.382246730400006,
+  "longt": 36.3822467304,
   "lati": 49.9451117757,
-  "FullNameUA": "вулиця Біблика, 41"
+  "FullNameUA": "вулиця Біблика, 41",
+  "ChildsIds": []
  },
  {
   "id": 109965,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.3847419303,
   "lati": 49.9433467999,
-  "FullNameUA": "вулиця Біблика, 42"
+  "FullNameUA": "вулиця Біблика, 42",
+  "ChildsIds": []
  },
  {
   "id": 109966,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.3828368163,
   "lati": 49.9449598823,
-  "FullNameUA": "вулиця Біблика, 43"
+  "FullNameUA": "вулиця Біблика, 43",
+  "ChildsIds": []
  },
  {
   "id": 109968,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.385601011000006,
+  "longt": 36.385601011,
   "lati": 49.9424560079,
-  "FullNameUA": "вулиця Біблика, 44-А"
+  "FullNameUA": "вулиця Біблика, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 109967,
@@ -1520,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.385896952100005,
-  "lati": 49.942819306699995,
-  "FullNameUA": "вулиця Біблика, 44"
+  "longt": 36.3858969521,
+  "lati": 49.9428193067,
+  "FullNameUA": "вулиця Біблика, 44",
+  "ChildsIds": []
  },
  {
   "id": 109969,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.3834376312,
   "lati": 49.9447493021,
-  "FullNameUA": "вулиця Біблика, 47"
+  "FullNameUA": "вулиця Біблика, 47",
+  "ChildsIds": []
  },
  {
   "id": 109970,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.3926268793,
   "lati": 49.9395639049,
-  "FullNameUA": "вулиця Біблика, 48"
+  "FullNameUA": "вулиця Біблика, 48",
+  "ChildsIds": []
  },
  {
   "id": 109971,
@@ -1596,8 +1659,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3839579797,
-  "lati": 49.944552529599996,
-  "FullNameUA": "вулиця Біблика, 49"
+  "lati": 49.9445525296,
+  "FullNameUA": "вулиця Біблика, 49",
+  "ChildsIds": []
  },
  {
   "id": 109972,
@@ -1621,8 +1685,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.386263727,
-  "lati": 49.943362383899995,
-  "FullNameUA": "вулиця Біблика, 55"
+  "lati": 49.9433623839,
+  "FullNameUA": "вулиця Біблика, 55",
+  "ChildsIds": []
  },
  {
   "id": 109973,
@@ -1645,9 +1710,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.389871298100005,
+  "longt": 36.3898712981,
   "lati": 49.942986088,
-  "FullNameUA": "вулиця Біблика, 57"
+  "FullNameUA": "вулиця Біблика, 57",
+  "ChildsIds": []
  },
  {
   "id": 109974,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.3913116443,
   "lati": 49.94375939,
-  "FullNameUA": "вулиця Біблика, 57-А"
+  "FullNameUA": "вулиця Біблика, 57-А",
+  "ChildsIds": []
  },
  {
   "id": 109975,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.3910412811,
   "lati": 49.9433357781,
-  "FullNameUA": "вулиця Біблика, 59"
+  "FullNameUA": "вулиця Біблика, 59",
+  "ChildsIds": []
  },
  {
   "id": 109976,
@@ -1720,9 +1788,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.392400621200004,
+  "longt": 36.3924006212,
   "lati": 49.9433002435,
-  "FullNameUA": "вулиця Біблика, 61"
+  "FullNameUA": "вулиця Біблика, 61",
+  "ChildsIds": []
  },
  {
   "id": 109977,
@@ -1745,9 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.392719804100004,
+  "longt": 36.3927198041,
   "lati": 49.9438508736,
-  "FullNameUA": "вулиця Біблика, 63"
+  "FullNameUA": "вулиця Біблика, 63",
+  "ChildsIds": []
  },
  {
   "id": 109978,
@@ -1771,7 +1841,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3932535637,
-  "lati": 49.943659275799995,
-  "FullNameUA": "вулиця Біблика, 65"
+  "lati": 49.9436592758,
+  "FullNameUA": "вулиця Біблика, 65",
+  "ChildsIds": []
  }
 ]

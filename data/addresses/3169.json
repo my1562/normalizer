@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157902911899996,
+  "longt": 36.1579029119,
   "lati": 49.9483949372,
-  "FullNameUA": "вулиця Врубеля, 2"
+  "FullNameUA": "вулиця Врубеля, 2",
+  "ChildsIds": []
  },
  {
   "id": 152298,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1589302756,
   "lati": 49.9487072173,
-  "FullNameUA": "вулиця Врубеля, 3-А"
+  "FullNameUA": "вулиця Врубеля, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 152297,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.158837203,
-  "lati": 49.948923260899996,
-  "FullNameUA": "вулиця Врубеля, 3"
+  "lati": 49.9489232609,
+  "FullNameUA": "вулиця Врубеля, 3",
+  "ChildsIds": []
  },
  {
   "id": 152299,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1578666185,
   "lati": 49.9481635779,
-  "FullNameUA": "вулиця Врубеля, 4"
+  "FullNameUA": "вулиця Врубеля, 4",
+  "ChildsIds": []
  },
  {
   "id": 152300,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1577747508,
-  "lati": 49.948271677499996,
-  "FullNameUA": "вулиця Врубеля, 4-А"
+  "lati": 49.9482716775,
+  "FullNameUA": "вулиця Врубеля, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 152301,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1577824472,
   "lati": 49.9480132725,
-  "FullNameUA": "вулиця Врубеля, 6"
+  "FullNameUA": "вулиця Врубеля, 6",
+  "ChildsIds": []
  },
  {
   "id": 152302,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1585527275,
   "lati": 49.9485780744,
-  "FullNameUA": "вулиця Врубеля, 9"
+  "FullNameUA": "вулиця Врубеля, 9",
+  "ChildsIds": []
  },
  {
   "id": 152303,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1577823561,
-  "lati": 49.947782343499995,
-  "FullNameUA": "вулиця Врубеля, 10"
+  "lati": 49.9477823435,
+  "FullNameUA": "вулиця Врубеля, 10",
+  "ChildsIds": []
  },
  {
   "id": 152304,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1577701291,
   "lati": 49.9475983429,
-  "FullNameUA": "вулиця Врубеля, 12"
+  "FullNameUA": "вулиця Врубеля, 12",
+  "ChildsIds": []
  },
  {
   "id": 152305,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1588450235,
-  "lati": 49.948297576899996,
-  "FullNameUA": "вулиця Врубеля, 13"
+  "lati": 49.9482975769,
+  "FullNameUA": "вулиця Врубеля, 13",
+  "ChildsIds": []
  },
  {
   "id": 152306,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1577666887,
   "lati": 49.9474040964,
-  "FullNameUA": "вулиця Врубеля, 14"
+  "FullNameUA": "вулиця Врубеля, 14",
+  "ChildsIds": []
  },
  {
   "id": 152307,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1583816473,
   "lati": 49.9481420502,
-  "FullNameUA": "вулиця Врубеля, 15"
+  "FullNameUA": "вулиця Врубеля, 15",
+  "ChildsIds": []
  },
  {
   "id": 152308,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1577353044,
-  "lati": 49.947168612599995,
-  "FullNameUA": "вулиця Врубеля, 16"
+  "lati": 49.9471686126,
+  "FullNameUA": "вулиця Врубеля, 16",
+  "ChildsIds": []
  },
  {
   "id": 152309,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1583866697,
   "lati": 49.9479197942,
-  "FullNameUA": "вулиця Врубеля, 17"
+  "FullNameUA": "вулиця Врубеля, 17",
+  "ChildsIds": []
  },
  {
   "id": 152310,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1577060683,
   "lati": 49.946975568,
-  "FullNameUA": "вулиця Врубеля, 18"
+  "FullNameUA": "вулиця Врубеля, 18",
+  "ChildsIds": []
  },
  {
   "id": 152311,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158370475699996,
+  "longt": 36.1583704757,
   "lati": 49.9477696229,
-  "FullNameUA": "вулиця Врубеля, 19"
+  "FullNameUA": "вулиця Врубеля, 19",
+  "ChildsIds": []
  },
  {
   "id": 152312,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1576568665,
   "lati": 49.9468090102,
-  "FullNameUA": "вулиця Врубеля, 20"
+  "FullNameUA": "вулиця Врубеля, 20",
+  "ChildsIds": []
  },
  {
   "id": 152313,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158347132799996,
-  "lati": 49.947598741099995,
-  "FullNameUA": "вулиця Врубеля, 21"
+  "longt": 36.1583471328,
+  "lati": 49.9475987411,
+  "FullNameUA": "вулиця Врубеля, 21",
+  "ChildsIds": []
  },
  {
   "id": 152314,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1576563016,
-  "lati": 49.946608278199996,
-  "FullNameUA": "вулиця Врубеля, 22"
+  "lati": 49.9466082782,
+  "FullNameUA": "вулиця Врубеля, 22",
+  "ChildsIds": []
  },
  {
   "id": 152315,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158312730599995,
+  "longt": 36.1583127306,
   "lati": 49.9474077829,
-  "FullNameUA": "вулиця Врубеля, 23"
+  "FullNameUA": "вулиця Врубеля, 23",
+  "ChildsIds": []
  },
  {
   "id": 152316,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1576724201,
   "lati": 49.9464775267,
-  "FullNameUA": "вулиця Врубеля, 24"
+  "FullNameUA": "вулиця Врубеля, 24",
+  "ChildsIds": []
  },
  {
   "id": 152317,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.158307689,
-  "lati": 49.947176948999996,
-  "FullNameUA": "вулиця Врубеля, 25"
+  "lati": 49.947176949,
+  "FullNameUA": "вулиця Врубеля, 25",
+  "ChildsIds": []
  },
  {
   "id": 152318,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.15767022,
   "lati": 49.9462927456,
-  "FullNameUA": "вулиця Врубеля, 26"
+  "FullNameUA": "вулиця Врубеля, 26",
+  "ChildsIds": []
  },
  {
   "id": 152319,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.1586236178,
   "lati": 49.947072338,
-  "FullNameUA": "вулиця Врубеля, 27"
+  "FullNameUA": "вулиця Врубеля, 27",
+  "ChildsIds": []
  },
  {
   "id": 152321,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1566313597,
-  "lati": 49.946016982799996,
-  "FullNameUA": "вулиця Врубеля, 28-А"
+  "lati": 49.9460169828,
+  "FullNameUA": "вулиця Врубеля, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 152320,
@@ -646,33 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1574905557,
-  "lati": 49.946135878899995,
-  "FullNameUA": "вулиця Врубеля, 28"
- },
- {
-  "id": 152323,
-  "postcode": 61020,
-  "number": 30,
-  "suffix": "",
-  "block": "",
-  "streetid": 3169,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.157464422,
-  "lati": 49.945852939599995,
-  "FullNameUA": "вулиця Врубеля, 30"
+  "lati": 49.9461358789,
+  "FullNameUA": "вулиця Врубеля, 28",
+  "ChildsIds": []
  },
  {
   "id": 152324,
@@ -697,7 +698,34 @@
   "reg_date": "",
   "longt": 36.156797358,
   "lati": 49.9457814114,
-  "FullNameUA": "вулиця Врубеля, 30-А"
+  "FullNameUA": "вулиця Врубеля, 30-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 152323,
+  "postcode": 61020,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.157464422,
+  "lati": 49.9458529396,
+  "FullNameUA": "вулиця Врубеля, 30",
+  "ChildsIds": []
  },
  {
   "id": 152325,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.1575831703,
   "lati": 49.9455751148,
-  "FullNameUA": "вулиця Врубеля, 32"
+  "FullNameUA": "вулиця Врубеля, 32",
+  "ChildsIds": []
  },
  {
   "id": 152326,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1586062555,
   "lati": 49.9467702666,
-  "FullNameUA": "вулиця Врубеля, 33"
+  "FullNameUA": "вулиця Врубеля, 33",
+  "ChildsIds": []
  },
  {
   "id": 152327,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1575389003,
-  "lati": 49.945360748999995,
-  "FullNameUA": "вулиця Врубеля, 34"
+  "lati": 49.945360749,
+  "FullNameUA": "вулиця Врубеля, 34",
+  "ChildsIds": []
  },
  {
   "id": 152328,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158392190099995,
+  "longt": 36.1583921901,
   "lati": 49.9462712244,
-  "FullNameUA": "вулиця Врубеля, 35"
+  "FullNameUA": "вулиця Врубеля, 35",
+  "ChildsIds": []
  },
  {
   "id": 152329,
@@ -822,7 +854,34 @@
   "reg_date": "",
   "longt": 36.1575319875,
   "lati": 49.9452078625,
-  "FullNameUA": "вулиця Врубеля, 36"
+  "FullNameUA": "вулиця Врубеля, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 152330,
+  "postcode": 61020,
+  "number": 37,
+  "suffix": "",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1583013734,
+  "lati": 49.9461289942,
+  "FullNameUA": "вулиця Врубеля, 37",
+  "ChildsIds": []
  },
  {
   "id": 152331,
@@ -847,32 +906,8 @@
   "reg_date": "",
   "longt": 36.1581263168,
   "lati": 49.9460326946,
-  "FullNameUA": "вулиця Врубеля, 37-А"
- },
- {
-  "id": 152330,
-  "postcode": 61020,
-  "number": 37,
-  "suffix": "",
-  "block": "",
-  "streetid": 3169,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1583013734,
-  "lati": 49.946128994199995,
-  "FullNameUA": "вулиця Врубеля, 37"
+  "FullNameUA": "вулиця Врубеля, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 152333,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1571473171,
   "lati": 49.9449303865,
-  "FullNameUA": "вулиця Врубеля, 38-А"
+  "FullNameUA": "вулиця Врубеля, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 152332,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1574798549,
-  "lati": 49.945020070599995,
-  "FullNameUA": "вулиця Врубеля, 38"
+  "lati": 49.9450200706,
+  "FullNameUA": "вулиця Врубеля, 38",
+  "ChildsIds": []
  },
  {
   "id": 152334,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.1581256611,
   "lati": 49.9458996804,
-  "FullNameUA": "вулиця Врубеля, 39"
+  "FullNameUA": "вулиця Врубеля, 39",
+  "ChildsIds": []
  },
  {
   "id": 152335,
@@ -971,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1575158845,
-  "lati": 49.944813786299996,
-  "FullNameUA": "вулиця Врубеля, 40"
+  "lati": 49.9448137863,
+  "FullNameUA": "вулиця Врубеля, 40",
+  "ChildsIds": []
  },
  {
   "id": 152336,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.1582710251,
   "lati": 49.9456177409,
-  "FullNameUA": "вулиця Врубеля, 41"
+  "FullNameUA": "вулиця Врубеля, 41",
+  "ChildsIds": []
  },
  {
   "id": 152337,
@@ -1020,9 +1060,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158405077299996,
+  "longt": 36.1584050773,
   "lati": 49.9457080042,
-  "FullNameUA": "вулиця Врубеля, 41-А"
+  "FullNameUA": "вулиця Врубеля, 41-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 152339,
+  "postcode": 61019,
+  "number": 42,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1570417917,
+  "lati": 49.9433782103,
+  "FullNameUA": "вулиця Врубеля, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 152338,
@@ -1047,32 +1114,8 @@
   "reg_date": "",
   "longt": 36.1575161153,
   "lati": 49.944674721,
-  "FullNameUA": "вулиця Врубеля, 42"
- },
- {
-  "id": 152339,
-  "postcode": 61019,
-  "number": 42,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3169,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.157041791699996,
-  "lati": 49.9433782103,
-  "FullNameUA": "вулиця Врубеля, 42-А"
+  "FullNameUA": "вулиця Врубеля, 42",
+  "ChildsIds": []
  },
  {
   "id": 152340,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.1581375095,
   "lati": 49.9454657783,
-  "FullNameUA": "вулиця Врубеля, 43"
+  "FullNameUA": "вулиця Врубеля, 43",
+  "ChildsIds": []
  },
  {
   "id": 152341,
@@ -1122,32 +1166,8 @@
   "reg_date": "",
   "longt": 36.15713937,
   "lati": 49.9416851991,
-  "FullNameUA": "вулиця Врубеля, 44"
- },
- {
-  "id": 176514,
-  "postcode": 61019,
-  "number": 44,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3169,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.1570355977,
-  "lati": 49.9423063267,
-  "FullNameUA": "вулиця Врубеля, 44-А"
+  "FullNameUA": "вулиця Врубеля, 44",
+  "ChildsIds": []
  },
  {
   "id": 176515,
@@ -1172,7 +1192,34 @@
   "reg_date": "",
   "longt": 36.1567121537,
   "lati": 49.9423589532,
-  "FullNameUA": "вулиця Врубеля, 44-Б"
+  "FullNameUA": "вулиця Врубеля, 44-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 176514,
+  "postcode": 61019,
+  "number": 44,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.1570355977,
+  "lati": 49.9423063267,
+  "FullNameUA": "вулиця Врубеля, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 152342,
@@ -1196,8 +1243,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1582248441,
-  "lati": 49.945321185299996,
-  "FullNameUA": "вулиця Врубеля, 45"
+  "lati": 49.9453211853,
+  "FullNameUA": "вулиця Врубеля, 45",
+  "ChildsIds": []
  },
  {
   "id": 152343,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.1571457664,
   "lati": 49.9414981671,
-  "FullNameUA": "вулиця Врубеля, 46"
+  "FullNameUA": "вулиця Врубеля, 46",
+  "ChildsIds": []
  },
  {
   "id": 152344,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.1580682909,
   "lati": 49.945129886,
-  "FullNameUA": "вулиця Врубеля, 47"
+  "FullNameUA": "вулиця Врубеля, 47",
+  "ChildsIds": []
  },
  {
   "id": 152345,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.1571056644,
   "lati": 49.9412944737,
-  "FullNameUA": "вулиця Врубеля, 48"
+  "FullNameUA": "вулиця Врубеля, 48",
+  "ChildsIds": []
  },
  {
   "id": 152346,
@@ -1296,8 +1347,9 @@
   "confrm": "Рішення ВК ХМР № 96, 12.02.2014 (квартира 96)",
   "reg_date": "",
   "longt": 36.1580295475,
-  "lati": 49.944912058599996,
-  "FullNameUA": "вулиця Врубеля, 49"
+  "lati": 49.9449120586,
+  "FullNameUA": "вулиця Врубеля, 49",
+  "ChildsIds": []
  },
  {
   "id": 152347,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157064610199996,
+  "longt": 36.1570646102,
   "lati": 49.9410839519,
-  "FullNameUA": "вулиця Врубеля, 50"
+  "FullNameUA": "вулиця Врубеля, 50",
+  "ChildsIds": []
  },
  {
   "id": 152348,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.1570533788,
   "lati": 49.9410304461,
-  "FullNameUA": "вулиця Врубеля, 52"
+  "FullNameUA": "вулиця Врубеля, 52",
+  "ChildsIds": []
  },
  {
   "id": 152349,
@@ -1370,9 +1424,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.158233822599996,
-  "lati": 49.943033535299996,
-  "FullNameUA": "вулиця Врубеля, 53"
+  "longt": 36.1582338226,
+  "lati": 49.9430335353,
+  "FullNameUA": "вулиця Врубеля, 53",
+  "ChildsIds": []
  },
  {
   "id": 152350,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157033960199996,
+  "longt": 36.1570339602,
   "lati": 49.9407106582,
-  "FullNameUA": "вулиця Врубеля, 54"
+  "FullNameUA": "вулиця Врубеля, 54",
+  "ChildsIds": []
  },
  {
   "id": 152351,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.1577098469,
   "lati": 49.9425135735,
-  "FullNameUA": "вулиця Врубеля, 55"
+  "FullNameUA": "вулиця Врубеля, 55",
+  "ChildsIds": []
  },
  {
   "id": 152352,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.1570070829,
   "lati": 49.9405609965,
-  "FullNameUA": "вулиця Врубеля, 56"
+  "FullNameUA": "вулиця Врубеля, 56",
+  "ChildsIds": []
  },
  {
   "id": 152353,
@@ -1471,8 +1529,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1577031829,
-  "lati": 49.942346531599995,
-  "FullNameUA": "вулиця Врубеля, 57"
+  "lati": 49.9423465316,
+  "FullNameUA": "вулиця Врубеля, 57",
+  "ChildsIds": []
  },
  {
   "id": 152354,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.1569924513,
   "lati": 49.9403458964,
-  "FullNameUA": "вулиця Врубеля, 58"
+  "FullNameUA": "вулиця Врубеля, 58",
+  "ChildsIds": []
  },
  {
   "id": 152355,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.1576689673,
   "lati": 49.9421848051,
-  "FullNameUA": "вулиця Врубеля, 59"
+  "FullNameUA": "вулиця Врубеля, 59",
+  "ChildsIds": []
  },
  {
   "id": 152356,
@@ -1546,8 +1607,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1569731113,
-  "lati": 49.940155327999996,
-  "FullNameUA": "вулиця Врубеля, 60"
+  "lati": 49.940155328,
+  "FullNameUA": "вулиця Врубеля, 60",
+  "ChildsIds": []
  },
  {
   "id": 152357,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.1576338057,
   "lati": 49.9419816437,
-  "FullNameUA": "вулиця Врубеля, 61"
+  "FullNameUA": "вулиця Врубеля, 61",
+  "ChildsIds": []
  },
  {
   "id": 152358,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.156935811699995,
+  "longt": 36.1569358117,
   "lati": 49.9399744636,
-  "FullNameUA": "вулиця Врубеля, 62"
+  "FullNameUA": "вулиця Врубеля, 62",
+  "ChildsIds": []
  },
  {
   "id": 152359,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.156925933,
   "lati": 49.9397699075,
-  "FullNameUA": "вулиця Врубеля, 64"
+  "FullNameUA": "вулиця Врубеля, 64",
+  "ChildsIds": []
  },
  {
   "id": 152360,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.1576073555,
   "lati": 49.9417224682,
-  "FullNameUA": "вулиця Врубеля, 65"
+  "FullNameUA": "вулиця Врубеля, 65",
+  "ChildsIds": []
  },
  {
   "id": 152361,
@@ -1671,8 +1737,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1575516776,
-  "lati": 49.941412969199995,
-  "FullNameUA": "вулиця Врубеля, 67"
+  "lati": 49.9414129692,
+  "FullNameUA": "вулиця Врубеля, 67",
+  "ChildsIds": []
  },
  {
   "id": 152362,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.1568187278,
   "lati": 49.93724014,
-  "FullNameUA": "вулиця Врубеля, 68"
+  "FullNameUA": "вулиця Врубеля, 68",
+  "ChildsIds": []
  },
  {
   "id": 152363,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.1575449682,
   "lati": 49.9412336613,
-  "FullNameUA": "вулиця Врубеля, 69"
+  "FullNameUA": "вулиця Врубеля, 69",
+  "ChildsIds": []
  },
  {
   "id": 152364,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.1568277776,
   "lati": 49.9370758193,
-  "FullNameUA": "вулиця Врубеля, 70"
+  "FullNameUA": "вулиця Врубеля, 70",
+  "ChildsIds": []
  },
  {
   "id": 152365,
@@ -1771,8 +1841,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1575246444,
-  "lati": 49.941058898099996,
-  "FullNameUA": "вулиця Врубеля, 71"
+  "lati": 49.9410588981,
+  "FullNameUA": "вулиця Врубеля, 71",
+  "ChildsIds": []
  },
  {
   "id": 152366,
@@ -1796,8 +1867,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1568464654,
-  "lati": 49.936951999499996,
-  "FullNameUA": "вулиця Врубеля, 72"
+  "lati": 49.9369519995,
+  "FullNameUA": "вулиця Врубеля, 72",
+  "ChildsIds": []
  },
  {
   "id": 152367,
@@ -1820,9 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157469557599995,
-  "lati": 49.940894549199996,
-  "FullNameUA": "вулиця Врубеля, 73"
+  "longt": 36.1574695576,
+  "lati": 49.9408945492,
+  "FullNameUA": "вулиця Врубеля, 73",
+  "ChildsIds": []
  },
  {
   "id": 152368,
@@ -1847,7 +1920,8 @@
   "reg_date": "",
   "longt": 36.1568549819,
   "lati": 49.9368253907,
-  "FullNameUA": "вулиця Врубеля, 74"
+  "FullNameUA": "вулиця Врубеля, 74",
+  "ChildsIds": []
  },
  {
   "id": 152369,
@@ -1872,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.1576961208,
   "lati": 49.9407135051,
-  "FullNameUA": "вулиця Врубеля, 75"
+  "FullNameUA": "вулиця Врубеля, 75",
+  "ChildsIds": []
  },
  {
   "id": 152370,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.1568681599,
   "lati": 49.9366771874,
-  "FullNameUA": "вулиця Врубеля, 76"
+  "FullNameUA": "вулиця Врубеля, 76",
+  "ChildsIds": []
  },
  {
   "id": 152371,
@@ -1922,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.1567884375,
   "lati": 49.9364142092,
-  "FullNameUA": "вулиця Врубеля, 76-А"
+  "FullNameUA": "вулиця Врубеля, 76-А",
+  "ChildsIds": []
  },
  {
   "id": 152372,
@@ -1946,8 +2023,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1574837164,
-  "lati": 49.940531343299995,
-  "FullNameUA": "вулиця Врубеля, 77"
+  "lati": 49.9405313433,
+  "FullNameUA": "вулиця Врубеля, 77",
+  "ChildsIds": []
  },
  {
   "id": 152373,
@@ -1970,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157434489399996,
-  "lati": 49.940354909499995,
-  "FullNameUA": "вулиця Врубеля, 79"
+  "longt": 36.1574344894,
+  "lati": 49.9403549095,
+  "FullNameUA": "вулиця Врубеля, 79",
+  "ChildsIds": []
  },
  {
   "id": 152374,
@@ -1996,8 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1574022759,
-  "lati": 49.940196530799994,
-  "FullNameUA": "вулиця Врубеля, 81"
+  "lati": 49.9401965308,
+  "FullNameUA": "вулиця Врубеля, 81",
+  "ChildsIds": []
  },
  {
   "id": 152375,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.1573274082,
   "lati": 49.9395932503,
-  "FullNameUA": "вулиця Врубеля, 83"
+  "FullNameUA": "вулиця Врубеля, 83",
+  "ChildsIds": []
  },
  {
   "id": 152376,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.1572648613,
   "lati": 49.9389927705,
-  "FullNameUA": "вулиця Врубеля, 87"
+  "FullNameUA": "вулиця Врубеля, 87",
+  "ChildsIds": []
  },
  {
   "id": 152377,
@@ -2072,7 +2154,34 @@
   "reg_date": "",
   "longt": 36.1572183916,
   "lati": 49.9387568649,
-  "FullNameUA": "вулиця Врубеля, 89"
+  "FullNameUA": "вулиця Врубеля, 89",
+  "ChildsIds": []
+ },
+ {
+  "id": 152378,
+  "postcode": 61020,
+  "number": 91,
+  "suffix": "",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1572631765,
+  "lati": 49.9384751643,
+  "FullNameUA": "вулиця Врубеля, 91",
+  "ChildsIds": []
  },
  {
   "id": 152379,
@@ -2097,32 +2206,8 @@
   "reg_date": "",
   "longt": 36.157215799,
   "lati": 49.9382647525,
-  "FullNameUA": "вулиця Врубеля, 91-А"
- },
- {
-  "id": 152378,
-  "postcode": 61020,
-  "number": 91,
-  "suffix": "",
-  "block": "",
-  "streetid": 3169,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.157263176499995,
-  "lati": 49.9384751643,
-  "FullNameUA": "вулиця Врубеля, 91"
+  "FullNameUA": "вулиця Врубеля, 91-А",
+  "ChildsIds": []
  },
  {
   "id": 152380,
@@ -2145,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157127220599996,
+  "longt": 36.1571272206,
   "lati": 49.9379998836,
-  "FullNameUA": "вулиця Врубеля, 93"
+  "FullNameUA": "вулиця Врубеля, 93",
+  "ChildsIds": []
  },
  {
   "id": 152381,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.1574376031,
   "lati": 49.9368674454,
-  "FullNameUA": "вулиця Врубеля, 95"
+  "FullNameUA": "вулиця Врубеля, 95",
+  "ChildsIds": []
  },
  {
   "id": 152382,
@@ -2197,7 +2284,34 @@
   "reg_date": "",
   "longt": 36.157473788,
   "lati": 49.9366618752,
-  "FullNameUA": "вулиця Врубеля, 97"
+  "FullNameUA": "вулиця Врубеля, 97",
+  "ChildsIds": []
+ },
+ {
+  "id": 182745,
+  "postcode": 61020,
+  "number": 97,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3169,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\" загальною площею 77,6 кв. м, житловою площею 57,2 кв. м",
+  "confrm": "",
+  "reg_date": "28.04.2020 11:12:55",
+  "longt": 36.1577722692,
+  "lati": 49.9366510208,
+  "FullNameUA": "вулиця Врубеля, 97-А",
+  "ChildsIds": []
  },
  {
   "id": 152383,
@@ -2220,8 +2334,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.157591632199996,
+  "longt": 36.1575916322,
   "lati": 49.9365266144,
-  "FullNameUA": "вулиця Врубеля, 99"
+  "FullNameUA": "вулиця Врубеля, 99",
+  "ChildsIds": []
  }
 ]

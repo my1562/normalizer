@@ -1,5 +1,31 @@
 [
  {
+  "id": 179641,
+  "postcode": 61166,
+  "number": 49,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 541, 08.08.2018",
+  "reg_date": "16.08.2018 10:28:14",
+  "longt": 36.2261059664,
+  "lati": 50.0245484476,
+  "FullNameUA": "вулиця Мінська, 49-А",
+  "ChildsIds": []
+ },
+ {
   "id": 179640,
   "postcode": 61166,
   "number": 49,
@@ -22,32 +48,8 @@
   "reg_date": "16.08.2018 10:25:53",
   "longt": 36.2259534475,
   "lati": 50.0243383579,
-  "FullNameUA": "вулиця Мінська, 49"
- },
- {
-  "id": 179641,
-  "postcode": 61166,
-  "number": 49,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 541, 08.08.2018",
-  "reg_date": "16.08.2018 10:28:14",
-  "longt": 36.2261059664,
-  "lati": 50.024548447600004,
-  "FullNameUA": "вулиця Мінська, 49-А"
+  "FullNameUA": "вулиця Мінська, 49",
+  "ChildsIds": []
  },
  {
   "id": 117786,
@@ -71,8 +73,9 @@
   "confrm": "Рішення ВК ХМР № 19, 17.01.2018",
   "reg_date": "25.01.2018 16:11:22",
   "longt": 36.2276027352,
-  "lati": 50.024421768100005,
-  "FullNameUA": "вулиця Мінська, 51"
+  "lati": 50.0244217681,
+  "FullNameUA": "вулиця Мінська, 51",
+  "ChildsIds": []
  },
  {
   "id": 117787,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2277993112,
-  "lati": 50.024171862200006,
-  "FullNameUA": "вулиця Мінська, 52/6"
+  "lati": 50.0241718622,
+  "FullNameUA": "вулиця Мінська, 52/6",
+  "ChildsIds": []
  },
  {
   "id": 117788,
@@ -121,8 +125,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2279304199,
-  "lati": 50.024480718700005,
-  "FullNameUA": "вулиця Мінська, 53"
+  "lati": 50.0244807187,
+  "FullNameUA": "вулиця Мінська, 53",
+  "ChildsIds": []
  },
  {
   "id": 117789,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2281295588,
-  "lati": 50.024484018600006,
-  "FullNameUA": "вулиця Мінська, 53-А"
+  "lati": 50.0244840186,
+  "FullNameUA": "вулиця Мінська, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 117790,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.228425125099996,
+  "longt": 36.2284251251,
   "lati": 50.0244991057,
-  "FullNameUA": "вулиця Мінська, 55"
+  "FullNameUA": "вулиця Мінська, 55",
+  "ChildsIds": []
  },
  {
   "id": 117791,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2283813352,
   "lati": 50.0242225948,
-  "FullNameUA": "вулиця Мінська, 56-А"
+  "FullNameUA": "вулиця Мінська, 56-А",
+  "ChildsIds": []
  },
  {
   "id": 117792,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.228720091999996,
+  "longt": 36.228720092,
   "lati": 50.0245699914,
-  "FullNameUA": "вулиця Мінська, 57"
+  "FullNameUA": "вулиця Мінська, 57",
+  "ChildsIds": []
  },
  {
   "id": 117793,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2286232008,
   "lati": 50.024280959,
-  "FullNameUA": "вулиця Мінська, 58"
+  "FullNameUA": "вулиця Мінська, 58",
+  "ChildsIds": []
  },
  {
   "id": 117794,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2292084683,
   "lati": 50.0246502022,
-  "FullNameUA": "вулиця Мінська, 59"
+  "FullNameUA": "вулиця Мінська, 59",
+  "ChildsIds": []
  },
  {
   "id": 117795,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.228864377899995,
+  "longt": 36.2288643779,
   "lati": 50.0242611688,
-  "FullNameUA": "вулиця Мінська, 60"
+  "FullNameUA": "вулиця Мінська, 60",
+  "ChildsIds": []
  },
  {
   "id": 117796,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2296856758,
   "lati": 50.0246704309,
-  "FullNameUA": "вулиця Мінська, 61"
+  "FullNameUA": "вулиця Мінська, 61",
+  "ChildsIds": []
  },
  {
   "id": 117797,
@@ -345,34 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.229114557799996,
-  "lati": 50.024165108800005,
-  "FullNameUA": "вулиця Мінська, 62"
- },
- {
-  "id": 117798,
-  "postcode": 61166,
-  "number": 63,
-  "suffix": "",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.230000648,
-  "lati": 50.024730095100004,
-  "FullNameUA": "вулиця Мінська, 63"
+  "longt": 36.2291145578,
+  "lati": 50.0241651088,
+  "FullNameUA": "вулиця Мінська, 62",
+  "ChildsIds": []
  },
  {
   "id": 117799,
@@ -396,8 +385,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.23026217,
-  "lati": 50.024775190300005,
-  "FullNameUA": "вулиця Мінська, 63-А"
+  "lati": 50.0247751903,
+  "FullNameUA": "вулиця Мінська, 63-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117798,
+  "postcode": 61166,
+  "number": 63,
+  "suffix": "",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.230000648,
+  "lati": 50.0247300951,
+  "FullNameUA": "вулиця Мінська, 63",
+  "ChildsIds": []
  },
  {
   "id": 117800,
@@ -420,9 +436,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23060423770001,
+  "longt": 36.2306042377,
   "lati": 50.0248026489,
-  "FullNameUA": "вулиця Мінська, 65"
+  "FullNameUA": "вулиця Мінська, 65",
+  "ChildsIds": []
+ },
+ {
+  "id": 117802,
+  "postcode": 61166,
+  "number": 67,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2310148605,
+  "lati": 50.0249662221,
+  "FullNameUA": "вулиця Мінська, 67-А",
+  "ChildsIds": []
  },
  {
   "id": 117801,
@@ -446,33 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2308373795,
-  "lati": 50.024898366900004,
-  "FullNameUA": "вулиця Мінська, 67"
- },
- {
-  "id": 117802,
-  "postcode": 61166,
-  "number": 67,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.231014860500004,
-  "lati": 50.024966222100005,
-  "FullNameUA": "вулиця Мінська, 67-А"
+  "lati": 50.0248983669,
+  "FullNameUA": "вулиця Мінська, 67",
+  "ChildsIds": []
  },
  {
   "id": 117803,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230123160400005,
-  "lati": 50.024421520900006,
-  "FullNameUA": "вулиця Мінська, 68"
+  "longt": 36.2301231604,
+  "lati": 50.0244215209,
+  "FullNameUA": "вулиця Мінська, 68",
+  "ChildsIds": []
  },
  {
   "id": 117805,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23120964020001,
+  "longt": 36.2312096402,
   "lati": 50.0248906905,
-  "FullNameUA": "вулиця Мінська, 69"
+  "FullNameUA": "вулиця Мінська, 69",
+  "ChildsIds": []
  },
  {
   "id": 117806,
@@ -545,34 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231387251600005,
+  "longt": 36.2313872516,
   "lati": 50.0248919547,
-  "FullNameUA": "вулиця Мінська, 69-А"
- },
- {
-  "id": 117804,
-  "postcode": 61166,
-  "number": 70,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"Р-2\"",
-  "confrm": "",
-  "reg_date": "07.02.2019 11:15:15",
-  "longt": 36.230438212200006,
-  "lati": 50.024491189600006,
-  "FullNameUA": "вулиця Мінська, 70-А"
+  "FullNameUA": "вулиця Мінська, 69-А",
+  "ChildsIds": []
  },
  {
   "id": 117807,
@@ -595,9 +592,36 @@
   "same_adr_comm": "житловий будинок літ. \"М-2\"",
   "confrm": "",
   "reg_date": "07.02.2019 11:14:31",
-  "longt": 36.23030824760001,
+  "longt": 36.2303082476,
   "lati": 50.0243368332,
-  "FullNameUA": "вулиця Мінська, 70"
+  "FullNameUA": "вулиця Мінська, 70",
+  "ChildsIds": []
+ },
+ {
+  "id": 117804,
+  "postcode": 61166,
+  "number": 70,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Р-2\"",
+  "confrm": "",
+  "reg_date": "07.02.2019 11:15:15",
+  "longt": 36.2304382122,
+  "lati": 50.0244911896,
+  "FullNameUA": "вулиця Мінська, 70-А",
+  "ChildsIds": []
  },
  {
   "id": 117808,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2315629316,
   "lati": 50.0249303244,
-  "FullNameUA": "вулиця Мінська, 71"
+  "FullNameUA": "вулиця Мінська, 71",
+  "ChildsIds": []
  },
  {
   "id": 117809,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230710107300006,
-  "lati": 50.024484210900006,
-  "FullNameUA": "вулиця Мінська, 72"
+  "longt": 36.2307101073,
+  "lati": 50.0244842109,
+  "FullNameUA": "вулиця Мінська, 72",
+  "ChildsIds": []
  },
  {
   "id": 117810,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2319982769,
   "lati": 50.024999704,
-  "FullNameUA": "вулиця Мінська, 73"
+  "FullNameUA": "вулиця Мінська, 73",
+  "ChildsIds": []
  },
  {
   "id": 117811,
@@ -695,15 +722,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232426579800006,
+  "longt": 36.2324265798,
   "lati": 50.0250326098,
-  "FullNameUA": "вулиця Мінська, 75"
+  "FullNameUA": "вулиця Мінська, 75",
+  "ChildsIds": []
  },
  {
-  "id": 117813,
+  "id": 117814,
   "postcode": 61166,
   "number": 77,
-  "suffix": "А",
+  "suffix": "Б",
   "block": "",
   "streetid": 3279,
   "status_id": 1,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233105110400004,
-  "lati": 50.0251053259,
-  "FullNameUA": "вулиця Мінська, 77-А"
+  "longt": 36.2334696414,
+  "lati": 50.0251483385,
+  "FullNameUA": "вулиця Мінська, 77-Б",
+  "ChildsIds": []
  },
  {
   "id": 117812,
@@ -747,13 +776,14 @@
   "reg_date": "",
   "longt": 36.2340179086,
   "lati": 50.0252239179,
-  "FullNameUA": "вулиця Мінська, 77"
+  "FullNameUA": "вулиця Мінська, 77",
+  "ChildsIds": []
  },
  {
-  "id": 117814,
+  "id": 117813,
   "postcode": 61166,
   "number": 77,
-  "suffix": "Б",
+  "suffix": "А",
   "block": "",
   "streetid": 3279,
   "status_id": 1,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233469641400006,
-  "lati": 50.0251483385,
-  "FullNameUA": "вулиця Мінська, 77-Б"
+  "longt": 36.2331051104,
+  "lati": 50.0251053259,
+  "FullNameUA": "вулиця Мінська, 77-А",
+  "ChildsIds": []
  },
  {
   "id": 117815,
@@ -796,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2318978325,
-  "lati": 50.024654479300004,
-  "FullNameUA": "вулиця Мінська, 78"
+  "lati": 50.0246544793,
+  "FullNameUA": "вулиця Мінська, 78",
+  "ChildsIds": []
  },
  {
   "id": 117816,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23422714270001,
+  "longt": 36.2342271427,
   "lati": 50.0253513615,
-  "FullNameUA": "вулиця Мінська, 79"
+  "FullNameUA": "вулиця Мінська, 79",
+  "ChildsIds": []
  },
  {
   "id": 179072,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2348600902,
   "lati": 50.025443903,
-  "FullNameUA": "вулиця Мінська, 81"
+  "FullNameUA": "вулиця Мінська, 81",
+  "ChildsIds": []
  },
  {
   "id": 117817,
@@ -872,57 +906,8 @@
   "reg_date": "",
   "longt": 36.2337087483,
   "lati": 50.0247865186,
-  "FullNameUA": "вулиця Мінська, 84"
- },
- {
-  "id": 117819,
-  "postcode": 61166,
-  "number": 85,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23644415810001,
-  "lati": 50.0255037275,
-  "FullNameUA": "вулиця Мінська, 85-А"
- },
- {
-  "id": 117818,
-  "postcode": 61166,
-  "number": 85,
-  "suffix": "",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.236065459900004,
-  "lati": 50.025552377400004,
-  "FullNameUA": "вулиця Мінська, 85"
+  "FullNameUA": "вулиця Мінська, 84",
+  "ChildsIds": []
  },
  {
   "id": 117820,
@@ -945,9 +930,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235107522300005,
+  "longt": 36.2351075223,
   "lati": 50.0252968872,
-  "FullNameUA": "вулиця Мінська, 85/1"
+  "FullNameUA": "вулиця Мінська, 85/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 117818,
+  "postcode": 61166,
+  "number": 85,
+  "suffix": "",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2360654599,
+  "lati": 50.0255523774,
+  "FullNameUA": "вулиця Мінська, 85",
+  "ChildsIds": []
+ },
+ {
+  "id": 117819,
+  "postcode": 61166,
+  "number": 85,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2364441581,
+  "lati": 50.0255037275,
+  "FullNameUA": "вулиця Мінська, 85-А",
+  "ChildsIds": []
  },
  {
   "id": 117821,
@@ -970,9 +1008,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234062477500004,
-  "lati": 50.024812052600005,
-  "FullNameUA": "вулиця Мінська, 86"
+  "longt": 36.2340624775,
+  "lati": 50.0248120526,
+  "FullNameUA": "вулиця Мінська, 86",
+  "ChildsIds": []
+ },
+ {
+  "id": 117823,
+  "postcode": 61166,
+  "number": 87,
+  "suffix": "/89",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.2368921754,
+  "lati": 50.0258571065,
+  "FullNameUA": "вулиця Мінська, 87/89",
+  "ChildsIds": []
  },
  {
   "id": 117822,
@@ -997,32 +1062,8 @@
   "reg_date": "",
   "longt": 36.2367915851,
   "lati": 50.0255370547,
-  "FullNameUA": "вулиця Мінська, 87"
- },
- {
-  "id": 117823,
-  "postcode": 61166,
-  "number": 87,
-  "suffix": "/89",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.2368921754,
-  "lati": 50.025857106500006,
-  "FullNameUA": "вулиця Мінська, 87/89"
+  "FullNameUA": "вулиця Мінська, 87",
+  "ChildsIds": []
  },
  {
   "id": 117824,
@@ -1046,8 +1087,9 @@
   "confrm": "Рішення ВК Дзержинської райради № 124/1, 03.07.2001",
   "reg_date": "13.03.2019 09:34:09",
   "longt": 36.2341857843,
-  "lati": 50.024968341800005,
-  "FullNameUA": "вулиця Мінська, 88"
+  "lati": 50.0249683418,
+  "FullNameUA": "вулиця Мінська, 88",
+  "ChildsIds": []
  },
  {
   "id": 117825,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.237022717,
-  "lati": 50.025548426700006,
-  "FullNameUA": "вулиця Мінська, 89"
+  "lati": 50.0255484267,
+  "FullNameUA": "вулиця Мінська, 89",
+  "ChildsIds": []
  },
  {
   "id": 117827,
@@ -1095,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.237554309800004,
-  "lati": 50.025649061500005,
-  "FullNameUA": "вулиця Мінська, 91/93"
+  "longt": 36.2375543098,
+  "lati": 50.0256490615,
+  "FullNameUA": "вулиця Мінська, 91/93",
+  "ChildsIds": []
  },
  {
   "id": 117826,
@@ -1120,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235174578400006,
-  "lati": 50.025071530800005,
-  "FullNameUA": "вулиця Мінська, 92"
+  "longt": 36.2351745784,
+  "lati": 50.0250715308,
+  "FullNameUA": "вулиця Мінська, 92",
+  "ChildsIds": []
  },
  {
   "id": 117828,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238050037600004,
-  "lati": 50.025676600400004,
-  "FullNameUA": "вулиця Мінська, 95"
+  "longt": 36.2380500376,
+  "lati": 50.0256766004,
+  "FullNameUA": "вулиця Мінська, 95",
+  "ChildsIds": []
  },
  {
   "id": 117829,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2383163629,
   "lati": 50.0257026513,
-  "FullNameUA": "вулиця Мінська, 97"
+  "FullNameUA": "вулиця Мінська, 97",
+  "ChildsIds": []
  },
  {
   "id": 117830,
@@ -1197,7 +1244,34 @@
   "reg_date": "",
   "longt": 36.2365245378,
   "lati": 50.0252014518,
-  "FullNameUA": "вулиця Мінська, 98-А"
+  "FullNameUA": "вулиця Мінська, 98-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 117832,
+  "postcode": 61166,
+  "number": 99,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2385203638,
+  "lati": 50.0258740449,
+  "FullNameUA": "вулиця Мінська, 99-А",
+  "ChildsIds": []
  },
  {
   "id": 117831,
@@ -1221,58 +1295,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2385772919,
-  "lati": 50.025750397500005,
-  "FullNameUA": "вулиця Мінська, 99"
- },
- {
-  "id": 117832,
-  "postcode": 61166,
-  "number": 99,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.238520363800006,
-  "lati": 50.0258740449,
-  "FullNameUA": "вулиця Мінська, 99-А"
- },
- {
-  "id": 117834,
-  "postcode": 61166,
-  "number": 100,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3279,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2371578674,
-  "lati": 50.025269436,
-  "FullNameUA": "вулиця Мінська, 100-А"
+  "lati": 50.0257503975,
+  "FullNameUA": "вулиця Мінська, 99",
+  "ChildsIds": []
  },
  {
   "id": 117833,
@@ -1297,7 +1322,34 @@
   "reg_date": "",
   "longt": 36.23676368,
   "lati": 50.0252309221,
-  "FullNameUA": "вулиця Мінська, 100"
+  "FullNameUA": "вулиця Мінська, 100",
+  "ChildsIds": []
+ },
+ {
+  "id": 117834,
+  "postcode": 61166,
+  "number": 100,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3279,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2371578674,
+  "lati": 50.025269436,
+  "FullNameUA": "вулиця Мінська, 100-А",
+  "ChildsIds": []
  },
  {
   "id": 177932,
@@ -1321,8 +1373,9 @@
   "confrm": "",
   "reg_date": "11.09.2018 14:00:39",
   "longt": 36.2388608623,
-  "lati": 50.02591860650001,
-  "FullNameUA": "вулиця Мінська, 101"
+  "lati": 50.0259186065,
+  "FullNameUA": "вулиця Мінська, 101",
+  "ChildsIds": []
  },
  {
   "id": 117835,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.23910375,
   "lati": 50.0257906175,
-  "FullNameUA": "вулиця Мінська, 103"
+  "FullNameUA": "вулиця Мінська, 103",
+  "ChildsIds": []
  },
  {
   "id": 117836,
@@ -1370,9 +1424,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237988288000004,
-  "lati": 50.025358988300006,
-  "FullNameUA": "вулиця Мінська, 104"
+  "longt": 36.237988288,
+  "lati": 50.0253589883,
+  "FullNameUA": "вулиця Мінська, 104",
+  "ChildsIds": []
  },
  {
   "id": 117837,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2394431899,
   "lati": 50.0258371947,
-  "FullNameUA": "вулиця Мінська, 105"
+  "FullNameUA": "вулиця Мінська, 105",
+  "ChildsIds": []
  },
  {
   "id": 117838,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2383056768,
   "lati": 50.0253876827,
-  "FullNameUA": "вулиця Мінська, 106"
+  "FullNameUA": "вулиця Мінська, 106",
+  "ChildsIds": []
  },
  {
   "id": 117839,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.23833144,
   "lati": 50.025370979,
-  "FullNameUA": "вулиця Мінська, 106-А"
+  "FullNameUA": "вулиця Мінська, 106-А",
+  "ChildsIds": []
  },
  {
   "id": 117840,
@@ -1471,8 +1529,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2400072813,
-  "lati": 50.025873123800004,
-  "FullNameUA": "вулиця Мінська, 107"
+  "lati": 50.0258731238,
+  "FullNameUA": "вулиця Мінська, 107",
+  "ChildsIds": []
  },
  {
   "id": 117841,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.238571687400004,
+  "longt": 36.2385716874,
   "lati": 50.0254216271,
-  "FullNameUA": "вулиця Мінська, 108"
+  "FullNameUA": "вулиця Мінська, 108",
+  "ChildsIds": []
  },
  {
   "id": 117842,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2403412163,
   "lati": 50.0258718314,
-  "FullNameUA": "вулиця Мінська, 109"
+  "FullNameUA": "вулиця Мінська, 109",
+  "ChildsIds": []
  },
  {
   "id": 117843,
@@ -1546,8 +1607,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2391140984,
-  "lati": 50.02550090370001,
-  "FullNameUA": "вулиця Мінська, 110"
+  "lati": 50.0255009037,
+  "FullNameUA": "вулиця Мінська, 110",
+  "ChildsIds": []
  },
  {
   "id": 117844,
@@ -1572,6 +1634,7 @@
   "reg_date": "",
   "longt": 36.2393076246,
   "lati": 50.025573575,
-  "FullNameUA": "вулиця Мінська, 110-А"
+  "FullNameUA": "вулиця Мінська, 110-А",
+  "ChildsIds": []
  }
 ]

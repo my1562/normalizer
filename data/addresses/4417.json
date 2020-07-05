@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.20296983,
   "lati": 49.9740359283,
-  "FullNameUA": "провулок Шмідта Отто, 3"
+  "FullNameUA": "провулок Шмідта Отто, 3",
+  "ChildsIds": []
  },
  {
   "id": 157466,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2031931546,
-  "lati": 49.973918295699995,
-  "FullNameUA": "провулок Шмідта Отто, 3-А"
+  "lati": 49.9739182957,
+  "FullNameUA": "провулок Шмідта Отто, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 157467,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2024948453,
   "lati": 49.9741075979,
-  "FullNameUA": "провулок Шмідта Отто, 4"
+  "FullNameUA": "провулок Шмідта Отто, 4",
+  "ChildsIds": []
  },
  {
   "id": 157468,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2029913451,
   "lati": 49.9738091022,
-  "FullNameUA": "провулок Шмідта Отто, 5"
+  "FullNameUA": "провулок Шмідта Отто, 5",
+  "ChildsIds": []
  },
  {
   "id": 157469,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2024993701,
   "lati": 49.9738983473,
-  "FullNameUA": "провулок Шмідта Отто, 6"
+  "FullNameUA": "провулок Шмідта Отто, 6",
+  "ChildsIds": []
  },
  {
   "id": 157470,
@@ -145,8 +150,35 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202966193200005,
+  "longt": 36.2029661932,
   "lati": 49.9736452367,
-  "FullNameUA": "провулок Шмідта Отто, 7"
+  "FullNameUA": "провулок Шмідта Отто, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 182480,
+  "postcode": 61039,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 4417,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "10.03.2020 10:58:28",
+  "longt": 36.2025129041,
+  "lati": 49.9734284317,
+  "FullNameUA": "провулок Шмідта Отто, 8",
+  "ChildsIds": []
  }
 ]

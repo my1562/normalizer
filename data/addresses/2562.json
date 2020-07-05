@@ -1,30 +1,5 @@
 [
  {
-  "id": 168311,
-  "postcode": 61036,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2887225967,
-  "lati": 49.9660400449,
-  "FullNameUA": "вулиця Дизельна, 1-Б"
- },
- {
   "id": 168310,
   "postcode": 61036,
   "number": 1,
@@ -47,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2889241723,
   "lati": 49.9651801121,
-  "FullNameUA": "вулиця Дизельна, 1-А"
+  "FullNameUA": "вулиця Дизельна, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 168309,
@@ -72,12 +48,13 @@
   "reg_date": "",
   "longt": 36.2881076871,
   "lati": 49.9644804015,
-  "FullNameUA": "вулиця Дизельна, 1"
+  "FullNameUA": "вулиця Дизельна, 1",
+  "ChildsIds": []
  },
  {
-  "id": 168314,
+  "id": 168311,
   "postcode": 61036,
-  "number": 2,
+  "number": 1,
   "suffix": "Б",
   "block": "",
   "streetid": 2562,
@@ -95,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2879983058,
-  "lati": 49.9638044306,
-  "FullNameUA": "вулиця Дизельна, 2-Б"
+  "longt": 36.2887225967,
+  "lati": 49.9660400449,
+  "FullNameUA": "вулиця Дизельна, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 168312,
@@ -122,7 +100,34 @@
   "reg_date": "",
   "longt": 36.2876994411,
   "lati": 49.9640700359,
-  "FullNameUA": "вулиця Дизельна, 2"
+  "FullNameUA": "вулиця Дизельна, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 168314,
+  "postcode": 61036,
+  "number": 2,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2879983058,
+  "lati": 49.9638044306,
+  "FullNameUA": "вулиця Дизельна, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 168313,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.2882786655,
   "lati": 49.9640748756,
-  "FullNameUA": "вулиця Дизельна, 2-А"
- },
- {
-  "id": 168315,
-  "postcode": 61036,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2912633105,
-  "lati": 49.9640217035,
-  "FullNameUA": "вулиця Дизельна, 3"
+  "FullNameUA": "вулиця Дизельна, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 168316,
@@ -197,7 +178,34 @@
   "reg_date": "",
   "longt": 36.28960189,
   "lati": 49.9644273952,
-  "FullNameUA": "вулиця Дизельна, 3/5"
+  "FullNameUA": "вулиця Дизельна, 3/5",
+  "ChildsIds": []
+ },
+ {
+  "id": 168315,
+  "postcode": 61036,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2912633105,
+  "lati": 49.9640217035,
+  "FullNameUA": "вулиця Дизельна, 3",
+  "ChildsIds": []
  },
  {
   "id": 168317,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2888720787,
   "lati": 49.9639215623,
-  "FullNameUA": "вулиця Дизельна, 4"
+  "FullNameUA": "вулиця Дизельна, 4",
+  "ChildsIds": []
  },
  {
   "id": 101705,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2971548198,
   "lati": 49.9628623655,
-  "FullNameUA": "вулиця Дизельна, 5"
+  "FullNameUA": "вулиця Дизельна, 5",
+  "ChildsIds": []
  },
  {
   "id": 168318,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289449721800004,
+  "longt": 36.2894497218,
   "lati": 49.9638354732,
-  "FullNameUA": "вулиця Дизельна, 6"
+  "FullNameUA": "вулиця Дизельна, 6",
+  "ChildsIds": []
  },
  {
   "id": 101706,
@@ -297,32 +308,8 @@
   "reg_date": "",
   "longt": 36.2978983007,
   "lati": 49.9627554968,
-  "FullNameUA": "вулиця Дизельна, 7"
- },
- {
-  "id": 168320,
-  "postcode": 61036,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2898136011,
-  "lati": 49.9638405004,
-  "FullNameUA": "вулиця Дизельна, 8-А"
+  "FullNameUA": "вулиця Дизельна, 7",
+  "ChildsIds": []
  },
  {
   "id": 168319,
@@ -347,7 +334,34 @@
   "reg_date": "",
   "longt": 36.2903745805,
   "lati": 49.963348417,
-  "FullNameUA": "вулиця Дизельна, 8"
+  "FullNameUA": "вулиця Дизельна, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 168320,
+  "postcode": 61036,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2898136011,
+  "lati": 49.9638405004,
+  "FullNameUA": "вулиця Дизельна, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 101707,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2982146066,
   "lati": 49.9632991383,
-  "FullNameUA": "вулиця Дизельна, 9"
+  "FullNameUA": "вулиця Дизельна, 9",
+  "ChildsIds": []
  },
  {
   "id": 101708,
@@ -395,34 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298684153399996,
+  "longt": 36.2986841534,
   "lati": 49.962638998,
-  "FullNameUA": "вулиця Дизельна, 11"
- },
- {
-  "id": 101709,
-  "postcode": 61036,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2993799489,
-  "lati": 49.9625420326,
-  "FullNameUA": "вулиця Дизельна, 13"
+  "FullNameUA": "вулиця Дизельна, 11",
+  "ChildsIds": []
  },
  {
   "id": 101710,
@@ -447,7 +438,34 @@
   "reg_date": "",
   "longt": 36.2995256715,
   "lati": 49.9627679727,
-  "FullNameUA": "вулиця Дизельна, 13-А"
+  "FullNameUA": "вулиця Дизельна, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 101709,
+  "postcode": 61036,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2993799489,
+  "lati": 49.9625420326,
+  "FullNameUA": "вулиця Дизельна, 13",
+  "ChildsIds": []
  },
  {
   "id": 168321,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2930012362,
   "lati": 49.9631048191,
-  "FullNameUA": "вулиця Дизельна, 14"
+  "FullNameUA": "вулиця Дизельна, 14",
+  "ChildsIds": []
  },
  {
   "id": 168322,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2940366524,
   "lati": 49.9629313007,
-  "FullNameUA": "вулиця Дизельна, 16"
+  "FullNameUA": "вулиця Дизельна, 16",
+  "ChildsIds": []
  },
  {
   "id": 168323,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2946188091,
   "lati": 49.9626935337,
-  "FullNameUA": "вулиця Дизельна, 18"
+  "FullNameUA": "вулиця Дизельна, 18",
+  "ChildsIds": []
  },
  {
   "id": 101711,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2970939084,
   "lati": 49.9625629165,
-  "FullNameUA": "вулиця Дизельна, 22"
+  "FullNameUA": "вулиця Дизельна, 22",
+  "ChildsIds": []
  },
  {
   "id": 101712,
@@ -572,32 +594,8 @@
   "reg_date": "",
   "longt": 36.2978283209,
   "lati": 49.9624503405,
-  "FullNameUA": "вулиця Дизельна, 24"
- },
- {
-  "id": 101714,
-  "postcode": 61036,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2980970847,
-  "lati": 49.9620585416,
-  "FullNameUA": "вулиця Дизельна, 26-А"
+  "FullNameUA": "вулиця Дизельна, 24",
+  "ChildsIds": []
  },
  {
   "id": 101713,
@@ -622,7 +620,34 @@
   "reg_date": "",
   "longt": 36.2985711821,
   "lati": 49.9623383241,
-  "FullNameUA": "вулиця Дизельна, 26"
+  "FullNameUA": "вулиця Дизельна, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 101714,
+  "postcode": 61036,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2980970847,
+  "lati": 49.9620585416,
+  "FullNameUA": "вулиця Дизельна, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 101715,
@@ -647,32 +672,8 @@
   "reg_date": "",
   "longt": 36.2990978533,
   "lati": 49.9620998158,
-  "FullNameUA": "вулиця Дизельна, 28"
- },
- {
-  "id": 101716,
-  "postcode": 61036,
-  "number": 30,
-  "suffix": "",
-  "block": "",
-  "streetid": 2562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2994586493,
-  "lati": 49.9620061621,
-  "FullNameUA": "вулиця Дизельна, 30"
+  "FullNameUA": "вулиця Дизельна, 28",
+  "ChildsIds": []
  },
  {
   "id": 101717,
@@ -697,7 +698,34 @@
   "reg_date": "",
   "longt": 36.2981709919,
   "lati": 49.9616645849,
-  "FullNameUA": "вулиця Дизельна, 30-В"
+  "FullNameUA": "вулиця Дизельна, 30-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 101716,
+  "postcode": 61036,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 2562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2994586493,
+  "lati": 49.9620061621,
+  "FullNameUA": "вулиця Дизельна, 30",
+  "ChildsIds": []
  },
  {
   "id": 101718,
@@ -722,6 +750,7 @@
   "reg_date": "",
   "longt": 36.2985106463,
   "lati": 49.9616032164,
-  "FullNameUA": "вулиця Дизельна, 32"
+  "FullNameUA": "вулиця Дизельна, 32",
+  "ChildsIds": []
  }
 ]

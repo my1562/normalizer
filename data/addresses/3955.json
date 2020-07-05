@@ -1,5 +1,31 @@
 [
  {
+  "id": 179586,
+  "postcode": 61100,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.3141255853,
+  "lati": 49.9495816935,
+  "FullNameUA": "бульвар Жасминовий, 1-А",
+  "ChildsIds": []
+ },
+ {
   "id": 170464,
   "postcode": 61100,
   "number": 1,
@@ -22,13 +48,14 @@
   "reg_date": "",
   "longt": 36.3148806951,
   "lati": 49.9496829339,
-  "FullNameUA": "бульвар Жасминовий, 1"
+  "FullNameUA": "бульвар Жасминовий, 1",
+  "ChildsIds": []
  },
  {
-  "id": 179586,
-  "postcode": 61100,
-  "number": 1,
-  "suffix": "А",
+  "id": 170467,
+  "postcode": 61096,
+  "number": 2,
+  "suffix": "Б",
   "block": "",
   "streetid": 3955,
   "status_id": 1,
@@ -43,11 +70,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "карта М1:500",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.314125585300005,
-  "lati": 49.9495816935,
-  "FullNameUA": "бульвар Жасминовий, 1-А"
+  "longt": 36.3144202675,
+  "lati": 49.9482285258,
+  "FullNameUA": "бульвар Жасминовий, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 170466,
@@ -72,32 +100,8 @@
   "reg_date": "",
   "longt": 36.3146752874,
   "lati": 49.9483911922,
-  "FullNameUA": "бульвар Жасминовий, 2-А"
- },
- {
-  "id": 170467,
-  "postcode": 61096,
-  "number": 2,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.314420267500005,
-  "lati": 49.9482285258,
-  "FullNameUA": "бульвар Жасминовий, 2-Б"
+  "FullNameUA": "бульвар Жасминовий, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 170465,
@@ -121,58 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3148929312,
-  "lati": 49.948592153199996,
-  "FullNameUA": "бульвар Жасминовий, 2"
- },
- {
-  "id": 170468,
-  "postcode": 61100,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.316441352800005,
-  "lati": 49.9499881211,
-  "FullNameUA": "бульвар Жасминовий, 3"
- },
- {
-  "id": 170471,
-  "postcode": 61100,
-  "number": 3,
-  "suffix": "",
-  "block": "1",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.316352587000004,
-  "lati": 49.9509178968,
-  "FullNameUA": "бульвар Жасминовий, 3, корпус № 1"
+  "lati": 49.9485921532,
+  "FullNameUA": "бульвар Жасминовий, 2",
+  "ChildsIds": []
  },
  {
   "id": 170470,
@@ -196,8 +151,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3172866967,
-  "lati": 49.950789413200006,
-  "FullNameUA": "бульвар Жасминовий, 3, корпус № 2"
+  "lati": 49.9507894132,
+  "FullNameUA": "бульвар Жасминовий, 3, корпус № 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 170471,
+  "postcode": 61100,
+  "number": 3,
+  "suffix": "",
+  "block": "1",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.316352587,
+  "lati": 49.9509178968,
+  "FullNameUA": "бульвар Жасминовий, 3, корпус № 1",
+  "ChildsIds": []
  },
  {
   "id": 170469,
@@ -222,7 +204,60 @@
   "reg_date": "",
   "longt": 36.316250619,
   "lati": 49.9504132749,
-  "FullNameUA": "бульвар Жасминовий, 3-А"
+  "FullNameUA": "бульвар Жасминовий, 3-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170468,
+  "postcode": 61100,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3164413528,
+  "lati": 49.9499881211,
+  "FullNameUA": "бульвар Жасминовий, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 170473,
+  "postcode": 61096,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3163566555,
+  "lati": 49.9474070802,
+  "FullNameUA": "бульвар Жасминовий, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 170472,
@@ -247,82 +282,8 @@
   "reg_date": "",
   "longt": 36.3154877323,
   "lati": 49.9482060007,
-  "FullNameUA": "бульвар Жасминовий, 4"
- },
- {
-  "id": 170473,
-  "postcode": 61096,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3163566555,
-  "lati": 49.947407080199994,
-  "FullNameUA": "бульвар Жасминовий, 4-А"
- },
- {
-  "id": 170476,
-  "postcode": 61100,
-  "number": 5,
-  "suffix": "",
-  "block": "2",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.318328104900004,
-  "lati": 49.9505885629,
-  "FullNameUA": "бульвар Жасминовий, 5, корпус № 2"
- },
- {
-  "id": 170477,
-  "postcode": 61100,
-  "number": 5,
-  "suffix": "",
-  "block": "3",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.319300075600005,
-  "lati": 49.950395594300005,
-  "FullNameUA": "бульвар Жасминовий, 5, корпус № 3"
+  "FullNameUA": "бульвар Жасминовий, 4",
+  "ChildsIds": []
  },
  {
   "id": 170475,
@@ -345,9 +306,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317807374000004,
-  "lati": 49.949937837499995,
-  "FullNameUA": "бульвар Жасминовий, 5, корпус № 1"
+  "longt": 36.317807374,
+  "lati": 49.9499378375,
+  "FullNameUA": "бульвар Жасминовий, 5, корпус № 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 170476,
+  "postcode": 61100,
+  "number": 5,
+  "suffix": "",
+  "block": "2",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3183281049,
+  "lati": 49.9505885629,
+  "FullNameUA": "бульвар Жасминовий, 5, корпус № 2",
+  "ChildsIds": []
  },
  {
   "id": 170474,
@@ -370,9 +358,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318830751200004,
-  "lati": 49.949850091799995,
-  "FullNameUA": "бульвар Жасминовий, 5"
+  "longt": 36.3188307512,
+  "lati": 49.9498500918,
+  "FullNameUA": "бульвар Жасминовий, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 170477,
+  "postcode": 61100,
+  "number": 5,
+  "suffix": "",
+  "block": "3",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3193000756,
+  "lati": 49.9503955943,
+  "FullNameUA": "бульвар Жасминовий, 5, корпус № 3",
+  "ChildsIds": []
  },
  {
   "id": 170480,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317908749800004,
-  "lati": 49.947672923199995,
-  "FullNameUA": "бульвар Жасминовий, 6-Б"
+  "longt": 36.3179087498,
+  "lati": 49.9476729232,
+  "FullNameUA": "бульвар Жасминовий, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 170478,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3170474792,
   "lati": 49.9488282787,
-  "FullNameUA": "бульвар Жасминовий, 6"
+  "FullNameUA": "бульвар Жасминовий, 6",
+  "ChildsIds": []
  },
  {
   "id": 170479,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "399, 01.07.2015",
   "reg_date": "15.01.2019 09:19:59",
-  "longt": 36.317123241400004,
-  "lati": 49.948227467799995,
-  "FullNameUA": "бульвар Жасминовий, 6-А, гараж № 46"
+  "longt": 36.3171232414,
+  "lati": 49.9482274678,
+  "FullNameUA": "бульвар Жасминовий, 6-А, гараж № 46",
+  "ChildsIds": []
  },
  {
   "id": 170481,
@@ -472,32 +490,8 @@
   "reg_date": "",
   "longt": 36.3203943723,
   "lati": 49.950151151,
-  "FullNameUA": "бульвар Жасминовий, 7"
- },
- {
-  "id": 170482,
-  "postcode": 61096,
-  "number": 8,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3189399483,
-  "lati": 49.9486206725,
-  "FullNameUA": "бульвар Жасминовий, 8"
+  "FullNameUA": "бульвар Жасминовий, 7",
+  "ChildsIds": []
  },
  {
   "id": 170483,
@@ -522,12 +516,13 @@
   "reg_date": "",
   "longt": 36.3187044338,
   "lati": 49.9484235029,
-  "FullNameUA": "бульвар Жасминовий, 8-А"
+  "FullNameUA": "бульвар Жасминовий, 8-А",
+  "ChildsIds": []
  },
  {
-  "id": 170484,
-  "postcode": 61100,
-  "number": 9,
+  "id": 170482,
+  "postcode": 61096,
+  "number": 8,
   "suffix": "",
   "block": "",
   "streetid": 3955,
@@ -545,34 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3227353201,
-  "lati": 49.9500371055,
-  "FullNameUA": "бульвар Жасминовий, 9"
- },
- {
-  "id": 170486,
-  "postcode": 61100,
-  "number": 9,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3221009366,
-  "lati": 49.950294306,
-  "FullNameUA": "бульвар Жасминовий, 9/2"
+  "longt": 36.3189399483,
+  "lati": 49.9486206725,
+  "FullNameUA": "бульвар Жасминовий, 8",
+  "ChildsIds": []
  },
  {
   "id": 170485,
@@ -597,7 +568,60 @@
   "reg_date": "",
   "longt": 36.3217459372,
   "lati": 49.950108612,
-  "FullNameUA": "бульвар Жасминовий, 9/1"
+  "FullNameUA": "бульвар Жасминовий, 9/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 170486,
+  "postcode": 61100,
+  "number": 9,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3221009366,
+  "lati": 49.950294306,
+  "FullNameUA": "бульвар Жасминовий, 9/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 170484,
+  "postcode": 61100,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3227353201,
+  "lati": 49.9500371055,
+  "FullNameUA": "бульвар Жасминовий, 9",
+  "ChildsIds": []
  },
  {
   "id": 170487,
@@ -622,32 +646,8 @@
   "reg_date": "",
   "longt": 36.3191760411,
   "lati": 49.9488176925,
-  "FullNameUA": "бульвар Жасминовий, 10"
- },
- {
-  "id": 170488,
-  "postcode": 61100,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3243064953,
-  "lati": 49.950335356100005,
-  "FullNameUA": "бульвар Жасминовий, 11"
+  "FullNameUA": "бульвар Жасминовий, 10",
+  "ChildsIds": []
  },
  {
   "id": 170489,
@@ -671,14 +671,15 @@
   "confrm": "адреса юр. особи",
   "reg_date": "",
   "longt": 36.3225961674,
-  "lati": 49.951040855100004,
-  "FullNameUA": "бульвар Жасминовий, 11/2"
+  "lati": 49.9510408551,
+  "FullNameUA": "бульвар Жасминовий, 11/2",
+  "ChildsIds": []
  },
  {
-  "id": 170492,
-  "postcode": 61096,
-  "number": 12,
-  "suffix": "/2",
+  "id": 170488,
+  "postcode": 61100,
+  "number": 11,
+  "suffix": "",
   "block": "",
   "streetid": 3955,
   "status_id": 1,
@@ -695,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.320799115,
-  "lati": 49.9477357881,
-  "FullNameUA": "бульвар Жасминовий, 12/2"
+  "longt": 36.3243064953,
+  "lati": 49.9503353561,
+  "FullNameUA": "бульвар Жасминовий, 11",
+  "ChildsIds": []
  },
  {
   "id": 170491,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.3191724304,
   "lati": 49.9474241717,
-  "FullNameUA": "бульвар Жасминовий, 12-А"
+  "FullNameUA": "бульвар Жасминовий, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170492,
+  "postcode": 61096,
+  "number": 12,
+  "suffix": "/2",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.320799115,
+  "lati": 49.9477357881,
+  "FullNameUA": "бульвар Жасминовий, 12/2",
+  "ChildsIds": []
  },
  {
   "id": 170490,
@@ -745,59 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319690573100004,
-  "lati": 49.948351490099995,
-  "FullNameUA": "бульвар Жасминовий, 12"
- },
- {
-  "id": 170494,
-  "postcode": 61100,
-  "number": 13,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3253572388,
-  "lati": 49.951007167300006,
-  "FullNameUA": "бульвар Жасминовий, 13/1"
- },
- {
-  "id": 170493,
-  "postcode": 61100,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3259256618,
-  "lati": 49.950698920600004,
-  "FullNameUA": "бульвар Жасминовий, 13"
+  "longt": 36.3196905731,
+  "lati": 49.9483514901,
+  "FullNameUA": "бульвар Жасминовий, 12",
+  "ChildsIds": []
  },
  {
   "id": 181798,
@@ -821,8 +801,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3247973094,
-  "lati": 49.950768930900004,
-  "FullNameUA": "бульвар Жасминовий, 13-А"
+  "lati": 49.9507689309,
+  "FullNameUA": "бульвар Жасминовий, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170493,
+  "postcode": 61100,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3259256618,
+  "lati": 49.9506989206,
+  "FullNameUA": "бульвар Жасминовий, 13",
+  "ChildsIds": []
  },
  {
   "id": 170495,
@@ -847,7 +854,34 @@
   "reg_date": "",
   "longt": 36.3239902687,
   "lati": 49.9509686445,
-  "FullNameUA": "бульвар Жасминовий, 13/2"
+  "FullNameUA": "бульвар Жасминовий, 13/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 170494,
+  "postcode": 61100,
+  "number": 13,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3253572388,
+  "lati": 49.9510071673,
+  "FullNameUA": "бульвар Жасминовий, 13/1",
+  "ChildsIds": []
  },
  {
   "id": 170497,
@@ -872,32 +906,8 @@
   "reg_date": "",
   "longt": 36.3221806687,
   "lati": 49.9478541259,
-  "FullNameUA": "бульвар Жасминовий, 14-А"
- },
- {
-  "id": 170496,
-  "postcode": 61096,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3213168581,
-  "lati": 49.9490175125,
-  "FullNameUA": "бульвар Жасминовий, 14"
+  "FullNameUA": "бульвар Жасминовий, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 170498,
@@ -922,13 +932,14 @@
   "reg_date": "",
   "longt": 36.3215823879,
   "lati": 49.9482254895,
-  "FullNameUA": "бульвар Жасминовий, 14-Б"
+  "FullNameUA": "бульвар Жасминовий, 14-Б",
+  "ChildsIds": []
  },
  {
-  "id": 170500,
-  "postcode": 61100,
-  "number": 15,
-  "suffix": "/1",
+  "id": 170496,
+  "postcode": 61096,
+  "number": 14,
+  "suffix": "",
   "block": "",
   "streetid": 3955,
   "status_id": 1,
@@ -945,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.325985334,
-  "lati": 49.950278282,
-  "FullNameUA": "бульвар Жасминовий, 15/1"
+  "longt": 36.3213168581,
+  "lati": 49.9490175125,
+  "FullNameUA": "бульвар Жасминовий, 14",
+  "ChildsIds": []
  },
  {
   "id": 170499,
@@ -972,7 +984,34 @@
   "reg_date": "",
   "longt": 36.325657271,
   "lati": 49.9501750139,
-  "FullNameUA": "бульвар Жасминовий, 15"
+  "FullNameUA": "бульвар Жасминовий, 15",
+  "ChildsIds": []
+ },
+ {
+  "id": 170500,
+  "postcode": 61100,
+  "number": 15,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.325985334,
+  "lati": 49.950278282,
+  "FullNameUA": "бульвар Жасминовий, 15/1",
+  "ChildsIds": []
  },
  {
   "id": 170501,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.3232032119,
   "lati": 49.9487796221,
-  "FullNameUA": "бульвар Жасминовий, 16"
+  "FullNameUA": "бульвар Жасминовий, 16",
+  "ChildsIds": []
  },
  {
   "id": 170502,
@@ -1021,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3229684369,
-  "lati": 49.948581180999994,
-  "FullNameUA": "бульвар Жасминовий, 16-А"
+  "lati": 49.948581181,
+  "FullNameUA": "бульвар Жасминовий, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 170503,
@@ -1047,32 +1088,8 @@
   "reg_date": "",
   "longt": 36.3234290053,
   "lati": 49.9489793702,
-  "FullNameUA": "бульвар Жасминовий, 18"
- },
- {
-  "id": 170504,
-  "postcode": 61096,
-  "number": 20,
-  "suffix": "",
-  "block": "",
-  "streetid": 3955,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3239432018,
-  "lati": 49.9485405226,
-  "FullNameUA": "бульвар Жасминовий, 20"
+  "FullNameUA": "бульвар Жасминовий, 18",
+  "ChildsIds": []
  },
  {
   "id": 170505,
@@ -1097,6 +1114,33 @@
   "reg_date": "",
   "longt": 36.3234167886,
   "lati": 49.9476020025,
-  "FullNameUA": "бульвар Жасминовий, 20-А"
+  "FullNameUA": "бульвар Жасминовий, 20-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 170504,
+  "postcode": 61096,
+  "number": 20,
+  "suffix": "",
+  "block": "",
+  "streetid": 3955,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3239432018,
+  "lati": 49.9485405226,
+  "FullNameUA": "бульвар Жасминовий, 20",
+  "ChildsIds": []
  }
 ]

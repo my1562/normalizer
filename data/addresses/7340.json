@@ -20,9 +20,64 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.324178626300004,
-  "lati": 50.0158074008,
-  "FullNameUA": "вулиця Партизанська, 1-А"
+  "longt": 36.3242287923,
+  "lati": 50.0157283243,
+  "FullNameUA": "вулиця Партизанська, 1-А",
+  "ChildsIds": [
+   182723
+  ]
+ },
+ {
+  "id": 180124,
+  "postcode": 61054,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 7340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3244428463,
+  "lati": 50.0160638592,
+  "FullNameUA": "вулиця Партизанська, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 182723,
+  "postcode": 61054,
+  "number": 1,
+  "suffix": "В",
+  "block": "",
+  "streetid": 7340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Б-2\"",
+  "confrm": "",
+  "reg_date": "24.04.2020 16:11:43",
+  "longt": 36.3239995954,
+  "lati": 50.0156799403,
+  "FullNameUA": "вулиця Партизанська, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 126824,
@@ -47,32 +102,8 @@
   "reg_date": "",
   "longt": 36.3249637261,
   "lati": 50.0160644096,
-  "FullNameUA": "вулиця Партизанська, 1-Б"
- },
- {
-  "id": 180124,
-  "postcode": 61054,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 7340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3244428463,
-  "lati": 50.016063859199996,
-  "FullNameUA": "вулиця Партизанська, 1"
+  "FullNameUA": "вулиця Партизанська, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 126827,
@@ -95,9 +126,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319947048100005,
+  "longt": 36.3199470481,
   "lati": 50.0152562122,
-  "FullNameUA": "вулиця Партизанська, 2-Б"
+  "FullNameUA": "вулиця Партизанська, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 126825,
@@ -120,9 +152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.322717293000004,
+  "longt": 36.322717293,
   "lati": 50.0155135989,
-  "FullNameUA": "вулиця Партизанська, 2"
+  "FullNameUA": "вулиця Партизанська, 2",
+  "ChildsIds": []
  },
  {
   "id": 126828,
@@ -147,7 +180,8 @@
   "reg_date": "",
   "longt": 36.3237017275,
   "lati": 50.0159531918,
-  "FullNameUA": "вулиця Партизанська, 2-В"
+  "FullNameUA": "вулиця Партизанська, 2-В",
+  "ChildsIds": []
  },
  {
   "id": 126826,
@@ -172,7 +206,8 @@
   "reg_date": "",
   "longt": 36.3201096553,
   "lati": 50.0145912379,
-  "FullNameUA": "вулиця Партизанська, 2-А"
+  "FullNameUA": "вулиця Партизанська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 126829,
@@ -196,8 +231,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3224297945,
-  "lati": 50.015142482099996,
-  "FullNameUA": "вулиця Партизанська, 3"
+  "lati": 50.0151424821,
+  "FullNameUA": "вулиця Партизанська, 3",
+  "ChildsIds": []
  },
  {
   "id": 126830,
@@ -221,33 +257,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3223157199,
-  "lati": 50.015409672699995,
-  "FullNameUA": "вулиця Партизанська, 4"
- },
- {
-  "id": 126832,
-  "postcode": 61054,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 7340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3208165745,
-  "lati": 50.014499375899995,
-  "FullNameUA": "вулиця Партизанська, 5-А"
+  "lati": 50.0154096727,
+  "FullNameUA": "вулиця Партизанська, 4",
+  "ChildsIds": []
  },
  {
   "id": 126831,
@@ -272,13 +284,14 @@
   "reg_date": "",
   "longt": 36.3207296844,
   "lati": 50.0142692253,
-  "FullNameUA": "вулиця Партизанська, 5"
+  "FullNameUA": "вулиця Партизанська, 5",
+  "ChildsIds": []
  },
  {
-  "id": 175954,
+  "id": 126832,
   "postcode": 61054,
-  "number": 6,
-  "suffix": "Б",
+  "number": 5,
+  "suffix": "А",
   "block": "",
   "streetid": 7340,
   "status_id": 1,
@@ -295,9 +308,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.3215592674,
-  "lati": 50.0152483431,
-  "FullNameUA": "вулиця Партизанська, 6-Б"
+  "longt": 36.3208165745,
+  "lati": 50.0144993759,
+  "FullNameUA": "вулиця Партизанська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 126833,
@@ -322,7 +336,34 @@
   "reg_date": "",
   "longt": 36.3218483647,
   "lati": 50.0153430489,
-  "FullNameUA": "вулиця Партизанська, 6"
+  "FullNameUA": "вулиця Партизанська, 6",
+  "ChildsIds": []
+ },
+ {
+  "id": 175954,
+  "postcode": 61054,
+  "number": 6,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 7340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3215592674,
+  "lati": 50.0152483431,
+  "FullNameUA": "вулиця Партизанська, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 126834,
@@ -346,8 +387,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3205137197,
-  "lati": 50.014300366099995,
-  "FullNameUA": "вулиця Партизанська, 7"
+  "lati": 50.0143003661,
+  "FullNameUA": "вулиця Партизанська, 7",
+  "ChildsIds": []
  },
  {
   "id": 175952,
@@ -371,8 +413,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3212015888,
-  "lati": 50.013892633699996,
-  "FullNameUA": "вулиця Партизанська, 7-Б"
+  "lati": 50.0138926337,
+  "FullNameUA": "вулиця Партизанська, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 175953,
@@ -396,8 +439,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3206101083,
-  "lati": 50.014903680699994,
-  "FullNameUA": "вулиця Партизанська, 8-А"
+  "lati": 50.0149036807,
+  "FullNameUA": "вулиця Партизанська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 126835,
@@ -421,8 +465,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3233978969,
-  "lati": 50.015520090399995,
-  "FullNameUA": "вулиця Партизанська, 8"
+  "lati": 50.0155200904,
+  "FullNameUA": "вулиця Партизанська, 8",
+  "ChildsIds": []
  },
  {
   "id": 126836,
@@ -447,7 +492,8 @@
   "reg_date": "",
   "longt": 36.3211880051,
   "lati": 50.0145909246,
-  "FullNameUA": "вулиця Партизанська, 9"
+  "FullNameUA": "вулиця Партизанська, 9",
+  "ChildsIds": []
  },
  {
   "id": 126837,
@@ -472,7 +518,34 @@
   "reg_date": "",
   "longt": 36.3235753458,
   "lati": 50.0156006897,
-  "FullNameUA": "вулиця Партизанська, 10"
+  "FullNameUA": "вулиця Партизанська, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 179519,
+  "postcode": 61054,
+  "number": 12,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 7340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3194985834,
+  "lati": 50.0153603182,
+  "FullNameUA": "вулиця Партизанська, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 179520,
@@ -497,32 +570,8 @@
   "reg_date": "",
   "longt": 36.3189130951,
   "lati": 50.015580768,
-  "FullNameUA": "вулиця Партизанська, 12-В"
- },
- {
-  "id": 179519,
-  "postcode": 61054,
-  "number": 12,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 7340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.319498583400005,
-  "lati": 50.015360318199996,
-  "FullNameUA": "вулиця Партизанська, 12-Б"
+  "FullNameUA": "вулиця Партизанська, 12-В",
+  "ChildsIds": []
  },
  {
   "id": 126838,
@@ -547,6 +596,7 @@
   "reg_date": "",
   "longt": 36.323748687,
   "lati": 50.0156812551,
-  "FullNameUA": "вулиця Партизанська, 12"
+  "FullNameUA": "вулиця Партизанська, 12",
+  "ChildsIds": []
  }
 ]

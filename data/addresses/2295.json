@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.4363649635,
   "lati": 49.9315255874,
-  "FullNameUA": "вулиця Велика Кільцева, 1-Б"
+  "FullNameUA": "вулиця Велика Кільцева, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 108885,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.4375668314,
   "lati": 49.9308105445,
-  "FullNameUA": "вулиця Велика Кільцева, 3"
+  "FullNameUA": "вулиця Велика Кільцева, 3",
+  "ChildsIds": []
  },
  {
   "id": 108887,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.4365686429,
   "lati": 49.9306958552,
-  "FullNameUA": "вулиця Велика Кільцева, 3-Б"
+  "FullNameUA": "вулиця Велика Кільцева, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 108886,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.432721082,
   "lati": 49.9305556537,
-  "FullNameUA": "вулиця Велика Кільцева, 3-А"
+  "FullNameUA": "вулиця Велика Кільцева, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 108888,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.438278445,
   "lati": 49.9306372758,
-  "FullNameUA": "вулиця Велика Кільцева, 4"
+  "FullNameUA": "вулиця Велика Кільцева, 4",
+  "ChildsIds": []
  },
  {
   "id": 108890,
@@ -146,8 +151,35 @@
   "confrm": "1092, 29.12.1995",
   "reg_date": "",
   "longt": 36.429344759,
-  "lati": 49.929173738500005,
-  "FullNameUA": "вулиця Велика Кільцева, 6-В"
+  "lati": 49.9291737385,
+  "FullNameUA": "вулиця Велика Кільцева, 6-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 182601,
+  "postcode": 61143,
+  "number": 6,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2295,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.4402345153,
+  "lati": 49.9314444863,
+  "FullNameUA": "вулиця Велика Кільцева, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 108889,
@@ -171,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.4405697256,
-  "lati": 49.930140947299996,
-  "FullNameUA": "вулиця Велика Кільцева, 6"
+  "lati": 49.9301409473,
+  "FullNameUA": "вулиця Велика Кільцева, 6",
+  "ChildsIds": []
  },
  {
   "id": 108891,
@@ -197,7 +230,8 @@
   "reg_date": "",
   "longt": 36.441012036,
   "lati": 49.9293152867,
-  "FullNameUA": "вулиця Велика Кільцева, 8"
+  "FullNameUA": "вулиця Велика Кільцева, 8",
+  "ChildsIds": []
  },
  {
   "id": 108892,
@@ -222,32 +256,8 @@
   "reg_date": "",
   "longt": 36.4408402062,
   "lati": 49.9282979069,
-  "FullNameUA": "вулиця Велика Кільцева, 12"
- },
- {
-  "id": 108893,
-  "postcode": 61143,
-  "number": 14,
-  "suffix": "",
-  "block": "",
-  "streetid": 2295,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.4422973939,
-  "lati": 49.9292086384,
-  "FullNameUA": "вулиця Велика Кільцева, 14"
+  "FullNameUA": "вулиця Велика Кільцева, 12",
+  "ChildsIds": []
  },
  {
   "id": 108894,
@@ -272,7 +282,34 @@
   "reg_date": "",
   "longt": 36.434639932,
   "lati": 49.9282557558,
-  "FullNameUA": "вулиця Велика Кільцева, 14-А"
+  "FullNameUA": "вулиця Велика Кільцева, 14-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 108893,
+  "postcode": 61143,
+  "number": 14,
+  "suffix": "",
+  "block": "",
+  "streetid": 2295,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4422973939,
+  "lati": 49.9292086384,
+  "FullNameUA": "вулиця Велика Кільцева, 14",
+  "ChildsIds": []
  },
  {
   "id": 108895,
@@ -297,7 +334,8 @@
   "reg_date": "",
   "longt": 36.4432195426,
   "lati": 49.9293438285,
-  "FullNameUA": "вулиця Велика Кільцева, 16"
+  "FullNameUA": "вулиця Велика Кільцева, 16",
+  "ChildsIds": []
  },
  {
   "id": 177826,
@@ -321,8 +359,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.4496871737,
-  "lati": 49.927615300700005,
-  "FullNameUA": "вулиця Велика Кільцева, 23"
+  "lati": 49.9276153007,
+  "FullNameUA": "вулиця Велика Кільцева, 23",
+  "ChildsIds": []
  },
  {
   "id": 108896,
@@ -347,7 +386,8 @@
   "reg_date": "14.11.2019 16:27:47",
   "longt": 36.4315394419,
   "lati": 49.9292111182,
-  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 4"
+  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 4",
+  "ChildsIds": []
  },
  {
   "id": 108897,
@@ -372,7 +412,8 @@
   "reg_date": "14.11.2019 16:26:58",
   "longt": 36.4315659751,
   "lati": 49.9292480771,
-  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 5"
+  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 5",
+  "ChildsIds": []
  },
  {
   "id": 180847,
@@ -397,7 +438,8 @@
   "reg_date": "06.06.2019 17:20:25",
   "longt": 36.4316084197,
   "lati": 49.9293328997,
-  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 7"
+  "FullNameUA": "вулиця Велика Кільцева, 91-А, гараж № 7",
+  "ChildsIds": []
  },
  {
   "id": 177828,
@@ -422,7 +464,8 @@
   "reg_date": "",
   "longt": 36.4332598069,
   "lati": 49.9319476938,
-  "FullNameUA": "вулиця Велика Кільцева, 95"
+  "FullNameUA": "вулиця Велика Кільцева, 95",
+  "ChildsIds": []
  },
  {
   "id": 108898,
@@ -447,7 +490,8 @@
   "reg_date": "",
   "longt": 36.4340773716,
   "lati": 49.9306583431,
-  "FullNameUA": "вулиця Велика Кільцева, 97"
+  "FullNameUA": "вулиця Велика Кільцева, 97",
+  "ChildsIds": []
  },
  {
   "id": 108899,
@@ -472,7 +516,8 @@
   "reg_date": "",
   "longt": 36.4350433664,
   "lati": 49.9309840939,
-  "FullNameUA": "вулиця Велика Кільцева, 99"
+  "FullNameUA": "вулиця Велика Кільцева, 99",
+  "ChildsIds": []
  },
  {
   "id": 177827,
@@ -497,7 +542,8 @@
   "reg_date": "",
   "longt": 36.4345662346,
   "lati": 49.9313386092,
-  "FullNameUA": "вулиця Велика Кільцева, 101"
+  "FullNameUA": "вулиця Велика Кільцева, 101",
+  "ChildsIds": []
  },
  {
   "id": 108900,
@@ -522,7 +568,8 @@
   "reg_date": "",
   "longt": 36.4328955135,
   "lati": 49.9271611004,
-  "FullNameUA": "вулиця Велика Кільцева, 116"
+  "FullNameUA": "вулиця Велика Кільцева, 116",
+  "ChildsIds": []
  },
  {
   "id": 108901,
@@ -547,32 +594,8 @@
   "reg_date": "",
   "longt": 36.4320620441,
   "lati": 49.9282639457,
-  "FullNameUA": "вулиця Велика Кільцева, 124"
- },
- {
-  "id": 108903,
-  "postcode": 61143,
-  "number": 126,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2295,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.433122673199996,
-  "lati": 49.928306196,
-  "FullNameUA": "вулиця Велика Кільцева, 126-А"
+  "FullNameUA": "вулиця Велика Кільцева, 124",
+  "ChildsIds": []
  },
  {
   "id": 108902,
@@ -597,7 +620,34 @@
   "reg_date": "",
   "longt": 36.4324692278,
   "lati": 49.9278161373,
-  "FullNameUA": "вулиця Велика Кільцева, 126"
+  "FullNameUA": "вулиця Велика Кільцева, 126",
+  "ChildsIds": []
+ },
+ {
+  "id": 108903,
+  "postcode": 61143,
+  "number": 126,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2295,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.4331226732,
+  "lati": 49.928306196,
+  "FullNameUA": "вулиця Велика Кільцева, 126-А",
+  "ChildsIds": []
  },
  {
   "id": 108904,
@@ -620,34 +670,10 @@
   "same_adr_comm": "",
   "confrm": "137, 30.03.1994",
   "reg_date": "",
-  "longt": 36.433668952699996,
+  "longt": 36.4336689527,
   "lati": 49.9278911879,
-  "FullNameUA": "вулиця Велика Кільцева, 128"
- },
- {
-  "id": 108905,
-  "postcode": 61143,
-  "number": 130,
-  "suffix": "",
-  "block": "",
-  "streetid": 2295,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.4340919128,
-  "lati": 49.9274026001,
-  "FullNameUA": "вулиця Велика Кільцева, 130"
+  "FullNameUA": "вулиця Велика Кільцева, 128",
+  "ChildsIds": []
  },
  {
   "id": 177963,
@@ -672,7 +698,34 @@
   "reg_date": "09.12.2019 17:46:27",
   "longt": 36.4347698066,
   "lati": 49.9272328219,
-  "FullNameUA": "вулиця Велика Кільцева, 130-А"
+  "FullNameUA": "вулиця Велика Кільцева, 130-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 108905,
+  "postcode": 61143,
+  "number": 130,
+  "suffix": "",
+  "block": "",
+  "streetid": 2295,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.4340919128,
+  "lati": 49.9274026001,
+  "FullNameUA": "вулиця Велика Кільцева, 130",
+  "ChildsIds": []
  },
  {
   "id": 108906,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.4352644099,
   "lati": 49.9274823883,
-  "FullNameUA": "вулиця Велика Кільцева, 132"
+  "FullNameUA": "вулиця Велика Кільцева, 132",
+  "ChildsIds": []
  },
  {
   "id": 108907,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.4356947651,
   "lati": 49.9270062083,
-  "FullNameUA": "вулиця Велика Кільцева, 134"
- },
- {
-  "id": 108909,
-  "postcode": 61143,
-  "number": 136,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2295,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.433275978,
-  "lati": 49.9296273474,
-  "FullNameUA": "вулиця Велика Кільцева, 136-А"
+  "FullNameUA": "вулиця Велика Кільцева, 134",
+  "ChildsIds": []
  },
  {
   "id": 108908,
@@ -772,7 +802,34 @@
   "reg_date": "",
   "longt": 36.4327015863,
   "lati": 49.929297913,
-  "FullNameUA": "вулиця Велика Кільцева, 136"
+  "FullNameUA": "вулиця Велика Кільцева, 136",
+  "ChildsIds": []
+ },
+ {
+  "id": 108909,
+  "postcode": 61143,
+  "number": 136,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2295,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.433275978,
+  "lati": 49.9296273474,
+  "FullNameUA": "вулиця Велика Кільцева, 136-А",
+  "ChildsIds": []
  },
  {
   "id": 108910,
@@ -797,6 +854,7 @@
   "reg_date": "",
   "longt": 36.4333811159,
   "lati": 49.9287298343,
-  "FullNameUA": "вулиця Велика Кільцева, 138"
+  "FullNameUA": "вулиця Велика Кільцева, 138",
+  "ChildsIds": []
  }
 ]

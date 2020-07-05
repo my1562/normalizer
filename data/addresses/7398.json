@@ -22,6 +22,35 @@
   "reg_date": "",
   "longt": 36.3927108049,
   "lati": 49.9783217644,
-  "FullNameUA": "вулиця Придорожна (сел. Кулиничі), 21"
+  "FullNameUA": "вулиця Придорожна (сел. Кулиничі), 21",
+  "ChildsIds": []
+ },
+ {
+  "id": 182795,
+  "postcode": 61026,
+  "number": 29,
+  "suffix": "",
+  "block": "",
+  "streetid": 7398,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "04.05.2020 16:13:29",
+  "longt": 36.3946519404,
+  "lati": 49.9785418707,
+  "FullNameUA": "вулиця Придорожна (сел. Кулиничі), 29",
+  "ChildsIds": [
+   182793
+  ]
  }
 ]

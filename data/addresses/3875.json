@@ -1,5 +1,31 @@
 [
  {
+  "id": 106125,
+  "postcode": 61007,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3875,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3730646284,
+  "lati": 49.9657375798,
+  "FullNameUA": "вулиця Свистуна, 1",
+  "ChildsIds": []
+ },
+ {
   "id": 106126,
   "postcode": 61007,
   "number": 1,
@@ -21,33 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3697179042,
-  "lati": 49.966923377200004,
-  "FullNameUA": "вулиця Свистуна, 1-А"
- },
- {
-  "id": 106125,
-  "postcode": 61007,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3875,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.373064628399995,
-  "lati": 49.9657375798,
-  "FullNameUA": "вулиця Свистуна, 1"
+  "lati": 49.9669233772,
+  "FullNameUA": "вулиця Свистуна, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 106128,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3698886521,
   "lati": 49.9622558004,
-  "FullNameUA": "вулиця Свистуна, 2-Б"
+  "FullNameUA": "вулиця Свистуна, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 106127,
@@ -97,7 +100,8 @@
   "reg_date": "01.04.2019 11:33:30",
   "longt": 36.3698506267,
   "lati": 49.9644169174,
-  "FullNameUA": "вулиця Свистуна, 2-А"
+  "FullNameUA": "вулиця Свистуна, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 112665,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3653844595,
   "lati": 49.9581434786,
-  "FullNameUA": "вулиця Свистуна, 2"
+  "FullNameUA": "вулиця Свистуна, 2",
+  "ChildsIds": []
  },
  {
   "id": 112666,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.366961598399996,
-  "lati": 49.957630975300006,
-  "FullNameUA": "вулиця Свистуна, 3-А"
+  "longt": 36.3669615984,
+  "lati": 49.9576309753,
+  "FullNameUA": "вулиця Свистуна, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 112667,
@@ -172,7 +178,8 @@
   "reg_date": "14.01.2019 16:47:54",
   "longt": 36.3653484972,
   "lati": 49.9562161655,
-  "FullNameUA": "вулиця Свистуна, 3-Б"
+  "FullNameUA": "вулиця Свистуна, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 106129,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3671654463,
-  "lati": 49.959655072900006,
-  "FullNameUA": "вулиця Свистуна, 4"
+  "lati": 49.9596550729,
+  "FullNameUA": "вулиця Свистуна, 4",
+  "ChildsIds": []
  },
  {
   "id": 112668,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3633805921,
   "lati": 49.9537041852,
-  "FullNameUA": "вулиця Свистуна, 5"
+  "FullNameUA": "вулиця Свистуна, 5",
+  "ChildsIds": []
  },
  {
   "id": 106130,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.3665850697,
   "lati": 49.9589081883,
-  "FullNameUA": "вулиця Свистуна, 6"
+  "FullNameUA": "вулиця Свистуна, 6",
+  "ChildsIds": []
  },
  {
   "id": 112670,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.366172294,
   "lati": 49.9565288045,
-  "FullNameUA": "вулиця Свистуна, 7-А"
+  "FullNameUA": "вулиця Свистуна, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 112669,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3641251987,
-  "lati": 49.953823409600005,
-  "FullNameUA": "вулиця Свистуна, 7"
+  "lati": 49.9538234096,
+  "FullNameUA": "вулиця Свистуна, 7",
+  "ChildsIds": []
  },
  {
   "id": 178901,
@@ -321,8 +333,9 @@
   "confrm": "градархив",
   "reg_date": "01.03.2019 10:32:49",
   "longt": 36.3633255654,
-  "lati": 49.959001891700005,
-  "FullNameUA": "вулиця Свистуна, 11-1"
+  "lati": 49.9590018917,
+  "FullNameUA": "вулиця Свистуна, 11-1",
+  "ChildsIds": []
  },
  {
   "id": 106131,
@@ -346,8 +359,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3636910493,
-  "lati": 49.958471886000005,
-  "FullNameUA": "вулиця Свистуна, 11"
+  "lati": 49.958471886,
+  "FullNameUA": "вулиця Свистуна, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 106134,
+  "postcode": 61007,
+  "number": 12,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3875,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3648822838,
+  "lati": 49.9584246859,
+  "FullNameUA": "вулиця Свистуна, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 106132,
@@ -372,7 +412,8 @@
   "reg_date": "",
   "longt": 36.3659650256,
   "lati": 49.9578522082,
-  "FullNameUA": "вулиця Свистуна, 12"
+  "FullNameUA": "вулиця Свистуна, 12",
+  "ChildsIds": []
  },
  {
   "id": 106133,
@@ -397,32 +438,8 @@
   "reg_date": "",
   "longt": 36.3655368134,
   "lati": 49.9571313331,
-  "FullNameUA": "вулиця Свистуна, 12-А"
- },
- {
-  "id": 106134,
-  "postcode": 61007,
-  "number": 12,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3875,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3648822838,
-  "lati": 49.958424685900006,
-  "FullNameUA": "вулиця Свистуна, 12-Б"
+  "FullNameUA": "вулиця Свистуна, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 106135,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3632648049,
   "lati": 49.9546672701,
-  "FullNameUA": "вулиця Свистуна, 14"
+  "FullNameUA": "вулиця Свистуна, 14",
+  "ChildsIds": []
  },
  {
   "id": 112671,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3627807053,
   "lati": 49.9539037678,
-  "FullNameUA": "вулиця Свистуна, 16"
+  "FullNameUA": "вулиця Свистуна, 16",
+  "ChildsIds": []
  },
  {
   "id": 112672,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.36251375,
   "lati": 49.9543665486,
-  "FullNameUA": "вулиця Свистуна, 18"
+  "FullNameUA": "вулиця Свистуна, 18",
+  "ChildsIds": []
  },
  {
   "id": 112673,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.361645957,
   "lati": 49.9542666756,
-  "FullNameUA": "вулиця Свистуна, 20"
+  "FullNameUA": "вулиця Свистуна, 20",
+  "ChildsIds": []
  },
  {
   "id": 112674,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.3622205067,
   "lati": 49.9532646,
-  "FullNameUA": "вулиця Свистуна, 22"
+  "FullNameUA": "вулиця Свистуна, 22",
+  "ChildsIds": []
  },
  {
   "id": 178707,
@@ -571,7 +593,8 @@
   "confrm": "Рішення ВК ХМР № 20, 17.01.2018; Рішення ВК ХМР № 138, 28.02.2018",
   "reg_date": "25.01.2018 14:35:10",
   "longt": 36.3618036312,
-  "lati": 49.953724160700006,
-  "FullNameUA": "вулиця Свистуна, 22-А, гараж № 1"
+  "lati": 49.9537241607,
+  "FullNameUA": "вулиця Свистуна, 22-А, гараж № 1",
+  "ChildsIds": []
  }
 ]

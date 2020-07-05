@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2881934705,
   "lati": 50.0121604168,
-  "FullNameUA": "провулок Безпалівський, 1-А"
- },
- {
-  "id": 120827,
-  "postcode": 61033,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2885613291,
-  "lati": 50.0118185928,
-  "FullNameUA": "провулок Безпалівський, 2-А"
+  "FullNameUA": "провулок Безпалівський, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 120828,
@@ -72,7 +48,34 @@
   "reg_date": "",
   "longt": 36.2880163537,
   "lati": 50.0119505093,
-  "FullNameUA": "провулок Безпалівський, 2-Б"
+  "FullNameUA": "провулок Безпалівський, 2-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 120827,
+  "postcode": 61033,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2885613291,
+  "lati": 50.0118185928,
+  "FullNameUA": "провулок Безпалівський, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 120826,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2882648698,
   "lati": 50.0118957949,
-  "FullNameUA": "провулок Безпалівський, 2"
+  "FullNameUA": "провулок Безпалівський, 2",
+  "ChildsIds": []
  },
  {
   "id": 120829,
@@ -121,8 +125,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2884669624,
-  "lati": 50.012069235999995,
-  "FullNameUA": "провулок Безпалівський, 3"
+  "lati": 50.012069236,
+  "FullNameUA": "провулок Безпалівський, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 120830,
+  "postcode": 61033,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2888118541,
+  "lati": 50.0117766028,
+  "FullNameUA": "провулок Безпалівський, 4",
+  "ChildsIds": []
  },
  {
   "id": 120831,
@@ -147,32 +178,8 @@
   "reg_date": "",
   "longt": 36.2888237015,
   "lati": 50.0115703635,
-  "FullNameUA": "провулок Безпалівський, 4-А"
- },
- {
-  "id": 120830,
-  "postcode": 61033,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.288811854100004,
-  "lati": 50.0117766028,
-  "FullNameUA": "провулок Безпалівський, 4"
+  "FullNameUA": "провулок Безпалівський, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 120832,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2888011666,
   "lati": 50.0120036362,
-  "FullNameUA": "провулок Безпалівський, 5"
+  "FullNameUA": "провулок Безпалівський, 5",
+  "ChildsIds": []
  },
  {
   "id": 120833,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2893056804,
   "lati": 50.0116586392,
-  "FullNameUA": "провулок Безпалівський, 6"
+  "FullNameUA": "провулок Безпалівський, 6",
+  "ChildsIds": []
  },
  {
   "id": 120834,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2890941964,
   "lati": 50.0115542371,
-  "FullNameUA": "провулок Безпалівський, 6-А"
+  "FullNameUA": "провулок Безпалівський, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 120835,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2890280356,
   "lati": 50.0119541689,
-  "FullNameUA": "провулок Безпалівський, 7"
+  "FullNameUA": "провулок Безпалівський, 7",
+  "ChildsIds": []
  },
  {
   "id": 120836,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2895991428,
   "lati": 50.0116180204,
-  "FullNameUA": "провулок Безпалівський, 8"
+  "FullNameUA": "провулок Безпалівський, 8",
+  "ChildsIds": []
  },
  {
   "id": 120837,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289540237400004,
+  "longt": 36.2895402374,
   "lati": 50.0114242295,
-  "FullNameUA": "провулок Безпалівський, 8-А"
+  "FullNameUA": "провулок Безпалівський, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 120838,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2893102025,
   "lati": 50.0119144668,
-  "FullNameUA": "провулок Безпалівський, 9"
+  "FullNameUA": "провулок Безпалівський, 9",
+  "ChildsIds": []
  },
  {
   "id": 120839,
@@ -372,32 +386,8 @@
   "reg_date": "",
   "longt": 36.2892750907,
   "lati": 50.0120708783,
-  "FullNameUA": "провулок Безпалівський, 9-А"
- },
- {
-  "id": 120841,
-  "postcode": 61033,
-  "number": 10,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2900664891,
-  "lati": 50.0114962934,
-  "FullNameUA": "провулок Безпалівський, 10-А"
+  "FullNameUA": "провулок Безпалівський, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 120840,
@@ -422,7 +412,34 @@
   "reg_date": "",
   "longt": 36.2903131296,
   "lati": 50.0115539108,
-  "FullNameUA": "провулок Безпалівський, 10"
+  "FullNameUA": "провулок Безпалівський, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 120841,
+  "postcode": 61033,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2900664891,
+  "lati": 50.0114962934,
+  "FullNameUA": "провулок Безпалівський, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 120842,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2895946147,
   "lati": 50.0118702741,
-  "FullNameUA": "провулок Безпалівський, 11"
+  "FullNameUA": "провулок Безпалівський, 11",
+  "ChildsIds": []
  },
  {
   "id": 120843,
@@ -470,9 +488,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289756414100005,
+  "longt": 36.2897564141,
   "lati": 50.0119534345,
-  "FullNameUA": "провулок Безпалівський, 11-А"
+  "FullNameUA": "провулок Безпалівський, 11-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 120844,
+  "postcode": 61033,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2907794599,
+  "lati": 50.0114880197,
+  "FullNameUA": "провулок Безпалівський, 12",
+  "ChildsIds": []
  },
  {
   "id": 120845,
@@ -497,57 +542,8 @@
   "reg_date": "",
   "longt": 36.2905322136,
   "lati": 50.011436449,
-  "FullNameUA": "провулок Безпалівський, 12-А"
- },
- {
-  "id": 120844,
-  "postcode": 61033,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2907794599,
-  "lati": 50.011488019699996,
-  "FullNameUA": "провулок Безпалівський, 12"
- },
- {
-  "id": 120846,
-  "postcode": 61033,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2900332782,
-  "lati": 50.0118266107,
-  "FullNameUA": "провулок Безпалівський, 13"
+  "FullNameUA": "провулок Безпалівський, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 120847,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.2898145705,
   "lati": 50.0118503921,
-  "FullNameUA": "провулок Безпалівський, 13-А"
+  "FullNameUA": "провулок Безпалівський, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 120846,
+  "postcode": 61033,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2900332782,
+  "lati": 50.0118266107,
+  "FullNameUA": "провулок Безпалівський, 13",
+  "ChildsIds": []
  },
  {
   "id": 120848,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2910839225,
-  "lati": 50.011476176399995,
-  "FullNameUA": "провулок Безпалівський, 14"
+  "lati": 50.0114761764,
+  "FullNameUA": "провулок Безпалівський, 14",
+  "ChildsIds": []
  },
  {
   "id": 120849,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2913589211,
   "lati": 50.0114520965,
-  "FullNameUA": "провулок Безпалівський, 14-А"
+  "FullNameUA": "провулок Безпалівський, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 120850,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2903233216,
   "lati": 50.0118007337,
-  "FullNameUA": "провулок Безпалівський, 15"
+  "FullNameUA": "провулок Безпалівський, 15",
+  "ChildsIds": []
  },
  {
   "id": 120851,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2905631204,
-  "lati": 50.011780261199995,
-  "FullNameUA": "провулок Безпалівський, 17"
+  "lati": 50.0117802612,
+  "FullNameUA": "провулок Безпалівський, 17",
+  "ChildsIds": []
  },
  {
   "id": 120853,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.291772574199996,
+  "longt": 36.2917725742,
   "lati": 50.0115206965,
-  "FullNameUA": "провулок Безпалівський, 18/1"
+  "FullNameUA": "провулок Безпалівський, 18/1",
+  "ChildsIds": []
  },
  {
   "id": 120852,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.292290236199996,
-  "lati": 50.011443581799995,
-  "FullNameUA": "провулок Безпалівський, 18"
+  "longt": 36.2922902362,
+  "lati": 50.0114435818,
+  "FullNameUA": "провулок Безпалівський, 18",
+  "ChildsIds": []
  },
  {
   "id": 120854,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.290799872499996,
-  "lati": 50.011773236399996,
-  "FullNameUA": "провулок Безпалівський, 19"
+  "longt": 36.2907998725,
+  "lati": 50.0117732364,
+  "FullNameUA": "провулок Безпалівський, 19",
+  "ChildsIds": []
  },
  {
   "id": 120855,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2911928884,
-  "lati": 50.011966563099996,
-  "FullNameUA": "провулок Безпалівський, 19-А"
+  "lati": 50.0119665631,
+  "FullNameUA": "провулок Безпалівський, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 120856,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2921895342,
   "lati": 50.0110985361,
-  "FullNameUA": "провулок Безпалівський, 20"
+  "FullNameUA": "провулок Безпалівський, 20",
+  "ChildsIds": []
  },
  {
   "id": 120857,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.291108481,
-  "lati": 50.011742618199996,
-  "FullNameUA": "провулок Безпалівський, 21"
+  "lati": 50.0117426182,
+  "FullNameUA": "провулок Безпалівський, 21",
+  "ChildsIds": []
  },
  {
   "id": 120858,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2913060919,
-  "lati": 50.011712581299996,
-  "FullNameUA": "провулок Безпалівський, 21-А"
+  "lati": 50.0117125813,
+  "FullNameUA": "провулок Безпалівський, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 120859,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.292605725,
   "lati": 50.0113955386,
-  "FullNameUA": "провулок Безпалівський, 22"
+  "FullNameUA": "провулок Безпалівський, 22",
+  "ChildsIds": []
  },
  {
   "id": 120860,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.291531857,
   "lati": 50.0116938233,
-  "FullNameUA": "провулок Безпалівський, 23"
+  "FullNameUA": "провулок Безпалівський, 23",
+  "ChildsIds": []
  },
  {
   "id": 120861,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2928674476,
   "lati": 50.011350048,
-  "FullNameUA": "провулок Безпалівський, 24"
+  "FullNameUA": "провулок Безпалівський, 24",
+  "ChildsIds": []
  },
  {
   "id": 120862,
@@ -946,33 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2917608851,
-  "lati": 50.011708986399995,
-  "FullNameUA": "провулок Безпалівський, 25"
- },
- {
-  "id": 120863,
-  "postcode": 61033,
-  "number": 26,
-  "suffix": "",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2931876504,
-  "lati": 50.0113150814,
-  "FullNameUA": "провулок Безпалівський, 26"
+  "lati": 50.0117089864,
+  "FullNameUA": "провулок Безпалівський, 25",
+  "ChildsIds": []
  },
  {
   "id": 120864,
@@ -997,7 +1010,34 @@
   "reg_date": "",
   "longt": 36.2934234786,
   "lati": 50.011268208,
-  "FullNameUA": "провулок Безпалівський, 26/7"
+  "FullNameUA": "провулок Безпалівський, 26/7",
+  "ChildsIds": []
+ },
+ {
+  "id": 120863,
+  "postcode": 61033,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2931876504,
+  "lati": 50.0113150814,
+  "FullNameUA": "провулок Безпалівський, 26",
+  "ChildsIds": []
  },
  {
   "id": 120865,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2922002823,
   "lati": 50.0117462643,
-  "FullNameUA": "провулок Безпалівський, 27"
+  "FullNameUA": "провулок Безпалівський, 27",
+  "ChildsIds": []
  },
  {
   "id": 120866,
@@ -1047,32 +1088,8 @@
   "reg_date": "",
   "longt": 36.293770886,
   "lati": 50.0111739973,
-  "FullNameUA": "провулок Безпалівський, 28"
- },
- {
-  "id": 120867,
-  "postcode": 61033,
-  "number": 29,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2168,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 251-1, 15.12.2009",
-  "reg_date": "",
-  "longt": 36.2930576781,
-  "lati": 50.012032560499996,
-  "FullNameUA": "провулок Безпалівський, 29-А"
+  "FullNameUA": "провулок Безпалівський, 28",
+  "ChildsIds": []
  },
  {
   "id": 120868,
@@ -1097,7 +1114,34 @@
   "reg_date": "03.01.2020 09:55:21",
   "longt": 36.2929898559,
   "lati": 50.0123502846,
-  "FullNameUA": "провулок Безпалівський, 29-Б"
+  "FullNameUA": "провулок Безпалівський, 29-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 120867,
+  "postcode": 61033,
+  "number": 29,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2168,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 251-1, 15.12.2009",
+  "reg_date": "",
+  "longt": 36.2930576781,
+  "lati": 50.0120325605,
+  "FullNameUA": "провулок Безпалівський, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 178802,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2938543973,
   "lati": 50.0119345459,
-  "FullNameUA": "провулок Безпалівський, 29"
+  "FullNameUA": "провулок Безпалівський, 29",
+  "ChildsIds": []
  },
  {
   "id": 120869,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2940050571,
   "lati": 50.0110871249,
-  "FullNameUA": "провулок Безпалівський, 30"
+  "FullNameUA": "провулок Безпалівський, 30",
+  "ChildsIds": []
  },
  {
   "id": 178805,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2953909453,
   "lati": 50.012097153,
-  "FullNameUA": "провулок Безпалівський, 31-Б"
+  "FullNameUA": "провулок Безпалівський, 31-Б",
+  "ChildsIds": []
  },
  {
   "id": 178803,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2944076952,
   "lati": 50.0118712975,
-  "FullNameUA": "провулок Безпалівський, 31"
+  "FullNameUA": "провулок Безпалівський, 31",
+  "ChildsIds": []
  },
  {
   "id": 120870,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.2945620975,
   "lati": 50.0109827486,
-  "FullNameUA": "провулок Безпалівський, 32"
+  "FullNameUA": "провулок Безпалівський, 32",
+  "ChildsIds": []
  },
  {
   "id": 178804,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2952486983,
   "lati": 50.0117740133,
-  "FullNameUA": "провулок Безпалівський, 33"
+  "FullNameUA": "провулок Безпалівський, 33",
+  "ChildsIds": []
  },
  {
   "id": 120871,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2944258845,
   "lati": 50.0107784198,
-  "FullNameUA": "провулок Безпалівський, 34"
+  "FullNameUA": "провулок Безпалівський, 34",
+  "ChildsIds": []
  },
  {
   "id": 120872,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2947690039,
   "lati": 50.0108949188,
-  "FullNameUA": "провулок Безпалівський, 36"
+  "FullNameUA": "провулок Безпалівський, 36",
+  "ChildsIds": []
  },
  {
   "id": 120873,
@@ -1321,8 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.294996437,
-  "lati": 50.011102189199995,
-  "FullNameUA": "провулок Безпалівський, 38"
+  "lati": 50.0111021892,
+  "FullNameUA": "провулок Безпалівський, 38",
+  "ChildsIds": []
  },
  {
   "id": 120874,
@@ -1347,6 +1400,7 @@
   "reg_date": "",
   "longt": 36.2954173102,
   "lati": 50.0110003246,
-  "FullNameUA": "провулок Безпалівський, 40"
+  "FullNameUA": "провулок Безпалівський, 40",
+  "ChildsIds": []
  }
 ]

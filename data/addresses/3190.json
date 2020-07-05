@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2591903377,
   "lati": 49.9542196,
-  "FullNameUA": "вулиця Макіївська, 3"
+  "FullNameUA": "вулиця Макіївська, 3",
+  "ChildsIds": []
  },
  {
   "id": 163119,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2585184229,
-  "lati": 49.954539330900005,
-  "FullNameUA": "вулиця Макіївська, 4"
+  "lati": 49.9545393309,
+  "FullNameUA": "вулиця Макіївська, 4",
+  "ChildsIds": []
  },
  {
   "id": 163120,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2589302608,
   "lati": 49.9541062575,
-  "FullNameUA": "вулиця Макіївська, 5"
+  "FullNameUA": "вулиця Макіївська, 5",
+  "ChildsIds": []
  },
  {
   "id": 163121,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2576354933,
   "lati": 49.9544684807,
-  "FullNameUA": "вулиця Макіївська, 6"
+  "FullNameUA": "вулиця Макіївська, 6",
+  "ChildsIds": []
  },
  {
   "id": 163122,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.258700947,
-  "lati": 49.954267177000006,
-  "FullNameUA": "вулиця Макіївська, 7"
+  "lati": 49.954267177,
+  "FullNameUA": "вулиця Макіївська, 7",
+  "ChildsIds": []
  },
  {
   "id": 163123,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2574811743,
   "lati": 49.9544748235,
-  "FullNameUA": "вулиця Макіївська, 8"
+  "FullNameUA": "вулиця Макіївська, 8",
+  "ChildsIds": []
  },
  {
   "id": 163124,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2582474701,
   "lati": 49.9542491212,
-  "FullNameUA": "вулиця Макіївська, 9"
+  "FullNameUA": "вулиця Макіївська, 9",
+  "ChildsIds": []
  },
  {
   "id": 163125,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2572584733,
   "lati": 49.9544824625,
-  "FullNameUA": "вулиця Макіївська, 10"
+  "FullNameUA": "вулиця Макіївська, 10",
+  "ChildsIds": []
  },
  {
   "id": 163126,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2578626273,
   "lati": 49.9542532406,
-  "FullNameUA": "вулиця Макіївська, 11"
+  "FullNameUA": "вулиця Макіївська, 11",
+  "ChildsIds": []
  },
  {
   "id": 163127,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2569849641,
   "lati": 49.9544925836,
-  "FullNameUA": "вулиця Макіївська, 12"
+  "FullNameUA": "вулиця Макіївська, 12",
+  "ChildsIds": []
  },
  {
   "id": 163128,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2574939627,
-  "lati": 49.954256438200005,
-  "FullNameUA": "вулиця Макіївська, 13"
+  "lati": 49.9542564382,
+  "FullNameUA": "вулиця Макіївська, 13",
+  "ChildsIds": []
  },
  {
   "id": 163129,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2567099042,
-  "lati": 49.954488435200005,
-  "FullNameUA": "вулиця Макіївська, 14"
+  "lati": 49.9544884352,
+  "FullNameUA": "вулиця Макіївська, 14",
+  "ChildsIds": []
  },
  {
   "id": 163130,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.257238045,
   "lati": 49.9542465397,
-  "FullNameUA": "вулиця Макіївська, 15"
+  "FullNameUA": "вулиця Макіївська, 15",
+  "ChildsIds": []
  },
  {
   "id": 163131,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2563691968,
   "lati": 49.9544801496,
-  "FullNameUA": "вулиця Макіївська, 16"
+  "FullNameUA": "вулиця Макіївська, 16",
+  "ChildsIds": []
  },
  {
   "id": 163132,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2569368449,
-  "lati": 49.954179651800004,
-  "FullNameUA": "вулиця Макіївська, 17"
+  "lati": 49.9541796518,
+  "FullNameUA": "вулиця Макіївська, 17",
+  "ChildsIds": []
  },
  {
   "id": 163133,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2559510742,
   "lati": 49.9546201085,
-  "FullNameUA": "вулиця Макіївська, 18/27"
+  "FullNameUA": "вулиця Макіївська, 18/27",
+  "ChildsIds": []
  },
  {
   "id": 163134,
@@ -421,8 +437,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2566767346,
-  "lati": 49.954220784600004,
-  "FullNameUA": "вулиця Макіївська, 19"
+  "lati": 49.9542207846,
+  "FullNameUA": "вулиця Макіївська, 19",
+  "ChildsIds": []
  },
  {
   "id": 163135,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2555815208,
   "lati": 49.9545158358,
-  "FullNameUA": "вулиця Макіївська, 20/24"
+  "FullNameUA": "вулиця Макіївська, 20/24",
+  "ChildsIds": []
  },
  {
   "id": 163136,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2563815393,
   "lati": 49.9542333825,
-  "FullNameUA": "вулиця Макіївська, 21"
+  "FullNameUA": "вулиця Макіївська, 21",
+  "ChildsIds": []
  },
  {
   "id": 163137,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2550927441,
   "lati": 49.954514729,
-  "FullNameUA": "вулиця Макіївська, 22"
+  "FullNameUA": "вулиця Макіївська, 22",
+  "ChildsIds": []
  },
  {
   "id": 163138,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2560551983,
   "lati": 49.954249638,
-  "FullNameUA": "вулиця Макіївська, 23"
+  "FullNameUA": "вулиця Макіївська, 23",
+  "ChildsIds": []
  },
  {
   "id": 163139,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2548560558,
   "lati": 49.9545103322,
-  "FullNameUA": "вулиця Макіївська, 24"
+  "FullNameUA": "вулиця Макіївська, 24",
+  "ChildsIds": []
  },
  {
   "id": 163140,
@@ -571,8 +593,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2557918499,
-  "lati": 49.954246138500004,
-  "FullNameUA": "вулиця Макіївська, 25"
+  "lati": 49.9542461385,
+  "FullNameUA": "вулиця Макіївська, 25",
+  "ChildsIds": []
  },
  {
   "id": 163141,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2556230027,
-  "lati": 49.954108545400004,
-  "FullNameUA": "вулиця Макіївська, 25-А"
+  "lati": 49.9541085454,
+  "FullNameUA": "вулиця Макіївська, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 163142,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2546771814,
   "lati": 49.9545404984,
-  "FullNameUA": "вулиця Макіївська, 26"
+  "FullNameUA": "вулиця Макіївська, 26",
+  "ChildsIds": []
  },
  {
   "id": 163143,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2554926171,
   "lati": 49.9542442209,
-  "FullNameUA": "вулиця Макіївська, 27"
+  "FullNameUA": "вулиця Макіївська, 27",
+  "ChildsIds": []
  },
  {
   "id": 163144,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2544128883,
   "lati": 49.9545623611,
-  "FullNameUA": "вулиця Макіївська, 28"
+  "FullNameUA": "вулиця Макіївська, 28",
+  "ChildsIds": []
  },
  {
   "id": 163145,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2552414801,
   "lati": 49.9542436965,
-  "FullNameUA": "вулиця Макіївська, 29"
+  "FullNameUA": "вулиця Макіївська, 29",
+  "ChildsIds": []
  },
  {
   "id": 163146,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2539057279,
   "lati": 49.9548884443,
-  "FullNameUA": "вулиця Макіївська, 30"
+  "FullNameUA": "вулиця Макіївська, 30",
+  "ChildsIds": []
  },
  {
   "id": 163147,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2548207153,
   "lati": 49.9540287815,
-  "FullNameUA": "вулиця Макіївська, 31"
+  "FullNameUA": "вулиця Макіївська, 31",
+  "ChildsIds": []
  },
  {
   "id": 163148,
@@ -771,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2539250646,
-  "lati": 49.954524419500004,
-  "FullNameUA": "вулиця Макіївська, 32"
+  "lati": 49.9545244195,
+  "FullNameUA": "вулиця Макіївська, 32",
+  "ChildsIds": []
  },
  {
   "id": 163149,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2546034395,
   "lati": 49.9542441476,
-  "FullNameUA": "вулиця Макіївська, 33"
+  "FullNameUA": "вулиця Макіївська, 33",
+  "ChildsIds": []
  },
  {
   "id": 163150,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2535486665,
   "lati": 49.9547726467,
-  "FullNameUA": "вулиця Макіївська, 34"
+  "FullNameUA": "вулиця Макіївська, 34",
+  "ChildsIds": []
  },
  {
   "id": 163151,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2544783866,
   "lati": 49.9542210336,
-  "FullNameUA": "вулиця Макіївська, 35"
+  "FullNameUA": "вулиця Макіївська, 35",
+  "ChildsIds": []
  },
  {
   "id": 163152,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2533164277,
   "lati": 49.9547161992,
-  "FullNameUA": "вулиця Макіївська, 36"
+  "FullNameUA": "вулиця Макіївська, 36",
+  "ChildsIds": []
  },
  {
   "id": 163153,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2540330057,
-  "lati": 49.954211685100006,
-  "FullNameUA": "вулиця Макіївська, 37"
+  "lati": 49.9542116851,
+  "FullNameUA": "вулиця Макіївська, 37",
+  "ChildsIds": []
  },
  {
   "id": 163154,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "04.04.2019 12:00:47",
   "longt": 36.2529947823,
-  "lati": 49.954693663200004,
-  "FullNameUA": "вулиця Макіївська, 38"
+  "lati": 49.9546936632,
+  "FullNameUA": "вулиця Макіївська, 38",
+  "ChildsIds": []
  },
  {
   "id": 180513,
@@ -947,7 +984,8 @@
   "reg_date": "04.04.2019 12:04:01",
   "longt": 36.2529984692,
   "lati": 49.9546936552,
-  "FullNameUA": "вулиця Макіївська, 38-А"
+  "FullNameUA": "вулиця Макіївська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 163155,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2538030364,
   "lati": 49.9542395842,
-  "FullNameUA": "вулиця Макіївська, 39"
+  "FullNameUA": "вулиця Макіївська, 39",
+  "ChildsIds": []
  },
  {
   "id": 163156,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2528487455,
   "lati": 49.9545484702,
-  "FullNameUA": "вулиця Макіївська, 40"
+  "FullNameUA": "вулиця Макіївська, 40",
+  "ChildsIds": []
  },
  {
   "id": 163157,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2532836801,
   "lati": 49.9542459007,
-  "FullNameUA": "вулиця Макіївська, 41"
+  "FullNameUA": "вулиця Макіївська, 41",
+  "ChildsIds": []
  },
  {
   "id": 163158,
@@ -1046,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2525913772,
-  "lati": 49.954543322000006,
-  "FullNameUA": "вулиця Макіївська, 42"
+  "lati": 49.954543322,
+  "FullNameUA": "вулиця Макіївська, 42",
+  "ChildsIds": []
  },
  {
   "id": 163159,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.253058767,
   "lati": 49.9542425857,
-  "FullNameUA": "вулиця Макіївська, 43"
+  "FullNameUA": "вулиця Макіївська, 43",
+  "ChildsIds": []
  },
  {
   "id": 163160,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2523932407,
   "lati": 49.9545365414,
-  "FullNameUA": "вулиця Макіївська, 44"
+  "FullNameUA": "вулиця Макіївська, 44",
+  "ChildsIds": []
  },
  {
   "id": 163161,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2530486708,
   "lati": 49.9538470878,
-  "FullNameUA": "вулиця Макіївська, 45"
+  "FullNameUA": "вулиця Макіївська, 45",
+  "ChildsIds": []
  },
  {
   "id": 163162,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2520731394,
   "lati": 49.9545245632,
-  "FullNameUA": "вулиця Макіївська, 46"
+  "FullNameUA": "вулиця Макіївська, 46",
+  "ChildsIds": []
  },
  {
   "id": 163163,
@@ -1172,32 +1218,8 @@
   "reg_date": "",
   "longt": 36.2532846875,
   "lati": 49.9536455522,
-  "FullNameUA": "вулиця Макіївська, 47"
- },
- {
-  "id": 163164,
-  "postcode": 61124,
-  "number": 48,
-  "suffix": "",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2518163692,
-  "lati": 49.954534802400005,
-  "FullNameUA": "вулиця Макіївська, 48"
+  "FullNameUA": "вулиця Макіївська, 47",
+  "ChildsIds": []
  },
  {
   "id": 163165,
@@ -1222,7 +1244,34 @@
   "reg_date": "",
   "longt": 36.2518097169,
   "lati": 49.9548145532,
-  "FullNameUA": "вулиця Макіївська, 48-А"
+  "FullNameUA": "вулиця Макіївська, 48-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 163164,
+  "postcode": 61124,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2518163692,
+  "lati": 49.9545348024,
+  "FullNameUA": "вулиця Макіївська, 48",
+  "ChildsIds": []
  },
  {
   "id": 177530,
@@ -1247,7 +1296,34 @@
   "reg_date": "",
   "longt": 36.2530752909,
   "lati": 49.9535338119,
-  "FullNameUA": "вулиця Макіївська, 49"
+  "FullNameUA": "вулиця Макіївська, 49",
+  "ChildsIds": []
+ },
+ {
+  "id": 163166,
+  "postcode": 61124,
+  "number": 50,
+  "suffix": "",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2515364998,
+  "lati": 49.9545204166,
+  "FullNameUA": "вулиця Макіївська, 50",
+  "ChildsIds": []
  },
  {
   "id": 163167,
@@ -1272,57 +1348,8 @@
   "reg_date": "",
   "longt": 36.2515648899,
   "lati": 49.9547330118,
-  "FullNameUA": "вулиця Макіївська, 50-А"
- },
- {
-  "id": 163166,
-  "postcode": 61124,
-  "number": 50,
-  "suffix": "",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2515364998,
-  "lati": 49.954520416600005,
-  "FullNameUA": "вулиця Макіївська, 50"
- },
- {
-  "id": 163168,
-  "postcode": 61124,
-  "number": 51,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2534357838,
-  "lati": 49.952335697100004,
-  "FullNameUA": "вулиця Макіївська, 51-А"
+  "FullNameUA": "вулиця Макіївська, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 177531,
@@ -1347,7 +1374,34 @@
   "reg_date": "",
   "longt": 36.2530354026,
   "lati": 49.9534496945,
-  "FullNameUA": "вулиця Макіївська, 51"
+  "FullNameUA": "вулиця Макіївська, 51",
+  "ChildsIds": []
+ },
+ {
+  "id": 163168,
+  "postcode": 61124,
+  "number": 51,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2534357838,
+  "lati": 49.9523356971,
+  "FullNameUA": "вулиця Макіївська, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 163169,
@@ -1372,32 +1426,8 @@
   "reg_date": "",
   "longt": 36.2513037647,
   "lati": 49.9545210613,
-  "FullNameUA": "вулиця Макіївська, 52"
- },
- {
-  "id": 163170,
-  "postcode": 61124,
-  "number": 53,
-  "suffix": "",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.252055934,
-  "lati": 49.954265934300004,
-  "FullNameUA": "вулиця Макіївська, 53"
+  "FullNameUA": "вулиця Макіївська, 52",
+  "ChildsIds": []
  },
  {
   "id": 163171,
@@ -1422,7 +1452,34 @@
   "reg_date": "",
   "longt": 36.2523588111,
   "lati": 49.9535894913,
-  "FullNameUA": "вулиця Макіївська, 53-А"
+  "FullNameUA": "вулиця Макіївська, 53-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 163170,
+  "postcode": 61124,
+  "number": 53,
+  "suffix": "",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.252055934,
+  "lati": 49.9542659343,
+  "FullNameUA": "вулиця Макіївська, 53",
+  "ChildsIds": []
  },
  {
   "id": 163173,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2512216734,
   "lati": 49.9547756158,
-  "FullNameUA": "вулиця Макіївська, 54-А"
+  "FullNameUA": "вулиця Макіївська, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 163172,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2511178761,
   "lati": 49.9545251244,
-  "FullNameUA": "вулиця Макіївська, 54"
+  "FullNameUA": "вулиця Макіївська, 54",
+  "ChildsIds": []
  },
  {
   "id": 163174,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2518767834,
   "lati": 49.9542468627,
-  "FullNameUA": "вулиця Макіївська, 55"
+  "FullNameUA": "вулиця Макіївська, 55",
+  "ChildsIds": []
  },
  {
   "id": 163175,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2508607711,
   "lati": 49.954544976,
-  "FullNameUA": "вулиця Макіївська, 56"
+  "FullNameUA": "вулиця Макіївська, 56",
+  "ChildsIds": []
  },
  {
   "id": 163176,
@@ -1545,9 +1606,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2514785351,
-  "lati": 49.954232978700006,
-  "FullNameUA": "вулиця Макіївська, 57"
+  "longt": 36.2514815535,
+  "lati": 49.9542824518,
+  "FullNameUA": "вулиця Макіївська, 57",
+  "ChildsIds": []
+ },
+ {
+  "id": 182060,
+  "postcode": 61124,
+  "number": 57,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "11.02.2020 09:29:53",
+  "longt": 36.2514672434,
+  "lati": 49.9541969213,
+  "FullNameUA": "вулиця Макіївська, 57-А",
+  "ChildsIds": []
  },
  {
   "id": 163177,
@@ -1572,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2506452893,
   "lati": 49.9545121398,
-  "FullNameUA": "вулиця Макіївська, 58"
+  "FullNameUA": "вулиця Макіївська, 58",
+  "ChildsIds": []
  },
  {
   "id": 163178,
@@ -1597,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2505091698,
   "lati": 49.9547108184,
-  "FullNameUA": "вулиця Макіївська, 58-А"
+  "FullNameUA": "вулиця Макіївська, 58-А",
+  "ChildsIds": []
  },
  {
   "id": 163179,
@@ -1621,8 +1711,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2512783475,
-  "lati": 49.954255828700006,
-  "FullNameUA": "вулиця Макіївська, 59"
+  "lati": 49.9542558287,
+  "FullNameUA": "вулиця Макіївська, 59",
+  "ChildsIds": []
  },
  {
   "id": 163180,
@@ -1647,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2503683187,
   "lati": 49.9545166002,
-  "FullNameUA": "вулиця Макіївська, 60"
+  "FullNameUA": "вулиця Макіївська, 60",
+  "ChildsIds": []
  },
  {
   "id": 163181,
@@ -1672,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.251093123,
   "lati": 49.9542276852,
-  "FullNameUA": "вулиця Макіївська, 61"
+  "FullNameUA": "вулиця Макіївська, 61",
+  "ChildsIds": []
  },
  {
   "id": 163182,
@@ -1697,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2500639126,
   "lati": 49.9545410439,
-  "FullNameUA": "вулиця Макіївська, 62"
+  "FullNameUA": "вулиця Макіївська, 62",
+  "ChildsIds": []
  },
  {
   "id": 163183,
@@ -1722,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2508970782,
   "lati": 49.9542457119,
-  "FullNameUA": "вулиця Макіївська, 63"
+  "FullNameUA": "вулиця Макіївська, 63",
+  "ChildsIds": []
  },
  {
   "id": 163184,
@@ -1745,9 +1840,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.249832394100004,
+  "longt": 36.2498323941,
   "lati": 49.9545439214,
-  "FullNameUA": "вулиця Макіївська, 64"
+  "FullNameUA": "вулиця Макіївська, 64",
+  "ChildsIds": []
  },
  {
   "id": 163185,
@@ -1772,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.250701652,
   "lati": 49.9542409012,
-  "FullNameUA": "вулиця Макіївська, 65"
+  "FullNameUA": "вулиця Макіївська, 65",
+  "ChildsIds": []
  },
  {
   "id": 163186,
@@ -1796,8 +1893,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.24955823,
-  "lati": 49.954510273100006,
-  "FullNameUA": "вулиця Макіївська, 66"
+  "lati": 49.9545102731,
+  "FullNameUA": "вулиця Макіївська, 66",
+  "ChildsIds": []
  },
  {
   "id": 163187,
@@ -1822,32 +1920,8 @@
   "reg_date": "",
   "longt": 36.250434362,
   "lati": 49.9542529113,
-  "FullNameUA": "вулиця Макіївська, 67"
- },
- {
-  "id": 163188,
-  "postcode": 61124,
-  "number": 68,
-  "suffix": "",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.249400351700004,
-  "lati": 49.9544944374,
-  "FullNameUA": "вулиця Макіївська, 68"
+  "FullNameUA": "вулиця Макіївська, 67",
+  "ChildsIds": []
  },
  {
   "id": 163189,
@@ -1870,9 +1944,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.249151913300004,
-  "lati": 49.954504961800005,
-  "FullNameUA": "вулиця Макіївська, 68-А"
+  "longt": 36.2491519133,
+  "lati": 49.9545049618,
+  "FullNameUA": "вулиця Макіївська, 68-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 163188,
+  "postcode": 61124,
+  "number": 68,
+  "suffix": "",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2494003517,
+  "lati": 49.9544944374,
+  "FullNameUA": "вулиця Макіївська, 68",
+  "ChildsIds": []
  },
  {
   "id": 163190,
@@ -1896,8 +1997,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2501836737,
-  "lati": 49.954255831000005,
-  "FullNameUA": "вулиця Макіївська, 69"
+  "lati": 49.954255831,
+  "FullNameUA": "вулиця Макіївська, 69",
+  "ChildsIds": []
  },
  {
   "id": 163191,
@@ -1922,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.2490634703,
   "lati": 49.9544183255,
-  "FullNameUA": "вулиця Макіївська, 70"
+  "FullNameUA": "вулиця Макіївська, 70",
+  "ChildsIds": []
  },
  {
   "id": 163192,
@@ -1947,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2499080807,
   "lati": 49.9542600619,
-  "FullNameUA": "вулиця Макіївська, 71"
+  "FullNameUA": "вулиця Макіївська, 71",
+  "ChildsIds": []
  },
  {
   "id": 163193,
@@ -1971,8 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2489154299,
-  "lati": 49.954372092700005,
-  "FullNameUA": "вулиця Макіївська, 72"
+  "lati": 49.9543720927,
+  "FullNameUA": "вулиця Макіївська, 72",
+  "ChildsIds": []
  },
  {
   "id": 163194,
@@ -1995,9 +2100,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.249617479200005,
+  "longt": 36.2496174792,
   "lati": 49.9542445124,
-  "FullNameUA": "вулиця Макіївська, 73"
+  "FullNameUA": "вулиця Макіївська, 73",
+  "ChildsIds": []
  },
  {
   "id": 163195,
@@ -2020,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.248764468800005,
-  "lati": 49.954269305900006,
-  "FullNameUA": "вулиця Макіївська, 74"
+  "longt": 36.2487644688,
+  "lati": 49.9542693059,
+  "FullNameUA": "вулиця Макіївська, 74",
+  "ChildsIds": []
  },
  {
   "id": 163196,
@@ -2045,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.249441127400004,
+  "longt": 36.2494411274,
   "lati": 49.9542226573,
-  "FullNameUA": "вулиця Макіївська, 75"
+  "FullNameUA": "вулиця Макіївська, 75",
+  "ChildsIds": []
  },
  {
   "id": 163197,
@@ -2071,8 +2179,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2486681129,
-  "lati": 49.954172461000006,
-  "FullNameUA": "вулиця Макіївська, 76"
+  "lati": 49.954172461,
+  "FullNameUA": "вулиця Макіївська, 76",
+  "ChildsIds": []
  },
  {
   "id": 163198,
@@ -2096,8 +2205,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2491999119,
-  "lati": 49.954203670300004,
-  "FullNameUA": "вулиця Макіївська, 77"
+  "lati": 49.9542036703,
+  "FullNameUA": "вулиця Макіївська, 77",
+  "ChildsIds": []
  },
  {
   "id": 163199,
@@ -2122,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.2485312274,
   "lati": 49.9540804604,
-  "FullNameUA": "вулиця Макіївська, 78"
+  "FullNameUA": "вулиця Макіївська, 78",
+  "ChildsIds": []
  },
  {
   "id": 163200,
@@ -2147,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2490216379,
   "lati": 49.9540932052,
-  "FullNameUA": "вулиця Макіївська, 79"
+  "FullNameUA": "вулиця Макіївська, 79",
+  "ChildsIds": []
  },
  {
   "id": 163201,
@@ -2172,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.2484254868,
   "lati": 49.9541658448,
-  "FullNameUA": "вулиця Макіївська, 80"
+  "FullNameUA": "вулиця Макіївська, 80",
+  "ChildsIds": []
  },
  {
   "id": 163202,
@@ -2195,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.248213964600005,
+  "longt": 36.2482139646,
   "lati": 49.9534834022,
-  "FullNameUA": "вулиця Макіївська, 81"
+  "FullNameUA": "вулиця Макіївська, 81",
+  "ChildsIds": []
  },
  {
   "id": 163203,
@@ -2222,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.2488188558,
   "lati": 49.9538799141,
-  "FullNameUA": "вулиця Макіївська, 81-А"
+  "FullNameUA": "вулиця Макіївська, 81-А",
+  "ChildsIds": []
  },
  {
   "id": 163204,
@@ -2247,32 +2362,8 @@
   "reg_date": "",
   "longt": 36.2482605479,
   "lati": 49.9538549445,
-  "FullNameUA": "вулиця Макіївська, 82"
- },
- {
-  "id": 163206,
-  "postcode": 61124,
-  "number": 83,
-  "suffix": "/3",
-  "block": "",
-  "streetid": 3190,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2477816661,
-  "lati": 49.953143040600004,
-  "FullNameUA": "вулиця Макіївська, 83/3"
+  "FullNameUA": "вулиця Макіївська, 82",
+  "ChildsIds": []
  },
  {
   "id": 163205,
@@ -2296,8 +2387,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2485641008,
-  "lati": 49.953665424700006,
-  "FullNameUA": "вулиця Макіївська, 83"
+  "lati": 49.9536654247,
+  "FullNameUA": "вулиця Макіївська, 83",
+  "ChildsIds": []
+ },
+ {
+  "id": 163206,
+  "postcode": 61124,
+  "number": 83,
+  "suffix": "/3",
+  "block": "",
+  "streetid": 3190,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2477816661,
+  "lati": 49.9531430406,
+  "FullNameUA": "вулиця Макіївська, 83/3",
+  "ChildsIds": []
  },
  {
   "id": 163208,
@@ -2320,9 +2438,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.248139576300005,
+  "longt": 36.2481395763,
   "lati": 49.9537521058,
-  "FullNameUA": "вулиця Макіївська, 84"
+  "FullNameUA": "вулиця Макіївська, 84",
+  "ChildsIds": []
  },
  {
   "id": 163207,
@@ -2346,8 +2465,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2478885131,
-  "lati": 49.953245872800004,
-  "FullNameUA": "вулиця Макіївська, 85"
+  "lati": 49.9532458728,
+  "FullNameUA": "вулиця Макіївська, 85",
+  "ChildsIds": []
  },
  {
   "id": 163209,
@@ -2371,8 +2491,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2478160553,
-  "lati": 49.953742727400005,
-  "FullNameUA": "вулиця Макіївська, 86"
+  "lati": 49.9537427274,
+  "FullNameUA": "вулиця Макіївська, 86",
+  "ChildsIds": []
  },
  {
   "id": 163210,
@@ -2395,9 +2516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.247868772400004,
+  "longt": 36.2478687724,
   "lati": 49.953584751,
-  "FullNameUA": "вулиця Макіївська, 88"
+  "FullNameUA": "вулиця Макіївська, 88",
+  "ChildsIds": []
  },
  {
   "id": 163211,
@@ -2420,9 +2542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.247709640500005,
-  "lati": 49.953467582600005,
-  "FullNameUA": "вулиця Макіївська, 90"
+  "longt": 36.2477096405,
+  "lati": 49.9534675826,
+  "FullNameUA": "вулиця Макіївська, 90",
+  "ChildsIds": []
  },
  {
   "id": 163212,
@@ -2446,7 +2569,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2474396327,
-  "lati": 49.953296891600004,
-  "FullNameUA": "вулиця Макіївська, 92/3"
+  "lati": 49.9532968916,
+  "FullNameUA": "вулиця Макіївська, 92/3",
+  "ChildsIds": []
  }
 ]

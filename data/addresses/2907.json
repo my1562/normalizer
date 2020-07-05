@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.1905992548,
   "lati": 49.9319419682,
-  "FullNameUA": "провулок Коксовий, 1"
- },
- {
-  "id": 150679,
-  "postcode": 61071,
-  "number": 1,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2907,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.188335375,
-  "lati": 49.9316364292,
-  "FullNameUA": "провулок Коксовий, 1-В"
+  "FullNameUA": "провулок Коксовий, 1",
+  "ChildsIds": []
  },
  {
   "id": 150680,
@@ -72,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1899720636,
   "lati": 49.9318326775,
-  "FullNameUA": "провулок Коксовий, 3"
+  "FullNameUA": "провулок Коксовий, 3",
+  "ChildsIds": []
  },
  {
   "id": 150681,
@@ -97,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1896462253,
   "lati": 49.9317869745,
-  "FullNameUA": "провулок Коксовий, 5"
+  "FullNameUA": "провулок Коксовий, 5",
+  "ChildsIds": []
  },
  {
   "id": 150682,
@@ -122,7 +100,34 @@
   "reg_date": "",
   "longt": 36.1893102834,
   "lati": 49.9317539092,
-  "FullNameUA": "провулок Коксовий, 7"
+  "FullNameUA": "провулок Коксовий, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 150679,
+  "postcode": 61071,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 2907,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 11:16:31",
+  "longt": 36.1882751362,
+  "lati": 49.9316358712,
+  "FullNameUA": "провулок Коксовий, 9",
+  "ChildsIds": []
  },
  {
   "id": 175550,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1897579992,
   "lati": 49.9321282597,
-  "FullNameUA": "провулок Коксовий, 13"
+  "FullNameUA": "провулок Коксовий, 13",
+  "ChildsIds": []
  },
  {
   "id": 175551,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.1900198122,
   "lati": 49.9321301053,
-  "FullNameUA": "провулок Коксовий, 15"
+  "FullNameUA": "провулок Коксовий, 15",
+  "ChildsIds": []
  },
  {
   "id": 175552,
@@ -197,6 +204,7 @@
   "reg_date": "",
   "longt": 36.1901807132,
   "lati": 49.9322820796,
-  "FullNameUA": "провулок Коксовий, 17"
+  "FullNameUA": "провулок Коксовий, 17",
+  "ChildsIds": []
  }
 ]

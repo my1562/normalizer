@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244313666900005,
+  "longt": 36.2443136669,
   "lati": 49.9751596609,
-  "FullNameUA": "вулиця Основ'янська, 1"
+  "FullNameUA": "вулиця Основ'янська, 1",
+  "ChildsIds": []
  },
  {
   "id": 164377,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.243970312,
   "lati": 49.9753530928,
-  "FullNameUA": "вулиця Основ'янська, 2"
+  "FullNameUA": "вулиця Основ'янська, 2",
+  "ChildsIds": []
  },
  {
   "id": 164378,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244047687000005,
+  "longt": 36.244047687,
   "lati": 49.9749912414,
-  "FullNameUA": "вулиця Основ'янська, 3"
+  "FullNameUA": "вулиця Основ'янська, 3",
+  "ChildsIds": []
  },
  {
   "id": 164379,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2436287234,
   "lati": 49.9752002009,
-  "FullNameUA": "вулиця Основ'янська, 4"
+  "FullNameUA": "вулиця Основ'янська, 4",
+  "ChildsIds": []
  },
  {
   "id": 164380,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243715968100005,
+  "longt": 36.2437159681,
   "lati": 49.9748019533,
-  "FullNameUA": "вулиця Основ'янська, 5"
+  "FullNameUA": "вулиця Основ'янська, 5",
+  "ChildsIds": []
  },
  {
   "id": 164381,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2438872437,
   "lati": 49.9747146698,
-  "FullNameUA": "вулиця Основ'янська, 5-А"
+  "FullNameUA": "вулиця Основ'янська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 164382,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2434111677,
   "lati": 49.9751586309,
-  "FullNameUA": "вулиця Основ'янська, 6"
+  "FullNameUA": "вулиця Основ'янська, 6",
+  "ChildsIds": []
  },
  {
   "id": 164383,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2434632831,
   "lati": 49.9747467663,
-  "FullNameUA": "вулиця Основ'янська, 7"
+  "FullNameUA": "вулиця Основ'янська, 7",
+  "ChildsIds": []
  },
  {
   "id": 164384,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243013458700005,
-  "lati": 49.974944347699996,
-  "FullNameUA": "вулиця Основ'янська, 8"
+  "longt": 36.2430134587,
+  "lati": 49.9749443477,
+  "FullNameUA": "вулиця Основ'янська, 8",
+  "ChildsIds": []
  },
  {
   "id": 164385,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2432884575,
   "lati": 49.9746483689,
-  "FullNameUA": "вулиця Основ'янська, 9"
+  "FullNameUA": "вулиця Основ'янська, 9",
+  "ChildsIds": []
  },
  {
   "id": 164386,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2428241776,
   "lati": 49.9748621122,
-  "FullNameUA": "вулиця Основ'янська, 10"
+  "FullNameUA": "вулиця Основ'янська, 10",
+  "ChildsIds": []
  },
  {
   "id": 164387,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2429873123,
   "lati": 49.9745087092,
-  "FullNameUA": "вулиця Основ'янська, 11"
+  "FullNameUA": "вулиця Основ'янська, 11",
+  "ChildsIds": []
  },
  {
   "id": 164388,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242692815800005,
-  "lati": 49.974812781299995,
-  "FullNameUA": "вулиця Основ'янська, 12"
+  "longt": 36.2426928158,
+  "lati": 49.9748127813,
+  "FullNameUA": "вулиця Основ'янська, 12",
+  "ChildsIds": []
  },
  {
   "id": 177533,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.242745443400004,
+  "longt": 36.2427454434,
   "lati": 49.9743845921,
-  "FullNameUA": "вулиця Основ'янська, 13"
+  "FullNameUA": "вулиця Основ'янська, 13",
+  "ChildsIds": []
  },
  {
   "id": 164389,
@@ -372,7 +386,34 @@
   "reg_date": "",
   "longt": 36.2419138443,
   "lati": 49.9738833411,
-  "FullNameUA": "вулиця Основ'янська, 17"
+  "FullNameUA": "вулиця Основ'янська, 17",
+  "ChildsIds": []
+ },
+ {
+  "id": 164390,
+  "postcode": 61010,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2417714007,
+  "lati": 49.9742803788,
+  "FullNameUA": "вулиця Основ'янська, 18",
+  "ChildsIds": []
  },
  {
   "id": 164391,
@@ -397,32 +438,8 @@
   "reg_date": "",
   "longt": 36.2416922978,
   "lati": 49.974366671,
-  "FullNameUA": "вулиця Основ'янська, 18-А"
- },
- {
-  "id": 164390,
-  "postcode": 61010,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2417714007,
-  "lati": 49.974280378799996,
-  "FullNameUA": "вулиця Основ'янська, 18"
+  "FullNameUA": "вулиця Основ'янська, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 164392,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2415994608,
   "lati": 49.9737063891,
-  "FullNameUA": "вулиця Основ'янська, 19"
+  "FullNameUA": "вулиця Основ'янська, 19",
+  "ChildsIds": []
  },
  {
   "id": 164393,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2416395559,
   "lati": 49.9742013574,
-  "FullNameUA": "вулиця Основ'янська, 20"
+  "FullNameUA": "вулиця Основ'янська, 20",
+  "ChildsIds": []
  },
  {
   "id": 164394,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2415001983,
   "lati": 49.9741224633,
-  "FullNameUA": "вулиця Основ'янська, 22"
+  "FullNameUA": "вулиця Основ'янська, 22",
+  "ChildsIds": []
  },
  {
   "id": 164395,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2406062339,
   "lati": 49.973027942,
-  "FullNameUA": "вулиця Основ'янська, 23"
+  "FullNameUA": "вулиця Основ'янська, 23",
+  "ChildsIds": []
  },
  {
   "id": 164396,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2412697233,
   "lati": 49.9739347287,
-  "FullNameUA": "вулиця Основ'янська, 24"
+  "FullNameUA": "вулиця Основ'янська, 24",
+  "ChildsIds": []
  },
  {
   "id": 164397,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240398958700005,
+  "longt": 36.2403989587,
   "lati": 49.9728955655,
-  "FullNameUA": "вулиця Основ'янська, 25"
+  "FullNameUA": "вулиця Основ'янська, 25",
+  "ChildsIds": []
  },
  {
   "id": 164398,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2402920175,
   "lati": 49.9727702012,
-  "FullNameUA": "вулиця Основ'янська, 27"
+  "FullNameUA": "вулиця Основ'янська, 27",
+  "ChildsIds": []
  },
  {
   "id": 164399,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2407530738,
-  "lati": 49.973595873499995,
-  "FullNameUA": "вулиця Основ'янська, 28"
+  "lati": 49.9735958735,
+  "FullNameUA": "вулиця Основ'янська, 28",
+  "ChildsIds": []
  },
  {
   "id": 164400,
@@ -647,32 +672,8 @@
   "reg_date": "",
   "longt": 36.2404856983,
   "lati": 49.9733794661,
-  "FullNameUA": "вулиця Основ'янська, 30"
- },
- {
-  "id": 164401,
-  "postcode": 61010,
-  "number": 32,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.240315342900004,
-  "lati": 49.9732648162,
-  "FullNameUA": "вулиця Основ'янська, 32"
+  "FullNameUA": "вулиця Основ'янська, 30",
+  "ChildsIds": []
  },
  {
   "id": 164402,
@@ -695,15 +696,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239885095000005,
+  "longt": 36.239885095,
   "lati": 49.9736050382,
-  "FullNameUA": "вулиця Основ'янська, 32-Б"
+  "FullNameUA": "вулиця Основ'янська, 32-Б",
+  "ChildsIds": []
  },
  {
-  "id": 164404,
+  "id": 164401,
   "postcode": 61010,
-  "number": 34,
-  "suffix": "Б",
+  "number": 32,
+  "suffix": "",
   "block": "",
   "streetid": 3507,
   "status_id": 1,
@@ -720,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2396992437,
-  "lati": 49.9732372026,
-  "FullNameUA": "вулиця Основ'янська, 34-Б"
+  "longt": 36.2403153429,
+  "lati": 49.9732648162,
+  "FullNameUA": "вулиця Основ'янська, 32",
+  "ChildsIds": []
  },
  {
   "id": 164403,
@@ -747,13 +750,14 @@
   "reg_date": "",
   "longt": 36.2399979591,
   "lati": 49.973054346,
-  "FullNameUA": "вулиця Основ'янська, 34"
+  "FullNameUA": "вулиця Основ'янська, 34",
+  "ChildsIds": []
  },
  {
-  "id": 164406,
+  "id": 164404,
   "postcode": 61010,
-  "number": 36,
-  "suffix": "А",
+  "number": 34,
+  "suffix": "Б",
   "block": "",
   "streetid": 3507,
   "status_id": 1,
@@ -770,9 +774,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239101530400006,
-  "lati": 49.9730432402,
-  "FullNameUA": "вулиця Основ'янська, 36-А"
+  "longt": 36.2396992437,
+  "lati": 49.9732372026,
+  "FullNameUA": "вулиця Основ'янська, 34-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 164407,
+  "postcode": 61010,
+  "number": 36,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2394681487,
+  "lati": 49.9730131426,
+  "FullNameUA": "вулиця Основ'янська, 36-Б",
+  "ChildsIds": []
  },
  {
   "id": 164405,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239762491600004,
+  "longt": 36.2397624916,
   "lati": 49.9728767731,
-  "FullNameUA": "вулиця Основ'янська, 36"
+  "FullNameUA": "вулиця Основ'янська, 36",
+  "ChildsIds": []
  },
  {
   "id": 164408,
@@ -821,14 +853,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2389498984,
-  "lati": 49.973174288399996,
-  "FullNameUA": "вулиця Основ'янська, 36-В"
+  "lati": 49.9731742884,
+  "FullNameUA": "вулиця Основ'янська, 36-В",
+  "ChildsIds": []
  },
  {
-  "id": 164407,
+  "id": 164406,
   "postcode": 61010,
   "number": 36,
-  "suffix": "Б",
+  "suffix": "А",
   "block": "",
   "streetid": 3507,
   "status_id": 1,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239468148700006,
-  "lati": 49.973013142599996,
-  "FullNameUA": "вулиця Основ'янська, 36-Б"
+  "longt": 36.2391015304,
+  "lati": 49.9730432402,
+  "FullNameUA": "вулиця Основ'янська, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 164409,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23950157670001,
+  "longt": 36.2395015767,
   "lati": 49.9727070734,
-  "FullNameUA": "вулиця Основ'янська, 38"
+  "FullNameUA": "вулиця Основ'янська, 38",
+  "ChildsIds": []
  },
  {
   "id": 164410,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238380976200006,
+  "longt": 36.2383809762,
   "lati": 49.9715373832,
-  "FullNameUA": "вулиця Основ'янська, 39"
+  "FullNameUA": "вулиця Основ'янська, 39",
+  "ChildsIds": []
  },
  {
   "id": 164411,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2392854873,
   "lati": 49.9725718185,
-  "FullNameUA": "вулиця Основ'янська, 40"
+  "FullNameUA": "вулиця Основ'янська, 40",
+  "ChildsIds": []
  },
  {
   "id": 164412,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23797660940001,
+  "longt": 36.2379766094,
   "lati": 49.9713610721,
-  "FullNameUA": "вулиця Основ'янська, 41"
+  "FullNameUA": "вулиця Основ'янська, 41",
+  "ChildsIds": []
  },
  {
   "id": 164413,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239139029200004,
+  "longt": 36.2391390292,
   "lati": 49.9724373604,
-  "FullNameUA": "вулиця Основ'янська, 42"
+  "FullNameUA": "вулиця Основ'янська, 42",
+  "ChildsIds": []
  },
  {
   "id": 164414,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2377474174,
   "lati": 49.9712901558,
-  "FullNameUA": "вулиця Основ'янська, 43"
+  "FullNameUA": "вулиця Основ'янська, 43",
+  "ChildsIds": []
  },
  {
   "id": 164415,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2389641875,
   "lati": 49.9723308834,
-  "FullNameUA": "вулиця Основ'янська, 44"
+  "FullNameUA": "вулиця Основ'янська, 44",
+  "ChildsIds": []
  },
  {
   "id": 164416,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2373054509,
   "lati": 49.9711801897,
-  "FullNameUA": "вулиця Основ'янська, 45"
+  "FullNameUA": "вулиця Основ'янська, 45",
+  "ChildsIds": []
  },
  {
   "id": 164417,
@@ -1072,32 +1114,8 @@
   "reg_date": "",
   "longt": 36.2386730081,
   "lati": 49.9721112839,
-  "FullNameUA": "вулиця Основ'янська, 46"
- },
- {
-  "id": 164418,
-  "postcode": 61010,
-  "number": 49,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23710130920001,
-  "lati": 49.9710675538,
-  "FullNameUA": "вулиця Основ'янська, 49"
+  "FullNameUA": "вулиця Основ'янська, 46",
+  "ChildsIds": []
  },
  {
   "id": 164419,
@@ -1120,9 +1138,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23706537700001,
+  "longt": 36.237065377,
   "lati": 49.9708873154,
-  "FullNameUA": "вулиця Основ'янська, 49-А"
+  "FullNameUA": "вулиця Основ'янська, 49-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 164418,
+  "postcode": 61010,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2371013092,
+  "lati": 49.9710675538,
+  "FullNameUA": "вулиця Основ'янська, 49",
+  "ChildsIds": []
  },
  {
   "id": 164420,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236708236700004,
+  "longt": 36.2367082367,
   "lati": 49.9709784944,
-  "FullNameUA": "вулиця Основ'янська, 51"
+  "FullNameUA": "вулиця Основ'янська, 51",
+  "ChildsIds": []
  },
  {
   "id": 164421,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237583428700006,
+  "longt": 36.2375834287,
   "lati": 49.9719988214,
-  "FullNameUA": "вулиця Основ'янська, 52"
+  "FullNameUA": "вулиця Основ'янська, 52",
+  "ChildsIds": []
  },
  {
   "id": 164422,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237417191700004,
+  "longt": 36.2374171917,
   "lati": 49.9718683881,
-  "FullNameUA": "вулиця Основ'янська, 54"
+  "FullNameUA": "вулиця Основ'янська, 54",
+  "ChildsIds": []
  },
  {
   "id": 164423,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2352653087,
-  "lati": 49.970464881299996,
-  "FullNameUA": "вулиця Основ'янська, 55"
+  "lati": 49.9704648813,
+  "FullNameUA": "вулиця Основ'янська, 55",
+  "ChildsIds": []
  },
  {
   "id": 164424,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237036139800004,
+  "longt": 36.2370361398,
   "lati": 49.971689217,
-  "FullNameUA": "вулиця Основ'янська, 56"
+  "FullNameUA": "вулиця Основ'янська, 56",
+  "ChildsIds": []
  },
  {
   "id": 164425,
@@ -1270,9 +1320,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233968884300005,
+  "longt": 36.2339688843,
   "lati": 49.9701330228,
-  "FullNameUA": "вулиця Основ'янська, 57"
+  "FullNameUA": "вулиця Основ'янська, 57",
+  "ChildsIds": []
  },
  {
   "id": 164426,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237071464100005,
+  "longt": 36.2370714641,
   "lati": 49.9713602513,
-  "FullNameUA": "вулиця Основ'янська, 58"
+  "FullNameUA": "вулиця Основ'янська, 58",
+  "ChildsIds": []
  },
  {
   "id": 164427,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232928769400004,
+  "longt": 36.2329287694,
   "lati": 49.9699306194,
-  "FullNameUA": "вулиця Основ'янська, 59"
+  "FullNameUA": "вулиця Основ'янська, 59",
+  "ChildsIds": []
  },
  {
   "id": 164428,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23677508390001,
+  "longt": 36.2367750839,
   "lati": 49.9712811378,
-  "FullNameUA": "вулиця Основ'янська, 60"
+  "FullNameUA": "вулиця Основ'янська, 60",
+  "ChildsIds": []
  },
  {
   "id": 164429,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.232576934,
   "lati": 49.9699540303,
-  "FullNameUA": "вулиця Основ'янська, 61"
+  "FullNameUA": "вулиця Основ'янська, 61",
+  "ChildsIds": []
  },
  {
   "id": 164430,
@@ -1397,32 +1452,8 @@
   "reg_date": "",
   "longt": 36.2364843455,
   "lati": 49.9711640275,
-  "FullNameUA": "вулиця Основ'янська, 62"
- },
- {
-  "id": 164432,
-  "postcode": 61010,
-  "number": 63,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.232377142500006,
-  "lati": 49.9695663021,
-  "FullNameUA": "вулиця Основ'янська, 63-А"
+  "FullNameUA": "вулиця Основ'янська, 62",
+  "ChildsIds": []
  },
  {
   "id": 164431,
@@ -1447,13 +1478,14 @@
   "reg_date": "",
   "longt": 36.2322989707,
   "lati": 49.969896559,
-  "FullNameUA": "вулиця Основ'янська, 63"
+  "FullNameUA": "вулиця Основ'янська, 63",
+  "ChildsIds": []
  },
  {
-  "id": 177525,
+  "id": 164432,
   "postcode": 61010,
-  "number": 64,
-  "suffix": "",
+  "number": 63,
+  "suffix": "А",
   "block": "",
   "streetid": 3507,
   "status_id": 1,
@@ -1468,11 +1500,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2360413899,
-  "lati": 49.9710581243,
-  "FullNameUA": "вулиця Основ'янська, 64"
+  "longt": 36.2323771425,
+  "lati": 49.9695663021,
+  "FullNameUA": "вулиця Основ'янська, 63-А",
+  "ChildsIds": []
  },
  {
   "id": 164433,
@@ -1497,12 +1530,13 @@
   "reg_date": "",
   "longt": 36.23774376,
   "lati": 49.9716371619,
-  "FullNameUA": "вулиця Основ'янська, 64-А"
+  "FullNameUA": "вулиця Основ'янська, 64-А",
+  "ChildsIds": []
  },
  {
-  "id": 164434,
+  "id": 177525,
   "postcode": 61010,
-  "number": 65,
+  "number": 64,
   "suffix": "",
   "block": "",
   "streetid": 3507,
@@ -1518,11 +1552,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "",
+  "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.232113762500006,
-  "lati": 49.9695987817,
-  "FullNameUA": "вулиця Основ'янська, 65"
+  "longt": 36.2360413899,
+  "lati": 49.9710581243,
+  "FullNameUA": "вулиця Основ'янська, 64",
+  "ChildsIds": []
  },
  {
   "id": 164435,
@@ -1547,7 +1582,34 @@
   "reg_date": "",
   "longt": 36.2320497254,
   "lati": 49.9698455134,
-  "FullNameUA": "вулиця Основ'янська, 65-А"
+  "FullNameUA": "вулиця Основ'янська, 65-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 164434,
+  "postcode": 61010,
+  "number": 65,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2321137625,
+  "lati": 49.9695987817,
+  "FullNameUA": "вулиця Основ'янська, 65",
+  "ChildsIds": []
  },
  {
   "id": 164436,
@@ -1570,9 +1632,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235701037000005,
+  "longt": 36.235701037,
   "lati": 49.9709347388,
-  "FullNameUA": "вулиця Основ'янська, 66"
+  "FullNameUA": "вулиця Основ'янська, 66",
+  "ChildsIds": []
  },
  {
   "id": 164437,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2317465097,
   "lati": 49.9697919065,
-  "FullNameUA": "вулиця Основ'янська, 67"
+  "FullNameUA": "вулиця Основ'янська, 67",
+  "ChildsIds": []
  },
  {
   "id": 164438,
@@ -1620,34 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235375120600004,
+  "longt": 36.2353751206,
   "lati": 49.9708708395,
-  "FullNameUA": "вулиця Основ'янська, 68"
- },
- {
-  "id": 164439,
-  "postcode": 61010,
-  "number": 69,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.231453716800004,
-  "lati": 49.969750994500004,
-  "FullNameUA": "вулиця Основ'янська, 69"
+  "FullNameUA": "вулиця Основ'янська, 68",
+  "ChildsIds": []
  },
  {
   "id": 164440,
@@ -1670,9 +1710,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231245444500004,
+  "longt": 36.2312454445,
   "lati": 49.9694416841,
-  "FullNameUA": "вулиця Основ'янська, 69-А"
+  "FullNameUA": "вулиця Основ'янська, 69-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 164439,
+  "postcode": 61010,
+  "number": 69,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2314537168,
+  "lati": 49.9697509945,
+  "FullNameUA": "вулиця Основ'янська, 69",
+  "ChildsIds": []
  },
  {
   "id": 164441,
@@ -1695,9 +1762,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23500170530001,
+  "longt": 36.2350017053,
   "lati": 49.9707667901,
-  "FullNameUA": "вулиця Основ'янська, 70/12"
+  "FullNameUA": "вулиця Основ'янська, 70/12",
+  "ChildsIds": []
  },
  {
   "id": 177526,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.231024933,
   "lati": 49.9697118442,
-  "FullNameUA": "вулиця Основ'янська, 71"
+  "FullNameUA": "вулиця Основ'янська, 71",
+  "ChildsIds": []
  },
  {
   "id": 164442,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2346545238,
   "lati": 49.9706660991,
-  "FullNameUA": "вулиця Основ'янська, 72"
+  "FullNameUA": "вулиця Основ'янська, 72",
+  "ChildsIds": []
  },
  {
   "id": 164443,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2301873007,
   "lati": 49.9695741884,
-  "FullNameUA": "вулиця Основ'янська, 73"
+  "FullNameUA": "вулиця Основ'янська, 73",
+  "ChildsIds": []
  },
  {
   "id": 177527,
@@ -1795,34 +1866,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.234226097500006,
+  "longt": 36.2342260975,
   "lati": 49.9710764457,
-  "FullNameUA": "вулиця Основ'янська, 74"
- },
- {
-  "id": 164444,
-  "postcode": 61010,
-  "number": 75,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2301186811,
-  "lati": 49.9693672359,
-  "FullNameUA": "вулиця Основ'янська, 75"
+  "FullNameUA": "вулиця Основ'янська, 74",
+  "ChildsIds": []
  },
  {
   "id": 164445,
@@ -1847,7 +1894,34 @@
   "reg_date": "",
   "longt": 36.2299591727,
   "lati": 49.9692402954,
-  "FullNameUA": "вулиця Основ'янська, 75-А"
+  "FullNameUA": "вулиця Основ'янська, 75-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 164444,
+  "postcode": 61010,
+  "number": 75,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2301186811,
+  "lati": 49.9693672359,
+  "FullNameUA": "вулиця Основ'янська, 75",
+  "ChildsIds": []
  },
  {
   "id": 164446,
@@ -1870,9 +1944,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23410525680001,
-  "lati": 49.970546284899996,
-  "FullNameUA": "вулиця Основ'янська, 76"
+  "longt": 36.2341052568,
+  "lati": 49.9705462849,
+  "FullNameUA": "вулиця Основ'янська, 76",
+  "ChildsIds": []
  },
  {
   "id": 164447,
@@ -1897,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.2295133217,
   "lati": 49.9694536143,
-  "FullNameUA": "вулиця Основ'янська, 77"
+  "FullNameUA": "вулиця Основ'янська, 77",
+  "ChildsIds": []
  },
  {
   "id": 164448,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23392820790001,
+  "longt": 36.2339282079,
   "lati": 49.9704881622,
-  "FullNameUA": "вулиця Основ'янська, 78/13"
+  "FullNameUA": "вулиця Основ'янська, 78/13",
+  "ChildsIds": []
  },
  {
   "id": 164449,
@@ -1946,8 +2023,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.229058056,
-  "lati": 49.969391519700004,
-  "FullNameUA": "вулиця Основ'янська, 79"
+  "lati": 49.9693915197,
+  "FullNameUA": "вулиця Основ'янська, 79",
+  "ChildsIds": []
  },
  {
   "id": 164450,
@@ -1972,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2334760672,
   "lati": 49.9704100973,
-  "FullNameUA": "вулиця Основ'янська, 80/10"
+  "FullNameUA": "вулиця Основ'янська, 80/10",
+  "ChildsIds": []
  },
  {
   "id": 164451,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.2282260482,
   "lati": 49.9693525113,
-  "FullNameUA": "вулиця Основ'янська, 81"
+  "FullNameUA": "вулиця Основ'янська, 81",
+  "ChildsIds": []
  },
  {
   "id": 164452,
@@ -2020,9 +2100,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233008670800004,
-  "lati": 49.970308070499996,
-  "FullNameUA": "вулиця Основ'янська, 82"
+  "longt": 36.2330086708,
+  "lati": 49.9703080705,
+  "FullNameUA": "вулиця Основ'янська, 82",
+  "ChildsIds": []
  },
  {
   "id": 164453,
@@ -2045,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227829129199996,
+  "longt": 36.2278291292,
   "lati": 49.969338069,
-  "FullNameUA": "вулиця Основ'янська, 83"
+  "FullNameUA": "вулиця Основ'янська, 83",
+  "ChildsIds": []
  },
  {
   "id": 164454,
@@ -2071,8 +2153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.232732411,
-  "lati": 49.970258750999996,
-  "FullNameUA": "вулиця Основ'янська, 84"
+  "lati": 49.970258751,
+  "FullNameUA": "вулиця Основ'янська, 84",
+  "ChildsIds": []
  },
  {
   "id": 164455,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.2273744587,
   "lati": 49.969295607,
-  "FullNameUA": "вулиця Основ'янська, 85"
+  "FullNameUA": "вулиця Основ'янська, 85",
+  "ChildsIds": []
  },
  {
   "id": 164456,
@@ -2120,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232425910900005,
+  "longt": 36.2324259109,
   "lati": 49.9702149491,
-  "FullNameUA": "вулиця Основ'янська, 86"
+  "FullNameUA": "вулиця Основ'янська, 86",
+  "ChildsIds": []
  },
  {
   "id": 177529,
@@ -2146,8 +2231,9 @@
   "confrm": "фото гугл-карта",
   "reg_date": "",
   "longt": 36.2268871734,
-  "lati": 49.969296501500004,
-  "FullNameUA": "вулиця Основ'янська, 87"
+  "lati": 49.9692965015,
+  "FullNameUA": "вулиця Основ'янська, 87",
+  "ChildsIds": []
  },
  {
   "id": 164457,
@@ -2172,7 +2258,8 @@
   "reg_date": "",
   "longt": 36.2321335357,
   "lati": 49.9701569361,
-  "FullNameUA": "вулиця Основ'янська, 88"
+  "FullNameUA": "вулиця Основ'янська, 88",
+  "ChildsIds": []
  },
  {
   "id": 164458,
@@ -2197,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.2264802921,
   "lati": 49.9692289023,
-  "FullNameUA": "вулиця Основ'янська, 89/2"
+  "FullNameUA": "вулиця Основ'янська, 89/2",
+  "ChildsIds": []
  },
  {
   "id": 164459,
@@ -2220,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231621031900005,
-  "lati": 49.970064610499996,
-  "FullNameUA": "вулиця Основ'янська, 90"
+  "longt": 36.2316210319,
+  "lati": 49.9700646105,
+  "FullNameUA": "вулиця Основ'янська, 90",
+  "ChildsIds": []
  },
  {
   "id": 164460,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.2261476858,
   "lati": 49.9692077691,
-  "FullNameUA": "вулиця Основ'янська, 91"
+  "FullNameUA": "вулиця Основ'янська, 91",
+  "ChildsIds": []
  },
  {
   "id": 164461,
@@ -2272,7 +2362,8 @@
   "reg_date": "",
   "longt": 36.2307811299,
   "lati": 49.9699366938,
-  "FullNameUA": "вулиця Основ'янська, 92"
+  "FullNameUA": "вулиця Основ'янська, 92",
+  "ChildsIds": []
  },
  {
   "id": 164462,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.2258942402,
   "lati": 49.9691732826,
-  "FullNameUA": "вулиця Основ'янська, 93"
+  "FullNameUA": "вулиця Основ'янська, 93",
+  "ChildsIds": []
  },
  {
   "id": 165106,
@@ -2322,7 +2414,8 @@
   "reg_date": "",
   "longt": 36.2302750408,
   "lati": 49.9699634233,
-  "FullNameUA": "вулиця Основ'янська, 94"
+  "FullNameUA": "вулиця Основ'янська, 94",
+  "ChildsIds": []
  },
  {
   "id": 164463,
@@ -2347,7 +2440,8 @@
   "reg_date": "",
   "longt": 36.2256230151,
   "lati": 49.9691590357,
-  "FullNameUA": "вулиця Основ'янська, 95"
+  "FullNameUA": "вулиця Основ'янська, 95",
+  "ChildsIds": []
  },
  {
   "id": 164464,
@@ -2372,7 +2466,34 @@
   "reg_date": "",
   "longt": 36.2298014839,
   "lati": 49.9698256981,
-  "FullNameUA": "вулиця Основ'янська, 96"
+  "FullNameUA": "вулиця Основ'янська, 96",
+  "ChildsIds": []
+ },
+ {
+  "id": 177532,
+  "postcode": 61010,
+  "number": 97,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.2253307617,
+  "lati": 49.9690916445,
+  "FullNameUA": "вулиця Основ'янська, 97",
+  "ChildsIds": []
  },
  {
   "id": 164465,
@@ -2397,32 +2518,8 @@
   "reg_date": "",
   "longt": 36.2251533403,
   "lati": 49.9691427222,
-  "FullNameUA": "вулиця Основ'янська, 97/1"
- },
- {
-  "id": 177532,
-  "postcode": 61010,
-  "number": 97,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.2253307617,
-  "lati": 49.969091644500004,
-  "FullNameUA": "вулиця Основ'янська, 97"
+  "FullNameUA": "вулиця Основ'янська, 97/1",
+  "ChildsIds": []
  },
  {
   "id": 164466,
@@ -2447,7 +2544,8 @@
   "reg_date": "",
   "longt": 36.2294289447,
   "lati": 49.9697722747,
-  "FullNameUA": "вулиця Основ'янська, 98"
+  "FullNameUA": "вулиця Основ'янська, 98",
+  "ChildsIds": []
  },
  {
   "id": 164467,
@@ -2472,7 +2570,8 @@
   "reg_date": "",
   "longt": 36.2291520208,
   "lati": 49.969744184,
-  "FullNameUA": "вулиця Основ'янська, 100"
+  "FullNameUA": "вулиця Основ'янська, 100",
+  "ChildsIds": []
  },
  {
   "id": 164468,
@@ -2495,9 +2594,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.224728626099996,
+  "longt": 36.2247286261,
   "lati": 49.969112372,
-  "FullNameUA": "вулиця Основ'янська, 101"
+  "FullNameUA": "вулиця Основ'янська, 101",
+  "ChildsIds": []
  },
  {
   "id": 164469,
@@ -2522,7 +2622,8 @@
   "reg_date": "",
   "longt": 36.2288702457,
   "lati": 49.9697301861,
-  "FullNameUA": "вулиця Основ'янська, 102"
+  "FullNameUA": "вулиця Основ'янська, 102",
+  "ChildsIds": []
  },
  {
   "id": 164470,
@@ -2547,7 +2648,8 @@
   "reg_date": "",
   "longt": 36.2233863489,
   "lati": 49.9692840414,
-  "FullNameUA": "вулиця Основ'янська, 103"
+  "FullNameUA": "вулиця Основ'янська, 103",
+  "ChildsIds": []
  },
  {
   "id": 164472,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.2286967972,
   "lati": 49.969892706,
-  "FullNameUA": "вулиця Основ'янська, 104-А"
+  "FullNameUA": "вулиця Основ'янська, 104-А",
+  "ChildsIds": []
  },
  {
   "id": 164471,
@@ -2596,8 +2699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2285676033,
-  "lati": 49.969696491200004,
-  "FullNameUA": "вулиця Основ'янська, 104"
+  "lati": 49.9696964912,
+  "FullNameUA": "вулиця Основ'янська, 104",
+  "ChildsIds": []
  },
  {
   "id": 164473,
@@ -2622,7 +2726,8 @@
   "reg_date": "",
   "longt": 36.2281985014,
   "lati": 49.9702020071,
-  "FullNameUA": "вулиця Основ'янська, 106"
+  "FullNameUA": "вулиця Основ'янська, 106",
+  "ChildsIds": []
  },
  {
   "id": 164474,
@@ -2645,9 +2750,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227644678299995,
+  "longt": 36.2276446783,
   "lati": 49.9695881076,
-  "FullNameUA": "вулиця Основ'янська, 108"
+  "FullNameUA": "вулиця Основ'янська, 108",
+  "ChildsIds": []
  },
  {
   "id": 164475,
@@ -2670,9 +2776,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.227399268199996,
+  "longt": 36.2273992682,
   "lati": 49.9695632806,
-  "FullNameUA": "вулиця Основ'янська, 110"
+  "FullNameUA": "вулиця Основ'янська, 110",
+  "ChildsIds": []
  },
  {
   "id": 164476,
@@ -2697,7 +2804,8 @@
   "reg_date": "",
   "longt": 36.2270805598,
   "lati": 49.9695522607,
-  "FullNameUA": "вулиця Основ'янська, 112"
+  "FullNameUA": "вулиця Основ'янська, 112",
+  "ChildsIds": []
  },
  {
   "id": 164477,
@@ -2722,7 +2830,8 @@
   "reg_date": "",
   "longt": 36.2267375165,
   "lati": 49.9695454963,
-  "FullNameUA": "вулиця Основ'янська, 114"
+  "FullNameUA": "вулиця Основ'янська, 114",
+  "ChildsIds": []
  },
  {
   "id": 164478,
@@ -2747,32 +2856,8 @@
   "reg_date": "",
   "longt": 36.2263950662,
   "lati": 49.969517667,
-  "FullNameUA": "вулиця Основ'янська, 116"
- },
- {
-  "id": 164480,
-  "postcode": 61010,
-  "number": 118,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2262422234,
-  "lati": 49.9695017714,
-  "FullNameUA": "вулиця Основ'янська, 118-А"
+  "FullNameUA": "вулиця Основ'янська, 116",
+  "ChildsIds": []
  },
  {
   "id": 164479,
@@ -2797,7 +2882,34 @@
   "reg_date": "",
   "longt": 36.2260435899,
   "lati": 49.9694951694,
-  "FullNameUA": "вулиця Основ'янська, 118"
+  "FullNameUA": "вулиця Основ'янська, 118",
+  "ChildsIds": []
+ },
+ {
+  "id": 164480,
+  "postcode": 61010,
+  "number": 118,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2262422234,
+  "lati": 49.9695017714,
+  "FullNameUA": "вулиця Основ'янська, 118-А",
+  "ChildsIds": []
  },
  {
   "id": 164481,
@@ -2822,7 +2934,34 @@
   "reg_date": "",
   "longt": 36.2257667101,
   "lati": 49.9694759315,
-  "FullNameUA": "вулиця Основ'янська, 120"
+  "FullNameUA": "вулиця Основ'янська, 120",
+  "ChildsIds": []
+ },
+ {
+  "id": 164482,
+  "postcode": 61010,
+  "number": 122,
+  "suffix": "",
+  "block": "",
+  "streetid": 3507,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2254520286,
+  "lati": 49.9694465474,
+  "FullNameUA": "вулиця Основ'янська, 122",
+  "ChildsIds": []
  },
  {
   "id": 164483,
@@ -2847,32 +2986,8 @@
   "reg_date": "",
   "longt": 36.2255519501,
   "lati": 49.9696216085,
-  "FullNameUA": "вулиця Основ'янська, 122-А"
- },
- {
-  "id": 164482,
-  "postcode": 61010,
-  "number": 122,
-  "suffix": "",
-  "block": "",
-  "streetid": 3507,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.225452028599996,
-  "lati": 49.969446547400004,
-  "FullNameUA": "вулиця Основ'янська, 122"
+  "FullNameUA": "вулиця Основ'янська, 122-А",
+  "ChildsIds": []
  },
  {
   "id": 164484,
@@ -2895,9 +3010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.225312028299996,
-  "lati": 49.969557046700004,
-  "FullNameUA": "вулиця Основ'янська, 124"
+  "longt": 36.2253120283,
+  "lati": 49.9695570467,
+  "FullNameUA": "вулиця Основ'янська, 124",
+  "ChildsIds": []
  },
  {
   "id": 164485,
@@ -2922,7 +3038,8 @@
   "reg_date": "",
   "longt": 36.2251712703,
   "lati": 49.9694299765,
-  "FullNameUA": "вулиця Основ'янська, 126"
+  "FullNameUA": "вулиця Основ'янська, 126",
+  "ChildsIds": []
  },
  {
   "id": 164486,
@@ -2947,7 +3064,8 @@
   "reg_date": "",
   "longt": 36.22488166,
   "lati": 49.9694148663,
-  "FullNameUA": "вулиця Основ'янська, 128"
+  "FullNameUA": "вулиця Основ'янська, 128",
+  "ChildsIds": []
  },
  {
   "id": 164487,
@@ -2970,9 +3088,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.224701756099996,
+  "longt": 36.2247017561,
   "lati": 49.9694335213,
-  "FullNameUA": "вулиця Основ'янська, 130"
+  "FullNameUA": "вулиця Основ'янська, 130",
+  "ChildsIds": []
  },
  {
   "id": 164489,
@@ -2996,8 +3115,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2245238743,
-  "lati": 49.969411765400004,
-  "FullNameUA": "вулиця Основ'янська, 132-А"
+  "lati": 49.9694117654,
+  "FullNameUA": "вулиця Основ'янська, 132-А",
+  "ChildsIds": []
  },
  {
   "id": 164488,
@@ -3022,7 +3142,8 @@
   "reg_date": "",
   "longt": 36.2243754319,
   "lati": 49.9693774317,
-  "FullNameUA": "вулиця Основ'янська, 132"
+  "FullNameUA": "вулиця Основ'янська, 132",
+  "ChildsIds": []
  },
  {
   "id": 164490,
@@ -3046,8 +3167,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2237774964,
-  "lati": 49.969506981500004,
-  "FullNameUA": "вулиця Основ'янська, 134"
+  "lati": 49.9695069815,
+  "FullNameUA": "вулиця Основ'янська, 134",
+  "ChildsIds": []
  },
  {
   "id": 164491,
@@ -3072,6 +3194,7 @@
   "reg_date": "",
   "longt": 36.2234252285,
   "lati": 49.9696101687,
-  "FullNameUA": "вулиця Основ'янська, 136"
+  "FullNameUA": "вулиця Основ'янська, 136",
+  "ChildsIds": []
  }
 ]

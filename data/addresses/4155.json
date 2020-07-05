@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1626437672,
-  "lati": 49.953341731600005,
-  "FullNameUA": "вулиця Третя, 1"
+  "lati": 49.9533417316,
+  "FullNameUA": "вулиця Третя, 1",
+  "ChildsIds": []
  },
  {
   "id": 156329,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.162330260900006,
+  "longt": 36.1623302609,
   "lati": 49.9531124079,
-  "FullNameUA": "вулиця Третя, 3"
+  "FullNameUA": "вулиця Третя, 3",
+  "ChildsIds": []
  },
  {
   "id": 156330,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.162050914000005,
+  "longt": 36.162050914,
   "lati": 49.9528115247,
-  "FullNameUA": "вулиця Третя, 5"
+  "FullNameUA": "вулиця Третя, 5",
+  "ChildsIds": []
  },
  {
   "id": 156331,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.161987459900004,
+  "longt": 36.1619874599,
   "lati": 49.9523743433,
-  "FullNameUA": "вулиця Третя, 9-А"
+  "FullNameUA": "вулиця Третя, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 156332,
@@ -121,8 +125,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1611422896,
-  "lati": 49.952427118200006,
-  "FullNameUA": "вулиця Третя, 12"
+  "lati": 49.9524271182,
+  "FullNameUA": "вулиця Третя, 12",
+  "ChildsIds": []
  },
  {
   "id": 156333,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.160941124000004,
+  "longt": 36.160941124,
   "lati": 49.9522027642,
-  "FullNameUA": "вулиця Третя, 14"
+  "FullNameUA": "вулиця Третя, 14",
+  "ChildsIds": []
  },
  {
   "id": 156334,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16091218930001,
+  "longt": 36.1609121893,
   "lati": 49.9520596619,
-  "FullNameUA": "вулиця Третя, 16"
+  "FullNameUA": "вулиця Третя, 16",
+  "ChildsIds": []
  },
  {
   "id": 156335,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.160738082900004,
-  "lati": 49.951920100900004,
-  "FullNameUA": "вулиця Третя, 18"
+  "longt": 36.1607380829,
+  "lati": 49.9519201009,
+  "FullNameUA": "вулиця Третя, 18",
+  "ChildsIds": []
  },
  {
   "id": 156336,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1606325038,
-  "lati": 49.951831692000006,
-  "FullNameUA": "вулиця Третя, 20"
+  "lati": 49.951831692,
+  "FullNameUA": "вулиця Третя, 20",
+  "ChildsIds": []
  },
  {
   "id": 156337,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1604770826,
-  "lati": 49.951770938100005,
-  "FullNameUA": "вулиця Третя, 22"
+  "lati": 49.9517709381,
+  "FullNameUA": "вулиця Третя, 22",
+  "ChildsIds": []
  },
  {
   "id": 156338,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "сусід, землевпорядна документація",
   "reg_date": "",
-  "longt": 36.160388102400006,
-  "lati": 49.951620013100005,
-  "FullNameUA": "вулиця Третя, 24"
+  "longt": 36.1603881024,
+  "lati": 49.9516200131,
+  "FullNameUA": "вулиця Третя, 24",
+  "ChildsIds": []
  },
  {
   "id": 156340,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.159912616199996,
+  "longt": 36.1599126162,
   "lati": 49.9517014989,
-  "FullNameUA": "вулиця Третя, 26-А"
+  "FullNameUA": "вулиця Третя, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 156339,
@@ -322,7 +334,34 @@
   "reg_date": "",
   "longt": 36.1601522432,
   "lati": 49.9516453154,
-  "FullNameUA": "вулиця Третя, 26"
+  "FullNameUA": "вулиця Третя, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 156343,
+  "postcode": 61020,
+  "number": 28,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4155,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Жовтневої райради № 17-22, 03.03.2009",
+  "reg_date": "02.04.2019 09:51:17",
+  "longt": 36.1594857413,
+  "lati": 49.9515715403,
+  "FullNameUA": "вулиця Третя, 28-В",
+  "ChildsIds": []
  },
  {
   "id": 156341,
@@ -346,33 +385,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1601351202,
-  "lati": 49.951444267300005,
-  "FullNameUA": "вулиця Третя, 28"
- },
- {
-  "id": 156343,
-  "postcode": 61020,
-  "number": 28,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4155,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Жовтневої райради № 17-22, 03.03.2009",
-  "reg_date": "02.04.2019 09:51:17",
-  "longt": 36.159485741299996,
-  "lati": 49.9515715403,
-  "FullNameUA": "вулиця Третя, 28-В"
+  "lati": 49.9514442673,
+  "FullNameUA": "вулиця Третя, 28",
+  "ChildsIds": []
  },
  {
   "id": 156342,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.159761063299996,
-  "lati": 49.951594487200005,
-  "FullNameUA": "вулиця Третя, 28-А"
+  "longt": 36.1597610633,
+  "lati": 49.9515944872,
+  "FullNameUA": "вулиця Третя, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 156344,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.160015423400004,
-  "lati": 49.951250799300006,
-  "FullNameUA": "вулиця Третя, 30"
+  "longt": 36.1600154234,
+  "lati": 49.9512507993,
+  "FullNameUA": "вулиця Третя, 30",
+  "ChildsIds": []
  },
  {
   "id": 156345,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1596316152,
-  "lati": 49.951192879400004,
-  "FullNameUA": "вулиця Третя, 30-А"
+  "lati": 49.9511928794,
+  "FullNameUA": "вулиця Третя, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 156346,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1594972828,
   "lati": 49.9512401617,
-  "FullNameUA": "вулиця Третя, 32"
+  "FullNameUA": "вулиця Третя, 32",
+  "ChildsIds": []
  },
  {
   "id": 156347,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1591711366,
-  "lati": 49.951335623000006,
-  "FullNameUA": "вулиця Третя, 34"
+  "lati": 49.951335623,
+  "FullNameUA": "вулиця Третя, 34",
+  "ChildsIds": []
  },
  {
   "id": 156348,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.158989358,
   "lati": 49.9511564632,
-  "FullNameUA": "вулиця Третя, 36"
+  "FullNameUA": "вулиця Третя, 36",
+  "ChildsIds": []
  },
  {
   "id": 156349,
@@ -546,7 +567,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1597529054,
-  "lati": 49.950978290500004,
-  "FullNameUA": "вулиця Третя, 38"
+  "lati": 49.9509782905,
+  "FullNameUA": "вулиця Третя, 38",
+  "ChildsIds": []
  }
 ]

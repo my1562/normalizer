@@ -20,9 +20,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.268276788099996,
+  "longt": 36.2682767881,
   "lati": 49.9947249851,
-  "FullNameUA": "вулиця Ново-Віринська, 1-Б"
+  "FullNameUA": "вулиця Ново-Віринська, 1-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 134194,
+  "postcode": 61013,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3090,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2685767642,
+  "lati": 49.9943924081,
+  "FullNameUA": "вулиця Ново-Віринська, 1",
+  "ChildsIds": []
  },
  {
   "id": 134195,
@@ -47,57 +74,8 @@
   "reg_date": "",
   "longt": 36.2684112762,
   "lati": 49.9942912638,
-  "FullNameUA": "вулиця Ново-Віринська, 1-А"
- },
- {
-  "id": 134194,
-  "postcode": 61013,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3090,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2685767642,
-  "lati": 49.994392408100005,
-  "FullNameUA": "вулиця Ново-Віринська, 1"
- },
- {
-  "id": 134198,
-  "postcode": 61013,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3090,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.269114506499996,
-  "lati": 49.9943248702,
-  "FullNameUA": "вулиця Ново-Віринська, 2-А"
+  "FullNameUA": "вулиця Ново-Віринська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 134197,
@@ -120,9 +98,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.268989054399995,
-  "lati": 49.994243322900005,
-  "FullNameUA": "вулиця Ново-Віринська, 2/5"
+  "longt": 36.2689890544,
+  "lati": 49.9942433229,
+  "FullNameUA": "вулиця Ново-Віринська, 2/5",
+  "ChildsIds": []
+ },
+ {
+  "id": 134198,
+  "postcode": 61013,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3090,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2691145065,
+  "lati": 49.9943248702,
+  "FullNameUA": "вулиця Ново-Віринська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 134199,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2687868406,
   "lati": 49.9945379266,
-  "FullNameUA": "вулиця Ново-Віринська, 3"
+  "FullNameUA": "вулиця Ново-Віринська, 3",
+  "ChildsIds": []
  },
  {
   "id": 134201,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269664573899995,
+  "longt": 36.2696645739,
   "lati": 49.9943931539,
-  "FullNameUA": "вулиця Ново-Віринська, 4/2"
+  "FullNameUA": "вулиця Ново-Віринська, 4/2",
+  "ChildsIds": []
  },
  {
   "id": 134200,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269423642599996,
+  "longt": 36.2694236426,
   "lati": 49.9945081229,
-  "FullNameUA": "вулиця Ново-Віринська, 4"
+  "FullNameUA": "вулиця Ново-Віринська, 4",
+  "ChildsIds": []
  },
  {
   "id": 134202,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2689137055,
   "lati": 49.994694779,
-  "FullNameUA": "вулиця Ново-Віринська, 5"
+  "FullNameUA": "вулиця Ново-Віринська, 5",
+  "ChildsIds": []
  },
  {
   "id": 134203,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269641858899995,
-  "lati": 49.994654733800004,
-  "FullNameUA": "вулиця Ново-Віринська, 6"
+  "longt": 36.2696418589,
+  "lati": 49.9946547338,
+  "FullNameUA": "вулиця Ново-Віринська, 6",
+  "ChildsIds": []
  },
  {
   "id": 134204,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269191876099995,
+  "longt": 36.2691918761,
   "lati": 49.9948329176,
-  "FullNameUA": "вулиця Ново-Віринська, 7"
+  "FullNameUA": "вулиця Ново-Віринська, 7",
+  "ChildsIds": []
  },
  {
   "id": 134205,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269793008899995,
-  "lati": 49.994802331500004,
-  "FullNameUA": "вулиця Ново-Віринська, 8"
+  "longt": 36.2697930089,
+  "lati": 49.9948023315,
+  "FullNameUA": "вулиця Ново-Віринська, 8",
+  "ChildsIds": []
  },
  {
   "id": 134206,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2692469811,
   "lati": 49.9950178135,
-  "FullNameUA": "вулиця Ново-Віринська, 9"
+  "FullNameUA": "вулиця Ново-Віринська, 9",
+  "ChildsIds": []
  },
  {
   "id": 134207,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2699954693,
   "lati": 49.9949386484,
-  "FullNameUA": "вулиця Ново-Віринська, 10"
+  "FullNameUA": "вулиця Ново-Віринська, 10",
+  "ChildsIds": []
  },
  {
   "id": 134208,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2695023212,
   "lati": 49.9950369745,
-  "FullNameUA": "вулиця Ново-Віринська, 11"
+  "FullNameUA": "вулиця Ново-Віринська, 11",
+  "ChildsIds": []
  },
  {
   "id": 134209,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2701956716,
   "lati": 49.995109874,
-  "FullNameUA": "вулиця Ново-Віринська, 12"
+  "FullNameUA": "вулиця Ново-Віринська, 12",
+  "ChildsIds": []
  },
  {
   "id": 134210,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2696391657,
   "lati": 49.9951401654,
-  "FullNameUA": "вулиця Ново-Віринська, 13"
+  "FullNameUA": "вулиця Ново-Віринська, 13",
+  "ChildsIds": []
  },
  {
   "id": 134211,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.269824001399996,
+  "longt": 36.2698240014,
   "lati": 49.995315837,
-  "FullNameUA": "вулиця Ново-Віринська, 15"
+  "FullNameUA": "вулиця Ново-Віринська, 15",
+  "ChildsIds": []
  },
  {
   "id": 134213,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2708487195,
-  "lati": 49.995412623300005,
-  "FullNameUA": "вулиця Ново-Віринська, 16-А"
+  "lati": 49.9954126233,
+  "FullNameUA": "вулиця Ново-Віринська, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 134212,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2710740787,
-  "lati": 49.995485554400005,
-  "FullNameUA": "вулиця Ново-Віринська, 16"
+  "lati": 49.9954855544,
+  "FullNameUA": "вулиця Ново-Віринська, 16",
+  "ChildsIds": []
  },
  {
   "id": 134214,
@@ -522,32 +542,8 @@
   "reg_date": "",
   "longt": 36.2699811702,
   "lati": 49.9953787086,
-  "FullNameUA": "вулиця Ново-Віринська, 17"
- },
- {
-  "id": 134216,
-  "postcode": 61013,
-  "number": 18,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3090,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2713269628,
-  "lati": 49.9955481287,
-  "FullNameUA": "вулиця Ново-Віринська, 18-А"
+  "FullNameUA": "вулиця Ново-Віринська, 17",
+  "ChildsIds": []
  },
  {
   "id": 134215,
@@ -572,12 +568,13 @@
   "reg_date": "",
   "longt": 36.2714787716,
   "lati": 49.9956191633,
-  "FullNameUA": "вулиця Ново-Віринська, 18"
+  "FullNameUA": "вулиця Ново-Віринська, 18",
+  "ChildsIds": []
  },
  {
-  "id": 134218,
+  "id": 134216,
   "postcode": 61013,
-  "number": 20,
+  "number": 18,
   "suffix": "А",
   "block": "",
   "streetid": 3090,
@@ -595,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271593039,
-  "lati": 49.995649391200004,
-  "FullNameUA": "вулиця Ново-Віринська, 20-А"
+  "longt": 36.2713269628,
+  "lati": 49.9955481287,
+  "FullNameUA": "вулиця Ново-Віринська, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 134217,
@@ -622,13 +620,14 @@
   "reg_date": "",
   "longt": 36.2717431749,
   "lati": 49.9957110505,
-  "FullNameUA": "вулиця Ново-Віринська, 20"
+  "FullNameUA": "вулиця Ново-Віринська, 20",
+  "ChildsIds": []
  },
  {
-  "id": 134219,
+  "id": 134218,
   "postcode": 61013,
-  "number": 22,
-  "suffix": "",
+  "number": 20,
+  "suffix": "А",
   "block": "",
   "streetid": 3090,
   "status_id": 1,
@@ -645,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2720092192,
-  "lati": 49.995805893,
-  "FullNameUA": "вулиця Ново-Віринська, 22"
+  "longt": 36.271593039,
+  "lati": 49.9956493912,
+  "FullNameUA": "вулиця Ново-Віринська, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 134220,
@@ -672,7 +672,34 @@
   "reg_date": "",
   "longt": 36.2718558221,
   "lati": 49.9957413148,
-  "FullNameUA": "вулиця Ново-Віринська, 22-А"
+  "FullNameUA": "вулиця Ново-Віринська, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 134219,
+  "postcode": 61013,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3090,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2720092192,
+  "lati": 49.995805893,
+  "FullNameUA": "вулиця Ново-Віринська, 22",
+  "ChildsIds": []
  },
  {
   "id": 134221,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2715044854,
   "lati": 49.9959603447,
-  "FullNameUA": "вулиця Ново-Віринська, 23"
+  "FullNameUA": "вулиця Ново-Віринська, 23",
+  "ChildsIds": []
  },
  {
   "id": 134222,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2722855087,
   "lati": 49.9958955255,
-  "FullNameUA": "вулиця Ново-Віринська, 24"
+  "FullNameUA": "вулиця Ново-Віринська, 24",
+  "ChildsIds": []
  },
  {
   "id": 134223,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2716991233,
   "lati": 49.9960505723,
-  "FullNameUA": "вулиця Ново-Віринська, 25"
+  "FullNameUA": "вулиця Ново-Віринська, 25",
+  "ChildsIds": []
  },
  {
   "id": 134224,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272524964300004,
+  "longt": 36.2725249643,
   "lati": 49.9959736715,
-  "FullNameUA": "вулиця Ново-Віринська, 26"
+  "FullNameUA": "вулиця Ново-Віринська, 26",
+  "ChildsIds": []
  },
  {
   "id": 134225,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2719454482,
   "lati": 49.9960795254,
-  "FullNameUA": "вулиця Ново-Віринська, 27"
+  "FullNameUA": "вулиця Ново-Віринська, 27",
+  "ChildsIds": []
  },
  {
   "id": 134226,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272801877300004,
+  "longt": 36.2728018773,
   "lati": 49.9960780885,
-  "FullNameUA": "вулиця Ново-Віринська, 28"
+  "FullNameUA": "вулиця Ново-Віринська, 28",
+  "ChildsIds": []
  },
  {
   "id": 134227,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27218921950001,
-  "lati": 49.996177503700004,
-  "FullNameUA": "вулиця Ново-Віринська, 29"
+  "longt": 36.2721892195,
+  "lati": 49.9961775037,
+  "FullNameUA": "вулиця Ново-Віринська, 29",
+  "ChildsIds": []
  },
  {
   "id": 134228,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2730396095,
   "lati": 49.9961396009,
-  "FullNameUA": "вулиця Ново-Віринська, 30"
+  "FullNameUA": "вулиця Ново-Віринська, 30",
+  "ChildsIds": []
  },
  {
   "id": 134229,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272415302400006,
+  "longt": 36.2724153024,
   "lati": 49.9962694934,
-  "FullNameUA": "вулиця Ново-Віринська, 31"
+  "FullNameUA": "вулиця Ново-Віринська, 31",
+  "ChildsIds": []
  },
  {
   "id": 134230,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2733445382,
   "lati": 49.9962435968,
-  "FullNameUA": "вулиця Ново-Віринська, 32"
+  "FullNameUA": "вулиця Ново-Віринська, 32",
+  "ChildsIds": []
  },
  {
   "id": 134231,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272752751000006,
+  "longt": 36.272752751,
   "lati": 49.996366918,
-  "FullNameUA": "вулиця Ново-Віринська, 33"
+  "FullNameUA": "вулиця Ново-Віринська, 33",
+  "ChildsIds": []
  },
  {
   "id": 134232,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273572097000006,
+  "longt": 36.273572097,
   "lati": 49.9963312063,
-  "FullNameUA": "вулиця Ново-Віринська, 34"
+  "FullNameUA": "вулиця Ново-Віринська, 34",
+  "ChildsIds": []
  },
  {
   "id": 134233,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273009536400004,
-  "lati": 49.996443803000005,
-  "FullNameUA": "вулиця Ново-Віринська, 35"
+  "longt": 36.2730095364,
+  "lati": 49.996443803,
+  "FullNameUA": "вулиця Ново-Віринська, 35",
+  "ChildsIds": []
  },
  {
   "id": 134234,
@@ -1021,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2738453109,
-  "lati": 49.996424589600004,
-  "FullNameUA": "вулиця Ново-Віринська, 36"
+  "lati": 49.9964245896,
+  "FullNameUA": "вулиця Ново-Віринська, 36",
+  "ChildsIds": []
  },
  {
   "id": 134235,
@@ -1046,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2732721852,
-  "lati": 49.996533459700004,
-  "FullNameUA": "вулиця Ново-Віринська, 37"
+  "lati": 49.9965334597,
+  "FullNameUA": "вулиця Ново-Віринська, 37",
+  "ChildsIds": []
  },
  {
   "id": 134236,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273650649400004,
-  "lati": 49.996669244100005,
-  "FullNameUA": "вулиця Ново-Віринська, 39"
+  "longt": 36.2736506494,
+  "lati": 49.9966692441,
+  "FullNameUA": "вулиця Ново-Віринська, 39",
+  "ChildsIds": []
  },
  {
   "id": 124726,
@@ -1097,32 +1140,8 @@
   "reg_date": "",
   "longt": 36.27466808,
   "lati": 49.9966572796,
-  "FullNameUA": "вулиця Ново-Віринська, 40"
- },
- {
-  "id": 124727,
-  "postcode": 61161,
-  "number": 42,
-  "suffix": "",
-  "block": "",
-  "streetid": 3090,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.275015957600004,
-  "lati": 49.996768557500005,
-  "FullNameUA": "вулиця Ново-Віринська, 42"
+  "FullNameUA": "вулиця Ново-Віринська, 40",
+  "ChildsIds": []
  },
  {
   "id": 124728,
@@ -1147,7 +1166,34 @@
   "reg_date": "",
   "longt": 36.2748129057,
   "lati": 49.9967006411,
-  "FullNameUA": "вулиця Ново-Віринська, 42-А"
+  "FullNameUA": "вулиця Ново-Віринська, 42-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124727,
+  "postcode": 61161,
+  "number": 42,
+  "suffix": "",
+  "block": "",
+  "streetid": 3090,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2750159576,
+  "lati": 49.9967685575,
+  "FullNameUA": "вулиця Ново-Віринська, 42",
+  "ChildsIds": []
  },
  {
   "id": 124729,
@@ -1171,8 +1217,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2751754407,
-  "lati": 49.996815647000005,
-  "FullNameUA": "вулиця Ново-Віринська, 44"
+  "lati": 49.996815647,
+  "FullNameUA": "вулиця Ново-Віринська, 44",
+  "ChildsIds": []
  },
  {
   "id": 124730,
@@ -1196,8 +1243,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2754273521,
-  "lati": 49.996903990300005,
-  "FullNameUA": "вулиця Ново-Віринська, 46"
+  "lati": 49.9969039903,
+  "FullNameUA": "вулиця Ново-Віринська, 46",
+  "ChildsIds": []
  },
  {
   "id": 124731,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.2756804515,
   "lati": 49.9969901797,
-  "FullNameUA": "вулиця Ново-Віринська, 48"
+  "FullNameUA": "вулиця Ново-Віринська, 48",
+  "ChildsIds": []
  },
  {
   "id": 124732,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2758664811,
   "lati": 49.9970486375,
-  "FullNameUA": "вулиця Ново-Віринська, 50"
+  "FullNameUA": "вулиця Ново-Віринська, 50",
+  "ChildsIds": []
  },
  {
   "id": 124733,
@@ -1272,6 +1322,7 @@
   "reg_date": "",
   "longt": 36.2760620581,
   "lati": 49.9970931515,
-  "FullNameUA": "вулиця Ново-Віринська, 52"
+  "FullNameUA": "вулиця Ново-Віринська, 52",
+  "ChildsIds": []
  }
 ]

@@ -20,9 +20,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "07.05.2018 11:11:29",
-  "longt": 36.352549629900004,
+  "longt": 36.3525496299,
   "lati": 50.0459225874,
-  "FullNameUA": "вулиця Жигаріна, 1"
+  "FullNameUA": "вулиця Жигаріна, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 182375,
+  "postcode": 61027,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 4745,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка",
+  "confrm": "",
+  "reg_date": "10.03.2020 16:46:05",
+  "longt": 36.3527158566,
+  "lati": 50.0463386454,
+  "FullNameUA": "вулиця Жигаріна, 5",
+  "ChildsIds": []
  },
  {
   "id": 131160,
@@ -47,7 +74,8 @@
   "reg_date": "05.11.2014 00:00:00",
   "longt": 36.3539386056,
   "lati": 50.0475780474,
-  "FullNameUA": "вулиця Жигаріна, 9"
+  "FullNameUA": "вулиця Жигаріна, 9",
+  "ChildsIds": []
  },
  {
   "id": 131161,
@@ -70,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "23.12.2014 00:00:00",
-  "longt": 36.354124447000004,
-  "lati": 50.047934575599996,
-  "FullNameUA": "вулиця Жигаріна, 11"
+  "longt": 36.354124447,
+  "lati": 50.0479345756,
+  "FullNameUA": "вулиця Жигаріна, 11",
+  "ChildsIds": []
  },
  {
   "id": 131162,
@@ -97,7 +126,8 @@
   "reg_date": "15.04.2019 09:54:17",
   "longt": 36.3538203572,
   "lati": 50.0480258963,
-  "FullNameUA": "вулиця Жигаріна, 13"
+  "FullNameUA": "вулиця Жигаріна, 13",
+  "ChildsIds": []
  },
  {
   "id": 131163,
@@ -122,7 +152,8 @@
   "reg_date": "15.04.2019 09:51:39",
   "longt": 36.3533901844,
   "lati": 50.04810047,
-  "FullNameUA": "вулиця Жигаріна, 15"
+  "FullNameUA": "вулиця Жигаріна, 15",
+  "ChildsIds": []
  },
  {
   "id": 176312,
@@ -147,7 +178,8 @@
   "reg_date": "13.02.2017 11:04:23",
   "longt": 36.3530233917,
   "lati": 50.048456009,
-  "FullNameUA": "вулиця Жигаріна, 17"
+  "FullNameUA": "вулиця Жигаріна, 17",
+  "ChildsIds": []
  },
  {
   "id": 131164,
@@ -172,7 +204,8 @@
   "reg_date": "15.04.2019 09:47:21",
   "longt": 36.3537774997,
   "lati": 50.048527452,
-  "FullNameUA": "вулиця Жигаріна, 19"
+  "FullNameUA": "вулиця Жигаріна, 19",
+  "ChildsIds": []
  },
  {
   "id": 176243,
@@ -197,32 +230,8 @@
   "reg_date": "07.02.2017 16:50:17",
   "longt": 36.3541363705,
   "lati": 50.0484173471,
-  "FullNameUA": "вулиця Жигаріна, 21"
- },
- {
-  "id": 131165,
-  "postcode": 61027,
-  "number": 23,
-  "suffix": "",
-  "block": "",
-  "streetid": 4745,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "12.04.2019 16:40:59",
-  "longt": 36.3546491631,
-  "lati": 50.0483253917,
-  "FullNameUA": "вулиця Жигаріна, 23"
+  "FullNameUA": "вулиця Жигаріна, 21",
+  "ChildsIds": []
  },
  {
   "id": 131166,
@@ -247,7 +256,34 @@
   "reg_date": "12.04.2019 16:39:04",
   "longt": 36.3546102667,
   "lati": 50.048562191,
-  "FullNameUA": "вулиця Жигаріна, 23-А"
+  "FullNameUA": "вулиця Жигаріна, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 131165,
+  "postcode": 61027,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 4745,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "12.04.2019 16:40:59",
+  "longt": 36.3546491631,
+  "lati": 50.0483253917,
+  "FullNameUA": "вулиця Жигаріна, 23",
+  "ChildsIds": []
  },
  {
   "id": 176325,
@@ -272,7 +308,8 @@
   "reg_date": "13.02.2017 15:45:40",
   "longt": 36.3534539937,
   "lati": 50.0487413276,
-  "FullNameUA": "вулиця Жигаріна, 25"
+  "FullNameUA": "вулиця Жигаріна, 25",
+  "ChildsIds": []
  },
  {
   "id": 176353,
@@ -297,6 +334,7 @@
   "reg_date": "14.02.2017 12:08:08",
   "longt": 36.3530854952,
   "lati": 50.048864951,
-  "FullNameUA": "вулиця Жигаріна, 27"
+  "FullNameUA": "вулиця Жигаріна, 27",
+  "ChildsIds": []
  }
 ]

@@ -1,30 +1,5 @@
 [
  {
-  "id": 122746,
-  "postcode": 61054,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 2628,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.319363676600005,
-  "lati": 50.0150966082,
-  "FullNameUA": "вулиця Дунаєвського, 2"
- },
- {
   "id": 122747,
   "postcode": 61054,
   "number": 2,
@@ -47,38 +22,14 @@
   "reg_date": "",
   "longt": 36.3173159212,
   "lati": 50.0154258273,
-  "FullNameUA": "вулиця Дунаєвського, 2-А"
+  "FullNameUA": "вулиця Дунаєвського, 2-А",
+  "ChildsIds": []
  },
  {
-  "id": 122749,
+  "id": 122746,
   "postcode": 61054,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2628,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.319694132100004,
-  "lati": 50.014449347399996,
-  "FullNameUA": "вулиця Дунаєвського, 3-А"
- },
- {
-  "id": 122750,
-  "postcode": 61054,
-  "number": 3,
-  "suffix": "В",
+  "number": 2,
+  "suffix": "",
   "block": "",
   "streetid": 2628,
   "status_id": 1,
@@ -93,36 +44,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.3194923772,
-  "lati": 50.0145388938,
-  "FullNameUA": "вулиця Дунаєвського, 3-В"
- },
- {
-  "id": 178311,
-  "postcode": 61054,
-  "number": 3,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2628,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3192579113,
-  "lati": 50.0146314174,
-  "FullNameUA": "вулиця Дунаєвського, 3-Б"
+  "longt": 36.3193636766,
+  "lati": 50.0150966082,
+  "FullNameUA": "вулиця Дунаєвського, 2",
+  "ChildsIds": []
  },
  {
   "id": 122748,
@@ -147,7 +74,86 @@
   "reg_date": "",
   "longt": 36.3188011944,
   "lati": 50.0148121615,
-  "FullNameUA": "вулиця Дунаєвського, 3"
+  "FullNameUA": "вулиця Дунаєвського, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 178311,
+  "postcode": 61054,
+  "number": 3,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3192579113,
+  "lati": 50.0146314174,
+  "FullNameUA": "вулиця Дунаєвського, 3-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 122749,
+  "postcode": 61054,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3196941321,
+  "lati": 50.0144493474,
+  "FullNameUA": "вулиця Дунаєвського, 3-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 122750,
+  "postcode": 61054,
+  "number": 3,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3194923772,
+  "lati": 50.0145388938,
+  "FullNameUA": "вулиця Дунаєвського, 3-В",
+  "ChildsIds": []
  },
  {
   "id": 178312,
@@ -171,17 +177,18 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3194389996,
-  "lati": 50.014887383899996,
-  "FullNameUA": "вулиця Дунаєвського, 4"
+  "lati": 50.0148873839,
+  "FullNameUA": "вулиця Дунаєвського, 4",
+  "ChildsIds": []
  },
  {
-  "id": 178310,
+  "id": 122752,
   "postcode": 61054,
   "number": 5,
-  "suffix": "В",
+  "suffix": "А",
   "block": "",
   "streetid": 2628,
-  "status_id": 3,
+  "status_id": 1,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -191,13 +198,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
+  "source_id": 0,
   "same_adr_comm": "",
   "confrm": "градархив",
-  "reg_date": "21.12.2019 15:18:53",
-  "longt": 36.3177482246,
-  "lati": 50.014516836599995,
-  "FullNameUA": "вулиця Дунаєвського, 5-В"
+  "reg_date": "",
+  "longt": 36.3178546609,
+  "lati": 50.0150438247,
+  "FullNameUA": "вулиця Дунаєвського, 5-А",
+  "ChildsIds": [
+   130887
+  ]
  },
  {
   "id": 122751,
@@ -221,58 +231,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3174557954,
-  "lati": 50.015155101699996,
-  "FullNameUA": "вулиця Дунаєвського, 5"
- },
- {
-  "id": 122752,
-  "postcode": 61054,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2628,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.317854660900004,
-  "lati": 50.0150438247,
-  "FullNameUA": "вулиця Дунаєвського, 5-А"
- },
- {
-  "id": 179066,
-  "postcode": 61054,
-  "number": 5,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 2628,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "21.12.2019 15:19:03",
-  "longt": 36.3184038275,
-  "lati": 50.0148528135,
-  "FullNameUA": "вулиця Дунаєвського, 5-Г"
+  "lati": 50.0151551017,
+  "FullNameUA": "вулиця Дунаєвського, 5",
+  "ChildsIds": []
  },
  {
   "id": 178701,
@@ -297,7 +258,64 @@
   "reg_date": "25.01.2018 11:14:55",
   "longt": 36.3174457073,
   "lati": 50.0145815072,
-  "FullNameUA": "вулиця Дунаєвського, 5-Д"
+  "FullNameUA": "вулиця Дунаєвського, 5-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 179066,
+  "postcode": 61054,
+  "number": 5,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "21.12.2019 15:19:03",
+  "longt": 36.3184038275,
+  "lati": 50.0148528135,
+  "FullNameUA": "вулиця Дунаєвського, 5-Г",
+  "ChildsIds": [
+   130887
+  ]
+ },
+ {
+  "id": 178310,
+  "postcode": 61054,
+  "number": 5,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "21.12.2019 15:18:53",
+  "longt": 36.3177482246,
+  "lati": 50.0145168366,
+  "FullNameUA": "вулиця Дунаєвського, 5-В",
+  "ChildsIds": [
+   130887
+  ]
  },
  {
   "id": 178313,
@@ -320,9 +338,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.318993790200004,
-  "lati": 50.015107447999995,
-  "FullNameUA": "вулиця Дунаєвського, 6"
+  "longt": 36.3189937902,
+  "lati": 50.015107448,
+  "FullNameUA": "вулиця Дунаєвського, 6",
+  "ChildsIds": []
  },
  {
   "id": 122753,
@@ -347,7 +366,8 @@
   "reg_date": "",
   "longt": 36.3171104285,
   "lati": 50.0147413829,
-  "FullNameUA": "вулиця Дунаєвського, 7"
+  "FullNameUA": "вулиця Дунаєвського, 7",
+  "ChildsIds": []
  },
  {
   "id": 178314,
@@ -372,7 +392,8 @@
   "reg_date": "",
   "longt": 36.3186253259,
   "lati": 50.0152107439,
-  "FullNameUA": "вулиця Дунаєвського, 8"
+  "FullNameUA": "вулиця Дунаєвського, 8",
+  "ChildsIds": []
  },
  {
   "id": 178757,
@@ -396,8 +417,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3166902959,
-  "lati": 50.014728568799995,
-  "FullNameUA": "вулиця Дунаєвського, 9-А"
+  "lati": 50.0147285688,
+  "FullNameUA": "вулиця Дунаєвського, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 178315,
@@ -420,9 +442,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.318172381400004,
+  "longt": 36.3181723814,
   "lati": 50.0153784948,
-  "FullNameUA": "вулиця Дунаєвського, 10"
+  "FullNameUA": "вулиця Дунаєвського, 10",
+  "ChildsIds": []
  },
  {
   "id": 179580,
@@ -445,9 +468,36 @@
   "same_adr_comm": "",
   "confrm": "градархив, публічна кадастрова карта",
   "reg_date": "",
-  "longt": 36.318613278200004,
+  "longt": 36.3186132782,
   "lati": 50.0157415268,
-  "FullNameUA": "вулиця Дунаєвського, 12"
+  "FullNameUA": "вулиця Дунаєвського, 12",
+  "ChildsIds": []
+ },
+ {
+  "id": 182162,
+  "postcode": 61054,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2628,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.318179837,
+  "lati": 50.0147898746,
+  "FullNameUA": "вулиця Дунаєвського, 13",
+  "ChildsIds": []
  },
  {
   "id": 179581,
@@ -470,9 +520,10 @@
   "same_adr_comm": "",
   "confrm": "градархив, публічна кадастрова карта",
   "reg_date": "",
-  "longt": 36.318215166600005,
+  "longt": 36.3182151666,
   "lati": 50.015828252,
-  "FullNameUA": "вулиця Дунаєвського, 14"
+  "FullNameUA": "вулиця Дунаєвського, 14",
+  "ChildsIds": []
  },
  {
   "id": 179582,
@@ -496,8 +547,9 @@
   "confrm": "градархив, публічна кадастрова карта",
   "reg_date": "",
   "longt": 36.3177873806,
-  "lati": 50.015893648799995,
-  "FullNameUA": "вулиця Дунаєвського, 16"
+  "lati": 50.0158936488,
+  "FullNameUA": "вулиця Дунаєвського, 16",
+  "ChildsIds": []
  },
  {
   "id": 122754,
@@ -522,7 +574,8 @@
   "reg_date": "03.01.2020 11:27:41",
   "longt": 36.3173561468,
   "lati": 50.0158715003,
-  "FullNameUA": "вулиця Дунаєвського, 18-Б"
+  "FullNameUA": "вулиця Дунаєвського, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 179016,
@@ -546,7 +599,8 @@
   "confrm": "Рішення ХМР № 984, 21.02.2018, дод. 2, п. 5; Рішення ВК ХМР № 324, 11.05.2018",
   "reg_date": "22.03.2018 16:13:24",
   "longt": 36.3197093494,
-  "lati": 50.014450132499995,
-  "FullNameUA": "вулиця Дунаєвського, 21"
+  "lati": 50.0144501325,
+  "FullNameUA": "вулиця Дунаєвського, 21",
+  "ChildsIds": []
  }
 ]

@@ -20,9 +20,36 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Комінтернівської  райради № 296-5, 20.11.2007",
   "reg_date": "",
-  "longt": 36.268074868999996,
+  "longt": 36.268074869,
   "lati": 49.9857665811,
-  "FullNameUA": "вулиця Броненосця Потьомкін, 1-А"
+  "FullNameUA": "вулиця Броненосця Потьомкін, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169708,
+  "postcode": 61068,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3533,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2672459707,
+  "lati": 49.986312928,
+  "FullNameUA": "вулиця Броненосця Потьомкін, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 169706,
@@ -47,32 +74,8 @@
   "reg_date": "",
   "longt": 36.2688617441,
   "lati": 49.9861605879,
-  "FullNameUA": "вулиця Броненосця Потьомкін, 1"
- },
- {
-  "id": 169708,
-  "postcode": 61068,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3533,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.267245970699996,
-  "lati": 49.986312928000004,
-  "FullNameUA": "вулиця Броненосця Потьомкін, 1-Б"
+  "FullNameUA": "вулиця Броненосця Потьомкін, 1",
+  "ChildsIds": []
  },
  {
   "id": 169709,
@@ -96,7 +99,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2724230911,
-  "lati": 49.986257433400006,
-  "FullNameUA": "вулиця Броненосця Потьомкін, 4"
+  "lati": 49.9862574334,
+  "FullNameUA": "вулиця Броненосця Потьомкін, 4",
+  "ChildsIds": []
  }
 ]

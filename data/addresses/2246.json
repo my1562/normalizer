@@ -1,30 +1,5 @@
 [
  {
-  "id": 115590,
-  "postcode": 61051,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 2246,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2065363711,
-  "lati": 50.0414891223,
-  "FullNameUA": "вулиця Броньова, 2"
- },
- {
   "id": 179453,
   "postcode": 61051,
   "number": 2,
@@ -47,7 +22,34 @@
   "reg_date": "",
   "longt": 36.2061712382,
   "lati": 50.0410176997,
-  "FullNameUA": "вулиця Броньова, 2-А"
+  "FullNameUA": "вулиця Броньова, 2-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 115590,
+  "postcode": 61051,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 2246,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2065363711,
+  "lati": 50.0414891223,
+  "FullNameUA": "вулиця Броньова, 2",
+  "ChildsIds": []
  },
  {
   "id": 115591,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2066359713,
-  "lati": 50.041690046999996,
-  "FullNameUA": "вулиця Броньова, 4"
+  "lati": 50.041690047,
+  "FullNameUA": "вулиця Броньова, 4",
+  "ChildsIds": []
  },
  {
   "id": 115592,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2067056257,
   "lati": 50.0418336757,
-  "FullNameUA": "вулиця Броньова, 6"
+  "FullNameUA": "вулиця Броньова, 6",
+  "ChildsIds": []
  },
  {
   "id": 115593,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2056813522,
   "lati": 50.040970355,
-  "FullNameUA": "вулиця Броньова, 7"
+  "FullNameUA": "вулиця Броньова, 7",
+  "ChildsIds": []
  },
  {
   "id": 115594,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2068074234,
   "lati": 50.041979712,
-  "FullNameUA": "вулиця Броньова, 8"
+  "FullNameUA": "вулиця Броньова, 8",
+  "ChildsIds": []
  },
  {
   "id": 115595,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.205766181,
   "lati": 50.0411640519,
-  "FullNameUA": "вулиця Броньова, 9"
+  "FullNameUA": "вулиця Броньова, 9",
+  "ChildsIds": []
  },
  {
   "id": 115596,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.207009176,
   "lati": 50.0420929222,
-  "FullNameUA": "вулиця Броньова, 10"
+  "FullNameUA": "вулиця Броньова, 10",
+  "ChildsIds": []
  },
  {
   "id": 115597,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205895454300006,
+  "longt": 36.2058954543,
   "lati": 50.0412752525,
-  "FullNameUA": "вулиця Броньова, 11"
+  "FullNameUA": "вулиця Броньова, 11",
+  "ChildsIds": []
  },
  {
   "id": 115598,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.206976197,
   "lati": 50.0422246096,
-  "FullNameUA": "вулиця Броньова, 12"
+  "FullNameUA": "вулиця Броньова, 12",
+  "ChildsIds": []
  },
  {
   "id": 115599,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2059825751,
   "lati": 50.0414124892,
-  "FullNameUA": "вулиця Броньова, 13"
+  "FullNameUA": "вулиця Броньова, 13",
+  "ChildsIds": []
  },
  {
   "id": 115600,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2070662865,
   "lati": 50.0423712542,
-  "FullNameUA": "вулиця Броньова, 14"
+  "FullNameUA": "вулиця Броньова, 14",
+  "ChildsIds": []
  },
  {
   "id": 115601,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206090309800004,
+  "longt": 36.2060903098,
   "lati": 50.0415465061,
-  "FullNameUA": "вулиця Броньова, 15"
+  "FullNameUA": "вулиця Броньова, 15",
+  "ChildsIds": []
  },
  {
   "id": 115602,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207153139000006,
+  "longt": 36.207153139,
   "lati": 50.0424844929,
-  "FullNameUA": "вулиця Броньова, 16"
+  "FullNameUA": "вулиця Броньова, 16",
+  "ChildsIds": []
  },
  {
   "id": 115603,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2061792234,
   "lati": 50.0416763525,
-  "FullNameUA": "вулиця Броньова, 17"
+  "FullNameUA": "вулиця Броньова, 17",
+  "ChildsIds": []
  },
  {
   "id": 115604,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2072485483,
   "lati": 50.0426155555,
-  "FullNameUA": "вулиця Броньова, 18"
+  "FullNameUA": "вулиця Броньова, 18",
+  "ChildsIds": []
  },
  {
   "id": 115605,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2062631081,
   "lati": 50.0418098294,
-  "FullNameUA": "вулиця Броньова, 19"
+  "FullNameUA": "вулиця Броньова, 19",
+  "ChildsIds": []
  },
  {
   "id": 115606,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2073366013,
   "lati": 50.0427641746,
-  "FullNameUA": "вулиця Броньова, 20"
+  "FullNameUA": "вулиця Броньова, 20",
+  "ChildsIds": []
  },
  {
   "id": 115607,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2063594493,
   "lati": 50.0419397327,
-  "FullNameUA": "вулиця Броньова, 21"
+  "FullNameUA": "вулиця Броньова, 21",
+  "ChildsIds": []
  },
  {
   "id": 115608,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2074749911,
   "lati": 50.0428898084,
-  "FullNameUA": "вулиця Броньова, 22"
+  "FullNameUA": "вулиця Броньова, 22",
+  "ChildsIds": []
  },
  {
   "id": 115609,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206444726600004,
+  "longt": 36.2064447266,
   "lati": 50.0420688753,
-  "FullNameUA": "вулиця Броньова, 23"
+  "FullNameUA": "вулиця Броньова, 23",
+  "ChildsIds": []
  },
  {
   "id": 115610,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207576459500004,
+  "longt": 36.2075764595,
   "lati": 50.0429965622,
-  "FullNameUA": "вулиця Броньова, 24"
+  "FullNameUA": "вулиця Броньова, 24",
+  "ChildsIds": []
  },
  {
   "id": 115611,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2065426647,
   "lati": 50.0421985704,
-  "FullNameUA": "вулиця Броньова, 25"
+  "FullNameUA": "вулиця Броньова, 25",
+  "ChildsIds": []
  },
  {
   "id": 115612,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207814473700004,
+  "longt": 36.2078144737,
   "lati": 50.0433562868,
-  "FullNameUA": "вулиця Броньова, 26"
+  "FullNameUA": "вулиця Броньова, 26",
+  "ChildsIds": []
  },
  {
   "id": 115613,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2066332475,
   "lati": 50.0423342015,
-  "FullNameUA": "вулиця Броньова, 27"
+  "FullNameUA": "вулиця Броньова, 27",
+  "ChildsIds": []
  },
  {
   "id": 115614,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207910437900004,
+  "longt": 36.2079104379,
   "lati": 50.043512805,
-  "FullNameUA": "вулиця Броньова, 28"
+  "FullNameUA": "вулиця Броньова, 28",
+  "ChildsIds": []
  },
  {
   "id": 115615,
@@ -672,7 +698,34 @@
   "reg_date": "",
   "longt": 36.2067143811,
   "lati": 50.0424538775,
-  "FullNameUA": "вулиця Броньова, 29"
+  "FullNameUA": "вулиця Броньова, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 181961,
+  "postcode": 61051,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 2246,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2082401677,
+  "lati": 50.0435851265,
+  "FullNameUA": "вулиця Броньова, 30",
+  "ChildsIds": []
  },
  {
   "id": 115616,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206806599100005,
+  "longt": 36.2068065991,
   "lati": 50.042587907,
-  "FullNameUA": "вулиця Броньова, 31"
+  "FullNameUA": "вулиця Броньова, 31",
+  "ChildsIds": []
  },
  {
   "id": 115617,
@@ -720,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206901669000004,
+  "longt": 36.206901669,
   "lati": 50.0427260255,
-  "FullNameUA": "вулиця Броньова, 33"
+  "FullNameUA": "вулиця Броньова, 33",
+  "ChildsIds": []
  },
  {
   "id": 115618,
@@ -745,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.206975396500006,
+  "longt": 36.2069753965,
   "lati": 50.0428455905,
-  "FullNameUA": "вулиця Броньова, 35"
+  "FullNameUA": "вулиця Броньова, 35",
+  "ChildsIds": []
  },
  {
   "id": 115619,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207078821900005,
+  "longt": 36.2070788219,
   "lati": 50.0429824785,
-  "FullNameUA": "вулиця Броньова, 37"
+  "FullNameUA": "вулиця Броньова, 37",
+  "ChildsIds": []
  },
  {
   "id": 115620,
@@ -795,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207118491100005,
+  "longt": 36.2071184911,
   "lati": 50.0431382363,
-  "FullNameUA": "вулиця Броньова, 39"
+  "FullNameUA": "вулиця Броньова, 39",
+  "ChildsIds": []
  },
  {
   "id": 115621,
@@ -820,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207343485600006,
-  "lati": 50.043425198899996,
-  "FullNameUA": "вулиця Броньова, 41"
+  "longt": 36.2073434856,
+  "lati": 50.0434251989,
+  "FullNameUA": "вулиця Броньова, 41",
+  "ChildsIds": []
  },
  {
   "id": 115622,
@@ -847,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2074452263,
   "lati": 50.0435451157,
-  "FullNameUA": "вулиця Броньова, 43"
+  "FullNameUA": "вулиця Броньова, 43",
+  "ChildsIds": []
  },
  {
   "id": 115623,
@@ -872,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2075294142,
   "lati": 50.0436890488,
-  "FullNameUA": "вулиця Броньова, 45"
+  "FullNameUA": "вулиця Броньова, 45",
+  "ChildsIds": []
  },
  {
   "id": 115624,
@@ -897,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2076139695,
   "lati": 50.0438224225,
-  "FullNameUA": "вулиця Броньова, 47"
+  "FullNameUA": "вулиця Броньова, 47",
+  "ChildsIds": []
  },
  {
   "id": 115625,
@@ -922,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2077015249,
   "lati": 50.0439513302,
-  "FullNameUA": "вулиця Броньова, 49"
+  "FullNameUA": "вулиця Броньова, 49",
+  "ChildsIds": []
  },
  {
   "id": 115626,
@@ -947,32 +1010,8 @@
   "reg_date": "",
   "longt": 36.2077954271,
   "lati": 50.0440879251,
-  "FullNameUA": "вулиця Броньова, 51"
- },
- {
-  "id": 115628,
-  "postcode": 61051,
-  "number": 53,
-  "suffix": "/4",
-  "block": "",
-  "streetid": 2246,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.208332111800004,
-  "lati": 50.044936472399996,
-  "FullNameUA": "вулиця Броньова, 53/4"
+  "FullNameUA": "вулиця Броньова, 51",
+  "ChildsIds": []
  },
  {
   "id": 115627,
@@ -997,6 +1036,33 @@
   "reg_date": "",
   "longt": 36.2078996927,
   "lati": 50.0442185701,
-  "FullNameUA": "вулиця Броньова, 53"
+  "FullNameUA": "вулиця Броньова, 53",
+  "ChildsIds": []
+ },
+ {
+  "id": 115628,
+  "postcode": 61051,
+  "number": 53,
+  "suffix": "/4",
+  "block": "",
+  "streetid": 2246,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2083321118,
+  "lati": 50.0449364724,
+  "FullNameUA": "вулиця Броньова, 53/4",
+  "ChildsIds": []
  }
 ]

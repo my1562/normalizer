@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.364821389599996,
-  "lati": 49.959352281200005,
-  "FullNameUA": "вулиця Хабарова, 1"
+  "longt": 36.3648213896,
+  "lati": 49.9593522812,
+  "FullNameUA": "вулиця Хабарова, 1",
+  "ChildsIds": []
  },
  {
   "id": 178646,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3593012094,
   "lati": 49.9609388553,
-  "FullNameUA": "вулиця Хабарова, 2-А"
+  "FullNameUA": "вулиця Хабарова, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 107136,
@@ -66,13 +68,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "градархив",
-  "reg_date": "",
+  "reg_date": "20.01.2020 17:21:13",
   "longt": 36.365280497,
   "lati": 49.96524083,
-  "FullNameUA": "вулиця Хабарова, 2"
+  "FullNameUA": "вулиця Хабарова, 2",
+  "ChildsIds": []
  },
  {
   "id": 107137,
@@ -97,6 +100,7 @@
   "reg_date": "",
   "longt": 36.3639672616,
   "lati": 49.9632278101,
-  "FullNameUA": "вулиця Хабарова, 7"
+  "FullNameUA": "вулиця Хабарова, 7",
+  "ChildsIds": []
  }
 ]

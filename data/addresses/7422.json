@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3318346163,
   "lati": 50.0560491139,
-  "FullNameUA": "провулок Колосистий (сел. Циркуни), 1"
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 1",
+  "ChildsIds": []
  },
  {
   "id": 178375,
@@ -47,7 +48,36 @@
   "reg_date": "",
   "longt": 36.3320782478,
   "lati": 50.0559015043,
-  "FullNameUA": "провулок Колосистий (сел. Циркуни), 3"
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 183240,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 7422,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "03.07.2020 10:38:53",
+  "longt": 36.3310922922,
+  "lati": 50.0556943207,
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 4",
+  "ChildsIds": [
+   183241
+  ]
  },
  {
   "id": 176000,
@@ -72,6 +102,7 @@
   "reg_date": "",
   "longt": 36.3317693941,
   "lati": 50.0553379277,
-  "FullNameUA": "провулок Колосистий (сел. Циркуни), 8"
+  "FullNameUA": "провулок Колосистий (сел. Циркуни), 8",
+  "ChildsIds": []
  }
 ]

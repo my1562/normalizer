@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3061299844,
   "lati": 50.0097409261,
-  "FullNameUA": "вулиця Козакевича, 7"
+  "FullNameUA": "вулиця Козакевича, 7",
+  "ChildsIds": []
  },
  {
   "id": 124207,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3065698579,
   "lati": 50.0097801499,
-  "FullNameUA": "вулиця Козакевича, 12"
+  "FullNameUA": "вулиця Козакевича, 12",
+  "ChildsIds": []
  },
  {
   "id": 124208,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3074037773,
   "lati": 50.0105159651,
-  "FullNameUA": "вулиця Козакевича, 13"
+  "FullNameUA": "вулиця Козакевича, 13",
+  "ChildsIds": []
  },
  {
   "id": 124209,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30671902980001,
+  "longt": 36.3067190298,
   "lati": 50.0098294116,
-  "FullNameUA": "вулиця Козакевича, 14"
+  "FullNameUA": "вулиця Козакевича, 14",
+  "ChildsIds": []
  },
  {
   "id": 124210,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308010339700004,
-  "lati": 50.010584215899996,
-  "FullNameUA": "вулиця Козакевича, 16"
+  "longt": 36.3080103397,
+  "lati": 50.0105842159,
+  "FullNameUA": "вулиця Козакевича, 16",
+  "ChildsIds": []
  },
  {
   "id": 124211,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307919402100005,
-  "lati": 50.010799889699996,
-  "FullNameUA": "вулиця Козакевича, 17"
+  "longt": 36.3079194021,
+  "lati": 50.0107998897,
+  "FullNameUA": "вулиця Козакевича, 17",
+  "ChildsIds": []
  },
  {
   "id": 124212,
@@ -171,33 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3082193222,
-  "lati": 50.010711258899995,
-  "FullNameUA": "вулиця Козакевича, 18"
- },
- {
-  "id": 124213,
-  "postcode": 61054,
-  "number": 19,
-  "suffix": "",
-  "block": "",
-  "streetid": 2903,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.308202307100004,
-  "lati": 50.0110100065,
-  "FullNameUA": "вулиця Козакевича, 19"
+  "lati": 50.0107112589,
+  "FullNameUA": "вулиця Козакевича, 18",
+  "ChildsIds": []
  },
  {
   "id": 176999,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.3082513108,
   "lati": 50.0111692486,
-  "FullNameUA": "вулиця Козакевича, 19-А"
+  "FullNameUA": "вулиця Козакевича, 19-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124213,
+  "postcode": 61054,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 2903,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3082023071,
+  "lati": 50.0110100065,
+  "FullNameUA": "вулиця Козакевича, 19",
+  "ChildsIds": []
  },
  {
   "id": 124214,
@@ -246,8 +255,11 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3084241561,
-  "lati": 50.010837452699995,
-  "FullNameUA": "вулиця Козакевича, 20"
+  "lati": 50.0108374527,
+  "FullNameUA": "вулиця Козакевича, 20",
+  "ChildsIds": [
+   182546
+  ]
  },
  {
   "id": 175165,
@@ -270,9 +282,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.308974038100004,
+  "longt": 36.3089740381,
   "lati": 50.0110913261,
-  "FullNameUA": "вулиця Козакевича, 22-А"
+  "FullNameUA": "вулиця Козакевича, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 124215,
@@ -295,9 +308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3086926093,
-  "lati": 50.010830449299995,
-  "FullNameUA": "вулиця Козакевича, 22"
+  "longt": 36.3086874669,
+  "lati": 50.0110118053,
+  "FullNameUA": "вулиця Козакевича, 22",
+  "ChildsIds": []
  },
  {
   "id": 124216,
@@ -320,34 +334,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30709566150001,
+  "longt": 36.3070956615,
   "lati": 50.011096089,
-  "FullNameUA": "вулиця Козакевича, 23"
- },
- {
-  "id": 124217,
-  "postcode": 61054,
-  "number": 24,
-  "suffix": "",
-  "block": "",
-  "streetid": 2903,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3086921135,
-  "lati": 50.0109910038,
-  "FullNameUA": "вулиця Козакевича, 24"
+  "FullNameUA": "вулиця Козакевича, 23",
+  "ChildsIds": []
  },
  {
   "id": 124218,
@@ -372,6 +362,7 @@
   "reg_date": "",
   "longt": 36.3096183167,
   "lati": 50.0117903246,
-  "FullNameUA": "вулиця Козакевича, 28"
+  "FullNameUA": "вулиця Козакевича, 28",
+  "ChildsIds": []
  }
 ]

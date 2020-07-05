@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3402608287,
   "lati": 50.0305670419,
-  "FullNameUA": "вулиця Леся Сердюка, 1"
+  "FullNameUA": "вулиця Леся Сердюка, 1",
+  "ChildsIds": []
  },
  {
   "id": 124350,
@@ -45,9 +46,10 @@
   "same_adr_comm": "нежитлова будівля літ. \"А-1\"",
   "confrm": "Рішення ВК Київської райради № 100-3, 05.05.2009",
   "reg_date": "04.04.2019 10:26:09",
-  "longt": 36.34055898570001,
+  "longt": 36.3405589857,
   "lati": 50.0305406384,
-  "FullNameUA": "вулиця Леся Сердюка, 1-А"
+  "FullNameUA": "вулиця Леся Сердюка, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 180262,
@@ -72,7 +74,8 @@
   "reg_date": "31.01.2019 15:22:28",
   "longt": 36.3415494823,
   "lati": 50.0310318276,
-  "FullNameUA": "вулиця Леся Сердюка, 2"
+  "FullNameUA": "вулиця Леся Сердюка, 2",
+  "ChildsIds": []
  },
  {
   "id": 124351,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.340380478600004,
+  "longt": 36.3403804786,
   "lati": 50.0307391611,
-  "FullNameUA": "вулиця Леся Сердюка, 3"
+  "FullNameUA": "вулиця Леся Сердюка, 3",
+  "ChildsIds": []
  },
  {
   "id": 133881,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.343497481,
   "lati": 50.0322517451,
-  "FullNameUA": "вулиця Леся Сердюка, 4"
+  "FullNameUA": "вулиця Леся Сердюка, 4",
+  "ChildsIds": []
  },
  {
   "id": 124352,
@@ -145,59 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.340480329100004,
-  "lati": 50.030841564300005,
-  "FullNameUA": "вулиця Леся Сердюка, 5"
- },
- {
-  "id": 124355,
-  "postcode": 61107,
-  "number": 7,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 95-5, 18.05.2010",
-  "reg_date": "11.03.2019 10:35:58",
-  "longt": 36.340235787900006,
-  "lati": 50.031191794,
-  "FullNameUA": "вулиця Леся Сердюка, 7-В"
- },
- {
-  "id": 124353,
-  "postcode": 61107,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Київської райради № 95-5, 18.05.2010",
-  "reg_date": "",
-  "longt": 36.3406560588,
-  "lati": 50.0310930332,
-  "FullNameUA": "вулиця Леся Сердюка, 7"
+  "longt": 36.3404803291,
+  "lati": 50.0308415643,
+  "FullNameUA": "вулиця Леся Сердюка, 5",
+  "ChildsIds": []
  },
  {
   "id": 124354,
@@ -220,15 +176,16 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.340395932300005,
+  "longt": 36.3403959323,
   "lati": 50.0313157427,
-  "FullNameUA": "вулиця Леся Сердюка, 7-А"
+  "FullNameUA": "вулиця Леся Сердюка, 7-А",
+  "ChildsIds": []
  },
  {
-  "id": 124357,
+  "id": 124355,
   "postcode": 61107,
-  "number": 9,
-  "suffix": "А",
+  "number": 7,
+  "suffix": "В",
   "block": "",
   "streetid": 2932,
   "status_id": 1,
@@ -241,13 +198,42 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.34049335780001,
-  "lati": 50.031400783500004,
-  "FullNameUA": "вулиця Леся Сердюка, 9-А"
+  "confrm": "Рішення ВК Київської райради № 95-5, 18.05.2010",
+  "reg_date": "11.03.2019 10:35:58",
+  "longt": 36.3402357879,
+  "lati": 50.031191794,
+  "FullNameUA": "вулиця Леся Сердюка, 7-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 124353,
+  "postcode": 61107,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Київської райради № 95-5, 18.05.2010",
+  "reg_date": "20.01.2020 11:01:12",
+  "longt": 36.3406560588,
+  "lati": 50.0310930332,
+  "FullNameUA": "вулиця Леся Сердюка, 7",
+  "ChildsIds": [
+   124355
+  ]
  },
  {
   "id": 124356,
@@ -272,7 +258,34 @@
   "reg_date": "",
   "longt": 36.3406337905,
   "lati": 50.0315342191,
-  "FullNameUA": "вулиця Леся Сердюка, 9"
+  "FullNameUA": "вулиця Леся Сердюка, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 124357,
+  "postcode": 61107,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3404933578,
+  "lati": 50.0314007835,
+  "FullNameUA": "вулиця Леся Сердюка, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 133882,
@@ -297,7 +310,8 @@
   "reg_date": "",
   "longt": 36.3443527123,
   "lati": 50.0332953601,
-  "FullNameUA": "вулиця Леся Сердюка, 10"
+  "FullNameUA": "вулиця Леся Сердюка, 10",
+  "ChildsIds": []
  },
  {
   "id": 124358,
@@ -322,7 +336,8 @@
   "reg_date": "",
   "longt": 36.3411217883,
   "lati": 50.03166452,
-  "FullNameUA": "вулиця Леся Сердюка, 11"
+  "FullNameUA": "вулиця Леся Сердюка, 11",
+  "ChildsIds": []
  },
  {
   "id": 133883,
@@ -347,7 +362,8 @@
   "reg_date": "",
   "longt": 36.3458027255,
   "lati": 50.0333018326,
-  "FullNameUA": "вулиця Леся Сердюка, 12"
+  "FullNameUA": "вулиця Леся Сердюка, 12",
+  "ChildsIds": []
  },
  {
   "id": 124359,
@@ -371,8 +387,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.341599588,
-  "lati": 50.033164769500004,
-  "FullNameUA": "вулиця Леся Сердюка, 13"
+  "lati": 50.0331647695,
+  "FullNameUA": "вулиця Леся Сердюка, 13",
+  "ChildsIds": []
  },
  {
   "id": 133884,
@@ -395,9 +412,10 @@
   "same_adr_comm": "",
   "confrm": "814, 30.12.1994",
   "reg_date": "",
-  "longt": 36.347402266100005,
+  "longt": 36.3474022661,
   "lati": 50.0335016261,
-  "FullNameUA": "вулиця Леся Сердюка, 14"
+  "FullNameUA": "вулиця Леся Сердюка, 14",
+  "ChildsIds": []
  },
  {
   "id": 133885,
@@ -420,9 +438,10 @@
   "same_adr_comm": "",
   "confrm": "597, 30.11.1993",
   "reg_date": "",
-  "longt": 36.345632098500005,
+  "longt": 36.3456320985,
   "lati": 50.034104966,
-  "FullNameUA": "вулиця Леся Сердюка, 16"
+  "FullNameUA": "вулиця Леся Сердюка, 16",
+  "ChildsIds": []
  },
  {
   "id": 124360,
@@ -445,9 +464,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.342486078300006,
+  "longt": 36.3424860783,
   "lati": 50.0331633737,
-  "FullNameUA": "вулиця Леся Сердюка, 17"
+  "FullNameUA": "вулиця Леся Сердюка, 17",
+  "ChildsIds": []
  },
  {
   "id": 133886,
@@ -470,9 +490,10 @@
   "same_adr_comm": "",
   "confrm": "92, 22.02.1995",
   "reg_date": "",
-  "longt": 36.345365224700004,
+  "longt": 36.3453652247,
   "lati": 50.0348167578,
-  "FullNameUA": "вулиця Леся Сердюка, 18"
+  "FullNameUA": "вулиця Леся Сердюка, 18",
+  "ChildsIds": []
  },
  {
   "id": 124361,
@@ -497,7 +518,8 @@
   "reg_date": "",
   "longt": 36.3426631019,
   "lati": 50.0333900154,
-  "FullNameUA": "вулиця Леся Сердюка, 19"
+  "FullNameUA": "вулиця Леся Сердюка, 19",
+  "ChildsIds": []
  },
  {
   "id": 133887,
@@ -520,9 +542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346233938000005,
-  "lati": 50.034539604900004,
-  "FullNameUA": "вулиця Леся Сердюка, 20"
+  "longt": 36.346233938,
+  "lati": 50.0345396049,
+  "FullNameUA": "вулиця Леся Сердюка, 20",
+  "ChildsIds": []
  },
  {
   "id": 124362,
@@ -545,9 +568,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342883016900004,
+  "longt": 36.3428830169,
   "lati": 50.0336697539,
-  "FullNameUA": "вулиця Леся Сердюка, 21"
+  "FullNameUA": "вулиця Леся Сердюка, 21",
+  "ChildsIds": []
  },
  {
   "id": 133888,
@@ -570,34 +594,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34656956840001,
+  "longt": 36.3465695684,
   "lati": 50.034707204,
-  "FullNameUA": "вулиця Леся Сердюка, 22"
- },
- {
-  "id": 124363,
-  "postcode": 61107,
-  "number": 23,
-  "suffix": "",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.343314443400004,
-  "lati": 50.0341286469,
-  "FullNameUA": "вулиця Леся Сердюка, 23"
+  "FullNameUA": "вулиця Леся Сердюка, 22",
+  "ChildsIds": []
  },
  {
   "id": 124364,
@@ -622,7 +622,34 @@
   "reg_date": "",
   "longt": 36.3423696615,
   "lati": 50.0339137766,
-  "FullNameUA": "вулиця Леся Сердюка, 23-А"
+  "FullNameUA": "вулиця Леся Сердюка, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124363,
+  "postcode": 61107,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3433144434,
+  "lati": 50.0341286469,
+  "FullNameUA": "вулиця Леся Сердюка, 23",
+  "ChildsIds": []
  },
  {
   "id": 133889,
@@ -646,8 +673,9 @@
   "confrm": "786-1, 28.12.1994",
   "reg_date": "",
   "longt": 36.3476212842,
-  "lati": 50.032747859000004,
-  "FullNameUA": "вулиця Леся Сердюка, 26"
+  "lati": 50.032747859,
+  "FullNameUA": "вулиця Леся Сердюка, 26",
+  "ChildsIds": []
  },
  {
   "id": 176746,
@@ -671,8 +699,9 @@
   "confrm": "карта М1:500",
   "reg_date": "",
   "longt": 36.3435897389,
-  "lati": 50.034469765800004,
-  "FullNameUA": "вулиця Леся Сердюка, 27"
+  "lati": 50.0344697658,
+  "FullNameUA": "вулиця Леся Сердюка, 27",
+  "ChildsIds": []
  },
  {
   "id": 133890,
@@ -697,7 +726,8 @@
   "reg_date": "",
   "longt": 36.3479677755,
   "lati": 50.0325484589,
-  "FullNameUA": "вулиця Леся Сердюка, 28"
+  "FullNameUA": "вулиця Леся Сердюка, 28",
+  "ChildsIds": []
  },
  {
   "id": 124365,
@@ -720,9 +750,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.343824353200006,
+  "longt": 36.3438243532,
   "lati": 50.0346910735,
-  "FullNameUA": "вулиця Леся Сердюка, 29"
+  "FullNameUA": "вулиця Леся Сердюка, 29",
+  "ChildsIds": []
  },
  {
   "id": 124366,
@@ -747,7 +778,8 @@
   "reg_date": "",
   "longt": 36.3440315769,
   "lati": 50.0349378629,
-  "FullNameUA": "вулиця Леся Сердюка, 31"
+  "FullNameUA": "вулиця Леся Сердюка, 31",
+  "ChildsIds": []
  },
  {
   "id": 124367,
@@ -772,7 +804,8 @@
   "reg_date": "",
   "longt": 36.3442488947,
   "lati": 50.0352320713,
-  "FullNameUA": "вулиця Леся Сердюка, 33"
+  "FullNameUA": "вулиця Леся Сердюка, 33",
+  "ChildsIds": []
  },
  {
   "id": 124368,
@@ -797,32 +830,8 @@
   "reg_date": "",
   "longt": 36.3443644418,
   "lati": 50.0353830799,
-  "FullNameUA": "вулиця Леся Сердюка, 35"
- },
- {
-  "id": 124370,
-  "postcode": 61184,
-  "number": 36,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.347883315400004,
-  "lati": 50.0368161314,
-  "FullNameUA": "вулиця Леся Сердюка, 36-А"
+  "FullNameUA": "вулиця Леся Сердюка, 35",
+  "ChildsIds": []
  },
  {
   "id": 124369,
@@ -845,9 +854,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348210519400006,
-  "lati": 50.037628689900004,
-  "FullNameUA": "вулиця Леся Сердюка, 36"
+  "longt": 36.3482105194,
+  "lati": 50.0376286899,
+  "FullNameUA": "вулиця Леся Сердюка, 36",
+  "ChildsIds": []
+ },
+ {
+  "id": 124370,
+  "postcode": 61184,
+  "number": 36,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3478833154,
+  "lati": 50.0368161314,
+  "FullNameUA": "вулиця Леся Сердюка, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 124371,
@@ -870,9 +906,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344447898000006,
+  "longt": 36.344447898,
   "lati": 50.0355006069,
-  "FullNameUA": "вулиця Леся Сердюка, 37"
+  "FullNameUA": "вулиця Леся Сердюка, 37",
+  "ChildsIds": []
  },
  {
   "id": 124372,
@@ -897,7 +934,8 @@
   "reg_date": "",
   "longt": 36.3500130935,
   "lati": 50.0376424679,
-  "FullNameUA": "вулиця Леся Сердюка, 38"
+  "FullNameUA": "вулиця Леся Сердюка, 38",
+  "ChildsIds": []
  },
  {
   "id": 124373,
@@ -922,7 +960,8 @@
   "reg_date": "",
   "longt": 36.344571924,
   "lati": 50.0356266131,
-  "FullNameUA": "вулиця Леся Сердюка, 39-А"
+  "FullNameUA": "вулиця Леся Сердюка, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 124374,
@@ -947,7 +986,8 @@
   "reg_date": "",
   "longt": 36.3511663145,
   "lati": 50.0379161113,
-  "FullNameUA": "вулиця Леся Сердюка, 40"
+  "FullNameUA": "вулиця Леся Сердюка, 40",
+  "ChildsIds": []
  },
  {
   "id": 124375,
@@ -970,9 +1010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34475552160001,
-  "lati": 50.036083972600004,
-  "FullNameUA": "вулиця Леся Сердюка, 41"
+  "longt": 36.3447555216,
+  "lati": 50.0360839726,
+  "FullNameUA": "вулиця Леся Сердюка, 41",
+  "ChildsIds": []
  },
  {
   "id": 124376,
@@ -996,8 +1037,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3450068109,
-  "lati": 50.036369337800004,
-  "FullNameUA": "вулиця Леся Сердюка, 41-А"
+  "lati": 50.0363693378,
+  "FullNameUA": "вулиця Леся Сердюка, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 124377,
@@ -1020,34 +1062,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349313024900006,
+  "longt": 36.3493130249,
   "lati": 50.0381039215,
-  "FullNameUA": "вулиця Леся Сердюка, 42"
- },
- {
-  "id": 124378,
-  "postcode": 61107,
-  "number": 43,
-  "suffix": "",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.34564953180001,
-  "lati": 50.0369537633,
-  "FullNameUA": "вулиця Леся Сердюка, 43"
+  "FullNameUA": "вулиця Леся Сердюка, 42",
+  "ChildsIds": []
  },
  {
   "id": 124380,
@@ -1072,7 +1090,34 @@
   "reg_date": "",
   "longt": 36.3454414324,
   "lati": 50.0367043851,
-  "FullNameUA": "вулиця Леся Сердюка, 43-Б"
+  "FullNameUA": "вулиця Леся Сердюка, 43-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 124378,
+  "postcode": 61107,
+  "number": 43,
+  "suffix": "",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3456495318,
+  "lati": 50.0369537633,
+  "FullNameUA": "вулиця Леся Сердюка, 43",
+  "ChildsIds": []
  },
  {
   "id": 124379,
@@ -1095,34 +1140,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345550520900005,
+  "longt": 36.3455505209,
   "lati": 50.0367521697,
-  "FullNameUA": "вулиця Леся Сердюка, 43-А"
- },
- {
-  "id": 124382,
-  "postcode": 61184,
-  "number": 44,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 343-6, 16.12.2003",
-  "reg_date": "",
-  "longt": 36.348689628600006,
-  "lati": 50.0387216754,
-  "FullNameUA": "вулиця Леся Сердюка, 44-Б"
+  "FullNameUA": "вулиця Леся Сердюка, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 124381,
@@ -1145,9 +1166,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34889575930001,
+  "longt": 36.3488957593,
   "lati": 50.03838152,
-  "FullNameUA": "вулиця Леся Сердюка, 44"
+  "FullNameUA": "вулиця Леся Сердюка, 44",
+  "ChildsIds": []
+ },
+ {
+  "id": 124382,
+  "postcode": 61184,
+  "number": 44,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 343-6, 16.12.2003",
+  "reg_date": "",
+  "longt": 36.3486896286,
+  "lati": 50.0387216754,
+  "FullNameUA": "вулиця Леся Сердюка, 44-Б",
+  "ChildsIds": []
  },
  {
   "id": 177922,
@@ -1172,7 +1220,8 @@
   "reg_date": "",
   "longt": 36.347269441,
   "lati": 50.0386203948,
-  "FullNameUA": "вулиця Леся Сердюка, 45-Б"
+  "FullNameUA": "вулиця Леся Сердюка, 45-Б",
+  "ChildsIds": []
  },
  {
   "id": 124384,
@@ -1196,8 +1245,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3458737431,
-  "lati": 50.037441642800005,
-  "FullNameUA": "вулиця Леся Сердюка, 45-А"
+  "lati": 50.0374416428,
+  "FullNameUA": "вулиця Леся Сердюка, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 124383,
@@ -1222,7 +1272,8 @@
   "reg_date": "",
   "longt": 36.3458604287,
   "lati": 50.0371589271,
-  "FullNameUA": "вулиця Леся Сердюка, 45"
+  "FullNameUA": "вулиця Леся Сердюка, 45",
+  "ChildsIds": []
  },
  {
   "id": 179433,
@@ -1247,7 +1298,8 @@
   "reg_date": "19.06.2018 15:04:46",
   "longt": 36.3491819035,
   "lati": 50.0415802444,
-  "FullNameUA": "вулиця Леся Сердюка, 45-В, гараж № 74"
+  "FullNameUA": "вулиця Леся Сердюка, 45-В, гараж № 74",
+  "ChildsIds": []
  },
  {
   "id": 124385,
@@ -1271,39 +1323,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3503702989,
-  "lati": 50.038438225200004,
-  "FullNameUA": "вулиця Леся Сердюка, 46"
+  "lati": 50.0384382252,
+  "FullNameUA": "вулиця Леся Сердюка, 46",
+  "ChildsIds": []
  },
  {
-  "id": 124389,
+  "id": 124386,
   "postcode": 61107,
   "number": 47,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "132, 24.02.2016",
-  "reg_date": "10.01.2020 13:00:50",
-  "longt": 36.356269459800004,
-  "lati": 50.049443065,
-  "FullNameUA": "вулиця Леся Сердюка, 47-В"
- },
- {
-  "id": 180025,
-  "postcode": 61107,
-  "number": 47,
-  "suffix": "Д",
+  "suffix": "",
   "block": "",
   "streetid": 2932,
   "status_id": 1,
@@ -1320,9 +1348,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349016279000004,
-  "lati": 50.0409484311,
-  "FullNameUA": "вулиця Леся Сердюка, 47-Д"
+  "longt": 36.3572679918,
+  "lati": 50.0508356863,
+  "FullNameUA": "вулиця Леся Сердюка, 47",
+  "ChildsIds": []
  },
  {
   "id": 124388,
@@ -1347,7 +1376,60 @@
   "reg_date": "10.01.2020 12:59:53",
   "longt": 36.3558601859,
   "lati": 50.0489176999,
-  "FullNameUA": "вулиця Леся Сердюка, 47-Б"
+  "FullNameUA": "вулиця Леся Сердюка, 47-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 180025,
+  "postcode": 61107,
+  "number": 47,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.349016279,
+  "lati": 50.0409484311,
+  "FullNameUA": "вулиця Леся Сердюка, 47-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 124389,
+  "postcode": 61107,
+  "number": 47,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "132, 24.02.2016",
+  "reg_date": "10.01.2020 13:00:50",
+  "longt": 36.3562694598,
+  "lati": 50.049443065,
+  "FullNameUA": "вулиця Леся Сердюка, 47-В",
+  "ChildsIds": []
  },
  {
   "id": 124387,
@@ -1371,13 +1453,14 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3570669288,
-  "lati": 50.050611833000005,
-  "FullNameUA": "вулиця Леся Сердюка, 47-А"
+  "lati": 50.050611833,
+  "FullNameUA": "вулиця Леся Сердюка, 47-А",
+  "ChildsIds": []
  },
  {
-  "id": 124386,
-  "postcode": 61107,
-  "number": 47,
+  "id": 176280,
+  "postcode": 61184,
+  "number": 48,
   "suffix": "",
   "block": "",
   "streetid": 2932,
@@ -1395,34 +1478,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3572679918,
-  "lati": 50.050835686300005,
-  "FullNameUA": "вулиця Леся Сердюка, 47"
- },
- {
-  "id": 124390,
-  "postcode": 61184,
-  "number": 48,
-  "suffix": "/2",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.349720145700005,
-  "lati": 50.0398755051,
-  "FullNameUA": "вулиця Леся Сердюка, 48/2"
+  "longt": 36.3491517305,
+  "lati": 50.0388782257,
+  "FullNameUA": "вулиця Леся Сердюка, 48",
+  "ChildsIds": []
  },
  {
   "id": 180273,
@@ -1447,13 +1506,14 @@
   "reg_date": "31.01.2019 17:49:43",
   "longt": 36.3505268725,
   "lati": 50.0402842508,
-  "FullNameUA": "вулиця Леся Сердюка, 48-А"
+  "FullNameUA": "вулиця Леся Сердюка, 48-А",
+  "ChildsIds": []
  },
  {
-  "id": 176280,
+  "id": 124390,
   "postcode": 61184,
   "number": 48,
-  "suffix": "",
+  "suffix": "/2",
   "block": "",
   "streetid": 2932,
   "status_id": 1,
@@ -1470,9 +1530,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349151730500004,
-  "lati": 50.0388782257,
-  "FullNameUA": "вулиця Леся Сердюка, 48"
+  "longt": 36.3497201457,
+  "lati": 50.0398755051,
+  "FullNameUA": "вулиця Леся Сердюка, 48/2",
+  "ChildsIds": []
  },
  {
   "id": 124391,
@@ -1497,57 +1558,8 @@
   "reg_date": "",
   "longt": 36.3574391979,
   "lati": 50.0510670959,
-  "FullNameUA": "вулиця Леся Сердюка, 49"
- },
- {
-  "id": 180503,
-  "postcode": 61107,
-  "number": 49,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-1\" з прибудовами, загальною площею 60,7 кв.м., житловою площею 44,4 кв.м. з господарськими будівлями та спорудами, а саме: сараєм літ. \"В\", льохом літ. \"Ж\", літньою кухнею літ. \"З\", душем літ. \"И\", вбиральнею літ. \"К\"",
-  "confrm": "",
-  "reg_date": "28.03.2019 16:00:36",
-  "longt": 36.3574934576,
-  "lati": 50.051162075700006,
-  "FullNameUA": "вулиця Леся Сердюка, 49-В"
- },
- {
-  "id": 124393,
-  "postcode": 61107,
-  "number": 49,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2932,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3576862491,
-  "lati": 50.0513170034,
-  "FullNameUA": "вулиця Леся Сердюка, 49-Б"
+  "FullNameUA": "вулиця Леся Сердюка, 49",
+  "ChildsIds": []
  },
  {
   "id": 124392,
@@ -1572,7 +1584,60 @@
   "reg_date": "",
   "longt": 36.3582446829,
   "lati": 50.0519818534,
-  "FullNameUA": "вулиця Леся Сердюка, 49-А"
+  "FullNameUA": "вулиця Леся Сердюка, 49-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124393,
+  "postcode": 61107,
+  "number": 49,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3576862491,
+  "lati": 50.0513170034,
+  "FullNameUA": "вулиця Леся Сердюка, 49-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 180503,
+  "postcode": 61107,
+  "number": 49,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2932,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\" з прибудовами, загальною площею 60,7 кв.м., житловою площею 44,4 кв.м. з господарськими будівлями та спорудами, а саме: сараєм літ. \"В\", льохом літ. \"Ж\", літньою кухнею літ. \"З\", душем літ. \"И\", вбиральнею літ. \"К\"",
+  "confrm": "",
+  "reg_date": "28.03.2019 16:00:36",
+  "longt": 36.3574983092,
+  "lati": 50.0511607714,
+  "FullNameUA": "вулиця Леся Сердюка, 49-В",
+  "ChildsIds": []
  },
  {
   "id": 124394,
@@ -1595,9 +1660,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.351603079200004,
+  "longt": 36.3516030792,
   "lati": 50.0416660506,
-  "FullNameUA": "вулиця Леся Сердюка, 50"
+  "FullNameUA": "вулиця Леся Сердюка, 50",
+  "ChildsIds": []
  },
  {
   "id": 124395,
@@ -1621,8 +1687,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.358447005,
-  "lati": 50.052202190500005,
-  "FullNameUA": "вулиця Леся Сердюка, 51"
+  "lati": 50.0522021905,
+  "FullNameUA": "вулиця Леся Сердюка, 51",
+  "ChildsIds": []
  },
  {
   "id": 124396,
@@ -1647,7 +1714,8 @@
   "reg_date": "",
   "longt": 36.3532239961,
   "lati": 50.0421876136,
-  "FullNameUA": "вулиця Леся Сердюка, 52"
+  "FullNameUA": "вулиця Леся Сердюка, 52",
+  "ChildsIds": []
  },
  {
   "id": 124397,
@@ -1671,8 +1739,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3586210451,
-  "lati": 50.05244613240001,
-  "FullNameUA": "вулиця Леся Сердюка, 53"
+  "lati": 50.0524461324,
+  "FullNameUA": "вулиця Леся Сердюка, 53",
+  "ChildsIds": []
  },
  {
   "id": 124398,
@@ -1697,7 +1766,8 @@
   "reg_date": "",
   "longt": 36.3528098784,
   "lati": 50.0433535467,
-  "FullNameUA": "вулиця Леся Сердюка, 54"
+  "FullNameUA": "вулиця Леся Сердюка, 54",
+  "ChildsIds": []
  },
  {
   "id": 124399,
@@ -1721,8 +1791,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3589735375,
-  "lati": 50.05280196620001,
-  "FullNameUA": "вулиця Леся Сердюка, 55"
+  "lati": 50.0528019662,
+  "FullNameUA": "вулиця Леся Сердюка, 55",
+  "ChildsIds": []
  },
  {
   "id": 124400,
@@ -1747,7 +1818,8 @@
   "reg_date": "",
   "longt": 36.3532798734,
   "lati": 50.0428732365,
-  "FullNameUA": "вулиця Леся Сердюка, 56"
+  "FullNameUA": "вулиця Леся Сердюка, 56",
+  "ChildsIds": []
  },
  {
   "id": 124401,
@@ -1771,8 +1843,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3591233903,
-  "lati": 50.053007804500005,
-  "FullNameUA": "вулиця Леся Сердюка, 57"
+  "lati": 50.0530078045,
+  "FullNameUA": "вулиця Леся Сердюка, 57",
+  "ChildsIds": []
  },
  {
   "id": 124402,
@@ -1797,7 +1870,8 @@
   "reg_date": "13.01.2020 10:37:32",
   "longt": 36.3546020624,
   "lati": 50.0463661695,
-  "FullNameUA": "вулиця Леся Сердюка, 64"
+  "FullNameUA": "вулиця Леся Сердюка, 64",
+  "ChildsIds": []
  },
  {
   "id": 124404,
@@ -1822,7 +1896,8 @@
   "reg_date": "03.01.2020 16:00:13",
   "longt": 36.3563859709,
   "lati": 50.0472237647,
-  "FullNameUA": "вулиця Леся Сердюка, 66-А"
+  "FullNameUA": "вулиця Леся Сердюка, 66-А",
+  "ChildsIds": []
  },
  {
   "id": 124403,
@@ -1847,7 +1922,8 @@
   "reg_date": "03.01.2020 15:54:44",
   "longt": 36.3550812418,
   "lati": 50.0469784033,
-  "FullNameUA": "вулиця Леся Сердюка, 66"
+  "FullNameUA": "вулиця Леся Сердюка, 66",
+  "ChildsIds": []
  },
  {
   "id": 124405,
@@ -1872,7 +1948,8 @@
   "reg_date": "13.01.2020 11:14:35",
   "longt": 36.3568223634,
   "lati": 50.0489261334,
-  "FullNameUA": "вулиця Леся Сердюка, 68"
+  "FullNameUA": "вулиця Леся Сердюка, 68",
+  "ChildsIds": []
  },
  {
   "id": 124406,
@@ -1897,7 +1974,8 @@
   "reg_date": "10.01.2020 12:23:37",
   "longt": 36.3572198596,
   "lati": 50.0495974464,
-  "FullNameUA": "вулиця Леся Сердюка, 70"
+  "FullNameUA": "вулиця Леся Сердюка, 70",
+  "ChildsIds": []
  },
  {
   "id": 124407,
@@ -1920,9 +1998,10 @@
   "same_adr_comm": "",
   "confrm": "132, 24.02.2016",
   "reg_date": "13.01.2020 11:16:45",
-  "longt": 36.358377193900004,
+  "longt": 36.3583771939,
   "lati": 50.0484084873,
-  "FullNameUA": "вулиця Леся Сердюка, 72"
+  "FullNameUA": "вулиця Леся Сердюка, 72",
+  "ChildsIds": []
  },
  {
   "id": 124408,
@@ -1946,8 +2025,9 @@
   "confrm": "132, 24.02.2016",
   "reg_date": "08.01.2020 09:06:43",
   "longt": 36.3586562209,
-  "lati": 50.051234349000005,
-  "FullNameUA": "вулиця Леся Сердюка, 74"
+  "lati": 50.051234349,
+  "FullNameUA": "вулиця Леся Сердюка, 74",
+  "ChildsIds": []
  },
  {
   "id": 124409,
@@ -1972,7 +2052,8 @@
   "reg_date": "13.01.2020 11:17:27",
   "longt": 36.3604863967,
   "lati": 50.0499584705,
-  "FullNameUA": "вулиця Леся Сердюка, 76"
+  "FullNameUA": "вулиця Леся Сердюка, 76",
+  "ChildsIds": []
  },
  {
   "id": 124410,
@@ -1996,8 +2077,9 @@
   "confrm": "132, 24.02.2016",
   "reg_date": "13.01.2020 11:17:09",
   "longt": 36.3621672146,
-  "lati": 50.051183013700005,
-  "FullNameUA": "вулиця Леся Сердюка, 78"
+  "lati": 50.0511830137,
+  "FullNameUA": "вулиця Леся Сердюка, 78",
+  "ChildsIds": []
  },
  {
   "id": 124411,
@@ -2022,6 +2104,7 @@
   "reg_date": "13.01.2020 11:39:28",
   "longt": 36.3628756474,
   "lati": 50.0544600961,
-  "FullNameUA": "вулиця Леся Сердюка, 84"
+  "FullNameUA": "вулиця Леся Сердюка, 84",
+  "ChildsIds": []
  }
 ]

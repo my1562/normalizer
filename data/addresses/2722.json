@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.311694811500004,
+  "longt": 36.3116948115,
   "lati": 50.0392721807,
-  "FullNameUA": "вулиця Зеленоградська, 1"
+  "FullNameUA": "вулиця Зеленоградська, 1",
+  "ChildsIds": []
  },
  {
   "id": 130653,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.31257952,
   "lati": 50.0388791215,
-  "FullNameUA": "вулиця Зеленоградська, 1-Б"
+  "FullNameUA": "вулиця Зеленоградська, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 123006,
@@ -70,34 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312586814700005,
+  "longt": 36.3125868147,
   "lati": 50.0391547417,
-  "FullNameUA": "вулиця Зеленоградська, 1-А"
- },
- {
-  "id": 123012,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 2722,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 257, 06.07.2016",
-  "reg_date": "05.03.2019 12:18:52",
-  "longt": 36.3164213737,
-  "lati": 50.044080543199996,
-  "FullNameUA": "вулиця Зеленоградська, 2-Д"
+  "FullNameUA": "вулиця Зеленоградська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 123008,
@@ -122,13 +100,14 @@
   "reg_date": "05.03.2019 12:00:19",
   "longt": 36.3162205388,
   "lati": 50.0438960892,
-  "FullNameUA": "вулиця Зеленоградська, 2-А"
+  "FullNameUA": "вулиця Зеленоградська, 2-А",
+  "ChildsIds": []
  },
  {
-  "id": 123009,
+  "id": 123012,
   "postcode": 61107,
   "number": 2,
-  "suffix": "Б",
+  "suffix": "Д",
   "block": "",
   "streetid": 2722,
   "status_id": 1,
@@ -143,11 +122,38 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "Рішення 257, 06.07.2016",
-  "reg_date": "05.03.2019 12:04:51",
-  "longt": 36.316261078500006,
-  "lati": 50.0439390327,
-  "FullNameUA": "вулиця Зеленоградська, 2-Б"
+  "confrm": "Рішення ХМР № 257, 06.07.2016",
+  "reg_date": "05.03.2019 12:18:52",
+  "longt": 36.3164213737,
+  "lati": 50.0440805432,
+  "FullNameUA": "вулиця Зеленоградська, 2-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 123013,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "Ж",
+  "block": "",
+  "streetid": 2722,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення 257, 06.07.2016, дод. 3",
+  "reg_date": "05.03.2019 10:11:56",
+  "longt": 36.3164851392,
+  "lati": 50.0441261583,
+  "FullNameUA": "вулиця Зеленоградська, 2-Ж",
+  "ChildsIds": []
  },
  {
   "id": 123011,
@@ -172,7 +178,8 @@
   "reg_date": "05.03.2019 12:17:07",
   "longt": 36.3163724181,
   "lati": 50.0440345953,
-  "FullNameUA": "вулиця Зеленоградська, 2-Г"
+  "FullNameUA": "вулиця Зеленоградська, 2-Г",
+  "ChildsIds": []
  },
  {
   "id": 123010,
@@ -197,13 +204,14 @@
   "reg_date": "05.03.2019 12:08:29",
   "longt": 36.3163138939,
   "lati": 50.0439881475,
-  "FullNameUA": "вулиця Зеленоградська, 2-В"
+  "FullNameUA": "вулиця Зеленоградська, 2-В",
+  "ChildsIds": []
  },
  {
-  "id": 123013,
+  "id": 123009,
   "postcode": 61107,
   "number": 2,
-  "suffix": "Ж",
+  "suffix": "Б",
   "block": "",
   "streetid": 2722,
   "status_id": 1,
@@ -218,11 +226,12 @@
   "detail_number": "",
   "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "Рішення 257, 06.07.2016, дод. 3",
-  "reg_date": "05.03.2019 10:11:56",
-  "longt": 36.316485139200005,
-  "lati": 50.044126158299996,
-  "FullNameUA": "вулиця Зеленоградська, 2-Ж"
+  "confrm": "Рішення 257, 06.07.2016",
+  "reg_date": "05.03.2019 12:04:51",
+  "longt": 36.3162610785,
+  "lati": 50.0439390327,
+  "FullNameUA": "вулиця Зеленоградська, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 123007,
@@ -247,7 +256,34 @@
   "reg_date": "05.03.2019 10:46:21",
   "longt": 36.3161563867,
   "lati": 50.0438416865,
-  "FullNameUA": "вулиця Зеленоградська, 2"
+  "FullNameUA": "вулиця Зеленоградська, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 123014,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 2722,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3116824172,
+  "lati": 50.039485085,
+  "FullNameUA": "вулиця Зеленоградська, 3",
+  "ChildsIds": []
  },
  {
   "id": 123015,
@@ -272,32 +308,8 @@
   "reg_date": "",
   "longt": 36.3120772316,
   "lati": 50.0394603974,
-  "FullNameUA": "вулиця Зеленоградська, 3-А"
- },
- {
-  "id": 123014,
-  "postcode": 61107,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 2722,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.311682417200004,
-  "lati": 50.039485085,
-  "FullNameUA": "вулиця Зеленоградська, 3"
+  "FullNameUA": "вулиця Зеленоградська, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 179490,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.316694812200005,
+  "longt": 36.3166948122,
   "lati": 50.0442887282,
-  "FullNameUA": "вулиця Зеленоградська, 4"
+  "FullNameUA": "вулиця Зеленоградська, 4",
+  "ChildsIds": []
  },
  {
   "id": 123016,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312386763700005,
-  "lati": 50.039446131300004,
-  "FullNameUA": "вулиця Зеленоградська, 5"
+  "longt": 36.3123867637,
+  "lati": 50.0394461313,
+  "FullNameUA": "вулиця Зеленоградська, 5",
+  "ChildsIds": []
  },
  {
   "id": 123017,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3171037476,
   "lati": 50.044612321,
-  "FullNameUA": "вулиця Зеленоградська, 6"
+  "FullNameUA": "вулиця Зеленоградська, 6",
+  "ChildsIds": []
  },
  {
   "id": 123018,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312621325500004,
+  "longt": 36.3126213255,
   "lati": 50.0399699934,
-  "FullNameUA": "вулиця Зеленоградська, 7"
+  "FullNameUA": "вулиця Зеленоградська, 7",
+  "ChildsIds": []
  },
  {
   "id": 179410,
@@ -421,8 +437,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3175195549,
-  "lati": 50.044775128299996,
-  "FullNameUA": "вулиця Зеленоградська, 8"
+  "lati": 50.0447751283,
+  "FullNameUA": "вулиця Зеленоградська, 8",
+  "ChildsIds": []
  },
  {
   "id": 123019,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3127163774,
   "lati": 50.0401439695,
-  "FullNameUA": "вулиця Зеленоградська, 9"
+  "FullNameUA": "вулиця Зеленоградська, 9",
+  "ChildsIds": []
  },
  {
   "id": 179411,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3177751177,
   "lati": 50.04488028,
-  "FullNameUA": "вулиця Зеленоградська, 10"
+  "FullNameUA": "вулиця Зеленоградська, 10",
+  "ChildsIds": []
  },
  {
   "id": 123020,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312803591400005,
+  "longt": 36.3128035914,
   "lati": 50.0402738921,
-  "FullNameUA": "вулиця Зеленоградська, 11"
+  "FullNameUA": "вулиця Зеленоградська, 11",
+  "ChildsIds": []
  },
  {
   "id": 123021,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.3128850729,
   "lati": 50.0404912845,
-  "FullNameUA": "вулиця Зеленоградська, 13"
+  "FullNameUA": "вулиця Зеленоградська, 13",
+  "ChildsIds": []
  },
  {
   "id": 123022,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.3130238723,
   "lati": 50.0407316858,
-  "FullNameUA": "вулиця Зеленоградська, 15"
+  "FullNameUA": "вулиця Зеленоградська, 15",
+  "ChildsIds": []
  },
  {
   "id": 123023,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.3131467249,
   "lati": 50.0409539044,
-  "FullNameUA": "вулиця Зеленоградська, 17"
+  "FullNameUA": "вулиця Зеленоградська, 17",
+  "ChildsIds": []
  },
  {
   "id": 123024,
@@ -597,32 +620,8 @@
   "reg_date": "",
   "longt": 36.3132593166,
   "lati": 50.041155273,
-  "FullNameUA": "вулиця Зеленоградська, 19"
- },
- {
-  "id": 123026,
-  "postcode": 61107,
-  "number": 21,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2722,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3135537627,
-  "lati": 50.0416163592,
-  "FullNameUA": "вулиця Зеленоградська, 21-А"
+  "FullNameUA": "вулиця Зеленоградська, 19",
+  "ChildsIds": []
  },
  {
   "id": 123025,
@@ -647,7 +646,60 @@
   "reg_date": "",
   "longt": 36.3134297753,
   "lati": 50.0413746889,
-  "FullNameUA": "вулиця Зеленоградська, 21"
+  "FullNameUA": "вулиця Зеленоградська, 21",
+  "ChildsIds": []
+ },
+ {
+  "id": 123026,
+  "postcode": 61107,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2722,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3135537627,
+  "lati": 50.0416163592,
+  "FullNameUA": "вулиця Зеленоградська, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 178200,
+  "postcode": 61107,
+  "number": 23,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 2722,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 3, п. 1",
+  "reg_date": "24.10.2017 15:56:55",
+  "longt": 36.3145311741,
+  "lati": 50.0428726169,
+  "FullNameUA": "вулиця Зеленоградська, 23-Г",
+  "ChildsIds": []
  },
  {
   "id": 123027,
@@ -672,13 +724,14 @@
   "reg_date": "",
   "longt": 36.3141408264,
   "lati": 50.0422625001,
-  "FullNameUA": "вулиця Зеленоградська, 23"
+  "FullNameUA": "вулиця Зеленоградська, 23",
+  "ChildsIds": []
  },
  {
-  "id": 178200,
+  "id": 179311,
   "postcode": 61107,
-  "number": 23,
-  "suffix": "Г",
+  "number": 25,
+  "suffix": "В",
   "block": "",
   "streetid": 2722,
   "status_id": 1,
@@ -691,13 +744,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
+  "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 732, 20.09.2017, дод. 3, п. 1",
-  "reg_date": "24.10.2017 15:56:55",
-  "longt": 36.314531174100004,
-  "lati": 50.0428726169,
-  "FullNameUA": "вулиця Зеленоградська, 23-Г"
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3155202237,
+  "lati": 50.0433403949,
+  "FullNameUA": "вулиця Зеленоградська, 25-В",
+  "ChildsIds": []
  },
  {
   "id": 123028,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.314718368,
   "lati": 50.0429875173,
-  "FullNameUA": "вулиця Зеленоградська, 25"
- },
- {
-  "id": 179311,
-  "postcode": 61107,
-  "number": 25,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2722,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.315520223700005,
-  "lati": 50.0433403949,
-  "FullNameUA": "вулиця Зеленоградська, 25-В"
+  "FullNameUA": "вулиця Зеленоградська, 25",
+  "ChildsIds": []
  },
  {
   "id": 123029,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.315763489400005,
+  "longt": 36.3157634894,
   "lati": 50.043946898,
-  "FullNameUA": "вулиця Зеленоградська, 27"
+  "FullNameUA": "вулиця Зеленоградська, 27",
+  "ChildsIds": []
  },
  {
   "id": 123030,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.3158655327,
   "lati": 50.0440732677,
-  "FullNameUA": "вулиця Зеленоградська, 29"
+  "FullNameUA": "вулиця Зеленоградська, 29",
+  "ChildsIds": []
  },
  {
   "id": 123031,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3158849965,
   "lati": 50.0442735477,
-  "FullNameUA": "вулиця Зеленоградська, 31"
+  "FullNameUA": "вулиця Зеленоградська, 31",
+  "ChildsIds": []
  },
  {
   "id": 123032,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3161256816,
-  "lati": 50.044549677599996,
-  "FullNameUA": "вулиця Зеленоградська, 33"
+  "lati": 50.0445496776,
+  "FullNameUA": "вулиця Зеленоградська, 33",
+  "ChildsIds": []
  },
  {
   "id": 123033,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.316030994500004,
+  "longt": 36.3160309945,
   "lati": 50.044396576,
-  "FullNameUA": "вулиця Зеленоградська, 33-А"
+  "FullNameUA": "вулиця Зеленоградська, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 123034,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.316315041500005,
+  "longt": 36.3163150415,
   "lati": 50.044623401,
-  "FullNameUA": "вулиця Зеленоградська, 35"
+  "FullNameUA": "вулиця Зеленоградська, 35",
+  "ChildsIds": []
  },
  {
   "id": 123035,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3164746387,
   "lati": 50.0446898072,
-  "FullNameUA": "вулиця Зеленоградська, 37"
+  "FullNameUA": "вулиця Зеленоградська, 37",
+  "ChildsIds": []
  },
  {
   "id": 123036,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.316639435,
   "lati": 50.0448252479,
-  "FullNameUA": "вулиця Зеленоградська, 39"
+  "FullNameUA": "вулиця Зеленоградська, 39",
+  "ChildsIds": []
  },
  {
   "id": 123037,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.3168481447,
   "lati": 50.0449268232,
-  "FullNameUA": "вулиця Зеленоградська, 41"
+  "FullNameUA": "вулиця Зеленоградська, 41",
+  "ChildsIds": []
  },
  {
   "id": 123038,
@@ -997,6 +1036,7 @@
   "reg_date": "",
   "longt": 36.3170497114,
   "lati": 50.0450214214,
-  "FullNameUA": "вулиця Зеленоградська, 43"
+  "FullNameUA": "вулиця Зеленоградська, 43",
+  "ChildsIds": []
  }
 ]

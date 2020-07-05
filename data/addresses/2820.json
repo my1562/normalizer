@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200142474500005,
+  "longt": 36.2001424745,
   "lati": 49.9362340494,
-  "FullNameUA": "шосе Карачівське, 1"
+  "FullNameUA": "шосе Карачівське, 1",
+  "ChildsIds": []
  },
  {
   "id": 149962,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.200374409800006,
+  "longt": 36.2003744098,
   "lati": 49.9363009776,
-  "FullNameUA": "шосе Карачівське, 1-А"
+  "FullNameUA": "шосе Карачівське, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 149963,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1994691338,
   "lati": 49.9365821726,
-  "FullNameUA": "шосе Карачівське, 2"
+  "FullNameUA": "шосе Карачівське, 2",
+  "ChildsIds": []
  },
  {
   "id": 149964,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199672643499994,
+  "longt": 36.1996726435,
   "lati": 49.9367198215,
-  "FullNameUA": "шосе Карачівське, 2-А"
+  "FullNameUA": "шосе Карачівське, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 149965,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199842250299994,
+  "longt": 36.1998422503,
   "lati": 49.936129984,
-  "FullNameUA": "шосе Карачівське, 3"
+  "FullNameUA": "шосе Карачівське, 3",
+  "ChildsIds": []
  },
  {
   "id": 149966,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1991947148,
   "lati": 49.9365431322,
-  "FullNameUA": "шосе Карачівське, 4"
+  "FullNameUA": "шосе Карачівське, 4",
+  "ChildsIds": []
  },
  {
   "id": 149967,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.199483932999996,
+  "longt": 36.199483933,
   "lati": 49.9360391112,
-  "FullNameUA": "шосе Карачівське, 5"
+  "FullNameUA": "шосе Карачівське, 5",
+  "ChildsIds": []
  },
  {
   "id": 149968,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1981818498,
-  "lati": 49.936252367499996,
-  "FullNameUA": "шосе Карачівське, 6"
+  "lati": 49.9362523675,
+  "FullNameUA": "шосе Карачівське, 6",
+  "ChildsIds": []
  },
  {
   "id": 149969,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1977708612,
   "lati": 49.9362423614,
-  "FullNameUA": "шосе Карачівське, 8"
+  "FullNameUA": "шосе Карачівське, 8",
+  "ChildsIds": []
  },
  {
   "id": 149970,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.198607671699996,
+  "longt": 36.1986076717,
   "lati": 49.9356920807,
-  "FullNameUA": "шосе Карачівське, 9"
+  "FullNameUA": "шосе Карачівське, 9",
+  "ChildsIds": []
  },
  {
   "id": 149971,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197738306199994,
+  "longt": 36.1977383062,
   "lati": 49.9361009345,
-  "FullNameUA": "шосе Карачівське, 10"
+  "FullNameUA": "шосе Карачівське, 10",
+  "ChildsIds": []
  },
  {
   "id": 149972,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1977590609,
   "lati": 49.9352772918,
-  "FullNameUA": "шосе Карачівське, 11"
+  "FullNameUA": "шосе Карачівське, 11",
+  "ChildsIds": []
  },
  {
   "id": 149973,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197433202999996,
+  "longt": 36.197433203,
   "lati": 49.9359523624,
-  "FullNameUA": "шосе Карачівське, 12"
+  "FullNameUA": "шосе Карачівське, 12",
+  "ChildsIds": []
  },
  {
   "id": 149974,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1975140497,
   "lati": 49.9352308049,
-  "FullNameUA": "шосе Карачівське, 13"
+  "FullNameUA": "шосе Карачівське, 13",
+  "ChildsIds": []
  },
  {
   "id": 149975,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197133685299995,
+  "longt": 36.1971336853,
   "lati": 49.9351174869,
-  "FullNameUA": "шосе Карачівське, 13-А"
+  "FullNameUA": "шосе Карачівське, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 149976,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197029326199996,
+  "longt": 36.1970293262,
   "lati": 49.9357653321,
-  "FullNameUA": "шосе Карачівське, 14"
+  "FullNameUA": "шосе Карачівське, 14",
+  "ChildsIds": []
  },
  {
   "id": 149977,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1969521045,
   "lati": 49.9350541729,
-  "FullNameUA": "шосе Карачівське, 15"
+  "FullNameUA": "шосе Карачівське, 15",
+  "ChildsIds": []
  },
  {
   "id": 149978,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1968313916,
   "lati": 49.9356510618,
-  "FullNameUA": "шосе Карачівське, 16"
+  "FullNameUA": "шосе Карачівське, 16",
+  "ChildsIds": []
  },
  {
   "id": 149979,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1967185727,
   "lati": 49.9349603771,
-  "FullNameUA": "шосе Карачівське, 17"
+  "FullNameUA": "шосе Карачівське, 17",
+  "ChildsIds": []
  },
  {
   "id": 149980,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1962534216,
   "lati": 49.9353918928,
-  "FullNameUA": "шосе Карачівське, 18"
+  "FullNameUA": "шосе Карачівське, 18",
+  "ChildsIds": []
  },
  {
   "id": 149981,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196563889299995,
+  "longt": 36.1965638893,
   "lati": 49.9348669076,
-  "FullNameUA": "шосе Карачівське, 19"
+  "FullNameUA": "шосе Карачівське, 19",
+  "ChildsIds": []
  },
  {
   "id": 149982,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.1960091498,
   "lati": 49.9351915096,
-  "FullNameUA": "шосе Карачівське, 20"
+  "FullNameUA": "шосе Карачівське, 20",
+  "ChildsIds": []
  },
  {
   "id": 149983,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1962239492,
   "lati": 49.9344963138,
-  "FullNameUA": "шосе Карачівське, 21"
+  "FullNameUA": "шосе Карачівське, 21",
+  "ChildsIds": []
  },
  {
   "id": 149984,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195764581199995,
+  "longt": 36.1957645812,
   "lati": 49.9350819214,
-  "FullNameUA": "шосе Карачівське, 22"
+  "FullNameUA": "шосе Карачівське, 22",
+  "ChildsIds": []
  },
  {
   "id": 149985,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.1954492298,
   "lati": 49.9349101947,
-  "FullNameUA": "шосе Карачівське, 24"
+  "FullNameUA": "шосе Карачівське, 24",
+  "ChildsIds": []
  },
  {
   "id": 149986,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.1959700321,
   "lati": 49.9343578178,
-  "FullNameUA": "шосе Карачівське, 25"
+  "FullNameUA": "шосе Карачівське, 25",
+  "ChildsIds": []
  },
  {
   "id": 149987,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.1952849407,
   "lati": 49.934747773,
-  "FullNameUA": "шосе Карачівське, 26"
+  "FullNameUA": "шосе Карачівське, 26",
+  "ChildsIds": []
  },
  {
   "id": 149988,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.1955826284,
   "lati": 49.9341353862,
-  "FullNameUA": "шосе Карачівське, 27"
+  "FullNameUA": "шосе Карачівське, 27",
+  "ChildsIds": []
  },
  {
   "id": 149989,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195157928099995,
+  "longt": 36.1951579281,
   "lati": 49.9346711282,
-  "FullNameUA": "шосе Карачівське, 28"
+  "FullNameUA": "шосе Карачівське, 28",
+  "ChildsIds": []
  },
  {
   "id": 149990,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1954399383,
   "lati": 49.9340147109,
-  "FullNameUA": "шосе Карачівське, 29"
+  "FullNameUA": "шосе Карачівське, 29",
+  "ChildsIds": []
  },
  {
   "id": 149991,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.195022168,
   "lati": 49.9345641823,
-  "FullNameUA": "шосе Карачівське, 30"
+  "FullNameUA": "шосе Карачівське, 30",
+  "ChildsIds": []
  },
  {
   "id": 149992,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.195309789599996,
+  "longt": 36.1953097896,
   "lati": 49.9339282091,
-  "FullNameUA": "шосе Карачівське, 31"
+  "FullNameUA": "шосе Карачівське, 31",
+  "ChildsIds": []
  },
  {
   "id": 149993,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.194778254,
   "lati": 49.9344496483,
-  "FullNameUA": "шосе Карачівське, 32"
+  "FullNameUA": "шосе Карачівське, 32",
+  "ChildsIds": []
  },
  {
   "id": 149994,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.1951258128,
   "lati": 49.9338079322,
-  "FullNameUA": "шосе Карачівське, 33"
+  "FullNameUA": "шосе Карачівське, 33",
+  "ChildsIds": []
  },
  {
   "id": 149995,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.1945863123,
   "lati": 49.934301069,
-  "FullNameUA": "шосе Карачівське, 34"
+  "FullNameUA": "шосе Карачівське, 34",
+  "ChildsIds": []
  },
  {
   "id": 149996,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1949723564,
   "lati": 49.9336557302,
-  "FullNameUA": "шосе Карачівське, 35"
+  "FullNameUA": "шосе Карачівське, 35",
+  "ChildsIds": []
  },
  {
   "id": 149997,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.194344948,
   "lati": 49.9341424217,
-  "FullNameUA": "шосе Карачівське, 36"
+  "FullNameUA": "шосе Карачівське, 36",
+  "ChildsIds": []
  },
  {
   "id": 149998,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194708833499995,
+  "longt": 36.1947088335,
   "lati": 49.9335945445,
-  "FullNameUA": "шосе Карачівське, 37"
+  "FullNameUA": "шосе Карачівське, 37",
+  "ChildsIds": []
  },
  {
   "id": 149999,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1940583826,
   "lati": 49.9339480859,
-  "FullNameUA": "шосе Карачівське, 38"
+  "FullNameUA": "шосе Карачівське, 38",
+  "ChildsIds": []
  },
  {
   "id": 150000,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194404477199996,
+  "longt": 36.1944044772,
   "lati": 49.9334201966,
-  "FullNameUA": "шосе Карачівське, 39"
+  "FullNameUA": "шосе Карачівське, 39",
+  "ChildsIds": []
  },
  {
   "id": 150001,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.1939420924,
   "lati": 49.933876248,
-  "FullNameUA": "шосе Карачівське, 40"
+  "FullNameUA": "шосе Карачівське, 40",
+  "ChildsIds": []
  },
  {
   "id": 150002,
@@ -1045,34 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.194206026699995,
+  "longt": 36.1942060267,
   "lati": 49.9332785449,
-  "FullNameUA": "шосе Карачівське, 41"
- },
- {
-  "id": 150003,
-  "postcode": 61071,
-  "number": 42,
-  "suffix": "",
-  "block": "",
-  "streetid": 2820,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1937732668,
-  "lati": 49.933790264,
-  "FullNameUA": "шосе Карачівське, 42"
+  "FullNameUA": "шосе Карачівське, 41",
+  "ChildsIds": []
  },
  {
   "id": 150004,
@@ -1097,7 +1114,60 @@
   "reg_date": "",
   "longt": 36.1936615495,
   "lati": 49.9337019137,
-  "FullNameUA": "шосе Карачівське, 42-А"
+  "FullNameUA": "шосе Карачівське, 42-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 150003,
+  "postcode": 61071,
+  "number": 42,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1937732668,
+  "lati": 49.933790264,
+  "FullNameUA": "шосе Карачівське, 42",
+  "ChildsIds": []
+ },
+ {
+  "id": 150006,
+  "postcode": 61071,
+  "number": 43,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1938409213,
+  "lati": 49.9330522021,
+  "FullNameUA": "шосе Карачівське, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 150005,
@@ -1122,57 +1192,8 @@
   "reg_date": "",
   "longt": 36.1940304839,
   "lati": 49.9331594858,
-  "FullNameUA": "шосе Карачівське, 43"
- },
- {
-  "id": 150006,
-  "postcode": 61071,
-  "number": 43,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2820,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.193840921299994,
-  "lati": 49.9330522021,
-  "FullNameUA": "шосе Карачівське, 43-А"
- },
- {
-  "id": 150008,
-  "postcode": 61071,
-  "number": 44,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2820,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2041637534,
-  "lati": 49.940505227399996,
-  "FullNameUA": "шосе Карачівське, 44-А"
+  "FullNameUA": "шосе Карачівське, 43",
+  "ChildsIds": []
  },
  {
   "id": 150007,
@@ -1197,7 +1218,34 @@
   "reg_date": "",
   "longt": 36.1928291503,
   "lati": 49.9332354181,
-  "FullNameUA": "шосе Карачівське, 44"
+  "FullNameUA": "шосе Карачівське, 44",
+  "ChildsIds": []
+ },
+ {
+  "id": 150008,
+  "postcode": 61071,
+  "number": 44,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2041637534,
+  "lati": 49.9405052274,
+  "FullNameUA": "шосе Карачівське, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 150010,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.193463707,
   "lati": 49.932832709,
-  "FullNameUA": "шосе Карачівське, 45-А"
+  "FullNameUA": "шосе Карачівське, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 150009,
@@ -1246,8 +1295,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1935910091,
-  "lati": 49.932873592199996,
-  "FullNameUA": "шосе Карачівське, 45"
+  "lati": 49.9328735922,
+  "FullNameUA": "шосе Карачівське, 45",
+  "ChildsIds": []
  },
  {
   "id": 150011,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.1924160105,
   "lati": 49.9329611068,
-  "FullNameUA": "шосе Карачівське, 46"
+  "FullNameUA": "шосе Карачівське, 46",
+  "ChildsIds": []
  },
  {
   "id": 150012,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.193306596,
   "lati": 49.9326025668,
-  "FullNameUA": "шосе Карачівське, 47"
+  "FullNameUA": "шосе Карачівське, 47",
+  "ChildsIds": []
  },
  {
   "id": 150014,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.191859311799995,
+  "longt": 36.1918593118,
   "lati": 49.9325160335,
-  "FullNameUA": "шосе Карачівське, 48-А"
+  "FullNameUA": "шосе Карачівське, 48-А",
+  "ChildsIds": []
  },
  {
   "id": 150013,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.1917335048,
   "lati": 49.9324104029,
-  "FullNameUA": "шосе Карачівське, 48"
+  "FullNameUA": "шосе Карачівське, 48",
+  "ChildsIds": []
  },
  {
   "id": 150015,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.193065708,
   "lati": 49.9325523222,
-  "FullNameUA": "шосе Карачівське, 49"
+  "FullNameUA": "шосе Карачівське, 49",
+  "ChildsIds": []
  },
  {
   "id": 150016,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.205083809,
   "lati": 49.9382778613,
-  "FullNameUA": "шосе Карачівське, 50"
+  "FullNameUA": "шосе Карачівське, 50",
+  "ChildsIds": []
  },
  {
   "id": 150017,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.1929094794,
   "lati": 49.9324226313,
-  "FullNameUA": "шосе Карачівське, 51"
+  "FullNameUA": "шосе Карачівське, 51",
+  "ChildsIds": []
  },
  {
   "id": 150018,
@@ -1445,9 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205098671200005,
+  "longt": 36.2050986712,
   "lati": 49.9385624082,
-  "FullNameUA": "шосе Карачівське, 52"
+  "FullNameUA": "шосе Карачівське, 52",
+  "ChildsIds": []
  },
  {
   "id": 150019,
@@ -1470,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192612251599996,
+  "longt": 36.1926122516,
   "lati": 49.9322329301,
-  "FullNameUA": "шосе Карачівське, 53"
+  "FullNameUA": "шосе Карачівське, 53",
+  "ChildsIds": []
  },
  {
   "id": 150022,
@@ -1495,9 +1554,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.191587032499996,
+  "longt": 36.1915870325,
   "lati": 49.932307268,
-  "FullNameUA": "шосе Карачівське, 54/1"
+  "FullNameUA": "шосе Карачівське, 54/1",
+  "ChildsIds": []
  },
  {
   "id": 150021,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.191181166,
   "lati": 49.9322338847,
-  "FullNameUA": "шосе Карачівське, 54-А"
+  "FullNameUA": "шосе Карачівське, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 150020,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2052884049,
   "lati": 49.9389783479,
-  "FullNameUA": "шосе Карачівське, 54"
+  "FullNameUA": "шосе Карачівське, 54",
+  "ChildsIds": []
  },
  {
   "id": 150023,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.1926329848,
   "lati": 49.9318946445,
-  "FullNameUA": "шосе Карачівське, 55"
+  "FullNameUA": "шосе Карачівське, 55",
+  "ChildsIds": []
  },
  {
   "id": 150024,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.1907038559,
   "lati": 49.931565315,
-  "FullNameUA": "шосе Карачівське, 56"
+  "FullNameUA": "шосе Карачівське, 56",
+  "ChildsIds": []
  },
  {
   "id": 150026,
@@ -1620,9 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.192201034099995,
+  "longt": 36.1922010341,
   "lati": 49.9315387332,
-  "FullNameUA": "шосе Карачівське, 57-А"
+  "FullNameUA": "шосе Карачівське, 57-А",
+  "ChildsIds": []
  },
  {
   "id": 150025,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.1919972053,
   "lati": 49.931767821,
-  "FullNameUA": "шосе Карачівське, 57"
+  "FullNameUA": "шосе Карачівське, 57",
+  "ChildsIds": []
  },
  {
   "id": 150027,
@@ -1670,9 +1736,12 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.205530928900004,
+  "longt": 36.2055309289,
   "lati": 49.9397008013,
-  "FullNameUA": "шосе Карачівське, 58"
+  "FullNameUA": "шосе Карачівське, 58",
+  "ChildsIds": [
+   150035
+  ]
  },
  {
   "id": 150028,
@@ -1697,7 +1766,34 @@
   "reg_date": "",
   "longt": 36.1918336906,
   "lati": 49.9315654822,
-  "FullNameUA": "шосе Карачівське, 59"
+  "FullNameUA": "шосе Карачівське, 59",
+  "ChildsIds": []
+ },
+ {
+  "id": 182748,
+  "postcode": 61071,
+  "number": 60,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 11:57:34",
+  "longt": 36.1901266315,
+  "lati": 49.9307495425,
+  "FullNameUA": "шосе Карачівське, 60",
+  "ChildsIds": []
  },
  {
   "id": 150029,
@@ -1722,7 +1818,34 @@
   "reg_date": "",
   "longt": 36.1915451859,
   "lati": 49.931382877,
-  "FullNameUA": "шосе Карачівське, 61"
+  "FullNameUA": "шосе Карачівське, 61",
+  "ChildsIds": []
+ },
+ {
+  "id": 182749,
+  "postcode": 61071,
+  "number": 62,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:00:31",
+  "longt": 36.1899285843,
+  "lati": 49.9305235871,
+  "FullNameUA": "шосе Карачівське, 62",
+  "ChildsIds": []
  },
  {
   "id": 150030,
@@ -1745,9 +1868,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.191385605099995,
+  "longt": 36.1913856051,
   "lati": 49.9312535041,
-  "FullNameUA": "шосе Карачівське, 63"
+  "FullNameUA": "шосе Карачівське, 63",
+  "ChildsIds": []
+ },
+ {
+  "id": 182750,
+  "postcode": 61071,
+  "number": 64,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:02:04",
+  "longt": 36.1897434544,
+  "lati": 49.9303023662,
+  "FullNameUA": "шосе Карачівське, 64",
+  "ChildsIds": []
  },
  {
   "id": 150031,
@@ -1772,7 +1922,34 @@
   "reg_date": "",
   "longt": 36.1912102218,
   "lati": 49.9310473686,
-  "FullNameUA": "шосе Карачівське, 65"
+  "FullNameUA": "шосе Карачівське, 65",
+  "ChildsIds": []
+ },
+ {
+  "id": 182751,
+  "postcode": 61071,
+  "number": 66,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:06:28",
+  "longt": 36.1893638773,
+  "lati": 49.9302958482,
+  "FullNameUA": "шосе Карачівське, 66",
+  "ChildsIds": []
  },
  {
   "id": 150032,
@@ -1797,7 +1974,60 @@
   "reg_date": "",
   "longt": 36.1909418299,
   "lati": 49.9307650135,
-  "FullNameUA": "шосе Карачівське, 67"
+  "FullNameUA": "шосе Карачівське, 67",
+  "ChildsIds": []
+ },
+ {
+  "id": 182752,
+  "postcode": 61071,
+  "number": 68,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:08:38",
+  "longt": 36.1895397091,
+  "lati": 49.9300288422,
+  "FullNameUA": "шосе Карачівське, 68",
+  "ChildsIds": []
+ },
+ {
+  "id": 182753,
+  "postcode": 61071,
+  "number": 70,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:10:15",
+  "longt": 36.1894878144,
+  "lati": 49.929953929,
+  "FullNameUA": "шосе Карачівське, 70",
+  "ChildsIds": []
  },
  {
   "id": 150033,
@@ -1822,7 +2052,34 @@
   "reg_date": "",
   "longt": 36.1908196598,
   "lati": 49.9305953522,
-  "FullNameUA": "шосе Карачівське, 71"
+  "FullNameUA": "шосе Карачівське, 71",
+  "ChildsIds": []
+ },
+ {
+  "id": 182754,
+  "postcode": 61071,
+  "number": 72,
+  "suffix": "",
+  "block": "",
+  "streetid": 2820,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "28.04.2020 12:11:59",
+  "longt": 36.1890747104,
+  "lati": 49.9298567694,
+  "FullNameUA": "шосе Карачівське, 72",
+  "ChildsIds": []
  },
  {
   "id": 150034,
@@ -1847,7 +2104,8 @@
   "reg_date": "",
   "longt": 36.1907220707,
   "lati": 49.9304696489,
-  "FullNameUA": "шосе Карачівське, 73"
+  "FullNameUA": "шосе Карачівське, 73",
+  "ChildsIds": []
  },
  {
   "id": 150035,
@@ -1866,13 +2124,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "32, 23.12.2015; 127, 23.02.2016",
-  "reg_date": "",
+  "reg_date": "23.01.2020 16:44:01",
   "longt": 36.1890558582,
   "lati": 49.9292227982,
-  "FullNameUA": "шосе Карачівське, 74"
+  "FullNameUA": "шосе Карачівське, 74",
+  "ChildsIds": []
  },
  {
   "id": 150036,
@@ -1897,7 +2156,8 @@
   "reg_date": "",
   "longt": 36.1909772745,
   "lati": 49.9302195021,
-  "FullNameUA": "шосе Карачівське, 75"
+  "FullNameUA": "шосе Карачівське, 75",
+  "ChildsIds": []
  },
  {
   "id": 150037,
@@ -1921,8 +2181,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1913775604,
-  "lati": 49.929944335900004,
-  "FullNameUA": "шосе Карачівське, 77-А"
+  "lati": 49.9299443359,
+  "FullNameUA": "шосе Карачівське, 77-А",
+  "ChildsIds": []
  },
  {
   "id": 150038,
@@ -1946,8 +2207,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1906796245,
-  "lati": 49.929968491800004,
-  "FullNameUA": "шосе Карачівське, 79"
+  "lati": 49.9299684918,
+  "FullNameUA": "шосе Карачівське, 79",
+  "ChildsIds": []
  },
  {
   "id": 150039,
@@ -1972,7 +2234,8 @@
   "reg_date": "",
   "longt": 36.1903042338,
   "lati": 49.9299575574,
-  "FullNameUA": "шосе Карачівське, 81"
+  "FullNameUA": "шосе Карачівське, 81",
+  "ChildsIds": []
  },
  {
   "id": 150040,
@@ -1996,8 +2259,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1902106513,
-  "lati": 49.929822386800005,
-  "FullNameUA": "шосе Карачівське, 83"
+  "lati": 49.9298223868,
+  "FullNameUA": "шосе Карачівське, 83",
+  "ChildsIds": []
  },
  {
   "id": 150041,
@@ -2022,7 +2286,8 @@
   "reg_date": "",
   "longt": 36.1899951654,
   "lati": 49.9295057908,
-  "FullNameUA": "шосе Карачівське, 85"
+  "FullNameUA": "шосе Карачівське, 85",
+  "ChildsIds": []
  },
  {
   "id": 150042,
@@ -2047,7 +2312,8 @@
   "reg_date": "",
   "longt": 36.1898539406,
   "lati": 49.9292858453,
-  "FullNameUA": "шосе Карачівське, 87"
+  "FullNameUA": "шосе Карачівське, 87",
+  "ChildsIds": []
  },
  {
   "id": 150043,
@@ -2072,7 +2338,8 @@
   "reg_date": "",
   "longt": 36.1897597232,
   "lati": 49.9291223428,
-  "FullNameUA": "шосе Карачівське, 89"
+  "FullNameUA": "шосе Карачівське, 89",
+  "ChildsIds": []
  },
  {
   "id": 150044,
@@ -2097,7 +2364,8 @@
   "reg_date": "",
   "longt": 36.1896042456,
   "lati": 49.9289460676,
-  "FullNameUA": "шосе Карачівське, 91"
+  "FullNameUA": "шосе Карачівське, 91",
+  "ChildsIds": []
  },
  {
   "id": 150045,
@@ -2121,8 +2389,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.189476155,
-  "lati": 49.928783604100005,
-  "FullNameUA": "шосе Карачівське, 93-А"
+  "lati": 49.9287836041,
+  "FullNameUA": "шосе Карачівське, 93-А",
+  "ChildsIds": []
  },
  {
   "id": 150046,
@@ -2147,7 +2416,8 @@
   "reg_date": "",
   "longt": 36.1892526568,
   "lati": 49.9285441029,
-  "FullNameUA": "шосе Карачівське, 95"
+  "FullNameUA": "шосе Карачівське, 95",
+  "ChildsIds": []
  },
  {
   "id": 150047,
@@ -2172,7 +2442,8 @@
   "reg_date": "",
   "longt": 36.1893271943,
   "lati": 49.9283525649,
-  "FullNameUA": "шосе Карачівське, 97"
+  "FullNameUA": "шосе Карачівське, 97",
+  "ChildsIds": []
  },
  {
   "id": 150048,
@@ -2196,8 +2467,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1891493394,
-  "lati": 49.928263654700004,
-  "FullNameUA": "шосе Карачівське, 99"
+  "lati": 49.9282636547,
+  "FullNameUA": "шосе Карачівське, 99",
+  "ChildsIds": []
  },
  {
   "id": 150049,
@@ -2222,7 +2494,8 @@
   "reg_date": "",
   "longt": 36.1890208045,
   "lati": 49.9280893091,
-  "FullNameUA": "шосе Карачівське, 101"
+  "FullNameUA": "шосе Карачівське, 101",
+  "ChildsIds": []
  },
  {
   "id": 150050,
@@ -2247,7 +2520,8 @@
   "reg_date": "",
   "longt": 36.1889144909,
   "lati": 49.9279346505,
-  "FullNameUA": "шосе Карачівське, 103"
+  "FullNameUA": "шосе Карачівське, 103",
+  "ChildsIds": []
  },
  {
   "id": 150051,
@@ -2272,7 +2546,8 @@
   "reg_date": "",
   "longt": 36.1887320904,
   "lati": 49.9278045466,
-  "FullNameUA": "шосе Карачівське, 105"
+  "FullNameUA": "шосе Карачівське, 105",
+  "ChildsIds": []
  },
  {
   "id": 150052,
@@ -2296,8 +2571,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1886796499,
-  "lati": 49.927622458500004,
-  "FullNameUA": "шосе Карачівське, 107"
+  "lati": 49.9276224585,
+  "FullNameUA": "шосе Карачівське, 107",
+  "ChildsIds": []
  },
  {
   "id": 150054,
@@ -2322,7 +2598,8 @@
   "reg_date": "",
   "longt": 36.1885606577,
   "lati": 49.9273168092,
-  "FullNameUA": "шосе Карачівське, 109-А"
+  "FullNameUA": "шосе Карачівське, 109-А",
+  "ChildsIds": []
  },
  {
   "id": 150053,
@@ -2346,8 +2623,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1884914228,
-  "lati": 49.927514203600005,
-  "FullNameUA": "шосе Карачівське, 109"
+  "lati": 49.9275142036,
+  "FullNameUA": "шосе Карачівське, 109",
+  "ChildsIds": []
  },
  {
   "id": 150055,
@@ -2371,8 +2649,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1883219689,
-  "lati": 49.927223867900004,
-  "FullNameUA": "шосе Карачівське, 111"
+  "lati": 49.9272238679,
+  "FullNameUA": "шосе Карачівське, 111",
+  "ChildsIds": []
  },
  {
   "id": 150056,
@@ -2397,7 +2676,8 @@
   "reg_date": "",
   "longt": 36.1881198619,
   "lati": 49.9269730646,
-  "FullNameUA": "шосе Карачівське, 113"
+  "FullNameUA": "шосе Карачівське, 113",
+  "ChildsIds": []
  },
  {
   "id": 150057,
@@ -2422,7 +2702,8 @@
   "reg_date": "",
   "longt": 36.1883878521,
   "lati": 49.9267552776,
-  "FullNameUA": "шосе Карачівське, 115"
+  "FullNameUA": "шосе Карачівське, 115",
+  "ChildsIds": []
  },
  {
   "id": 150058,
@@ -2447,7 +2728,8 @@
   "reg_date": "",
   "longt": 36.1873053048,
   "lati": 49.922952012,
-  "FullNameUA": "шосе Карачівське, 121-А"
+  "FullNameUA": "шосе Карачівське, 121-А",
+  "ChildsIds": []
  },
  {
   "id": 150059,
@@ -2472,7 +2754,8 @@
   "reg_date": "",
   "longt": 36.1746494917,
   "lati": 49.9256295412,
-  "FullNameUA": "шосе Карачівське, 125"
+  "FullNameUA": "шосе Карачівське, 125",
+  "ChildsIds": []
  },
  {
   "id": 150060,
@@ -2497,7 +2780,8 @@
   "reg_date": "",
   "longt": 36.1686119514,
   "lati": 49.9243612578,
-  "FullNameUA": "шосе Карачівське, 125-А"
+  "FullNameUA": "шосе Карачівське, 125-А",
+  "ChildsIds": []
  },
  {
   "id": 177950,
@@ -2522,6 +2806,7 @@
   "reg_date": "",
   "longt": 36.1722929397,
   "lati": 49.9280268942,
-  "FullNameUA": "шосе Карачівське, 127"
+  "FullNameUA": "шосе Карачівське, 127",
+  "ChildsIds": []
  }
 ]

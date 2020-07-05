@@ -20,34 +20,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.222709015999996,
-  "lati": 49.999077920400005,
-  "FullNameUA": "провулок Рогатинський, 3"
- },
- {
-  "id": 118878,
-  "postcode": 61022,
-  "number": 4,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3801,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.221950428599996,
-  "lati": 49.999176234500005,
-  "FullNameUA": "провулок Рогатинський, 4-В"
+  "longt": 36.222709016,
+  "lati": 49.9990779204,
+  "FullNameUA": "провулок Рогатинський, 3",
+  "ChildsIds": []
  },
  {
   "id": 118876,
@@ -72,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2221090985,
   "lati": 49.9990229332,
-  "FullNameUA": "провулок Рогатинський, 4-А"
+  "FullNameUA": "провулок Рогатинський, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 118877,
@@ -97,7 +74,34 @@
   "reg_date": "",
   "longt": 36.2222516593,
   "lati": 49.999128512,
-  "FullNameUA": "провулок Рогатинський, 4"
+  "FullNameUA": "провулок Рогатинський, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 118878,
+  "postcode": 61022,
+  "number": 4,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3801,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2219504286,
+  "lati": 49.9991762345,
+  "FullNameUA": "провулок Рогатинський, 4-В",
+  "ChildsIds": []
  },
  {
   "id": 118879,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2225108862,
-  "lati": 49.998925826400004,
-  "FullNameUA": "провулок Рогатинський, 5"
+  "lati": 49.9989258264,
+  "FullNameUA": "провулок Рогатинський, 5",
+  "ChildsIds": []
  },
  {
   "id": 118880,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2218536152,
   "lati": 49.9988366946,
-  "FullNameUA": "провулок Рогатинський, 6"
+  "FullNameUA": "провулок Рогатинський, 6",
+  "ChildsIds": []
  },
  {
   "id": 118881,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2222830957,
   "lati": 49.9987433415,
-  "FullNameUA": "провулок Рогатинський, 7"
+  "FullNameUA": "провулок Рогатинський, 7",
+  "ChildsIds": []
  },
  {
   "id": 118882,
@@ -196,33 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2216422792,
-  "lati": 49.998620637500004,
-  "FullNameUA": "провулок Рогатинський, 8"
- },
- {
-  "id": 178025,
-  "postcode": 61058,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3801,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Дзержинськоъ райради 47-10, 21.02.1967",
-  "reg_date": "",
-  "longt": 36.222246761499996,
-  "lati": 49.9984662935,
-  "FullNameUA": "провулок Рогатинський, 9"
+  "lati": 49.9986206375,
+  "FullNameUA": "провулок Рогатинський, 8",
+  "ChildsIds": []
  },
  {
   "id": 118883,
@@ -245,9 +228,36 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Дзержинськоъ райради 47-10, 21.02.1967",
   "reg_date": "",
-  "longt": 36.222103742499996,
-  "lati": 49.998260810400005,
-  "FullNameUA": "провулок Рогатинський, 9-А"
+  "longt": 36.2221037425,
+  "lati": 49.9982608104,
+  "FullNameUA": "провулок Рогатинський, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 178025,
+  "postcode": 61058,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3801,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинськоъ райради 47-10, 21.02.1967",
+  "reg_date": "",
+  "longt": 36.2222467615,
+  "lati": 49.9984662935,
+  "FullNameUA": "провулок Рогатинський, 9",
+  "ChildsIds": []
  },
  {
   "id": 118884,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2213127728,
-  "lati": 49.998385775900005,
-  "FullNameUA": "провулок Рогатинський, 10"
+  "lati": 49.9983857759,
+  "FullNameUA": "провулок Рогатинський, 10",
+  "ChildsIds": []
  },
  {
   "id": 118885,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2215535664,
   "lati": 49.9981869334,
-  "FullNameUA": "провулок Рогатинський, 11-13"
+  "FullNameUA": "провулок Рогатинський, 11-13",
+  "ChildsIds": []
  },
  {
   "id": 118886,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2214830276,
   "lati": 49.9980942991,
-  "FullNameUA": "провулок Рогатинський, 13"
+  "FullNameUA": "провулок Рогатинський, 13",
+  "ChildsIds": []
  },
  {
   "id": 118887,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2214035521,
   "lati": 49.9980644792,
-  "FullNameUA": "провулок Рогатинський, 15"
+  "FullNameUA": "провулок Рогатинський, 15",
+  "ChildsIds": []
  },
  {
   "id": 118888,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2216555726,
-  "lati": 49.997900106100005,
-  "FullNameUA": "провулок Рогатинський, 15-А"
+  "lati": 49.9979001061,
+  "FullNameUA": "провулок Рогатинський, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 118889,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2208606444,
   "lati": 49.9975626582,
-  "FullNameUA": "провулок Рогатинський, 17"
+  "FullNameUA": "провулок Рогатинський, 17",
+  "ChildsIds": []
  },
  {
   "id": 118890,
@@ -421,7 +437,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2202182024,
-  "lati": 49.997079815300005,
-  "FullNameUA": "провулок Рогатинський, 19"
+  "lati": 49.9970798153,
+  "FullNameUA": "провулок Рогатинський, 19",
+  "ChildsIds": []
  }
 ]

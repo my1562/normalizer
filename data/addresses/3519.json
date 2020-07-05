@@ -22,7 +22,8 @@
   "reg_date": "01.04.2019 14:50:05",
   "longt": 36.2114557501,
   "lati": 50.0255394428,
-  "FullNameUA": "вулиця Отакара Яроша, 3-Б"
+  "FullNameUA": "вулиця Отакара Яроша, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 118275,
@@ -46,8 +47,9 @@
   "confrm": "31/2, 03.02.09",
   "reg_date": "",
   "longt": 36.2121751579,
-  "lati": 50.024997449500006,
-  "FullNameUA": "вулиця Отакара Яроша, 3-А"
+  "lati": 50.0249974495,
+  "FullNameUA": "вулиця Отакара Яроша, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 118277,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2130230335,
   "lati": 50.025650804,
-  "FullNameUA": "вулиця Отакара Яроша, 5"
+  "FullNameUA": "вулиця Отакара Яроша, 5",
+  "ChildsIds": []
  },
  {
   "id": 118279,
@@ -96,8 +99,9 @@
   "confrm": "адреса юр. особи",
   "reg_date": "",
   "longt": 36.2130618095,
-  "lati": 50.026228524800004,
-  "FullNameUA": "вулиця Отакара Яроша, 7-А"
+  "lati": 50.0262285248,
+  "FullNameUA": "вулиця Отакара Яроша, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 118278,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.213942499,
-  "lati": 50.025401939700004,
-  "FullNameUA": "вулиця Отакара Яроша, 7"
+  "lati": 50.0254019397,
+  "FullNameUA": "вулиця Отакара Яроша, 7",
+  "ChildsIds": []
  },
  {
   "id": 179018,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2130725384,
   "lati": 50.0237333389,
-  "FullNameUA": "вулиця Отакара Яроша, 8-А"
+  "FullNameUA": "вулиця Отакара Яроша, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 118281,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2148066056,
   "lati": 50.0257737975,
-  "FullNameUA": "вулиця Отакара Яроша, 9-А"
+  "FullNameUA": "вулиця Отакара Яроша, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 118280,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2140272355,
   "lati": 50.0260075869,
-  "FullNameUA": "вулиця Отакара Яроша, 9"
+  "FullNameUA": "вулиця Отакара Яроша, 9",
+  "ChildsIds": []
  },
  {
   "id": 118282,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2116283061,
   "lati": 50.0239838127,
-  "FullNameUA": "вулиця Отакара Яроша, 10"
+  "FullNameUA": "вулиця Отакара Яроша, 10",
+  "ChildsIds": []
  },
  {
   "id": 118284,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2148796997,
-  "lati": 50.026592538200006,
-  "FullNameUA": "вулиця Отакара Яроша, 11-А"
+  "lati": 50.0265925382,
+  "FullNameUA": "вулиця Отакара Яроша, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 118283,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215655175500004,
-  "lati": 50.026133459700006,
-  "FullNameUA": "вулиця Отакара Яроша, 11"
+  "longt": 36.2156551755,
+  "lati": 50.0261334597,
+  "FullNameUA": "вулиця Отакара Яроша, 11",
+  "ChildsIds": []
  },
  {
   "id": 118285,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2126646067,
-  "lati": 50.024381912200006,
-  "FullNameUA": "вулиця Отакара Яроша, 12"
+  "lati": 50.0243819122,
+  "FullNameUA": "вулиця Отакара Яроша, 12",
+  "ChildsIds": []
  },
  {
   "id": 118286,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2133749711,
   "lati": 50.0247512365,
-  "FullNameUA": "вулиця Отакара Яроша, 14"
+  "FullNameUA": "вулиця Отакара Яроша, 14",
+  "ChildsIds": []
  },
  {
   "id": 118287,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2172746758,
-  "lati": 50.027120048600004,
-  "FullNameUA": "вулиця Отакара Яроша, 15"
+  "lati": 50.0271200486,
+  "FullNameUA": "вулиця Отакара Яроша, 15",
+  "ChildsIds": []
  },
  {
   "id": 118289,
@@ -372,32 +386,8 @@
   "reg_date": "",
   "longt": 36.214076124,
   "lati": 50.0249764721,
-  "FullNameUA": "вулиця Отакара Яроша, 16-А"
- },
- {
-  "id": 118288,
-  "postcode": 61045,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2150790597,
-  "lati": 50.02531109660001,
-  "FullNameUA": "вулиця Отакара Яроша, 16"
+  "FullNameUA": "вулиця Отакара Яроша, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 118290,
@@ -421,8 +411,61 @@
   "confrm": "",
   "reg_date": "16.05.2018 09:33:02",
   "longt": 36.2162091274,
-  "lati": 50.024939174900005,
-  "FullNameUA": "вулиця Отакара Яроша, 16-Г"
+  "lati": 50.0249391749,
+  "FullNameUA": "вулиця Отакара Яроша, 16-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 118288,
+  "postcode": 61045,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2150790597,
+  "lati": 50.0253110966,
+  "FullNameUA": "вулиця Отакара Яроша, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 118291,
+  "postcode": 61045,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2185045295,
+  "lati": 50.0272708908,
+  "FullNameUA": "вулиця Отакара Яроша, 17",
+  "ChildsIds": []
  },
  {
   "id": 118293,
@@ -446,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2182778276,
-  "lati": 50.028041438600006,
-  "FullNameUA": "вулиця Отакара Яроша, 17-Б"
+  "lati": 50.0280414386,
+  "FullNameUA": "вулиця Отакара Яроша, 17-Б",
+  "ChildsIds": []
  },
  {
   "id": 118292,
@@ -472,32 +516,8 @@
   "reg_date": "",
   "longt": 36.2177718166,
   "lati": 50.0275833537,
-  "FullNameUA": "вулиця Отакара Яроша, 17-А"
- },
- {
-  "id": 118291,
-  "postcode": 61045,
-  "number": 17,
-  "suffix": "",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2185045295,
-  "lati": 50.027270890800004,
-  "FullNameUA": "вулиця Отакара Яроша, 17"
+  "FullNameUA": "вулиця Отакара Яроша, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 118295,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2168941216,
   "lati": 50.0259975876,
-  "FullNameUA": "вулиця Отакара Яроша, 18-А"
+  "FullNameUA": "вулиця Отакара Яроша, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 118296,
@@ -546,58 +567,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2196710197,
-  "lati": 50.027163597000005,
-  "FullNameUA": "вулиця Отакара Яроша, 18-Б"
- },
- {
-  "id": 118298,
-  "postcode": 61045,
-  "number": 18,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2205820191,
-  "lati": 50.027183612500004,
-  "FullNameUA": "вулиця Отакара Яроша, 18-Д"
- },
- {
-  "id": 118294,
-  "postcode": 61045,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2186360964,
-  "lati": 50.026841285,
-  "FullNameUA": "вулиця Отакара Яроша, 18"
+  "lati": 50.027163597,
+  "FullNameUA": "вулиця Отакара Яроша, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 118297,
@@ -622,12 +594,39 @@
   "reg_date": "",
   "longt": 36.2198794946,
   "lati": 50.0260246484,
-  "FullNameUA": "вулиця Отакара Яроша, 18-Г"
+  "FullNameUA": "вулиця Отакара Яроша, 18-Г",
+  "ChildsIds": []
  },
  {
-  "id": 118299,
+  "id": 118298,
   "postcode": 61045,
-  "number": 19,
+  "number": 18,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2205820191,
+  "lati": 50.0271836125,
+  "FullNameUA": "вулиця Отакара Яроша, 18-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 118294,
+  "postcode": 61045,
+  "number": 18,
   "suffix": "",
   "block": "",
   "streetid": 3519,
@@ -645,9 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2195518695,
-  "lati": 50.0274089057,
-  "FullNameUA": "вулиця Отакара Яроша, 19"
+  "longt": 36.2186360964,
+  "lati": 50.026841285,
+  "FullNameUA": "вулиця Отакара Яроша, 18",
+  "ChildsIds": []
  },
  {
   "id": 118300,
@@ -672,13 +672,14 @@
   "reg_date": "",
   "longt": 36.2189922963,
   "lati": 50.027735933,
-  "FullNameUA": "вулиця Отакара Яроша, 19-А"
+  "FullNameUA": "вулиця Отакара Яроша, 19-А",
+  "ChildsIds": []
  },
  {
-  "id": 118302,
-  "postcode": 61072,
-  "number": 21,
-  "suffix": "А",
+  "id": 118299,
+  "postcode": 61045,
+  "number": 19,
+  "suffix": "",
   "block": "",
   "streetid": 3519,
   "status_id": 1,
@@ -695,34 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2203002053,
-  "lati": 50.027899814600005,
-  "FullNameUA": "вулиця Отакара Яроша, 21-А"
- },
- {
-  "id": 118303,
-  "postcode": 61072,
-  "number": 21,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2199470178,
-  "lati": 50.027433068700006,
-  "FullNameUA": "вулиця Отакара Яроша, 21-Б"
+  "longt": 36.2195518695,
+  "lati": 50.0274089057,
+  "FullNameUA": "вулиця Отакара Яроша, 19",
+  "ChildsIds": []
  },
  {
   "id": 118301,
@@ -746,8 +723,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2205815243,
-  "lati": 50.027538112500004,
-  "FullNameUA": "вулиця Отакара Яроша, 21"
+  "lati": 50.0275381125,
+  "FullNameUA": "вулиця Отакара Яроша, 21",
+  "ChildsIds": []
+ },
+ {
+  "id": 118303,
+  "postcode": 61072,
+  "number": 21,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2199470178,
+  "lati": 50.0274330687,
+  "FullNameUA": "вулиця Отакара Яроша, 21-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 118302,
+  "postcode": 61072,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2203002053,
+  "lati": 50.0278998146,
+  "FullNameUA": "вулиця Отакара Яроша, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 118304,
@@ -771,33 +801,9 @@
   "confrm": "Рішення ВК Дзержинської райради 7/72, 17.01.2006; Рішення ВК ХМР (квартира 9а, 9) № 529, 14.08.2013",
   "reg_date": "",
   "longt": 36.2247158921,
-  "lati": 50.027100857700006,
-  "FullNameUA": "вулиця Отакара Яроша, 22"
- },
- {
-  "id": 118306,
-  "postcode": 61072,
-  "number": 23,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2210424453,
-  "lati": 50.027990139500005,
-  "FullNameUA": "вулиця Отакара Яроша, 23-А"
+  "lati": 50.0271008577,
+  "FullNameUA": "вулиця Отакара Яроша, 22",
+  "ChildsIds": []
  },
  {
   "id": 118305,
@@ -822,7 +828,60 @@
   "reg_date": "",
   "longt": 36.2216537289,
   "lati": 50.0276665111,
-  "FullNameUA": "вулиця Отакара Яроша, 23"
+  "FullNameUA": "вулиця Отакара Яроша, 23",
+  "ChildsIds": []
+ },
+ {
+  "id": 118306,
+  "postcode": 61072,
+  "number": 23,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2210424453,
+  "lati": 50.0279901395,
+  "FullNameUA": "вулиця Отакара Яроша, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 118308,
+  "postcode": 61072,
+  "number": 24,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Дзержинської райради № 25/1, 18.01.2008; Рішення ВК ХМР № 137, 05.03.2014 (квартира 61)",
+  "reg_date": "06.10.2011 00:00:00",
+  "longt": 36.2257491724,
+  "lati": 50.0272525563,
+  "FullNameUA": "вулиця Отакара Яроша, 24-Б",
+  "ChildsIds": []
  },
  {
   "id": 118307,
@@ -847,32 +906,8 @@
   "reg_date": "",
   "longt": 36.2354578802,
   "lati": 50.0304605362,
-  "FullNameUA": "вулиця Отакара Яроша, 24-А"
- },
- {
-  "id": 118308,
-  "postcode": 61072,
-  "number": 24,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Дзержинської райради № 25/1, 18.01.2008; Рішення ВК ХМР № 137, 05.03.2014 (квартира 61)",
-  "reg_date": "06.10.2011 00:00:00",
-  "longt": 36.2257491724,
-  "lati": 50.027252556300006,
-  "FullNameUA": "вулиця Отакара Яроша, 24-Б"
+  "FullNameUA": "вулиця Отакара Яроша, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 118310,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2244158714,
-  "lati": 50.028523492000005,
-  "FullNameUA": "вулиця Отакара Яроша, 25-А"
+  "lati": 50.028523492,
+  "FullNameUA": "вулиця Отакара Яроша, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 118309,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2231404481,
   "lati": 50.0278515814,
-  "FullNameUA": "вулиця Отакара Яроша, 25/46"
+  "FullNameUA": "вулиця Отакара Яроша, 25/46",
+  "ChildsIds": []
  },
  {
   "id": 118311,
@@ -947,7 +984,34 @@
   "reg_date": "26.02.2019 16:38:35",
   "longt": 36.2264143947,
   "lati": 50.0277294679,
-  "FullNameUA": "вулиця Отакара Яроша, 26"
+  "FullNameUA": "вулиця Отакара Яроша, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 118312,
+  "postcode": 61072,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 3519,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2240367572,
+  "lati": 50.0279622955,
+  "FullNameUA": "вулиця Отакара Яроша, 27",
+  "ChildsIds": []
  },
  {
   "id": 118313,
@@ -971,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236214047,
-  "lati": 50.02835783290001,
-  "FullNameUA": "вулиця Отакара Яроша, 27-А"
+  "lati": 50.0283578329,
+  "FullNameUA": "вулиця Отакара Яроша, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 118314,
@@ -997,32 +1062,8 @@
   "reg_date": "13.06.2018 14:19:53",
   "longt": 36.2230464604,
   "lati": 50.0273866829,
-  "FullNameUA": "вулиця Отакара Яроша, 27-М"
- },
- {
-  "id": 118312,
-  "postcode": 61072,
-  "number": 27,
-  "suffix": "",
-  "block": "",
-  "streetid": 3519,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2240367572,
-  "lati": 50.027962295500004,
-  "FullNameUA": "вулиця Отакара Яроша, 27"
+  "FullNameUA": "вулиця Отакара Яроша, 27-М",
+  "ChildsIds": []
  },
  {
   "id": 118315,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.235055857700004,
+  "longt": 36.2350558577,
   "lati": 50.0305025432,
-  "FullNameUA": "вулиця Отакара Яроша, 28"
+  "FullNameUA": "вулиця Отакара Яроша, 28",
+  "ChildsIds": []
  },
  {
   "id": 118316,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2251480128,
-  "lati": 50.028100733600006,
-  "FullNameUA": "вулиця Отакара Яроша, 29"
+  "lati": 50.0281007336,
+  "FullNameUA": "вулиця Отакара Яроша, 29",
+  "ChildsIds": []
  },
  {
   "id": 176446,
@@ -1096,8 +1139,9 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.2260646993,
-  "lati": 50.028222562100005,
-  "FullNameUA": "вулиця Отакара Яроша, 31/1"
+  "lati": 50.0282225621,
+  "FullNameUA": "вулиця Отакара Яроша, 31/1",
+  "ChildsIds": []
  },
  {
   "id": 118317,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2270870793,
-  "lati": 50.028649494700005,
-  "FullNameUA": "вулиця Отакара Яроша, 33"
+  "lati": 50.0286494947,
+  "FullNameUA": "вулиця Отакара Яроша, 33",
+  "ChildsIds": []
  },
  {
   "id": 118318,
@@ -1146,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2280129734,
-  "lati": 50.028879769700005,
-  "FullNameUA": "вулиця Отакара Яроша, 35"
+  "lati": 50.0288797697,
+  "FullNameUA": "вулиця Отакара Яроша, 35",
+  "ChildsIds": []
  },
  {
   "id": 118319,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2285010698,
   "lati": 50.0292984837,
-  "FullNameUA": "вулиця Отакара Яроша, 37"
+  "FullNameUA": "вулиця Отакара Яроша, 37",
+  "ChildsIds": []
  },
  {
   "id": 118320,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2290078112,
   "lati": 50.0296188932,
-  "FullNameUA": "вулиця Отакара Яроша, 39"
+  "FullNameUA": "вулиця Отакара Яроша, 39",
+  "ChildsIds": []
  },
  {
   "id": 118321,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.2294938935,
   "lati": 50.0298855822,
-  "FullNameUA": "вулиця Отакара Яроша, 41"
+  "FullNameUA": "вулиця Отакара Яроша, 41",
+  "ChildsIds": []
  },
  {
   "id": 118322,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.229976888799996,
+  "longt": 36.2299768888,
   "lati": 50.0301483163,
-  "FullNameUA": "вулиця Отакара Яроша, 43"
+  "FullNameUA": "вулиця Отакара Яроша, 43",
+  "ChildsIds": []
  },
  {
   "id": 118323,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2294366928,
   "lati": 50.0307243482,
-  "FullNameUA": "вулиця Отакара Яроша, 45"
+  "FullNameUA": "вулиця Отакара Яроша, 45",
+  "ChildsIds": []
  },
  {
   "id": 118324,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2290601153,
   "lati": 50.0304876867,
-  "FullNameUA": "вулиця Отакара Яроша, 45-А"
+  "FullNameUA": "вулиця Отакара Яроша, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 118325,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230599864000006,
+  "longt": 36.230599864,
   "lati": 50.0304287494,
-  "FullNameUA": "вулиця Отакара Яроша, 47"
+  "FullNameUA": "вулиця Отакара Яроша, 47",
+  "ChildsIds": []
  },
  {
   "id": 118326,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23037735970001,
-  "lati": 50.030995366700004,
-  "FullNameUA": "вулиця Отакара Яроша, 49"
+  "longt": 36.2303773597,
+  "lati": 50.0309953667,
+  "FullNameUA": "вулиця Отакара Яроша, 49",
+  "ChildsIds": []
  },
  {
   "id": 118327,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2312920175,
   "lati": 50.03074608,
-  "FullNameUA": "вулиця Отакара Яроша, 51"
+  "FullNameUA": "вулиця Отакара Яроша, 51",
+  "ChildsIds": []
  },
  {
   "id": 118328,
@@ -1395,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232084988800004,
+  "longt": 36.2320849888,
   "lati": 50.0308888032,
-  "FullNameUA": "вулиця Отакара Яроша, 53"
+  "FullNameUA": "вулиця Отакара Яроша, 53",
+  "ChildsIds": []
  },
  {
   "id": 118329,
@@ -1420,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23389922650001,
+  "longt": 36.2338992265,
   "lati": 50.0309013403,
-  "FullNameUA": "вулиця Отакара Яроша, 54"
+  "FullNameUA": "вулиця Отакара Яроша, 54",
+  "ChildsIds": []
  },
  {
   "id": 118330,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.2329537544,
   "lati": 50.0309892477,
-  "FullNameUA": "вулиця Отакара Яроша, 55"
+  "FullNameUA": "вулиця Отакара Яроша, 55",
+  "ChildsIds": []
  },
  {
   "id": 118331,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2360497315,
   "lati": 50.0310782095,
-  "FullNameUA": "вулиця Отакара Яроша, 59"
+  "FullNameUA": "вулиця Отакара Яроша, 59",
+  "ChildsIds": []
  },
  {
   "id": 118332,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2365282808,
   "lati": 50.0313740943,
-  "FullNameUA": "вулиця Отакара Яроша, 61"
+  "FullNameUA": "вулиця Отакара Яроша, 61",
+  "ChildsIds": []
  },
  {
   "id": 118333,
@@ -1520,8 +1580,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234770362000006,
+  "longt": 36.234770362,
   "lati": 50.0313676043,
-  "FullNameUA": "вулиця Отакара Яроша, 61-А"
+  "FullNameUA": "вулиця Отакара Яроша, 61-А",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "27.12.2019 11:22:10",
   "longt": 36.15187259,
   "lati": 49.9768619553,
-  "FullNameUA": "вулиця Золочівська, 1"
+  "FullNameUA": "вулиця Золочівська, 1",
+  "ChildsIds": []
  },
  {
   "id": 140018,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.152780946,
-  "lati": 49.977867967499996,
-  "FullNameUA": "вулиця Золочівська, 3"
+  "lati": 49.9778679675,
+  "FullNameUA": "вулиця Золочівська, 3",
+  "ChildsIds": []
  },
  {
   "id": 175883,
@@ -66,13 +68,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
-  "reg_date": "",
+  "reg_date": "20.01.2020 16:47:31",
   "longt": 36.1530330522,
   "lati": 49.9756636645,
-  "FullNameUA": "вулиця Золочівська, 4-А"
+  "FullNameUA": "вулиця Золочівська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 140019,
@@ -91,13 +94,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 16:47:50",
   "longt": 36.1536400073,
   "lati": 49.9757737898,
-  "FullNameUA": "вулиця Золочівська, 4"
+  "FullNameUA": "вулиця Золочівська, 4",
+  "ChildsIds": []
  },
  {
   "id": 140020,
@@ -122,7 +126,34 @@
   "reg_date": "",
   "longt": 36.1528079507,
   "lati": 49.9781919933,
-  "FullNameUA": "вулиця Золочівська, 5"
+  "FullNameUA": "вулиця Золочівська, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 181982,
+  "postcode": 61177,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 16:51:58",
+  "longt": 36.1535087205,
+  "lati": 49.9786373688,
+  "FullNameUA": "вулиця Золочівська, 6",
+  "ChildsIds": []
  },
  {
   "id": 140021,
@@ -147,32 +178,8 @@
   "reg_date": "",
   "longt": 36.1528845413,
   "lati": 49.9785526618,
-  "FullNameUA": "вулиця Золочівська, 7"
- },
- {
-  "id": 140023,
-  "postcode": 61177,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1537267963,
-  "lati": 49.9798578446,
-  "FullNameUA": "вулиця Золочівська, 8-А"
+  "FullNameUA": "вулиця Золочівська, 7",
+  "ChildsIds": []
  },
  {
   "id": 140022,
@@ -191,13 +198,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 16:38:10",
   "longt": 36.1541694186,
-  "lati": 49.980377255200004,
-  "FullNameUA": "вулиця Золочівська, 8"
+  "lati": 49.9803772552,
+  "FullNameUA": "вулиця Золочівська, 8",
+  "ChildsIds": []
  },
  {
   "id": 140024,
@@ -222,7 +230,34 @@
   "reg_date": "",
   "longt": 36.1551609275,
   "lati": 49.9798590963,
-  "FullNameUA": "вулиця Золочівська, 8-Б"
+  "FullNameUA": "вулиця Золочівська, 8-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 140023,
+  "postcode": 61177,
+  "number": 8,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 16:38:44",
+  "longt": 36.1537267963,
+  "lati": 49.9798578446,
+  "FullNameUA": "вулиця Золочівська, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 140025,
@@ -247,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1529453738,
   "lati": 49.9793079199,
-  "FullNameUA": "вулиця Золочівська, 9"
+  "FullNameUA": "вулиця Золочівська, 9",
+  "ChildsIds": []
  },
  {
   "id": 140026,
@@ -266,13 +302,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 16:37:41",
   "longt": 36.1540165629,
-  "lati": 49.98126022820001,
-  "FullNameUA": "вулиця Золочівська, 10"
+  "lati": 49.9812602282,
+  "FullNameUA": "вулиця Золочівська, 10",
+  "ChildsIds": []
  },
  {
   "id": 140027,
@@ -297,7 +334,8 @@
   "reg_date": "",
   "longt": 36.1529639254,
   "lati": 49.9797003904,
-  "FullNameUA": "вулиця Золочівська, 11"
+  "FullNameUA": "вулиця Золочівська, 11",
+  "ChildsIds": []
  },
  {
   "id": 140028,
@@ -316,13 +354,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.155073535199996,
-  "lati": 49.98304155180001,
-  "FullNameUA": "вулиця Золочівська, 12"
+  "reg_date": "20.01.2020 16:37:16",
+  "longt": 36.1550735352,
+  "lati": 49.9830415518,
+  "FullNameUA": "вулиця Золочівська, 12",
+  "ChildsIds": []
  },
  {
   "id": 140029,
@@ -347,7 +386,8 @@
   "reg_date": "",
   "longt": 36.153037088,
   "lati": 49.9799908714,
-  "FullNameUA": "вулиця Золочівська, 13"
+  "FullNameUA": "вулиця Золочівська, 13",
+  "ChildsIds": []
  },
  {
   "id": 140030,
@@ -366,13 +406,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
-  "longt": 36.153897456399996,
+  "reg_date": "20.01.2020 16:36:51",
+  "longt": 36.1538974564,
   "lati": 49.9820026785,
-  "FullNameUA": "вулиця Золочівська, 14"
+  "FullNameUA": "вулиця Золочівська, 14",
+  "ChildsIds": []
  },
  {
   "id": 140031,
@@ -397,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1530865616,
   "lati": 49.9812797187,
-  "FullNameUA": "вулиця Золочівська, 15"
+  "FullNameUA": "вулиця Золочівська, 15",
+  "ChildsIds": []
  },
  {
   "id": 140032,
@@ -421,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1542985297,
-  "lati": 49.982467485200004,
-  "FullNameUA": "вулиця Золочівська, 16"
+  "lati": 49.9824674852,
+  "FullNameUA": "вулиця Золочівська, 16",
+  "ChildsIds": []
  },
  {
   "id": 140034,
@@ -447,7 +490,34 @@
   "reg_date": "",
   "longt": 36.1521902646,
   "lati": 49.981836694,
-  "FullNameUA": "вулиця Золочівська, 17-А"
+  "FullNameUA": "вулиця Золочівська, 17-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140035,
+  "postcode": 61177,
+  "number": 17,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1531690273,
+  "lati": 49.9817247043,
+  "FullNameUA": "вулиця Золочівська, 17-Б",
+  "ChildsIds": []
  },
  {
   "id": 140033,
@@ -471,33 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1532527826,
-  "lati": 49.982618287200005,
-  "FullNameUA": "вулиця Золочівська, 17"
- },
- {
-  "id": 140035,
-  "postcode": 61177,
-  "number": 17,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.153169027299995,
-  "lati": 49.98172470430001,
-  "FullNameUA": "вулиця Золочівська, 17-Б"
+  "lati": 49.9826182872,
+  "FullNameUA": "вулиця Золочівська, 17",
+  "ChildsIds": []
  },
  {
   "id": 140036,
@@ -521,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1541864036,
-  "lati": 49.982705079300004,
-  "FullNameUA": "вулиця Золочівська, 18"
+  "lati": 49.9827050793,
+  "FullNameUA": "вулиця Золочівська, 18",
+  "ChildsIds": []
  },
  {
   "id": 140037,
@@ -546,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1533152553,
-  "lati": 49.983460670300005,
-  "FullNameUA": "вулиця Золочівська, 19"
+  "lati": 49.9834606703,
+  "FullNameUA": "вулиця Золочівська, 19",
+  "ChildsIds": []
  },
  {
   "id": 140038,
@@ -572,7 +620,8 @@
   "reg_date": "27.12.2019 11:24:44",
   "longt": 36.1541857849,
   "lati": 49.9839766587,
-  "FullNameUA": "вулиця Золочівська, 20-А"
+  "FullNameUA": "вулиця Золочівська, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 140040,
@@ -596,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1519730586,
-  "lati": 49.982488628700004,
-  "FullNameUA": "вулиця Золочівська, 21/3"
+  "lati": 49.9824886287,
+  "FullNameUA": "вулиця Золочівська, 21/3",
+  "ChildsIds": []
  },
  {
   "id": 140039,
@@ -621,33 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.153083159,
-  "lati": 49.983885689900006,
-  "FullNameUA": "вулиця Золочівська, 21"
- },
- {
-  "id": 140041,
-  "postcode": 61177,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1549162095,
-  "lati": 49.984641821500006,
-  "FullNameUA": "вулиця Золочівська, 22"
+  "lati": 49.9838856899,
+  "FullNameUA": "вулиця Золочівська, 21",
+  "ChildsIds": []
  },
  {
   "id": 140042,
@@ -671,8 +697,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.155635735,
-  "lati": 49.985189193800004,
-  "FullNameUA": "вулиця Золочівська, 22-А"
+  "lati": 49.9851891938,
+  "FullNameUA": "вулиця Золочівська, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140041,
+  "postcode": 61177,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 16:36:13",
+  "longt": 36.1549162095,
+  "lati": 49.9846418215,
+  "FullNameUA": "вулиця Золочівська, 22",
+  "ChildsIds": []
  },
  {
   "id": 140043,
@@ -697,7 +750,8 @@
   "reg_date": "",
   "longt": 36.1531175743,
   "lati": 49.9843516433,
-  "FullNameUA": "вулиця Золочівська, 23"
+  "FullNameUA": "вулиця Золочівська, 23",
+  "ChildsIds": []
  },
  {
   "id": 140045,
@@ -716,13 +770,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 14:47:23",
   "longt": 36.1560080695,
   "lati": 49.9857922683,
-  "FullNameUA": "вулиця Золочівська, 24-А"
+  "FullNameUA": "вулиця Золочівська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 140044,
@@ -741,13 +796,40 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "20.01.2020 16:35:42",
+  "longt": 36.1542426424,
+  "lati": 49.9851277148,
+  "FullNameUA": "вулиця Золочівська, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 181795,
+  "postcode": 61177,
+  "number": 25,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1542426424,
-  "lati": 49.9851277148,
-  "FullNameUA": "вулиця Золочівська, 24"
+  "longt": 36.1525355723,
+  "lati": 49.9849576982,
+  "FullNameUA": "вулиця Золочівська, 25-А",
+  "ChildsIds": []
  },
  {
   "id": 140046,
@@ -771,33 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.153165746,
-  "lati": 49.984812921300005,
-  "FullNameUA": "вулиця Золочівська, 25"
- },
- {
-  "id": 181795,
-  "postcode": 61177,
-  "number": 25,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.152535572299996,
-  "lati": 49.984957698200006,
-  "FullNameUA": "вулиця Золочівська, 25-А"
+  "lati": 49.9848129213,
+  "FullNameUA": "вулиця Золочівська, 25",
+  "ChildsIds": []
  },
  {
   "id": 140048,
@@ -821,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.155500513,
-  "lati": 49.98638703700001,
-  "FullNameUA": "вулиця Золочівська, 26-А"
+  "lati": 49.986387037,
+  "FullNameUA": "вулиця Золочівська, 26-А",
+  "ChildsIds": []
  },
  {
   "id": 140047,
@@ -841,38 +900,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 14:39:16",
   "longt": 36.1545139997,
   "lati": 49.9861881483,
-  "FullNameUA": "вулиця Золочівська, 26"
- },
- {
-  "id": 140049,
-  "postcode": 61177,
-  "number": 27,
-  "suffix": "",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.153102173099995,
-  "lati": 49.9856670467,
-  "FullNameUA": "вулиця Золочівська, 27"
+  "FullNameUA": "вулиця Золочівська, 26",
+  "ChildsIds": []
  },
  {
   "id": 140050,
@@ -896,8 +931,87 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1535559787,
-  "lati": 49.986067899700004,
-  "FullNameUA": "вулиця Золочівська, 27-А"
+  "lati": 49.9860678997,
+  "FullNameUA": "вулиця Золочівська, 27-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140049,
+  "postcode": 61177,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1531021731,
+  "lati": 49.9856670467,
+  "FullNameUA": "вулиця Золочівська, 27",
+  "ChildsIds": []
+ },
+ {
+  "id": 140052,
+  "postcode": 61177,
+  "number": 28,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "17.01.2020 16:40:41",
+  "longt": 36.1555701388,
+  "lati": 49.9870013644,
+  "FullNameUA": "вулиця Золочівська, 28-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140051,
+  "postcode": 61177,
+  "number": 28,
+  "suffix": "",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "392, 30.06.1979",
+  "reg_date": "17.01.2020 16:43:33",
+  "longt": 36.1544383055,
+  "lati": 49.9872607226,
+  "FullNameUA": "вулиця Золочівська, 28",
+  "ChildsIds": []
  },
  {
   "id": 140053,
@@ -922,57 +1036,8 @@
   "reg_date": "",
   "longt": 36.1558271344,
   "lati": 49.9873826354,
-  "FullNameUA": "вулиця Золочівська, 28-Б"
- },
- {
-  "id": 140052,
-  "postcode": 61177,
-  "number": 28,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1555701388,
-  "lati": 49.9870013644,
-  "FullNameUA": "вулиця Золочівська, 28-А"
- },
- {
-  "id": 140051,
-  "postcode": 61177,
-  "number": 28,
-  "suffix": "",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "392, 30.06.1979",
-  "reg_date": "",
-  "longt": 36.1544383055,
-  "lati": 49.987260722600006,
-  "FullNameUA": "вулиця Золочівська, 28"
+  "FullNameUA": "вулиця Золочівська, 28-Б",
+  "ChildsIds": []
  },
  {
   "id": 140054,
@@ -991,13 +1056,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "392, 30.06.1979",
-  "reg_date": "",
-  "longt": 36.155192963299996,
-  "lati": 49.987692106400004,
-  "FullNameUA": "вулиця Золочівська, 30/1"
+  "reg_date": "17.01.2020 16:42:31",
+  "longt": 36.1551929633,
+  "lati": 49.9876921064,
+  "FullNameUA": "вулиця Золочівська, 30/1",
+  "ChildsIds": []
  },
  {
   "id": 140055,
@@ -1016,13 +1082,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.153909713,
-  "lati": 49.988274948000004,
-  "FullNameUA": "вулиця Золочівська, 32"
+  "reg_date": "17.01.2020 16:39:45",
+  "longt": 36.153913509,
+  "lati": 49.9882859319,
+  "FullNameUA": "вулиця Золочівська, 32",
+  "ChildsIds": []
  },
  {
   "id": 140056,
@@ -1046,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1534053335,
-  "lati": 49.98662290910001,
-  "FullNameUA": "вулиця Золочівська, 33/2"
+  "lati": 49.9866229091,
+  "FullNameUA": "вулиця Золочівська, 33/2",
+  "ChildsIds": []
  },
  {
   "id": 140057,
@@ -1066,13 +1134,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.153830944599996,
-  "lati": 49.988437617500004,
-  "FullNameUA": "вулиця Золочівська, 34"
+  "reg_date": "17.01.2020 16:39:02",
+  "longt": 36.1538309446,
+  "lati": 49.9884376175,
+  "FullNameUA": "вулиця Золочівська, 34",
+  "ChildsIds": []
  },
  {
   "id": 140058,
@@ -1095,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.153656728099996,
-  "lati": 49.986806589900006,
-  "FullNameUA": "вулиця Золочівська, 35"
+  "longt": 36.1536567281,
+  "lati": 49.9868065899,
+  "FullNameUA": "вулиця Золочівська, 35",
+  "ChildsIds": []
  },
  {
   "id": 140059,
@@ -1116,13 +1186,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 16:38:30",
   "longt": 36.1537140159,
-  "lati": 49.988574327100004,
-  "FullNameUA": "вулиця Золочівська, 36"
+  "lati": 49.9885743271,
+  "FullNameUA": "вулиця Золочівська, 36",
+  "ChildsIds": []
  },
  {
   "id": 140060,
@@ -1147,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.1536687422,
   "lati": 49.9869608264,
-  "FullNameUA": "вулиця Золочівська, 37"
+  "FullNameUA": "вулиця Золочівська, 37",
+  "ChildsIds": []
  },
  {
   "id": 140061,
@@ -1172,7 +1244,34 @@
   "reg_date": "",
   "longt": 36.1536064498,
   "lati": 49.9887466237,
-  "FullNameUA": "вулиця Золочівська, 38"
+  "FullNameUA": "вулиця Золочівська, 38",
+  "ChildsIds": []
+ },
+ {
+  "id": 175857,
+  "postcode": 61177,
+  "number": 39,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 2750,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "85/19, 07.06.1983",
+  "reg_date": "17.01.2020 11:53:14",
+  "longt": 36.1534673882,
+  "lati": 49.9871541103,
+  "FullNameUA": "вулиця Золочівська, 39/1",
+  "ChildsIds": []
  },
  {
   "id": 140062,
@@ -1197,32 +1296,8 @@
   "reg_date": "",
   "longt": 36.153668632,
   "lati": 49.9871073786,
-  "FullNameUA": "вулиця Золочівська, 39"
- },
- {
-  "id": 175857,
-  "postcode": 61177,
-  "number": 39,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 2750,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "85/19, 07.06.1983",
-  "reg_date": "",
-  "longt": 36.1534673882,
-  "lati": 49.987154110300004,
-  "FullNameUA": "вулиця Золочівська, 39/1"
+  "FullNameUA": "вулиця Золочівська, 39",
+  "ChildsIds": []
  },
  {
   "id": 140064,
@@ -1247,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.1535115534,
   "lati": 49.9889119994,
-  "FullNameUA": "вулиця Золочівська, 40"
+  "FullNameUA": "вулиця Золочівська, 40",
+  "ChildsIds": []
  },
  {
   "id": 140065,
@@ -1266,13 +1342,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.153712286099996,
+  "reg_date": "17.01.2020 11:52:52",
+  "longt": 36.1537122861,
   "lati": 49.9873684753,
-  "FullNameUA": "вулиця Золочівська, 41/2"
+  "FullNameUA": "вулиця Золочівська, 41/2",
+  "ChildsIds": []
  },
  {
   "id": 140066,
@@ -1295,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.153440591599995,
-  "lati": 49.98903277190001,
-  "FullNameUA": "вулиця Золочівська, 42"
+  "longt": 36.1534405916,
+  "lati": 49.9890327719,
+  "FullNameUA": "вулиця Золочівська, 42",
+  "ChildsIds": []
  },
  {
   "id": 140067,
@@ -1316,13 +1394,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:52:26",
   "longt": 36.15375129,
   "lati": 49.9875579173,
-  "FullNameUA": "вулиця Золочівська, 43"
+  "FullNameUA": "вулиця Золочівська, 43",
+  "ChildsIds": []
  },
  {
   "id": 140068,
@@ -1347,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.1533182826,
   "lati": 49.98923065,
-  "FullNameUA": "вулиця Золочівська, 44"
+  "FullNameUA": "вулиця Золочівська, 44",
+  "ChildsIds": []
  },
  {
   "id": 140069,
@@ -1366,13 +1446,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:51:58",
   "longt": 36.1537416893,
-  "lati": 49.987668554200006,
-  "FullNameUA": "вулиця Золочівська, 45"
+  "lati": 49.9876685542,
+  "FullNameUA": "вулиця Золочівська, 45",
+  "ChildsIds": []
  },
  {
   "id": 140070,
@@ -1396,8 +1477,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.153227303,
-  "lati": 49.989399573300005,
-  "FullNameUA": "вулиця Золочівська, 46"
+  "lati": 49.9893995733,
+  "FullNameUA": "вулиця Золочівська, 46",
+  "ChildsIds": []
  },
  {
   "id": 140071,
@@ -1416,13 +1498,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:51:33",
   "longt": 36.1537559728,
-  "lati": 49.987837195800005,
-  "FullNameUA": "вулиця Золочівська, 47/1"
+  "lati": 49.9878371958,
+  "FullNameUA": "вулиця Золочівська, 47/1",
+  "ChildsIds": []
  },
  {
   "id": 140072,
@@ -1445,9 +1528,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.153140400699996,
-  "lati": 49.989550315900004,
-  "FullNameUA": "вулиця Золочівська, 48"
+  "longt": 36.1531404007,
+  "lati": 49.9895503159,
+  "FullNameUA": "вулиця Золочівська, 48",
+  "ChildsIds": []
  },
  {
   "id": 140073,
@@ -1466,13 +1550,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:51:06",
   "longt": 36.1534210286,
   "lati": 49.9883075293,
-  "FullNameUA": "вулиця Золочівська, 49/20"
+  "FullNameUA": "вулиця Золочівська, 49/20",
+  "ChildsIds": []
  },
  {
   "id": 140074,
@@ -1495,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.152982173699996,
-  "lati": 49.989789882800004,
-  "FullNameUA": "вулиця Золочівська, 50"
+  "longt": 36.1529821737,
+  "lati": 49.9897898828,
+  "FullNameUA": "вулиця Золочівська, 50",
+  "ChildsIds": []
  },
  {
   "id": 140075,
@@ -1516,13 +1602,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.153274288199995,
+  "reg_date": "17.01.2020 11:50:41",
+  "longt": 36.1532742882,
   "lati": 49.9886344486,
-  "FullNameUA": "вулиця Золочівська, 51"
+  "FullNameUA": "вулиця Золочівська, 51",
+  "ChildsIds": []
  },
  {
   "id": 140076,
@@ -1547,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.1528854859,
   "lati": 49.9899289952,
-  "FullNameUA": "вулиця Золочівська, 52"
+  "FullNameUA": "вулиця Золочівська, 52",
+  "ChildsIds": []
  },
  {
   "id": 140077,
@@ -1566,13 +1654,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.153126006899996,
+  "reg_date": "17.01.2020 11:50:11",
+  "longt": 36.1531260069,
   "lati": 49.988807862,
-  "FullNameUA": "вулиця Золочівська, 53"
+  "FullNameUA": "вулиця Золочівська, 53",
+  "ChildsIds": []
  },
  {
   "id": 140078,
@@ -1591,13 +1680,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:27:11",
   "longt": 36.1530229245,
-  "lati": 49.988914779400005,
-  "FullNameUA": "вулиця Золочівська, 55"
+  "lati": 49.9889147794,
+  "FullNameUA": "вулиця Золочівська, 55",
+  "ChildsIds": []
  },
  {
   "id": 140079,
@@ -1616,13 +1706,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.152956811799996,
-  "lati": 49.98906205070001,
-  "FullNameUA": "вулиця Золочівська, 57"
+  "reg_date": "17.01.2020 11:26:43",
+  "longt": 36.1529568118,
+  "lati": 49.9890620507,
+  "FullNameUA": "вулиця Золочівська, 57",
+  "ChildsIds": []
  },
  {
   "id": 140080,
@@ -1641,13 +1732,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:26:09",
   "longt": 36.1528990601,
   "lati": 49.9891733946,
-  "FullNameUA": "вулиця Золочівська, 59"
+  "FullNameUA": "вулиця Золочівська, 59",
+  "ChildsIds": []
  },
  {
   "id": 140081,
@@ -1666,13 +1758,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:21:15",
   "longt": 36.1527919239,
   "lati": 49.9893266555,
-  "FullNameUA": "вулиця Золочівська, 61"
+  "FullNameUA": "вулиця Золочівська, 61",
+  "ChildsIds": []
  },
  {
   "id": 140082,
@@ -1691,13 +1784,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:25:32",
   "longt": 36.1527238815,
-  "lati": 49.989438239600005,
-  "FullNameUA": "вулиця Золочівська, 63"
+  "lati": 49.9894382396,
+  "FullNameUA": "вулиця Золочівська, 63",
+  "ChildsIds": []
  },
  {
   "id": 140083,
@@ -1716,13 +1810,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.152650283199996,
-  "lati": 49.989560502100005,
-  "FullNameUA": "вулиця Золочівська, 65"
+  "reg_date": "17.01.2020 11:25:06",
+  "longt": 36.1526502832,
+  "lati": 49.9895605021,
+  "FullNameUA": "вулиця Золочівська, 65",
+  "ChildsIds": []
  },
  {
   "id": 140084,
@@ -1741,13 +1836,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.152577795999996,
+  "reg_date": "17.01.2020 11:24:19",
+  "longt": 36.152577796,
   "lati": 49.9897150122,
-  "FullNameUA": "вулиця Золочівська, 67"
+  "FullNameUA": "вулиця Золочівська, 67",
+  "ChildsIds": []
  },
  {
   "id": 140085,
@@ -1766,13 +1862,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:23:26",
   "longt": 36.1524826234,
-  "lati": 49.989833504100005,
-  "FullNameUA": "вулиця Золочівська, 69"
+  "lati": 49.9898335041,
+  "FullNameUA": "вулиця Золочівська, 69",
+  "ChildsIds": []
  },
  {
   "id": 140086,
@@ -1791,13 +1888,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
+  "reg_date": "17.01.2020 11:22:52",
   "longt": 36.1524164852,
   "lati": 49.9900232031,
-  "FullNameUA": "вулиця Золочівська, 71"
+  "FullNameUA": "вулиця Золочівська, 71",
+  "ChildsIds": []
  },
  {
   "id": 140087,
@@ -1816,12 +1914,13 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "85/19, 08.06.1983",
-  "reg_date": "",
-  "longt": 36.1523054319,
-  "lati": 49.9902203262,
-  "FullNameUA": "вулиця Золочівська, 73"
+  "reg_date": "17.01.2020 11:22:07",
+  "longt": 36.1522513322,
+  "lati": 49.9902341973,
+  "FullNameUA": "вулиця Золочівська, 73",
+  "ChildsIds": []
  }
 ]

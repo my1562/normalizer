@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341402404200004,
+  "longt": 36.3414024042,
   "lati": 49.9786948572,
-  "FullNameUA": "провулок Пулковський, 1"
+  "FullNameUA": "провулок Пулковський, 1",
+  "ChildsIds": []
  },
  {
   "id": 105633,
@@ -45,34 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341706368000004,
+  "longt": 36.341706368,
   "lati": 49.9786722395,
-  "FullNameUA": "провулок Пулковський, 3"
- },
- {
-  "id": 105635,
-  "postcode": 61029,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3725,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.341616390800006,
-  "lati": 49.9784753123,
-  "FullNameUA": "провулок Пулковський, 4-А"
+  "FullNameUA": "провулок Пулковський, 3",
+  "ChildsIds": []
  },
  {
   "id": 105634,
@@ -97,7 +74,34 @@
   "reg_date": "",
   "longt": 36.3418046667,
   "lati": 49.9783497343,
-  "FullNameUA": "провулок Пулковський, 4"
+  "FullNameUA": "провулок Пулковський, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 105635,
+  "postcode": 61029,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3725,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3416163908,
+  "lati": 49.9784753123,
+  "FullNameUA": "провулок Пулковський, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 105636,
@@ -120,34 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.341921871100006,
+  "longt": 36.3419218711,
   "lati": 49.9786673826,
-  "FullNameUA": "провулок Пулковський, 5"
- },
- {
-  "id": 178302,
-  "postcode": 61029,
-  "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 3725,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А\" з прибудовами",
-  "confrm": "",
-  "reg_date": "02.04.2019 17:22:24",
-  "longt": 36.342142014400004,
-  "lati": 49.9784372823,
-  "FullNameUA": "провулок Пулковський, 6"
+  "FullNameUA": "провулок Пулковський, 5",
+  "ChildsIds": []
  },
  {
   "id": 105637,
@@ -172,7 +152,36 @@
   "reg_date": "",
   "longt": 36.342167824,
   "lati": 49.9784348284,
-  "FullNameUA": "провулок Пулковський, 6/14"
+  "FullNameUA": "провулок Пулковський, 6/14",
+  "ChildsIds": [
+   178302
+  ]
+ },
+ {
+  "id": 178302,
+  "postcode": 61029,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 3725,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А\" з прибудовами",
+  "confrm": "",
+  "reg_date": "02.04.2019 17:22:24",
+  "longt": 36.3421420144,
+  "lati": 49.9784372823,
+  "FullNameUA": "провулок Пулковський, 6",
+  "ChildsIds": []
  },
  {
   "id": 105638,
@@ -197,7 +206,8 @@
   "reg_date": "",
   "longt": 36.3422440753,
   "lati": 49.9786836695,
-  "FullNameUA": "провулок Пулковський, 7/12"
+  "FullNameUA": "провулок Пулковський, 7/12",
+  "ChildsIds": []
  },
  {
   "id": 105639,
@@ -220,9 +230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342565521100006,
+  "longt": 36.3425655211,
   "lati": 49.9784784116,
-  "FullNameUA": "провулок Пулковський, 8/11"
+  "FullNameUA": "провулок Пулковський, 8/11",
+  "ChildsIds": []
  },
  {
   "id": 105640,
@@ -245,9 +256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34263295980001,
-  "lati": 49.978719871399996,
-  "FullNameUA": "провулок Пулковський, 9"
+  "longt": 36.3426329598,
+  "lati": 49.9787198714,
+  "FullNameUA": "провулок Пулковський, 9",
+  "ChildsIds": []
  },
  {
   "id": 105641,
@@ -270,9 +282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.342847263100005,
+  "longt": 36.3428472631,
   "lati": 49.9784884328,
-  "FullNameUA": "провулок Пулковський, 10"
+  "FullNameUA": "провулок Пулковський, 10",
+  "ChildsIds": []
  },
  {
   "id": 105642,
@@ -297,7 +310,8 @@
   "reg_date": "",
   "longt": 36.343073195,
   "lati": 49.9785146662,
-  "FullNameUA": "провулок Пулковський, 12"
+  "FullNameUA": "провулок Пулковський, 12",
+  "ChildsIds": []
  },
  {
   "id": 105643,
@@ -322,7 +336,8 @@
   "reg_date": "",
   "longt": 36.3438764992,
   "lati": 49.9788439545,
-  "FullNameUA": "провулок Пулковський, 13"
+  "FullNameUA": "провулок Пулковський, 13",
+  "ChildsIds": []
  },
  {
   "id": 105644,
@@ -347,7 +362,8 @@
   "reg_date": "",
   "longt": 36.344533542,
   "lati": 49.9789357529,
-  "FullNameUA": "провулок Пулковський, 15"
+  "FullNameUA": "провулок Пулковський, 15",
+  "ChildsIds": []
  },
  {
   "id": 105645,
@@ -370,9 +386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344887851500005,
+  "longt": 36.3448878515,
   "lati": 49.9789486139,
-  "FullNameUA": "провулок Пулковський, 17-А"
+  "FullNameUA": "провулок Пулковський, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 105646,
@@ -396,8 +413,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3450795449,
-  "lati": 49.978974363999995,
-  "FullNameUA": "провулок Пулковський, 19"
+  "lati": 49.978974364,
+  "FullNameUA": "провулок Пулковський, 19",
+  "ChildsIds": []
  },
  {
   "id": 105647,
@@ -422,7 +440,8 @@
   "reg_date": "",
   "longt": 36.3453998665,
   "lati": 49.9790652956,
-  "FullNameUA": "провулок Пулковський, 21/6А"
+  "FullNameUA": "провулок Пулковський, 21/6А",
+  "ChildsIds": []
  },
  {
   "id": 105648,
@@ -447,7 +466,8 @@
   "reg_date": "",
   "longt": 36.3440101626,
   "lati": 49.9785567344,
-  "FullNameUA": "провулок Пулковський, 22"
+  "FullNameUA": "провулок Пулковський, 22",
+  "ChildsIds": []
  },
  {
   "id": 105649,
@@ -472,7 +492,8 @@
   "reg_date": "",
   "longt": 36.3442746189,
   "lati": 49.9786571561,
-  "FullNameUA": "провулок Пулковський, 24"
+  "FullNameUA": "провулок Пулковський, 24",
+  "ChildsIds": []
  },
  {
   "id": 105650,
@@ -495,59 +516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344464751000004,
+  "longt": 36.344464751,
   "lati": 49.9786831424,
-  "FullNameUA": "провулок Пулковський, 24-А"
- },
- {
-  "id": 105651,
-  "postcode": 61029,
-  "number": 26,
-  "suffix": "",
-  "block": "",
-  "streetid": 3725,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.344932897700005,
-  "lati": 49.978712377,
-  "FullNameUA": "провулок Пулковський, 26"
- },
- {
-  "id": 105652,
-  "postcode": 61029,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3725,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.344734904800006,
-  "lati": 49.978679324699996,
-  "FullNameUA": "провулок Пулковський, 26-А"
+  "FullNameUA": "провулок Пулковський, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 105653,
@@ -570,8 +542,61 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344941861100004,
+  "longt": 36.3449418611,
   "lati": 49.9784263337,
-  "FullNameUA": "провулок Пулковський, 26-Б"
+  "FullNameUA": "провулок Пулковський, 26-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 105652,
+  "postcode": 61029,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3725,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3447349048,
+  "lati": 49.9786793247,
+  "FullNameUA": "провулок Пулковський, 26-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 105651,
+  "postcode": 61029,
+  "number": 26,
+  "suffix": "",
+  "block": "",
+  "streetid": 3725,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3449328977,
+  "lati": 49.978712377,
+  "FullNameUA": "провулок Пулковський, 26",
+  "ChildsIds": []
  }
 ]

@@ -1,1 +1,106 @@
-[]
+[
+ {
+  "id": 182986,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 8192,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3080165036,
+  "lati": 50.0442507284,
+  "FullNameUA": "в'їзд Бочанський 1-й, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 182987,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 8192,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3082326087,
+  "lati": 50.0442132767,
+  "FullNameUA": "в'їзд Бочанський 1-й, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 182988,
+  "postcode": 61107,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 8192,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3084360343,
+  "lati": 50.0441840484,
+  "FullNameUA": "в'їзд Бочанський 1-й, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 182989,
+  "postcode": 61107,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 8192,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3086584783,
+  "lati": 50.0441424795,
+  "FullNameUA": "в'їзд Бочанський 1-й, 7",
+  "ChildsIds": []
+ }
+]

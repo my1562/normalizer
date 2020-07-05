@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2613442818,
   "lati": 50.0090057242,
-  "FullNameUA": "вулиця Будівельна, 1-А"
- },
- {
-  "id": 121123,
-  "postcode": 61013,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2252,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.261737375799996,
-  "lati": 50.009438164,
-  "FullNameUA": "вулиця Будівельна, 5-А"
+  "FullNameUA": "вулиця Будівельна, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 121122,
@@ -70,9 +46,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.261523747999995,
+  "longt": 36.261523748,
   "lati": 50.0093101544,
-  "FullNameUA": "вулиця Будівельна, 5"
+  "FullNameUA": "вулиця Будівельна, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 121123,
+  "postcode": 61013,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2252,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2617373758,
+  "lati": 50.009438164,
+  "FullNameUA": "вулиця Будівельна, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 121125,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.260668331,
   "lati": 50.005296613,
-  "FullNameUA": "вулиця Будівельна, 6-А"
+  "FullNameUA": "вулиця Будівельна, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 121124,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2606942862,
   "lati": 50.0051663174,
-  "FullNameUA": "вулиця Будівельна, 6"
+  "FullNameUA": "вулиця Будівельна, 6",
+  "ChildsIds": []
  },
  {
   "id": 121127,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2616444632,
   "lati": 50.0098428606,
-  "FullNameUA": "вулиця Будівельна, 7-А"
+  "FullNameUA": "вулиця Будівельна, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 121126,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2620603998,
   "lati": 50.0096781539,
-  "FullNameUA": "вулиця Будівельна, 7"
+  "FullNameUA": "вулиця Будівельна, 7",
+  "ChildsIds": []
  },
  {
   "id": 121129,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2606212444,
   "lati": 50.0054005637,
-  "FullNameUA": "вулиця Будівельна, 8-А"
+  "FullNameUA": "вулиця Будівельна, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 121128,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260595386599995,
+  "longt": 36.2605953866,
   "lati": 50.0055313047,
-  "FullNameUA": "вулиця Будівельна, 8"
+  "FullNameUA": "вулиця Будівельна, 8",
+  "ChildsIds": []
  },
  {
   "id": 121130,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2620654211,
   "lati": 50.0099889902,
-  "FullNameUA": "вулиця Будівельна, 9"
+  "FullNameUA": "вулиця Будівельна, 9",
+  "ChildsIds": []
  },
  {
   "id": 121131,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2605111224,
   "lati": 50.0058619896,
-  "FullNameUA": "вулиця Будівельна, 10"
+  "FullNameUA": "вулиця Будівельна, 10",
+  "ChildsIds": []
  },
  {
   "id": 121132,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2604756831,
   "lati": 50.0060484934,
-  "FullNameUA": "вулиця Будівельна, 12"
+  "FullNameUA": "вулиця Будівельна, 12",
+  "ChildsIds": []
  },
  {
   "id": 121133,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2625390073,
   "lati": 50.0099851903,
-  "FullNameUA": "вулиця Будівельна, 13"
+  "FullNameUA": "вулиця Будівельна, 13",
+  "ChildsIds": []
  },
  {
   "id": 121134,
@@ -345,34 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.260528139799995,
+  "longt": 36.2605281398,
   "lati": 50.0062133088,
-  "FullNameUA": "вулиця Будівельна, 14"
- },
- {
-  "id": 121136,
-  "postcode": 61013,
-  "number": 15,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2252,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2599795782,
-  "lati": 50.0062864302,
-  "FullNameUA": "вулиця Будівельна, 15-А"
+  "FullNameUA": "вулиця Будівельна, 14",
+  "ChildsIds": []
  },
  {
   "id": 121135,
@@ -396,33 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2627492105,
-  "lati": 50.010170268399996,
-  "FullNameUA": "вулиця Будівельна, 15"
- },
- {
-  "id": 121137,
-  "postcode": 61013,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 2252,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2603420223,
-  "lati": 50.0063968672,
-  "FullNameUA": "вулиця Будівельна, 16"
+  "lati": 50.0101702684,
+  "FullNameUA": "вулиця Будівельна, 15",
+  "ChildsIds": []
  },
  {
   "id": 121138,
@@ -447,7 +412,34 @@
   "reg_date": "",
   "longt": 36.260799121,
   "lati": 50.0064441265,
-  "FullNameUA": "вулиця Будівельна, 16-А"
+  "FullNameUA": "вулиця Будівельна, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 121137,
+  "postcode": 61013,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2252,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2603420223,
+  "lati": 50.0063968672,
+  "FullNameUA": "вулиця Будівельна, 16",
+  "ChildsIds": []
  },
  {
   "id": 121139,
@@ -472,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2629269908,
   "lati": 50.0103283829,
-  "FullNameUA": "вулиця Будівельна, 17"
+  "FullNameUA": "вулиця Будівельна, 17",
+  "ChildsIds": []
  },
  {
   "id": 121140,
@@ -497,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2630734667,
   "lati": 50.0104547637,
-  "FullNameUA": "вулиця Будівельна, 19"
+  "FullNameUA": "вулиця Будівельна, 19",
+  "ChildsIds": []
  },
  {
   "id": 121141,
@@ -521,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2631960828,
-  "lati": 50.010547608799996,
-  "FullNameUA": "вулиця Будівельна, 21"
+  "lati": 50.0105476088,
+  "FullNameUA": "вулиця Будівельна, 21",
+  "ChildsIds": []
  },
  {
   "id": 121142,
@@ -545,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.262252525099996,
+  "longt": 36.2622525251,
   "lati": 50.0091382166,
-  "FullNameUA": "вулиця Будівельна, 22"
+  "FullNameUA": "вулиця Будівельна, 22",
+  "ChildsIds": []
  },
  {
   "id": 121143,
@@ -572,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2624110954,
   "lati": 50.009302418,
-  "FullNameUA": "вулиця Будівельна, 22-А"
+  "FullNameUA": "вулиця Будівельна, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 121144,
@@ -595,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263194415899996,
-  "lati": 50.010766568899996,
-  "FullNameUA": "вулиця Будівельна, 23"
+  "longt": 36.2631944159,
+  "lati": 50.0107665689,
+  "FullNameUA": "вулиця Будівельна, 23",
+  "ChildsIds": []
  },
  {
   "id": 121145,
@@ -622,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2625845865,
   "lati": 50.0094749001,
-  "FullNameUA": "вулиця Будівельна, 24"
+  "FullNameUA": "вулиця Будівельна, 24",
+  "ChildsIds": []
  },
  {
   "id": 121146,
@@ -647,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2636007654,
   "lati": 50.0109523922,
-  "FullNameUA": "вулиця Будівельна, 25"
+  "FullNameUA": "вулиця Будівельна, 25",
+  "ChildsIds": []
  },
  {
   "id": 177252,
@@ -670,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "in4",
   "reg_date": "",
-  "longt": 36.262680686799996,
+  "longt": 36.2626806868,
   "lati": 50.009568919,
-  "FullNameUA": "вулиця Будівельна, 26"
+  "FullNameUA": "вулиця Будівельна, 26",
+  "ChildsIds": []
  },
  {
   "id": 121147,
@@ -697,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2627300292,
   "lati": 50.0096072947,
-  "FullNameUA": "вулиця Будівельна, 28"
+  "FullNameUA": "вулиця Будівельна, 28",
+  "ChildsIds": []
  },
  {
   "id": 121148,
@@ -721,8 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2632478571,
-  "lati": 50.011264828799995,
-  "FullNameUA": "вулиця Будівельна, 29"
+  "lati": 50.0112648288,
+  "FullNameUA": "вулиця Будівельна, 29",
+  "ChildsIds": []
  },
  {
   "id": 121149,
@@ -747,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2628249517,
   "lati": 50.0096985519,
-  "FullNameUA": "вулиця Будівельна, 30"
+  "FullNameUA": "вулиця Будівельна, 30",
+  "ChildsIds": []
  },
  {
   "id": 121150,
@@ -772,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2629210228,
   "lati": 50.0098149207,
-  "FullNameUA": "вулиця Будівельна, 30-А"
+  "FullNameUA": "вулиця Будівельна, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 121151,
@@ -795,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264047295699996,
-  "lati": 50.011373878899995,
-  "FullNameUA": "вулиця Будівельна, 31"
+  "longt": 36.2640472957,
+  "lati": 50.0113738789,
+  "FullNameUA": "вулиця Будівельна, 31",
+  "ChildsIds": []
  },
  {
   "id": 121155,
@@ -822,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2633245936,
   "lati": 50.0102021279,
-  "FullNameUA": "вулиця Будівельна, 32-В"
+  "FullNameUA": "вулиця Будівельна, 32-В",
+  "ChildsIds": []
  },
  {
   "id": 121154,
@@ -846,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2632013933,
-  "lati": 50.010108520399996,
-  "FullNameUA": "вулиця Будівельна, 32-Б"
+  "lati": 50.0101085204,
+  "FullNameUA": "вулиця Будівельна, 32-Б",
+  "ChildsIds": []
  },
  {
   "id": 121152,
@@ -872,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2629932702,
   "lati": 50.0099202579,
-  "FullNameUA": "вулиця Будівельна, 32"
+  "FullNameUA": "вулиця Будівельна, 32",
+  "ChildsIds": []
  },
  {
   "id": 121153,
@@ -895,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263108845299996,
+  "longt": 36.2631088453,
   "lati": 50.0100249125,
-  "FullNameUA": "вулиця Будівельна, 32-А"
+  "FullNameUA": "вулиця Будівельна, 32-А",
+  "ChildsIds": []
  },
  {
   "id": 121156,
@@ -920,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263400269099996,
-  "lati": 50.010276826799995,
-  "FullNameUA": "вулиця Будівельна, 34"
+  "longt": 36.2634002691,
+  "lati": 50.0102768268,
+  "FullNameUA": "вулиця Будівельна, 34",
+  "ChildsIds": []
  },
  {
   "id": 121157,
@@ -946,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2636340021,
-  "lati": 50.010341947499995,
-  "FullNameUA": "вулиця Будівельна, 36"
+  "lati": 50.0103419475,
+  "FullNameUA": "вулиця Будівельна, 36",
+  "ChildsIds": []
  },
  {
   "id": 121158,
@@ -972,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2636316926,
   "lati": 50.01051499,
-  "FullNameUA": "вулиця Будівельна, 38"
+  "FullNameUA": "вулиця Будівельна, 38",
+  "ChildsIds": []
  },
  {
   "id": 121159,
@@ -995,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263765074999995,
+  "longt": 36.263765075,
   "lati": 50.010645098,
-  "FullNameUA": "вулиця Будівельна, 40"
+  "FullNameUA": "вулиця Будівельна, 40",
+  "ChildsIds": []
  },
  {
   "id": 121160,
@@ -1020,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.263973610099995,
-  "lati": 50.010694987099996,
-  "FullNameUA": "вулиця Будівельна, 42"
+  "longt": 36.2639736101,
+  "lati": 50.0106949871,
+  "FullNameUA": "вулиця Будівельна, 42",
+  "ChildsIds": []
  },
  {
   "id": 181047,
@@ -1047,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2639567736,
   "lati": 50.0108227057,
-  "FullNameUA": "вулиця Будівельна, 42-А"
+  "FullNameUA": "вулиця Будівельна, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 121161,
@@ -1071,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.264044426,
-  "lati": 50.010942272899996,
-  "FullNameUA": "вулиця Будівельна, 44"
+  "lati": 50.0109422729,
+  "FullNameUA": "вулиця Будівельна, 44",
+  "ChildsIds": []
  },
  {
   "id": 121162,
@@ -1097,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2641832372,
   "lati": 50.0110469021,
-  "FullNameUA": "вулиця Будівельна, 46"
+  "FullNameUA": "вулиця Будівельна, 46",
+  "ChildsIds": []
  },
  {
   "id": 121163,
@@ -1120,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.264304981799995,
-  "lati": 50.011163860399996,
-  "FullNameUA": "вулиця Будівельна, 48"
+  "longt": 36.2643049818,
+  "lati": 50.0111638604,
+  "FullNameUA": "вулиця Будівельна, 48",
+  "ChildsIds": []
  },
  {
   "id": 121164,
@@ -1147,6 +1166,7 @@
   "reg_date": "",
   "longt": 36.264579245,
   "lati": 50.011417384,
-  "FullNameUA": "вулиця Будівельна, 50"
+  "FullNameUA": "вулиця Будівельна, 50",
+  "ChildsIds": []
  }
 ]

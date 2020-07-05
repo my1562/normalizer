@@ -1,5 +1,31 @@
 [
  {
+  "id": 183188,
+  "postcode": 61051,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4800,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1866710191,
+  "lati": 50.037663957,
+  "FullNameUA": "провулок Буковий, 3",
+  "ChildsIds": []
+ },
+ {
   "id": 178700,
   "postcode": 61051,
   "number": 10,
@@ -22,7 +48,8 @@
   "reg_date": "25.01.2018 10:28:13",
   "longt": 36.1865850094,
   "lati": 50.0371589351,
-  "FullNameUA": "провулок Буковий, 10"
+  "FullNameUA": "провулок Буковий, 10",
+  "ChildsIds": []
  },
  {
   "id": 175431,
@@ -47,6 +74,7 @@
   "reg_date": "05.12.2016 10:21:33",
   "longt": 36.1881664515,
   "lati": 50.0354634257,
-  "FullNameUA": "провулок Буковий, 27"
+  "FullNameUA": "провулок Буковий, 27",
+  "ChildsIds": []
  }
 ]

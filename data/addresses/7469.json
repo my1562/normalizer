@@ -1,5 +1,33 @@
 [
  {
+  "id": 183214,
+  "postcode": 61027,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 7469,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "03.07.2020 09:21:10",
+  "longt": 36.3564734092,
+  "lati": 50.0571167619,
+  "FullNameUA": "вулиця Окружна (сел. Циркуни), 27",
+  "ChildsIds": [
+   131037
+  ]
+ },
+ {
   "id": 178982,
   "postcode": 61027,
   "number": 55,
@@ -20,9 +48,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.352755075000005,
+  "longt": 36.352755075,
   "lati": 50.0602410666,
-  "FullNameUA": "вулиця Окружна (сел. Циркуни), 55"
+  "FullNameUA": "вулиця Окружна (сел. Циркуни), 55",
+  "ChildsIds": []
  },
  {
   "id": 178978,
@@ -47,6 +76,7 @@
   "reg_date": "",
   "longt": 36.3524134118,
   "lati": 50.0604411084,
-  "FullNameUA": "вулиця Окружна (сел. Циркуни), 57"
+  "FullNameUA": "вулиця Окружна (сел. Циркуни), 57",
+  "ChildsIds": []
  }
 ]

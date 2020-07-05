@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2268494753,
   "lati": 49.9746367585,
-  "FullNameUA": "вулиця Миргородська, 1"
+  "FullNameUA": "вулиця Миргородська, 1",
+  "ChildsIds": []
  },
  {
   "id": 163642,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2264274442,
   "lati": 49.9746236194,
-  "FullNameUA": "вулиця Миргородська, 2"
+  "FullNameUA": "вулиця Миргородська, 2",
+  "ChildsIds": []
  },
  {
   "id": 163643,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2268710049,
   "lati": 49.9743639148,
-  "FullNameUA": "вулиця Миргородська, 3"
+  "FullNameUA": "вулиця Миргородська, 3",
+  "ChildsIds": []
  },
  {
   "id": 163644,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2264373798,
   "lati": 49.974468361,
-  "FullNameUA": "вулиця Миргородська, 4"
+  "FullNameUA": "вулиця Миргородська, 4",
+  "ChildsIds": []
  },
  {
   "id": 163645,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2268805935,
   "lati": 49.9741434009,
-  "FullNameUA": "вулиця Миргородська, 5"
+  "FullNameUA": "вулиця Миргородська, 5",
+  "ChildsIds": []
  },
  {
   "id": 163646,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.2264440791,
   "lati": 49.9740969527,
-  "FullNameUA": "вулиця Миргородська, 6"
- },
- {
-  "id": 163647,
-  "postcode": 61010,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 3260,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2269063214,
-  "lati": 49.9739204531,
-  "FullNameUA": "вулиця Миргородська, 7"
+  "FullNameUA": "вулиця Миргородська, 6",
+  "ChildsIds": []
  },
  {
   "id": 163648,
@@ -197,7 +178,34 @@
   "reg_date": "",
   "longt": 36.2272734003,
   "lati": 49.9738826703,
-  "FullNameUA": "вулиця Миргородська, 7-Б"
+  "FullNameUA": "вулиця Миргородська, 7-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 163647,
+  "postcode": 61010,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3260,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2269063214,
+  "lati": 49.9739204531,
+  "FullNameUA": "вулиця Миргородська, 7",
+  "ChildsIds": []
  },
  {
   "id": 163649,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226435700799996,
+  "longt": 36.2264357008,
   "lati": 49.9739727551,
-  "FullNameUA": "вулиця Миргородська, 8"
+  "FullNameUA": "вулиця Миргородська, 8",
+  "ChildsIds": []
  },
  {
   "id": 163650,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226875406299996,
-  "lati": 49.973724348299996,
-  "FullNameUA": "вулиця Миргородська, 9"
+  "longt": 36.2268754063,
+  "lati": 49.9737243483,
+  "FullNameUA": "вулиця Миргородська, 9",
+  "ChildsIds": []
  },
  {
   "id": 163651,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2264618702,
-  "lati": 49.973681730399996,
-  "FullNameUA": "вулиця Миргородська, 10"
+  "lati": 49.9736817304,
+  "FullNameUA": "вулиця Миргородська, 10",
+  "ChildsIds": []
  },
  {
   "id": 163652,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2268673414,
   "lati": 49.9735857848,
-  "FullNameUA": "вулиця Миргородська, 11"
+  "FullNameUA": "вулиця Миргородська, 11",
+  "ChildsIds": []
  },
  {
   "id": 163653,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2264701444,
   "lati": 49.9734738542,
-  "FullNameUA": "вулиця Миргородська, 12"
+  "FullNameUA": "вулиця Миргородська, 12",
+  "ChildsIds": []
  },
  {
   "id": 163654,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2268968372,
-  "lati": 49.973156320099996,
-  "FullNameUA": "вулиця Миргородська, 13"
+  "lati": 49.9731563201,
+  "FullNameUA": "вулиця Миргородська, 13",
+  "ChildsIds": []
  },
  {
   "id": 163655,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2264952568,
   "lati": 49.9731506966,
-  "FullNameUA": "вулиця Миргородська, 14"
+  "FullNameUA": "вулиця Миргородська, 14",
+  "ChildsIds": []
  },
  {
   "id": 163656,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2269040606,
   "lati": 49.9729242978,
-  "FullNameUA": "вулиця Миргородська, 15"
+  "FullNameUA": "вулиця Миргородська, 15",
+  "ChildsIds": []
  },
  {
   "id": 163657,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.226443884,
   "lati": 49.972912171,
-  "FullNameUA": "вулиця Миргородська, 16"
+  "FullNameUA": "вулиця Миргородська, 16",
+  "ChildsIds": []
  },
  {
   "id": 163658,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226900502999996,
-  "lati": 49.972741664699996,
-  "FullNameUA": "вулиця Миргородська, 17"
+  "longt": 36.226900503,
+  "lati": 49.9727416647,
+  "FullNameUA": "вулиця Миргородська, 17",
+  "ChildsIds": []
  },
  {
   "id": 163660,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226095328999996,
+  "longt": 36.226095329,
   "lati": 49.972534925,
-  "FullNameUA": "вулиця Миргородська, 18-Б"
+  "FullNameUA": "вулиця Миргородська, 18-Б",
+  "ChildsIds": []
  },
  {
   "id": 163659,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2265031449,
   "lati": 49.9724600607,
-  "FullNameUA": "вулиця Миргородська, 18"
+  "FullNameUA": "вулиця Миргородська, 18",
+  "ChildsIds": []
  },
  {
   "id": 163661,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2269214731,
   "lati": 49.9724687659,
-  "FullNameUA": "вулиця Миргородська, 19"
+  "FullNameUA": "вулиця Миргородська, 19",
+  "ChildsIds": []
  },
  {
   "id": 163662,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2265056567,
   "lati": 49.9723571272,
-  "FullNameUA": "вулиця Миргородська, 20"
+  "FullNameUA": "вулиця Миргородська, 20",
+  "ChildsIds": []
  },
  {
   "id": 163663,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2270096149,
   "lati": 49.9722530177,
-  "FullNameUA": "вулиця Миргородська, 21"
+  "FullNameUA": "вулиця Миргородська, 21",
+  "ChildsIds": []
  },
  {
   "id": 163665,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2271419783,
   "lati": 49.9718472413,
-  "FullNameUA": "вулиця Миргородська, 23-А"
+  "FullNameUA": "вулиця Миргородська, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 163664,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2269236608,
   "lati": 49.9718442252,
-  "FullNameUA": "вулиця Миргородська, 23"
+  "FullNameUA": "вулиця Миргородська, 23",
+  "ChildsIds": []
  },
  {
   "id": 163666,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226520645099995,
+  "longt": 36.2265206451,
   "lati": 49.971715199,
-  "FullNameUA": "вулиця Миргородська, 24"
+  "FullNameUA": "вулиця Миргородська, 24",
+  "ChildsIds": []
  },
  {
   "id": 163667,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2269235837,
   "lati": 49.9717257791,
-  "FullNameUA": "вулиця Миргородська, 25"
+  "FullNameUA": "вулиця Миргородська, 25",
+  "ChildsIds": []
  },
  {
   "id": 163668,
@@ -695,9 +722,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.226525435199996,
+  "longt": 36.2265254352,
   "lati": 49.9715578759,
-  "FullNameUA": "вулиця Миргородська, 26"
+  "FullNameUA": "вулиця Миргородська, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 163669,
+  "postcode": 61010,
+  "number": 27,
+  "suffix": "",
+  "block": "",
+  "streetid": 3260,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.2269236189,
+  "lati": 49.9715665451,
+  "FullNameUA": "вулиця Миргородська, 27",
+  "ChildsIds": []
  },
  {
   "id": 163670,
@@ -722,32 +776,8 @@
   "reg_date": "",
   "longt": 36.2271863222,
   "lati": 49.9715874085,
-  "FullNameUA": "вулиця Миргородська, 27-Б"
- },
- {
-  "id": 163669,
-  "postcode": 61010,
-  "number": 27,
-  "suffix": "",
-  "block": "",
-  "streetid": 3260,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.226923618899995,
-  "lati": 49.971566545099996,
-  "FullNameUA": "вулиця Миргородська, 27"
+  "FullNameUA": "вулиця Миргородська, 27-Б",
+  "ChildsIds": []
  },
  {
   "id": 163671,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2264892798,
   "lati": 49.9713674292,
-  "FullNameUA": "вулиця Миргородська, 28"
+  "FullNameUA": "вулиця Миргородська, 28",
+  "ChildsIds": []
  },
  {
   "id": 163672,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2270324083,
   "lati": 49.971248396,
-  "FullNameUA": "вулиця Миргородська, 29"
+  "FullNameUA": "вулиця Миргородська, 29",
+  "ChildsIds": []
  },
  {
   "id": 163673,
@@ -822,6 +854,7 @@
   "reg_date": "",
   "longt": 36.2264935881,
   "lati": 49.9712339639,
-  "FullNameUA": "вулиця Миргородська, 30"
+  "FullNameUA": "вулиця Миргородська, 30",
+  "ChildsIds": []
  }
 ]

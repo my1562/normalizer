@@ -1,30 +1,5 @@
 [
  {
-  "id": 118813,
-  "postcode": 61057,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "фото гугл-карта",
-  "reg_date": "",
-  "longt": 36.230482368500006,
-  "lati": 49.9938353128,
-  "FullNameUA": "вулиця Римарська, 1"
- },
- {
   "id": 118814,
   "postcode": 61057,
   "number": 1,
@@ -47,7 +22,34 @@
   "reg_date": "",
   "longt": 36.2301175881,
   "lati": 49.9938439343,
-  "FullNameUA": "вулиця Римарська, 1-Б"
+  "FullNameUA": "вулиця Римарська, 1-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 118813,
+  "postcode": 61057,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "фото гугл-карта",
+  "reg_date": "",
+  "longt": 36.2304823685,
+  "lati": 49.9938353128,
+  "FullNameUA": "вулиця Римарська, 1",
+  "ChildsIds": []
  },
  {
   "id": 118816,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.231053387,
   "lati": 49.9937948612,
-  "FullNameUA": "вулиця Римарська, 2"
+  "FullNameUA": "вулиця Римарська, 2",
+  "ChildsIds": []
  },
  {
   "id": 118817,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230447382200005,
+  "longt": 36.2304473822,
   "lati": 49.9942080462,
-  "FullNameUA": "вулиця Римарська, 3/5"
+  "FullNameUA": "вулиця Римарська, 3/5",
+  "ChildsIds": []
  },
  {
   "id": 118818,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23108823370001,
+  "longt": 36.2310882337,
   "lati": 49.9939260434,
-  "FullNameUA": "вулиця Римарська, 4"
+  "FullNameUA": "вулиця Римарська, 4",
+  "ChildsIds": []
  },
  {
   "id": 118820,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2311661784,
   "lati": 49.9941693673,
-  "FullNameUA": "вулиця Римарська, 6"
+  "FullNameUA": "вулиця Римарська, 6",
+  "ChildsIds": []
  },
  {
   "id": 118821,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231345610800005,
-  "lati": 49.993978367000004,
-  "FullNameUA": "вулиця Римарська, 6-Б"
+  "longt": 36.2313456108,
+  "lati": 49.993978367,
+  "FullNameUA": "вулиця Римарська, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 118823,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230030401200004,
+  "longt": 36.2300304012,
   "lati": 49.9945044743,
-  "FullNameUA": "вулиця Римарська, 7-Б"
+  "FullNameUA": "вулиця Римарська, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 118822,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230505342200004,
-  "lati": 49.994431482500005,
-  "FullNameUA": "вулиця Римарська, 7"
+  "longt": 36.2305053422,
+  "lati": 49.9944314825,
+  "FullNameUA": "вулиця Римарська, 7",
+  "ChildsIds": []
  },
  {
   "id": 118824,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230962264000006,
+  "longt": 36.230962264,
   "lati": 49.9942841536,
-  "FullNameUA": "вулиця Римарська, 8"
+  "FullNameUA": "вулиця Римарська, 8",
+  "ChildsIds": []
  },
  {
   "id": 118825,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230835561300005,
+  "longt": 36.2308355613,
   "lati": 49.9947777875,
-  "FullNameUA": "вулиця Римарська, 9"
+  "FullNameUA": "вулиця Римарська, 9",
+  "ChildsIds": []
  },
  {
   "id": 118826,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2312451107,
   "lati": 49.9947579787,
-  "FullNameUA": "вулиця Римарська, 10"
+  "FullNameUA": "вулиця Римарська, 10",
+  "ChildsIds": []
  },
  {
   "id": 118827,
@@ -320,34 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23050627560001,
+  "longt": 36.2305062756,
   "lati": 49.9953653478,
-  "FullNameUA": "вулиця Римарська, 11"
- },
- {
-  "id": 118828,
-  "postcode": 61057,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.231138314800006,
-  "lati": 49.99614734,
-  "FullNameUA": "вулиця Римарська, 13"
+  "FullNameUA": "вулиця Римарська, 11",
+  "ChildsIds": []
  },
  {
   "id": 118829,
@@ -372,7 +360,34 @@
   "reg_date": "",
   "longt": 36.2309316763,
   "lati": 49.996187257,
-  "FullNameUA": "вулиця Римарська, 13-Б"
+  "FullNameUA": "вулиця Римарська, 13-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 118828,
+  "postcode": 61057,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2311383148,
+  "lati": 49.99614734,
+  "FullNameUA": "вулиця Римарська, 13",
+  "ChildsIds": []
  },
  {
   "id": 118830,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.230737725500006,
+  "longt": 36.2307377255,
   "lati": 49.9959913581,
-  "FullNameUA": "вулиця Римарська, 13-Г"
+  "FullNameUA": "вулиця Римарська, 13-Г",
+  "ChildsIds": []
  },
  {
   "id": 118831,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2315120275,
   "lati": 49.9953536608,
-  "FullNameUA": "вулиця Римарська, 14"
+  "FullNameUA": "вулиця Римарська, 14",
+  "ChildsIds": []
  },
  {
   "id": 118832,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231139700300005,
+  "longt": 36.2311397003,
   "lati": 49.9962879008,
-  "FullNameUA": "вулиця Римарська, 15"
+  "FullNameUA": "вулиця Римарська, 15",
+  "ChildsIds": []
  },
  {
   "id": 118833,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23147205550001,
+  "longt": 36.2314720555,
   "lati": 49.9956578981,
-  "FullNameUA": "вулиця Римарська, 16"
+  "FullNameUA": "вулиця Римарська, 16",
+  "ChildsIds": []
  },
  {
   "id": 118834,
@@ -497,32 +516,8 @@
   "reg_date": "",
   "longt": 36.2311917015,
   "lati": 49.9967061121,
-  "FullNameUA": "вулиця Римарська, 17"
- },
- {
-  "id": 118835,
-  "postcode": 61057,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23151345270001,
-  "lati": 49.9959054683,
-  "FullNameUA": "вулиця Римарська, 18"
+  "FullNameUA": "вулиця Римарська, 17",
+  "ChildsIds": []
  },
  {
   "id": 118836,
@@ -547,7 +542,34 @@
   "reg_date": "",
   "longt": 36.2316179505,
   "lati": 49.9962919856,
-  "FullNameUA": "вулиця Римарська, 18-А"
+  "FullNameUA": "вулиця Римарська, 18-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 118835,
+  "postcode": 61057,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2315134527,
+  "lati": 49.9959054683,
+  "FullNameUA": "вулиця Римарська, 18",
+  "ChildsIds": []
  },
  {
   "id": 118837,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2309685497,
   "lati": 49.9969182134,
-  "FullNameUA": "вулиця Римарська, 19"
+  "FullNameUA": "вулиця Римарська, 19",
+  "ChildsIds": []
  },
  {
   "id": 118838,
@@ -597,32 +620,8 @@
   "reg_date": "",
   "longt": 36.2318470911,
   "lati": 49.9964320307,
-  "FullNameUA": "вулиця Римарська, 20"
- },
- {
-  "id": 118840,
-  "postcode": 61057,
-  "number": 21,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2302993021,
-  "lati": 49.9983058091,
-  "FullNameUA": "вулиця Римарська, 21-А"
+  "FullNameUA": "вулиця Римарська, 20",
+  "ChildsIds": []
  },
  {
   "id": 118839,
@@ -647,7 +646,34 @@
   "reg_date": "",
   "longt": 36.2307617068,
   "lati": 49.9977329616,
-  "FullNameUA": "вулиця Римарська, 21"
+  "FullNameUA": "вулиця Римарська, 21",
+  "ChildsIds": []
+ },
+ {
+  "id": 118840,
+  "postcode": 61057,
+  "number": 21,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2302993021,
+  "lati": 49.9983058091,
+  "FullNameUA": "вулиця Римарська, 21-А",
+  "ChildsIds": []
  },
  {
   "id": 118841,
@@ -672,32 +698,8 @@
   "reg_date": "",
   "longt": 36.2317534968,
   "lati": 49.9967552213,
-  "FullNameUA": "вулиця Римарська, 22"
- },
- {
-  "id": 179124,
-  "postcode": 61057,
-  "number": 23,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2295053395,
-  "lati": 49.998003605,
-  "FullNameUA": "вулиця Римарська, 23-Г"
+  "FullNameUA": "вулиця Римарська, 22",
+  "ChildsIds": []
  },
  {
   "id": 179123,
@@ -720,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.229922056999996,
+  "longt": 36.229922057,
   "lati": 49.9979468807,
-  "FullNameUA": "вулиця Римарська, 23-Б"
+  "FullNameUA": "вулиця Римарська, 23-Б",
+  "ChildsIds": []
  },
  {
   "id": 118843,
@@ -747,7 +750,34 @@
   "reg_date": "",
   "longt": 36.2308073044,
   "lati": 49.9984709016,
-  "FullNameUA": "вулиця Римарська, 23-А"
+  "FullNameUA": "вулиця Римарська, 23-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 179124,
+  "postcode": 61057,
+  "number": 23,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2295053395,
+  "lati": 49.998003605,
+  "FullNameUA": "вулиця Римарська, 23-Г",
+  "ChildsIds": []
  },
  {
   "id": 118842,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23150557820001,
+  "longt": 36.2315055782,
   "lati": 49.998092198,
-  "FullNameUA": "вулиця Римарська, 23"
+  "FullNameUA": "вулиця Римарська, 23",
+  "ChildsIds": []
  },
  {
   "id": 118847,
@@ -797,57 +828,8 @@
   "reg_date": "",
   "longt": 36.2324327736,
   "lati": 49.9971405973,
-  "FullNameUA": "вулиця Римарська, 24-Г"
- },
- {
-  "id": 118846,
-  "postcode": 61057,
-  "number": 24,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.232508739100005,
-  "lati": 49.9970137195,
-  "FullNameUA": "вулиця Римарська, 24-В"
- },
- {
-  "id": 118845,
-  "postcode": 61057,
-  "number": 24,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "129/3, 09.10.2007",
-  "reg_date": "14.01.2019 12:44:31",
-  "longt": 36.232432106800005,
-  "lati": 49.996930728100004,
-  "FullNameUA": "вулиця Римарська, 24-Б"
+  "FullNameUA": "вулиця Римарська, 24-Г",
+  "ChildsIds": []
  },
  {
   "id": 118844,
@@ -870,9 +852,62 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.23178011740001,
-  "lati": 49.997134573800004,
-  "FullNameUA": "вулиця Римарська, 24"
+  "longt": 36.2317801174,
+  "lati": 49.9971345738,
+  "FullNameUA": "вулиця Римарська, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 118845,
+  "postcode": 61057,
+  "number": 24,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "129/3, 09.10.2007",
+  "reg_date": "14.01.2019 12:44:31",
+  "longt": 36.2324321068,
+  "lati": 49.9969307281,
+  "FullNameUA": "вулиця Римарська, 24-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 118846,
+  "postcode": 61057,
+  "number": 24,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2325087391,
+  "lati": 49.9970137195,
+  "FullNameUA": "вулиця Римарська, 24-В",
+  "ChildsIds": []
  },
  {
   "id": 118848,
@@ -897,32 +932,8 @@
   "reg_date": "",
   "longt": 36.2291654287,
   "lati": 49.9977129715,
-  "FullNameUA": "вулиця Римарська, 25"
- },
- {
-  "id": 118850,
-  "postcode": 61057,
-  "number": 26,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.231903161800005,
-  "lati": 49.997529201,
-  "FullNameUA": "вулиця Римарська, 26-Б"
+  "FullNameUA": "вулиця Римарська, 25",
+  "ChildsIds": []
  },
  {
   "id": 118849,
@@ -945,9 +956,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231828047600004,
+  "longt": 36.2318280476,
   "lati": 49.9973079723,
-  "FullNameUA": "вулиця Римарська, 26"
+  "FullNameUA": "вулиця Римарська, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 118850,
+  "postcode": 61057,
+  "number": 26,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2319031618,
+  "lati": 49.997529201,
+  "FullNameUA": "вулиця Римарська, 26-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 118852,
+  "postcode": 61057,
+  "number": 26,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3786,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2320656841,
+  "lati": 49.9973373149,
+  "FullNameUA": "вулиця Римарська, 26-Г",
+  "ChildsIds": []
  },
  {
   "id": 118851,
@@ -972,32 +1036,8 @@
   "reg_date": "",
   "longt": 36.2320685895,
   "lati": 49.9974662444,
-  "FullNameUA": "вулиця Римарська, 26-В"
- },
- {
-  "id": 118852,
-  "postcode": 61057,
-  "number": 26,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3786,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23206568410001,
-  "lati": 49.9973373149,
-  "FullNameUA": "вулиця Римарська, 26-Г"
+  "FullNameUA": "вулиця Римарська, 26-В",
+  "ChildsIds": []
  },
  {
   "id": 118853,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231920411800004,
+  "longt": 36.2319204118,
   "lati": 49.9977061632,
-  "FullNameUA": "вулиця Римарська, 28"
+  "FullNameUA": "вулиця Римарська, 28",
+  "ChildsIds": []
  },
  {
   "id": 118854,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2320143052,
   "lati": 49.9979788682,
-  "FullNameUA": "вулиця Римарська, 30"
+  "FullNameUA": "вулиця Римарська, 30",
+  "ChildsIds": []
  },
  {
   "id": 118855,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23273966040001,
+  "longt": 36.2327396604,
   "lati": 49.9980081414,
-  "FullNameUA": "вулиця Римарська, 32"
+  "FullNameUA": "вулиця Римарська, 32",
+  "ChildsIds": []
  },
  {
   "id": 118856,
@@ -1095,8 +1138,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233128503900005,
+  "longt": 36.2331285039,
   "lati": 49.9979961063,
-  "FullNameUA": "вулиця Римарська, 34"
+  "FullNameUA": "вулиця Римарська, 34",
+  "ChildsIds": []
  }
 ]

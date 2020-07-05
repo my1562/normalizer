@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1912792161,
-  "lati": 49.98026159970001,
-  "FullNameUA": "вулиця Петра Болбочана, 1"
+  "lati": 49.9802615997,
+  "FullNameUA": "вулиця Петра Болбочана, 1",
+  "ChildsIds": []
  },
  {
   "id": 150560,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1919010002,
-  "lati": 49.981293644500006,
-  "FullNameUA": "вулиця Петра Болбочана, 2"
+  "lati": 49.9812936445,
+  "FullNameUA": "вулиця Петра Болбочана, 2",
+  "ChildsIds": []
  },
  {
   "id": 150561,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1910604749,
-  "lati": 49.981061356800005,
-  "FullNameUA": "вулиця Петра Болбочана, 3"
+  "lati": 49.9810613568,
+  "FullNameUA": "вулиця Петра Болбочана, 3",
+  "ChildsIds": []
  },
  {
   "id": 150562,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1915763103,
-  "lati": 49.982077971600006,
-  "FullNameUA": "вулиця Петра Болбочана, 4"
+  "lati": 49.9820779716,
+  "FullNameUA": "вулиця Петра Болбочана, 4",
+  "ChildsIds": []
  },
  {
   "id": 150563,
@@ -122,7 +126,60 @@
   "reg_date": "",
   "longt": 36.1902157417,
   "lati": 49.9805963478,
-  "FullNameUA": "вулиця Петра Болбочана, 5"
+  "FullNameUA": "вулиця Петра Болбочана, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 150564,
+  "postcode": 61064,
+  "number": 6,
+  "suffix": "",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.191206519,
+  "lati": 49.982813432,
+  "FullNameUA": "вулиця Петра Болбочана, 6",
+  "ChildsIds": []
+ },
+ {
+  "id": 150566,
+  "postcode": 61064,
+  "number": 6,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "гараж літ. \"В-1\"",
+  "confrm": "334, 19.05.2016",
+  "reg_date": "15.08.2019 10:40:43",
+  "longt": 36.1913820571,
+  "lati": 49.983165006,
+  "FullNameUA": "вулиця Петра Болбочана, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 180201,
@@ -146,33 +203,9 @@
   "confrm": "",
   "reg_date": "18.01.2019 10:17:45",
   "longt": 36.1917837138,
-  "lati": 49.982962322700004,
-  "FullNameUA": "вулиця Петра Болбочана, 6-К"
- },
- {
-  "id": 150567,
-  "postcode": 61064,
-  "number": 6,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "гарвж літ. \"В-1\"",
-  "confrm": "70, 10.02.2016",
-  "reg_date": "15.08.2019 10:22:27",
-  "longt": 36.1914225002,
-  "lati": 49.983176945000004,
-  "FullNameUA": "вулиця Петра Болбочана, 6-В"
+  "lati": 49.9829623227,
+  "FullNameUA": "вулиця Петра Болбочана, 6-К",
+  "ChildsIds": []
  },
  {
   "id": 150565,
@@ -197,38 +230,14 @@
   "reg_date": "",
   "longt": 36.1911213398,
   "lati": 49.983508163,
-  "FullNameUA": "вулиця Петра Болбочана, 6-А"
+  "FullNameUA": "вулиця Петра Болбочана, 6-А",
+  "ChildsIds": []
  },
  {
-  "id": 150564,
+  "id": 150567,
   "postcode": 61064,
   "number": 6,
-  "suffix": "",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.191206519,
-  "lati": 49.98281343200001,
-  "FullNameUA": "вулиця Петра Болбочана, 6"
- },
- {
-  "id": 150566,
-  "postcode": 61064,
-  "number": 6,
-  "suffix": "Б",
+  "suffix": "В",
   "block": "",
   "streetid": 2886,
   "status_id": 1,
@@ -242,12 +251,13 @@
   "detail_ua": "",
   "detail_number": "",
   "source_id": 1,
-  "same_adr_comm": "гараж літ. \"В-1\"",
-  "confrm": "334, 19.05.2016",
-  "reg_date": "15.08.2019 10:40:43",
-  "longt": 36.1913820571,
-  "lati": 49.98316500600001,
-  "FullNameUA": "вулиця Петра Болбочана, 6-Б"
+  "same_adr_comm": "гарвж літ. \"В-1\"",
+  "confrm": "70, 10.02.2016",
+  "reg_date": "15.08.2019 10:22:27",
+  "longt": 36.1914225002,
+  "lati": 49.983176945,
+  "FullNameUA": "вулиця Петра Болбочана, 6-В",
+  "ChildsIds": []
  },
  {
   "id": 150568,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.1902892603,
   "lati": 49.9819668314,
-  "FullNameUA": "вулиця Петра Болбочана, 7"
+  "FullNameUA": "вулиця Петра Болбочана, 7",
+  "ChildsIds": []
  },
  {
   "id": 150569,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1896935253,
   "lati": 49.9827989559,
-  "FullNameUA": "вулиця Петра Болбочана, 11"
+  "FullNameUA": "вулиця Петра Болбочана, 11",
+  "ChildsIds": []
  },
  {
   "id": 180140,
@@ -322,7 +334,8 @@
   "reg_date": "26.12.2018 12:51:46",
   "longt": 36.1888249681,
   "lati": 49.9835582692,
-  "FullNameUA": "вулиця Петра Болбочана, 13-А"
+  "FullNameUA": "вулиця Петра Болбочана, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 150570,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.189596181,
-  "lati": 49.981456949800005,
-  "FullNameUA": "вулиця Петра Болбочана, 25"
+  "lati": 49.9814569498,
+  "FullNameUA": "вулиця Петра Болбочана, 25",
+  "ChildsIds": []
  },
  {
   "id": 177387,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1892548625,
   "lati": 49.9840641843,
-  "FullNameUA": "вулиця Петра Болбочана, 40"
+  "FullNameUA": "вулиця Петра Болбочана, 40",
+  "ChildsIds": []
  },
  {
   "id": 140655,
@@ -396,8 +411,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1882182733,
-  "lati": 49.985268627800004,
-  "FullNameUA": "вулиця Петра Болбочана, 45"
+  "lati": 49.9852686278,
+  "FullNameUA": "вулиця Петра Болбочана, 45",
+  "ChildsIds": []
  },
  {
   "id": 140656,
@@ -421,8 +437,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1885865286,
-  "lati": 49.985589237400006,
-  "FullNameUA": "вулиця Петра Болбочана, 46"
+  "lati": 49.9855892374,
+  "FullNameUA": "вулиця Петра Болбочана, 46",
+  "ChildsIds": []
  },
  {
   "id": 140657,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1880542834,
   "lati": 49.9855776889,
-  "FullNameUA": "вулиця Петра Болбочана, 47"
+  "FullNameUA": "вулиця Петра Болбочана, 47",
+  "ChildsIds": []
  },
  {
   "id": 140658,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1879234031,
-  "lati": 49.985679369100005,
-  "FullNameUA": "вулиця Петра Болбочана, 47-А"
+  "lati": 49.9856793691,
+  "FullNameUA": "вулиця Петра Болбочана, 47-А",
+  "ChildsIds": []
  },
  {
   "id": 140659,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1884027019,
-  "lati": 49.98623127130001,
-  "FullNameUA": "вулиця Петра Болбочана, 48"
+  "lati": 49.9862312713,
+  "FullNameUA": "вулиця Петра Болбочана, 48",
+  "ChildsIds": []
  },
  {
   "id": 140660,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1873832736,
   "lati": 49.9857269103,
-  "FullNameUA": "вулиця Петра Болбочана, 49"
+  "FullNameUA": "вулиця Петра Болбочана, 49",
+  "ChildsIds": []
  },
  {
   "id": 140661,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.18890992,
-  "lati": 49.987171237000005,
-  "FullNameUA": "вулиця Петра Болбочана, 50"
+  "lati": 49.987171237,
+  "FullNameUA": "вулиця Петра Болбочана, 50",
+  "ChildsIds": []
  },
  {
   "id": 140662,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1889576632,
   "lati": 49.9883496033,
-  "FullNameUA": "вулиця Петра Болбочана, 52"
+  "FullNameUA": "вулиця Петра Болбочана, 52",
+  "ChildsIds": []
  },
  {
   "id": 140663,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1881354974,
-  "lati": 49.988222598700006,
-  "FullNameUA": "вулиця Петра Болбочана, 54"
+  "lati": 49.9882225987,
+  "FullNameUA": "вулиця Петра Болбочана, 54",
+  "ChildsIds": []
  },
  {
   "id": 140664,
@@ -621,8 +645,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1887075491,
-  "lati": 49.98903928160001,
-  "FullNameUA": "вулиця Петра Болбочана, 55-А"
+  "lati": 49.9890392816,
+  "FullNameUA": "вулиця Петра Болбочана, 55-А",
+  "ChildsIds": []
  },
  {
   "id": 140665,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.1876684023,
   "lati": 49.986894542,
-  "FullNameUA": "вулиця Петра Болбочана, 59"
+  "FullNameUA": "вулиця Петра Болбочана, 59",
+  "ChildsIds": []
  },
  {
   "id": 140666,
@@ -671,33 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1875965679,
-  "lati": 49.987660990500004,
-  "FullNameUA": "вулиця Петра Болбочана, 63"
- },
- {
-  "id": 140669,
-  "postcode": 61093,
-  "number": 67,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1866623426,
-  "lati": 49.987647773000006,
-  "FullNameUA": "вулиця Петра Болбочана, 67-Б"
+  "lati": 49.9876609905,
+  "FullNameUA": "вулиця Петра Болбочана, 63",
+  "ChildsIds": []
  },
  {
   "id": 140668,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.1867900419,
   "lati": 49.9882484823,
-  "FullNameUA": "вулиця Петра Болбочана, 67-А"
+  "FullNameUA": "вулиця Петра Болбочана, 67-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140669,
+  "postcode": 61093,
+  "number": 67,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1866623426,
+  "lati": 49.987647773,
+  "FullNameUA": "вулиця Петра Болбочана, 67-Б",
+  "ChildsIds": []
  },
  {
   "id": 140667,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1863888217,
   "lati": 49.987618963,
-  "FullNameUA": "вулиця Петра Болбочана, 67"
+  "FullNameUA": "вулиця Петра Болбочана, 67",
+  "ChildsIds": []
  },
  {
   "id": 140670,
@@ -772,7 +802,34 @@
   "reg_date": "",
   "longt": 36.1874708345,
   "lati": 49.9885124425,
-  "FullNameUA": "вулиця Петра Болбочана, 69"
+  "FullNameUA": "вулиця Петра Болбочана, 69",
+  "ChildsIds": []
+ },
+ {
+  "id": 140671,
+  "postcode": 61093,
+  "number": 73,
+  "suffix": "",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1870832829,
+  "lati": 49.9896360208,
+  "FullNameUA": "вулиця Петра Болбочана, 73",
+  "ChildsIds": []
  },
  {
   "id": 140672,
@@ -797,57 +854,8 @@
   "reg_date": "",
   "longt": 36.1872150085,
   "lati": 49.989543515,
-  "FullNameUA": "вулиця Петра Болбочана, 73-А"
- },
- {
-  "id": 140671,
-  "postcode": 61093,
-  "number": 73,
-  "suffix": "",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1870832829,
-  "lati": 49.989636020800006,
-  "FullNameUA": "вулиця Петра Болбочана, 73"
- },
- {
-  "id": 140673,
-  "postcode": 61093,
-  "number": 74,
-  "suffix": "",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1875895055,
-  "lati": 49.989641388100004,
-  "FullNameUA": "вулиця Петра Болбочана, 74"
+  "FullNameUA": "вулиця Петра Болбочана, 73-А",
+  "ChildsIds": []
  },
  {
   "id": 140675,
@@ -871,8 +879,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1874375296,
-  "lati": 49.989839541100004,
-  "FullNameUA": "вулиця Петра Болбочана, 74-Б"
+  "lati": 49.9898395411,
+  "FullNameUA": "вулиця Петра Болбочана, 74-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 140673,
+  "postcode": 61093,
+  "number": 74,
+  "suffix": "",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1875895055,
+  "lati": 49.9896413881,
+  "FullNameUA": "вулиця Петра Болбочана, 74",
+  "ChildsIds": []
  },
  {
   "id": 140674,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1873399967,
   "lati": 49.9899962168,
-  "FullNameUA": "вулиця Петра Болбочана, 74-А"
+  "FullNameUA": "вулиця Петра Болбочана, 74-А",
+  "ChildsIds": []
  },
  {
   "id": 140676,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1870100778,
-  "lati": 49.989786948100004,
-  "FullNameUA": "вулиця Петра Болбочана, 75"
+  "lati": 49.9897869481,
+  "FullNameUA": "вулиця Петра Болбочана, 75",
+  "ChildsIds": []
  },
  {
   "id": 140677,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.187190243399996,
-  "lati": 49.990197220300004,
-  "FullNameUA": "вулиця Петра Болбочана, 76"
+  "longt": 36.1871902434,
+  "lati": 49.9901972203,
+  "FullNameUA": "вулиця Петра Болбочана, 76",
+  "ChildsIds": []
  },
  {
   "id": 140678,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1865423331,
   "lati": 49.9900003564,
-  "FullNameUA": "вулиця Петра Болбочана, 77"
+  "FullNameUA": "вулиця Петра Болбочана, 77",
+  "ChildsIds": []
  },
  {
   "id": 140679,
@@ -997,7 +1036,34 @@
   "reg_date": "",
   "longt": 36.1870044567,
   "lati": 49.990430632,
-  "FullNameUA": "вулиця Петра Болбочана, 78"
+  "FullNameUA": "вулиця Петра Болбочана, 78",
+  "ChildsIds": []
+ },
+ {
+  "id": 140681,
+  "postcode": 61093,
+  "number": 79,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1866467205,
+  "lati": 49.9902794473,
+  "FullNameUA": "вулиця Петра Болбочана, 79-Б",
+  "ChildsIds": []
  },
  {
   "id": 140680,
@@ -1022,32 +1088,8 @@
   "reg_date": "",
   "longt": 36.1867466192,
   "lati": 49.9901613033,
-  "FullNameUA": "вулиця Петра Болбочана, 79"
- },
- {
-  "id": 140681,
-  "postcode": 61093,
-  "number": 79,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1866467205,
-  "lati": 49.990279447300004,
-  "FullNameUA": "вулиця Петра Болбочана, 79-Б"
+  "FullNameUA": "вулиця Петра Болбочана, 79",
+  "ChildsIds": []
  },
  {
   "id": 140682,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.1868687137,
   "lati": 49.9906297096,
-  "FullNameUA": "вулиця Петра Болбочана, 80"
+  "FullNameUA": "вулиця Петра Болбочана, 80",
+  "ChildsIds": []
  },
  {
   "id": 140683,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.1864778605,
   "lati": 49.9905018889,
-  "FullNameUA": "вулиця Петра Болбочана, 81"
+  "FullNameUA": "вулиця Петра Болбочана, 81",
+  "ChildsIds": []
  },
  {
   "id": 140684,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.1868164814,
   "lati": 49.9908614785,
-  "FullNameUA": "вулиця Петра Болбочана, 82"
+  "FullNameUA": "вулиця Петра Болбочана, 82",
+  "ChildsIds": []
  },
  {
   "id": 140685,
@@ -1147,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.1863310042,
   "lati": 49.9906900417,
-  "FullNameUA": "вулиця Петра Болбочана, 83"
- },
- {
-  "id": 140687,
-  "postcode": 61093,
-  "number": 84,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1871565592,
-  "lati": 49.991214880200005,
-  "FullNameUA": "вулиця Петра Болбочана, 84-А"
+  "FullNameUA": "вулиця Петра Болбочана, 83",
+  "ChildsIds": []
  },
  {
   "id": 140686,
@@ -1196,14 +1217,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1865670083,
-  "lati": 49.991037903300004,
-  "FullNameUA": "вулиця Петра Болбочана, 84"
+  "lati": 49.9910379033,
+  "FullNameUA": "вулиця Петра Болбочана, 84",
+  "ChildsIds": []
  },
  {
-  "id": 140688,
+  "id": 140687,
   "postcode": 61093,
-  "number": 85,
-  "suffix": "",
+  "number": 84,
+  "suffix": "А",
   "block": "",
   "streetid": 2886,
   "status_id": 1,
@@ -1220,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.1859364885,
-  "lati": 49.9907005271,
-  "FullNameUA": "вулиця Петра Болбочана, 85"
+  "longt": 36.1871565592,
+  "lati": 49.9912148802,
+  "FullNameUA": "вулиця Петра Болбочана, 84-А",
+  "ChildsIds": []
  },
  {
   "id": 140689,
@@ -1247,7 +1270,34 @@
   "reg_date": "",
   "longt": 36.1861673865,
   "lati": 49.9908733258,
-  "FullNameUA": "вулиця Петра Болбочана, 85-А"
+  "FullNameUA": "вулиця Петра Болбочана, 85-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140688,
+  "postcode": 61093,
+  "number": 85,
+  "suffix": "",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1859364885,
+  "lati": 49.9907005271,
+  "FullNameUA": "вулиця Петра Болбочана, 85",
+  "ChildsIds": []
  },
  {
   "id": 140690,
@@ -1272,32 +1322,8 @@
   "reg_date": "",
   "longt": 36.1863961435,
   "lati": 49.9912554526,
-  "FullNameUA": "вулиця Петра Болбочана, 86"
- },
- {
-  "id": 140692,
-  "postcode": 61093,
-  "number": 87,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1860719619,
-  "lati": 49.9910043071,
-  "FullNameUA": "вулиця Петра Болбочана, 87-А"
+  "FullNameUA": "вулиця Петра Болбочана, 86",
+  "ChildsIds": []
  },
  {
   "id": 140691,
@@ -1322,7 +1348,34 @@
   "reg_date": "",
   "longt": 36.1860044531,
   "lati": 49.9911028932,
-  "FullNameUA": "вулиця Петра Болбочана, 87"
+  "FullNameUA": "вулиця Петра Болбочана, 87",
+  "ChildsIds": []
+ },
+ {
+  "id": 140692,
+  "postcode": 61093,
+  "number": 87,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1860719619,
+  "lati": 49.9910043071,
+  "FullNameUA": "вулиця Петра Болбочана, 87-А",
+  "ChildsIds": []
  },
  {
   "id": 140693,
@@ -1347,32 +1400,8 @@
   "reg_date": "",
   "longt": 36.1862889782,
   "lati": 49.9914035795,
-  "FullNameUA": "вулиця Петра Болбочана, 88"
- },
- {
-  "id": 140695,
-  "postcode": 61093,
-  "number": 89,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1857980155,
-  "lati": 49.9913415692,
-  "FullNameUA": "вулиця Петра Болбочана, 89-А"
+  "FullNameUA": "вулиця Петра Болбочана, 88",
+  "ChildsIds": []
  },
  {
   "id": 140694,
@@ -1397,7 +1426,34 @@
   "reg_date": "",
   "longt": 36.1859001965,
   "lati": 49.9912400731,
-  "FullNameUA": "вулиця Петра Болбочана, 89"
+  "FullNameUA": "вулиця Петра Болбочана, 89",
+  "ChildsIds": []
+ },
+ {
+  "id": 140695,
+  "postcode": 61093,
+  "number": 89,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1857980155,
+  "lati": 49.9913415692,
+  "FullNameUA": "вулиця Петра Болбочана, 89-А",
+  "ChildsIds": []
  },
  {
   "id": 140696,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.1860162004,
   "lati": 49.9916613919,
-  "FullNameUA": "вулиця Петра Болбочана, 90"
+  "FullNameUA": "вулиця Петра Болбочана, 90",
+  "ChildsIds": []
  },
  {
   "id": 140698,
@@ -1446,33 +1503,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1854134105,
-  "lati": 49.991688046600004,
-  "FullNameUA": "вулиця Петра Болбочана, 91-А"
- },
- {
-  "id": 140699,
-  "postcode": 61093,
-  "number": 91,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.185257417,
-  "lati": 49.9918048517,
-  "FullNameUA": "вулиця Петра Болбочана, 91-Б"
+  "lati": 49.9916880466,
+  "FullNameUA": "вулиця Петра Болбочана, 91-А",
+  "ChildsIds": []
  },
  {
   "id": 140697,
@@ -1497,7 +1530,34 @@
   "reg_date": "",
   "longt": 36.1855928979,
   "lati": 49.9915402806,
-  "FullNameUA": "вулиця Петра Болбочана, 91"
+  "FullNameUA": "вулиця Петра Болбочана, 91",
+  "ChildsIds": []
+ },
+ {
+  "id": 140699,
+  "postcode": 61093,
+  "number": 91,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.185257417,
+  "lati": 49.9918048517,
+  "FullNameUA": "вулиця Петра Болбочана, 91-Б",
+  "ChildsIds": []
  },
  {
   "id": 140700,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.1859014721,
   "lati": 49.9917624324,
-  "FullNameUA": "вулиця Петра Болбочана, 92"
+  "FullNameUA": "вулиця Петра Болбочана, 92",
+  "ChildsIds": []
  },
  {
   "id": 140701,
@@ -1546,8 +1607,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.184973307,
-  "lati": 49.991996076300005,
-  "FullNameUA": "вулиця Петра Болбочана, 93"
+  "lati": 49.9919960763,
+  "FullNameUA": "вулиця Петра Болбочана, 93",
+  "ChildsIds": []
  },
  {
   "id": 140702,
@@ -1571,8 +1633,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1855452011,
-  "lati": 49.991993736000005,
-  "FullNameUA": "вулиця Петра Болбочана, 94"
+  "lati": 49.991993736,
+  "FullNameUA": "вулиця Петра Болбочана, 94",
+  "ChildsIds": []
  },
  {
   "id": 140703,
@@ -1596,8 +1659,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1844220222,
-  "lati": 49.991984584600004,
-  "FullNameUA": "вулиця Петра Болбочана, 95"
+  "lati": 49.9919845846,
+  "FullNameUA": "вулиця Петра Болбочана, 95",
+  "ChildsIds": []
  },
  {
   "id": 140704,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.1848208534,
   "lati": 49.9920743404,
-  "FullNameUA": "вулиця Петра Болбочана, 95-А"
+  "FullNameUA": "вулиця Петра Болбочана, 95-А",
+  "ChildsIds": []
  },
  {
   "id": 140705,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.1853269778,
   "lati": 49.9922395659,
-  "FullNameUA": "вулиця Петра Болбочана, 96"
+  "FullNameUA": "вулиця Петра Болбочана, 96",
+  "ChildsIds": []
  },
  {
   "id": 140706,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.1844740899,
   "lati": 49.9922851688,
-  "FullNameUA": "вулиця Петра Болбочана, 97"
+  "FullNameUA": "вулиця Петра Болбочана, 97",
+  "ChildsIds": []
  },
  {
   "id": 140707,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.1850965345,
   "lati": 49.9922693095,
-  "FullNameUA": "вулиця Петра Болбочана, 98"
+  "FullNameUA": "вулиця Петра Болбочана, 98",
+  "ChildsIds": []
  },
  {
   "id": 140708,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.1842126502,
   "lati": 49.9924240241,
-  "FullNameUA": "вулиця Петра Болбочана, 99"
+  "FullNameUA": "вулиця Петра Болбочана, 99",
+  "ChildsIds": []
  },
  {
   "id": 140709,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.1847080677,
   "lati": 49.9924907914,
-  "FullNameUA": "вулиця Петра Болбочана, 100"
+  "FullNameUA": "вулиця Петра Болбочана, 100",
+  "ChildsIds": []
  },
  {
   "id": 140710,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.1840647597,
   "lati": 49.9925384361,
-  "FullNameUA": "вулиця Петра Болбочана, 101"
+  "FullNameUA": "вулиця Петра Болбочана, 101",
+  "ChildsIds": []
  },
  {
   "id": 140711,
@@ -1796,8 +1867,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1844540034,
-  "lati": 49.992628684100005,
-  "FullNameUA": "вулиця Петра Болбочана, 102"
+  "lati": 49.9926286841,
+  "FullNameUA": "вулиця Петра Болбочана, 102",
+  "ChildsIds": []
  },
  {
   "id": 140712,
@@ -1822,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.184779962,
   "lati": 49.9927651782,
-  "FullNameUA": "вулиця Петра Болбочана, 102-А"
+  "FullNameUA": "вулиця Петра Болбочана, 102-А",
+  "ChildsIds": []
  },
  {
   "id": 140713,
@@ -1846,8 +1919,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.183673951,
-  "lati": 49.992424402400005,
-  "FullNameUA": "вулиця Петра Болбочана, 103"
+  "lati": 49.9924244024,
+  "FullNameUA": "вулиця Петра Болбочана, 103",
+  "ChildsIds": []
  },
  {
   "id": 140714,
@@ -1872,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.1841831502,
   "lati": 49.9928151282,
-  "FullNameUA": "вулиця Петра Болбочана, 104"
+  "FullNameUA": "вулиця Петра Болбочана, 104",
+  "ChildsIds": []
  },
  {
   "id": 140715,
@@ -1896,8 +1971,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1843296363,
-  "lati": 49.992719272100004,
-  "FullNameUA": "вулиця Петра Болбочана, 104-А"
+  "lati": 49.9927192721,
+  "FullNameUA": "вулиця Петра Болбочана, 104-А",
+  "ChildsIds": []
  },
  {
   "id": 140716,
@@ -1921,8 +1997,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1838525534,
-  "lati": 49.992634314600004,
-  "FullNameUA": "вулиця Петра Болбочана, 105"
+  "lati": 49.9926343146,
+  "FullNameUA": "вулиця Петра Болбочана, 105",
+  "ChildsIds": []
  },
  {
   "id": 140717,
@@ -1946,8 +2023,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1833511125,
-  "lati": 49.992913020900005,
-  "FullNameUA": "вулиця Петра Болбочана, 107"
+  "lati": 49.9929130209,
+  "FullNameUA": "вулиця Петра Болбочана, 107",
+  "ChildsIds": []
  },
  {
   "id": 140720,
@@ -1972,32 +2050,8 @@
   "reg_date": "",
   "longt": 36.183254861,
   "lati": 49.9936964423,
-  "FullNameUA": "вулиця Петра Болбочана, 108-Б"
- },
- {
-  "id": 140718,
-  "postcode": 61093,
-  "number": 108,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1832743277,
-  "lati": 49.9933900765,
-  "FullNameUA": "вулиця Петра Болбочана, 108-В"
+  "FullNameUA": "вулиця Петра Болбочана, 108-Б",
+  "ChildsIds": []
  },
  {
   "id": 140719,
@@ -2022,7 +2076,34 @@
   "reg_date": "",
   "longt": 36.1831563641,
   "lati": 49.9935083506,
-  "FullNameUA": "вулиця Петра Болбочана, 108-А"
+  "FullNameUA": "вулиця Петра Болбочана, 108-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 140718,
+  "postcode": 61093,
+  "number": 108,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1832743277,
+  "lati": 49.9933900765,
+  "FullNameUA": "вулиця Петра Болбочана, 108-В",
+  "ChildsIds": []
  },
  {
   "id": 177386,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.1829079977,
   "lati": 49.9931167644,
-  "FullNameUA": "вулиця Петра Болбочана, 109"
+  "FullNameUA": "вулиця Петра Болбочана, 109",
+  "ChildsIds": []
  },
  {
   "id": 140721,
@@ -2072,7 +2154,8 @@
   "reg_date": "",
   "longt": 36.1832812095,
   "lati": 49.9938331756,
-  "FullNameUA": "вулиця Петра Болбочана, 110"
+  "FullNameUA": "вулиця Петра Болбочана, 110",
+  "ChildsIds": []
  },
  {
   "id": 140722,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.1826445925,
   "lati": 49.9933144349,
-  "FullNameUA": "вулиця Петра Болбочана, 111"
+  "FullNameUA": "вулиця Петра Болбочана, 111",
+  "ChildsIds": []
  },
  {
   "id": 140723,
@@ -2122,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.1822856906,
   "lati": 49.9930521537,
-  "FullNameUA": "вулиця Петра Болбочана, 111-А"
+  "FullNameUA": "вулиця Петра Болбочана, 111-А",
+  "ChildsIds": []
  },
  {
   "id": 140724,
@@ -2147,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.1826447702,
   "lati": 49.9938484513,
-  "FullNameUA": "вулиця Петра Болбочана, 112"
+  "FullNameUA": "вулиця Петра Болбочана, 112",
+  "ChildsIds": []
  },
  {
   "id": 140725,
@@ -2172,32 +2258,8 @@
   "reg_date": "",
   "longt": 36.1824735265,
   "lati": 49.9934491002,
-  "FullNameUA": "вулиця Петра Болбочана, 113"
- },
- {
-  "id": 140727,
-  "postcode": 61093,
-  "number": 114,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2886,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1829240327,
-  "lati": 49.9940276027,
-  "FullNameUA": "вулиця Петра Болбочана, 114-А"
+  "FullNameUA": "вулиця Петра Болбочана, 113",
+  "ChildsIds": []
  },
  {
   "id": 140726,
@@ -2222,7 +2284,34 @@
   "reg_date": "",
   "longt": 36.1824095217,
   "lati": 49.9940866907,
-  "FullNameUA": "вулиця Петра Болбочана, 114"
+  "FullNameUA": "вулиця Петра Болбочана, 114",
+  "ChildsIds": []
+ },
+ {
+  "id": 140727,
+  "postcode": 61093,
+  "number": 114,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2886,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1829240327,
+  "lati": 49.9940276027,
+  "FullNameUA": "вулиця Петра Болбочана, 114-А",
+  "ChildsIds": []
  },
  {
   "id": 140728,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.1823779204,
   "lati": 49.9935360729,
-  "FullNameUA": "вулиця Петра Болбочана, 115"
+  "FullNameUA": "вулиця Петра Болбочана, 115",
+  "ChildsIds": []
  },
  {
   "id": 140729,
@@ -2271,8 +2361,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.182195707,
-  "lati": 49.993650536400004,
-  "FullNameUA": "вулиця Петра Болбочана, 117"
+  "lati": 49.9936505364,
+  "FullNameUA": "вулиця Петра Болбочана, 117",
+  "ChildsIds": []
  },
  {
   "id": 140730,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.181967213,
   "lati": 49.9937234451,
-  "FullNameUA": "вулиця Петра Болбочана, 119"
+  "FullNameUA": "вулиця Петра Болбочана, 119",
+  "ChildsIds": []
  },
  {
   "id": 140731,
@@ -2321,8 +2413,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1816535794,
-  "lati": 49.993723936500004,
-  "FullNameUA": "вулиця Петра Болбочана, 121"
+  "lati": 49.9937239365,
+  "FullNameUA": "вулиця Петра Болбочана, 121",
+  "ChildsIds": []
  },
  {
   "id": 140732,
@@ -2347,7 +2440,8 @@
   "reg_date": "",
   "longt": 36.1816653522,
   "lati": 49.9939106455,
-  "FullNameUA": "вулиця Петра Болбочана, 123"
+  "FullNameUA": "вулиця Петра Болбочана, 123",
+  "ChildsIds": []
  },
  {
   "id": 140733,
@@ -2372,6 +2466,7 @@
   "reg_date": "",
   "longt": 36.1814813938,
   "lati": 49.9940524656,
-  "FullNameUA": "вулиця Петра Болбочана, 125"
+  "FullNameUA": "вулиця Петра Болбочана, 125",
+  "ChildsIds": []
  }
 ]

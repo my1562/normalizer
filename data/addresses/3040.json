@@ -22,7 +22,86 @@
   "reg_date": "",
   "longt": 36.3290376387,
   "lati": 50.057109314,
-  "FullNameUA": "вулиця Кромська, 1"
+  "FullNameUA": "вулиця Кромська, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 124566,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "И",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3284526578,
+  "lati": 50.0572903139,
+  "FullNameUA": "вулиця Кромська, 2-И",
+  "ChildsIds": []
+ },
+ {
+  "id": 124563,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3280573022,
+  "lati": 50.0572479924,
+  "FullNameUA": "вулиця Кромська, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 124564,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3273777206,
+  "lati": 50.0572791638,
+  "FullNameUA": "вулиця Кромська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 124565,
@@ -47,82 +126,8 @@
   "reg_date": "",
   "longt": 36.3275966983,
   "lati": 50.0573351605,
-  "FullNameUA": "вулиця Кромська, 2-З"
- },
- {
-  "id": 124564,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3273777206,
-  "lati": 50.057279163800004,
-  "FullNameUA": "вулиця Кромська, 2-А"
- },
- {
-  "id": 124563,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3280573022,
-  "lati": 50.05724799240001,
-  "FullNameUA": "вулиця Кромська, 2"
- },
- {
-  "id": 124566,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "И",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3284526578,
-  "lati": 50.057290313900005,
-  "FullNameUA": "вулиця Кромська, 2-И"
+  "FullNameUA": "вулиця Кромська, 2-З",
+  "ChildsIds": []
  },
  {
   "id": 124567,
@@ -146,58 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3283769153,
-  "lati": 50.057072630300006,
-  "FullNameUA": "вулиця Кромська, 3"
- },
- {
-  "id": 177297,
-  "postcode": 61107,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3277202711,
-  "lati": 50.05815063600001,
-  "FullNameUA": "вулиця Кромська, 4-А"
- },
- {
-  "id": 124568,
-  "postcode": 61107,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3270958401,
-  "lati": 50.05728404760001,
-  "FullNameUA": "вулиця Кромська, 4"
+  "lati": 50.0570726303,
+  "FullNameUA": "вулиця Кромська, 3",
+  "ChildsIds": []
  },
  {
   "id": 124569,
@@ -221,8 +177,61 @@
   "confrm": "635, 07.09.2011",
   "reg_date": "13.01.2020 11:51:47",
   "longt": 36.3265686192,
-  "lati": 50.057318346500004,
-  "FullNameUA": "вулиця Кромська, 4-В"
+  "lati": 50.0573183465,
+  "FullNameUA": "вулиця Кромська, 4-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 124568,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3270958401,
+  "lati": 50.0572840476,
+  "FullNameUA": "вулиця Кромська, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 177297,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3277202711,
+  "lati": 50.058150636,
+  "FullNameUA": "вулиця Кромська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 124570,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3281028866,
-  "lati": 50.057054619000006,
-  "FullNameUA": "вулиця Кромська, 5"
+  "lati": 50.057054619,
+  "FullNameUA": "вулиця Кромська, 5",
+  "ChildsIds": []
  },
  {
   "id": 124572,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3256058825,
-  "lati": 50.057012902800004,
-  "FullNameUA": "вулиця Кромська, 6-А"
+  "lati": 50.0570129028,
+  "FullNameUA": "вулиця Кромська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 124571,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.3255427696,
   "lati": 50.0568210491,
-  "FullNameUA": "вулиця Кромська, 6"
+  "FullNameUA": "вулиця Кромська, 6",
+  "ChildsIds": []
  },
  {
   "id": 124573,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3277766184,
   "lati": 50.0570542951,
-  "FullNameUA": "вулиця Кромська, 7"
+  "FullNameUA": "вулиця Кромська, 7",
+  "ChildsIds": []
  },
  {
   "id": 124574,
@@ -346,8 +359,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3252623728,
-  "lati": 50.05648680550001,
-  "FullNameUA": "вулиця Кромська, 8"
+  "lati": 50.0564868055,
+  "FullNameUA": "вулиця Кромська, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 124576,
+  "postcode": 61107,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3272178771,
+  "lati": 50.057029391,
+  "FullNameUA": "вулиця Кромська, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 124575,
@@ -372,32 +412,8 @@
   "reg_date": "",
   "longt": 36.3275234153,
   "lati": 50.0568649693,
-  "FullNameUA": "вулиця Кромська, 9"
- },
- {
-  "id": 124576,
-  "postcode": 61107,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3272178771,
-  "lati": 50.05702939100001,
-  "FullNameUA": "вулиця Кромська, 9-А"
+  "FullNameUA": "вулиця Кромська, 9",
+  "ChildsIds": []
  },
  {
   "id": 178608,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3251473332,
   "lati": 50.05636505,
-  "FullNameUA": "вулиця Кромська, 10"
+  "FullNameUA": "вулиця Кромська, 10",
+  "ChildsIds": []
  },
  {
   "id": 124577,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3249868994,
   "lati": 50.0562760664,
-  "FullNameUA": "вулиця Кромська, 10-А"
+  "FullNameUA": "вулиця Кромська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 124578,
@@ -471,33 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3268885183,
-  "lati": 50.057085104600006,
-  "FullNameUA": "вулиця Кромська, 11"
- },
- {
-  "id": 124579,
-  "postcode": 61107,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3248106837,
-  "lati": 50.05621403120001,
-  "FullNameUA": "вулиця Кромська, 12"
+  "lati": 50.0570851046,
+  "FullNameUA": "вулиця Кромська, 11",
+  "ChildsIds": []
  },
  {
   "id": 124580,
@@ -521,8 +515,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3246181687,
-  "lati": 50.056096990200004,
-  "FullNameUA": "вулиця Кромська, 12-А"
+  "lati": 50.0560969902,
+  "FullNameUA": "вулиця Кромська, 12-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124579,
+  "postcode": 61107,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3248106837,
+  "lati": 50.0562140312,
+  "FullNameUA": "вулиця Кромська, 12",
+  "ChildsIds": []
  },
  {
   "id": 124581,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3262469914,
-  "lati": 50.057150047200004,
-  "FullNameUA": "вулиця Кромська, 13"
+  "lati": 50.0571500472,
+  "FullNameUA": "вулиця Кромська, 13",
+  "ChildsIds": []
  },
  {
   "id": 124582,
@@ -571,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3244272131,
-  "lati": 50.056005549400005,
-  "FullNameUA": "вулиця Кромська, 14"
+  "lati": 50.0560055494,
+  "FullNameUA": "вулиця Кромська, 14",
+  "ChildsIds": []
  },
  {
   "id": 124583,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.3259802301,
   "lati": 50.0568034626,
-  "FullNameUA": "вулиця Кромська, 15"
+  "FullNameUA": "вулиця Кромська, 15",
+  "ChildsIds": []
  },
  {
   "id": 124584,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3240655729,
   "lati": 50.0558629618,
-  "FullNameUA": "вулиця Кромська, 16"
+  "FullNameUA": "вулиця Кромська, 16",
+  "ChildsIds": []
  },
  {
   "id": 124585,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3256810943,
   "lati": 50.0564636681,
-  "FullNameUA": "вулиця Кромська, 17"
+  "FullNameUA": "вулиця Кромська, 17",
+  "ChildsIds": []
  },
  {
   "id": 124586,
@@ -671,33 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3237612366,
-  "lati": 50.055713342500006,
-  "FullNameUA": "вулиця Кромська, 18"
- },
- {
-  "id": 124587,
-  "postcode": 61107,
-  "number": 19,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3253552912,
-  "lati": 50.05623450980001,
-  "FullNameUA": "вулиця Кромська, 19"
+  "lati": 50.0557133425,
+  "FullNameUA": "вулиця Кромська, 18",
+  "ChildsIds": []
  },
  {
   "id": 124588,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.325215951,
   "lati": 50.056119242,
-  "FullNameUA": "вулиця Кромська, 19-А"
+  "FullNameUA": "вулиця Кромська, 19-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124587,
+  "postcode": 61107,
+  "number": 19,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3253552912,
+  "lati": 50.0562345098,
+  "FullNameUA": "вулиця Кромська, 19",
+  "ChildsIds": []
  },
  {
   "id": 124589,
@@ -746,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3234647566,
-  "lati": 50.055573308300005,
-  "FullNameUA": "вулиця Кромська, 20"
+  "lati": 50.0555733083,
+  "FullNameUA": "вулиця Кромська, 20",
+  "ChildsIds": []
  },
  {
   "id": 124590,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3249987932,
   "lati": 50.0560072895,
-  "FullNameUA": "вулиця Кромська, 21"
+  "FullNameUA": "вулиця Кромська, 21",
+  "ChildsIds": []
  },
  {
   "id": 124591,
@@ -796,8 +827,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3230783722,
-  "lati": 50.05538619080001,
-  "FullNameUA": "вулиця Кромська, 22"
+  "lati": 50.0553861908,
+  "FullNameUA": "вулиця Кромська, 22",
+  "ChildsIds": []
  },
  {
   "id": 124592,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.3246885138,
   "lati": 50.0558171822,
-  "FullNameUA": "вулиця Кромська, 23"
+  "FullNameUA": "вулиця Кромська, 23",
+  "ChildsIds": []
  },
  {
   "id": 124593,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.3228040611,
   "lati": 50.0551961621,
-  "FullNameUA": "вулиця Кромська, 24"
+  "FullNameUA": "вулиця Кромська, 24",
+  "ChildsIds": []
  },
  {
   "id": 124594,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.3244258238,
   "lati": 50.0557493152,
-  "FullNameUA": "вулиця Кромська, 25"
+  "FullNameUA": "вулиця Кромська, 25",
+  "ChildsIds": []
  },
  {
   "id": 124595,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.322513494,
   "lati": 50.0550349923,
-  "FullNameUA": "вулиця Кромська, 26"
+  "FullNameUA": "вулиця Кромська, 26",
+  "ChildsIds": []
  },
  {
   "id": 124596,
@@ -921,8 +957,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3240527497,
-  "lati": 50.055502490600006,
-  "FullNameUA": "вулиця Кромська, 27"
+  "lati": 50.0555024906,
+  "FullNameUA": "вулиця Кромська, 27",
+  "ChildsIds": []
  },
  {
   "id": 124597,
@@ -946,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.322228836,
-  "lati": 50.054883866800004,
-  "FullNameUA": "вулиця Кромська, 28"
+  "lati": 50.0548838668,
+  "FullNameUA": "вулиця Кромська, 28",
+  "ChildsIds": []
  },
  {
   "id": 124598,
@@ -971,8 +1009,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3238593139,
-  "lati": 50.055530702800006,
-  "FullNameUA": "вулиця Кромська, 29"
+  "lati": 50.0555307028,
+  "FullNameUA": "вулиця Кромська, 29",
+  "ChildsIds": []
  },
  {
   "id": 124599,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.321913898,
   "lati": 50.0547209698,
-  "FullNameUA": "вулиця Кромська, 30"
+  "FullNameUA": "вулиця Кромська, 30",
+  "ChildsIds": []
  },
  {
   "id": 124600,
@@ -1021,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3236599505,
-  "lati": 50.05534799230001,
-  "FullNameUA": "вулиця Кромська, 31"
+  "lati": 50.0553479923,
+  "FullNameUA": "вулиця Кромська, 31",
+  "ChildsIds": []
  },
  {
   "id": 124601,
@@ -1046,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3215888973,
-  "lati": 50.054531106300004,
-  "FullNameUA": "вулиця Кромська, 32"
+  "lati": 50.0545311063,
+  "FullNameUA": "вулиця Кромська, 32",
+  "ChildsIds": []
  },
  {
   "id": 124602,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3232495827,
-  "lati": 50.05520205690001,
-  "FullNameUA": "вулиця Кромська, 33"
+  "lati": 50.0552020569,
+  "FullNameUA": "вулиця Кромська, 33",
+  "ChildsIds": []
  },
  {
   "id": 124603,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3210144837,
   "lati": 50.0543058749,
-  "FullNameUA": "вулиця Кромська, 34"
+  "FullNameUA": "вулиця Кромська, 34",
+  "ChildsIds": []
  },
  {
   "id": 124604,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3229628455,
-  "lati": 50.055013768100004,
-  "FullNameUA": "вулиця Кромська, 35"
+  "lati": 50.0550137681,
+  "FullNameUA": "вулиця Кромська, 35",
+  "ChildsIds": []
  },
  {
   "id": 124605,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3204878753,
   "lati": 50.0540306962,
-  "FullNameUA": "вулиця Кромська, 36"
+  "FullNameUA": "вулиця Кромська, 36",
+  "ChildsIds": []
  },
  {
   "id": 124607,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3223860393,
   "lati": 50.054721264,
-  "FullNameUA": "вулиця Кромська, 37-А"
+  "FullNameUA": "вулиця Кромська, 37-А",
+  "ChildsIds": []
  },
  {
   "id": 124606,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.3226130703,
   "lati": 50.0548483915,
-  "FullNameUA": "вулиця Кромська, 37"
+  "FullNameUA": "вулиця Кромська, 37",
+  "ChildsIds": []
  },
  {
   "id": 124608,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.320273148,
-  "lati": 50.053867507700005,
-  "FullNameUA": "вулиця Кромська, 38"
+  "lati": 50.0538675077,
+  "FullNameUA": "вулиця Кромська, 38",
+  "ChildsIds": []
  },
  {
   "id": 124610,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.322176078,
   "lati": 50.0545547986,
-  "FullNameUA": "вулиця Кромська, 39-А"
+  "FullNameUA": "вулиця Кромська, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 124609,
@@ -1271,8 +1321,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3219378844,
-  "lati": 50.054484834200004,
-  "FullNameUA": "вулиця Кромська, 39"
+  "lati": 50.0544848342,
+  "FullNameUA": "вулиця Кромська, 39",
+  "ChildsIds": []
  },
  {
   "id": 124611,
@@ -1296,8 +1347,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3200370041,
-  "lati": 50.053738278800004,
-  "FullNameUA": "вулиця Кромська, 40"
+  "lati": 50.0537382788,
+  "FullNameUA": "вулиця Кромська, 40",
+  "ChildsIds": []
  },
  {
   "id": 124612,
@@ -1321,8 +1373,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3216630944,
-  "lati": 50.05434101870001,
-  "FullNameUA": "вулиця Кромська, 41"
+  "lati": 50.0543410187,
+  "FullNameUA": "вулиця Кромська, 41",
+  "ChildsIds": []
  },
  {
   "id": 124613,
@@ -1346,8 +1399,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3197234218,
-  "lati": 50.05361746730001,
-  "FullNameUA": "вулиця Кромська, 42"
+  "lati": 50.0536174673,
+  "FullNameUA": "вулиця Кромська, 42",
+  "ChildsIds": []
+ },
+ {
+  "id": 124615,
+  "postcode": 61107,
+  "number": 43,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3214622099,
+  "lati": 50.0542529105,
+  "FullNameUA": "вулиця Кромська, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 124614,
@@ -1372,32 +1452,8 @@
   "reg_date": "",
   "longt": 36.3212254991,
   "lati": 50.0541554487,
-  "FullNameUA": "вулиця Кромська, 43"
- },
- {
-  "id": 124615,
-  "postcode": 61107,
-  "number": 43,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3214622099,
-  "lati": 50.054252910500004,
-  "FullNameUA": "вулиця Кромська, 43-А"
+  "FullNameUA": "вулиця Кромська, 43",
+  "ChildsIds": []
  },
  {
   "id": 124616,
@@ -1421,33 +1477,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3194455948,
-  "lati": 50.053518989100006,
-  "FullNameUA": "вулиця Кромська, 44"
- },
- {
-  "id": 124617,
-  "postcode": 61107,
-  "number": 45,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3204551627,
-  "lati": 50.0537314808,
-  "FullNameUA": "вулиця Кромська, 45"
+  "lati": 50.0535189891,
+  "FullNameUA": "вулиця Кромська, 44",
+  "ChildsIds": []
  },
  {
   "id": 124618,
@@ -1472,7 +1504,34 @@
   "reg_date": "",
   "longt": 36.3202245923,
   "lati": 50.0536003833,
-  "FullNameUA": "вулиця Кромська, 45-А"
+  "FullNameUA": "вулиця Кромська, 45-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124617,
+  "postcode": 61107,
+  "number": 45,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3204551627,
+  "lati": 50.0537314808,
+  "FullNameUA": "вулиця Кромська, 45",
+  "ChildsIds": []
  },
  {
   "id": 124619,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.3192369115,
   "lati": 50.0534240049,
-  "FullNameUA": "вулиця Кромська, 46"
+  "FullNameUA": "вулиця Кромська, 46",
+  "ChildsIds": []
  },
  {
   "id": 124620,
@@ -1521,8 +1581,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3200841433,
-  "lati": 50.05347780220001,
-  "FullNameUA": "вулиця Кромська, 47"
+  "lati": 50.0534778022,
+  "FullNameUA": "вулиця Кромська, 47",
+  "ChildsIds": []
  },
  {
   "id": 124621,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.318997361600005,
-  "lati": 50.05330681190001,
-  "FullNameUA": "вулиця Кромська, 48"
+  "longt": 36.3189973616,
+  "lati": 50.0533068119,
+  "FullNameUA": "вулиця Кромська, 48",
+  "ChildsIds": []
  },
  {
   "id": 124622,
@@ -1570,9 +1632,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319870200100006,
-  "lati": 50.053431978300004,
-  "FullNameUA": "вулиця Кромська, 49"
+  "longt": 36.3198702001,
+  "lati": 50.0534319783,
+  "FullNameUA": "вулиця Кромська, 49",
+  "ChildsIds": []
  },
  {
   "id": 124623,
@@ -1596,8 +1659,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3187467543,
-  "lati": 50.053206383900005,
-  "FullNameUA": "вулиця Кромська, 50"
+  "lati": 50.0532063839,
+  "FullNameUA": "вулиця Кромська, 50",
+  "ChildsIds": []
  },
  {
   "id": 124624,
@@ -1621,33 +1685,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3195999965,
-  "lati": 50.05332478930001,
-  "FullNameUA": "вулиця Кромська, 51"
- },
- {
-  "id": 124625,
-  "postcode": 61107,
-  "number": 52,
-  "suffix": "",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3184067477,
-  "lati": 50.053321876300004,
-  "FullNameUA": "вулиця Кромська, 52"
+  "lati": 50.0533247893,
+  "FullNameUA": "вулиця Кромська, 51",
+  "ChildsIds": []
  },
  {
   "id": 178125,
@@ -1671,8 +1711,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3135112733,
-  "lati": 50.052042046800004,
-  "FullNameUA": "вулиця Кромська, 52-В"
+  "lati": 50.0520420468,
+  "FullNameUA": "вулиця Кромська, 52-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 124625,
+  "postcode": 61107,
+  "number": 52,
+  "suffix": "",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3184067477,
+  "lati": 50.0533218763,
+  "FullNameUA": "вулиця Кромська, 52",
+  "ChildsIds": []
  },
  {
   "id": 124626,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.3192812932,
   "lati": 50.0531682394,
-  "FullNameUA": "вулиця Кромська, 53"
+  "FullNameUA": "вулиця Кромська, 53",
+  "ChildsIds": []
  },
  {
   "id": 124628,
@@ -1721,8 +1789,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3179022225,
-  "lati": 50.05313771590001,
-  "FullNameUA": "вулиця Кромська, 54-А"
+  "lati": 50.0531377159,
+  "FullNameUA": "вулиця Кромська, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 124627,
@@ -1745,9 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317684957000004,
-  "lati": 50.053011546200004,
-  "FullNameUA": "вулиця Кромська, 54"
+  "longt": 36.317684957,
+  "lati": 50.0530115462,
+  "FullNameUA": "вулиця Кромська, 54",
+  "ChildsIds": []
  },
  {
   "id": 124629,
@@ -1770,109 +1840,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.319012513800004,
+  "longt": 36.3190125138,
   "lati": 50.0530648885,
-  "FullNameUA": "вулиця Кромська, 55"
- },
- {
-  "id": 175225,
-  "postcode": 61107,
-  "number": 56,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.316815455100006,
-  "lati": 50.05188480500001,
-  "FullNameUA": "вулиця Кромська, 56-Д"
- },
- {
-  "id": 175226,
-  "postcode": 61107,
-  "number": 56,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.316199357500004,
-  "lati": 50.0514520404,
-  "FullNameUA": "вулиця Кромська, 56-Г"
- },
- {
-  "id": 124633,
-  "postcode": 61107,
-  "number": 56,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.315711020900004,
-  "lati": 50.0518419658,
-  "FullNameUA": "вулиця Кромська, 56-В"
- },
- {
-  "id": 124632,
-  "postcode": 61107,
-  "number": 56,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.316092595600004,
-  "lati": 50.0520027991,
-  "FullNameUA": "вулиця Кромська, 56-Б"
+  "FullNameUA": "вулиця Кромська, 55",
+  "ChildsIds": []
  },
  {
   "id": 124631,
@@ -1897,7 +1868,34 @@
   "reg_date": "",
   "longt": 36.316725497,
   "lati": 50.0521813455,
-  "FullNameUA": "вулиця Кромська, 56-А"
+  "FullNameUA": "вулиця Кромська, 56-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 124632,
+  "postcode": 61107,
+  "number": 56,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3160925956,
+  "lati": 50.0520027991,
+  "FullNameUA": "вулиця Кромська, 56-Б",
+  "ChildsIds": []
  },
  {
   "id": 124630,
@@ -1921,8 +1919,87 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3171682611,
-  "lati": 50.05244273620001,
-  "FullNameUA": "вулиця Кромська, 56"
+  "lati": 50.0524427362,
+  "FullNameUA": "вулиця Кромська, 56",
+  "ChildsIds": []
+ },
+ {
+  "id": 175225,
+  "postcode": 61107,
+  "number": 56,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3168154551,
+  "lati": 50.051884805,
+  "FullNameUA": "вулиця Кромська, 56-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 175226,
+  "postcode": 61107,
+  "number": 56,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3161993575,
+  "lati": 50.0514520404,
+  "FullNameUA": "вулиця Кромська, 56-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 124633,
+  "postcode": 61107,
+  "number": 56,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3157110209,
+  "lati": 50.0518419658,
+  "FullNameUA": "вулиця Кромська, 56-В",
+  "ChildsIds": []
  },
  {
   "id": 124634,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.3188471231,
   "lati": 50.0529705555,
-  "FullNameUA": "вулиця Кромська, 57"
+  "FullNameUA": "вулиця Кромська, 57",
+  "ChildsIds": []
  },
  {
   "id": 178609,
@@ -1971,8 +2049,35 @@
   "confrm": "карта М 1:2000",
   "reg_date": "",
   "longt": 36.3184614057,
-  "lati": 50.052860665800004,
-  "FullNameUA": "вулиця Кромська, 59"
+  "lati": 50.0528606658,
+  "FullNameUA": "вулиця Кромська, 59",
+  "ChildsIds": []
+ },
+ {
+  "id": 124636,
+  "postcode": 61107,
+  "number": 61,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3188098538,
+  "lati": 50.0525087879,
+  "FullNameUA": "вулиця Кромська, 61-А",
+  "ChildsIds": []
  },
  {
   "id": 124635,
@@ -1996,58 +2101,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3186733609,
-  "lati": 50.052921152100005,
-  "FullNameUA": "вулиця Кромська, 61"
- },
- {
-  "id": 124636,
-  "postcode": 61107,
-  "number": 61,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.318809853800005,
-  "lati": 50.0525087879,
-  "FullNameUA": "вулиця Кромська, 61-А"
- },
- {
-  "id": 124638,
-  "postcode": 61107,
-  "number": 63,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3040,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3190605834,
-  "lati": 50.052223999300004,
-  "FullNameUA": "вулиця Кромська, 63-А"
+  "lati": 50.0529211521,
+  "FullNameUA": "вулиця Кромська, 61",
+  "ChildsIds": []
  },
  {
   "id": 124637,
@@ -2072,7 +2128,60 @@
   "reg_date": "",
   "longt": 36.3181722164,
   "lati": 50.0525320957,
-  "FullNameUA": "вулиця Кромська, 63"
+  "FullNameUA": "вулиця Кромська, 63",
+  "ChildsIds": []
+ },
+ {
+  "id": 181962,
+  "postcode": 61107,
+  "number": 63,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3192734509,
+  "lati": 50.0520146048,
+  "FullNameUA": "вулиця Кромська, 63-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 124638,
+  "postcode": 61107,
+  "number": 63,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3040,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3190605834,
+  "lati": 50.0522239993,
+  "FullNameUA": "вулиця Кромська, 63-А",
+  "ChildsIds": []
  },
  {
   "id": 124639,
@@ -2097,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.3179776729,
   "lati": 50.0524055671,
-  "FullNameUA": "вулиця Кромська, 65"
+  "FullNameUA": "вулиця Кромська, 65",
+  "ChildsIds": []
  },
  {
   "id": 124640,
@@ -2121,8 +2231,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3176441799,
-  "lati": 50.052227782200006,
-  "FullNameUA": "вулиця Кромська, 67"
+  "lati": 50.0522277822,
+  "FullNameUA": "вулиця Кромська, 67",
+  "ChildsIds": []
  },
  {
   "id": 124641,
@@ -2146,8 +2257,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3177244275,
-  "lati": 50.052539075400006,
-  "FullNameUA": "вулиця Кромська, 69"
+  "lati": 50.0525390754,
+  "FullNameUA": "вулиця Кромська, 69",
+  "ChildsIds": []
  },
  {
   "id": 124642,
@@ -2172,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.3194569945,
   "lati": 50.0516839017,
-  "FullNameUA": "вулиця Кромська, 71-А"
+  "FullNameUA": "вулиця Кромська, 71-А",
+  "ChildsIds": []
  },
  {
   "id": 124643,
@@ -2197,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.3196018338,
   "lati": 50.0513738981,
-  "FullNameUA": "вулиця Кромська, 73-А"
+  "FullNameUA": "вулиця Кромська, 73-А",
+  "ChildsIds": []
  },
  {
   "id": 176455,
@@ -2222,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.3198642803,
   "lati": 50.0507319306,
-  "FullNameUA": "вулиця Кромська, 75-А"
+  "FullNameUA": "вулиця Кромська, 75-А",
+  "ChildsIds": []
  },
  {
   "id": 176454,
@@ -2247,6 +2362,7 @@
   "reg_date": "",
   "longt": 36.3194040757,
   "lati": 50.0481856372,
-  "FullNameUA": "вулиця Кромська, 77-А"
+  "FullNameUA": "вулиця Кромська, 77-А",
+  "ChildsIds": []
  }
 ]

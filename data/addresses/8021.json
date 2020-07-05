@@ -1,5 +1,31 @@
 [
  {
+  "id": 182406,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 8021,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:12:034:0374)",
+  "confrm": "",
+  "reg_date": "10.03.2020 17:36:52",
+  "longt": 36.30701895,
+  "lati": 50.0380065973,
+  "FullNameUA": "вулиця Марії Пилинської, 2-А",
+  "ChildsIds": []
+ },
+ {
   "id": 179739,
   "postcode": 61107,
   "number": 8,
@@ -20,8 +46,9 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 1177, 22.08.2018, дод. 2, п. 21",
   "reg_date": "07.09.2018 10:05:16",
-  "longt": 36.307990233800005,
+  "longt": 36.3079902338,
   "lati": 50.0381439439,
-  "FullNameUA": "вулиця Марії Пилинської, 8"
+  "FullNameUA": "вулиця Марії Пилинської, 8",
+  "ChildsIds": []
  }
 ]

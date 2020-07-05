@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244718193000004,
+  "longt": 36.244718193,
   "lati": 50.0399626506,
-  "FullNameUA": "в'їзд Балакірєва, 1"
+  "FullNameUA": "в'їзд Балакірєва, 1",
+  "ChildsIds": []
  },
  {
   "id": 115182,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.244648084800005,
-  "lati": 50.038774327300004,
-  "FullNameUA": "в'їзд Балакірєва, 3"
+  "longt": 36.2446480848,
+  "lati": 50.0387743273,
+  "FullNameUA": "в'їзд Балакірєва, 3",
+  "ChildsIds": []
  },
  {
   "id": 115183,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2442800734,
-  "lati": 50.038878760100005,
-  "FullNameUA": "в'їзд Балакірєва, 5"
+  "lati": 50.0388787601,
+  "FullNameUA": "в'їзд Балакірєва, 5",
+  "ChildsIds": []
  },
  {
   "id": 115184,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2439644922,
   "lati": 50.0390013983,
-  "FullNameUA": "в'їзд Балакірєва, 7"
+  "FullNameUA": "в'їзд Балакірєва, 7",
+  "ChildsIds": []
  },
  {
   "id": 115185,
@@ -120,9 +124,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.243650673800005,
+  "longt": 36.2436506738,
   "lati": 50.0391357681,
-  "FullNameUA": "в'їзд Балакірєва, 9"
+  "FullNameUA": "в'їзд Балакірєва, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 183201,
+  "postcode": 61103,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2134,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2435158583,
+  "lati": 50.0394758715,
+  "FullNameUA": "в'їзд Балакірєва, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 115186,
@@ -147,6 +178,7 @@
   "reg_date": "",
   "longt": 36.2433644974,
   "lati": 50.0393151286,
-  "FullNameUA": "в'їзд Балакірєва, 11"
+  "FullNameUA": "в'їзд Балакірєва, 11",
+  "ChildsIds": []
  }
 ]

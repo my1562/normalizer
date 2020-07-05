@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.31979734,
   "lati": 50.0015307866,
-  "FullNameUA": "провулок Чукотський, 1"
- },
- {
-  "id": 136905,
-  "postcode": 61054,
-  "number": 2,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4383,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3212303976,
-  "lati": 50.0019148076,
-  "FullNameUA": "провулок Чукотський, 2-Б"
+  "FullNameUA": "провулок Чукотський, 1",
+  "ChildsIds": []
  },
  {
   "id": 136904,
@@ -72,7 +48,34 @@
   "reg_date": "",
   "longt": 36.3225190662,
   "lati": 50.0028980227,
-  "FullNameUA": "провулок Чукотський, 2"
+  "FullNameUA": "провулок Чукотський, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 136905,
+  "postcode": 61054,
+  "number": 2,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3212303976,
+  "lati": 50.0019148076,
+  "FullNameUA": "провулок Чукотський, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 136906,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3200796778,
   "lati": 50.0016978976,
-  "FullNameUA": "провулок Чукотський, 3"
+  "FullNameUA": "провулок Чукотський, 3",
+  "ChildsIds": []
  },
  {
   "id": 136907,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3227974606,
   "lati": 50.0030828835,
-  "FullNameUA": "провулок Чукотський, 4"
+  "FullNameUA": "провулок Чукотський, 4",
+  "ChildsIds": []
  },
  {
   "id": 136908,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3202789115,
   "lati": 50.0018086458,
-  "FullNameUA": "провулок Чукотський, 5"
+  "FullNameUA": "провулок Чукотський, 5",
+  "ChildsIds": []
  },
  {
   "id": 136909,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3230093214,
   "lati": 50.0032047603,
-  "FullNameUA": "провулок Чукотський, 6"
+  "FullNameUA": "провулок Чукотський, 6",
+  "ChildsIds": []
  },
  {
   "id": 136910,
@@ -197,32 +204,8 @@
   "reg_date": "",
   "longt": 36.320433721,
   "lati": 50.0019012787,
-  "FullNameUA": "провулок Чукотський, 7"
- },
- {
-  "id": 136912,
-  "postcode": 61054,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4383,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3236157358,
-  "lati": 50.0035592525,
-  "FullNameUA": "провулок Чукотський, 8-А"
+  "FullNameUA": "провулок Чукотський, 7",
+  "ChildsIds": []
  },
  {
   "id": 136911,
@@ -247,7 +230,10 @@
   "reg_date": "",
   "longt": 36.3231789353,
   "lati": 50.0033078615,
-  "FullNameUA": "провулок Чукотський, 8"
+  "FullNameUA": "провулок Чукотський, 8",
+  "ChildsIds": [
+   136912
+  ]
  },
  {
   "id": 136913,
@@ -272,7 +258,8 @@
   "reg_date": "",
   "longt": 36.3208008817,
   "lati": 50.0021214818,
-  "FullNameUA": "провулок Чукотський, 9"
+  "FullNameUA": "провулок Чукотський, 9",
+  "ChildsIds": []
  },
  {
   "id": 136914,
@@ -297,7 +284,8 @@
   "reg_date": "",
   "longt": 36.32380817,
   "lati": 50.003686592,
-  "FullNameUA": "провулок Чукотський, 10"
+  "FullNameUA": "провулок Чукотський, 10",
+  "ChildsIds": []
  },
  {
   "id": 136915,
@@ -322,7 +310,34 @@
   "reg_date": "",
   "longt": 36.3234255742,
   "lati": 50.0034475458,
-  "FullNameUA": "провулок Чукотський, 10-А"
+  "FullNameUA": "провулок Чукотський, 10-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 136912,
+  "postcode": 61054,
+  "number": 10,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4383,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "11.02.2020 14:25:23",
+  "longt": 36.3236157358,
+  "lati": 50.0035592525,
+  "FullNameUA": "провулок Чукотський, 10-Б",
+  "ChildsIds": []
  },
  {
   "id": 136916,
@@ -347,7 +362,8 @@
   "reg_date": "",
   "longt": 36.3210545905,
   "lati": 50.0022694188,
-  "FullNameUA": "провулок Чукотський, 11"
+  "FullNameUA": "провулок Чукотський, 11",
+  "ChildsIds": []
  },
  {
   "id": 136917,
@@ -372,7 +388,8 @@
   "reg_date": "",
   "longt": 36.3240132968,
   "lati": 50.0038181341,
-  "FullNameUA": "провулок Чукотський, 12"
+  "FullNameUA": "провулок Чукотський, 12",
+  "ChildsIds": []
  },
  {
   "id": 136918,
@@ -397,7 +414,8 @@
   "reg_date": "",
   "longt": 36.3213638075,
   "lati": 50.0024525236,
-  "FullNameUA": "провулок Чукотський, 13"
+  "FullNameUA": "провулок Чукотський, 13",
+  "ChildsIds": []
  },
  {
   "id": 136919,
@@ -422,7 +440,8 @@
   "reg_date": "",
   "longt": 36.3242587587,
   "lati": 50.003981551,
-  "FullNameUA": "провулок Чукотський, 14"
+  "FullNameUA": "провулок Чукотський, 14",
+  "ChildsIds": []
  },
  {
   "id": 136920,
@@ -447,7 +466,8 @@
   "reg_date": "",
   "longt": 36.3215724212,
   "lati": 50.002566547,
-  "FullNameUA": "провулок Чукотський, 15"
+  "FullNameUA": "провулок Чукотський, 15",
+  "ChildsIds": []
  },
  {
   "id": 136921,
@@ -472,7 +492,8 @@
   "reg_date": "",
   "longt": 36.3244866052,
   "lati": 50.0041005446,
-  "FullNameUA": "провулок Чукотський, 16"
+  "FullNameUA": "провулок Чукотський, 16",
+  "ChildsIds": []
  },
  {
   "id": 136922,
@@ -497,7 +518,8 @@
   "reg_date": "",
   "longt": 36.321764059,
   "lati": 50.0026958577,
-  "FullNameUA": "провулок Чукотський, 17"
+  "FullNameUA": "провулок Чукотський, 17",
+  "ChildsIds": []
  },
  {
   "id": 136923,
@@ -522,7 +544,8 @@
   "reg_date": "",
   "longt": 36.3224989007,
   "lati": 50.0031734925,
-  "FullNameUA": "провулок Чукотський, 21"
+  "FullNameUA": "провулок Чукотський, 21",
+  "ChildsIds": []
  },
  {
   "id": 136924,
@@ -547,7 +570,8 @@
   "reg_date": "",
   "longt": 36.3227266378,
   "lati": 50.0033133604,
-  "FullNameUA": "провулок Чукотський, 23"
+  "FullNameUA": "провулок Чукотський, 23",
+  "ChildsIds": []
  },
  {
   "id": 136925,
@@ -572,7 +596,8 @@
   "reg_date": "",
   "longt": 36.3230057814,
   "lati": 50.0034845277,
-  "FullNameUA": "провулок Чукотський, 25"
+  "FullNameUA": "провулок Чукотський, 25",
+  "ChildsIds": []
  },
  {
   "id": 136926,
@@ -597,7 +622,8 @@
   "reg_date": "",
   "longt": 36.3232108411,
   "lati": 50.0036132449,
-  "FullNameUA": "провулок Чукотський, 27"
+  "FullNameUA": "провулок Чукотський, 27",
+  "ChildsIds": []
  },
  {
   "id": 136927,
@@ -622,7 +648,8 @@
   "reg_date": "",
   "longt": 36.3234150571,
   "lati": 50.0037256749,
-  "FullNameUA": "провулок Чукотський, 29"
+  "FullNameUA": "провулок Чукотський, 29",
+  "ChildsIds": []
  },
  {
   "id": 136928,
@@ -647,7 +674,8 @@
   "reg_date": "",
   "longt": 36.3235805699,
   "lati": 50.0038214059,
-  "FullNameUA": "провулок Чукотський, 31"
+  "FullNameUA": "провулок Чукотський, 31",
+  "ChildsIds": []
  },
  {
   "id": 136929,
@@ -672,7 +700,8 @@
   "reg_date": "",
   "longt": 36.323791226,
   "lati": 50.0039683607,
-  "FullNameUA": "провулок Чукотський, 33"
+  "FullNameUA": "провулок Чукотський, 33",
+  "ChildsIds": []
  },
  {
   "id": 136930,
@@ -697,7 +726,8 @@
   "reg_date": "",
   "longt": 36.3240854126,
   "lati": 50.0041230631,
-  "FullNameUA": "провулок Чукотський, 35"
+  "FullNameUA": "провулок Чукотський, 35",
+  "ChildsIds": []
  },
  {
   "id": 136931,
@@ -722,6 +752,7 @@
   "reg_date": "",
   "longt": 36.3242726711,
   "lati": 50.0042518912,
-  "FullNameUA": "провулок Чукотський, 37"
+  "FullNameUA": "провулок Чукотський, 37",
+  "ChildsIds": []
  }
 ]

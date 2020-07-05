@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3199641984,
   "lati": 49.9804849809,
-  "FullNameUA": "вулиця Балхаська, 1"
+  "FullNameUA": "вулиця Балхаська, 1",
+  "ChildsIds": []
  },
  {
   "id": 100397,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3197566827,
   "lati": 49.9805569122,
-  "FullNameUA": "вулиця Балхаська, 1-А"
+  "FullNameUA": "вулиця Балхаська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 100398,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3200606994,
   "lati": 49.9807698767,
-  "FullNameUA": "вулиця Балхаська, 3"
+  "FullNameUA": "вулиця Балхаська, 3",
+  "ChildsIds": []
  },
  {
   "id": 177679,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3212720305,
   "lati": 49.9819366918,
-  "FullNameUA": "вулиця Балхаська, 4-А"
+  "FullNameUA": "вулиця Балхаська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 100399,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3200974273,
-  "lati": 49.980908660400004,
-  "FullNameUA": "вулиця Балхаська, 5"
+  "lati": 49.9809086604,
+  "FullNameUA": "вулиця Балхаська, 5",
+  "ChildsIds": []
  },
  {
   "id": 100400,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.320011354900004,
+  "longt": 36.3200113549,
   "lati": 49.9810901677,
-  "FullNameUA": "вулиця Балхаська, 7"
+  "FullNameUA": "вулиця Балхаська, 7",
+  "ChildsIds": []
  },
  {
   "id": 100401,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.320216900300004,
+  "longt": 36.3202169003,
   "lati": 49.9811866132,
-  "FullNameUA": "вулиця Балхаська, 9"
+  "FullNameUA": "вулиця Балхаська, 9",
+  "ChildsIds": []
  },
  {
   "id": 100402,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.320275231800004,
+  "longt": 36.3202752318,
   "lati": 49.9813385858,
-  "FullNameUA": "вулиця Балхаська, 11"
+  "FullNameUA": "вулиця Балхаська, 11",
+  "ChildsIds": []
  },
  {
   "id": 100403,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3203392501,
-  "lati": 49.981518781700004,
-  "FullNameUA": "вулиця Балхаська, 13"
+  "lati": 49.9815187817,
+  "FullNameUA": "вулиця Балхаська, 13",
+  "ChildsIds": []
  },
  {
   "id": 100404,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.320366882500004,
-  "lati": 49.98163696620001,
-  "FullNameUA": "вулиця Балхаська, 15"
+  "longt": 36.3203668825,
+  "lati": 49.9816369662,
+  "FullNameUA": "вулиця Балхаська, 15",
+  "ChildsIds": []
  },
  {
   "id": 100405,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3204288153,
-  "lati": 49.981778772800006,
-  "FullNameUA": "вулиця Балхаська, 17"
+  "lati": 49.9817787728,
+  "FullNameUA": "вулиця Балхаська, 17",
+  "ChildsIds": []
  },
  {
   "id": 100406,
@@ -296,33 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3204835117,
-  "lati": 49.981927383400006,
-  "FullNameUA": "вулиця Балхаська, 19"
- },
- {
-  "id": 100407,
-  "postcode": 61110,
-  "number": 21,
-  "suffix": "",
-  "block": "",
-  "streetid": 2143,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.320569099000004,
-  "lati": 49.9821580153,
-  "FullNameUA": "вулиця Балхаська, 21"
+  "lati": 49.9819273834,
+  "FullNameUA": "вулиця Балхаська, 19",
+  "ChildsIds": []
  },
  {
   "id": 100408,
@@ -346,8 +333,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3205430261,
-  "lati": 49.98204311520001,
-  "FullNameUA": "вулиця Балхаська, 21-А"
+  "lati": 49.9820431152,
+  "FullNameUA": "вулиця Балхаська, 21-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 100407,
+  "postcode": 61110,
+  "number": 21,
+  "suffix": "",
+  "block": "",
+  "streetid": 2143,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.320569099,
+  "lati": 49.9821580153,
+  "FullNameUA": "вулиця Балхаська, 21",
+  "ChildsIds": []
  },
  {
   "id": 100409,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3206715847,
   "lati": 49.9823953307,
-  "FullNameUA": "вулиця Балхаська, 23"
+  "FullNameUA": "вулиця Балхаська, 23",
+  "ChildsIds": []
  },
  {
   "id": 100410,
@@ -397,6 +412,7 @@
   "reg_date": "",
   "longt": 36.3203246609,
   "lati": 49.9824410203,
-  "FullNameUA": "вулиця Балхаська, 23-А"
+  "FullNameUA": "вулиця Балхаська, 23-А",
+  "ChildsIds": []
  }
 ]

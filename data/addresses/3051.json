@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203372700600006,
+  "longt": 36.2033727006,
   "lati": 49.9227483978,
-  "FullNameUA": "вулиця Крюківська, 1-А"
+  "FullNameUA": "вулиця Крюківська, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 162602,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203083431500005,
-  "lati": 49.922738200400005,
-  "FullNameUA": "вулиця Крюківська, 1"
+  "longt": 36.2030834315,
+  "lati": 49.9227382004,
+  "FullNameUA": "вулиця Крюківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 162604,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2036952966,
   "lati": 49.9232354699,
-  "FullNameUA": "вулиця Крюківська, 2"
+  "FullNameUA": "вулиця Крюківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 162605,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2039047617,
   "lati": 49.9231054614,
-  "FullNameUA": "вулиця Крюківська, 2-А"
+  "FullNameUA": "вулиця Крюківська, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 162606,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203534803000004,
+  "longt": 36.203534803,
   "lati": 49.9230950877,
-  "FullNameUA": "вулиця Крюківська, 3"
+  "FullNameUA": "вулиця Крюківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 162608,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202354324000005,
+  "longt": 36.202354324,
   "lati": 49.9255282042,
-  "FullNameUA": "вулиця Крюківська, 4-А"
+  "FullNameUA": "вулиця Крюківська, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 162607,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2034000692,
   "lati": 49.9234730652,
-  "FullNameUA": "вулиця Крюківська, 4"
+  "FullNameUA": "вулиця Крюківська, 4",
+  "ChildsIds": []
  },
  {
   "id": 162609,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2021590211,
   "lati": 49.9259108567,
-  "FullNameUA": "вулиця Крюківська, 4-Б"
+  "FullNameUA": "вулиця Крюківська, 4-Б",
+  "ChildsIds": []
  },
  {
   "id": 162610,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203358309600006,
+  "longt": 36.2033583096,
   "lati": 49.9232280711,
-  "FullNameUA": "вулиця Крюківська, 5"
+  "FullNameUA": "вулиця Крюківська, 5",
+  "ChildsIds": []
  },
  {
   "id": 162612,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202119752200005,
+  "longt": 36.2021197522,
   "lati": 49.9260495487,
-  "FullNameUA": "вулиця Крюківська, 6-А"
+  "FullNameUA": "вулиця Крюківська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 162611,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2021448419,
   "lati": 49.9264101192,
-  "FullNameUA": "вулиця Крюківська, 6"
+  "FullNameUA": "вулиця Крюківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 162613,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.203101850100005,
-  "lati": 49.923430716700004,
-  "FullNameUA": "вулиця Крюківська, 7"
+  "longt": 36.2031018501,
+  "lati": 49.9234307167,
+  "FullNameUA": "вулиця Крюківська, 7",
+  "ChildsIds": []
  },
  {
   "id": 162614,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2021923045,
-  "lati": 49.926621635400004,
-  "FullNameUA": "вулиця Крюківська, 8"
+  "lati": 49.9266216354,
+  "FullNameUA": "вулиця Крюківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 162615,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2029555685,
   "lati": 49.9235806649,
-  "FullNameUA": "вулиця Крюківська, 9"
+  "FullNameUA": "вулиця Крюківська, 9",
+  "ChildsIds": []
  },
  {
   "id": 162616,
@@ -370,9 +384,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202245457500005,
+  "longt": 36.2022454575,
   "lati": 49.9267706181,
-  "FullNameUA": "вулиця Крюківська, 10"
+  "FullNameUA": "вулиця Крюківська, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 162618,
+  "postcode": 61009,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2028409601,
+  "lati": 49.92367414,
+  "FullNameUA": "вулиця Крюківська, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 162617,
@@ -396,33 +437,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2027514046,
-  "lati": 49.923756600400004,
-  "FullNameUA": "вулиця Крюківська, 11"
- },
- {
-  "id": 162618,
-  "postcode": 61009,
-  "number": 11,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3051,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.202840960100005,
-  "lati": 49.92367414,
-  "FullNameUA": "вулиця Крюківська, 11-А"
+  "lati": 49.9237566004,
+  "FullNameUA": "вулиця Крюківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 162619,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202282559500006,
+  "longt": 36.2022825595,
   "lati": 49.9269895057,
-  "FullNameUA": "вулиця Крюківська, 12"
+  "FullNameUA": "вулиця Крюківська, 12",
+  "ChildsIds": []
  },
  {
   "id": 162620,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202611799100005,
+  "longt": 36.2026117991,
   "lati": 49.9238842838,
-  "FullNameUA": "вулиця Крюківська, 13"
+  "FullNameUA": "вулиця Крюківська, 13",
+  "ChildsIds": []
  },
  {
   "id": 162621,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2022992054,
-  "lati": 49.927134166500004,
-  "FullNameUA": "вулиця Крюківська, 14"
+  "lati": 49.9271341665,
+  "FullNameUA": "вулиця Крюківська, 14",
+  "ChildsIds": []
  },
  {
   "id": 162622,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202486945400004,
+  "longt": 36.2024869454,
   "lati": 49.9239844469,
-  "FullNameUA": "вулиця Крюківська, 15"
+  "FullNameUA": "вулиця Крюківська, 15",
+  "ChildsIds": []
  },
  {
   "id": 162623,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202338496500005,
+  "longt": 36.2023384965,
   "lati": 49.927330835,
-  "FullNameUA": "вулиця Крюківська, 16"
+  "FullNameUA": "вулиця Крюківська, 16",
+  "ChildsIds": []
  },
  {
   "id": 162624,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2023867409,
   "lati": 49.9240940891,
-  "FullNameUA": "вулиця Крюківська, 17"
+  "FullNameUA": "вулиця Крюківська, 17",
+  "ChildsIds": []
  },
  {
   "id": 162625,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202374628200005,
+  "longt": 36.2023746282,
   "lati": 49.9275039319,
-  "FullNameUA": "вулиця Крюківська, 18"
+  "FullNameUA": "вулиця Крюківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 162626,
@@ -620,34 +644,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202174830500006,
+  "longt": 36.2021748305,
   "lati": 49.9242686787,
-  "FullNameUA": "вулиця Крюківська, 19"
- },
- {
-  "id": 162628,
-  "postcode": 61009,
-  "number": 20,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3051,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2024138529,
-  "lati": 49.9276287949,
-  "FullNameUA": "вулиця Крюківська, 20-А"
+  "FullNameUA": "вулиця Крюківська, 19",
+  "ChildsIds": []
  },
  {
   "id": 162627,
@@ -672,7 +672,34 @@
   "reg_date": "",
   "longt": 36.2024904617,
   "lati": 49.9278843737,
-  "FullNameUA": "вулиця Крюківська, 20"
+  "FullNameUA": "вулиця Крюківська, 20",
+  "ChildsIds": []
+ },
+ {
+  "id": 162628,
+  "postcode": 61009,
+  "number": 20,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2024138529,
+  "lati": 49.9276287949,
+  "FullNameUA": "вулиця Крюківська, 20-А",
+  "ChildsIds": []
  },
  {
   "id": 162629,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2020378698,
   "lati": 49.9243857821,
-  "FullNameUA": "вулиця Крюківська, 21"
+  "FullNameUA": "вулиця Крюківська, 21",
+  "ChildsIds": []
  },
  {
   "id": 162630,
@@ -722,32 +750,8 @@
   "reg_date": "",
   "longt": 36.2025156161,
   "lati": 49.9279722042,
-  "FullNameUA": "вулиця Крюківська, 22"
- },
- {
-  "id": 162631,
-  "postcode": 61009,
-  "number": 23,
-  "suffix": "",
-  "block": "",
-  "streetid": 3051,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.201624936900004,
-  "lati": 49.9244647879,
-  "FullNameUA": "вулиця Крюківська, 23"
+  "FullNameUA": "вулиця Крюківська, 22",
+  "ChildsIds": []
  },
  {
   "id": 177207,
@@ -772,7 +776,8 @@
   "reg_date": "",
   "longt": 36.2018652287,
   "lati": 49.9244318318,
-  "FullNameUA": "вулиця Крюківська, 23-А"
+  "FullNameUA": "вулиця Крюківська, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 177208,
@@ -795,9 +800,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.201449191200005,
-  "lati": 49.924507484900005,
-  "FullNameUA": "вулиця Крюківська, 23-Б"
+  "longt": 36.2014491912,
+  "lati": 49.9245074849,
+  "FullNameUA": "вулиця Крюківська, 23-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 162631,
+  "postcode": 61009,
+  "number": 23,
+  "suffix": "",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2016249369,
+  "lati": 49.9244647879,
+  "FullNameUA": "вулиця Крюківська, 23",
+  "ChildsIds": []
  },
  {
   "id": 162632,
@@ -821,8 +853,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2025461263,
-  "lati": 49.928188771900004,
-  "FullNameUA": "вулиця Крюківська, 24"
+  "lati": 49.9281887719,
+  "FullNameUA": "вулиця Крюківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 162633,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2017001457,
   "lati": 49.9246848944,
-  "FullNameUA": "вулиця Крюківська, 25"
+  "FullNameUA": "вулиця Крюківська, 25",
+  "ChildsIds": []
  },
  {
   "id": 162634,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2025415839,
   "lati": 49.9283447448,
-  "FullNameUA": "вулиця Крюківська, 26"
+  "FullNameUA": "вулиця Крюківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 162635,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.201757748400006,
+  "longt": 36.2017577484,
   "lati": 49.9248179573,
-  "FullNameUA": "вулиця Крюківська, 27"
+  "FullNameUA": "вулиця Крюківська, 27",
+  "ChildsIds": []
  },
  {
   "id": 162636,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2015107056,
-  "lati": 49.924775569800005,
-  "FullNameUA": "вулиця Крюківська, 27-А"
+  "lati": 49.9247755698,
+  "FullNameUA": "вулиця Крюківська, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 162637,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2025931397,
   "lati": 49.9285599489,
-  "FullNameUA": "вулиця Крюківська, 28"
+  "FullNameUA": "вулиця Крюківська, 28",
+  "ChildsIds": []
  },
  {
   "id": 162638,
@@ -970,34 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201712102900004,
+  "longt": 36.2017121029,
   "lati": 49.9249963102,
-  "FullNameUA": "вулиця Крюківська, 29"
- },
- {
-  "id": 162639,
-  "postcode": 61009,
-  "number": 30,
-  "suffix": "",
-  "block": "",
-  "streetid": 3051,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.202567690100004,
-  "lati": 49.9288321678,
-  "FullNameUA": "вулиця Крюківська, 30"
+  "FullNameUA": "вулиця Крюківська, 29",
+  "ChildsIds": []
  },
  {
   "id": 162640,
@@ -1022,7 +1036,34 @@
   "reg_date": "",
   "longt": 36.2026225938,
   "lati": 49.9287440593,
-  "FullNameUA": "вулиця Крюківська, 30-А"
+  "FullNameUA": "вулиця Крюківська, 30-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 162639,
+  "postcode": 61009,
+  "number": 30,
+  "suffix": "",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2025676901,
+  "lati": 49.9288321678,
+  "FullNameUA": "вулиця Крюківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 162641,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2017199502,
   "lati": 49.9251450093,
-  "FullNameUA": "вулиця Крюківська, 31"
+  "FullNameUA": "вулиця Крюківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 162642,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2017601347,
   "lati": 49.9252516352,
-  "FullNameUA": "вулиця Крюківська, 31-А"
+  "FullNameUA": "вулиця Крюківська, 31-А",
+  "ChildsIds": []
  },
  {
   "id": 162643,
@@ -1095,9 +1138,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202595148300006,
-  "lati": 49.928938023200004,
-  "FullNameUA": "вулиця Крюківська, 32"
+  "longt": 36.2025951483,
+  "lati": 49.9289380232,
+  "FullNameUA": "вулиця Крюківська, 32",
+  "ChildsIds": []
  },
  {
   "id": 162644,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2017530617,
   "lati": 49.9254206675,
-  "FullNameUA": "вулиця Крюківська, 33"
+  "FullNameUA": "вулиця Крюківська, 33",
+  "ChildsIds": []
  },
  {
   "id": 162645,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.202602099,
   "lati": 49.9290850069,
-  "FullNameUA": "вулиця Крюківська, 34"
+  "FullNameUA": "вулиця Крюківська, 34",
+  "ChildsIds": []
  },
  {
   "id": 162646,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2016373932,
   "lati": 49.9256165174,
-  "FullNameUA": "вулиця Крюківська, 35"
+  "FullNameUA": "вулиця Крюківська, 35",
+  "ChildsIds": []
  },
  {
   "id": 162647,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2026077465,
   "lati": 49.9292739865,
-  "FullNameUA": "вулиця Крюківська, 36"
+  "FullNameUA": "вулиця Крюківська, 36",
+  "ChildsIds": []
  },
  {
   "id": 162648,
@@ -1220,9 +1268,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201744187100005,
+  "longt": 36.2017441871,
   "lati": 49.9258007369,
-  "FullNameUA": "вулиця Крюківська, 37"
+  "FullNameUA": "вулиця Крюківська, 37",
+  "ChildsIds": []
  },
  {
   "id": 162649,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2026439579,
   "lati": 49.9294786422,
-  "FullNameUA": "вулиця Крюківська, 38"
+  "FullNameUA": "вулиця Крюківська, 38",
+  "ChildsIds": []
  },
  {
   "id": 162650,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2017619224,
   "lati": 49.9259575429,
-  "FullNameUA": "вулиця Крюківська, 39"
+  "FullNameUA": "вулиця Крюківська, 39",
+  "ChildsIds": []
  },
  {
   "id": 162651,
@@ -1295,9 +1346,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202717358200005,
+  "longt": 36.2027173582,
   "lati": 49.9296402528,
-  "FullNameUA": "вулиця Крюківська, 40"
+  "FullNameUA": "вулиця Крюківська, 40",
+  "ChildsIds": []
+ },
+ {
+  "id": 181981,
+  "postcode": 61009,
+  "number": 41,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-1\"",
+  "confrm": "",
+  "reg_date": "20.01.2020 16:28:44",
+  "longt": 36.2016791154,
+  "lati": 49.9263023011,
+  "FullNameUA": "вулиця Крюківська, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 162652,
@@ -1320,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201795522800005,
+  "longt": 36.2017955228,
   "lati": 49.9261843194,
-  "FullNameUA": "вулиця Крюківська, 41"
+  "FullNameUA": "вулиця Крюківська, 41",
+  "ChildsIds": []
  },
  {
   "id": 162653,
@@ -1347,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2027425713,
   "lati": 49.9297805408,
-  "FullNameUA": "вулиця Крюківська, 42"
+  "FullNameUA": "вулиця Крюківська, 42",
+  "ChildsIds": []
  },
  {
   "id": 162654,
@@ -1370,9 +1450,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201727685600005,
-  "lati": 49.926458952000004,
-  "FullNameUA": "вулиця Крюківська, 43"
+  "longt": 36.2017276856,
+  "lati": 49.926458952,
+  "FullNameUA": "вулиця Крюківська, 43",
+  "ChildsIds": []
  },
  {
   "id": 162655,
@@ -1381,7 +1462,7 @@
   "suffix": "А",
   "block": "",
   "streetid": 3051,
-  "status_id": 1,
+  "status_id": 3,
   "detail_type_index": 0,
   "AddressDetailType": {
    "id": 0,
@@ -1394,10 +1475,13 @@
   "source_id": 0,
   "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "",
+  "reg_date": "20.01.2020 16:26:32",
   "longt": 36.2016938139,
-  "lati": 49.926288932300004,
-  "FullNameUA": "вулиця Крюківська, 43-А"
+  "lati": 49.9262889323,
+  "FullNameUA": "вулиця Крюківська, 43-А",
+  "ChildsIds": [
+   181981
+  ]
  },
  {
   "id": 162656,
@@ -1420,9 +1504,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202785691500004,
-  "lati": 49.929960471600005,
-  "FullNameUA": "вулиця Крюківська, 44"
+  "longt": 36.2027856915,
+  "lati": 49.9299604716,
+  "FullNameUA": "вулиця Крюківська, 44",
+  "ChildsIds": []
  },
  {
   "id": 162658,
@@ -1446,8 +1531,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2018778841,
-  "lati": 49.926723067400005,
-  "FullNameUA": "вулиця Крюківська, 45-А"
+  "lati": 49.9267230674,
+  "FullNameUA": "вулиця Крюківська, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 162657,
@@ -1471,8 +1557,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2019032107,
-  "lati": 49.927052476200004,
-  "FullNameUA": "вулиця Крюківська, 45"
+  "lati": 49.9270524762,
+  "FullNameUA": "вулиця Крюківська, 45",
+  "ChildsIds": []
  },
  {
   "id": 162659,
@@ -1495,9 +1582,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202855570500006,
+  "longt": 36.2028555705,
   "lati": 49.9301450586,
-  "FullNameUA": "вулиця Крюківська, 46"
+  "FullNameUA": "вулиця Крюківська, 46",
+  "ChildsIds": []
  },
  {
   "id": 162660,
@@ -1520,9 +1608,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.201922891600006,
+  "longt": 36.2019228916,
   "lati": 49.9272405194,
-  "FullNameUA": "вулиця Крюківська, 47"
+  "FullNameUA": "вулиця Крюківська, 47",
+  "ChildsIds": []
  },
  {
   "id": 162661,
@@ -1546,33 +1635,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2028737841,
-  "lati": 49.930323046699996,
-  "FullNameUA": "вулиця Крюківська, 48"
- },
- {
-  "id": 162662,
-  "postcode": 61009,
-  "number": 49,
-  "suffix": "",
-  "block": "",
-  "streetid": 3051,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.201973357700005,
-  "lati": 49.9273847535,
-  "FullNameUA": "вулиця Крюківська, 49"
+  "lati": 49.9303230467,
+  "FullNameUA": "вулиця Крюківська, 48",
+  "ChildsIds": []
  },
  {
   "id": 162663,
@@ -1595,9 +1660,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202136911500006,
+  "longt": 36.2021369115,
   "lati": 49.9281658784,
-  "FullNameUA": "вулиця Крюківська, 49-А"
+  "FullNameUA": "вулиця Крюківська, 49-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 162662,
+  "postcode": 61009,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 3051,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2019733577,
+  "lati": 49.9273847535,
+  "FullNameUA": "вулиця Крюківська, 49",
+  "ChildsIds": []
  },
  {
   "id": 162664,
@@ -1622,7 +1714,8 @@
   "reg_date": "",
   "longt": 36.2029331596,
   "lati": 49.9305279348,
-  "FullNameUA": "вулиця Крюківська, 50"
+  "FullNameUA": "вулиця Крюківська, 50",
+  "ChildsIds": []
  },
  {
   "id": 162665,
@@ -1647,7 +1740,8 @@
   "reg_date": "",
   "longt": 36.2021229372,
   "lati": 49.9284106506,
-  "FullNameUA": "вулиця Крюківська, 51"
+  "FullNameUA": "вулиця Крюківська, 51",
+  "ChildsIds": []
  },
  {
   "id": 162666,
@@ -1670,9 +1764,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202930749500005,
+  "longt": 36.2029307495,
   "lati": 49.9306833544,
-  "FullNameUA": "вулиця Крюківська, 52"
+  "FullNameUA": "вулиця Крюківська, 52",
+  "ChildsIds": []
  },
  {
   "id": 162667,
@@ -1695,9 +1790,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202303755500004,
+  "longt": 36.2023037555,
   "lati": 49.9293364762,
-  "FullNameUA": "вулиця Крюківська, 53"
+  "FullNameUA": "вулиця Крюківська, 53",
+  "ChildsIds": []
  },
  {
   "id": 162668,
@@ -1720,9 +1816,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202360107100006,
+  "longt": 36.2023601071,
   "lati": 49.9294974052,
-  "FullNameUA": "вулиця Крюківська, 55"
+  "FullNameUA": "вулиця Крюківська, 55",
+  "ChildsIds": []
  },
  {
   "id": 162669,
@@ -1747,7 +1844,8 @@
   "reg_date": "",
   "longt": 36.2024103762,
   "lati": 49.9296222003,
-  "FullNameUA": "вулиця Крюківська, 57"
+  "FullNameUA": "вулиця Крюківська, 57",
+  "ChildsIds": []
  },
  {
   "id": 162670,
@@ -1770,9 +1868,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202433123300004,
-  "lati": 49.929774398700005,
-  "FullNameUA": "вулиця Крюківська, 59"
+  "longt": 36.2024331233,
+  "lati": 49.9297743987,
+  "FullNameUA": "вулиця Крюківська, 59",
+  "ChildsIds": []
  },
  {
   "id": 162671,
@@ -1796,8 +1895,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2024798176,
-  "lati": 49.929925365900004,
-  "FullNameUA": "вулиця Крюківська, 61"
+  "lati": 49.9299253659,
+  "FullNameUA": "вулиця Крюківська, 61",
+  "ChildsIds": []
  },
  {
   "id": 162672,
@@ -1820,8 +1920,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.202491644700004,
+  "longt": 36.2024916447,
   "lati": 49.930109696,
-  "FullNameUA": "вулиця Крюківська, 63"
+  "FullNameUA": "вулиця Крюківська, 63",
+  "ChildsIds": []
  }
 ]

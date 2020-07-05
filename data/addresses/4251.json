@@ -1,80 +1,5 @@
 [
  {
-  "id": 177613,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "65",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3945203273,
-  "lati": 49.9635650914,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 65"
- },
- {
-  "id": 177614,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "67",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3951829748,
-  "lati": 49.963429628,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 67"
- },
- {
-  "id": 113135,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3941630434,
-  "lati": 49.9649697466,
-  "FullNameUA": "проспект Індустріальний, 1-А"
- },
- {
   "id": 113136,
   "postcode": 61089,
   "number": 1,
@@ -97,132 +22,8 @@
   "reg_date": "",
   "longt": 36.3942892973,
   "lati": 49.9632709164,
-  "FullNameUA": "проспект Індустріальний, 1-Б"
- },
- {
-  "id": 177612,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "64",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.393710488800004,
-  "lati": 49.96373911,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 64"
- },
- {
-  "id": 113134,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "80",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3946948503,
-  "lati": 49.964163933500004,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 80"
- },
- {
-  "id": 177610,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "7",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3947583071,
-  "lati": 49.9638069106,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 7"
- },
- {
-  "id": 177609,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "9",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3959184689,
-  "lati": 49.964083645100004,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 9"
- },
- {
-  "id": 177608,
-  "postcode": 61089,
-  "number": 1,
-  "suffix": "А",
-  "block": "110",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "2ГИС",
-  "reg_date": "",
-  "longt": 36.3941881537,
-  "lati": 49.9644320722,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 110"
+  "FullNameUA": "проспект Індустріальний, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 177606,
@@ -247,7 +48,216 @@
   "reg_date": "",
   "longt": 36.3952913259,
   "lati": 49.9640524818,
-  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 79"
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 79",
+  "ChildsIds": []
+ },
+ {
+  "id": 177608,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "110",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3941881537,
+  "lati": 49.9644320722,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 110",
+  "ChildsIds": []
+ },
+ {
+  "id": 177609,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "9",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3959184689,
+  "lati": 49.9640836451,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 113135,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3941630434,
+  "lati": 49.9649697466,
+  "FullNameUA": "проспект Індустріальний, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177612,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "64",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3937104888,
+  "lati": 49.96373911,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 64",
+  "ChildsIds": []
+ },
+ {
+  "id": 177613,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "65",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3945203273,
+  "lati": 49.9635650914,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 65",
+  "ChildsIds": []
+ },
+ {
+  "id": 177614,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "67",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3951829748,
+  "lati": 49.963429628,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 67",
+  "ChildsIds": []
+ },
+ {
+  "id": 113134,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "80",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3946948503,
+  "lati": 49.9641639335,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 80",
+  "ChildsIds": []
+ },
+ {
+  "id": 177610,
+  "postcode": 61089,
+  "number": 1,
+  "suffix": "А",
+  "block": "7",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "2ГИС",
+  "reg_date": "",
+  "longt": 36.3947583071,
+  "lati": 49.9638069106,
+  "FullNameUA": "проспект Індустріальний, 1-А, корпус № 7",
+  "ChildsIds": []
  },
  {
   "id": 176285,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3938794142,
   "lati": 49.9663646354,
-  "FullNameUA": "проспект Індустріальний, 2-А"
+  "FullNameUA": "проспект Індустріальний, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 179177,
@@ -296,8 +307,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3761009633,
-  "lati": 49.974629759799996,
-  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 12, ряд № 46"
+  "lati": 49.9746297598,
+  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 12, ряд № 46",
+  "ChildsIds": []
  },
  {
   "id": 179176,
@@ -321,8 +333,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3868911607,
-  "lati": 49.972813886699996,
-  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 26, ряд № 20"
+  "lati": 49.9728138867,
+  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 26, ряд № 20",
+  "ChildsIds": []
  },
  {
   "id": 179178,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.3842780031,
   "lati": 49.9693247209,
-  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 4, 5, ряд № 25"
+  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 4, 5, ряд № 25",
+  "ChildsIds": []
  },
  {
   "id": 179175,
@@ -372,7 +386,34 @@
   "reg_date": "",
   "longt": 36.3869906647,
   "lati": 49.967057378,
-  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 8, ряд № 50"
+  "FullNameUA": "проспект Індустріальний, 2-А, ділянка № 8, ряд № 50",
+  "ChildsIds": []
+ },
+ {
+  "id": 113138,
+  "postcode": 61089,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3937116158,
+  "lati": 49.9621301932,
+  "FullNameUA": "проспект Індустріальний, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 113137,
@@ -397,32 +438,8 @@
   "reg_date": "",
   "longt": 36.3928234079,
   "lati": 49.9581084191,
-  "FullNameUA": "проспект Індустріальний, 3"
- },
- {
-  "id": 113138,
-  "postcode": 61089,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3937116158,
-  "lati": 49.962130193200004,
-  "FullNameUA": "проспект Індустріальний, 3-А"
+  "FullNameUA": "проспект Індустріальний, 3",
+  "ChildsIds": []
  },
  {
   "id": 113139,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.380619061400004,
+  "longt": 36.3806190614,
   "lati": 49.9467636319,
-  "FullNameUA": "проспект Індустріальний, 6"
+  "FullNameUA": "проспект Індустріальний, 6",
+  "ChildsIds": []
  },
  {
   "id": 113140,
@@ -470,34 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.383172869700005,
+  "longt": 36.3831728697,
   "lati": 49.9470431962,
-  "FullNameUA": "проспект Індустріальний, 7"
- },
- {
-  "id": 113141,
-  "postcode": 61089,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.382685947000006,
-  "lati": 49.9464948459,
-  "FullNameUA": "проспект Індустріальний, 9"
+  "FullNameUA": "проспект Індустріальний, 7",
+  "ChildsIds": []
  },
  {
   "id": 113142,
@@ -520,9 +514,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.383288623400006,
+  "longt": 36.3832886234,
   "lati": 49.9462597415,
-  "FullNameUA": "проспект Індустріальний, 9-А"
+  "FullNameUA": "проспект Індустріальний, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 113141,
+  "postcode": 61089,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.382685947,
+  "lati": 49.9464948459,
+  "FullNameUA": "проспект Індустріальний, 9",
+  "ChildsIds": []
  },
  {
   "id": 113143,
@@ -547,7 +568,34 @@
   "reg_date": "",
   "longt": 36.394947734,
   "lati": 49.9608795452,
-  "FullNameUA": "проспект Індустріальний, 10"
+  "FullNameUA": "проспект Індустріальний, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 113144,
+  "postcode": 61089,
+  "number": 10,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Розпорядження Голови Орджонікідзевської райради № 214-з, 18.10.2005; 242-з, 23.11.2005",
+  "reg_date": "04.03.2019 15:18:31",
+  "longt": 36.3969829434,
+  "lati": 49.9594881922,
+  "FullNameUA": "проспект Індустріальний, 10-Б",
+  "ChildsIds": []
  },
  {
   "id": 177979,
@@ -572,57 +620,8 @@
   "reg_date": "18.12.2019 17:01:34",
   "longt": 36.4044038354,
   "lati": 49.9587533798,
-  "FullNameUA": "проспект Індустріальний, 10-В"
- },
- {
-  "id": 113144,
-  "postcode": 61089,
-  "number": 10,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Розпорядження Голови Орджонікідзевської райради № 214-з, 18.10.2005; 242-з, 23.11.2005",
-  "reg_date": "04.03.2019 15:18:31",
-  "longt": 36.3969829434,
-  "lati": 49.959488192200006,
-  "FullNameUA": "проспект Індустріальний, 10-Б"
- },
- {
-  "id": 113145,
-  "postcode": 61089,
-  "number": 11,
-  "suffix": "",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.382273657400006,
-  "lati": 49.945635108699996,
-  "FullNameUA": "проспект Індустріальний, 11"
+  "FullNameUA": "проспект Індустріальний, 10-В",
+  "ChildsIds": []
  },
  {
   "id": 113146,
@@ -646,8 +645,35 @@
   "confrm": "587, 22.08.2016",
   "reg_date": "17.01.2019 11:49:23",
   "longt": 36.3826414563,
-  "lati": 49.945512159299994,
-  "FullNameUA": "проспект Індустріальний, 11-В"
+  "lati": 49.9455121593,
+  "FullNameUA": "проспект Індустріальний, 11-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 113145,
+  "postcode": 61089,
+  "number": 11,
+  "suffix": "",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3822736574,
+  "lati": 49.9456351087,
+  "FullNameUA": "проспект Індустріальний, 11",
+  "ChildsIds": []
  },
  {
   "id": 113147,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3791138792,
-  "lati": 49.944359892399994,
-  "FullNameUA": "проспект Індустріальний, 12"
+  "lati": 49.9443598924,
+  "FullNameUA": "проспект Індустріальний, 12",
+  "ChildsIds": []
  },
  {
   "id": 113148,
@@ -696,8 +723,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3817918362,
-  "lati": 49.945303674799995,
-  "FullNameUA": "проспект Індустріальний, 13"
+  "lati": 49.9453036748,
+  "FullNameUA": "проспект Індустріальний, 13",
+  "ChildsIds": []
  },
  {
   "id": 113149,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.378159253099994,
-  "lati": 49.944499490599995,
-  "FullNameUA": "проспект Індустріальний, 14"
+  "longt": 36.3781592531,
+  "lati": 49.9444994906,
+  "FullNameUA": "проспект Індустріальний, 14",
+  "ChildsIds": []
  },
  {
   "id": 113150,
@@ -746,33 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3775242323,
-  "lati": 49.944070877499996,
-  "FullNameUA": "проспект Індустріальний, 16"
- },
- {
-  "id": 113151,
-  "postcode": 61089,
-  "number": 17,
-  "suffix": "/34",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3812181781,
-  "lati": 49.9445443711,
-  "FullNameUA": "проспект Індустріальний, 17/34"
+  "lati": 49.9440708775,
+  "FullNameUA": "проспект Індустріальний, 16",
+  "ChildsIds": []
  },
  {
   "id": 113152,
@@ -797,7 +802,34 @@
   "reg_date": "",
   "longt": 36.3805119676,
   "lati": 49.9447369875,
-  "FullNameUA": "проспект Індустріальний, 17-Б"
+  "FullNameUA": "проспект Індустріальний, 17-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 113151,
+  "postcode": 61089,
+  "number": 17,
+  "suffix": "/34",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3812181781,
+  "lati": 49.9445443711,
+  "FullNameUA": "проспект Індустріальний, 17/34",
+  "ChildsIds": []
  },
  {
   "id": 113153,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.377300317099994,
-  "lati": 49.943438383499995,
-  "FullNameUA": "проспект Індустріальний, 18"
+  "longt": 36.3773003171,
+  "lati": 49.9434383835,
+  "FullNameUA": "проспект Індустріальний, 18",
+  "ChildsIds": []
  },
  {
   "id": 113154,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.380576051800006,
+  "longt": 36.3805760518,
   "lati": 49.9438533862,
-  "FullNameUA": "проспект Індустріальний, 19"
+  "FullNameUA": "проспект Індустріальний, 19",
+  "ChildsIds": []
  },
  {
   "id": 113155,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.3785187644,
   "lati": 49.9437106054,
-  "FullNameUA": "проспект Індустріальний, 20"
+  "FullNameUA": "проспект Індустріальний, 20",
+  "ChildsIds": []
  },
  {
   "id": 113156,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.381380111300004,
+  "longt": 36.3813801113,
   "lati": 49.9439173495,
-  "FullNameUA": "проспект Індустріальний, 21"
+  "FullNameUA": "проспект Індустріальний, 21",
+  "ChildsIds": []
  },
  {
   "id": 113157,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3780520443,
   "lati": 49.943023998,
-  "FullNameUA": "проспект Індустріальний, 22"
+  "FullNameUA": "проспект Індустріальний, 22",
+  "ChildsIds": []
  },
  {
   "id": 113158,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.3813218612,
   "lati": 49.9430754738,
-  "FullNameUA": "проспект Індустріальний, 23"
+  "FullNameUA": "проспект Індустріальний, 23",
+  "ChildsIds": []
  },
  {
   "id": 113159,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.3774857139,
   "lati": 49.9423971293,
-  "FullNameUA": "проспект Індустріальний, 24/31"
+  "FullNameUA": "проспект Індустріальний, 24/31",
+  "ChildsIds": []
  },
  {
   "id": 113160,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.3803124558,
   "lati": 49.943145392,
-  "FullNameUA": "проспект Індустріальний, 25"
+  "FullNameUA": "проспект Індустріальний, 25",
+  "ChildsIds": []
  },
  {
   "id": 113162,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.376053436899994,
-  "lati": 49.940959087399996,
-  "FullNameUA": "проспект Індустріальний, 26/34"
+  "longt": 36.3760534369,
+  "lati": 49.9409590874,
+  "FullNameUA": "проспект Індустріальний, 26/34",
+  "ChildsIds": []
  },
  {
   "id": 113161,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.376723379599994,
+  "longt": 36.3767233796,
   "lati": 49.9415139575,
-  "FullNameUA": "проспект Індустріальний, 26"
+  "FullNameUA": "проспект Індустріальний, 26",
+  "ChildsIds": []
  },
  {
   "id": 113163,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.381031323500004,
+  "longt": 36.3810313235,
   "lati": 49.9426910757,
-  "FullNameUA": "проспект Індустріальний, 27"
+  "FullNameUA": "проспект Індустріальний, 27",
+  "ChildsIds": []
  },
  {
   "id": 113164,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.3806577533,
   "lati": 49.9420595624,
-  "FullNameUA": "проспект Індустріальний, 29"
+  "FullNameUA": "проспект Індустріальний, 29",
+  "ChildsIds": []
  },
  {
   "id": 113165,
@@ -1121,8 +1165,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3796455576,
-  "lati": 49.942709891999996,
-  "FullNameUA": "проспект Індустріальний, 31"
+  "lati": 49.942709892,
+  "FullNameUA": "проспект Індустріальний, 31",
+  "ChildsIds": []
  },
  {
   "id": 113166,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.3744992085,
   "lati": 49.9395953109,
-  "FullNameUA": "проспект Індустріальний, 34"
+  "FullNameUA": "проспект Індустріальний, 34",
+  "ChildsIds": []
  },
  {
   "id": 113167,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.3739578852,
   "lati": 49.9397774996,
-  "FullNameUA": "проспект Індустріальний, 36"
+  "FullNameUA": "проспект Індустріальний, 36",
+  "ChildsIds": []
  },
  {
   "id": 113168,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.379125272799996,
-  "lati": 49.941104130999996,
-  "FullNameUA": "проспект Індустріальний, 37/36"
+  "longt": 36.3791252728,
+  "lati": 49.941104131,
+  "FullNameUA": "проспект Індустріальний, 37/36",
+  "ChildsIds": []
  },
  {
   "id": 113169,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.3785504476,
   "lati": 49.9403689522,
-  "FullNameUA": "проспект Індустріальний, 39"
+  "FullNameUA": "проспект Індустріальний, 39",
+  "ChildsIds": []
  },
  {
   "id": 113170,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.373181995799996,
+  "longt": 36.3731819958,
   "lati": 49.9394860198,
-  "FullNameUA": "проспект Індустріальний, 40"
+  "FullNameUA": "проспект Індустріальний, 40",
+  "ChildsIds": []
  },
  {
   "id": 113171,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.3738173955,
   "lati": 49.9387266219,
-  "FullNameUA": "проспект Індустріальний, 42"
+  "FullNameUA": "проспект Індустріальний, 42",
+  "ChildsIds": []
  },
  {
   "id": 113172,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.377692723799996,
+  "longt": 36.3776927238,
   "lati": 49.9392454132,
-  "FullNameUA": "проспект Індустріальний, 43"
+  "FullNameUA": "проспект Індустріальний, 43",
+  "ChildsIds": []
  },
  {
   "id": 113173,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.373270811,
   "lati": 49.9389038237,
-  "FullNameUA": "проспект Індустріальний, 44"
+  "FullNameUA": "проспект Індустріальний, 44",
+  "ChildsIds": []
  },
  {
   "id": 113174,
@@ -1347,82 +1400,8 @@
   "reg_date": "",
   "longt": 36.3776233546,
   "lati": 49.9386159921,
-  "FullNameUA": "проспект Індустріальний, 45"
- },
- {
-  "id": 177689,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3743307241,
-  "lati": 49.9383952147,
-  "FullNameUA": "проспект Індустріальний, 46-Г"
- },
- {
-  "id": 113177,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3745093346,
-  "lati": 49.9377556167,
-  "FullNameUA": "проспект Індустріальний, 46-Б"
- },
- {
-  "id": 177688,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3747586665,
-  "lati": 49.938426453299996,
-  "FullNameUA": "проспект Індустріальний, 46-Д"
+  "FullNameUA": "проспект Індустріальний, 45",
+  "ChildsIds": []
  },
  {
   "id": 177684,
@@ -1447,7 +1426,60 @@
   "reg_date": "",
   "longt": 36.3750104826,
   "lati": 49.9381336083,
-  "FullNameUA": "проспект Індустріальний, 46-Є"
+  "FullNameUA": "проспект Індустріальний, 46-Є",
+  "ChildsIds": []
+ },
+ {
+  "id": 177688,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3747586665,
+  "lati": 49.9384264533,
+  "FullNameUA": "проспект Індустріальний, 46-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 177689,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3743307241,
+  "lati": 49.9383952147,
+  "FullNameUA": "проспект Індустріальний, 46-Г",
+  "ChildsIds": []
  },
  {
   "id": 175363,
@@ -1470,34 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.375190028199995,
+  "longt": 36.3751900282,
   "lati": 49.9383247044,
-  "FullNameUA": "проспект Індустріальний, 46-Ж"
- },
- {
-  "id": 113176,
-  "postcode": 61089,
-  "number": 46,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.374028548599995,
-  "lati": 49.9379213433,
-  "FullNameUA": "проспект Індустріальний, 46-А"
+  "FullNameUA": "проспект Індустріальний, 46-Ж",
+  "ChildsIds": []
  },
  {
   "id": 113175,
@@ -1520,9 +1528,62 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.373312352599996,
+  "longt": 36.3733123526,
   "lati": 49.938086578,
-  "FullNameUA": "проспект Індустріальний, 46"
+  "FullNameUA": "проспект Індустріальний, 46",
+  "ChildsIds": []
+ },
+ {
+  "id": 113176,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3740285486,
+  "lati": 49.9379213433,
+  "FullNameUA": "проспект Індустріальний, 46-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 113177,
+  "postcode": 61089,
+  "number": 46,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3745093346,
+  "lati": 49.9377556167,
+  "FullNameUA": "проспект Індустріальний, 46-Б",
+  "ChildsIds": []
  },
  {
   "id": 113178,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.378161326,
   "lati": 49.9384353331,
-  "FullNameUA": "проспект Індустріальний, 47"
+  "FullNameUA": "проспект Індустріальний, 47",
+  "ChildsIds": []
  },
  {
   "id": 113179,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.3722841544,
   "lati": 49.9383776596,
-  "FullNameUA": "проспект Індустріальний, 48"
+  "FullNameUA": "проспект Індустріальний, 48",
+  "ChildsIds": []
  },
  {
   "id": 113180,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.376877289,
   "lati": 49.9382024022,
-  "FullNameUA": "проспект Індустріальний, 49"
+  "FullNameUA": "проспект Індустріальний, 49",
+  "ChildsIds": []
  },
  {
   "id": 113181,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.3727585052,
   "lati": 49.9373816329,
-  "FullNameUA": "проспект Індустріальний, 50"
+  "FullNameUA": "проспект Індустріальний, 50",
+  "ChildsIds": []
  },
  {
   "id": 113182,
@@ -1645,9 +1710,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.378028229399995,
+  "longt": 36.3780282294,
   "lati": 49.9377216989,
-  "FullNameUA": "проспект Індустріальний, 51"
+  "FullNameUA": "проспект Індустріальний, 51",
+  "ChildsIds": []
  },
  {
   "id": 113183,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.3786267879,
   "lati": 49.9376287046,
-  "FullNameUA": "проспект Індустріальний, 51-А"
+  "FullNameUA": "проспект Індустріальний, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 113184,
@@ -1695,9 +1762,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.372089312199996,
+  "longt": 36.3720893122,
   "lati": 49.9376027267,
-  "FullNameUA": "проспект Індустріальний, 52"
+  "FullNameUA": "проспект Індустріальний, 52",
+  "ChildsIds": []
  },
  {
   "id": 113185,
@@ -1720,9 +1788,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.376808210099995,
+  "longt": 36.3768082101,
   "lati": 49.9375761661,
-  "FullNameUA": "проспект Індустріальний, 53"
+  "FullNameUA": "проспект Індустріальний, 53",
+  "ChildsIds": []
  },
  {
   "id": 113186,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.3722826319,
   "lati": 49.936767642,
-  "FullNameUA": "проспект Індустріальний, 54/47"
+  "FullNameUA": "проспект Індустріальний, 54/47",
+  "ChildsIds": []
  },
  {
   "id": 113188,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.3784623528,
   "lati": 49.9370234226,
-  "FullNameUA": "проспект Індустріальний, 55-А"
+  "FullNameUA": "проспект Індустріальний, 55-А",
+  "ChildsIds": []
  },
  {
   "id": 113187,
@@ -1797,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.3773175587,
   "lati": 49.9374113171,
-  "FullNameUA": "проспект Індустріальний, 55"
+  "FullNameUA": "проспект Індустріальний, 55",
+  "ChildsIds": []
  },
  {
   "id": 113189,
@@ -1822,82 +1894,8 @@
   "reg_date": "",
   "longt": 36.3760665271,
   "lati": 49.9371708372,
-  "FullNameUA": "проспект Індустріальний, 57"
- },
- {
-  "id": 113191,
-  "postcode": 61089,
-  "number": 59,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3778092588,
-  "lati": 49.9365909395,
-  "FullNameUA": "проспект Індустріальний, 59-А"
- },
- {
-  "id": 177681,
-  "postcode": 61089,
-  "number": 59,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3755841951,
-  "lati": 49.937550620799996,
-  "FullNameUA": "проспект Індустріальний, 59-Г"
- },
- {
-  "id": 177682,
-  "postcode": 61089,
-  "number": 59,
-  "suffix": "Д",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3759412562,
-  "lati": 49.9379681193,
-  "FullNameUA": "проспект Індустріальний, 59-Д"
+  "FullNameUA": "проспект Індустріальний, 57",
+  "ChildsIds": []
  },
  {
   "id": 177680,
@@ -1922,13 +1920,66 @@
   "reg_date": "",
   "longt": 36.3753048851,
   "lati": 49.9371780654,
-  "FullNameUA": "проспект Індустріальний, 59-В"
+  "FullNameUA": "проспект Індустріальний, 59-В",
+  "ChildsIds": []
  },
  {
-  "id": 113190,
+  "id": 177681,
   "postcode": 61089,
   "number": 59,
-  "suffix": "",
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3755841951,
+  "lati": 49.9375506208,
+  "FullNameUA": "проспект Індустріальний, 59-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 177682,
+  "postcode": 61089,
+  "number": 59,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3759412562,
+  "lati": 49.9379681193,
+  "FullNameUA": "проспект Індустріальний, 59-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 113191,
+  "postcode": 61089,
+  "number": 59,
+  "suffix": "А",
   "block": "",
   "streetid": 4251,
   "status_id": 1,
@@ -1945,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3773720545,
-  "lati": 49.9368691227,
-  "FullNameUA": "проспект Індустріальний, 59"
+  "longt": 36.3778092588,
+  "lati": 49.9365909395,
+  "FullNameUA": "проспект Індустріальний, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 177685,
@@ -1972,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.3755798908,
   "lati": 49.9382737947,
-  "FullNameUA": "проспект Індустріальний, 59-Ж"
+  "FullNameUA": "проспект Індустріальний, 59-Ж",
+  "ChildsIds": []
  },
  {
   "id": 177686,
@@ -1997,7 +2050,34 @@
   "reg_date": "",
   "longt": 36.3753485269,
   "lati": 49.9380643608,
-  "FullNameUA": "проспект Індустріальний, 59-Є"
+  "FullNameUA": "проспект Індустріальний, 59-Є",
+  "ChildsIds": []
+ },
+ {
+  "id": 113190,
+  "postcode": 61089,
+  "number": 59,
+  "suffix": "",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3773720545,
+  "lati": 49.9368691227,
+  "FullNameUA": "проспект Індустріальний, 59",
+  "ChildsIds": []
  },
  {
   "id": 177683,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.3748245602,
   "lati": 49.9374467584,
-  "FullNameUA": "проспект Індустріальний, 59-Б"
+  "FullNameUA": "проспект Індустріальний, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 113192,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.3758482712,
   "lati": 49.9363603907,
-  "FullNameUA": "проспект Індустріальний, 61"
+  "FullNameUA": "проспект Індустріальний, 61",
+  "ChildsIds": []
  },
  {
   "id": 113193,
@@ -2070,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.376400411999995,
+  "longt": 36.376400412,
   "lati": 49.9361800565,
-  "FullNameUA": "проспект Індустріальний, 63"
+  "FullNameUA": "проспект Індустріальний, 63",
+  "ChildsIds": []
  },
  {
   "id": 113194,
@@ -2095,9 +2178,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.375110133499994,
+  "longt": 36.3751101335,
   "lati": 49.9359559934,
-  "FullNameUA": "проспект Індустріальний, 65/51"
+  "FullNameUA": "проспект Індустріальний, 65/51",
+  "ChildsIds": []
  },
  {
   "id": 113195,
@@ -2122,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.3712987446,
   "lati": 49.9337041417,
-  "FullNameUA": "проспект Індустріальний, 90"
+  "FullNameUA": "проспект Індустріальний, 90",
+  "ChildsIds": []
  },
  {
   "id": 113196,
@@ -2145,34 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.372150684299996,
+  "longt": 36.3721506843,
   "lati": 49.9333887554,
-  "FullNameUA": "проспект Індустріальний, 91"
- },
- {
-  "id": 113197,
-  "postcode": 61075,
-  "number": 92,
-  "suffix": "",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.371171935199996,
-  "lati": 49.9335304953,
-  "FullNameUA": "проспект Індустріальний, 92"
+  "FullNameUA": "проспект Індустріальний, 91",
+  "ChildsIds": []
  },
  {
   "id": 113198,
@@ -2197,7 +2258,34 @@
   "reg_date": "",
   "longt": 36.3714584286,
   "lati": 49.9333508511,
-  "FullNameUA": "проспект Індустріальний, 92-А"
+  "FullNameUA": "проспект Індустріальний, 92-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 113197,
+  "postcode": 61075,
+  "number": 92,
+  "suffix": "",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3711719352,
+  "lati": 49.9335304953,
+  "FullNameUA": "проспект Індустріальний, 92",
+  "ChildsIds": []
  },
  {
   "id": 113199,
@@ -2222,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.3723120979,
   "lati": 49.9332177601,
-  "FullNameUA": "проспект Індустріальний, 93"
+  "FullNameUA": "проспект Індустріальний, 93",
+  "ChildsIds": []
  },
  {
   "id": 113200,
@@ -2247,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.3710014623,
   "lati": 49.9333392454,
-  "FullNameUA": "проспект Індустріальний, 94"
+  "FullNameUA": "проспект Індустріальний, 94",
+  "ChildsIds": []
  },
  {
   "id": 113201,
@@ -2270,9 +2360,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.371923958699995,
+  "longt": 36.3719239587,
   "lati": 49.9330909798,
-  "FullNameUA": "проспект Індустріальний, 95"
+  "FullNameUA": "проспект Індустріальний, 95",
+  "ChildsIds": []
  },
  {
   "id": 113202,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.3712617418,
   "lati": 49.9330222233,
-  "FullNameUA": "проспект Індустріальний, 96"
+  "FullNameUA": "проспект Індустріальний, 96",
+  "ChildsIds": []
  },
  {
   "id": 113203,
@@ -2320,9 +2412,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.371794752599996,
+  "longt": 36.3717947526,
   "lati": 49.9329374931,
-  "FullNameUA": "проспект Індустріальний, 97"
+  "FullNameUA": "проспект Індустріальний, 97",
+  "ChildsIds": []
  },
  {
   "id": 113204,
@@ -2345,9 +2438,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.371579296099995,
+  "longt": 36.3715792961,
   "lati": 49.9326589311,
-  "FullNameUA": "проспект Індустріальний, 99/21"
+  "FullNameUA": "проспект Індустріальний, 99/21",
+  "ChildsIds": []
  },
  {
   "id": 113205,
@@ -2372,7 +2466,8 @@
   "reg_date": "",
   "longt": 36.3708895844,
   "lati": 49.9325265068,
-  "FullNameUA": "проспект Індустріальний, 100/20"
+  "FullNameUA": "проспект Індустріальний, 100/20",
+  "ChildsIds": []
  },
  {
   "id": 113206,
@@ -2397,7 +2492,8 @@
   "reg_date": "",
   "longt": 36.3706664295,
   "lati": 49.932234755,
-  "FullNameUA": "проспект Індустріальний, 102"
+  "FullNameUA": "проспект Індустріальний, 102",
+  "ChildsIds": []
  },
  {
   "id": 113207,
@@ -2422,7 +2518,8 @@
   "reg_date": "",
   "longt": 36.3710729114,
   "lati": 49.9320228261,
-  "FullNameUA": "проспект Індустріальний, 103/1"
+  "FullNameUA": "проспект Індустріальний, 103/1",
+  "ChildsIds": []
  },
  {
   "id": 113208,
@@ -2447,7 +2544,8 @@
   "reg_date": "",
   "longt": 36.3705663286,
   "lati": 49.932098726,
-  "FullNameUA": "проспект Індустріальний, 104"
+  "FullNameUA": "проспект Індустріальний, 104",
+  "ChildsIds": []
  },
  {
   "id": 113209,
@@ -2472,7 +2570,8 @@
   "reg_date": "",
   "longt": 36.3926680322,
   "lati": 49.9634053957,
-  "FullNameUA": "проспект Індустріальний, 104-А"
+  "FullNameUA": "проспект Індустріальний, 104-А",
+  "ChildsIds": []
  },
  {
   "id": 113210,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.3708667118,
   "lati": 49.9317606986,
-  "FullNameUA": "проспект Індустріальний, 105/2"
+  "FullNameUA": "проспект Індустріальний, 105/2",
+  "ChildsIds": []
  },
  {
   "id": 113211,
@@ -2522,7 +2622,8 @@
   "reg_date": "",
   "longt": 36.370468319,
   "lati": 49.9319891274,
-  "FullNameUA": "проспект Індустріальний, 106"
+  "FullNameUA": "проспект Індустріальний, 106",
+  "ChildsIds": []
  },
  {
   "id": 113212,
@@ -2547,7 +2648,8 @@
   "reg_date": "",
   "longt": 36.3703525909,
   "lati": 49.9318057495,
-  "FullNameUA": "проспект Індустріальний, 108"
+  "FullNameUA": "проспект Індустріальний, 108",
+  "ChildsIds": []
  },
  {
   "id": 113213,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.3704207613,
   "lati": 49.9311788249,
-  "FullNameUA": "проспект Індустріальний, 109/2"
+  "FullNameUA": "проспект Індустріальний, 109/2",
+  "ChildsIds": []
  },
  {
   "id": 176404,
@@ -2595,9 +2698,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.370087578299994,
+  "longt": 36.3700875783,
   "lati": 49.9317276357,
-  "FullNameUA": "проспект Індустріальний, 110"
+  "FullNameUA": "проспект Індустріальний, 110",
+  "ChildsIds": []
  },
  {
   "id": 176406,
@@ -2620,9 +2724,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.369913036199996,
-  "lati": 49.931626088099996,
-  "FullNameUA": "проспект Індустріальний, 110-А"
+  "longt": 36.3699130362,
+  "lati": 49.9316260881,
+  "FullNameUA": "проспект Індустріальний, 110-А",
+  "ChildsIds": []
  },
  {
   "id": 113214,
@@ -2645,9 +2750,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.370025277299995,
+  "longt": 36.3700252773,
   "lati": 49.9314143183,
-  "FullNameUA": "проспект Індустріальний, 112"
+  "FullNameUA": "проспект Індустріальний, 112",
+  "ChildsIds": []
  },
  {
   "id": 180283,
@@ -2672,7 +2778,8 @@
   "reg_date": "",
   "longt": 36.3695414686,
   "lati": 49.9308695435,
-  "FullNameUA": "проспект Індустріальний, 116"
+  "FullNameUA": "проспект Індустріальний, 116",
+  "ChildsIds": []
  },
  {
   "id": 113215,
@@ -2696,8 +2803,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3695521546,
-  "lati": 49.930066275499996,
-  "FullNameUA": "проспект Індустріальний, 117/2"
+  "lati": 49.9300662755,
+  "FullNameUA": "проспект Індустріальний, 117/2",
+  "ChildsIds": []
  },
  {
   "id": 113216,
@@ -2721,8 +2829,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3693397616,
-  "lati": 49.930542846499996,
-  "FullNameUA": "проспект Індустріальний, 118"
+  "lati": 49.9305428465,
+  "FullNameUA": "проспект Індустріальний, 118",
+  "ChildsIds": []
  },
  {
   "id": 113217,
@@ -2747,7 +2856,8 @@
   "reg_date": "",
   "longt": 36.369179861,
   "lati": 49.9303953135,
-  "FullNameUA": "проспект Індустріальний, 120"
+  "FullNameUA": "проспект Індустріальний, 120",
+  "ChildsIds": []
  },
  {
   "id": 113218,
@@ -2772,7 +2882,8 @@
   "reg_date": "",
   "longt": 36.3690151139,
   "lati": 49.929401376,
-  "FullNameUA": "проспект Індустріальний, 121"
+  "FullNameUA": "проспект Індустріальний, 121",
+  "ChildsIds": []
  },
  {
   "id": 113219,
@@ -2797,7 +2908,8 @@
   "reg_date": "",
   "longt": 36.3691092699,
   "lati": 49.9302794032,
-  "FullNameUA": "проспект Індустріальний, 122"
+  "FullNameUA": "проспект Індустріальний, 122",
+  "ChildsIds": []
  },
  {
   "id": 113220,
@@ -2822,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.368957699,
   "lati": 49.9301088094,
-  "FullNameUA": "проспект Індустріальний, 124"
+  "FullNameUA": "проспект Індустріальний, 124",
+  "ChildsIds": []
  },
  {
   "id": 113221,
@@ -2846,8 +2959,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3684216822,
-  "lati": 49.928690664200005,
-  "FullNameUA": "проспект Індустріальний, 125"
+  "lati": 49.9286906642,
+  "FullNameUA": "проспект Індустріальний, 125",
+  "ChildsIds": []
  },
  {
   "id": 113222,
@@ -2872,7 +2986,8 @@
   "reg_date": "",
   "longt": 36.3688494766,
   "lati": 49.9299505346,
-  "FullNameUA": "проспект Індустріальний, 126"
+  "FullNameUA": "проспект Індустріальний, 126",
+  "ChildsIds": []
  },
  {
   "id": 113223,
@@ -2897,7 +3012,8 @@
   "reg_date": "",
   "longt": 36.368587822,
   "lati": 49.9285396957,
-  "FullNameUA": "проспект Індустріальний, 127"
+  "FullNameUA": "проспект Індустріальний, 127",
+  "ChildsIds": []
  },
  {
   "id": 113224,
@@ -2922,7 +3038,8 @@
   "reg_date": "",
   "longt": 36.3687360479,
   "lati": 49.9298300982,
-  "FullNameUA": "проспект Індустріальний, 128"
+  "FullNameUA": "проспект Індустріальний, 128",
+  "ChildsIds": []
  },
  {
   "id": 113225,
@@ -2947,7 +3064,8 @@
   "reg_date": "",
   "longt": 36.3686920439,
   "lati": 49.9284066344,
-  "FullNameUA": "проспект Індустріальний, 129"
+  "FullNameUA": "проспект Індустріальний, 129",
+  "ChildsIds": []
  },
  {
   "id": 113226,
@@ -2972,7 +3090,8 @@
   "reg_date": "",
   "longt": 36.3686269155,
   "lati": 49.9296721443,
-  "FullNameUA": "проспект Індустріальний, 130"
+  "FullNameUA": "проспект Індустріальний, 130",
+  "ChildsIds": []
  },
  {
   "id": 113227,
@@ -2997,7 +3116,8 @@
   "reg_date": "",
   "longt": 36.368759849,
   "lati": 49.9282768737,
-  "FullNameUA": "проспект Індустріальний, 131"
+  "FullNameUA": "проспект Індустріальний, 131",
+  "ChildsIds": []
  },
  {
   "id": 113228,
@@ -3022,7 +3142,8 @@
   "reg_date": "",
   "longt": 36.3684444612,
   "lati": 49.9294881157,
-  "FullNameUA": "проспект Індустріальний, 132"
+  "FullNameUA": "проспект Індустріальний, 132",
+  "ChildsIds": []
  },
  {
   "id": 113229,
@@ -3047,7 +3168,8 @@
   "reg_date": "",
   "longt": 36.3688309618,
   "lati": 49.9281255736,
-  "FullNameUA": "проспект Індустріальний, 133"
+  "FullNameUA": "проспект Індустріальний, 133",
+  "ChildsIds": []
  },
  {
   "id": 113230,
@@ -3072,7 +3194,8 @@
   "reg_date": "",
   "longt": 36.3682100892,
   "lati": 49.929171924,
-  "FullNameUA": "проспект Індустріальний, 134/4"
+  "FullNameUA": "проспект Індустріальний, 134/4",
+  "ChildsIds": []
  },
  {
   "id": 113231,
@@ -3097,7 +3220,8 @@
   "reg_date": "",
   "longt": 36.3688951771,
   "lati": 49.9279120392,
-  "FullNameUA": "проспект Індустріальний, 135"
+  "FullNameUA": "проспект Індустріальний, 135",
+  "ChildsIds": []
  },
  {
   "id": 113232,
@@ -3121,8 +3245,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3680995617,
-  "lati": 49.929000481100005,
-  "FullNameUA": "проспект Індустріальний, 136"
+  "lati": 49.9290004811,
+  "FullNameUA": "проспект Індустріальний, 136",
+  "ChildsIds": []
  },
  {
   "id": 113233,
@@ -3147,7 +3272,8 @@
   "reg_date": "",
   "longt": 36.3688177024,
   "lati": 49.9277665899,
-  "FullNameUA": "проспект Індустріальний, 137"
+  "FullNameUA": "проспект Індустріальний, 137",
+  "ChildsIds": []
  },
  {
   "id": 113234,
@@ -3172,7 +3298,8 @@
   "reg_date": "",
   "longt": 36.3679792605,
   "lati": 49.9288519482,
-  "FullNameUA": "проспект Індустріальний, 138"
+  "FullNameUA": "проспект Індустріальний, 138",
+  "ChildsIds": []
  },
  {
   "id": 113235,
@@ -3197,7 +3324,8 @@
   "reg_date": "",
   "longt": 36.3688187284,
   "lati": 49.9276316885,
-  "FullNameUA": "проспект Індустріальний, 139"
+  "FullNameUA": "проспект Індустріальний, 139",
+  "ChildsIds": []
  },
  {
   "id": 113236,
@@ -3221,8 +3349,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3678478665,
-  "lati": 49.928698460700005,
-  "FullNameUA": "проспект Індустріальний, 140"
+  "lati": 49.9286984607,
+  "FullNameUA": "проспект Індустріальний, 140",
+  "ChildsIds": []
  },
  {
   "id": 113237,
@@ -3247,7 +3376,8 @@
   "reg_date": "",
   "longt": 36.3687776245,
   "lati": 49.9274907965,
-  "FullNameUA": "проспект Індустріальний, 141"
+  "FullNameUA": "проспект Індустріальний, 141",
+  "ChildsIds": []
  },
  {
   "id": 113238,
@@ -3272,7 +3402,8 @@
   "reg_date": "",
   "longt": 36.3676225465,
   "lati": 49.9286179653,
-  "FullNameUA": "проспект Індустріальний, 142"
+  "FullNameUA": "проспект Індустріальний, 142",
+  "ChildsIds": []
  },
  {
   "id": 113239,
@@ -3297,7 +3428,8 @@
   "reg_date": "",
   "longt": 36.3688971975,
   "lati": 49.9273191767,
-  "FullNameUA": "проспект Індустріальний, 143"
+  "FullNameUA": "проспект Індустріальний, 143",
+  "ChildsIds": []
  },
  {
   "id": 113240,
@@ -3322,7 +3454,8 @@
   "reg_date": "",
   "longt": 36.3675894741,
   "lati": 49.9283877926,
-  "FullNameUA": "проспект Індустріальний, 144"
+  "FullNameUA": "проспект Індустріальний, 144",
+  "ChildsIds": []
  },
  {
   "id": 113241,
@@ -3347,32 +3480,8 @@
   "reg_date": "",
   "longt": 36.3674482087,
   "lati": 49.9281860297,
-  "FullNameUA": "проспект Індустріальний, 146"
- },
- {
-  "id": 113242,
-  "postcode": 61075,
-  "number": 148,
-  "suffix": "",
-  "block": "",
-  "streetid": 4251,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3673281969,
-  "lati": 49.928032209200005,
-  "FullNameUA": "проспект Індустріальний, 148"
+  "FullNameUA": "проспект Індустріальний, 146",
+  "ChildsIds": []
  },
  {
   "id": 113243,
@@ -3396,8 +3505,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3670958084,
-  "lati": 49.928522373700005,
-  "FullNameUA": "проспект Індустріальний, 148-А"
+  "lati": 49.9285223737,
+  "FullNameUA": "проспект Індустріальний, 148-А",
+  "ChildsIds": []
  },
  {
   "id": 178283,
@@ -3422,7 +3532,34 @@
   "reg_date": "",
   "longt": 36.3671512945,
   "lati": 49.9281801418,
-  "FullNameUA": "проспект Індустріальний, 148-Б"
+  "FullNameUA": "проспект Індустріальний, 148-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 113242,
+  "postcode": 61075,
+  "number": 148,
+  "suffix": "",
+  "block": "",
+  "streetid": 4251,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3673281969,
+  "lati": 49.9280322092,
+  "FullNameUA": "проспект Індустріальний, 148",
+  "ChildsIds": []
  },
  {
   "id": 178725,
@@ -3446,7 +3583,8 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3682329655,
-  "lati": 49.928205521100004,
-  "FullNameUA": "проспект Індустріальний, 150-А"
+  "lati": 49.9282055211,
+  "FullNameUA": "проспект Індустріальний, 150-А",
+  "ChildsIds": []
  }
 ]

@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2248261763,
   "lati": 49.9830578509,
-  "FullNameUA": "вулиця Москалівська, 1"
+  "FullNameUA": "вулиця Москалівська, 1",
+  "ChildsIds": []
  },
  {
   "id": 149245,
@@ -46,33 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2238024441,
-  "lati": 49.98279941050001,
-  "FullNameUA": "вулиця Москалівська, 2"
- },
- {
-  "id": 161350,
-  "postcode": 61010,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.224298888999996,
-  "lati": 49.9827892515,
-  "FullNameUA": "вулиця Москалівська, 3"
+  "lati": 49.9827994105,
+  "FullNameUA": "вулиця Москалівська, 2",
+  "ChildsIds": []
  },
  {
   "id": 180506,
@@ -97,13 +74,14 @@
   "reg_date": "01.04.2019 11:27:52",
   "longt": 36.2248823504,
   "lati": 49.9825217054,
-  "FullNameUA": "вулиця Москалівська, 3-А"
+  "FullNameUA": "вулиця Москалівська, 3-А",
+  "ChildsIds": []
  },
  {
-  "id": 161352,
+  "id": 161350,
   "postcode": 61010,
-  "number": 5,
-  "suffix": "А",
+  "number": 3,
+  "suffix": "",
   "block": "",
   "streetid": 2675,
   "status_id": 1,
@@ -118,11 +96,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "градархив",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.2267653613,
-  "lati": 49.9824964242,
-  "FullNameUA": "вулиця Москалівська, 5-А"
+  "longt": 36.224298889,
+  "lati": 49.9827892515,
+  "FullNameUA": "вулиця Москалівська, 3",
+  "ChildsIds": []
  },
  {
   "id": 161351,
@@ -147,7 +126,34 @@
   "reg_date": "",
   "longt": 36.2255827373,
   "lati": 49.9820360726,
-  "FullNameUA": "вулиця Москалівська, 5"
+  "FullNameUA": "вулиця Москалівська, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 161352,
+  "postcode": 61010,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2267653613,
+  "lati": 49.9824964242,
+  "FullNameUA": "вулиця Москалівська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 149246,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2236222338,
   "lati": 49.9825202609,
-  "FullNameUA": "вулиця Москалівська, 6"
+  "FullNameUA": "вулиця Москалівська, 6",
+  "ChildsIds": []
  },
  {
   "id": 161354,
@@ -196,8 +203,9 @@
   "confrm": "1095, 29.12.1995",
   "reg_date": "",
   "longt": 36.2261373735,
-  "lati": 49.980154223300005,
-  "FullNameUA": "вулиця Москалівська, 7-В"
+  "lati": 49.9801542233,
+  "FullNameUA": "вулиця Москалівська, 7-В",
+  "ChildsIds": []
  },
  {
   "id": 161353,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2241330102,
   "lati": 49.9824385037,
-  "FullNameUA": "вулиця Москалівська, 7"
+  "FullNameUA": "вулиця Москалівська, 7",
+  "ChildsIds": []
  },
  {
   "id": 149247,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232966601,
-  "lati": 49.982316319800006,
-  "FullNameUA": "вулиця Москалівська, 8"
+  "lati": 49.9823163198,
+  "FullNameUA": "вулиця Москалівська, 8",
+  "ChildsIds": []
  },
  {
   "id": 161355,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2240954849,
-  "lati": 49.982240196300005,
-  "FullNameUA": "вулиця Москалівська, 9"
+  "lati": 49.9822401963,
+  "FullNameUA": "вулиця Москалівська, 9",
+  "ChildsIds": []
  },
  {
   "id": 149248,
@@ -297,32 +308,8 @@
   "reg_date": "",
   "longt": 36.223575218,
   "lati": 49.9823252982,
-  "FullNameUA": "вулиця Москалівська, 10"
- },
- {
-  "id": 161357,
-  "postcode": 61004,
-  "number": 11,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2241965452,
-  "lati": 49.9820505319,
-  "FullNameUA": "вулиця Москалівська, 11-Б"
+  "FullNameUA": "вулиця Москалівська, 10",
+  "ChildsIds": []
  },
  {
   "id": 161356,
@@ -347,7 +334,34 @@
   "reg_date": "",
   "longt": 36.2239466338,
   "lati": 49.9821151649,
-  "FullNameUA": "вулиця Москалівська, 11-А"
+  "FullNameUA": "вулиця Москалівська, 11-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 161357,
+  "postcode": 61004,
+  "number": 11,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2241965452,
+  "lati": 49.9820505319,
+  "FullNameUA": "вулиця Москалівська, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 149249,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223535977299996,
-  "lati": 49.982215953600004,
-  "FullNameUA": "вулиця Москалівська, 12"
+  "longt": 36.2235359773,
+  "lati": 49.9822159536,
+  "FullNameUA": "вулиця Москалівська, 12",
+  "ChildsIds": []
  },
  {
   "id": 161358,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2239049981,
   "lati": 49.9819233472,
-  "FullNameUA": "вулиця Москалівська, 13"
+  "FullNameUA": "вулиця Москалівська, 13",
+  "ChildsIds": []
  },
  {
   "id": 149250,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2234595942,
   "lati": 49.9820519705,
-  "FullNameUA": "вулиця Москалівська, 14"
+  "FullNameUA": "вулиця Москалівська, 14",
+  "ChildsIds": []
  },
  {
   "id": 161359,
@@ -446,8 +463,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2237675254,
-  "lati": 49.98167239560001,
-  "FullNameUA": "вулиця Москалівська, 15"
+  "lati": 49.9816723956,
+  "FullNameUA": "вулиця Москалівська, 15",
+  "ChildsIds": []
  },
  {
   "id": 149251,
@@ -471,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2233781355,
-  "lati": 49.98191672990001,
-  "FullNameUA": "вулиця Москалівська, 16"
+  "lati": 49.9819167299,
+  "FullNameUA": "вулиця Москалівська, 16",
+  "ChildsIds": []
  },
  {
   "id": 161360,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2236868108,
   "lati": 49.9814380835,
-  "FullNameUA": "вулиця Москалівська, 17"
+  "FullNameUA": "вулиця Москалівська, 17",
+  "ChildsIds": []
  },
  {
   "id": 149252,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232667166,
-  "lati": 49.981731562600004,
-  "FullNameUA": "вулиця Москалівська, 18"
+  "lati": 49.9817315626,
+  "FullNameUA": "вулиця Москалівська, 18",
+  "ChildsIds": []
  },
  {
   "id": 161361,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2235601709,
-  "lati": 49.98133255290001,
-  "FullNameUA": "вулиця Москалівська, 19"
+  "lati": 49.9813325529,
+  "FullNameUA": "вулиця Москалівська, 19",
+  "ChildsIds": []
  },
  {
   "id": 149253,
@@ -571,8 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2231889112,
-  "lati": 49.981568057000004,
-  "FullNameUA": "вулиця Москалівська, 20"
+  "lati": 49.981568057,
+  "FullNameUA": "вулиця Москалівська, 20",
+  "ChildsIds": []
  },
  {
   "id": 161362,
@@ -596,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2234165892,
-  "lati": 49.981064697300006,
-  "FullNameUA": "вулиця Москалівська, 21"
+  "lati": 49.9810646973,
+  "FullNameUA": "вулиця Москалівська, 21",
+  "ChildsIds": []
  },
  {
   "id": 149254,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2230614586,
-  "lati": 49.981385615700006,
-  "FullNameUA": "вулиця Москалівська, 22"
+  "lati": 49.9813856157,
+  "FullNameUA": "вулиця Москалівська, 22",
+  "ChildsIds": []
  },
  {
   "id": 149256,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2226379692,
   "lati": 49.9814375723,
-  "FullNameUA": "вулиця Москалівська, 22-Б"
+  "FullNameUA": "вулиця Москалівська, 22-Б",
+  "ChildsIds": []
  },
  {
   "id": 149255,
@@ -671,8 +697,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2226269097,
-  "lati": 49.98167024720001,
-  "FullNameUA": "вулиця Москалівська, 22-А"
+  "lati": 49.9816702472,
+  "FullNameUA": "вулиця Москалівська, 22-А",
+  "ChildsIds": []
  },
  {
   "id": 161363,
@@ -696,8 +723,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2232467738,
-  "lati": 49.980672904900004,
-  "FullNameUA": "вулиця Москалівська, 23"
+  "lati": 49.9806729049,
+  "FullNameUA": "вулиця Москалівська, 23",
+  "ChildsIds": []
+ },
+ {
+  "id": 149258,
+  "postcode": 61004,
+  "number": 24,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2224869766,
+  "lati": 49.9808544795,
+  "FullNameUA": "вулиця Москалівська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 149257,
@@ -721,8 +775,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2228363772,
-  "lati": 49.98088740080001,
-  "FullNameUA": "вулиця Москалівська, 24"
+  "lati": 49.9808874008,
+  "FullNameUA": "вулиця Москалівська, 24",
+  "ChildsIds": []
+ },
+ {
+  "id": 149260,
+  "postcode": 61004,
+  "number": 24,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2227207611,
+  "lati": 49.9813220227,
+  "FullNameUA": "вулиця Москалівська, 24-В",
+  "ChildsIds": []
  },
  {
   "id": 149259,
@@ -747,57 +828,8 @@
   "reg_date": "",
   "longt": 36.2230181713,
   "lati": 49.9811837299,
-  "FullNameUA": "вулиця Москалівська, 24-Б"
- },
- {
-  "id": 149260,
-  "postcode": 61004,
-  "number": 24,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2227207611,
-  "lati": 49.981322022700006,
-  "FullNameUA": "вулиця Москалівська, 24-В"
- },
- {
-  "id": 149258,
-  "postcode": 61004,
-  "number": 24,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.222486976599996,
-  "lati": 49.9808544795,
-  "FullNameUA": "вулиця Москалівська, 24-А"
+  "FullNameUA": "вулиця Москалівська, 24-Б",
+  "ChildsIds": []
  },
  {
   "id": 161364,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2230764559,
   "lati": 49.98021821,
-  "FullNameUA": "вулиця Москалівська, 25"
+  "FullNameUA": "вулиця Москалівська, 25",
+  "ChildsIds": []
  },
  {
   "id": 149261,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2226974295,
-  "lati": 49.980687615300006,
-  "FullNameUA": "вулиця Москалівська, 26"
+  "lati": 49.9806876153,
+  "FullNameUA": "вулиця Москалівська, 26",
+  "ChildsIds": []
  },
  {
   "id": 161365,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2229558181,
   "lati": 49.9801404804,
-  "FullNameUA": "вулиця Москалівська, 27"
+  "FullNameUA": "вулиця Москалівська, 27",
+  "ChildsIds": []
  },
  {
   "id": 149262,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2223386809,
   "lati": 49.9803788493,
-  "FullNameUA": "вулиця Москалівська, 28/41"
+  "FullNameUA": "вулиця Москалівська, 28/41",
+  "ChildsIds": []
  },
  {
   "id": 161366,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.223031032,
   "lati": 49.9799785956,
-  "FullNameUA": "вулиця Москалівська, 29"
+  "FullNameUA": "вулиця Москалівська, 29",
+  "ChildsIds": []
  },
  {
   "id": 149263,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222382101899996,
+  "longt": 36.2223821019,
   "lati": 49.9801530533,
-  "FullNameUA": "вулиця Москалівська, 30"
+  "FullNameUA": "вулиця Москалівська, 30",
+  "ChildsIds": []
  },
  {
   "id": 161367,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2227772133,
   "lati": 49.9797711281,
-  "FullNameUA": "вулиця Москалівська, 31"
+  "FullNameUA": "вулиця Москалівська, 31",
+  "ChildsIds": []
  },
  {
   "id": 149264,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2223153561,
   "lati": 49.9798591981,
-  "FullNameUA": "вулиця Москалівська, 32"
+  "FullNameUA": "вулиця Москалівська, 32",
+  "ChildsIds": []
  },
  {
   "id": 161368,
@@ -1021,8 +1061,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2226522363,
-  "lati": 49.979530376199996,
-  "FullNameUA": "вулиця Москалівська, 33"
+  "lati": 49.9795303762,
+  "FullNameUA": "вулиця Москалівська, 33",
+  "ChildsIds": []
  },
  {
   "id": 149265,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2222284608,
   "lati": 49.97970281,
-  "FullNameUA": "вулиця Москалівська, 34"
+  "FullNameUA": "вулиця Москалівська, 34",
+  "ChildsIds": []
  },
  {
   "id": 161369,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2225446254,
-  "lati": 49.979366860999995,
-  "FullNameUA": "вулиця Москалівська, 35"
+  "lati": 49.979366861,
+  "FullNameUA": "вулиця Москалівська, 35",
+  "ChildsIds": []
  },
  {
   "id": 149266,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2219425156,
   "lati": 49.979356323,
-  "FullNameUA": "вулиця Москалівська, 36"
+  "FullNameUA": "вулиця Москалівська, 36",
+  "ChildsIds": []
  },
  {
   "id": 161370,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2225635429,
   "lati": 49.979152553,
-  "FullNameUA": "вулиця Москалівська, 37/39"
+  "FullNameUA": "вулиця Москалівська, 37/39",
+  "ChildsIds": []
  },
  {
   "id": 161371,
@@ -1146,8 +1191,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2224330173,
-  "lati": 49.978946369199996,
-  "FullNameUA": "вулиця Москалівська, 39"
+  "lati": 49.9789463692,
+  "FullNameUA": "вулиця Москалівська, 39",
+  "ChildsIds": []
  },
  {
   "id": 149267,
@@ -1172,7 +1218,34 @@
   "reg_date": "",
   "longt": 36.2220505484,
   "lati": 49.9786287115,
-  "FullNameUA": "вулиця Москалівська, 40"
+  "FullNameUA": "вулиця Москалівська, 40",
+  "ChildsIds": []
+ },
+ {
+  "id": 161372,
+  "postcode": 61004,
+  "number": 41,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2225240492,
+  "lati": 49.9787053455,
+  "FullNameUA": "вулиця Москалівська, 41",
+  "ChildsIds": []
  },
  {
   "id": 161373,
@@ -1197,32 +1270,8 @@
   "reg_date": "",
   "longt": 36.222803401,
   "lati": 49.9786962755,
-  "FullNameUA": "вулиця Москалівська, 41-Б"
- },
- {
-  "id": 161372,
-  "postcode": 61004,
-  "number": 41,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2225240492,
-  "lati": 49.978705345499996,
-  "FullNameUA": "вулиця Москалівська, 41"
+  "FullNameUA": "вулиця Москалівська, 41-Б",
+  "ChildsIds": []
  },
  {
   "id": 149268,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2223238637,
   "lati": 49.9780806844,
-  "FullNameUA": "вулиця Москалівська, 42"
+  "FullNameUA": "вулиця Москалівська, 42",
+  "ChildsIds": []
  },
  {
   "id": 161374,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2226310529,
   "lati": 49.9784422116,
-  "FullNameUA": "вулиця Москалівська, 43"
+  "FullNameUA": "вулиця Москалівська, 43",
+  "ChildsIds": []
  },
  {
   "id": 149269,
@@ -1295,9 +1346,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222503447499996,
+  "longt": 36.2225034475,
   "lati": 49.9776940695,
-  "FullNameUA": "вулиця Москалівська, 44"
+  "FullNameUA": "вулиця Москалівська, 44",
+  "ChildsIds": []
  },
  {
   "id": 161375,
@@ -1321,8 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2228016941,
-  "lati": 49.978288686599996,
-  "FullNameUA": "вулиця Москалівська, 45"
+  "lati": 49.9782886866,
+  "FullNameUA": "вулиця Москалівська, 45",
+  "ChildsIds": []
  },
  {
   "id": 149271,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.2222762534,
   "lati": 49.9775536134,
-  "FullNameUA": "вулиця Москалівська, 46-А"
+  "FullNameUA": "вулиця Москалівська, 46-А",
+  "ChildsIds": []
  },
  {
   "id": 149270,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2225209841,
   "lati": 49.9775575731,
-  "FullNameUA": "вулиця Москалівська, 46"
+  "FullNameUA": "вулиця Москалівська, 46",
+  "ChildsIds": []
  },
  {
   "id": 161376,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2228940677,
   "lati": 49.9779838218,
-  "FullNameUA": "вулиця Москалівська, 47"
+  "FullNameUA": "вулиця Москалівська, 47",
+  "ChildsIds": []
  },
  {
   "id": 149273,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2226190309,
   "lati": 49.9774120125,
-  "FullNameUA": "вулиця Москалівська, 48-А"
+  "FullNameUA": "вулиця Москалівська, 48-А",
+  "ChildsIds": []
  },
  {
   "id": 149272,
@@ -1447,32 +1504,8 @@
   "reg_date": "",
   "longt": 36.2226350817,
   "lati": 49.9773073055,
-  "FullNameUA": "вулиця Москалівська, 48"
- },
- {
-  "id": 161377,
-  "postcode": 61004,
-  "number": 49,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2229470271,
-  "lati": 49.9778495894,
-  "FullNameUA": "вулиця Москалівська, 49"
+  "FullNameUA": "вулиця Москалівська, 48",
+  "ChildsIds": []
  },
  {
   "id": 161380,
@@ -1497,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2232306039,
   "lati": 49.9777356996,
-  "FullNameUA": "вулиця Москалівська, 49-Д"
+  "FullNameUA": "вулиця Москалівська, 49-Д",
+  "ChildsIds": []
  },
  {
   "id": 161378,
@@ -1522,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2235451378,
   "lati": 49.9779576582,
-  "FullNameUA": "вулиця Москалівська, 49-В"
+  "FullNameUA": "вулиця Москалівська, 49-В",
+  "ChildsIds": []
  },
  {
   "id": 161379,
@@ -1547,7 +1582,34 @@
   "reg_date": "",
   "longt": 36.2232783486,
   "lati": 49.9780854017,
-  "FullNameUA": "вулиця Москалівська, 49-Г"
+  "FullNameUA": "вулиця Москалівська, 49-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 161377,
+  "postcode": 61004,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2229470271,
+  "lati": 49.9778495894,
+  "FullNameUA": "вулиця Москалівська, 49",
+  "ChildsIds": []
  },
  {
   "id": 149274,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.2227825572,
   "lati": 49.9770221773,
-  "FullNameUA": "вулиця Москалівська, 50"
+  "FullNameUA": "вулиця Москалівська, 50",
+  "ChildsIds": []
  },
  {
   "id": 161381,
@@ -1595,9 +1658,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223123211899996,
-  "lati": 49.977544723499996,
-  "FullNameUA": "вулиця Москалівська, 51"
+  "longt": 36.2231232119,
+  "lati": 49.9775447235,
+  "FullNameUA": "вулиця Москалівська, 51",
+  "ChildsIds": []
  },
  {
   "id": 149275,
@@ -1621,8 +1685,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2227860394,
-  "lati": 49.976846250499996,
-  "FullNameUA": "вулиця Москалівська, 52"
+  "lati": 49.9768462505,
+  "FullNameUA": "вулиця Москалівська, 52",
+  "ChildsIds": []
  },
  {
   "id": 161382,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.2238204665,
   "lati": 49.9775421453,
-  "FullNameUA": "вулиця Москалівська, 53"
+  "FullNameUA": "вулиця Москалівська, 53",
+  "ChildsIds": []
  },
  {
   "id": 149276,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2228441867,
   "lati": 49.9766650468,
-  "FullNameUA": "вулиця Москалівська, 54"
+  "FullNameUA": "вулиця Москалівська, 54",
+  "ChildsIds": []
  },
  {
   "id": 161384,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.2233488914,
   "lati": 49.977288897,
-  "FullNameUA": "вулиця Москалівська, 55-А"
+  "FullNameUA": "вулиця Москалівська, 55-А",
+  "ChildsIds": []
  },
  {
   "id": 161383,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2238959841,
   "lati": 49.9772634797,
-  "FullNameUA": "вулиця Москалівська, 55"
+  "FullNameUA": "вулиця Москалівська, 55",
+  "ChildsIds": []
  },
  {
   "id": 149277,
@@ -1747,82 +1816,8 @@
   "reg_date": "",
   "longt": 36.2228745076,
   "lati": 49.9764342355,
-  "FullNameUA": "вулиця Москалівська, 56"
- },
- {
-  "id": 161385,
-  "postcode": 61004,
-  "number": 57,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2236276756,
-  "lati": 49.976934251799996,
-  "FullNameUA": "вулиця Москалівська, 57"
- },
- {
-  "id": 161387,
-  "postcode": 61004,
-  "number": 57,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.223500387,
-  "lati": 49.976723375599995,
-  "FullNameUA": "вулиця Москалівська, 57-Б"
- },
- {
-  "id": 161388,
-  "postcode": 61004,
-  "number": 57,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.223901779,
-  "lati": 49.9768515017,
-  "FullNameUA": "вулиця Москалівська, 57-В"
+  "FullNameUA": "вулиця Москалівська, 56",
+  "ChildsIds": []
  },
  {
   "id": 161390,
@@ -1847,13 +1842,40 @@
   "reg_date": "",
   "longt": 36.2235375564,
   "lati": 49.9759530212,
-  "FullNameUA": "вулиця Москалівська, 57/59А"
+  "FullNameUA": "вулиця Москалівська, 57/59А",
+  "ChildsIds": []
  },
  {
-  "id": 161392,
+  "id": 161385,
   "postcode": 61004,
   "number": 57,
-  "suffix": "/59Г",
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2236276756,
+  "lati": 49.9769342518,
+  "FullNameUA": "вулиця Москалівська, 57",
+  "ChildsIds": []
+ },
+ {
+  "id": 161387,
+  "postcode": 61004,
+  "number": 57,
+  "suffix": "Б",
   "block": "",
   "streetid": 2675,
   "status_id": 1,
@@ -1870,34 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.224499163299996,
-  "lati": 49.9766626458,
-  "FullNameUA": "вулиця Москалівська, 57/59Г"
- },
- {
-  "id": 161386,
-  "postcode": 61004,
-  "number": 57,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2234006737,
-  "lati": 49.9769194249,
-  "FullNameUA": "вулиця Москалівська, 57-А"
+  "longt": 36.223500387,
+  "lati": 49.9767233756,
+  "FullNameUA": "вулиця Москалівська, 57-Б",
+  "ChildsIds": []
  },
  {
   "id": 161391,
@@ -1921,8 +1919,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2239248323,
-  "lati": 49.976523477099995,
-  "FullNameUA": "вулиця Москалівська, 57/59В"
+  "lati": 49.9765234771,
+  "FullNameUA": "вулиця Москалівська, 57/59В",
+  "ChildsIds": []
  },
  {
   "id": 161389,
@@ -1947,7 +1946,86 @@
   "reg_date": "",
   "longt": 36.2241632642,
   "lati": 49.9760809676,
-  "FullNameUA": "вулиця Москалівська, 57/59"
+  "FullNameUA": "вулиця Москалівська, 57/59",
+  "ChildsIds": []
+ },
+ {
+  "id": 161392,
+  "postcode": 61004,
+  "number": 57,
+  "suffix": "/59Г",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2244991633,
+  "lati": 49.9766626458,
+  "FullNameUA": "вулиця Москалівська, 57/59Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 161386,
+  "postcode": 61004,
+  "number": 57,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2234006737,
+  "lati": 49.9769194249,
+  "FullNameUA": "вулиця Москалівська, 57-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 161388,
+  "postcode": 61004,
+  "number": 57,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.223901779,
+  "lati": 49.9768515017,
+  "FullNameUA": "вулиця Москалівська, 57-В",
+  "ChildsIds": []
  },
  {
   "id": 149279,
@@ -1971,8 +2049,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2228396975,
-  "lati": 49.976044363999996,
-  "FullNameUA": "вулиця Москалівська, 58-А"
+  "lati": 49.976044364,
+  "FullNameUA": "вулиця Москалівська, 58-А",
+  "ChildsIds": []
  },
  {
   "id": 149278,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.222876747,
   "lati": 49.9762061681,
-  "FullNameUA": "вулиця Москалівська, 58"
+  "FullNameUA": "вулиця Москалівська, 58",
+  "ChildsIds": []
  },
  {
   "id": 161393,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.2239746288,
   "lati": 49.975201939,
-  "FullNameUA": "вулиця Москалівська, 59"
+  "FullNameUA": "вулиця Москалівська, 59",
+  "ChildsIds": []
  },
  {
   "id": 149280,
@@ -2047,7 +2128,8 @@
   "reg_date": "",
   "longt": 36.2229319264,
   "lati": 49.9758424925,
-  "FullNameUA": "вулиця Москалівська, 60"
+  "FullNameUA": "вулиця Москалівська, 60",
+  "ChildsIds": []
  },
  {
   "id": 161394,
@@ -2071,8 +2153,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2237404722,
-  "lati": 49.974447556899996,
-  "FullNameUA": "вулиця Москалівська, 61"
+  "lati": 49.9744475569,
+  "FullNameUA": "вулиця Москалівська, 61",
+  "ChildsIds": []
  },
  {
   "id": 149281,
@@ -2097,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.2229734099,
   "lati": 49.975692529,
-  "FullNameUA": "вулиця Москалівська, 62"
+  "FullNameUA": "вулиця Москалівська, 62",
+  "ChildsIds": []
  },
  {
   "id": 161395,
@@ -2122,7 +2206,8 @@
   "reg_date": "",
   "longt": 36.2236247523,
   "lati": 49.9742472293,
-  "FullNameUA": "вулиця Москалівська, 63"
+  "FullNameUA": "вулиця Москалівська, 63",
+  "ChildsIds": []
  },
  {
   "id": 149282,
@@ -2147,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.222662663,
   "lati": 49.9754571471,
-  "FullNameUA": "вулиця Москалівська, 64"
+  "FullNameUA": "вулиця Москалівська, 64",
+  "ChildsIds": []
  },
  {
   "id": 161397,
@@ -2170,9 +2256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223912798899995,
+  "longt": 36.2239127989,
   "lati": 49.9740013324,
-  "FullNameUA": "вулиця Москалівська, 65-Б"
+  "FullNameUA": "вулиця Москалівська, 65-Б",
+  "ChildsIds": []
  },
  {
   "id": 161396,
@@ -2197,7 +2284,8 @@
   "reg_date": "",
   "longt": 36.2236447878,
   "lati": 49.9739266084,
-  "FullNameUA": "вулиця Москалівська, 65"
+  "FullNameUA": "вулиця Москалівська, 65",
+  "ChildsIds": []
  },
  {
   "id": 149283,
@@ -2221,8 +2309,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.223000596,
-  "lati": 49.975225940899996,
-  "FullNameUA": "вулиця Москалівська, 66"
+  "lati": 49.9752259409,
+  "FullNameUA": "вулиця Москалівська, 66",
+  "ChildsIds": []
  },
  {
   "id": 161399,
@@ -2246,8 +2335,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236589203,
-  "lati": 49.973548243399996,
-  "FullNameUA": "вулиця Москалівська, 67-Б"
+  "lati": 49.9735482434,
+  "FullNameUA": "вулиця Москалівська, 67-Б",
+  "ChildsIds": []
  },
  {
   "id": 161398,
@@ -2272,7 +2362,8 @@
   "reg_date": "",
   "longt": 36.2236434819,
   "lati": 49.9737265402,
-  "FullNameUA": "вулиця Москалівська, 67"
+  "FullNameUA": "вулиця Москалівська, 67",
+  "ChildsIds": []
  },
  {
   "id": 149284,
@@ -2297,7 +2388,8 @@
   "reg_date": "",
   "longt": 36.2228868322,
   "lati": 49.9749634486,
-  "FullNameUA": "вулиця Москалівська, 68/114"
+  "FullNameUA": "вулиця Москалівська, 68/114",
+  "ChildsIds": []
  },
  {
   "id": 161400,
@@ -2322,7 +2414,8 @@
   "reg_date": "",
   "longt": 36.2236558516,
   "lati": 49.9733078274,
-  "FullNameUA": "вулиця Москалівська, 69"
+  "FullNameUA": "вулиця Москалівська, 69",
+  "ChildsIds": []
  },
  {
   "id": 149285,
@@ -2347,7 +2440,8 @@
   "reg_date": "",
   "longt": 36.2229504429,
   "lati": 49.9746973428,
-  "FullNameUA": "вулиця Москалівська, 70"
+  "FullNameUA": "вулиця Москалівська, 70",
+  "ChildsIds": []
  },
  {
   "id": 161401,
@@ -2371,8 +2465,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236471253,
-  "lati": 49.973164586399996,
-  "FullNameUA": "вулиця Москалівська, 71"
+  "lati": 49.9731645864,
+  "FullNameUA": "вулиця Москалівська, 71",
+  "ChildsIds": []
  },
  {
   "id": 149286,
@@ -2397,7 +2492,8 @@
   "reg_date": "",
   "longt": 36.2229858485,
   "lati": 49.9743689696,
-  "FullNameUA": "вулиця Москалівська, 72"
+  "FullNameUA": "вулиця Москалівська, 72",
+  "ChildsIds": []
  },
  {
   "id": 161402,
@@ -2421,8 +2517,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236969003,
-  "lati": 49.972907898399995,
-  "FullNameUA": "вулиця Москалівська, 73"
+  "lati": 49.9729078984,
+  "FullNameUA": "вулиця Москалівська, 73",
+  "ChildsIds": []
  },
  {
   "id": 149287,
@@ -2447,7 +2544,8 @@
   "reg_date": "",
   "longt": 36.2229227665,
   "lati": 49.9741229868,
-  "FullNameUA": "вулиця Москалівська, 74"
+  "FullNameUA": "вулиця Москалівська, 74",
+  "ChildsIds": []
  },
  {
   "id": 161403,
@@ -2470,9 +2568,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.223720465999996,
+  "longt": 36.223720466,
   "lati": 49.9726893952,
-  "FullNameUA": "вулиця Москалівська, 75"
+  "FullNameUA": "вулиця Москалівська, 75",
+  "ChildsIds": []
  },
  {
   "id": 149288,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.2229490268,
   "lati": 49.9739315774,
-  "FullNameUA": "вулиця Москалівська, 76"
+  "FullNameUA": "вулиця Москалівська, 76",
+  "ChildsIds": []
  },
  {
   "id": 161404,
@@ -2521,8 +2621,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2240082612,
-  "lati": 49.972640168699996,
-  "FullNameUA": "вулиця Москалівська, 77"
+  "lati": 49.9726401687,
+  "FullNameUA": "вулиця Москалівська, 77",
+  "ChildsIds": []
  },
  {
   "id": 149289,
@@ -2547,7 +2648,8 @@
   "reg_date": "",
   "longt": 36.2229480122,
   "lati": 49.9737318561,
-  "FullNameUA": "вулиця Москалівська, 78"
+  "FullNameUA": "вулиця Москалівська, 78",
+  "ChildsIds": []
  },
  {
   "id": 161406,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.223698062,
   "lati": 49.9722011509,
-  "FullNameUA": "вулиця Москалівська, 79/1"
+  "FullNameUA": "вулиця Москалівська, 79/1",
+  "ChildsIds": []
  },
  {
   "id": 161405,
@@ -2596,8 +2699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236257037,
-  "lati": 49.972279397499996,
-  "FullNameUA": "вулиця Москалівська, 79"
+  "lati": 49.9722793975,
+  "FullNameUA": "вулиця Москалівська, 79",
+  "ChildsIds": []
  },
  {
   "id": 149290,
@@ -2620,9 +2724,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222977327799995,
+  "longt": 36.2229773278,
   "lati": 49.9735447221,
-  "FullNameUA": "вулиця Москалівська, 80"
+  "FullNameUA": "вулиця Москалівська, 80",
+  "ChildsIds": []
  },
  {
   "id": 161407,
@@ -2646,33 +2751,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2238056717,
-  "lati": 49.971812257399996,
-  "FullNameUA": "вулиця Москалівська, 81"
- },
- {
-  "id": 149291,
-  "postcode": 61004,
-  "number": 82,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2230035362,
-  "lati": 49.973288443,
-  "FullNameUA": "вулиця Москалівська, 82"
+  "lati": 49.9718122574,
+  "FullNameUA": "вулиця Москалівська, 81",
+  "ChildsIds": []
  },
  {
   "id": 149292,
@@ -2697,7 +2778,34 @@
   "reg_date": "",
   "longt": 36.2228378203,
   "lati": 49.9732054414,
-  "FullNameUA": "вулиця Москалівська, 82-Б"
+  "FullNameUA": "вулиця Москалівська, 82-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 149291,
+  "postcode": 61004,
+  "number": 82,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2230035362,
+  "lati": 49.973288443,
+  "FullNameUA": "вулиця Москалівська, 82",
+  "ChildsIds": []
  },
  {
   "id": 161408,
@@ -2722,32 +2830,8 @@
   "reg_date": "",
   "longt": 36.2239101217,
   "lati": 49.9716872915,
-  "FullNameUA": "вулиця Москалівська, 83"
- },
- {
-  "id": 149293,
-  "postcode": 61004,
-  "number": 84,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК Жовтневої райради № 23-25, 01.04.2008",
-  "reg_date": "01.04.2019 11:08:16",
-  "longt": 36.2229016361,
-  "lati": 49.973148252499996,
-  "FullNameUA": "вулиця Москалівська, 84"
+  "FullNameUA": "вулиця Москалівська, 83",
+  "ChildsIds": []
  },
  {
   "id": 149294,
@@ -2772,7 +2856,34 @@
   "reg_date": "01.04.2019 11:08:54",
   "longt": 36.2229732165,
   "lati": 49.9730280443,
-  "FullNameUA": "вулиця Москалівська, 84-А"
+  "FullNameUA": "вулиця Москалівська, 84-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 149293,
+  "postcode": 61004,
+  "number": 84,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК Жовтневої райради № 23-25, 01.04.2008",
+  "reg_date": "01.04.2019 11:08:16",
+  "longt": 36.2229016361,
+  "lati": 49.9731482525,
+  "FullNameUA": "вулиця Москалівська, 84",
+  "ChildsIds": []
  },
  {
   "id": 161409,
@@ -2796,8 +2907,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2236888241,
-  "lati": 49.971406767299996,
-  "FullNameUA": "вулиця Москалівська, 85"
+  "lati": 49.9714067673,
+  "FullNameUA": "вулиця Москалівська, 85",
+  "ChildsIds": []
  },
  {
   "id": 161410,
@@ -2822,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.2236863223,
   "lati": 49.971329598,
-  "FullNameUA": "вулиця Москалівська, 87"
+  "FullNameUA": "вулиця Москалівська, 87",
+  "ChildsIds": []
  },
  {
   "id": 161411,
@@ -2847,7 +2960,8 @@
   "reg_date": "",
   "longt": 36.2236359872,
   "lati": 49.9711408405,
-  "FullNameUA": "вулиця Москалівська, 89"
+  "FullNameUA": "вулиця Москалівська, 89",
+  "ChildsIds": []
  },
  {
   "id": 161412,
@@ -2872,7 +2986,8 @@
   "reg_date": "",
   "longt": 36.2236990042,
   "lati": 49.9704707284,
-  "FullNameUA": "вулиця Москалівська, 91"
+  "FullNameUA": "вулиця Москалівська, 91",
+  "ChildsIds": []
  },
  {
   "id": 149295,
@@ -2895,9 +3010,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222758504299996,
+  "longt": 36.2227585043,
   "lati": 49.9723266981,
-  "FullNameUA": "вулиця Москалівська, 92"
+  "FullNameUA": "вулиця Москалівська, 92",
+  "ChildsIds": []
  },
  {
   "id": 161413,
@@ -2922,7 +3038,8 @@
   "reg_date": "",
   "longt": 36.2235067653,
   "lati": 49.9700433226,
-  "FullNameUA": "вулиця Москалівська, 93"
+  "FullNameUA": "вулиця Москалівська, 93",
+  "ChildsIds": []
  },
  {
   "id": 149296,
@@ -2947,7 +3064,8 @@
   "reg_date": "",
   "longt": 36.2229751833,
   "lati": 49.971954058,
-  "FullNameUA": "вулиця Москалівська, 94"
+  "FullNameUA": "вулиця Москалівська, 94",
+  "ChildsIds": []
  },
  {
   "id": 149297,
@@ -2970,9 +3088,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222967463399996,
+  "longt": 36.2229674634,
   "lati": 49.9717108677,
-  "FullNameUA": "вулиця Москалівська, 96"
+  "FullNameUA": "вулиця Москалівська, 96",
+  "ChildsIds": []
  },
  {
   "id": 149298,
@@ -2995,9 +3114,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.222978732099996,
+  "longt": 36.2229787321,
   "lati": 49.97155264,
-  "FullNameUA": "вулиця Москалівська, 98"
+  "FullNameUA": "вулиця Москалівська, 98",
+  "ChildsIds": []
  },
  {
   "id": 149299,
@@ -3022,7 +3142,8 @@
   "reg_date": "",
   "longt": 36.2222825804,
   "lati": 49.9678366945,
-  "FullNameUA": "вулиця Москалівська, 99"
+  "FullNameUA": "вулиця Москалівська, 99",
+  "ChildsIds": []
  },
  {
   "id": 149300,
@@ -3047,7 +3168,34 @@
   "reg_date": "",
   "longt": 36.2229872515,
   "lati": 49.9712347202,
-  "FullNameUA": "вулиця Москалівська, 100"
+  "FullNameUA": "вулиця Москалівська, 100",
+  "ChildsIds": []
+ },
+ {
+  "id": 149301,
+  "postcode": 61004,
+  "number": 102,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2230086143,
+  "lati": 49.9706993193,
+  "FullNameUA": "вулиця Москалівська, 102",
+  "ChildsIds": []
  },
  {
   "id": 149302,
@@ -3072,32 +3220,8 @@
   "reg_date": "",
   "longt": 36.2223020837,
   "lati": 49.9698812458,
-  "FullNameUA": "вулиця Москалівська, 102-А"
- },
- {
-  "id": 149301,
-  "postcode": 61004,
-  "number": 102,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2230086143,
-  "lati": 49.970699319299996,
-  "FullNameUA": "вулиця Москалівська, 102"
+  "FullNameUA": "вулиця Москалівська, 102-А",
+  "ChildsIds": []
  },
  {
   "id": 149303,
@@ -3122,7 +3246,8 @@
   "reg_date": "",
   "longt": 36.2193843622,
   "lati": 49.9673335385,
-  "FullNameUA": "вулиця Москалівська, 104"
+  "FullNameUA": "вулиця Москалівська, 104",
+  "ChildsIds": []
  },
  {
   "id": 149304,
@@ -3147,7 +3272,8 @@
   "reg_date": "",
   "longt": 36.2204904623,
   "lati": 49.9671222151,
-  "FullNameUA": "вулиця Москалівська, 106"
+  "FullNameUA": "вулиця Москалівська, 106",
+  "ChildsIds": []
  },
  {
   "id": 149305,
@@ -3172,7 +3298,8 @@
   "reg_date": "",
   "longt": 36.2182182591,
   "lati": 49.9655478884,
-  "FullNameUA": "вулиця Москалівська, 108"
+  "FullNameUA": "вулиця Москалівська, 108",
+  "ChildsIds": []
  },
  {
   "id": 149306,
@@ -3196,8 +3323,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.217745181,
-  "lati": 49.965149347200004,
-  "FullNameUA": "вулиця Москалівська, 110"
+  "lati": 49.9651493472,
+  "FullNameUA": "вулиця Москалівська, 110",
+  "ChildsIds": []
  },
  {
   "id": 149307,
@@ -3222,7 +3350,8 @@
   "reg_date": "",
   "longt": 36.2170318009,
   "lati": 49.9652504969,
-  "FullNameUA": "вулиця Москалівська, 112"
+  "FullNameUA": "вулиця Москалівська, 112",
+  "ChildsIds": []
  },
  {
   "id": 149308,
@@ -3247,7 +3376,8 @@
   "reg_date": "",
   "longt": 36.2195195482,
   "lati": 49.9647814963,
-  "FullNameUA": "вулиця Москалівська, 113"
+  "FullNameUA": "вулиця Москалівська, 113",
+  "ChildsIds": []
  },
  {
   "id": 149309,
@@ -3272,7 +3402,8 @@
   "reg_date": "",
   "longt": 36.219282537,
   "lati": 49.9646013307,
-  "FullNameUA": "вулиця Москалівська, 115"
+  "FullNameUA": "вулиця Москалівська, 115",
+  "ChildsIds": []
  },
  {
   "id": 149310,
@@ -3297,7 +3428,8 @@
   "reg_date": "",
   "longt": 36.218082803,
   "lati": 49.9645922625,
-  "FullNameUA": "вулиця Москалівська, 126"
+  "FullNameUA": "вулиця Москалівська, 126",
+  "ChildsIds": []
  },
  {
   "id": 149311,
@@ -3322,7 +3454,8 @@
   "reg_date": "",
   "longt": 36.2178895979,
   "lati": 49.9644397997,
-  "FullNameUA": "вулиця Москалівська, 128"
+  "FullNameUA": "вулиця Москалівська, 128",
+  "ChildsIds": []
  },
  {
   "id": 149313,
@@ -3347,7 +3480,8 @@
   "reg_date": "",
   "longt": 36.2173939387,
   "lati": 49.9643935493,
-  "FullNameUA": "вулиця Москалівська, 130-А"
+  "FullNameUA": "вулиця Москалівська, 130-А",
+  "ChildsIds": []
  },
  {
   "id": 149312,
@@ -3372,7 +3506,8 @@
   "reg_date": "",
   "longt": 36.2177255396,
   "lati": 49.9642822039,
-  "FullNameUA": "вулиця Москалівська, 130"
+  "FullNameUA": "вулиця Москалівська, 130",
+  "ChildsIds": []
  },
  {
   "id": 149315,
@@ -3395,9 +3530,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Жовтневої райради № 31-37, 04.05.2005",
   "reg_date": "01.03.2019 11:48:53",
-  "longt": 36.218108227900004,
+  "longt": 36.2181082279,
   "lati": 49.9633821659,
-  "FullNameUA": "вулиця Москалівська, 131-А"
+  "FullNameUA": "вулиця Москалівська, 131-А",
+  "ChildsIds": []
  },
  {
   "id": 149314,
@@ -3422,32 +3558,8 @@
   "reg_date": "",
   "longt": 36.2183738043,
   "lati": 49.9625604343,
-  "FullNameUA": "вулиця Москалівська, 131"
- },
- {
-  "id": 149316,
-  "postcode": 61157,
-  "number": 132,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:2000",
-  "reg_date": "",
-  "longt": 36.2174629,
-  "lati": 49.9641346598,
-  "FullNameUA": "вулиця Москалівська, 132"
+  "FullNameUA": "вулиця Москалівська, 131",
+  "ChildsIds": []
  },
  {
   "id": 149317,
@@ -3472,7 +3584,34 @@
   "reg_date": "",
   "longt": 36.2171732702,
   "lati": 49.964299132,
-  "FullNameUA": "вулиця Москалівська, 132-Б"
+  "FullNameUA": "вулиця Москалівська, 132-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 149316,
+  "postcode": 61157,
+  "number": 132,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:2000",
+  "reg_date": "",
+  "longt": 36.2174629,
+  "lati": 49.9641346598,
+  "FullNameUA": "вулиця Москалівська, 132",
+  "ChildsIds": []
  },
  {
   "id": 149318,
@@ -3497,7 +3636,8 @@
   "reg_date": "",
   "longt": 36.2173215256,
   "lati": 49.9640309614,
-  "FullNameUA": "вулиця Москалівська, 134"
+  "FullNameUA": "вулиця Москалівська, 134",
+  "ChildsIds": []
  },
  {
   "id": 149319,
@@ -3522,7 +3662,8 @@
   "reg_date": "",
   "longt": 36.2171839994,
   "lati": 49.9638808767,
-  "FullNameUA": "вулиця Москалівська, 136"
+  "FullNameUA": "вулиця Москалівська, 136",
+  "ChildsIds": []
  },
  {
   "id": 149320,
@@ -3546,8 +3687,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2169697769,
-  "lati": 49.963744006700004,
-  "FullNameUA": "вулиця Москалівська, 138"
+  "lati": 49.9637440067,
+  "FullNameUA": "вулиця Москалівська, 138",
+  "ChildsIds": []
  },
  {
   "id": 149321,
@@ -3572,7 +3714,8 @@
   "reg_date": "",
   "longt": 36.2169343181,
   "lati": 49.9623454013,
-  "FullNameUA": "вулиця Москалівська, 139"
+  "FullNameUA": "вулиця Москалівська, 139",
+  "ChildsIds": []
  },
  {
   "id": 149322,
@@ -3597,7 +3740,8 @@
   "reg_date": "",
   "longt": 36.2166057155,
   "lati": 49.9634733451,
-  "FullNameUA": "вулиця Москалівська, 140-А"
+  "FullNameUA": "вулиця Москалівська, 140-А",
+  "ChildsIds": []
  },
  {
   "id": 177667,
@@ -3622,7 +3766,8 @@
   "reg_date": "",
   "longt": 36.2168528345,
   "lati": 49.9636151104,
-  "FullNameUA": "вулиця Москалівська, 140"
+  "FullNameUA": "вулиця Москалівська, 140",
+  "ChildsIds": []
  },
  {
   "id": 149323,
@@ -3647,7 +3792,8 @@
   "reg_date": "",
   "longt": 36.216173624,
   "lati": 49.9619482799,
-  "FullNameUA": "вулиця Москалівська, 141"
+  "FullNameUA": "вулиця Москалівська, 141",
+  "ChildsIds": []
  },
  {
   "id": 149324,
@@ -3672,7 +3818,8 @@
   "reg_date": "",
   "longt": 36.2164812551,
   "lati": 49.963361982,
-  "FullNameUA": "вулиця Москалівська, 142"
+  "FullNameUA": "вулиця Москалівська, 142",
+  "ChildsIds": []
  },
  {
   "id": 149326,
@@ -3696,8 +3843,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2159379536,
-  "lati": 49.961759015700004,
-  "FullNameUA": "вулиця Москалівська, 143-А"
+  "lati": 49.9617590157,
+  "FullNameUA": "вулиця Москалівська, 143-А",
+  "ChildsIds": []
  },
  {
   "id": 149325,
@@ -3722,7 +3870,8 @@
   "reg_date": "",
   "longt": 36.2160451352,
   "lati": 49.9618710262,
-  "FullNameUA": "вулиця Москалівська, 143"
+  "FullNameUA": "вулиця Москалівська, 143",
+  "ChildsIds": []
  },
  {
   "id": 149327,
@@ -3747,7 +3896,8 @@
   "reg_date": "",
   "longt": 36.2159965411,
   "lati": 49.962965169,
-  "FullNameUA": "вулиця Москалівська, 144"
+  "FullNameUA": "вулиця Москалівська, 144",
+  "ChildsIds": []
  },
  {
   "id": 149329,
@@ -3772,7 +3922,8 @@
   "reg_date": "",
   "longt": 36.2163840863,
   "lati": 49.9614948522,
-  "FullNameUA": "вулиця Москалівська, 145-А"
+  "FullNameUA": "вулиця Москалівська, 145-А",
+  "ChildsIds": []
  },
  {
   "id": 149328,
@@ -3797,7 +3948,8 @@
   "reg_date": "",
   "longt": 36.215723212,
   "lati": 49.9616053069,
-  "FullNameUA": "вулиця Москалівська, 145"
+  "FullNameUA": "вулиця Москалівська, 145",
+  "ChildsIds": []
  },
  {
   "id": 149330,
@@ -3822,7 +3974,8 @@
   "reg_date": "",
   "longt": 36.2159028984,
   "lati": 49.9628736346,
-  "FullNameUA": "вулиця Москалівська, 146"
+  "FullNameUA": "вулиця Москалівська, 146",
+  "ChildsIds": []
  },
  {
   "id": 149331,
@@ -3847,7 +4000,8 @@
   "reg_date": "",
   "longt": 36.2156082343,
   "lati": 49.9614984819,
-  "FullNameUA": "вулиця Москалівська, 147"
+  "FullNameUA": "вулиця Москалівська, 147",
+  "ChildsIds": []
  },
  {
   "id": 149332,
@@ -3871,8 +4025,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.2156444016,
-  "lati": 49.962707581000004,
-  "FullNameUA": "вулиця Москалівська, 148"
+  "lati": 49.962707581,
+  "FullNameUA": "вулиця Москалівська, 148",
+  "ChildsIds": []
  },
  {
   "id": 149333,
@@ -3895,9 +4050,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215495658900004,
+  "longt": 36.2154956589,
   "lati": 49.9613666096,
-  "FullNameUA": "вулиця Москалівська, 149"
+  "FullNameUA": "вулиця Москалівська, 149",
+  "ChildsIds": []
  },
  {
   "id": 149334,
@@ -3922,7 +4078,8 @@
   "reg_date": "",
   "longt": 36.2151786838,
   "lati": 49.961147745,
-  "FullNameUA": "вулиця Москалівська, 151"
+  "FullNameUA": "вулиця Москалівська, 151",
+  "ChildsIds": []
  },
  {
   "id": 149335,
@@ -3945,9 +4102,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215193848700004,
+  "longt": 36.2151938487,
   "lati": 49.9623631427,
-  "FullNameUA": "вулиця Москалівська, 152"
+  "FullNameUA": "вулиця Москалівська, 152",
+  "ChildsIds": []
  },
  {
   "id": 149336,
@@ -3972,7 +4130,8 @@
   "reg_date": "",
   "longt": 36.215093869,
   "lati": 49.9610755575,
-  "FullNameUA": "вулиця Москалівська, 153"
+  "FullNameUA": "вулиця Москалівська, 153",
+  "ChildsIds": []
  },
  {
   "id": 149338,
@@ -3997,7 +4156,8 @@
   "reg_date": "",
   "longt": 36.2156230829,
   "lati": 49.9609362961,
-  "FullNameUA": "вулиця Москалівська, 153-В"
+  "FullNameUA": "вулиця Москалівська, 153-В",
+  "ChildsIds": []
  },
  {
   "id": 149337,
@@ -4020,9 +4180,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.215469876600004,
+  "longt": 36.2154698766,
   "lati": 49.9609970992,
-  "FullNameUA": "вулиця Москалівська, 153-Б"
+  "FullNameUA": "вулиця Москалівська, 153-Б",
+  "ChildsIds": []
  },
  {
   "id": 149339,
@@ -4047,7 +4208,8 @@
   "reg_date": "",
   "longt": 36.2150897124,
   "lati": 49.9622719191,
-  "FullNameUA": "вулиця Москалівська, 154"
+  "FullNameUA": "вулиця Москалівська, 154",
+  "ChildsIds": []
  },
  {
   "id": 149340,
@@ -4072,7 +4234,8 @@
   "reg_date": "",
   "longt": 36.2148073317,
   "lati": 49.9621630923,
-  "FullNameUA": "вулиця Москалівська, 156"
+  "FullNameUA": "вулиця Москалівська, 156",
+  "ChildsIds": []
  },
  {
   "id": 149341,
@@ -4095,9 +4258,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.214487476900004,
+  "longt": 36.2144874769,
   "lati": 49.9607976119,
-  "FullNameUA": "вулиця Москалівська, 157"
+  "FullNameUA": "вулиця Москалівська, 157",
+  "ChildsIds": []
  },
  {
   "id": 149342,
@@ -4120,9 +4284,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.214738068100004,
+  "longt": 36.2147380681,
   "lati": 49.9620119607,
-  "FullNameUA": "вулиця Москалівська, 158"
+  "FullNameUA": "вулиця Москалівська, 158",
+  "ChildsIds": []
  },
  {
   "id": 149343,
@@ -4147,7 +4312,8 @@
   "reg_date": "",
   "longt": 36.2142214591,
   "lati": 49.9606090044,
-  "FullNameUA": "вулиця Москалівська, 159"
+  "FullNameUA": "вулиця Москалівська, 159",
+  "ChildsIds": []
  },
  {
   "id": 149344,
@@ -4171,8 +4337,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2145047905,
-  "lati": 49.961814403700004,
-  "FullNameUA": "вулиця Москалівська, 160"
+  "lati": 49.9618144037,
+  "FullNameUA": "вулиця Москалівська, 160",
+  "ChildsIds": []
  },
  {
   "id": 149345,
@@ -4197,7 +4364,8 @@
   "reg_date": "",
   "longt": 36.2139298815,
   "lati": 49.960525341,
-  "FullNameUA": "вулиця Москалівська, 161"
+  "FullNameUA": "вулиця Москалівська, 161",
+  "ChildsIds": []
  },
  {
   "id": 149346,
@@ -4222,7 +4390,8 @@
   "reg_date": "",
   "longt": 36.2143678317,
   "lati": 49.9617484743,
-  "FullNameUA": "вулиця Москалівська, 162"
+  "FullNameUA": "вулиця Москалівська, 162",
+  "ChildsIds": []
  },
  {
   "id": 149347,
@@ -4247,7 +4416,8 @@
   "reg_date": "",
   "longt": 36.2140926851,
   "lati": 49.9615243494,
-  "FullNameUA": "вулиця Москалівська, 164"
+  "FullNameUA": "вулиця Москалівська, 164",
+  "ChildsIds": []
  },
  {
   "id": 149348,
@@ -4272,7 +4442,8 @@
   "reg_date": "",
   "longt": 36.2133993864,
   "lati": 49.9603178513,
-  "FullNameUA": "вулиця Москалівська, 165"
+  "FullNameUA": "вулиця Москалівська, 165",
+  "ChildsIds": []
  },
  {
   "id": 149350,
@@ -4297,7 +4468,8 @@
   "reg_date": "",
   "longt": 36.213048159,
   "lati": 49.9602588487,
-  "FullNameUA": "вулиця Москалівська, 167/1"
+  "FullNameUA": "вулиця Москалівська, 167/1",
+  "ChildsIds": []
  },
  {
   "id": 149349,
@@ -4322,7 +4494,8 @@
   "reg_date": "",
   "longt": 36.2142610684,
   "lati": 49.9602821497,
-  "FullNameUA": "вулиця Москалівська, 167"
+  "FullNameUA": "вулиця Москалівська, 167",
+  "ChildsIds": []
  },
  {
   "id": 149351,
@@ -4346,8 +4519,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2115366191,
-  "lati": 49.961184186000004,
-  "FullNameUA": "вулиця Москалівська, 168"
+  "lati": 49.961184186,
+  "FullNameUA": "вулиця Москалівська, 168",
+  "ChildsIds": []
  },
  {
   "id": 149352,
@@ -4372,7 +4546,8 @@
   "reg_date": "",
   "longt": 36.2127526606,
   "lati": 49.9601396176,
-  "FullNameUA": "вулиця Москалівська, 169"
+  "FullNameUA": "вулиця Москалівська, 169",
+  "ChildsIds": []
  },
  {
   "id": 149353,
@@ -4397,7 +4572,8 @@
   "reg_date": "",
   "longt": 36.2125126317,
   "lati": 49.961526769,
-  "FullNameUA": "вулиця Москалівська, 170"
+  "FullNameUA": "вулиця Москалівська, 170",
+  "ChildsIds": []
  },
  {
   "id": 149354,
@@ -4422,7 +4598,8 @@
   "reg_date": "",
   "longt": 36.2132001833,
   "lati": 49.9611824082,
-  "FullNameUA": "вулиця Москалівська, 172"
+  "FullNameUA": "вулиця Москалівська, 172",
+  "ChildsIds": []
  },
  {
   "id": 149355,
@@ -4446,8 +4623,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2124217959,
-  "lati": 49.960022948500004,
-  "FullNameUA": "вулиця Москалівська, 173"
+  "lati": 49.9600229485,
+  "FullNameUA": "вулиця Москалівська, 173",
+  "ChildsIds": []
  },
  {
   "id": 149356,
@@ -4472,7 +4650,8 @@
   "reg_date": "",
   "longt": 36.2125467496,
   "lati": 49.960728456,
-  "FullNameUA": "вулиця Москалівська, 174"
+  "FullNameUA": "вулиця Москалівська, 174",
+  "ChildsIds": []
  },
  {
   "id": 149357,
@@ -4496,8 +4675,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2122150748,
-  "lati": 49.959971205100004,
-  "FullNameUA": "вулиця Москалівська, 175"
+  "lati": 49.9599712051,
+  "FullNameUA": "вулиця Москалівська, 175",
+  "ChildsIds": []
  },
  {
   "id": 149358,
@@ -4521,8 +4701,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2120869533,
-  "lati": 49.960283967500004,
-  "FullNameUA": "вулиця Москалівська, 176"
+  "lati": 49.9602839675,
+  "FullNameUA": "вулиця Москалівська, 176",
+  "ChildsIds": []
  },
  {
   "id": 149359,
@@ -4545,9 +4726,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.211978256100004,
+  "longt": 36.2119782561,
   "lati": 49.9598690062,
-  "FullNameUA": "вулиця Москалівська, 177"
+  "FullNameUA": "вулиця Москалівська, 177",
+  "ChildsIds": []
  },
  {
   "id": 149360,
@@ -4572,7 +4754,8 @@
   "reg_date": "",
   "longt": 36.2118896301,
   "lati": 49.9601857958,
-  "FullNameUA": "вулиця Москалівська, 178"
+  "FullNameUA": "вулиця Москалівська, 178",
+  "ChildsIds": []
  },
  {
   "id": 149361,
@@ -4596,8 +4779,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2118283264,
-  "lati": 49.959784717000005,
-  "FullNameUA": "вулиця Москалівська, 179"
+  "lati": 49.959784717,
+  "FullNameUA": "вулиця Москалівська, 179",
+  "ChildsIds": []
  },
  {
   "id": 149362,
@@ -4622,7 +4806,8 @@
   "reg_date": "",
   "longt": 36.2112345794,
   "lati": 49.9603482115,
-  "FullNameUA": "вулиця Москалівська, 180"
+  "FullNameUA": "вулиця Москалівська, 180",
+  "ChildsIds": []
  },
  {
   "id": 149365,
@@ -4645,9 +4830,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.211106571900004,
+  "longt": 36.2111065719,
   "lati": 49.95985554,
-  "FullNameUA": "вулиця Москалівська, 180-В"
+  "FullNameUA": "вулиця Москалівська, 180-В",
+  "ChildsIds": []
  },
  {
   "id": 149363,
@@ -4672,7 +4858,8 @@
   "reg_date": "",
   "longt": 36.2108349197,
   "lati": 49.9603561275,
-  "FullNameUA": "вулиця Москалівська, 180-А"
+  "FullNameUA": "вулиця Москалівська, 180-А",
+  "ChildsIds": []
  },
  {
   "id": 149364,
@@ -4697,7 +4884,8 @@
   "reg_date": "",
   "longt": 36.2110892605,
   "lati": 49.9601323714,
-  "FullNameUA": "вулиця Москалівська, 180-Б"
+  "FullNameUA": "вулиця Москалівська, 180-Б",
+  "ChildsIds": []
  },
  {
   "id": 149366,
@@ -4721,8 +4909,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2115784332,
-  "lati": 49.959640978100005,
-  "FullNameUA": "вулиця Москалівська, 181"
+  "lati": 49.9596409781,
+  "FullNameUA": "вулиця Москалівська, 181",
+  "ChildsIds": []
  },
  {
   "id": 149367,
@@ -4747,7 +4936,8 @@
   "reg_date": "",
   "longt": 36.2109435351,
   "lati": 49.9597473014,
-  "FullNameUA": "вулиця Москалівська, 182"
+  "FullNameUA": "вулиця Москалівська, 182",
+  "ChildsIds": []
  },
  {
   "id": 149368,
@@ -4772,7 +4962,8 @@
   "reg_date": "",
   "longt": 36.2113264194,
   "lati": 49.9595234876,
-  "FullNameUA": "вулиця Москалівська, 183"
+  "FullNameUA": "вулиця Москалівська, 183",
+  "ChildsIds": []
  },
  {
   "id": 149369,
@@ -4795,9 +4986,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.211595676900004,
+  "longt": 36.2115956769,
   "lati": 49.9595013277,
-  "FullNameUA": "вулиця Москалівська, 183-А"
+  "FullNameUA": "вулиця Москалівська, 183-А",
+  "ChildsIds": []
  },
  {
   "id": 149371,
@@ -4822,32 +5014,8 @@
   "reg_date": "",
   "longt": 36.2104138433,
   "lati": 49.9600855494,
-  "FullNameUA": "вулиця Москалівська, 184-А"
- },
- {
-  "id": 149370,
-  "postcode": 61157,
-  "number": 184,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2105586842,
-  "lati": 49.9597866327,
-  "FullNameUA": "вулиця Москалівська, 184"
+  "FullNameUA": "вулиця Москалівська, 184-А",
+  "ChildsIds": []
  },
  {
   "id": 149372,
@@ -4872,7 +5040,34 @@
   "reg_date": "",
   "longt": 36.2101344147,
   "lati": 49.9599239733,
-  "FullNameUA": "вулиця Москалівська, 184-Б"
+  "FullNameUA": "вулиця Москалівська, 184-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 149370,
+  "postcode": 61157,
+  "number": 184,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2105586842,
+  "lati": 49.9597866327,
+  "FullNameUA": "вулиця Москалівська, 184",
+  "ChildsIds": []
  },
  {
   "id": 149373,
@@ -4895,34 +5090,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.211194549700004,
+  "longt": 36.2111945497,
   "lati": 49.9594284446,
-  "FullNameUA": "вулиця Москалівська, 185"
- },
- {
-  "id": 149375,
-  "postcode": 61157,
-  "number": 186,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2097669467,
-  "lati": 49.959867291500004,
-  "FullNameUA": "вулиця Москалівська, 186-А"
+  "FullNameUA": "вулиця Москалівська, 185",
+  "ChildsIds": []
  },
  {
   "id": 149374,
@@ -4946,8 +5117,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.210522971,
-  "lati": 49.959496371300006,
-  "FullNameUA": "вулиця Москалівська, 186"
+  "lati": 49.9594963713,
+  "FullNameUA": "вулиця Москалівська, 186",
+  "ChildsIds": []
+ },
+ {
+  "id": 149375,
+  "postcode": 61157,
+  "number": 186,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2097669467,
+  "lati": 49.9598672915,
+  "FullNameUA": "вулиця Москалівська, 186-А",
+  "ChildsIds": []
  },
  {
   "id": 149376,
@@ -4971,33 +5169,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2111501671,
-  "lati": 49.959224699800004,
-  "FullNameUA": "вулиця Москалівська, 187"
- },
- {
-  "id": 149377,
-  "postcode": 61157,
-  "number": 188,
-  "suffix": "",
-  "block": "",
-  "streetid": 2675,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.210352343000004,
-  "lati": 49.959373541000005,
-  "FullNameUA": "вулиця Москалівська, 188"
+  "lati": 49.9592246998,
+  "FullNameUA": "вулиця Москалівська, 187",
+  "ChildsIds": []
  },
  {
   "id": 149378,
@@ -5020,9 +5194,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209793203100006,
+  "longt": 36.2097932031,
   "lati": 49.9596551364,
-  "FullNameUA": "вулиця Москалівська, 188-А"
+  "FullNameUA": "вулиця Москалівська, 188-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 149377,
+  "postcode": 61157,
+  "number": 188,
+  "suffix": "",
+  "block": "",
+  "streetid": 2675,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.210352343,
+  "lati": 49.959373541,
+  "FullNameUA": "вулиця Москалівська, 188",
+  "ChildsIds": []
  },
  {
   "id": 149379,
@@ -5047,7 +5248,8 @@
   "reg_date": "",
   "longt": 36.2108096351,
   "lati": 49.9591340494,
-  "FullNameUA": "вулиця Москалівська, 189"
+  "FullNameUA": "вулиця Москалівська, 189",
+  "ChildsIds": []
  },
  {
   "id": 149380,
@@ -5070,9 +5272,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.210177822700004,
-  "lati": 49.959220819600006,
-  "FullNameUA": "вулиця Москалівська, 190"
+  "longt": 36.2101778227,
+  "lati": 49.9592208196,
+  "FullNameUA": "вулиця Москалівська, 190",
+  "ChildsIds": []
  },
  {
   "id": 149381,
@@ -5096,8 +5299,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2106553658,
-  "lati": 49.959057379700006,
-  "FullNameUA": "вулиця Москалівська, 191"
+  "lati": 49.9590573797,
+  "FullNameUA": "вулиця Москалівська, 191",
+  "ChildsIds": []
  },
  {
   "id": 149382,
@@ -5120,9 +5324,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209989413500004,
-  "lati": 49.959082383100004,
-  "FullNameUA": "вулиця Москалівська, 192"
+  "longt": 36.2099894135,
+  "lati": 49.9590823831,
+  "FullNameUA": "вулиця Москалівська, 192",
+  "ChildsIds": []
  },
  {
   "id": 149383,
@@ -5147,7 +5352,8 @@
   "reg_date": "",
   "longt": 36.2104670607,
   "lati": 49.9587991764,
-  "FullNameUA": "вулиця Москалівська, 193"
+  "FullNameUA": "вулиця Москалівська, 193",
+  "ChildsIds": []
  },
  {
   "id": 149384,
@@ -5172,7 +5378,8 @@
   "reg_date": "",
   "longt": 36.2098580925,
   "lati": 49.9589324649,
-  "FullNameUA": "вулиця Москалівська, 194"
+  "FullNameUA": "вулиця Москалівська, 194",
+  "ChildsIds": []
  },
  {
   "id": 149385,
@@ -5196,8 +5403,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.210803072,
-  "lati": 49.958707239000006,
-  "FullNameUA": "вулиця Москалівська, 195"
+  "lati": 49.958707239,
+  "FullNameUA": "вулиця Москалівська, 195",
+  "ChildsIds": []
  },
  {
   "id": 149386,
@@ -5221,8 +5429,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2097608412,
-  "lati": 49.958875898100004,
-  "FullNameUA": "вулиця Москалівська, 196"
+  "lati": 49.9588758981,
+  "FullNameUA": "вулиця Москалівська, 196",
+  "ChildsIds": []
  },
  {
   "id": 149387,
@@ -5247,7 +5456,8 @@
   "reg_date": "",
   "longt": 36.2101853663,
   "lati": 49.9587153019,
-  "FullNameUA": "вулиця Москалівська, 197"
+  "FullNameUA": "вулиця Москалівська, 197",
+  "ChildsIds": []
  },
  {
   "id": 149388,
@@ -5271,8 +5481,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2096040062,
-  "lati": 49.958689039300005,
-  "FullNameUA": "вулиця Москалівська, 198"
+  "lati": 49.9586890393,
+  "FullNameUA": "вулиця Москалівська, 198",
+  "ChildsIds": []
  },
  {
   "id": 149389,
@@ -5297,7 +5508,8 @@
   "reg_date": "",
   "longt": 36.2105682746,
   "lati": 49.9583237147,
-  "FullNameUA": "вулиця Москалівська, 199-А"
+  "FullNameUA": "вулиця Москалівська, 199-А",
+  "ChildsIds": []
  },
  {
   "id": 149390,
@@ -5322,7 +5534,8 @@
   "reg_date": "",
   "longt": 36.2098265273,
   "lati": 49.9566280215,
-  "FullNameUA": "вулиця Москалівська, 199-Б"
+  "FullNameUA": "вулиця Москалівська, 199-Б",
+  "ChildsIds": []
  },
  {
   "id": 149391,
@@ -5347,7 +5560,8 @@
   "reg_date": "",
   "longt": 36.209043618,
   "lati": 49.9587078153,
-  "FullNameUA": "вулиця Москалівська, 200"
+  "FullNameUA": "вулиця Москалівська, 200",
+  "ChildsIds": []
  },
  {
   "id": 149392,
@@ -5372,7 +5586,8 @@
   "reg_date": "",
   "longt": 36.2103971728,
   "lati": 49.9581002173,
-  "FullNameUA": "вулиця Москалівська, 201"
+  "FullNameUA": "вулиця Москалівська, 201",
+  "ChildsIds": []
  },
  {
   "id": 149393,
@@ -5397,7 +5612,8 @@
   "reg_date": "",
   "longt": 36.2101955859,
   "lati": 49.9579603421,
-  "FullNameUA": "вулиця Москалівська, 201-А"
+  "FullNameUA": "вулиця Москалівська, 201-А",
+  "ChildsIds": []
  },
  {
   "id": 149394,
@@ -5420,9 +5636,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209368661700005,
+  "longt": 36.2093686617,
   "lati": 49.9584458355,
-  "FullNameUA": "вулиця Москалівська, 202"
+  "FullNameUA": "вулиця Москалівська, 202",
+  "ChildsIds": []
  },
  {
   "id": 149395,
@@ -5447,7 +5664,8 @@
   "reg_date": "",
   "longt": 36.20985861,
   "lati": 49.9583834461,
-  "FullNameUA": "вулиця Москалівська, 203"
+  "FullNameUA": "вулиця Москалівська, 203",
+  "ChildsIds": []
  },
  {
   "id": 149396,
@@ -5470,9 +5688,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209305063500004,
+  "longt": 36.2093050635,
   "lati": 49.9583671758,
-  "FullNameUA": "вулиця Москалівська, 204"
+  "FullNameUA": "вулиця Москалівська, 204",
+  "ChildsIds": []
  },
  {
   "id": 149397,
@@ -5495,9 +5714,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209628360500005,
-  "lati": 49.958134349000005,
-  "FullNameUA": "вулиця Москалівська, 205"
+  "longt": 36.2096283605,
+  "lati": 49.958134349,
+  "FullNameUA": "вулиця Москалівська, 205",
+  "ChildsIds": []
  },
  {
   "id": 149398,
@@ -5520,9 +5740,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209037780600006,
+  "longt": 36.2090377806,
   "lati": 49.9580663968,
-  "FullNameUA": "вулиця Москалівська, 206"
+  "FullNameUA": "вулиця Москалівська, 206",
+  "ChildsIds": []
  },
  {
   "id": 149399,
@@ -5545,9 +5766,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209482597900006,
+  "longt": 36.2094825979,
   "lati": 49.9579614606,
-  "FullNameUA": "вулиця Москалівська, 207"
+  "FullNameUA": "вулиця Москалівська, 207",
+  "ChildsIds": []
  },
  {
   "id": 149400,
@@ -5571,8 +5793,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2089335099,
-  "lati": 49.957973494700006,
-  "FullNameUA": "вулиця Москалівська, 208"
+  "lati": 49.9579734947,
+  "FullNameUA": "вулиця Москалівська, 208",
+  "ChildsIds": []
  },
  {
   "id": 149401,
@@ -5595,9 +5818,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209451251900006,
+  "longt": 36.2094512519,
   "lati": 49.9577804702,
-  "FullNameUA": "вулиця Москалівська, 209"
+  "FullNameUA": "вулиця Москалівська, 209",
+  "ChildsIds": []
  },
  {
   "id": 149402,
@@ -5620,9 +5844,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208810106200005,
+  "longt": 36.2088101062,
   "lati": 49.957860541,
-  "FullNameUA": "вулиця Москалівська, 210"
+  "FullNameUA": "вулиця Москалівська, 210",
+  "ChildsIds": []
  },
  {
   "id": 149403,
@@ -5647,7 +5872,8 @@
   "reg_date": "",
   "longt": 36.2092094392,
   "lati": 49.9575830523,
-  "FullNameUA": "вулиця Москалівська, 211"
+  "FullNameUA": "вулиця Москалівська, 211",
+  "ChildsIds": []
  },
  {
   "id": 149404,
@@ -5670,9 +5896,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208331036500006,
+  "longt": 36.2083310365,
   "lati": 49.9578904563,
-  "FullNameUA": "вулиця Москалівська, 212"
+  "FullNameUA": "вулиця Москалівська, 212",
+  "ChildsIds": []
  },
  {
   "id": 149405,
@@ -5695,9 +5922,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209011343600004,
+  "longt": 36.2090113436,
   "lati": 49.9574583423,
-  "FullNameUA": "вулиця Москалівська, 213"
+  "FullNameUA": "вулиця Москалівська, 213",
+  "ChildsIds": []
  },
  {
   "id": 149406,
@@ -5721,8 +5949,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2084533803,
-  "lati": 49.957565089000006,
-  "FullNameUA": "вулиця Москалівська, 214"
+  "lati": 49.957565089,
+  "FullNameUA": "вулиця Москалівська, 214",
+  "ChildsIds": []
  },
  {
   "id": 149407,
@@ -5746,8 +5975,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2091227642,
-  "lati": 49.957025403100005,
-  "FullNameUA": "вулиця Москалівська, 215"
+  "lati": 49.9570254031,
+  "FullNameUA": "вулиця Москалівська, 215",
+  "ChildsIds": []
  },
  {
   "id": 149408,
@@ -5772,7 +6002,8 @@
   "reg_date": "",
   "longt": 36.20831526,
   "lati": 49.9574282912,
-  "FullNameUA": "вулиця Москалівська, 216"
+  "FullNameUA": "вулиця Москалівська, 216",
+  "ChildsIds": []
  },
  {
   "id": 149409,
@@ -5797,7 +6028,8 @@
   "reg_date": "",
   "longt": 36.2087110244,
   "lati": 49.9571262524,
-  "FullNameUA": "вулиця Москалівська, 217"
+  "FullNameUA": "вулиця Москалівська, 217",
+  "ChildsIds": []
  },
  {
   "id": 149410,
@@ -5822,7 +6054,8 @@
   "reg_date": "",
   "longt": 36.2076388237,
   "lati": 49.9573488467,
-  "FullNameUA": "вулиця Москалівська, 218"
+  "FullNameUA": "вулиця Москалівська, 218",
+  "ChildsIds": []
  },
  {
   "id": 149411,
@@ -5846,8 +6079,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.208536094,
-  "lati": 49.956939301700004,
-  "FullNameUA": "вулиця Москалівська, 219"
+  "lati": 49.9569393017,
+  "FullNameUA": "вулиця Москалівська, 219",
+  "ChildsIds": []
  },
  {
   "id": 149412,
@@ -5871,8 +6105,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2081235563,
-  "lati": 49.957189227300006,
-  "FullNameUA": "вулиця Москалівська, 220"
+  "lati": 49.9571892273,
+  "FullNameUA": "вулиця Москалівська, 220",
+  "ChildsIds": []
  },
  {
   "id": 149413,
@@ -5895,9 +6130,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208299499800006,
+  "longt": 36.2082994998,
   "lati": 49.9566453074,
-  "FullNameUA": "вулиця Москалівська, 221"
+  "FullNameUA": "вулиця Москалівська, 221",
+  "ChildsIds": []
  },
  {
   "id": 149414,
@@ -5921,8 +6157,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2079787714,
-  "lati": 49.956945619500004,
-  "FullNameUA": "вулиця Москалівська, 222"
+  "lati": 49.9569456195,
+  "FullNameUA": "вулиця Москалівська, 222",
+  "ChildsIds": []
  },
  {
   "id": 175461,
@@ -5945,9 +6182,10 @@
   "same_adr_comm": "",
   "confrm": "823, 23.11.2016; Рішення ХМР № 453_16, 21.12.2016, дод. 3, п. 1",
   "reg_date": "08.12.2016 11:13:32",
-  "longt": 36.2083518505,
-  "lati": 49.956260821700006,
-  "FullNameUA": "вулиця Москалівська, 223"
+  "longt": 36.2084071415,
+  "lati": 49.9562818606,
+  "FullNameUA": "вулиця Москалівська, 223",
+  "ChildsIds": []
  },
  {
   "id": 149415,
@@ -5970,9 +6208,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207947341600004,
+  "longt": 36.2079473416,
   "lati": 49.9567956259,
-  "FullNameUA": "вулиця Москалівська, 224"
+  "FullNameUA": "вулиця Москалівська, 224",
+  "ChildsIds": []
  },
  {
   "id": 149416,
@@ -5996,8 +6235,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2078941154,
-  "lati": 49.956676120800005,
-  "FullNameUA": "вулиця Москалівська, 226"
+  "lati": 49.9566761208,
+  "FullNameUA": "вулиця Москалівська, 226",
+  "ChildsIds": []
  },
  {
   "id": 149417,
@@ -6021,8 +6261,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2077801379,
-  "lati": 49.956538011400006,
-  "FullNameUA": "вулиця Москалівська, 228"
+  "lati": 49.9565380114,
+  "FullNameUA": "вулиця Москалівська, 228",
+  "ChildsIds": []
  },
  {
   "id": 149418,
@@ -6045,9 +6286,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.207690285800005,
-  "lati": 49.956397983200006,
-  "FullNameUA": "вулиця Москалівська, 230"
+  "longt": 36.2076902858,
+  "lati": 49.9563979832,
+  "FullNameUA": "вулиця Москалівська, 230",
+  "ChildsIds": []
  },
  {
   "id": 149419,
@@ -6072,7 +6314,8 @@
   "reg_date": "",
   "longt": 36.2075563342,
   "lati": 49.9562330316,
-  "FullNameUA": "вулиця Москалівська, 232"
+  "FullNameUA": "вулиця Москалівська, 232",
+  "ChildsIds": []
  },
  {
   "id": 149420,
@@ -6096,8 +6339,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2074852873,
-  "lati": 49.956105165800004,
-  "FullNameUA": "вулиця Москалівська, 234"
+  "lati": 49.9561051658,
+  "FullNameUA": "вулиця Москалівська, 234",
+  "ChildsIds": []
  },
  {
   "id": 149421,
@@ -6122,7 +6366,8 @@
   "reg_date": "",
   "longt": 36.2074053441,
   "lati": 49.9559794241,
-  "FullNameUA": "вулиця Москалівська, 236"
+  "FullNameUA": "вулиця Москалівська, 236",
+  "ChildsIds": []
  },
  {
   "id": 149422,
@@ -6147,7 +6392,8 @@
   "reg_date": "",
   "longt": 36.2067268041,
   "lati": 49.9560557398,
-  "FullNameUA": "вулиця Москалівська, 238"
+  "FullNameUA": "вулиця Москалівська, 238",
+  "ChildsIds": []
  },
  {
   "id": 149423,
@@ -6171,8 +6417,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2072733082,
-  "lati": 49.955785543800005,
-  "FullNameUA": "вулиця Москалівська, 240"
+  "lati": 49.9557855438,
+  "FullNameUA": "вулиця Москалівська, 240",
+  "ChildsIds": []
  },
  {
   "id": 149424,
@@ -6196,8 +6443,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2071661789,
-  "lati": 49.955643512900004,
-  "FullNameUA": "вулиця Москалівська, 242"
+  "lati": 49.9556435129,
+  "FullNameUA": "вулиця Москалівська, 242",
+  "ChildsIds": []
  },
  {
   "id": 149425,
@@ -6221,7 +6469,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2087449156,
-  "lati": 49.955265733400005,
-  "FullNameUA": "вулиця Москалівська, 243-А"
+  "lati": 49.9552657334,
+  "FullNameUA": "вулиця Москалівська, 243-А",
+  "ChildsIds": []
  }
 ]

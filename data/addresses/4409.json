@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2706487294,
   "lati": 50.0031448655,
-  "FullNameUA": "провулок Шишкінський, 4"
+  "FullNameUA": "провулок Шишкінський, 4",
+  "ChildsIds": []
  },
  {
   "id": 130286,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2703338605,
   "lati": 50.0030177694,
-  "FullNameUA": "провулок Шишкінський, 5"
+  "FullNameUA": "провулок Шишкінський, 5",
+  "ChildsIds": []
  },
  {
   "id": 130287,
@@ -70,9 +72,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.270336209300005,
+  "longt": 36.2703362093,
   "lati": 50.0034951963,
-  "FullNameUA": "провулок Шишкінський, 6"
+  "FullNameUA": "провулок Шишкінський, 6",
+  "ChildsIds": []
+ },
+ {
+  "id": 125473,
+  "postcode": 61013,
+  "number": 9,
+  "suffix": "А/8",
+  "block": "",
+  "streetid": 4409,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2698058059,
+  "lati": 50.0035785832,
+  "FullNameUA": "провулок Шишкінський, 9А/8",
+  "ChildsIds": []
  },
  {
   "id": 130288,
@@ -95,8 +124,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27005105240001,
+  "longt": 36.2700510524,
   "lati": 50.0033103567,
-  "FullNameUA": "провулок Шишкінський, 9"
+  "FullNameUA": "провулок Шишкінський, 9",
+  "ChildsIds": []
  }
 ]

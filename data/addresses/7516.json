@@ -20,8 +20,37 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.164755707000005,
-  "lati": 49.919808113500004,
-  "FullNameUA": "вулиця Радгоспна (сел. Покотилівка), 2"
+  "longt": 36.164755707,
+  "lati": 49.9198081135,
+  "FullNameUA": "вулиця Радгоспна (сел. Покотилівка), 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 182769,
+  "postcode": 61090,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 7516,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "04.05.2020 16:27:14",
+  "longt": 36.1640783664,
+  "lati": 49.919677359,
+  "FullNameUA": "вулиця Радгоспна (сел. Покотилівка), 3",
+  "ChildsIds": [
+   182768
+  ]
  }
 ]

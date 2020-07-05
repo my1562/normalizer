@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1373334293,
   "lati": 49.9509444743,
-  "FullNameUA": "вулиця Катаєва, 2"
+  "FullNameUA": "вулиця Катаєва, 2",
+  "ChildsIds": []
  },
  {
   "id": 150166,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1379449498,
   "lati": 49.9497487278,
-  "FullNameUA": "вулиця Катаєва, 3"
+  "FullNameUA": "вулиця Катаєва, 3",
+  "ChildsIds": []
  },
  {
   "id": 150167,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.1374720692,
   "lati": 49.9499135098,
-  "FullNameUA": "вулиця Катаєва, 4"
+  "FullNameUA": "вулиця Катаєва, 4",
+  "ChildsIds": []
  },
  {
   "id": 150168,
@@ -96,8 +99,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1381031508,
-  "lati": 49.949998245699994,
-  "FullNameUA": "вулиця Катаєва, 5"
+  "lati": 49.9499982457,
+  "FullNameUA": "вулиця Катаєва, 5",
+  "ChildsIds": []
  },
  {
   "id": 150169,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.137127904500005,
+  "longt": 36.1371279045,
   "lati": 49.9489632784,
-  "FullNameUA": "вулиця Катаєва, 6"
+  "FullNameUA": "вулиця Катаєва, 6",
+  "ChildsIds": []
  },
  {
   "id": 150170,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.138211601,
   "lati": 49.9502712808,
-  "FullNameUA": "вулиця Катаєва, 7"
+  "FullNameUA": "вулиця Катаєва, 7",
+  "ChildsIds": []
  },
  {
   "id": 150171,
@@ -172,7 +178,34 @@
   "reg_date": "",
   "longt": 36.1370389625,
   "lati": 49.948785062,
-  "FullNameUA": "вулиця Катаєва, 8"
+  "FullNameUA": "вулиця Катаєва, 8",
+  "ChildsIds": []
+ },
+ {
+  "id": 182500,
+  "postcode": 61019,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2840,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1397820471,
+  "lati": 49.9500308013,
+  "FullNameUA": "вулиця Катаєва, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 150172,
@@ -195,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.138668305500005,
+  "longt": 36.1386683055,
   "lati": 49.9504636251,
-  "FullNameUA": "вулиця Катаєва, 9"
+  "FullNameUA": "вулиця Катаєва, 9",
+  "ChildsIds": []
  },
  {
   "id": 150173,
@@ -221,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1370003746,
-  "lati": 49.948662708899995,
-  "FullNameUA": "вулиця Катаєва, 10"
+  "lati": 49.9486627089,
+  "FullNameUA": "вулиця Катаєва, 10",
+  "ChildsIds": []
  },
  {
   "id": 150174,
@@ -245,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.138795133200006,
+  "longt": 36.1387951332,
   "lati": 49.9508125949,
-  "FullNameUA": "вулиця Катаєва, 11"
+  "FullNameUA": "вулиця Катаєва, 11",
+  "ChildsIds": []
  },
  {
   "id": 150175,
@@ -270,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.136966439800005,
+  "longt": 36.1369664398,
   "lati": 49.948552529,
-  "FullNameUA": "вулиця Катаєва, 12"
+  "FullNameUA": "вулиця Катаєва, 12",
+  "ChildsIds": []
  },
  {
   "id": 150176,
@@ -297,7 +334,8 @@
   "reg_date": "",
   "longt": 36.1389167935,
   "lati": 49.9511558381,
-  "FullNameUA": "вулиця Катаєва, 13"
+  "FullNameUA": "вулиця Катаєва, 13",
+  "ChildsIds": []
  },
  {
   "id": 150177,
@@ -322,7 +360,34 @@
   "reg_date": "",
   "longt": 36.1369343455,
   "lati": 49.9484381316,
-  "FullNameUA": "вулиця Катаєва, 14"
+  "FullNameUA": "вулиця Катаєва, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 150180,
+  "postcode": 61019,
+  "number": 16,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2840,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1366212469,
+  "lati": 49.9480802273,
+  "FullNameUA": "вулиця Катаєва, 16-Б",
+  "ChildsIds": []
  },
  {
   "id": 150178,
@@ -347,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1368870478,
   "lati": 49.9483219148,
-  "FullNameUA": "вулиця Катаєва, 16"
+  "FullNameUA": "вулиця Катаєва, 16",
+  "ChildsIds": []
  },
  {
   "id": 150179,
@@ -370,34 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.136844774800004,
-  "lati": 49.948202489799996,
-  "FullNameUA": "вулиця Катаєва, 16-А"
- },
- {
-  "id": 150180,
-  "postcode": 61019,
-  "number": 16,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2840,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.136621246900006,
-  "lati": 49.9480802273,
-  "FullNameUA": "вулиця Катаєва, 16-Б"
+  "longt": 36.1368447748,
+  "lati": 49.9482024898,
+  "FullNameUA": "вулиця Катаєва, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 150181,
@@ -420,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.136718837100005,
-  "lati": 49.947966768899995,
-  "FullNameUA": "вулиця Катаєва, 16-В"
+  "longt": 36.1367188371,
+  "lati": 49.9479667689,
+  "FullNameUA": "вулиця Катаєва, 16-В",
+  "ChildsIds": []
  },
  {
   "id": 150182,
@@ -446,8 +489,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1366952228,
-  "lati": 49.947794960699994,
-  "FullNameUA": "вулиця Катаєва, 18"
+  "lati": 49.9477949607,
+  "FullNameUA": "вулиця Катаєва, 18",
+  "ChildsIds": []
  },
  {
   "id": 150183,
@@ -471,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1365980535,
-  "lati": 49.947669842799996,
-  "FullNameUA": "вулиця Катаєва, 20"
+  "lati": 49.9476698428,
+  "FullNameUA": "вулиця Катаєва, 20",
+  "ChildsIds": []
  },
  {
   "id": 150184,
@@ -497,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1362317699,
   "lati": 49.9476029956,
-  "FullNameUA": "вулиця Катаєва, 22"
+  "FullNameUA": "вулиця Катаєва, 22",
+  "ChildsIds": []
  },
  {
   "id": 150185,
@@ -522,7 +568,8 @@
   "reg_date": "",
   "longt": 36.1365563699,
   "lati": 49.9474471374,
-  "FullNameUA": "вулиця Катаєва, 24"
+  "FullNameUA": "вулиця Катаєва, 24",
+  "ChildsIds": []
  },
  {
   "id": 150186,
@@ -545,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.136509892300005,
-  "lati": 49.947334560899996,
-  "FullNameUA": "вулиця Катаєва, 26"
+  "longt": 36.1365098923,
+  "lati": 49.9473345609,
+  "FullNameUA": "вулиця Катаєва, 26",
+  "ChildsIds": []
  },
  {
   "id": 150187,
@@ -570,8 +618,9 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.136459984700004,
-  "lati": 49.947213869799995,
-  "FullNameUA": "вулиця Катаєва, 28"
+  "longt": 36.1364599847,
+  "lati": 49.9472138698,
+  "FullNameUA": "вулиця Катаєва, 28",
+  "ChildsIds": []
  }
 ]

@@ -1,5 +1,61 @@
 [
  {
+  "id": 182911,
+  "postcode": 61195,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7553,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "73",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3565103232,
+  "lati": 50.0450179807,
+  "FullNameUA": "вулиця Приміська (сел. Кулиничі), 5-А, гараж № 73",
+  "ChildsIds": [
+   182909
+  ]
+ },
+ {
+  "id": 182912,
+  "postcode": 61195,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 7553,
+  "status_id": 3,
+  "detail_type_index": 2,
+  "AddressDetailType": {
+   "id": 2,
+   "t_ru": "гараж",
+   "t_ukr": "гараж"
+  },
+  "detail": "гараж № ",
+  "detail_ua": "гараж № ",
+  "detail_number": "74",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3564825905,
+  "lati": 50.0449869057,
+  "FullNameUA": "вулиця Приміська (сел. Кулиничі), 5-А, гараж № 74",
+  "ChildsIds": [
+   182910
+  ]
+ },
+ {
   "id": 178503,
   "postcode": 61195,
   "number": 6,
@@ -22,6 +78,7 @@
   "reg_date": "",
   "longt": 36.3597613777,
   "lati": 50.0431184651,
-  "FullNameUA": "вулиця Приміська (сел. Кулиничі), 6-А"
+  "FullNameUA": "вулиця Приміська (сел. Кулиничі), 6-А",
+  "ChildsIds": []
  }
 ]

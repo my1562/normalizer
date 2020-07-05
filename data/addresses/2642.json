@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.299305508799996,
+  "longt": 36.2993055088,
   "lati": 49.970467161,
-  "FullNameUA": "вулиця Енергетична, 1"
+  "FullNameUA": "вулиця Енергетична, 1",
+  "ChildsIds": []
  },
  {
   "id": 168340,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2954272675,
   "lati": 49.9627603304,
-  "FullNameUA": "вулиця Енергетична, 2"
+  "FullNameUA": "вулиця Енергетична, 2",
+  "ChildsIds": []
  },
  {
   "id": 101998,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2981647417,
   "lati": 49.9680053639,
-  "FullNameUA": "вулиця Енергетична, 3"
+  "FullNameUA": "вулиця Енергетична, 3",
+  "ChildsIds": []
  },
  {
   "id": 168341,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2952874584,
   "lati": 49.9623824216,
-  "FullNameUA": "вулиця Енергетична, 4"
+  "FullNameUA": "вулиця Енергетична, 4",
+  "ChildsIds": []
  },
  {
   "id": 101999,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2966916418,
   "lati": 49.9634517823,
-  "FullNameUA": "вулиця Енергетична, 5"
+  "FullNameUA": "вулиця Енергетична, 5",
+  "ChildsIds": []
  },
  {
   "id": 168342,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2951348393,
   "lati": 49.9620092522,
-  "FullNameUA": "вулиця Енергетична, 6"
+  "FullNameUA": "вулиця Енергетична, 6",
+  "ChildsIds": []
  },
  {
   "id": 102000,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2961846225,
   "lati": 49.9626119293,
-  "FullNameUA": "вулиця Енергетична, 9"
+  "FullNameUA": "вулиця Енергетична, 9",
+  "ChildsIds": []
  },
  {
   "id": 102001,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2959981569,
   "lati": 49.9622492515,
-  "FullNameUA": "вулиця Енергетична, 9-А"
+  "FullNameUA": "вулиця Енергетична, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 102002,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2953727394,
   "lati": 49.9606172664,
-  "FullNameUA": "вулиця Енергетична, 11"
+  "FullNameUA": "вулиця Енергетична, 11",
+  "ChildsIds": []
  },
  {
   "id": 102003,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "01.08.2019 17:57:44",
   "longt": 36.2950265702,
-  "lati": 49.959737900600004,
-  "FullNameUA": "вулиця Енергетична, 15"
+  "lati": 49.9597379006,
+  "FullNameUA": "вулиця Енергетична, 15",
+  "ChildsIds": []
  },
  {
   "id": 102004,
@@ -272,32 +282,8 @@
   "reg_date": "",
   "longt": 36.2962879996,
   "lati": 49.9588747697,
-  "FullNameUA": "вулиця Енергетична, 17"
- },
- {
-  "id": 168343,
-  "postcode": 61036,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 2642,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "31.07.2019 14:19:34",
-  "longt": 36.2901083987,
-  "lati": 49.959378926,
-  "FullNameUA": "вулиця Енергетична, 18"
+  "FullNameUA": "вулиця Енергетична, 17",
+  "ChildsIds": []
  },
  {
   "id": 168344,
@@ -322,6 +308,33 @@
   "reg_date": "31.07.2019 13:02:05",
   "longt": 36.2937473224,
   "lati": 49.9586090927,
-  "FullNameUA": "вулиця Енергетична, 18-А"
+  "FullNameUA": "вулиця Енергетична, 18-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 168343,
+  "postcode": 61036,
+  "number": 18,
+  "suffix": "",
+  "block": "",
+  "streetid": 2642,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "31.07.2019 14:19:34",
+  "longt": 36.2901083987,
+  "lati": 49.959378926,
+  "FullNameUA": "вулиця Енергетична, 18",
+  "ChildsIds": []
  }
 ]

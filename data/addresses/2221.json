@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198636625199995,
-  "lati": 49.970396240599996,
-  "FullNameUA": "вулиця Бондарівська, 3"
+  "longt": 36.1986366252,
+  "lati": 49.9703962406,
+  "FullNameUA": "вулиця Бондарівська, 3",
+  "ChildsIds": []
  },
  {
   "id": 147444,
@@ -47,32 +48,8 @@
   "reg_date": "",
   "longt": 36.1984334913,
   "lati": 49.9708887459,
-  "FullNameUA": "вулиця Бондарівська, 4"
- },
- {
-  "id": 147446,
-  "postcode": 61039,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2221,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.198151062499996,
-  "lati": 49.9703815878,
-  "FullNameUA": "вулиця Бондарівська, 5-А"
+  "FullNameUA": "вулиця Бондарівська, 4",
+  "ChildsIds": []
  },
  {
   "id": 147445,
@@ -97,12 +74,13 @@
   "reg_date": "",
   "longt": 36.1983149337,
   "lati": 49.9704279596,
-  "FullNameUA": "вулиця Бондарівська, 5"
+  "FullNameUA": "вулиця Бондарівська, 5",
+  "ChildsIds": []
  },
  {
-  "id": 147448,
+  "id": 147446,
   "postcode": 61039,
-  "number": 6,
+  "number": 5,
   "suffix": "А",
   "block": "",
   "streetid": 2221,
@@ -120,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.198274605399995,
-  "lati": 49.9705937786,
-  "FullNameUA": "вулиця Бондарівська, 6-А"
+  "longt": 36.1981510625,
+  "lati": 49.9703815878,
+  "FullNameUA": "вулиця Бондарівська, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 147447,
@@ -147,7 +126,34 @@
   "reg_date": "",
   "longt": 36.1984623644,
   "lati": 49.9706207818,
-  "FullNameUA": "вулиця Бондарівська, 6"
+  "FullNameUA": "вулиця Бондарівська, 6",
+  "ChildsIds": []
+ },
+ {
+  "id": 147448,
+  "postcode": 61039,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2221,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1982746054,
+  "lati": 49.9705937786,
+  "FullNameUA": "вулиця Бондарівська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 176972,
@@ -171,8 +177,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.1979609728,
-  "lati": 49.970331512499996,
-  "FullNameUA": "вулиця Бондарівська, 7"
+  "lati": 49.9703315125,
+  "FullNameUA": "вулиця Бондарівська, 7",
+  "ChildsIds": []
  },
  {
   "id": 176970,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.19804627,
   "lati": 49.9705775245,
-  "FullNameUA": "вулиця Бондарівська, 8"
+  "FullNameUA": "вулиця Бондарівська, 8",
+  "ChildsIds": []
  },
  {
   "id": 147449,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1978134619,
   "lati": 49.9701419796,
-  "FullNameUA": "вулиця Бондарівська, 9"
+  "FullNameUA": "вулиця Бондарівська, 9",
+  "ChildsIds": []
  },
  {
   "id": 147450,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.197742004,
-  "lati": 49.970562437299996,
-  "FullNameUA": "вулиця Бондарівська, 10"
+  "lati": 49.9705624373,
+  "FullNameUA": "вулиця Бондарівська, 10",
+  "ChildsIds": []
  },
  {
   "id": 147451,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1976434492,
-  "lati": 49.970323202799996,
-  "FullNameUA": "вулиця Бондарівська, 11"
+  "lati": 49.9703232028,
+  "FullNameUA": "вулиця Бондарівська, 11",
+  "ChildsIds": []
  },
  {
   "id": 147452,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197544611999994,
+  "longt": 36.197544612,
   "lati": 49.9705256264,
-  "FullNameUA": "вулиця Бондарівська, 12"
+  "FullNameUA": "вулиця Бондарівська, 12",
+  "ChildsIds": []
  },
  {
   "id": 147453,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.197439818199996,
+  "longt": 36.1974398182,
   "lati": 49.970294201,
-  "FullNameUA": "вулиця Бондарівська, 13"
+  "FullNameUA": "вулиця Бондарівська, 13",
+  "ChildsIds": []
  },
  {
   "id": 147454,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.197076212,
   "lati": 49.9704563281,
-  "FullNameUA": "вулиця Бондарівська, 14/16"
+  "FullNameUA": "вулиця Бондарівська, 14/16",
+  "ChildsIds": []
  },
  {
   "id": 147455,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1970771015,
-  "lati": 49.970248728899996,
-  "FullNameUA": "вулиця Бондарівська, 15"
+  "lati": 49.9702487289,
+  "FullNameUA": "вулиця Бондарівська, 15",
+  "ChildsIds": []
  },
  {
   "id": 147456,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1965100693,
   "lati": 49.9703331331,
-  "FullNameUA": "вулиця Бондарівська, 16"
+  "FullNameUA": "вулиця Бондарівська, 16",
+  "ChildsIds": []
  },
  {
   "id": 147457,
@@ -420,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196886841899996,
-  "lati": 49.970207584499995,
-  "FullNameUA": "вулиця Бондарівська, 17"
+  "longt": 36.1968868419,
+  "lati": 49.9702075845,
+  "FullNameUA": "вулиця Бондарівська, 17",
+  "ChildsIds": []
  },
  {
   "id": 147458,
@@ -445,8 +462,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.196692863399996,
+  "longt": 36.1966928634,
   "lati": 49.9700398237,
-  "FullNameUA": "вулиця Бондарівська, 19"
+  "FullNameUA": "вулиця Бондарівська, 19",
+  "ChildsIds": []
  }
 ]

@@ -20,34 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.302795794400005,
+  "longt": 36.3027957944,
   "lati": 50.0323444191,
-  "FullNameUA": "в'їзд Старовський 1-й, 1"
- },
- {
-  "id": 128423,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "",
-  "block": "",
-  "streetid": 4025,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3029694557,
-  "lati": 50.0318801241,
-  "FullNameUA": "в'їзд Старовський 1-й, 2"
+  "FullNameUA": "в'їзд Старовський 1-й, 1",
+  "ChildsIds": []
  },
  {
   "id": 128424,
@@ -72,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3031531008,
   "lati": 50.0316013711,
-  "FullNameUA": "в'їзд Старовський 1-й, 2-А"
+  "FullNameUA": "в'їзд Старовський 1-й, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 128425,
@@ -97,7 +74,8 @@
   "reg_date": "",
   "longt": 36.303037072,
   "lati": 50.0314717981,
-  "FullNameUA": "в'їзд Старовський 1-й, 2-Б"
+  "FullNameUA": "в'їзд Старовський 1-й, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 128426,
@@ -121,8 +99,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3029395514,
-  "lati": 50.031231805800005,
-  "FullNameUA": "в'їзд Старовський 1-й, 2-В"
+  "lati": 50.0312318058,
+  "FullNameUA": "в'їзд Старовський 1-й, 2-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 128423,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "",
+  "block": "",
+  "streetid": 4025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3029694557,
+  "lati": 50.0318801241,
+  "FullNameUA": "в'їзд Старовський 1-й, 2",
+  "ChildsIds": []
  },
  {
   "id": 128427,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3028925846,
   "lati": 50.0325123371,
-  "FullNameUA": "в'їзд Старовський 1-й, 3"
+  "FullNameUA": "в'їзд Старовський 1-й, 3",
+  "ChildsIds": []
  },
  {
   "id": 128428,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3032001257,
   "lati": 50.032038635,
-  "FullNameUA": "в'їзд Старовський 1-й, 4"
+  "FullNameUA": "в'їзд Старовський 1-й, 4",
+  "ChildsIds": []
  },
  {
   "id": 128429,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30296223450001,
+  "longt": 36.3029622345,
   "lati": 50.0326983239,
-  "FullNameUA": "в'їзд Старовський 1-й, 5"
+  "FullNameUA": "в'їзд Старовський 1-й, 5",
+  "ChildsIds": []
  },
  {
   "id": 128430,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303395245000004,
+  "longt": 36.303395245,
   "lati": 50.0322963735,
-  "FullNameUA": "в'їзд Старовський 1-й, 6"
+  "FullNameUA": "в'їзд Старовський 1-й, 6",
+  "ChildsIds": []
  },
  {
   "id": 128431,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3030097234,
-  "lati": 50.032844530300004,
-  "FullNameUA": "в'їзд Старовський 1-й, 7"
+  "lati": 50.0328445303,
+  "FullNameUA": "в'їзд Старовський 1-й, 7",
+  "ChildsIds": []
  },
  {
   "id": 128432,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.303507699,
   "lati": 50.0324381259,
-  "FullNameUA": "в'їзд Старовський 1-й, 8"
+  "FullNameUA": "в'їзд Старовський 1-й, 8",
+  "ChildsIds": []
  },
  {
   "id": 128433,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303094571900004,
-  "lati": 50.033034340200004,
-  "FullNameUA": "в'їзд Старовський 1-й, 9"
+  "longt": 36.3030945719,
+  "lati": 50.0330343402,
+  "FullNameUA": "в'їзд Старовський 1-й, 9",
+  "ChildsIds": []
  },
  {
   "id": 128434,
@@ -320,9 +332,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30353940130001,
+  "longt": 36.3035394013,
   "lati": 50.0325592648,
-  "FullNameUA": "в'їзд Старовський 1-й, 10"
+  "FullNameUA": "в'їзд Старовський 1-й, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 183100,
+  "postcode": 61107,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3037858521,
+  "lati": 50.0340156406,
+  "FullNameUA": "в'їзд Старовський 1-й, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 128435,
@@ -345,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30312874210001,
-  "lati": 50.033341861000004,
-  "FullNameUA": "в'їзд Старовський 1-й, 11"
+  "longt": 36.3031287421,
+  "lati": 50.033341861,
+  "FullNameUA": "в'їзд Старовський 1-й, 11",
+  "ChildsIds": []
  },
  {
   "id": 128436,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303446024500005,
+  "longt": 36.3034460245,
   "lati": 50.0327845193,
-  "FullNameUA": "в'їзд Старовський 1-й, 12"
+  "FullNameUA": "в'їзд Старовський 1-й, 12",
+  "ChildsIds": []
  },
  {
   "id": 128437,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303106994500006,
+  "longt": 36.3031069945,
   "lati": 50.0335911777,
-  "FullNameUA": "в'їзд Старовський 1-й, 13"
+  "FullNameUA": "в'їзд Старовський 1-й, 13",
+  "ChildsIds": []
  },
  {
   "id": 128438,
@@ -420,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303586794900006,
+  "longt": 36.3035867949,
   "lati": 50.0329821426,
-  "FullNameUA": "в'їзд Старовський 1-й, 14"
+  "FullNameUA": "в'їзд Старовський 1-й, 14",
+  "ChildsIds": []
  },
  {
   "id": 128439,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.303342289700005,
+  "longt": 36.3033422897,
   "lati": 50.0338923499,
-  "FullNameUA": "в'їзд Старовський 1-й, 15"
+  "FullNameUA": "в'їзд Старовський 1-й, 15",
+  "ChildsIds": []
  },
  {
   "id": 128440,
@@ -472,7 +516,34 @@
   "reg_date": "",
   "longt": 36.3039285457,
   "lati": 50.0331421339,
-  "FullNameUA": "в'їзд Старовський 1-й, 16"
+  "FullNameUA": "в'їзд Старовський 1-й, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 183101,
+  "postcode": 61107,
+  "number": 17,
+  "suffix": "",
+  "block": "",
+  "streetid": 4025,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3036396878,
+  "lati": 50.03424336,
+  "FullNameUA": "в'їзд Старовський 1-й, 17",
+  "ChildsIds": []
  },
  {
   "id": 128441,
@@ -497,7 +568,8 @@
   "reg_date": "",
   "longt": 36.3038064849,
   "lati": 50.0333451171,
-  "FullNameUA": "в'їзд Старовський 1-й, 18"
+  "FullNameUA": "в'їзд Старовський 1-й, 18",
+  "ChildsIds": []
  },
  {
   "id": 128442,
@@ -520,8 +592,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30391530280001,
+  "longt": 36.3039153028,
   "lati": 50.0335013494,
-  "FullNameUA": "в'їзд Старовський 1-й, 20"
+  "FullNameUA": "в'їзд Старовський 1-й, 20",
+  "ChildsIds": []
  }
 ]

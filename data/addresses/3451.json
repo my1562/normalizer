@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2640360709,
-  "lati": 49.943164685599996,
-  "FullNameUA": "вулиця Ньютона, 3"
+  "lati": 49.9431646856,
+  "FullNameUA": "вулиця Ньютона, 3",
+  "ChildsIds": []
  },
  {
   "id": 169425,
@@ -45,34 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2727400241,
-  "lati": 49.9412287419,
-  "FullNameUA": "вулиця Ньютона, 4"
- },
- {
-  "id": 169427,
-  "postcode": 61105,
-  "number": 5,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.271365339000006,
-  "lati": 49.941916997,
-  "FullNameUA": "вулиця Ньютона, 5-А"
+  "longt": 36.271466271,
+  "lati": 49.9414086892,
+  "FullNameUA": "вулиця Ньютона, 4",
+  "ChildsIds": []
  },
  {
   "id": 169426,
@@ -97,7 +74,34 @@
   "reg_date": "",
   "longt": 36.2674214161,
   "lati": 49.9422257983,
-  "FullNameUA": "вулиця Ньютона, 5"
+  "FullNameUA": "вулиця Ньютона, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 169427,
+  "postcode": 61105,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.271365339,
+  "lati": 49.941916997,
+  "FullNameUA": "вулиця Ньютона, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 169428,
@@ -122,7 +126,34 @@
   "reg_date": "",
   "longt": 36.2734528737,
   "lati": 49.9406366187,
-  "FullNameUA": "вулиця Ньютона, 6"
+  "FullNameUA": "вулиця Ньютона, 6",
+  "ChildsIds": []
+ },
+ {
+  "id": 182881,
+  "postcode": 61105,
+  "number": 6,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2734828555,
+  "lati": 49.941166003,
+  "FullNameUA": "вулиця Ньютона, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 169429,
@@ -147,32 +178,8 @@
   "reg_date": "",
   "longt": 36.2732611739,
   "lati": 49.9416848245,
-  "FullNameUA": "вулиця Ньютона, 7"
- },
- {
-  "id": 169431,
-  "postcode": 61105,
-  "number": 7,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2743749173,
-  "lati": 49.9415638999,
-  "FullNameUA": "вулиця Ньютона, 7-Б"
+  "FullNameUA": "вулиця Ньютона, 7",
+  "ChildsIds": []
  },
  {
   "id": 169430,
@@ -197,13 +204,14 @@
   "reg_date": "",
   "longt": 36.2738092785,
   "lati": 49.9416286142,
-  "FullNameUA": "вулиця Ньютона, 7-А"
+  "FullNameUA": "вулиця Ньютона, 7-А",
+  "ChildsIds": []
  },
  {
-  "id": 169432,
+  "id": 169431,
   "postcode": 61105,
-  "number": 8,
-  "suffix": "",
+  "number": 7,
+  "suffix": "Б",
   "block": "",
   "streetid": 3451,
   "status_id": 1,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2744316761,
-  "lati": 49.940626334499996,
-  "FullNameUA": "вулиця Ньютона, 8"
+  "longt": 36.2743749173,
+  "lati": 49.9415638999,
+  "FullNameUA": "вулиця Ньютона, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 169433,
@@ -247,7 +256,34 @@
   "reg_date": "",
   "longt": 36.2743105783,
   "lati": 49.9411099832,
-  "FullNameUA": "вулиця Ньютона, 8-А"
+  "FullNameUA": "вулиця Ньютона, 8-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169432,
+  "postcode": 61105,
+  "number": 8,
+  "suffix": "",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2744316761,
+  "lati": 49.9406263345,
+  "FullNameUA": "вулиця Ньютона, 8",
+  "ChildsIds": []
  },
  {
   "id": 169434,
@@ -270,34 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275654868800004,
+  "longt": 36.2756548688,
   "lati": 49.9412888042,
-  "FullNameUA": "вулиця Ньютона, 9"
- },
- {
-  "id": 169436,
-  "postcode": 61105,
-  "number": 10,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.275265656500004,
-  "lati": 49.940018803899996,
-  "FullNameUA": "вулиця Ньютона, 10-А"
+  "FullNameUA": "вулиця Ньютона, 9",
+  "ChildsIds": []
  },
  {
   "id": 169435,
@@ -322,7 +334,34 @@
   "reg_date": "",
   "longt": 36.2753379297,
   "lati": 49.9405862288,
-  "FullNameUA": "вулиця Ньютона, 10"
+  "FullNameUA": "вулиця Ньютона, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 169436,
+  "postcode": 61105,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2752656565,
+  "lati": 49.9400188039,
+  "FullNameUA": "вулиця Ньютона, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 169437,
@@ -346,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2760489582,
-  "lati": 49.941256099899995,
-  "FullNameUA": "вулиця Ньютона, 11"
+  "lati": 49.9412560999,
+  "FullNameUA": "вулиця Ньютона, 11",
+  "ChildsIds": []
  },
  {
   "id": 169440,
@@ -370,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275971027900006,
+  "longt": 36.2759710279,
   "lati": 49.9402091766,
-  "FullNameUA": "вулиця Ньютона, 12-Б"
+  "FullNameUA": "вулиця Ньютона, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 169439,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.27597856840001,
+  "longt": 36.2759785684,
   "lati": 49.94045382,
-  "FullNameUA": "вулиця Ньютона, 12-А"
+  "FullNameUA": "вулиця Ньютона, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 169438,
@@ -422,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2763726187,
   "lati": 49.9409140174,
-  "FullNameUA": "вулиця Ньютона, 12"
+  "FullNameUA": "вулиця Ньютона, 12",
+  "ChildsIds": []
  },
  {
   "id": 169441,
@@ -445,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276241584500006,
-  "lati": 49.941258757099995,
-  "FullNameUA": "вулиця Ньютона, 13"
+  "longt": 36.2762415845,
+  "lati": 49.9412587571,
+  "FullNameUA": "вулиця Ньютона, 13",
+  "ChildsIds": []
  },
  {
   "id": 169442,
@@ -472,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2771620555,
   "lati": 49.9408277827,
-  "FullNameUA": "вулиця Ньютона, 14"
+  "FullNameUA": "вулиця Ньютона, 14",
+  "ChildsIds": []
  },
  {
   "id": 169443,
@@ -495,34 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276552126400006,
+  "longt": 36.2765521264,
   "lati": 49.9412200899,
-  "FullNameUA": "вулиця Ньютона, 15"
- },
- {
-  "id": 177565,
-  "postcode": 61105,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "in4",
-  "reg_date": "",
-  "longt": 36.2780606611,
-  "lati": 49.940603399699995,
-  "FullNameUA": "вулиця Ньютона, 16"
+  "FullNameUA": "вулиця Ньютона, 15",
+  "ChildsIds": []
  },
  {
   "id": 169444,
@@ -547,7 +568,34 @@
   "reg_date": "",
   "longt": 36.2777810145,
   "lati": 49.9409701995,
-  "FullNameUA": "вулиця Ньютона, 16-А"
+  "FullNameUA": "вулиця Ньютона, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 177565,
+  "postcode": 61105,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "in4",
+  "reg_date": "",
+  "longt": 36.2780606611,
+  "lati": 49.9406033997,
+  "FullNameUA": "вулиця Ньютона, 16",
+  "ChildsIds": []
  },
  {
   "id": 169445,
@@ -570,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277485682000005,
+  "longt": 36.277485682,
   "lati": 49.9412680255,
-  "FullNameUA": "вулиця Ньютона, 17"
+  "FullNameUA": "вулиця Ньютона, 17",
+  "ChildsIds": []
  },
  {
   "id": 169446,
@@ -597,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2780164164,
   "lati": 49.940990076,
-  "FullNameUA": "вулиця Ньютона, 18"
+  "FullNameUA": "вулиця Ньютона, 18",
+  "ChildsIds": []
  },
  {
   "id": 169447,
@@ -621,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2778213355,
-  "lati": 49.941226507799996,
-  "FullNameUA": "вулиця Ньютона, 19"
+  "lati": 49.9412265078,
+  "FullNameUA": "вулиця Ньютона, 19",
+  "ChildsIds": []
  },
  {
   "id": 169448,
@@ -645,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.277674992600005,
+  "longt": 36.2776749926,
   "lati": 49.9414369924,
-  "FullNameUA": "вулиця Ньютона, 19-А"
+  "FullNameUA": "вулиця Ньютона, 19-А",
+  "ChildsIds": []
  },
  {
   "id": 169449,
@@ -670,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278292431900006,
-  "lati": 49.940997779099995,
-  "FullNameUA": "вулиця Ньютона, 20"
+  "longt": 36.2782924319,
+  "lati": 49.9409977791,
+  "FullNameUA": "вулиця Ньютона, 20",
+  "ChildsIds": []
  },
  {
   "id": 169450,
@@ -695,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278029170900005,
-  "lati": 49.941507580999996,
-  "FullNameUA": "вулиця Ньютона, 21"
+  "longt": 36.2780291709,
+  "lati": 49.941507581,
+  "FullNameUA": "вулиця Ньютона, 21",
+  "ChildsIds": []
  },
  {
   "id": 169451,
@@ -720,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278581379900004,
+  "longt": 36.2785813799,
   "lati": 49.9407834038,
-  "FullNameUA": "вулиця Ньютона, 22"
+  "FullNameUA": "вулиця Ньютона, 22",
+  "ChildsIds": []
  },
  {
   "id": 169452,
@@ -746,8 +801,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2781910479,
-  "lati": 49.941332844799994,
-  "FullNameUA": "вулиця Ньютона, 23"
+  "lati": 49.9413328448,
+  "FullNameUA": "вулиця Ньютона, 23",
+  "ChildsIds": []
  },
  {
   "id": 169453,
@@ -770,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278537045200004,
+  "longt": 36.2785370452,
   "lati": 49.9410137079,
-  "FullNameUA": "вулиця Ньютона, 24"
+  "FullNameUA": "вулиця Ньютона, 24",
+  "ChildsIds": []
  },
  {
   "id": 169454,
@@ -797,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2784512335,
   "lati": 49.941549633,
-  "FullNameUA": "вулиця Ньютона, 25"
+  "FullNameUA": "вулиця Ньютона, 25",
+  "ChildsIds": []
  },
  {
   "id": 169455,
@@ -821,33 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.278496722,
-  "lati": 49.941294239499996,
-  "FullNameUA": "вулиця Ньютона, 26"
- },
- {
-  "id": 169457,
-  "postcode": 61105,
-  "number": 27,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.278723033700004,
-  "lati": 49.9417189483,
-  "FullNameUA": "вулиця Ньютона, 27-А"
+  "lati": 49.9412942395,
+  "FullNameUA": "вулиця Ньютона, 26",
+  "ChildsIds": []
  },
  {
   "id": 169456,
@@ -872,7 +906,34 @@
   "reg_date": "",
   "longt": 36.2786401743,
   "lati": 49.9415889821,
-  "FullNameUA": "вулиця Ньютона, 27"
+  "FullNameUA": "вулиця Ньютона, 27",
+  "ChildsIds": []
+ },
+ {
+  "id": 169457,
+  "postcode": 61105,
+  "number": 27,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2787230337,
+  "lati": 49.9417189483,
+  "FullNameUA": "вулиця Ньютона, 27-А",
+  "ChildsIds": []
  },
  {
   "id": 169458,
@@ -897,32 +958,8 @@
   "reg_date": "",
   "longt": 36.2787318023,
   "lati": 49.9413255478,
-  "FullNameUA": "вулиця Ньютона, 28"
- },
- {
-  "id": 169460,
-  "postcode": 61105,
-  "number": 29,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2789676215,
-  "lati": 49.941644990099995,
-  "FullNameUA": "вулиця Ньютона, 29-А"
+  "FullNameUA": "вулиця Ньютона, 28",
+  "ChildsIds": []
  },
  {
   "id": 169459,
@@ -946,8 +983,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2788692231,
-  "lati": 49.941626876899996,
-  "FullNameUA": "вулиця Ньютона, 29"
+  "lati": 49.9416268769,
+  "FullNameUA": "вулиця Ньютона, 29",
+  "ChildsIds": []
+ },
+ {
+  "id": 169460,
+  "postcode": 61105,
+  "number": 29,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2789676215,
+  "lati": 49.9416449901,
+  "FullNameUA": "вулиця Ньютона, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 169461,
@@ -970,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.278991404100005,
-  "lati": 49.941353067899996,
-  "FullNameUA": "вулиця Ньютона, 30"
+  "longt": 36.2789914041,
+  "lati": 49.9413530679,
+  "FullNameUA": "вулиця Ньютона, 30",
+  "ChildsIds": []
  },
  {
   "id": 169462,
@@ -995,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279318635200006,
+  "longt": 36.2793186352,
   "lati": 49.9416720559,
-  "FullNameUA": "вулиця Ньютона, 31"
+  "FullNameUA": "вулиця Ньютона, 31",
+  "ChildsIds": []
  },
  {
   "id": 169463,
@@ -1021,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.279218387,
-  "lati": 49.941376878599996,
-  "FullNameUA": "вулиця Ньютона, 32"
+  "lati": 49.9413768786,
+  "FullNameUA": "вулиця Ньютона, 32",
+  "ChildsIds": []
  },
  {
   "id": 169464,
@@ -1045,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.279550730500006,
+  "longt": 36.2795507305,
   "lati": 49.9417096308,
-  "FullNameUA": "вулиця Ньютона, 33"
+  "FullNameUA": "вулиця Ньютона, 33",
+  "ChildsIds": []
  },
  {
   "id": 169465,
@@ -1072,7 +1140,34 @@
   "reg_date": "",
   "longt": 36.2794125984,
   "lati": 49.9413978299,
-  "FullNameUA": "вулиця Ньютона, 34"
+  "FullNameUA": "вулиця Ньютона, 34",
+  "ChildsIds": []
+ },
+ {
+  "id": 169467,
+  "postcode": 61105,
+  "number": 35,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2801494525,
+  "lati": 49.941970816,
+  "FullNameUA": "вулиця Ньютона, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 169466,
@@ -1097,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.2800015427,
   "lati": 49.941804395,
-  "FullNameUA": "вулиця Ньютона, 35"
- },
- {
-  "id": 169467,
-  "postcode": 61105,
-  "number": 35,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2801494525,
-  "lati": 49.941970815999994,
-  "FullNameUA": "вулиця Ньютона, 35-А"
+  "FullNameUA": "вулиця Ньютона, 35",
+  "ChildsIds": []
  },
  {
   "id": 169468,
@@ -1147,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2796407075,
   "lati": 49.9414275316,
-  "FullNameUA": "вулиця Ньютона, 36"
+  "FullNameUA": "вулиця Ньютона, 36",
+  "ChildsIds": []
  },
  {
   "id": 169469,
@@ -1172,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2803184767,
   "lati": 49.9418275731,
-  "FullNameUA": "вулиця Ньютона, 37"
+  "FullNameUA": "вулиця Ньютона, 37",
+  "ChildsIds": []
  },
  {
   "id": 169470,
@@ -1196,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2798442506,
-  "lati": 49.941457055099995,
-  "FullNameUA": "вулиця Ньютона, 38"
+  "lati": 49.9414570551,
+  "FullNameUA": "вулиця Ньютона, 38",
+  "ChildsIds": []
  },
  {
   "id": 169471,
@@ -1222,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.2823170882,
   "lati": 49.9419160176,
-  "FullNameUA": "вулиця Ньютона, 39"
+  "FullNameUA": "вулиця Ньютона, 39",
+  "ChildsIds": []
  },
  {
   "id": 169472,
@@ -1246,33 +1321,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2800452849,
-  "lati": 49.941478235199995,
-  "FullNameUA": "вулиця Ньютона, 40"
- },
- {
-  "id": 169474,
-  "postcode": 61105,
-  "number": 41,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2823797871,
-  "lati": 49.942071505399994,
-  "FullNameUA": "вулиця Ньютона, 41-А"
+  "lati": 49.9414782352,
+  "FullNameUA": "вулиця Ньютона, 40",
+  "ChildsIds": []
  },
  {
   "id": 169473,
@@ -1297,7 +1348,34 @@
   "reg_date": "",
   "longt": 36.282457911,
   "lati": 49.9419097264,
-  "FullNameUA": "вулиця Ньютона, 41"
+  "FullNameUA": "вулиця Ньютона, 41",
+  "ChildsIds": []
+ },
+ {
+  "id": 169474,
+  "postcode": 61105,
+  "number": 41,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2823797871,
+  "lati": 49.9420715054,
+  "FullNameUA": "вулиця Ньютона, 41-А",
+  "ChildsIds": []
  },
  {
   "id": 169475,
@@ -1321,8 +1399,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2802751956,
-  "lati": 49.941496633899995,
-  "FullNameUA": "вулиця Ньютона, 42"
+  "lati": 49.9414966339,
+  "FullNameUA": "вулиця Ньютона, 42",
+  "ChildsIds": []
  },
  {
   "id": 169476,
@@ -1347,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2830675731,
   "lati": 49.94185803,
-  "FullNameUA": "вулиця Ньютона, 43"
+  "FullNameUA": "вулиця Ньютона, 43",
+  "ChildsIds": []
  },
  {
   "id": 169477,
@@ -1372,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2805295441,
   "lati": 49.9415236415,
-  "FullNameUA": "вулиця Ньютона, 44"
+  "FullNameUA": "вулиця Ньютона, 44",
+  "ChildsIds": []
  },
  {
   "id": 169478,
@@ -1397,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.283441116,
   "lati": 49.9418222773,
-  "FullNameUA": "вулиця Ньютона, 45"
+  "FullNameUA": "вулиця Ньютона, 45",
+  "ChildsIds": []
  },
  {
   "id": 169479,
@@ -1420,34 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.280723197600004,
+  "longt": 36.2807231976,
   "lati": 49.9415427613,
-  "FullNameUA": "вулиця Ньютона, 46"
- },
- {
-  "id": 169480,
-  "postcode": 61105,
-  "number": 47,
-  "suffix": "",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2838284287,
-  "lati": 49.9418052319,
-  "FullNameUA": "вулиця Ньютона, 47"
+  "FullNameUA": "вулиця Ньютона, 46",
+  "ChildsIds": []
  },
  {
   "id": 169481,
@@ -1472,7 +1530,34 @@
   "reg_date": "",
   "longt": 36.2843261311,
   "lati": 49.9417456408,
-  "FullNameUA": "вулиця Ньютона, 47-А"
+  "FullNameUA": "вулиця Ньютона, 47-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169480,
+  "postcode": 61105,
+  "number": 47,
+  "suffix": "",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2838284287,
+  "lati": 49.9418052319,
+  "FullNameUA": "вулиця Ньютона, 47",
+  "ChildsIds": []
  },
  {
   "id": 169482,
@@ -1497,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2831196239,
   "lati": 49.9415711781,
-  "FullNameUA": "вулиця Ньютона, 48"
+  "FullNameUA": "вулиця Ньютона, 48",
+  "ChildsIds": []
  },
  {
   "id": 169483,
@@ -1522,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2847054473,
   "lati": 49.9417072886,
-  "FullNameUA": "вулиця Ньютона, 49"
+  "FullNameUA": "вулиця Ньютона, 49",
+  "ChildsIds": []
  },
  {
   "id": 169484,
@@ -1547,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.2833534918,
   "lati": 49.9415642257,
-  "FullNameUA": "вулиця Ньютона, 50"
+  "FullNameUA": "вулиця Ньютона, 50",
+  "ChildsIds": []
  },
  {
   "id": 169486,
@@ -1572,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2850562757,
   "lati": 49.9417109864,
-  "FullNameUA": "вулиця Ньютона, 51-А"
+  "FullNameUA": "вулиця Ньютона, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 169485,
@@ -1595,9 +1684,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284881555700004,
+  "longt": 36.2848815557,
   "lati": 49.9418375423,
-  "FullNameUA": "вулиця Ньютона, 51"
+  "FullNameUA": "вулиця Ньютона, 51",
+  "ChildsIds": []
  },
  {
   "id": 169487,
@@ -1622,32 +1712,8 @@
   "reg_date": "",
   "longt": 36.2845147126,
   "lati": 49.9414381748,
-  "FullNameUA": "вулиця Ньютона, 52"
- },
- {
-  "id": 169489,
-  "postcode": 61105,
-  "number": 53,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2856605435,
-  "lati": 49.9416206124,
-  "FullNameUA": "вулиця Ньютона, 53-А"
+  "FullNameUA": "вулиця Ньютона, 52",
+  "ChildsIds": []
  },
  {
   "id": 169488,
@@ -1672,7 +1738,34 @@
   "reg_date": "",
   "longt": 36.2859111896,
   "lati": 49.9415965132,
-  "FullNameUA": "вулиця Ньютона, 53"
+  "FullNameUA": "вулиця Ньютона, 53",
+  "ChildsIds": []
+ },
+ {
+  "id": 169489,
+  "postcode": 61105,
+  "number": 53,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2856605435,
+  "lati": 49.9416206124,
+  "FullNameUA": "вулиця Ньютона, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 169490,
@@ -1696,8 +1789,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2857435125,
-  "lati": 49.941331178599995,
-  "FullNameUA": "вулиця Ньютона, 54"
+  "lati": 49.9413311786,
+  "FullNameUA": "вулиця Ньютона, 54",
+  "ChildsIds": []
  },
  {
   "id": 169491,
@@ -1722,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2862503873,
   "lati": 49.9415874576,
-  "FullNameUA": "вулиця Ньютона, 55"
+  "FullNameUA": "вулиця Ньютона, 55",
+  "ChildsIds": []
  },
  {
   "id": 169492,
@@ -1747,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2869044432,
   "lati": 49.9412239888,
-  "FullNameUA": "вулиця Ньютона, 58"
+  "FullNameUA": "вулиця Ньютона, 58",
+  "ChildsIds": []
  },
  {
   "id": 169493,
@@ -1772,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.2869238374,
   "lati": 49.9415189688,
-  "FullNameUA": "вулиця Ньютона, 59"
+  "FullNameUA": "вулиця Ньютона, 59",
+  "ChildsIds": []
  },
  {
   "id": 169494,
@@ -1795,9 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.289865885000005,
+  "longt": 36.289865885,
   "lati": 49.9409478536,
-  "FullNameUA": "вулиця Ньютона, 60"
+  "FullNameUA": "вулиця Ньютона, 60",
+  "ChildsIds": []
  },
  {
   "id": 169495,
@@ -1820,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287144784700004,
+  "longt": 36.2871447847,
   "lati": 49.9416010199,
-  "FullNameUA": "вулиця Ньютона, 61"
+  "FullNameUA": "вулиця Ньютона, 61",
+  "ChildsIds": []
  },
  {
   "id": 169496,
@@ -1847,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.2902679683,
   "lati": 49.9409140362,
-  "FullNameUA": "вулиця Ньютона, 62"
+  "FullNameUA": "вулиця Ньютона, 62",
+  "ChildsIds": []
  },
  {
   "id": 169497,
@@ -1872,7 +1972,8 @@
   "reg_date": "",
   "longt": 36.2877918001,
   "lati": 49.9414725528,
-  "FullNameUA": "вулиця Ньютона, 63"
+  "FullNameUA": "вулиця Ньютона, 63",
+  "ChildsIds": []
  },
  {
   "id": 169498,
@@ -1897,7 +1998,8 @@
   "reg_date": "",
   "longt": 36.2904789432,
   "lati": 49.94088875,
-  "FullNameUA": "вулиця Ньютона, 64"
+  "FullNameUA": "вулиця Ньютона, 64",
+  "ChildsIds": []
  },
  {
   "id": 169499,
@@ -1920,9 +2022,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.288056831300004,
+  "longt": 36.2880568313,
   "lati": 49.9414520422,
-  "FullNameUA": "вулиця Ньютона, 65"
+  "FullNameUA": "вулиця Ньютона, 65",
+  "ChildsIds": []
  },
  {
   "id": 169500,
@@ -1947,7 +2050,8 @@
   "reg_date": "",
   "longt": 36.2906675025,
   "lati": 49.9408639076,
-  "FullNameUA": "вулиця Ньютона, 66"
+  "FullNameUA": "вулиця Ньютона, 66",
+  "ChildsIds": []
  },
  {
   "id": 169501,
@@ -1972,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.2881922802,
   "lati": 49.9415437622,
-  "FullNameUA": "вулиця Ньютона, 67"
+  "FullNameUA": "вулиця Ньютона, 67",
+  "ChildsIds": []
  },
  {
   "id": 169502,
@@ -1996,8 +2101,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2908872463,
-  "lati": 49.940857506099995,
-  "FullNameUA": "вулиця Ньютона, 68"
+  "lati": 49.9408575061,
+  "FullNameUA": "вулиця Ньютона, 68",
+  "ChildsIds": []
  },
  {
   "id": 177274,
@@ -2020,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.288327795600004,
+  "longt": 36.2883277956,
   "lati": 49.941399513,
-  "FullNameUA": "вулиця Ньютона, 69"
+  "FullNameUA": "вулиця Ньютона, 69",
+  "ChildsIds": []
  },
  {
   "id": 169503,
@@ -2045,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.291221483899996,
-  "lati": 49.940830315899994,
-  "FullNameUA": "вулиця Ньютона, 70"
+  "longt": 36.2912214839,
+  "lati": 49.9408303159,
+  "FullNameUA": "вулиця Ньютона, 70",
+  "ChildsIds": []
  },
  {
   "id": 169504,
@@ -2072,7 +2180,8 @@
   "reg_date": "",
   "longt": 36.2894376371,
   "lati": 49.9412692593,
-  "FullNameUA": "вулиця Ньютона, 71"
+  "FullNameUA": "вулиця Ньютона, 71",
+  "ChildsIds": []
  },
  {
   "id": 169505,
@@ -2095,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.291466810399996,
-  "lati": 49.940780114999995,
-  "FullNameUA": "вулиця Ньютона, 72"
+  "longt": 36.2914668104,
+  "lati": 49.940780115,
+  "FullNameUA": "вулиця Ньютона, 72",
+  "ChildsIds": []
  },
  {
   "id": 169506,
@@ -2122,7 +2232,8 @@
   "reg_date": "",
   "longt": 36.289838819,
   "lati": 49.9412444313,
-  "FullNameUA": "вулиця Ньютона, 73"
+  "FullNameUA": "вулиця Ньютона, 73",
+  "ChildsIds": []
  },
  {
   "id": 169507,
@@ -2146,8 +2257,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2916745053,
-  "lati": 49.940775358299994,
-  "FullNameUA": "вулиця Ньютона, 74"
+  "lati": 49.9407753583,
+  "FullNameUA": "вулиця Ньютона, 74",
+  "ChildsIds": []
  },
  {
   "id": 169508,
@@ -2171,8 +2283,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2907997946,
-  "lati": 49.941137992799995,
-  "FullNameUA": "вулиця Ньютона, 75"
+  "lati": 49.9411379928,
+  "FullNameUA": "вулиця Ньютона, 75",
+  "ChildsIds": []
  },
  {
   "id": 169509,
@@ -2197,7 +2310,8 @@
   "reg_date": "",
   "longt": 36.2919908476,
   "lati": 49.9407893087,
-  "FullNameUA": "вулиця Ньютона, 76"
+  "FullNameUA": "вулиця Ньютона, 76",
+  "ChildsIds": []
  },
  {
   "id": 169510,
@@ -2222,7 +2336,8 @@
   "reg_date": "",
   "longt": 36.2911012245,
   "lati": 49.9411381229,
-  "FullNameUA": "вулиця Ньютона, 77"
+  "FullNameUA": "вулиця Ньютона, 77",
+  "ChildsIds": []
  },
  {
   "id": 169511,
@@ -2247,7 +2362,8 @@
   "reg_date": "",
   "longt": 36.2912716529,
   "lati": 49.9411498935,
-  "FullNameUA": "вулиця Ньютона, 79"
+  "FullNameUA": "вулиця Ньютона, 79",
+  "ChildsIds": []
  },
  {
   "id": 169512,
@@ -2271,8 +2387,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2915525652,
-  "lati": 49.941098214899995,
-  "FullNameUA": "вулиця Ньютона, 81"
+  "lati": 49.9410982149,
+  "FullNameUA": "вулиця Ньютона, 81",
+  "ChildsIds": []
  },
  {
   "id": 169513,
@@ -2296,8 +2413,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2917968322,
-  "lati": 49.941042192299996,
-  "FullNameUA": "вулиця Ньютона, 83"
+  "lati": 49.9410421923,
+  "FullNameUA": "вулиця Ньютона, 83",
+  "ChildsIds": []
  },
  {
   "id": 169514,
@@ -2322,32 +2440,8 @@
   "reg_date": "",
   "longt": 36.2920342729,
   "lati": 49.9410669371,
-  "FullNameUA": "вулиця Ньютона, 85"
- },
- {
-  "id": 169516,
-  "postcode": 61105,
-  "number": 87,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.293066685999996,
-  "lati": 49.9409904488,
-  "FullNameUA": "вулиця Ньютона, 87-А"
+  "FullNameUA": "вулиця Ньютона, 85",
+  "ChildsIds": []
  },
  {
   "id": 169515,
@@ -2372,7 +2466,34 @@
   "reg_date": "",
   "longt": 36.292325153,
   "lati": 49.9411187758,
-  "FullNameUA": "вулиця Ньютона, 87"
+  "FullNameUA": "вулиця Ньютона, 87",
+  "ChildsIds": []
+ },
+ {
+  "id": 169516,
+  "postcode": 61105,
+  "number": 87,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.293066686,
+  "lati": 49.9409904488,
+  "FullNameUA": "вулиця Ньютона, 87-А",
+  "ChildsIds": []
  },
  {
   "id": 169517,
@@ -2396,8 +2517,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2934257699,
-  "lati": 49.940958531199996,
-  "FullNameUA": "вулиця Ньютона, 89"
+  "lati": 49.9409585312,
+  "FullNameUA": "вулиця Ньютона, 89",
+  "ChildsIds": []
  },
  {
   "id": 169518,
@@ -2420,9 +2542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.293018749299996,
+  "longt": 36.2930187493,
   "lati": 49.9406076789,
-  "FullNameUA": "вулиця Ньютона, 90"
+  "FullNameUA": "вулиця Ньютона, 90",
+  "ChildsIds": []
  },
  {
   "id": 169519,
@@ -2446,8 +2569,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2936519217,
-  "lati": 49.940939711599995,
-  "FullNameUA": "вулиця Ньютона, 91"
+  "lati": 49.9409397116,
+  "FullNameUA": "вулиця Ньютона, 91",
+  "ChildsIds": []
  },
  {
   "id": 169520,
@@ -2471,8 +2595,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2931801371,
-  "lati": 49.940547692799996,
-  "FullNameUA": "вулиця Ньютона, 92"
+  "lati": 49.9405476928,
+  "FullNameUA": "вулиця Ньютона, 92",
+  "ChildsIds": []
  },
  {
   "id": 169521,
@@ -2497,7 +2622,8 @@
   "reg_date": "",
   "longt": 36.2939496999,
   "lati": 49.9409181404,
-  "FullNameUA": "вулиця Ньютона, 93"
+  "FullNameUA": "вулиця Ньютона, 93",
+  "ChildsIds": []
  },
  {
   "id": 169522,
@@ -2521,8 +2647,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2942888496,
-  "lati": 49.940873893799996,
-  "FullNameUA": "вулиця Ньютона, 95"
+  "lati": 49.9408738938,
+  "FullNameUA": "вулиця Ньютона, 95",
+  "ChildsIds": []
  },
  {
   "id": 169523,
@@ -2547,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.2944685612,
   "lati": 49.9408600167,
-  "FullNameUA": "вулиця Ньютона, 97"
+  "FullNameUA": "вулиця Ньютона, 97",
+  "ChildsIds": []
  },
  {
   "id": 179577,
@@ -2572,7 +2700,8 @@
   "reg_date": "30.07.2018 12:58:49",
   "longt": 36.2968307795,
   "lati": 49.938819551,
-  "FullNameUA": "вулиця Ньютона, 98"
+  "FullNameUA": "вулиця Ньютона, 98",
+  "ChildsIds": []
  },
  {
   "id": 169524,
@@ -2596,8 +2725,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2948387011,
-  "lati": 49.940812510899995,
-  "FullNameUA": "вулиця Ньютона, 99"
+  "lati": 49.9408125109,
+  "FullNameUA": "вулиця Ньютона, 99",
+  "ChildsIds": []
  },
  {
   "id": 179575,
@@ -2622,7 +2752,8 @@
   "reg_date": "30.07.2018 12:56:28",
   "longt": 36.2971335846,
   "lati": 49.938228689,
-  "FullNameUA": "вулиця Ньютона, 100-А"
+  "FullNameUA": "вулиця Ньютона, 100-А",
+  "ChildsIds": []
  },
  {
   "id": 179576,
@@ -2647,7 +2778,8 @@
   "reg_date": "30.07.2018 12:57:31",
   "longt": 36.2956686435,
   "lati": 49.9386298447,
-  "FullNameUA": "вулиця Ньютона, 100-Б"
+  "FullNameUA": "вулиця Ньютона, 100-Б",
+  "ChildsIds": []
  },
  {
   "id": 179574,
@@ -2672,7 +2804,8 @@
   "reg_date": "30.07.2018 12:55:21",
   "longt": 36.2975874232,
   "lati": 49.9383965844,
-  "FullNameUA": "вулиця Ньютона, 100"
+  "FullNameUA": "вулиця Ньютона, 100",
+  "ChildsIds": []
  },
  {
   "id": 169525,
@@ -2697,7 +2830,8 @@
   "reg_date": "",
   "longt": 36.2952466586,
   "lati": 49.9407755039,
-  "FullNameUA": "вулиця Ньютона, 101"
+  "FullNameUA": "вулиця Ньютона, 101",
+  "ChildsIds": []
  },
  {
   "id": 179573,
@@ -2722,7 +2856,8 @@
   "reg_date": "30.07.2018 12:53:41",
   "longt": 36.298434533,
   "lati": 49.9382596436,
-  "FullNameUA": "вулиця Ньютона, 102"
+  "FullNameUA": "вулиця Ньютона, 102",
+  "ChildsIds": []
  },
  {
   "id": 169526,
@@ -2747,7 +2882,8 @@
   "reg_date": "",
   "longt": 36.2962706059,
   "lati": 49.9407329191,
-  "FullNameUA": "вулиця Ньютона, 103"
+  "FullNameUA": "вулиця Ньютона, 103",
+  "ChildsIds": []
  },
  {
   "id": 177700,
@@ -2772,7 +2908,8 @@
   "reg_date": "03.07.2017 10:07:14",
   "longt": 36.2991342731,
   "lati": 49.9380639227,
-  "FullNameUA": "вулиця Ньютона, 104"
+  "FullNameUA": "вулиця Ньютона, 104",
+  "ChildsIds": []
  },
  {
   "id": 169527,
@@ -2797,7 +2934,8 @@
   "reg_date": "",
   "longt": 36.2966769048,
   "lati": 49.9408017587,
-  "FullNameUA": "вулиця Ньютона, 105"
+  "FullNameUA": "вулиця Ньютона, 105",
+  "ChildsIds": []
  },
  {
   "id": 176030,
@@ -2820,9 +2958,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 37, 18.01.2017",
   "reg_date": "26.01.2017 12:26:07",
-  "longt": 36.300335525200005,
+  "longt": 36.3003355252,
   "lati": 49.9377620577,
-  "FullNameUA": "вулиця Ньютона, 106"
+  "FullNameUA": "вулиця Ньютона, 106",
+  "ChildsIds": []
  },
  {
   "id": 169528,
@@ -2845,9 +2984,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298676573499996,
+  "longt": 36.2986765735,
   "lati": 49.9395208365,
-  "FullNameUA": "вулиця Ньютона, 107"
+  "FullNameUA": "вулиця Ньютона, 107",
+  "ChildsIds": []
  },
  {
   "id": 176031,
@@ -2870,9 +3010,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 37, 18.01.2017",
   "reg_date": "26.01.2017 12:27:08",
-  "longt": 36.301253214700004,
+  "longt": 36.3012532147,
   "lati": 49.9377596778,
-  "FullNameUA": "вулиця Ньютона, 108"
+  "FullNameUA": "вулиця Ньютона, 108",
+  "ChildsIds": []
  },
  {
   "id": 169529,
@@ -2897,7 +3038,8 @@
   "reg_date": "",
   "longt": 36.2992850864,
   "lati": 49.9391531798,
-  "FullNameUA": "вулиця Ньютона, 109"
+  "FullNameUA": "вулиця Ньютона, 109",
+  "ChildsIds": []
  },
  {
   "id": 176032,
@@ -2920,9 +3062,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК ХМР № 37, 18.01.2017",
   "reg_date": "26.01.2017 12:28:13",
-  "longt": 36.30209896110001,
+  "longt": 36.3020989611,
   "lati": 49.9374506233,
-  "FullNameUA": "вулиця Ньютона, 110"
+  "FullNameUA": "вулиця Ньютона, 110",
+  "ChildsIds": []
  },
  {
   "id": 169531,
@@ -2945,9 +3088,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.300487707100004,
+  "longt": 36.3004877071,
   "lati": 49.9403171118,
-  "FullNameUA": "вулиця Ньютона, 111-А"
+  "FullNameUA": "вулиця Ньютона, 111-А",
+  "ChildsIds": []
  },
  {
   "id": 169530,
@@ -2970,9 +3114,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30023990390001,
+  "longt": 36.3002399039,
   "lati": 49.9391001656,
-  "FullNameUA": "вулиця Ньютона, 111"
+  "FullNameUA": "вулиця Ньютона, 111",
+  "ChildsIds": []
  },
  {
   "id": 169532,
@@ -2995,9 +3140,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301053482700006,
-  "lati": 49.938934000799996,
-  "FullNameUA": "вулиця Ньютона, 113"
+  "longt": 36.3010534827,
+  "lati": 49.9389340008,
+  "FullNameUA": "вулиця Ньютона, 113",
+  "ChildsIds": []
  },
  {
   "id": 169534,
@@ -3022,7 +3168,8 @@
   "reg_date": "",
   "longt": 36.3016220995,
   "lati": 49.9403505577,
-  "FullNameUA": "вулиця Ньютона, 115-А"
+  "FullNameUA": "вулиця Ньютона, 115-А",
+  "ChildsIds": []
  },
  {
   "id": 169535,
@@ -3045,9 +3192,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304316231200005,
+  "longt": 36.3043162312,
   "lati": 49.9411315415,
-  "FullNameUA": "вулиця Ньютона, 115/2"
+  "FullNameUA": "вулиця Ньютона, 115/2",
+  "ChildsIds": []
  },
  {
   "id": 169536,
@@ -3071,8 +3219,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3034057857,
-  "lati": 49.940453700599996,
-  "FullNameUA": "вулиця Ньютона, 115/1"
+  "lati": 49.9404537006,
+  "FullNameUA": "вулиця Ньютона, 115/1",
+  "ChildsIds": []
  },
  {
   "id": 169537,
@@ -3095,9 +3244,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304028558400006,
-  "lati": 49.940767389799994,
-  "FullNameUA": "вулиця Ньютона, 115/1А"
+  "longt": 36.3040285584,
+  "lati": 49.9407673898,
+  "FullNameUA": "вулиця Ньютона, 115/1А",
+  "ChildsIds": []
  },
  {
   "id": 169533,
@@ -3122,7 +3272,8 @@
   "reg_date": "",
   "longt": 36.3018208275,
   "lati": 49.9388515647,
-  "FullNameUA": "вулиця Ньютона, 115"
+  "FullNameUA": "вулиця Ньютона, 115",
+  "ChildsIds": []
  },
  {
   "id": 169538,
@@ -3145,9 +3296,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304534958400005,
+  "longt": 36.3045349584,
   "lati": 49.9386253764,
-  "FullNameUA": "вулиця Ньютона, 119"
+  "FullNameUA": "вулиця Ньютона, 119",
+  "ChildsIds": []
  },
  {
   "id": 169541,
@@ -3170,9 +3322,10 @@
   "same_adr_comm": "",
   "confrm": "263, 15.09.2009",
   "reg_date": "04.03.2019 09:57:27",
-  "longt": 36.30358389720001,
-  "lati": 49.936958119799996,
-  "FullNameUA": "вулиця Ньютона, 120-Б"
+  "longt": 36.3035838972,
+  "lati": 49.9369581198,
+  "FullNameUA": "вулиця Ньютона, 120-Б",
+  "ChildsIds": []
  },
  {
   "id": 169545,
@@ -3195,9 +3348,10 @@
   "same_adr_comm": "",
   "confrm": "263, 15.09.2009",
   "reg_date": "04.03.2019 09:55:00",
-  "longt": 36.304018499200005,
+  "longt": 36.3040184992,
   "lati": 49.9366203924,
-  "FullNameUA": "вулиця Ньютона, 120-Е"
+  "FullNameUA": "вулиця Ньютона, 120-Е",
+  "ChildsIds": []
  },
  {
   "id": 169539,
@@ -3222,7 +3376,10 @@
   "reg_date": "04.03.2019 09:56:53",
   "longt": 36.3031042829,
   "lati": 49.9368784976,
-  "FullNameUA": "вулиця Ньютона, 120"
+  "FullNameUA": "вулиця Ньютона, 120",
+  "ChildsIds": [
+   181482
+  ]
  },
  {
   "id": 169544,
@@ -3245,9 +3402,10 @@
   "same_adr_comm": "",
   "confrm": "263, 15.09.2009",
   "reg_date": "04.03.2019 09:58:14",
-  "longt": 36.30410791800001,
+  "longt": 36.304107918,
   "lati": 49.9370661682,
-  "FullNameUA": "вулиця Ньютона, 120-Д"
+  "FullNameUA": "вулиця Ньютона, 120-Д",
+  "ChildsIds": []
  },
  {
   "id": 169543,
@@ -3270,9 +3428,10 @@
   "same_adr_comm": "",
   "confrm": "263, 15.09.2009",
   "reg_date": "04.03.2019 09:57:59",
-  "longt": 36.30410748640001,
+  "longt": 36.3041074864,
   "lati": 49.9364120212,
-  "FullNameUA": "вулиця Ньютона, 120-Г"
+  "FullNameUA": "вулиця Ньютона, 120-Г",
+  "ChildsIds": []
  },
  {
   "id": 169542,
@@ -3297,7 +3456,8 @@
   "reg_date": "04.03.2019 09:57:40",
   "longt": 36.303530762,
   "lati": 49.9367132506,
-  "FullNameUA": "вулиця Ньютона, 120-В"
+  "FullNameUA": "вулиця Ньютона, 120-В",
+  "ChildsIds": []
  },
  {
   "id": 169540,
@@ -3322,7 +3482,8 @@
   "reg_date": "04.03.2019 09:57:11",
   "longt": 36.303063639,
   "lati": 49.9362744088,
-  "FullNameUA": "вулиця Ньютона, 120-А"
+  "FullNameUA": "вулиця Ньютона, 120-А",
+  "ChildsIds": []
  },
  {
   "id": 169548,
@@ -3345,9 +3506,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306813543500006,
+  "longt": 36.3068135435,
   "lati": 49.9395383779,
-  "FullNameUA": "вулиця Ньютона, 121-Б"
+  "FullNameUA": "вулиця Ньютона, 121-Б",
+  "ChildsIds": []
  },
  {
   "id": 169547,
@@ -3372,7 +3534,8 @@
   "reg_date": "",
   "longt": 36.3060410395,
   "lati": 49.9392579809,
-  "FullNameUA": "вулиця Ньютона, 121-А"
+  "FullNameUA": "вулиця Ньютона, 121-А",
+  "ChildsIds": []
  },
  {
   "id": 169546,
@@ -3397,7 +3560,8 @@
   "reg_date": "",
   "longt": 36.3052692508,
   "lati": 49.9389790387,
-  "FullNameUA": "вулиця Ньютона, 121"
+  "FullNameUA": "вулиця Ньютона, 121",
+  "ChildsIds": []
  },
  {
   "id": 169549,
@@ -3422,7 +3586,8 @@
   "reg_date": "",
   "longt": 36.304611252,
   "lati": 49.9396255127,
-  "FullNameUA": "вулиця Ньютона, 123"
+  "FullNameUA": "вулиця Ньютона, 123",
+  "ChildsIds": []
  },
  {
   "id": 169552,
@@ -3445,9 +3610,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30679440790001,
+  "longt": 36.3067944079,
   "lati": 49.9401687468,
-  "FullNameUA": "вулиця Ньютона, 123-В"
+  "FullNameUA": "вулиця Ньютона, 123-В",
+  "ChildsIds": []
  },
  {
   "id": 169551,
@@ -3471,8 +3637,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3060334309,
-  "lati": 49.940001774399995,
-  "FullNameUA": "вулиця Ньютона, 123-Б"
+  "lati": 49.9400017744,
+  "FullNameUA": "вулиця Ньютона, 123-Б",
+  "ChildsIds": []
  },
  {
   "id": 169550,
@@ -3497,7 +3664,8 @@
   "reg_date": "",
   "longt": 36.3053231019,
   "lati": 49.9398493886,
-  "FullNameUA": "вулиця Ньютона, 123-А"
+  "FullNameUA": "вулиця Ньютона, 123-А",
+  "ChildsIds": []
  },
  {
   "id": 169553,
@@ -3520,9 +3688,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.312775188100005,
+  "longt": 36.3127751881,
   "lati": 49.9392103811,
-  "FullNameUA": "вулиця Ньютона, 124"
+  "FullNameUA": "вулиця Ньютона, 124",
+  "ChildsIds": []
  },
  {
   "id": 169554,
@@ -3545,9 +3714,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304680078400004,
+  "longt": 36.3046800784,
   "lati": 49.9401520251,
-  "FullNameUA": "вулиця Ньютона, 125"
+  "FullNameUA": "вулиця Ньютона, 125",
+  "ChildsIds": []
  },
  {
   "id": 169555,
@@ -3571,8 +3741,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3045376011,
-  "lati": 49.940587619199995,
-  "FullNameUA": "вулиця Ньютона, 125-А"
+  "lati": 49.9405876192,
+  "FullNameUA": "вулиця Ньютона, 125-А",
+  "ChildsIds": []
  },
  {
   "id": 169557,
@@ -3595,9 +3766,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30586625990001,
-  "lati": 49.941263527699995,
-  "FullNameUA": "вулиця Ньютона, 125-В"
+  "longt": 36.3058662599,
+  "lati": 49.9412635277,
+  "FullNameUA": "вулиця Ньютона, 125-В",
+  "ChildsIds": []
  },
  {
   "id": 169558,
@@ -3620,9 +3792,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.305648269600006,
-  "lati": 49.940488452299995,
-  "FullNameUA": "вулиця Ньютона, 125/1"
+  "longt": 36.3056482696,
+  "lati": 49.9404884523,
+  "FullNameUA": "вулиця Ньютона, 125/1",
+  "ChildsIds": []
  },
  {
   "id": 169559,
@@ -3647,7 +3820,8 @@
   "reg_date": "",
   "longt": 36.3064525321,
   "lati": 49.9407764585,
-  "FullNameUA": "вулиця Ньютона, 125/2"
+  "FullNameUA": "вулиця Ньютона, 125/2",
+  "ChildsIds": []
  },
  {
   "id": 169556,
@@ -3672,7 +3846,8 @@
   "reg_date": "",
   "longt": 36.3052032394,
   "lati": 49.9409260288,
-  "FullNameUA": "вулиця Ньютона, 125-Б"
+  "FullNameUA": "вулиця Ньютона, 125-Б",
+  "ChildsIds": []
  },
  {
   "id": 169560,
@@ -3697,7 +3872,8 @@
   "reg_date": "11.03.2019 14:31:16",
   "longt": 36.3133530534,
   "lati": 49.9397189852,
-  "FullNameUA": "вулиця Ньютона, 126"
+  "FullNameUA": "вулиця Ньютона, 126",
+  "ChildsIds": []
  },
  {
   "id": 169561,
@@ -3722,7 +3898,8 @@
   "reg_date": "",
   "longt": 36.3077067493,
   "lati": 49.9399639133,
-  "FullNameUA": "вулиця Ньютона, 127"
+  "FullNameUA": "вулиця Ньютона, 127",
+  "ChildsIds": []
  },
  {
   "id": 169564,
@@ -3747,7 +3924,8 @@
   "reg_date": "",
   "longt": 36.3080372271,
   "lati": 49.9409850686,
-  "FullNameUA": "вулиця Ньютона, 129-Б"
+  "FullNameUA": "вулиця Ньютона, 129-Б",
+  "ChildsIds": []
  },
  {
   "id": 169565,
@@ -3771,8 +3949,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3076028811,
-  "lati": 49.940556978699995,
-  "FullNameUA": "вулиця Ньютона, 129-В"
+  "lati": 49.9405569787,
+  "FullNameUA": "вулиця Ньютона, 129-В",
+  "ChildsIds": []
  },
  {
   "id": 169563,
@@ -3795,9 +3974,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308470688700005,
+  "longt": 36.3084706887,
   "lati": 49.9414143499,
-  "FullNameUA": "вулиця Ньютона, 129-А"
+  "FullNameUA": "вулиця Ньютона, 129-А",
+  "ChildsIds": []
  },
  {
   "id": 169562,
@@ -3820,9 +4000,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.309004568700004,
+  "longt": 36.3090045687,
   "lati": 49.9418055892,
-  "FullNameUA": "вулиця Ньютона, 129"
+  "FullNameUA": "вулиця Ньютона, 129",
+  "ChildsIds": []
  },
  {
   "id": 169572,
@@ -3847,7 +4028,8 @@
   "reg_date": "",
   "longt": 36.3171237794,
   "lati": 49.9398507569,
-  "FullNameUA": "вулиця Ньютона, 130/12"
+  "FullNameUA": "вулиця Ньютона, 130/12",
+  "ChildsIds": []
  },
  {
   "id": 169566,
@@ -3870,9 +4052,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.315583112700004,
+  "longt": 36.3155831127,
   "lati": 49.9397534102,
-  "FullNameUA": "вулиця Ньютона, 130"
+  "FullNameUA": "вулиця Ньютона, 130",
+  "ChildsIds": []
  },
  {
   "id": 169567,
@@ -3897,7 +4080,8 @@
   "reg_date": "",
   "longt": 36.3157985589,
   "lati": 49.9397658817,
-  "FullNameUA": "вулиця Ньютона, 130/2"
+  "FullNameUA": "вулиця Ньютона, 130/2",
+  "ChildsIds": []
  },
  {
   "id": 169568,
@@ -3920,9 +4104,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.316070686100005,
+  "longt": 36.3160706861,
   "lati": 49.9397836955,
-  "FullNameUA": "вулиця Ньютона, 130/4"
+  "FullNameUA": "вулиця Ньютона, 130/4",
+  "ChildsIds": []
  },
  {
   "id": 169569,
@@ -3945,9 +4130,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.316289699500004,
+  "longt": 36.3162896995,
   "lati": 49.939795944,
-  "FullNameUA": "вулиця Ньютона, 130/6"
+  "FullNameUA": "вулиця Ньютона, 130/6",
+  "ChildsIds": []
  },
  {
   "id": 169570,
@@ -3972,7 +4158,8 @@
   "reg_date": "",
   "longt": 36.3166127457,
   "lati": 49.9398221802,
-  "FullNameUA": "вулиця Ньютона, 130/8"
+  "FullNameUA": "вулиця Ньютона, 130/8",
+  "ChildsIds": []
  },
  {
   "id": 169571,
@@ -3997,7 +4184,8 @@
   "reg_date": "",
   "longt": 36.3169047749,
   "lati": 49.9398399373,
-  "FullNameUA": "вулиця Ньютона, 130/10"
+  "FullNameUA": "вулиця Ньютона, 130/10",
+  "ChildsIds": []
  },
  {
   "id": 169573,
@@ -4020,9 +4208,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30893784960001,
+  "longt": 36.3089378496,
   "lati": 49.9402592154,
-  "FullNameUA": "вулиця Ньютона, 131"
+  "FullNameUA": "вулиця Ньютона, 131",
+  "ChildsIds": []
  },
  {
   "id": 169575,
@@ -4047,7 +4236,8 @@
   "reg_date": "",
   "longt": 36.3213262217,
   "lati": 49.9390390301,
-  "FullNameUA": "вулиця Ньютона, 132-А"
+  "FullNameUA": "вулиця Ньютона, 132-А",
+  "ChildsIds": []
  },
  {
   "id": 169574,
@@ -4072,7 +4262,8 @@
   "reg_date": "",
   "longt": 36.3214489195,
   "lati": 49.940164341,
-  "FullNameUA": "вулиця Ньютона, 132"
+  "FullNameUA": "вулиця Ньютона, 132",
+  "ChildsIds": []
  },
  {
   "id": 169580,
@@ -4095,9 +4286,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.311774969400005,
+  "longt": 36.3117749694,
   "lati": 49.9418194039,
-  "FullNameUA": "вулиця Ньютона, 133-Г"
+  "FullNameUA": "вулиця Ньютона, 133-Г",
+  "ChildsIds": []
  },
  {
   "id": 169579,
@@ -4122,7 +4314,8 @@
   "reg_date": "",
   "longt": 36.3110996873,
   "lati": 49.9414783478,
-  "FullNameUA": "вулиця Ньютона, 133-В"
+  "FullNameUA": "вулиця Ньютона, 133-В",
+  "ChildsIds": []
  },
  {
   "id": 169576,
@@ -4145,9 +4338,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.311649913800004,
+  "longt": 36.3116499138,
   "lati": 49.9404968347,
-  "FullNameUA": "вулиця Ньютона, 133"
+  "FullNameUA": "вулиця Ньютона, 133",
+  "ChildsIds": []
  },
  {
   "id": 169577,
@@ -4172,7 +4366,8 @@
   "reg_date": "",
   "longt": 36.3106008106,
   "lati": 49.940705408,
-  "FullNameUA": "вулиця Ньютона, 133-А"
+  "FullNameUA": "вулиця Ньютона, 133-А",
+  "ChildsIds": []
  },
  {
   "id": 169578,
@@ -4197,7 +4392,8 @@
   "reg_date": "",
   "longt": 36.3104414513,
   "lati": 49.9411435189,
-  "FullNameUA": "вулиця Ньютона, 133-Б"
+  "FullNameUA": "вулиця Ньютона, 133-Б",
+  "ChildsIds": []
  },
  {
   "id": 169581,
@@ -4222,7 +4418,8 @@
   "reg_date": "",
   "longt": 36.3224863143,
   "lati": 49.9400547167,
-  "FullNameUA": "вулиця Ньютона, 134"
+  "FullNameUA": "вулиця Ньютона, 134",
+  "ChildsIds": []
  },
  {
   "id": 181799,
@@ -4247,7 +4444,8 @@
   "reg_date": "",
   "longt": 36.3229038157,
   "lati": 49.939798229,
-  "FullNameUA": "вулиця Ньютона, 134-А"
+  "FullNameUA": "вулиця Ньютона, 134-А",
+  "ChildsIds": []
  },
  {
   "id": 169582,
@@ -4271,8 +4469,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3136355798,
-  "lati": 49.940509074599994,
-  "FullNameUA": "вулиця Ньютона, 135"
+  "lati": 49.9405090746,
+  "FullNameUA": "вулиця Ньютона, 135",
+  "ChildsIds": []
  },
  {
   "id": 169583,
@@ -4297,7 +4496,8 @@
   "reg_date": "",
   "longt": 36.3139605673,
   "lati": 49.9415357208,
-  "FullNameUA": "вулиця Ньютона, 135-А"
+  "FullNameUA": "вулиця Ньютона, 135-А",
+  "ChildsIds": []
  },
  {
   "id": 169590,
@@ -4322,7 +4522,8 @@
   "reg_date": "06.03.2019 11:57:45",
   "longt": 36.3241690529,
   "lati": 49.9399215907,
-  "FullNameUA": "вулиця Ньютона, 136/7"
+  "FullNameUA": "вулиця Ньютона, 136/7",
+  "ChildsIds": []
  },
  {
   "id": 169591,
@@ -4347,7 +4548,8 @@
   "reg_date": "06.03.2019 11:53:49",
   "longt": 36.3243308805,
   "lati": 49.9399270656,
-  "FullNameUA": "вулиця Ньютона, 136/8"
+  "FullNameUA": "вулиця Ньютона, 136/8",
+  "ChildsIds": []
  },
  {
   "id": 169594,
@@ -4372,7 +4574,8 @@
   "reg_date": "06.03.2019 11:42:26",
   "longt": 36.3241101335,
   "lati": 49.9396144592,
-  "FullNameUA": "вулиця Ньютона, 136/11"
+  "FullNameUA": "вулиця Ньютона, 136/11",
+  "ChildsIds": []
  },
  {
   "id": 169595,
@@ -4397,7 +4600,8 @@
   "reg_date": "06.03.2019 11:42:40",
   "longt": 36.3243117926,
   "lati": 49.9396182081,
-  "FullNameUA": "вулиця Ньютона, 136/12"
+  "FullNameUA": "вулиця Ньютона, 136/12",
+  "ChildsIds": []
  },
  {
   "id": 169596,
@@ -4422,7 +4626,8 @@
   "reg_date": "06.03.2019 11:42:53",
   "longt": 36.3245022979,
   "lati": 49.9396440671,
-  "FullNameUA": "вулиця Ньютона, 136/13"
+  "FullNameUA": "вулиця Ньютона, 136/13",
+  "ChildsIds": []
  },
  {
   "id": 169599,
@@ -4446,8 +4651,9 @@
   "confrm": "Рішення ВК Комінтернівської  райради № 209-2, 19.08.2008",
   "reg_date": "06.03.2019 11:40:19",
   "longt": 36.3236352241,
-  "lati": 49.940247341399996,
-  "FullNameUA": "вулиця Ньютона, 136-Б"
+  "lati": 49.9402473414,
+  "FullNameUA": "вулиця Ньютона, 136-Б",
+  "ChildsIds": []
  },
  {
   "id": 169601,
@@ -4472,7 +4678,8 @@
   "reg_date": "06.03.2019 11:41:23",
   "longt": 36.3238506994,
   "lati": 49.9398956342,
-  "FullNameUA": "вулиця Ньютона, 136-Г"
+  "FullNameUA": "вулиця Ньютона, 136-Г",
+  "ChildsIds": []
  },
  {
   "id": 169589,
@@ -4497,7 +4704,8 @@
   "reg_date": "06.03.2019 11:53:35",
   "longt": 36.324019531,
   "lati": 49.9399158526,
-  "FullNameUA": "вулиця Ньютона, 136/6"
+  "FullNameUA": "вулиця Ньютона, 136/6",
+  "ChildsIds": []
  },
  {
   "id": 169586,
@@ -4522,7 +4730,8 @@
   "reg_date": "06.03.2019 11:52:46",
   "longt": 36.3242706948,
   "lati": 49.9402834055,
-  "FullNameUA": "вулиця Ньютона, 136/3"
+  "FullNameUA": "вулиця Ньютона, 136/3",
+  "ChildsIds": []
  },
  {
   "id": 169585,
@@ -4546,8 +4755,9 @@
   "confrm": "Рішення ВК Комінтернівської  райради № 174-1, 17.07.2007",
   "reg_date": "06.03.2019 11:52:31",
   "longt": 36.3241102556,
-  "lati": 49.940267201699996,
-  "FullNameUA": "вулиця Ньютона, 136/2"
+  "lati": 49.9402672017,
+  "FullNameUA": "вулиця Ньютона, 136/2",
+  "ChildsIds": []
  },
  {
   "id": 169584,
@@ -4572,7 +4782,8 @@
   "reg_date": "06.03.2019 11:41:40",
   "longt": 36.3239462223,
   "lati": 49.9402640901,
-  "FullNameUA": "вулиця Ньютона, 136/1"
+  "FullNameUA": "вулиця Ньютона, 136/1",
+  "ChildsIds": []
  },
  {
   "id": 169600,
@@ -4597,7 +4808,8 @@
   "reg_date": "06.03.2019 11:40:43",
   "longt": 36.3237900609,
   "lati": 49.9402528535,
-  "FullNameUA": "вулиця Ньютона, 136-В"
+  "FullNameUA": "вулиця Ньютона, 136-В",
+  "ChildsIds": []
  },
  {
   "id": 169587,
@@ -4622,7 +4834,8 @@
   "reg_date": "06.03.2019 11:53:02",
   "longt": 36.3244329552,
   "lati": 49.9402972233,
-  "FullNameUA": "вулиця Ньютона, 136/4"
+  "FullNameUA": "вулиця Ньютона, 136/4",
+  "ChildsIds": []
  },
  {
   "id": 169593,
@@ -4645,9 +4858,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Комінтернівської  райради № 174-1, 17.07.2007",
   "reg_date": "06.03.2019 11:58:19",
-  "longt": 36.324660820300004,
+  "longt": 36.3246608203,
   "lati": 49.9399480039,
-  "FullNameUA": "вулиця Ньютона, 136/10"
+  "FullNameUA": "вулиця Ньютона, 136/10",
+  "ChildsIds": []
  },
  {
   "id": 169598,
@@ -4671,8 +4885,9 @@
   "confrm": "Рішення ВК Комінтернівської  райради № 209-2, 19.08.2008",
   "reg_date": "06.03.2019 11:34:30",
   "longt": 36.3234747813,
-  "lati": 49.940237306099995,
-  "FullNameUA": "вулиця Ньютона, 136-А"
+  "lati": 49.9402373061,
+  "FullNameUA": "вулиця Ньютона, 136-А",
+  "ChildsIds": []
  },
  {
   "id": 169588,
@@ -4697,7 +4912,8 @@
   "reg_date": "06.03.2019 11:53:22",
   "longt": 36.3245929923,
   "lati": 49.9403084313,
-  "FullNameUA": "вулиця Ньютона, 136/5"
+  "FullNameUA": "вулиця Ньютона, 136/5",
+  "ChildsIds": []
  },
  {
   "id": 169592,
@@ -4722,7 +4938,8 @@
   "reg_date": "06.03.2019 11:54:03",
   "longt": 36.3244930423,
   "lati": 49.9399365794,
-  "FullNameUA": "вулиця Ньютона, 136/9"
+  "FullNameUA": "вулиця Ньютона, 136/9",
+  "ChildsIds": []
  },
  {
   "id": 169597,
@@ -4747,7 +4964,8 @@
   "reg_date": "06.03.2019 11:14:17",
   "longt": 36.3247120226,
   "lati": 49.9396244211,
-  "FullNameUA": "вулиця Ньютона, 136/14"
+  "FullNameUA": "вулиця Ньютона, 136/14",
+  "ChildsIds": []
  },
  {
   "id": 169602,
@@ -4772,32 +4990,8 @@
   "reg_date": "",
   "longt": 36.3147042716,
   "lati": 49.9407523335,
-  "FullNameUA": "вулиця Ньютона, 137"
- },
- {
-  "id": 178913,
-  "postcode": 61096,
-  "number": 138,
-  "suffix": "",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3255220447,
-  "lati": 49.9391806667,
-  "FullNameUA": "вулиця Ньютона, 138"
+  "FullNameUA": "вулиця Ньютона, 137",
+  "ChildsIds": []
  },
  {
   "id": 169607,
@@ -4820,9 +5014,88 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.317047038300004,
+  "longt": 36.3170470383,
   "lati": 49.9421070521,
-  "FullNameUA": "вулиця Ньютона, 139-Г"
+  "FullNameUA": "вулиця Ньютона, 139-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 169604,
+  "postcode": 61096,
+  "number": 139,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3160734397,
+  "lati": 49.9410490981,
+  "FullNameUA": "вулиця Ньютона, 139-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169603,
+  "postcode": 61096,
+  "number": 139,
+  "suffix": "",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3171298559,
+  "lati": 49.9408337285,
+  "FullNameUA": "вулиця Ньютона, 139",
+  "ChildsIds": []
+ },
+ {
+  "id": 169606,
+  "postcode": 61096,
+  "number": 139,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3451,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3163798514,
+  "lati": 49.9417720988,
+  "FullNameUA": "вулиця Ньютона, 139-В",
+  "ChildsIds": []
  },
  {
   "id": 169605,
@@ -4847,82 +5120,8 @@
   "reg_date": "",
   "longt": 36.3157139985,
   "lati": 49.9414329879,
-  "FullNameUA": "вулиця Ньютона, 139-Б"
- },
- {
-  "id": 169606,
-  "postcode": 61096,
-  "number": 139,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3163798514,
-  "lati": 49.941772098799994,
-  "FullNameUA": "вулиця Ньютона, 139-В"
- },
- {
-  "id": 169604,
-  "postcode": 61096,
-  "number": 139,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.316073439700006,
-  "lati": 49.941049098099995,
-  "FullNameUA": "вулиця Ньютона, 139-А"
- },
- {
-  "id": 169603,
-  "postcode": 61096,
-  "number": 139,
-  "suffix": "",
-  "block": "",
-  "streetid": 3451,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3171298559,
-  "lati": 49.940833728499996,
-  "FullNameUA": "вулиця Ньютона, 139"
+  "FullNameUA": "вулиця Ньютона, 139-Б",
+  "ChildsIds": []
  },
  {
   "id": 181089,
@@ -4947,7 +5146,8 @@
   "reg_date": "",
   "longt": 36.3252498606,
   "lati": 49.9400937793,
-  "FullNameUA": "вулиця Ньютона, 140"
+  "FullNameUA": "вулиця Ньютона, 140",
+  "ChildsIds": []
  },
  {
   "id": 169608,
@@ -4972,7 +5172,8 @@
   "reg_date": "",
   "longt": 36.3191044889,
   "lati": 49.9408533843,
-  "FullNameUA": "вулиця Ньютона, 141"
+  "FullNameUA": "вулиця Ньютона, 141",
+  "ChildsIds": []
  },
  {
   "id": 181088,
@@ -4997,7 +5198,8 @@
   "reg_date": "",
   "longt": 36.3252091449,
   "lati": 49.9403404288,
-  "FullNameUA": "вулиця Ньютона, 142"
+  "FullNameUA": "вулиця Ньютона, 142",
+  "ChildsIds": []
  },
  {
   "id": 169610,
@@ -5022,7 +5224,8 @@
   "reg_date": "",
   "longt": 36.3194434329,
   "lati": 49.9418740503,
-  "FullNameUA": "вулиця Ньютона, 143-А"
+  "FullNameUA": "вулиця Ньютона, 143-А",
+  "ChildsIds": []
  },
  {
   "id": 169609,
@@ -5046,8 +5249,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3201648884,
-  "lati": 49.941209925399995,
-  "FullNameUA": "вулиця Ньютона, 143"
+  "lati": 49.9412099254,
+  "FullNameUA": "вулиця Ньютона, 143",
+  "ChildsIds": []
  },
  {
   "id": 169611,
@@ -5072,7 +5276,8 @@
   "reg_date": "",
   "longt": 36.3181587643,
   "lati": 49.9419900486,
-  "FullNameUA": "вулиця Ньютона, 143-Б"
+  "FullNameUA": "вулиця Ньютона, 143-Б",
+  "ChildsIds": []
  },
  {
   "id": 169612,
@@ -5096,8 +5301,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3257207019,
-  "lati": 49.940349904799994,
-  "FullNameUA": "вулиця Ньютона, 144"
+  "lati": 49.9403499048,
+  "FullNameUA": "вулиця Ньютона, 144",
+  "ChildsIds": []
  },
  {
   "id": 169613,
@@ -5122,7 +5328,8 @@
   "reg_date": "",
   "longt": 36.3219441073,
   "lati": 49.9410270725,
-  "FullNameUA": "вулиця Ньютона, 145"
+  "FullNameUA": "вулиця Ньютона, 145",
+  "ChildsIds": []
  },
  {
   "id": 169614,
@@ -5146,8 +5353,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.326052695,
-  "lati": 49.940389886599995,
-  "FullNameUA": "вулиця Ньютона, 146"
+  "lati": 49.9403898866,
+  "FullNameUA": "вулиця Ньютона, 146",
+  "ChildsIds": []
  },
  {
   "id": 178909,
@@ -5171,8 +5379,11 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3264895617,
-  "lati": 49.940405893699996,
-  "FullNameUA": "вулиця Ньютона, 148"
+  "lati": 49.9404058937,
+  "FullNameUA": "вулиця Ньютона, 148",
+  "ChildsIds": [
+   169619
+  ]
  },
  {
   "id": 178910,
@@ -5197,7 +5408,8 @@
   "reg_date": "",
   "longt": 36.3264879924,
   "lati": 49.9406437443,
-  "FullNameUA": "вулиця Ньютона, 148-В"
+  "FullNameUA": "вулиця Ньютона, 148-В",
+  "ChildsIds": []
  },
  {
   "id": 169615,
@@ -5222,7 +5434,10 @@
   "reg_date": "",
   "longt": 36.3264609668,
   "lati": 49.9401546673,
-  "FullNameUA": "вулиця Ньютона, 150"
+  "FullNameUA": "вулиця Ньютона, 150",
+  "ChildsIds": [
+   169620
+  ]
  },
  {
   "id": 169616,
@@ -5246,8 +5461,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3260603606,
-  "lati": 49.940045651199995,
-  "FullNameUA": "вулиця Ньютона, 152"
+  "lati": 49.9400456512,
+  "FullNameUA": "вулиця Ньютона, 152",
+  "ChildsIds": []
  },
  {
   "id": 169617,
@@ -5272,7 +5488,8 @@
   "reg_date": "",
   "longt": 36.3272453255,
   "lati": 49.9403401386,
-  "FullNameUA": "вулиця Ньютона, 154"
+  "FullNameUA": "вулиця Ньютона, 154",
+  "ChildsIds": []
  },
  {
   "id": 169618,
@@ -5297,7 +5514,8 @@
   "reg_date": "",
   "longt": 36.3277803322,
   "lati": 49.9403802521,
-  "FullNameUA": "вулиця Ньютона, 156"
+  "FullNameUA": "вулиця Ньютона, 156",
+  "ChildsIds": []
  },
  {
   "id": 169619,
@@ -5322,7 +5540,8 @@
   "reg_date": "28.12.2019 14:42:27",
   "longt": 36.3271203078,
   "lati": 49.9408200468,
-  "FullNameUA": "вулиця Ньютона, 160"
+  "FullNameUA": "вулиця Ньютона, 160",
+  "ChildsIds": []
  },
  {
   "id": 169620,
@@ -5345,8 +5564,9 @@
   "same_adr_comm": "",
   "confrm": "594, 17.08.2011",
   "reg_date": "28.12.2019 14:43:23",
-  "longt": 36.327536514500004,
-  "lati": 49.940924586899996,
-  "FullNameUA": "вулиця Ньютона, 160-А"
+  "longt": 36.3275365145,
+  "lati": 49.9409245869,
+  "FullNameUA": "вулиця Ньютона, 160-А",
+  "ChildsIds": []
  }
 ]

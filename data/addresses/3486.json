@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.2467937307,
   "lati": 49.9528758972,
-  "FullNameUA": "вулиця Оранжерейна, 3"
+  "FullNameUA": "вулиця Оранжерейна, 3",
+  "ChildsIds": []
  },
  {
   "id": 164353,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2464528089,
-  "lati": 49.952634243000006,
-  "FullNameUA": "вулиця Оранжерейна, 4"
+  "lati": 49.952634243,
+  "FullNameUA": "вулиця Оранжерейна, 4",
+  "ChildsIds": []
  },
  {
   "id": 164354,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2470126348,
   "lati": 49.9527688467,
-  "FullNameUA": "вулиця Оранжерейна, 5"
+  "FullNameUA": "вулиця Оранжерейна, 5",
+  "ChildsIds": []
  },
  {
   "id": 164355,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2467191364,
   "lati": 49.9525020325,
-  "FullNameUA": "вулиця Оранжерейна, 6"
+  "FullNameUA": "вулиця Оранжерейна, 6",
+  "ChildsIds": []
  },
  {
   "id": 164356,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246366267300004,
+  "longt": 36.2463662673,
   "lati": 49.9523688163,
-  "FullNameUA": "вулиця Оранжерейна, 6-А"
+  "FullNameUA": "вулиця Оранжерейна, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 164357,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.2460704678,
   "lati": 49.9522819469,
-  "FullNameUA": "вулиця Оранжерейна, 6-Б"
- },
- {
-  "id": 164359,
-  "postcode": 61030,
-  "number": 7,
-  "suffix": "/9",
-  "block": "",
-  "streetid": 3486,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2483547662,
-  "lati": 49.953055150400004,
-  "FullNameUA": "вулиця Оранжерейна, 7/9"
+  "FullNameUA": "вулиця Оранжерейна, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 164358,
@@ -196,8 +177,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2472316307,
-  "lati": 49.952673102300004,
-  "FullNameUA": "вулиця Оранжерейна, 7"
+  "lati": 49.9526731023,
+  "FullNameUA": "вулиця Оранжерейна, 7",
+  "ChildsIds": []
+ },
+ {
+  "id": 164359,
+  "postcode": 61030,
+  "number": 7,
+  "suffix": "/9",
+  "block": "",
+  "streetid": 3486,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2483547662,
+  "lati": 49.9530551504,
+  "FullNameUA": "вулиця Оранжерейна, 7/9",
+  "ChildsIds": []
  },
  {
   "id": 164360,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2486256971,
-  "lati": 49.953152405000004,
-  "FullNameUA": "вулиця Оранжерейна, 8"
+  "lati": 49.953152405,
+  "FullNameUA": "вулиця Оранжерейна, 8",
+  "ChildsIds": []
  },
  {
   "id": 178727,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2492275981,
   "lati": 49.9534023813,
-  "FullNameUA": "вулиця Оранжерейна, 9-А"
+  "FullNameUA": "вулиця Оранжерейна, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 164361,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.248925202900004,
+  "longt": 36.2489252029,
   "lati": 49.9532366711,
-  "FullNameUA": "вулиця Оранжерейна, 9"
+  "FullNameUA": "вулиця Оранжерейна, 9",
+  "ChildsIds": []
  },
  {
   "id": 178728,
@@ -296,7 +307,60 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.24966214,
-  "lati": 49.953520620300004,
-  "FullNameUA": "вулиця Оранжерейна, 11"
+  "lati": 49.9535206203,
+  "FullNameUA": "вулиця Оранжерейна, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 182023,
+  "postcode": 61124,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 3486,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2498987111,
+  "lati": 49.9536404885,
+  "FullNameUA": "вулиця Оранжерейна, 13",
+  "ChildsIds": []
+ },
+ {
+  "id": 182024,
+  "postcode": 61124,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3486,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2501646013,
+  "lati": 49.9537260613,
+  "FullNameUA": "вулиця Оранжерейна, 15",
+  "ChildsIds": []
  }
 ]

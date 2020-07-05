@@ -16,63 +16,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "496, 12.08.2015",
-  "reg_date": "",
-  "longt": 36.357505932900004,
-  "lati": 49.952202052800004,
-  "FullNameUA": "вулиця Пожарського, 1"
- },
- {
-  "id": 112155,
-  "postcode": 61046,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 3638,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3563663902,
-  "lati": 49.9494733734,
-  "FullNameUA": "вулиця Пожарського, 3"
- },
- {
-  "id": 179986,
-  "postcode": 61046,
-  "number": 3,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3638,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.356034278900005,
-  "lati": 49.9490211391,
-  "FullNameUA": "вулиця Пожарського, 3-Б"
+  "reg_date": "22.01.2020 17:50:01",
+  "longt": 36.3575059329,
+  "lati": 49.9522020528,
+  "FullNameUA": "вулиця Пожарського, 1",
+  "ChildsIds": []
  },
  {
   "id": 105310,
@@ -97,7 +48,60 @@
   "reg_date": "",
   "longt": 36.3551621851,
   "lati": 49.9474952732,
-  "FullNameUA": "вулиця Пожарського, 3-А"
+  "FullNameUA": "вулиця Пожарського, 3-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 112155,
+  "postcode": 61046,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 3638,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3563663902,
+  "lati": 49.9494733734,
+  "FullNameUA": "вулиця Пожарського, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 179986,
+  "postcode": 61046,
+  "number": 3,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3638,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3560342789,
+  "lati": 49.9490211391,
+  "FullNameUA": "вулиця Пожарського, 3-Б",
+  "ChildsIds": []
  },
  {
   "id": 105311,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3547271056,
   "lati": 49.9475766722,
-  "FullNameUA": "вулиця Пожарського, 4"
+  "FullNameUA": "вулиця Пожарського, 4",
+  "ChildsIds": []
  },
  {
   "id": 105312,
@@ -146,8 +151,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3551031147,
-  "lati": 49.947349497699996,
-  "FullNameUA": "вулиця Пожарського, 5"
+  "lati": 49.9473494977,
+  "FullNameUA": "вулиця Пожарського, 5",
+  "ChildsIds": []
  },
  {
   "id": 105313,
@@ -171,8 +177,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3546546294,
-  "lati": 49.947404158999994,
-  "FullNameUA": "вулиця Пожарського, 6"
+  "lati": 49.947404159,
+  "FullNameUA": "вулиця Пожарського, 6",
+  "ChildsIds": []
  },
  {
   "id": 105314,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3550120347,
   "lati": 49.9471922571,
-  "FullNameUA": "вулиця Пожарського, 7"
+  "FullNameUA": "вулиця Пожарського, 7",
+  "ChildsIds": []
  },
  {
   "id": 105315,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3545934149,
-  "lati": 49.947262633099996,
-  "FullNameUA": "вулиця Пожарського, 8"
+  "lati": 49.9472626331,
+  "FullNameUA": "вулиця Пожарського, 8",
+  "ChildsIds": []
  },
  {
   "id": 105316,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3550361327,
-  "lati": 49.947031101499995,
-  "FullNameUA": "вулиця Пожарського, 9"
+  "lati": 49.9470311015,
+  "FullNameUA": "вулиця Пожарського, 9",
+  "ChildsIds": []
  },
  {
   "id": 105318,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3561897903,
   "lati": 49.9523447005,
-  "FullNameUA": "вулиця Пожарського, 10/2"
+  "FullNameUA": "вулиця Пожарського, 10/2",
+  "ChildsIds": []
  },
  {
   "id": 105317,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3545194873,
-  "lati": 49.947107157699996,
-  "FullNameUA": "вулиця Пожарського, 10"
+  "lati": 49.9471071577,
+  "FullNameUA": "вулиця Пожарського, 10",
+  "ChildsIds": []
  },
  {
   "id": 105319,
@@ -321,8 +333,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3548910238,
-  "lati": 49.946887574499996,
-  "FullNameUA": "вулиця Пожарського, 11"
+  "lati": 49.9468875745,
+  "FullNameUA": "вулиця Пожарського, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 105321,
+  "postcode": 61046,
+  "number": 12,
+  "suffix": "/15",
+  "block": "",
+  "streetid": 3638,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3543297872,
+  "lati": 49.9466505393,
+  "FullNameUA": "вулиця Пожарського, 12/15",
+  "ChildsIds": []
+ },
+ {
+  "id": 105322,
+  "postcode": 61046,
+  "number": 12,
+  "suffix": "/64",
+  "block": "",
+  "streetid": 3638,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3557713576,
+  "lati": 49.9502439864,
+  "FullNameUA": "вулиця Пожарського, 12/64",
+  "ChildsIds": []
  },
  {
   "id": 105320,
@@ -347,57 +412,8 @@
   "reg_date": "",
   "longt": 36.3544602828,
   "lati": 49.9469512305,
-  "FullNameUA": "вулиця Пожарського, 12"
- },
- {
-  "id": 105321,
-  "postcode": 61046,
-  "number": 12,
-  "suffix": "/15",
-  "block": "",
-  "streetid": 3638,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3543297872,
-  "lati": 49.946650539299995,
-  "FullNameUA": "вулиця Пожарського, 12/15"
- },
- {
-  "id": 105322,
-  "postcode": 61046,
-  "number": 12,
-  "suffix": "/64",
-  "block": "",
-  "streetid": 3638,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3557713576,
-  "lati": 49.950243986400004,
-  "FullNameUA": "вулиця Пожарського, 12/64"
+  "FullNameUA": "вулиця Пожарського, 12",
+  "ChildsIds": []
  },
  {
   "id": 105323,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3548203604,
   "lati": 49.9467224819,
-  "FullNameUA": "вулиця Пожарського, 13"
+  "FullNameUA": "вулиця Пожарського, 13",
+  "ChildsIds": []
  },
  {
   "id": 105324,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.3555153845,
   "lati": 49.9496512915,
-  "FullNameUA": "вулиця Пожарського, 14"
+  "FullNameUA": "вулиця Пожарського, 14",
+  "ChildsIds": []
  },
  {
   "id": 105325,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3541768327,
   "lati": 49.9461799649,
-  "FullNameUA": "вулиця Пожарського, 14/1"
+  "FullNameUA": "вулиця Пожарського, 14/1",
+  "ChildsIds": []
  },
  {
   "id": 105326,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3547626475,
   "lati": 49.9465739347,
-  "FullNameUA": "вулиця Пожарського, 15"
+  "FullNameUA": "вулиця Пожарського, 15",
+  "ChildsIds": []
  },
  {
   "id": 105327,
@@ -521,8 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3552653894,
-  "lati": 49.949058266399994,
-  "FullNameUA": "вулиця Пожарського, 16"
+  "lati": 49.9490582664,
+  "FullNameUA": "вулиця Пожарського, 16",
+  "ChildsIds": []
  },
  {
   "id": 179179,
@@ -547,32 +568,8 @@
   "reg_date": "",
   "longt": 36.3546838532,
   "lati": 49.9464269546,
-  "FullNameUA": "вулиця Пожарського, 17/17"
- },
- {
-  "id": 105329,
-  "postcode": 61046,
-  "number": 18,
-  "suffix": "/63",
-  "block": "",
-  "streetid": 3638,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.355018795700005,
-  "lati": 49.9484699397,
-  "FullNameUA": "вулиця Пожарського, 18/63"
+  "FullNameUA": "вулиця Пожарського, 17/17",
+  "ChildsIds": []
  },
  {
   "id": 105328,
@@ -595,9 +592,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.353979047100005,
+  "longt": 36.3539790471,
   "lati": 49.9456818612,
-  "FullNameUA": "вулиця Пожарського, 18"
+  "FullNameUA": "вулиця Пожарського, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 105329,
+  "postcode": 61046,
+  "number": 18,
+  "suffix": "/63",
+  "block": "",
+  "streetid": 3638,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3550187957,
+  "lati": 49.9484699397,
+  "FullNameUA": "вулиця Пожарського, 18/63",
+  "ChildsIds": []
  },
  {
   "id": 105330,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3544524209,
   "lati": 49.9458605289,
-  "FullNameUA": "вулиця Пожарського, 19"
+  "FullNameUA": "вулиця Пожарського, 19",
+  "ChildsIds": []
  },
  {
   "id": 105331,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3539152648,
   "lati": 49.9454891965,
-  "FullNameUA": "вулиця Пожарського, 20/7"
+  "FullNameUA": "вулиця Пожарського, 20/7",
+  "ChildsIds": []
  },
  {
   "id": 105332,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3543625576,
   "lati": 49.9456211136,
-  "FullNameUA": "вулиця Пожарського, 21"
+  "FullNameUA": "вулиця Пожарського, 21",
+  "ChildsIds": []
  },
  {
   "id": 105333,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3542126544,
   "lati": 49.9453568124,
-  "FullNameUA": "вулиця Пожарського, 23/9"
+  "FullNameUA": "вулиця Пожарського, 23/9",
+  "ChildsIds": []
  },
  {
   "id": 105334,
@@ -721,8 +749,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3535717134,
-  "lati": 49.944753355299994,
-  "FullNameUA": "вулиця Пожарського, 24/11"
+  "lati": 49.9447533553,
+  "FullNameUA": "вулиця Пожарського, 24/11",
+  "ChildsIds": []
  },
  {
   "id": 105335,
@@ -747,6 +776,7 @@
   "reg_date": "",
   "longt": 36.3539195837,
   "lati": 49.9445993816,
-  "FullNameUA": "вулиця Пожарського, 29/13"
+  "FullNameUA": "вулиця Пожарського, 29/13",
+  "ChildsIds": []
  }
 ]

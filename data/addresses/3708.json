@@ -1,9 +1,9 @@
 [
  {
-  "id": 127282,
+  "id": 127283,
   "postcode": 61107,
   "number": 1,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 3708,
   "status_id": 1,
@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30820677050001,
-  "lati": 50.0371814963,
-  "FullNameUA": "провулок Променистий, 1"
+  "longt": 36.3084765557,
+  "lati": 50.0370989705,
+  "FullNameUA": "провулок Променистий, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 127284,
@@ -45,15 +46,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30790822630001,
+  "longt": 36.3079082263,
   "lati": 50.0370871235,
-  "FullNameUA": "провулок Променистий, 1-Б"
+  "FullNameUA": "провулок Променистий, 1-Б",
+  "ChildsIds": []
  },
  {
-  "id": 127283,
+  "id": 127282,
   "postcode": 61107,
   "number": 1,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 3708,
   "status_id": 1,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308476555700004,
-  "lati": 50.037098970500004,
-  "FullNameUA": "провулок Променистий, 1-А"
+  "longt": 36.3082067705,
+  "lati": 50.0371814963,
+  "FullNameUA": "провулок Променистий, 1",
+  "ChildsIds": []
  },
  {
   "id": 127285,
@@ -95,34 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307821669400006,
+  "longt": 36.3078216694,
   "lati": 50.0374411859,
-  "FullNameUA": "провулок Променистий, 2"
- },
- {
-  "id": 127286,
-  "postcode": 61107,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3708,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3075834448,
-  "lati": 50.0372869598,
-  "FullNameUA": "провулок Променистий, 3-А"
+  "FullNameUA": "провулок Променистий, 2",
+  "ChildsIds": []
  },
  {
   "id": 175395,
@@ -147,7 +126,60 @@
   "reg_date": "",
   "longt": 36.3070433959,
   "lati": 50.0364952472,
-  "FullNameUA": "провулок Променистий, 3-Б"
+  "FullNameUA": "провулок Променистий, 3-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 127286,
+  "postcode": 61107,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3708,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3075834448,
+  "lati": 50.0372869598,
+  "FullNameUA": "провулок Променистий, 3-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 127288,
+  "postcode": 61107,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3708,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3071460488,
+  "lati": 50.0376093864,
+  "FullNameUA": "провулок Променистий, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 127287,
@@ -172,32 +204,8 @@
   "reg_date": "",
   "longt": 36.3073054055,
   "lati": 50.0375300396,
-  "FullNameUA": "провулок Променистий, 4"
- },
- {
-  "id": 127288,
-  "postcode": 61107,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3708,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.30714604880001,
-  "lati": 50.0376093864,
-  "FullNameUA": "провулок Променистий, 4-А"
+  "FullNameUA": "провулок Променистий, 4",
+  "ChildsIds": []
  },
  {
   "id": 127289,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30731579730001,
+  "longt": 36.3073157973,
   "lati": 50.0373162477,
-  "FullNameUA": "провулок Променистий, 5"
+  "FullNameUA": "провулок Променистий, 5",
+  "ChildsIds": []
  },
  {
   "id": 175394,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.3069604148,
   "lati": 50.0367573014,
-  "FullNameUA": "провулок Променистий, 5-В"
+  "FullNameUA": "провулок Променистий, 5-В",
+  "ChildsIds": []
  },
  {
   "id": 127290,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3063917089,
-  "lati": 50.037908721200004,
-  "FullNameUA": "провулок Променистий, 6"
+  "lati": 50.0379087212,
+  "FullNameUA": "провулок Променистий, 6",
+  "ChildsIds": []
  },
  {
   "id": 175774,
@@ -295,9 +306,12 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.307153701800004,
-  "lati": 50.0379445153,
-  "FullNameUA": "провулок Променистий, 6-Д"
+  "longt": 36.3072911831,
+  "lati": 50.0380194072,
+  "FullNameUA": "провулок Променистий, 6-Д",
+  "ChildsIds": [
+   182406
+  ]
  },
  {
   "id": 179415,
@@ -320,9 +334,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.307745487800005,
+  "longt": 36.3077454878,
   "lati": 50.0378579996,
-  "FullNameUA": "провулок Променистий, 6-Ж"
+  "FullNameUA": "провулок Променистий, 6-Ж",
+  "ChildsIds": []
  },
  {
   "id": 176724,
@@ -345,9 +360,10 @@
   "same_adr_comm": "",
   "confrm": "549, 22.02.2017",
   "reg_date": "16.03.2017 10:27:31",
-  "longt": 36.30644118200001,
+  "longt": 36.306441182,
   "lati": 50.0373344507,
-  "FullNameUA": "провулок Променистий, 7-Б"
+  "FullNameUA": "провулок Променистий, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 175393,
@@ -371,8 +387,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3066548099,
-  "lati": 50.036960534900004,
-  "FullNameUA": "провулок Променистий, 7-В"
+  "lati": 50.0369605349,
+  "FullNameUA": "провулок Променистий, 7-В",
+  "ChildsIds": []
  },
  {
   "id": 127291,
@@ -395,9 +412,10 @@
   "same_adr_comm": "",
   "confrm": "149, 09.03.2016",
   "reg_date": "11.01.2020 11:03:27",
-  "longt": 36.306733043600005,
+  "longt": 36.3067330436,
   "lati": 50.0373157716,
-  "FullNameUA": "провулок Променистий, 7"
+  "FullNameUA": "провулок Променистий, 7",
+  "ChildsIds": []
  },
  {
   "id": 176715,
@@ -420,15 +438,16 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 549, 22.02.2017",
   "reg_date": "16.03.2017 10:00:01",
-  "longt": 36.306515269200005,
+  "longt": 36.3065152692,
   "lati": 50.037323275,
-  "FullNameUA": "провулок Променистий, 7-А"
+  "FullNameUA": "провулок Променистий, 7-А",
+  "ChildsIds": []
  },
  {
-  "id": 175775,
+  "id": 127293,
   "postcode": 61107,
   "number": 8,
-  "suffix": "Д",
+  "suffix": "А",
   "block": "",
   "streetid": 3708,
   "status_id": 1,
@@ -441,13 +460,43 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3082832309,
-  "lati": 50.038336686,
-  "FullNameUA": "провулок Променистий, 8-Д"
+  "confrm": "1735, 24.12.2014",
+  "reg_date": "08.01.2020 12:46:15",
+  "longt": 36.3060588837,
+  "lati": 50.0381506087,
+  "FullNameUA": "провулок Променистий, 8-А",
+  "ChildsIds": [
+   127295,
+   127294
+  ]
+ },
+ {
+  "id": 127295,
+  "postcode": 61107,
+  "number": 8,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3708,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "1735, 24.12.2014",
+  "reg_date": "08.01.2020 14:26:03",
+  "longt": 36.3060776949,
+  "lati": 50.0383211137,
+  "FullNameUA": "провулок Променистий, 8-В",
+  "ChildsIds": []
  },
  {
   "id": 127294,
@@ -472,7 +521,8 @@
   "reg_date": "08.01.2020 12:48:38",
   "longt": 36.3060582879,
   "lati": 50.0382312483,
-  "FullNameUA": "провулок Променистий, 8-Б"
+  "FullNameUA": "провулок Променистий, 8-Б",
+  "ChildsIds": []
  },
  {
   "id": 127292,
@@ -495,15 +545,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.306018898800005,
-  "lati": 50.037941817000004,
-  "FullNameUA": "провулок Променистий, 8"
+  "longt": 36.3060188988,
+  "lati": 50.037941817,
+  "FullNameUA": "провулок Променистий, 8",
+  "ChildsIds": []
  },
  {
-  "id": 127295,
+  "id": 175775,
   "postcode": 61107,
   "number": 8,
-  "suffix": "В",
+  "suffix": "Д",
   "block": "",
   "streetid": 3708,
   "status_id": 1,
@@ -516,38 +567,16 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
+  "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "1735, 24.12.2014",
-  "reg_date": "08.01.2020 14:26:03",
-  "longt": 36.306077694900004,
-  "lati": 50.0383211137,
-  "FullNameUA": "провулок Променистий, 8-В"
- },
- {
-  "id": 127293,
-  "postcode": 61107,
-  "number": 8,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3708,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "1735, 24.12.2014",
-  "reg_date": "08.01.2020 12:46:15",
-  "longt": 36.306058883700004,
-  "lati": 50.0381506087,
-  "FullNameUA": "провулок Променистий, 8-А"
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3082832309,
+  "lati": 50.038336686,
+  "FullNameUA": "провулок Променистий, 8-Д",
+  "ChildsIds": [
+   179739
+  ]
  },
  {
   "id": 175392,
@@ -570,9 +599,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30634591490001,
+  "longt": 36.3063459149,
   "lati": 50.0371694851,
-  "FullNameUA": "провулок Променистий, 9-В"
+  "FullNameUA": "провулок Променистий, 9-В",
+  "ChildsIds": []
  },
  {
   "id": 175391,
@@ -597,7 +627,8 @@
   "reg_date": "15.03.2017 15:29:27",
   "longt": 36.3063386421,
   "lati": 50.0373670333,
-  "FullNameUA": "провулок Променистий, 9"
+  "FullNameUA": "провулок Променистий, 9",
+  "ChildsIds": []
  },
  {
   "id": 176713,
@@ -622,7 +653,8 @@
   "reg_date": "16.03.2017 09:42:03",
   "longt": 36.3060997532,
   "lati": 50.0374337909,
-  "FullNameUA": "провулок Променистий, 9-Г"
+  "FullNameUA": "провулок Променистий, 9-Г",
+  "ChildsIds": []
  },
  {
   "id": 176712,
@@ -645,9 +677,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 549, 22.02.2017",
   "reg_date": "16.03.2017 09:30:49",
-  "longt": 36.306188991300004,
+  "longt": 36.3061889913,
   "lati": 50.0374145296,
-  "FullNameUA": "провулок Променистий, 9-Б"
+  "FullNameUA": "провулок Променистий, 9-Б",
+  "ChildsIds": []
  },
  {
   "id": 176711,
@@ -670,9 +703,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 549, 22.02.2017",
   "reg_date": "16.03.2017 09:06:41",
-  "longt": 36.30625420410001,
+  "longt": 36.3062542041,
   "lati": 50.0373910398,
-  "FullNameUA": "провулок Променистий, 9-А"
+  "FullNameUA": "провулок Променистий, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 175776,
@@ -696,8 +730,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3083784629,
-  "lati": 50.038523787900004,
-  "FullNameUA": "провулок Променистий, 10"
+  "lati": 50.0385237879,
+  "FullNameUA": "провулок Променистий, 10",
+  "ChildsIds": []
  },
  {
   "id": 175781,
@@ -722,7 +757,8 @@
   "reg_date": "",
   "longt": 36.308589496,
   "lati": 50.0389024867,
-  "FullNameUA": "провулок Променистий, 12-А"
+  "FullNameUA": "провулок Променистий, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 175782,
@@ -745,9 +781,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30869814020001,
+  "longt": 36.3086981402,
   "lati": 50.0391424443,
-  "FullNameUA": "провулок Променистий, 14-А"
+  "FullNameUA": "провулок Променистий, 14-А",
+  "ChildsIds": []
  },
  {
   "id": 175783,
@@ -770,9 +807,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.308914790900005,
+  "longt": 36.3089147909,
   "lati": 50.0395224564,
-  "FullNameUA": "провулок Променистий, 16-А"
+  "FullNameUA": "провулок Променистий, 16-А",
+  "ChildsIds": []
  },
  {
   "id": 175784,
@@ -797,7 +835,8 @@
   "reg_date": "",
   "longt": 36.3091396387,
   "lati": 50.0398341908,
-  "FullNameUA": "провулок Променистий, 18-А"
+  "FullNameUA": "провулок Променистий, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 175785,
@@ -822,6 +861,7 @@
   "reg_date": "",
   "longt": 36.3092762563,
   "lati": 50.0401165526,
-  "FullNameUA": "провулок Променистий, 20-А"
+  "FullNameUA": "провулок Променистий, 20-А",
+  "ChildsIds": []
  }
 ]

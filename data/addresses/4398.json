@@ -20,8 +20,35 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308976122000004,
+  "longt": 36.308976122,
   "lati": 50.0106191768,
-  "FullNameUA": "проїзд Шевченківський, 5"
+  "FullNameUA": "проїзд Шевченківський, 5",
+  "ChildsIds": []
+ },
+ {
+  "id": 182546,
+  "postcode": 61054,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4398,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"Б-1\"",
+  "confrm": "",
+  "reg_date": "18.03.2020 16:58:24",
+  "longt": 36.3086925347,
+  "lati": 50.0108381441,
+  "FullNameUA": "проїзд Шевченківський, 7",
+  "ChildsIds": []
  }
 ]

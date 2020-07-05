@@ -22,32 +22,8 @@
   "reg_date": "",
   "longt": 36.2856586311,
   "lati": 50.0060660444,
-  "FullNameUA": "провулок Евенський 2-й, 1"
- },
- {
-  "id": 122766,
-  "postcode": 61033,
-  "number": 3,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2631,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "удалить",
-  "reg_date": "",
-  "longt": 36.285854497900004,
-  "lati": 50.0057979593,
-  "FullNameUA": "провулок Евенський 2-й, 3-А"
+  "FullNameUA": "провулок Евенський 2-й, 1",
+  "ChildsIds": []
  },
  {
   "id": 122765,
@@ -72,7 +48,34 @@
   "reg_date": "",
   "longt": 36.2853911451,
   "lati": 50.0060821641,
-  "FullNameUA": "провулок Евенський 2-й, 3"
+  "FullNameUA": "провулок Евенський 2-й, 3",
+  "ChildsIds": []
+ },
+ {
+  "id": 122766,
+  "postcode": 61033,
+  "number": 3,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2631,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "удалить",
+  "reg_date": "",
+  "longt": 36.2858544979,
+  "lati": 50.0057979593,
+  "FullNameUA": "провулок Евенський 2-й, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 122767,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2854288765,
   "lati": 50.0059096161,
-  "FullNameUA": "провулок Евенський 2-й, 4"
+  "FullNameUA": "провулок Евенський 2-й, 4",
+  "ChildsIds": []
  },
  {
   "id": 122768,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2851642076,
   "lati": 50.006089858,
-  "FullNameUA": "провулок Евенський 2-й, 5"
+  "FullNameUA": "провулок Евенський 2-й, 5",
+  "ChildsIds": []
  },
  {
   "id": 122769,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2851964179,
   "lati": 50.0059197025,
-  "FullNameUA": "провулок Евенський 2-й, 6"
+  "FullNameUA": "провулок Евенський 2-й, 6",
+  "ChildsIds": []
  },
  {
   "id": 122770,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.284880098900004,
+  "longt": 36.2848800989,
   "lati": 50.0061036387,
-  "FullNameUA": "провулок Евенський 2-й, 7"
+  "FullNameUA": "провулок Евенський 2-й, 7",
+  "ChildsIds": []
  },
  {
   "id": 122771,
@@ -195,9 +202,10 @@
   "same_adr_comm": "",
   "confrm": "карта М1:2000",
   "reg_date": "",
-  "longt": 36.284976736000004,
+  "longt": 36.284976736,
   "lati": 50.00590597,
-  "FullNameUA": "провулок Евенський 2-й, 8"
+  "FullNameUA": "провулок Евенський 2-й, 8",
+  "ChildsIds": []
  },
  {
   "id": 122772,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2845812061,
   "lati": 50.0061138869,
-  "FullNameUA": "провулок Евенський 2-й, 9"
+  "FullNameUA": "провулок Евенський 2-й, 9",
+  "ChildsIds": []
  },
  {
   "id": 122773,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2847609557,
   "lati": 50.005927908,
-  "FullNameUA": "провулок Евенський 2-й, 10"
+  "FullNameUA": "провулок Евенський 2-й, 10",
+  "ChildsIds": []
  },
  {
   "id": 122774,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2847634712,
   "lati": 50.0063536875,
-  "FullNameUA": "провулок Евенський 2-й, 11"
+  "FullNameUA": "провулок Евенський 2-й, 11",
+  "ChildsIds": []
  },
  {
   "id": 122775,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2845359274,
   "lati": 50.0059463002,
-  "FullNameUA": "провулок Евенський 2-й, 12"
+  "FullNameUA": "провулок Евенський 2-й, 12",
+  "ChildsIds": []
  },
  {
   "id": 122776,
@@ -322,6 +334,7 @@
   "reg_date": "",
   "longt": 36.2845103793,
   "lati": 50.0056823281,
-  "FullNameUA": "провулок Евенський 2-й, 14"
+  "FullNameUA": "провулок Евенський 2-й, 14",
+  "ChildsIds": []
  }
 ]

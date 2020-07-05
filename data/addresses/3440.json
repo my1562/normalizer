@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271377402700004,
-  "lati": 49.995190496300005,
-  "FullNameUA": "вулиця Новохарківська, 1"
+  "longt": 36.2713774027,
+  "lati": 49.9951904963,
+  "FullNameUA": "вулиця Новохарківська, 1",
+  "ChildsIds": []
  },
  {
   "id": 134739,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271600564100005,
-  "lati": 49.994945658700004,
-  "FullNameUA": "вулиця Новохарківська, 2"
+  "longt": 36.2716005641,
+  "lati": 49.9949456587,
+  "FullNameUA": "вулиця Новохарківська, 2",
+  "ChildsIds": []
  },
  {
   "id": 134740,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.271608117700005,
+  "longt": 36.2716081177,
   "lati": 49.9952542379,
-  "FullNameUA": "вулиця Новохарківська, 3"
+  "FullNameUA": "вулиця Новохарківська, 3",
+  "ChildsIds": []
  },
  {
   "id": 134741,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2718849723,
   "lati": 49.9950610235,
-  "FullNameUA": "вулиця Новохарківська, 4"
+  "FullNameUA": "вулиця Новохарківська, 4",
+  "ChildsIds": []
  },
  {
   "id": 134742,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2719023542,
-  "lati": 49.995362630500004,
-  "FullNameUA": "вулиця Новохарківська, 5"
+  "lati": 49.9953626305,
+  "FullNameUA": "вулиця Новохарківська, 5",
+  "ChildsIds": []
  },
  {
   "id": 134743,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272198600900005,
-  "lati": 49.995156782500004,
-  "FullNameUA": "вулиця Новохарківська, 6"
+  "longt": 36.2721986009,
+  "lati": 49.9951567825,
+  "FullNameUA": "вулиця Новохарківська, 6",
+  "ChildsIds": []
  },
  {
   "id": 134744,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2720328519,
   "lati": 49.9951065532,
-  "FullNameUA": "вулиця Новохарківська, 6-А"
+  "FullNameUA": "вулиця Новохарківська, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 134745,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.27228475,
   "lati": 49.9954737134,
-  "FullNameUA": "вулиця Новохарківська, 7"
+  "FullNameUA": "вулиця Новохарківська, 7",
+  "ChildsIds": []
  },
  {
   "id": 134746,
@@ -221,8 +229,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2724624572,
-  "lati": 49.995247287000005,
-  "FullNameUA": "вулиця Новохарківська, 8"
+  "lati": 49.995247287,
+  "FullNameUA": "вулиця Новохарківська, 8",
+  "ChildsIds": []
  },
  {
   "id": 134747,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2724196336,
-  "lati": 49.995516016900005,
-  "FullNameUA": "вулиця Новохарківська, 9"
+  "lati": 49.9955160169,
+  "FullNameUA": "вулиця Новохарківська, 9",
+  "ChildsIds": []
  },
  {
   "id": 134748,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2727289831,
   "lati": 49.9953319045,
-  "FullNameUA": "вулиця Новохарківська, 10"
+  "FullNameUA": "вулиця Новохарківська, 10",
+  "ChildsIds": []
  },
  {
   "id": 134749,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272651175200004,
+  "longt": 36.2726511752,
   "lati": 49.9956292146,
-  "FullNameUA": "вулиця Новохарківська, 11"
+  "FullNameUA": "вулиця Новохарківська, 11",
+  "ChildsIds": []
  },
  {
   "id": 134750,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.2728351657,
   "lati": 49.9956606049,
-  "FullNameUA": "вулиця Новохарківська, 11-А"
+  "FullNameUA": "вулиця Новохарківська, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 134751,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.273000313400004,
+  "longt": 36.2730003134,
   "lati": 49.9954055567,
-  "FullNameUA": "вулиця Новохарківська, 12"
+  "FullNameUA": "вулиця Новохарківська, 12",
+  "ChildsIds": []
  },
  {
   "id": 134752,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.272938650200004,
+  "longt": 36.2729386502,
   "lati": 49.9956888111,
-  "FullNameUA": "вулиця Новохарківська, 13"
+  "FullNameUA": "вулиця Новохарківська, 13",
+  "ChildsIds": []
  },
  {
   "id": 134753,
@@ -397,32 +412,8 @@
   "reg_date": "",
   "longt": 36.2733819254,
   "lati": 49.9955236665,
-  "FullNameUA": "вулиця Новохарківська, 14"
- },
- {
-  "id": 134754,
-  "postcode": 61013,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2732079792,
-  "lati": 49.9957904344,
-  "FullNameUA": "вулиця Новохарківська, 15"
+  "FullNameUA": "вулиця Новохарківська, 14",
+  "ChildsIds": []
  },
  {
   "id": 134755,
@@ -447,7 +438,34 @@
   "reg_date": "",
   "longt": 36.2733580632,
   "lati": 49.9958414292,
-  "FullNameUA": "вулиця Новохарківська, 15/3"
+  "FullNameUA": "вулиця Новохарківська, 15/3",
+  "ChildsIds": []
+ },
+ {
+  "id": 134754,
+  "postcode": 61013,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2732079792,
+  "lati": 49.9957904344,
+  "FullNameUA": "вулиця Новохарківська, 15",
+  "ChildsIds": []
  },
  {
   "id": 134756,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2735737211,
   "lati": 49.9955620028,
-  "FullNameUA": "вулиця Новохарківська, 16"
+  "FullNameUA": "вулиця Новохарківська, 16",
+  "ChildsIds": []
  },
  {
   "id": 134757,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2734490681,
-  "lati": 49.995865217500004,
-  "FullNameUA": "вулиця Новохарківська, 17"
+  "lati": 49.9958652175,
+  "FullNameUA": "вулиця Новохарківська, 17",
+  "ChildsIds": []
  },
  {
   "id": 134758,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2738130643,
   "lati": 49.9956923859,
-  "FullNameUA": "вулиця Новохарківська, 18"
+  "FullNameUA": "вулиця Новохарківська, 18",
+  "ChildsIds": []
  },
  {
   "id": 134759,
@@ -546,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2737562399,
-  "lati": 49.995970413100004,
-  "FullNameUA": "вулиця Новохарківська, 19"
+  "lati": 49.9959704131,
+  "FullNameUA": "вулиця Новохарківська, 19",
+  "ChildsIds": []
  },
  {
   "id": 134760,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.274079614600005,
+  "longt": 36.2740796146,
   "lati": 49.9957632308,
-  "FullNameUA": "вулиця Новохарківська, 20"
+  "FullNameUA": "вулиця Новохарківська, 20",
+  "ChildsIds": []
  },
  {
   "id": 134761,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2740731422,
   "lati": 49.9960755333,
-  "FullNameUA": "вулиця Новохарківська, 21"
+  "FullNameUA": "вулиця Новохарківська, 21",
+  "ChildsIds": []
  },
  {
   "id": 134762,
@@ -622,7 +646,34 @@
   "reg_date": "",
   "longt": 36.2743077028,
   "lati": 49.9958475601,
-  "FullNameUA": "вулиця Новохарківська, 22"
+  "FullNameUA": "вулиця Новохарківська, 22",
+  "ChildsIds": []
+ },
+ {
+  "id": 126116,
+  "postcode": 61161,
+  "number": 24,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.274925616,
+  "lati": 49.9959341426,
+  "FullNameUA": "вулиця Новохарківська, 24-А",
+  "ChildsIds": []
  },
  {
   "id": 126115,
@@ -647,57 +698,8 @@
   "reg_date": "",
   "longt": 36.2748684521,
   "lati": 49.9960409085,
-  "FullNameUA": "вулиця Новохарківська, 24"
- },
- {
-  "id": 126116,
-  "postcode": 61161,
-  "number": 24,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.274925616000004,
-  "lati": 49.9959341426,
-  "FullNameUA": "вулиця Новохарківська, 24-А"
- },
- {
-  "id": 126117,
-  "postcode": 61161,
-  "number": 25,
-  "suffix": "",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2746401077,
-  "lati": 49.9963937456,
-  "FullNameUA": "вулиця Новохарківська, 25"
+  "FullNameUA": "вулиця Новохарківська, 24",
+  "ChildsIds": []
  },
  {
   "id": 126118,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.2749337929,
   "lati": 49.9963564808,
-  "FullNameUA": "вулиця Новохарківська, 25-А"
+  "FullNameUA": "вулиця Новохарківська, 25-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126117,
+  "postcode": 61161,
+  "number": 25,
+  "suffix": "",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2746401077,
+  "lati": 49.9963937456,
+  "FullNameUA": "вулиця Новохарківська, 25",
+  "ChildsIds": []
  },
  {
   "id": 126119,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275105036700005,
+  "longt": 36.2751050367,
   "lati": 49.9961140499,
-  "FullNameUA": "вулиця Новохарківська, 26"
+  "FullNameUA": "вулиця Новохарківська, 26",
+  "ChildsIds": []
  },
  {
   "id": 126120,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2751183297,
   "lati": 49.9964248294,
-  "FullNameUA": "вулиця Новохарківська, 27"
+  "FullNameUA": "вулиця Новохарківська, 27",
+  "ChildsIds": []
  },
  {
   "id": 126121,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.275249553,
   "lati": 49.9961596647,
-  "FullNameUA": "вулиця Новохарківська, 28"
+  "FullNameUA": "вулиця Новохарківська, 28",
+  "ChildsIds": []
  },
  {
   "id": 177585,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.275204664,
   "lati": 49.996575391,
-  "FullNameUA": "вулиця Новохарківська, 29"
+  "FullNameUA": "вулиця Новохарківська, 29",
+  "ChildsIds": []
  },
  {
   "id": 126123,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.27566998,
-  "lati": 49.996306592100005,
-  "FullNameUA": "вулиця Новохарківська, 30-А"
+  "lati": 49.9963065921,
+  "FullNameUA": "вулиця Новохарківська, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 126122,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275530995500006,
+  "longt": 36.2755309955,
   "lati": 49.9962534788,
-  "FullNameUA": "вулиця Новохарківська, 30"
+  "FullNameUA": "вулиця Новохарківська, 30",
+  "ChildsIds": []
  },
  {
   "id": 126124,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.275486657,
-  "lati": 49.996523579800005,
-  "FullNameUA": "вулиця Новохарківська, 31"
+  "lati": 49.9965235798,
+  "FullNameUA": "вулиця Новохарківська, 31",
+  "ChildsIds": []
  },
  {
   "id": 126125,
@@ -920,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276003679400006,
+  "longt": 36.2760036794,
   "lati": 49.9962302821,
-  "FullNameUA": "вулиця Новохарківська, 32"
+  "FullNameUA": "вулиця Новохарківська, 32",
+  "ChildsIds": []
  },
  {
   "id": 126126,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.275561552400006,
-  "lati": 49.996547173100005,
-  "FullNameUA": "вулиця Новохарківська, 33"
+  "longt": 36.2755615524,
+  "lati": 49.9965471731,
+  "FullNameUA": "вулиця Новохарківська, 33",
+  "ChildsIds": []
  },
  {
   "id": 126127,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.276170809700005,
+  "longt": 36.2761708097,
   "lati": 49.9964550288,
-  "FullNameUA": "вулиця Новохарківська, 34"
+  "FullNameUA": "вулиця Новохарківська, 34",
+  "ChildsIds": []
  },
  {
   "id": 126128,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.27593837,
   "lati": 49.9966646603,
-  "FullNameUA": "вулиця Новохарківська, 35"
+  "FullNameUA": "вулиця Новохарківська, 35",
+  "ChildsIds": []
  },
  {
   "id": 126129,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2764740394,
   "lati": 49.9963836616,
-  "FullNameUA": "вулиця Новохарківська, 36"
+  "FullNameUA": "вулиця Новохарківська, 36",
+  "ChildsIds": []
  },
  {
   "id": 126130,
@@ -1046,8 +1087,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2762358971,
-  "lati": 49.996777818400005,
-  "FullNameUA": "вулиця Новохарківська, 37"
+  "lati": 49.9967778184,
+  "FullNameUA": "вулиця Новохарківська, 37",
+  "ChildsIds": []
  },
  {
   "id": 126131,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2767555802,
   "lati": 49.9966077106,
-  "FullNameUA": "вулиця Новохарківська, 38"
+  "FullNameUA": "вулиця Новохарківська, 38",
+  "ChildsIds": []
  },
  {
   "id": 177590,
@@ -1096,8 +1139,9 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.2765749255,
-  "lati": 49.996604580100005,
-  "FullNameUA": "вулиця Новохарківська, 38-А"
+  "lati": 49.9966045801,
+  "FullNameUA": "вулиця Новохарківська, 38-А",
+  "ChildsIds": []
  },
  {
   "id": 126132,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2769227961,
   "lati": 49.9967066127,
-  "FullNameUA": "вулиця Новохарківська, 40"
+  "FullNameUA": "вулиця Новохарківська, 40",
+  "ChildsIds": []
  },
  {
   "id": 126133,
@@ -1145,9 +1190,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281150304200004,
+  "longt": 36.2811503042,
   "lati": 49.9984209649,
-  "FullNameUA": "вулиця Новохарківська, 43-А"
+  "FullNameUA": "вулиця Новохарківська, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 126135,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.2815017121,
   "lati": 49.9985148413,
-  "FullNameUA": "вулиця Новохарківська, 45-А"
+  "FullNameUA": "вулиця Новохарківська, 45-А",
+  "ChildsIds": []
  },
  {
   "id": 126136,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.2811193299,
   "lati": 49.9985246836,
-  "FullNameUA": "вулиця Новохарківська, 45/2"
+  "FullNameUA": "вулиця Новохарківська, 45/2",
+  "ChildsIds": []
  },
  {
   "id": 126134,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2816768846,
-  "lati": 49.998581884100005,
-  "FullNameUA": "вулиця Новохарківська, 45"
+  "lati": 49.9985818841,
+  "FullNameUA": "вулиця Новохарківська, 45",
+  "ChildsIds": []
  },
  {
   "id": 126137,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.281930044300005,
+  "longt": 36.2819300443,
   "lati": 49.9986393732,
-  "FullNameUA": "вулиця Новохарківська, 47"
+  "FullNameUA": "вулиця Новохарківська, 47",
+  "ChildsIds": []
  },
  {
   "id": 126138,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.2821940363,
   "lati": 49.9987342258,
-  "FullNameUA": "вулиця Новохарківська, 49"
+  "FullNameUA": "вулиця Новохарківська, 49",
+  "ChildsIds": []
  },
  {
   "id": 126139,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.2824086417,
   "lati": 49.9988116639,
-  "FullNameUA": "вулиця Новохарківська, 51"
+  "FullNameUA": "вулиця Новохарківська, 51",
+  "ChildsIds": []
  },
  {
   "id": 126140,
@@ -1321,8 +1373,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2826944205,
-  "lati": 49.998876468700004,
-  "FullNameUA": "вулиця Новохарківська, 53"
+  "lati": 49.9988764687,
+  "FullNameUA": "вулиця Новохарківська, 53",
+  "ChildsIds": []
  },
  {
   "id": 126141,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.283064792000005,
+  "longt": 36.283064792,
   "lati": 49.9990310697,
-  "FullNameUA": "вулиця Новохарківська, 55"
+  "FullNameUA": "вулиця Новохарківська, 55",
+  "ChildsIds": []
  },
  {
   "id": 126143,
@@ -1371,8 +1425,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.284480427,
-  "lati": 49.999482355800005,
-  "FullNameUA": "вулиця Новохарківська, 59-А"
+  "lati": 49.9994823558,
+  "FullNameUA": "вулиця Новохарківська, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 126142,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2838777949,
   "lati": 49.9992666528,
-  "FullNameUA": "вулиця Новохарківська, 59"
+  "FullNameUA": "вулиця Новохарківська, 59",
+  "ChildsIds": []
  },
  {
   "id": 126144,
@@ -1421,8 +1477,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2843147467,
-  "lati": 49.999412075100004,
-  "FullNameUA": "вулиця Новохарківська, 59-Б"
+  "lati": 49.9994120751,
+  "FullNameUA": "вулиця Новохарківська, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 126145,
@@ -1445,9 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284066469900004,
+  "longt": 36.2840664699,
   "lati": 49.999348157,
-  "FullNameUA": "вулиця Новохарківська, 59-В"
+  "FullNameUA": "вулиця Новохарківська, 59-В",
+  "ChildsIds": []
  },
  {
   "id": 126146,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2849160923,
   "lati": 49.999629401,
-  "FullNameUA": "вулиця Новохарківська, 61"
+  "FullNameUA": "вулиця Новохарківська, 61",
+  "ChildsIds": []
  },
  {
   "id": 126147,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.2851877846,
   "lati": 49.9997018742,
-  "FullNameUA": "вулиця Новохарківська, 63"
+  "FullNameUA": "вулиця Новохарківська, 63",
+  "ChildsIds": []
  },
  {
   "id": 126148,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.2854375212,
   "lati": 49.9997923856,
-  "FullNameUA": "вулиця Новохарківська, 65"
+  "FullNameUA": "вулиця Новохарківська, 65",
+  "ChildsIds": []
  },
  {
   "id": 126149,
@@ -1545,84 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.281457587300004,
-  "lati": 49.998218892800004,
-  "FullNameUA": "вулиця Новохарківська, 70"
- },
- {
-  "id": 126153,
-  "postcode": 61161,
-  "number": 72,
-  "suffix": "В",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2821510665,
-  "lati": 49.9982708545,
-  "FullNameUA": "вулиця Новохарківська, 72-В"
- },
- {
-  "id": 126152,
-  "postcode": 61161,
-  "number": 72,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2817925601,
-  "lati": 49.9983138695,
-  "FullNameUA": "вулиця Новохарківська, 72-Б"
- },
- {
-  "id": 126151,
-  "postcode": 61161,
-  "number": 72,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2824107579,
-  "lati": 49.9985128574,
-  "FullNameUA": "вулиця Новохарківська, 72-А"
+  "longt": 36.2814575873,
+  "lati": 49.9982188928,
+  "FullNameUA": "вулиця Новохарківська, 70",
+  "ChildsIds": []
  },
  {
   "id": 126150,
@@ -1647,7 +1634,86 @@
   "reg_date": "",
   "longt": 36.2821952181,
   "lati": 49.9984538507,
-  "FullNameUA": "вулиця Новохарківська, 72"
+  "FullNameUA": "вулиця Новохарківська, 72",
+  "ChildsIds": []
+ },
+ {
+  "id": 126152,
+  "postcode": 61161,
+  "number": 72,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2817925601,
+  "lati": 49.9983138695,
+  "FullNameUA": "вулиця Новохарківська, 72-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 126151,
+  "postcode": 61161,
+  "number": 72,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2824107579,
+  "lati": 49.9985128574,
+  "FullNameUA": "вулиця Новохарківська, 72-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126153,
+  "postcode": 61161,
+  "number": 72,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2821510665,
+  "lati": 49.9982708545,
+  "FullNameUA": "вулиця Новохарківська, 72-В",
+  "ChildsIds": []
  },
  {
   "id": 126154,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2827218256,
   "lati": 49.9986059602,
-  "FullNameUA": "вулиця Новохарківська, 74"
+  "FullNameUA": "вулиця Новохарківська, 74",
+  "ChildsIds": []
  },
  {
   "id": 126155,
@@ -1696,8 +1763,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2829975885,
-  "lati": 49.998710979500004,
-  "FullNameUA": "вулиця Новохарківська, 76"
+  "lati": 49.9987109795,
+  "FullNameUA": "вулиця Новохарківська, 76",
+  "ChildsIds": []
  },
  {
   "id": 126156,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.2832497164,
   "lati": 49.9987688582,
-  "FullNameUA": "вулиця Новохарківська, 78/41"
+  "FullNameUA": "вулиця Новохарківська, 78/41",
+  "ChildsIds": []
  },
  {
   "id": 126157,
@@ -1747,7 +1816,8 @@
   "reg_date": "",
   "longt": 36.2836510553,
   "lati": 49.9988923542,
-  "FullNameUA": "вулиця Новохарківська, 80/44"
+  "FullNameUA": "вулиця Новохарківська, 80/44",
+  "ChildsIds": []
  },
  {
   "id": 126158,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.2837795907,
   "lati": 49.9989729683,
-  "FullNameUA": "вулиця Новохарківська, 82"
+  "FullNameUA": "вулиця Новохарківська, 82",
+  "ChildsIds": []
  },
  {
   "id": 126159,
@@ -1797,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.2840231737,
   "lati": 49.999048863,
-  "FullNameUA": "вулиця Новохарківська, 84"
+  "FullNameUA": "вулиця Новохарківська, 84",
+  "ChildsIds": []
  },
  {
   "id": 126160,
@@ -1822,7 +1894,8 @@
   "reg_date": "",
   "longt": 36.2842940835,
   "lati": 49.9991361116,
-  "FullNameUA": "вулиця Новохарківська, 86"
+  "FullNameUA": "вулиця Новохарківська, 86",
+  "ChildsIds": []
  },
  {
   "id": 126161,
@@ -1845,34 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.284548484700004,
+  "longt": 36.2845484847,
   "lati": 49.999211869,
-  "FullNameUA": "вулиця Новохарківська, 88"
- },
- {
-  "id": 126162,
-  "postcode": 61161,
-  "number": 90,
-  "suffix": "",
-  "block": "",
-  "streetid": 3440,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.284826729500004,
-  "lati": 49.9992956628,
-  "FullNameUA": "вулиця Новохарківська, 90"
+  "FullNameUA": "вулиця Новохарківська, 88",
+  "ChildsIds": []
  },
  {
   "id": 126163,
@@ -1896,8 +1945,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2851038198,
-  "lati": 49.999403450500004,
-  "FullNameUA": "вулиця Новохарківська, 90-А"
+  "lati": 49.9994034505,
+  "FullNameUA": "вулиця Новохарківська, 90-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 126162,
+  "postcode": 61161,
+  "number": 90,
+  "suffix": "",
+  "block": "",
+  "streetid": 3440,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2848267295,
+  "lati": 49.9992956628,
+  "FullNameUA": "вулиця Новохарківська, 90",
+  "ChildsIds": []
  },
  {
   "id": 126164,
@@ -1921,7 +1997,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.285346101,
-  "lati": 49.999477759200005,
-  "FullNameUA": "вулиця Новохарківська, 92"
+  "lati": 49.9994777592,
+  "FullNameUA": "вулиця Новохарківська, 92",
+  "ChildsIds": []
  }
 ]

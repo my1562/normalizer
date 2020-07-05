@@ -22,7 +22,34 @@
   "reg_date": "",
   "longt": 36.3122579379,
   "lati": 50.0113928658,
-  "FullNameUA": "провулок Шевченківський, 1"
+  "FullNameUA": "провулок Шевченківський, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 130215,
+  "postcode": 61054,
+  "number": 3,
+  "suffix": "",
+  "block": "",
+  "streetid": 4397,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3119136148,
+  "lati": 50.011359423,
+  "FullNameUA": "провулок Шевченківський, 3",
+  "ChildsIds": []
  },
  {
   "id": 130216,
@@ -47,32 +74,8 @@
   "reg_date": "",
   "longt": 36.3115867563,
   "lati": 50.0113468693,
-  "FullNameUA": "провулок Шевченківський, 3-А"
- },
- {
-  "id": 130215,
-  "postcode": 61054,
-  "number": 3,
-  "suffix": "",
-  "block": "",
-  "streetid": 4397,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.311913614800005,
-  "lati": 50.011359422999995,
-  "FullNameUA": "провулок Шевченківський, 3"
+  "FullNameUA": "провулок Шевченківський, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 130217,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3111613812,
   "lati": 50.01134556,
-  "FullNameUA": "провулок Шевченківський, 9"
+  "FullNameUA": "провулок Шевченківський, 9",
+  "ChildsIds": []
  },
  {
   "id": 130218,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.310849014700004,
+  "longt": 36.3108490147,
   "lati": 50.0113374786,
-  "FullNameUA": "провулок Шевченківський, 11"
+  "FullNameUA": "провулок Шевченківський, 11",
+  "ChildsIds": []
  },
  {
   "id": 130219,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3105498027,
   "lati": 50.011333283,
-  "FullNameUA": "провулок Шевченківський, 13"
+  "FullNameUA": "провулок Шевченківський, 13",
+  "ChildsIds": []
  },
  {
   "id": 178032,
@@ -172,7 +178,34 @@
   "reg_date": "18.01.2019 10:31:46",
   "longt": 36.3139302528,
   "lati": 50.0119120719,
-  "FullNameUA": "провулок Шевченківський, 20"
+  "FullNameUA": "провулок Шевченківський, 20",
+  "ChildsIds": []
+ },
+ {
+  "id": 130220,
+  "postcode": 61054,
+  "number": 23,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4397,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3075997531,
+  "lati": 50.0111348706,
+  "FullNameUA": "провулок Шевченківський, 23-А",
+  "ChildsIds": []
  },
  {
   "id": 177000,
@@ -197,32 +230,8 @@
   "reg_date": "",
   "longt": 36.3068128418,
   "lati": 50.0110514076,
-  "FullNameUA": "провулок Шевченківський, 23"
- },
- {
-  "id": 130220,
-  "postcode": 61054,
-  "number": 23,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4397,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.30759975310001,
-  "lati": 50.011134870599996,
-  "FullNameUA": "провулок Шевченківський, 23-А"
+  "FullNameUA": "провулок Шевченківський, 23",
+  "ChildsIds": []
  },
  {
   "id": 177001,
@@ -246,8 +255,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3065396276,
-  "lati": 50.011040235399996,
-  "FullNameUA": "провулок Шевченківський, 27-Б"
+  "lati": 50.0110402354,
+  "FullNameUA": "провулок Шевченківський, 27-Б",
+  "ChildsIds": []
  },
  {
   "id": 177002,
@@ -270,9 +280,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30627393060001,
+  "longt": 36.3062739306,
   "lati": 50.0110528312,
-  "FullNameUA": "провулок Шевченківський, 29-Б"
+  "FullNameUA": "провулок Шевченківський, 29-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 130221,
+  "postcode": 61054,
+  "number": 30,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4397,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "карта М1:500",
+  "reg_date": "",
+  "longt": 36.3084357977,
+  "lati": 50.0117829102,
+  "FullNameUA": "провулок Шевченківський, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 176990,
@@ -297,32 +334,8 @@
   "reg_date": "",
   "longt": 36.3086718321,
   "lati": 50.0120724856,
-  "FullNameUA": "провулок Шевченківський, 30"
- },
- {
-  "id": 130221,
-  "postcode": 61054,
-  "number": 30,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4397,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "карта М1:500",
-  "reg_date": "",
-  "longt": 36.30843579770001,
-  "lati": 50.0117829102,
-  "FullNameUA": "провулок Шевченківський, 30-А"
+  "FullNameUA": "провулок Шевченківський, 30",
+  "ChildsIds": []
  },
  {
   "id": 176992,
@@ -347,7 +360,8 @@
   "reg_date": "31.03.2017 11:14:52",
   "longt": 36.3076849587,
   "lati": 50.011736776,
-  "FullNameUA": "провулок Шевченківський, 32"
+  "FullNameUA": "провулок Шевченківський, 32",
+  "ChildsIds": []
  },
  {
   "id": 176993,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.3072694052,
   "lati": 50.0119804984,
-  "FullNameUA": "провулок Шевченківський, 34"
+  "FullNameUA": "провулок Шевченківський, 34",
+  "ChildsIds": []
  },
  {
   "id": 176994,
@@ -397,7 +412,8 @@
   "reg_date": "06.12.2017 17:14:11",
   "longt": 36.3062015176,
   "lati": 50.0118915012,
-  "FullNameUA": "провулок Шевченківський, 36"
+  "FullNameUA": "провулок Шевченківський, 36",
+  "ChildsIds": []
  },
  {
   "id": 176995,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3037726371,
   "lati": 50.0116993271,
-  "FullNameUA": "провулок Шевченківський, 38"
+  "FullNameUA": "провулок Шевченківський, 38",
+  "ChildsIds": []
  },
  {
   "id": 176996,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30401092620001,
+  "longt": 36.3040109262,
   "lati": 50.0114394259,
-  "FullNameUA": "провулок Шевченківський, 40"
+  "FullNameUA": "провулок Шевченківський, 40",
+  "ChildsIds": []
  },
  {
   "id": 180240,
@@ -470,8 +488,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.301554367200005,
+  "longt": 36.3015543672,
   "lati": 50.0119231289,
-  "FullNameUA": "провулок Шевченківський, 50"
+  "FullNameUA": "провулок Шевченківський, 50",
+  "ChildsIds": []
  }
 ]

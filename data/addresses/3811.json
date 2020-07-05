@@ -1,30 +1,5 @@
 [
  {
-  "id": 178706,
-  "postcode": 61070,
-  "number": 1,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3811,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 8",
-  "reg_date": "25.01.2018 12:14:00",
-  "longt": 36.297452275,
-  "lati": 50.032753426,
-  "FullNameUA": "провулок Роменський, 1-Б"
- },
- {
   "id": 178705,
   "postcode": 61070,
   "number": 1,
@@ -47,7 +22,34 @@
   "reg_date": "25.01.2018 12:13:06",
   "longt": 36.297377979,
   "lati": 50.032682256,
-  "FullNameUA": "провулок Роменський, 1-А"
+  "FullNameUA": "провулок Роменський, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 178706,
+  "postcode": 61070,
+  "number": 1,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3811,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 8",
+  "reg_date": "25.01.2018 12:14:00",
+  "longt": 36.297452275,
+  "lati": 50.032753426,
+  "FullNameUA": "провулок Роменський, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 178704,
@@ -71,8 +73,9 @@
   "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 8",
   "reg_date": "25.01.2018 12:11:54",
   "longt": 36.2973155444,
-  "lati": 50.032611038300004,
-  "FullNameUA": "провулок Роменський, 1"
+  "lati": 50.0326110383,
+  "FullNameUA": "провулок Роменський, 1",
+  "ChildsIds": []
  },
  {
   "id": 127774,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2974665385,
   "lati": 50.0327209038,
-  "FullNameUA": "провулок Роменський, 1/19"
+  "FullNameUA": "провулок Роменський, 1/19",
+  "ChildsIds": []
  },
  {
   "id": 127775,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.297358668499996,
+  "longt": 36.2973586685,
   "lati": 50.0323543024,
-  "FullNameUA": "провулок Роменський, 2/1"
+  "FullNameUA": "провулок Роменський, 2/1",
+  "ChildsIds": []
  },
  {
   "id": 127776,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2975845935,
   "lati": 50.0327693406,
-  "FullNameUA": "провулок Роменський, 3"
+  "FullNameUA": "провулок Роменський, 3",
+  "ChildsIds": []
  },
  {
   "id": 127777,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.2980030198,
   "lati": 50.0329511929,
-  "FullNameUA": "провулок Роменський, 5"
+  "FullNameUA": "провулок Роменський, 5",
+  "ChildsIds": []
  },
  {
   "id": 127780,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2980436478,
   "lati": 50.0322680464,
-  "FullNameUA": "провулок Роменський, 6-Б"
+  "FullNameUA": "провулок Роменський, 6-Б",
+  "ChildsIds": []
  },
  {
   "id": 127779,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2978957507,
   "lati": 50.0323887983,
-  "FullNameUA": "провулок Роменський, 6-А"
+  "FullNameUA": "провулок Роменський, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 127778,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2976369595,
   "lati": 50.0325672422,
-  "FullNameUA": "провулок Роменський, 6"
+  "FullNameUA": "провулок Роменський, 6",
+  "ChildsIds": []
  },
  {
   "id": 127781,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2982394589,
   "lati": 50.0330375083,
-  "FullNameUA": "провулок Роменський, 7"
+  "FullNameUA": "провулок Роменський, 7",
+  "ChildsIds": []
  },
  {
   "id": 127782,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2979083197,
   "lati": 50.0326589006,
-  "FullNameUA": "провулок Роменський, 8"
+  "FullNameUA": "провулок Роменський, 8",
+  "ChildsIds": []
  },
  {
   "id": 127783,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298395387599996,
-  "lati": 50.033110001400004,
-  "FullNameUA": "провулок Роменський, 9"
+  "longt": 36.2983953876,
+  "lati": 50.0331100014,
+  "FullNameUA": "провулок Роменський, 9",
+  "ChildsIds": []
  },
  {
   "id": 127784,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298014489399996,
+  "longt": 36.2980144894,
   "lati": 50.0327170064,
-  "FullNameUA": "провулок Роменський, 10"
+  "FullNameUA": "провулок Роменський, 10",
+  "ChildsIds": []
  },
  {
   "id": 127785,
@@ -372,7 +386,34 @@
   "reg_date": "",
   "longt": 36.2985522615,
   "lati": 50.0331767132,
-  "FullNameUA": "провулок Роменський, 11"
+  "FullNameUA": "провулок Роменський, 11",
+  "ChildsIds": []
+ },
+ {
+  "id": 127786,
+  "postcode": 61070,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3811,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.298162283,
+  "lati": 50.0327787722,
+  "FullNameUA": "провулок Роменський, 12",
+  "ChildsIds": []
  },
  {
   "id": 127787,
@@ -395,9 +436,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298299125599996,
+  "longt": 36.2982991256,
   "lati": 50.0328377339,
-  "FullNameUA": "провулок Роменський, 12-А"
+  "FullNameUA": "провулок Роменський, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 127788,
@@ -422,32 +464,8 @@
   "reg_date": "",
   "longt": 36.2984162707,
   "lati": 50.0328927722,
-  "FullNameUA": "провулок Роменський, 12-Б"
- },
- {
-  "id": 127786,
-  "postcode": 61070,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 3811,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.298162282999996,
-  "lati": 50.032778772200004,
-  "FullNameUA": "провулок Роменський, 12"
+  "FullNameUA": "провулок Роменський, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 127789,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.298548661299996,
+  "longt": 36.2985486613,
   "lati": 50.0329481866,
-  "FullNameUA": "провулок Роменський, 14"
+  "FullNameUA": "провулок Роменський, 14",
+  "ChildsIds": []
  },
  {
   "id": 127790,
@@ -497,6 +516,7 @@
   "reg_date": "",
   "longt": 36.2987272029,
   "lati": 50.0330352431,
-  "FullNameUA": "провулок Роменський, 16"
+  "FullNameUA": "провулок Роменський, 16",
+  "ChildsIds": []
  }
 ]

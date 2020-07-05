@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2318500646,
-  "lati": 49.993551380300005,
-  "FullNameUA": "вулиця Сумська, 1"
+  "lati": 49.9935513803,
+  "FullNameUA": "вулиця Сумська, 1",
+  "ChildsIds": []
  },
  {
   "id": 128540,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2324954496,
   "lati": 49.9932499299,
-  "FullNameUA": "вулиця Сумська, 2"
+  "FullNameUA": "вулиця Сумська, 2",
+  "ChildsIds": []
  },
  {
   "id": 119277,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231953239700005,
+  "longt": 36.2319532397,
   "lati": 49.9939271275,
-  "FullNameUA": "вулиця Сумська, 3"
+  "FullNameUA": "вулиця Сумська, 3",
+  "ChildsIds": []
  },
  {
   "id": 128541,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232471494200006,
+  "longt": 36.2324714942,
   "lati": 49.9936082616,
-  "FullNameUA": "вулиця Сумська, 4"
+  "FullNameUA": "вулиця Сумська, 4",
+  "ChildsIds": []
  },
  {
   "id": 119278,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231879621400005,
+  "longt": 36.2318796214,
   "lati": 49.9942627135,
-  "FullNameUA": "вулиця Сумська, 5"
+  "FullNameUA": "вулиця Сумська, 5",
+  "ChildsIds": []
  },
  {
   "id": 128542,
@@ -147,32 +152,8 @@
   "reg_date": "",
   "longt": 36.23281586,
   "lati": 49.9939839816,
-  "FullNameUA": "вулиця Сумська, 6"
- },
- {
-  "id": 119279,
-  "postcode": 61057,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23161811160001,
-  "lati": 49.9946468229,
-  "FullNameUA": "вулиця Сумська, 7"
+  "FullNameUA": "вулиця Сумська, 6",
+  "ChildsIds": []
  },
  {
   "id": 119281,
@@ -195,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232072845800005,
+  "longt": 36.2320728458,
   "lati": 49.9945197676,
-  "FullNameUA": "вулиця Сумська, 7/9"
+  "FullNameUA": "вулиця Сумська, 7/9",
+  "ChildsIds": []
  },
  {
   "id": 119280,
@@ -222,7 +204,34 @@
   "reg_date": "",
   "longt": 36.2316413733,
   "lati": 49.9943650446,
-  "FullNameUA": "вулиця Сумська, 7-В"
+  "FullNameUA": "вулиця Сумська, 7-В",
+  "ChildsIds": []
+ },
+ {
+  "id": 119279,
+  "postcode": 61057,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2316181116,
+  "lati": 49.9946468229,
+  "FullNameUA": "вулиця Сумська, 7",
+  "ChildsIds": []
  },
  {
   "id": 119282,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.231783220900006,
-  "lati": 49.994998446000004,
-  "FullNameUA": "вулиця Сумська, 9"
+  "longt": 36.2317832209,
+  "lati": 49.994998446,
+  "FullNameUA": "вулиця Сумська, 9",
+  "ChildsIds": []
  },
  {
   "id": 128543,
@@ -272,7 +282,8 @@
   "reg_date": "",
   "longt": 36.2330364872,
   "lati": 49.9944319468,
-  "FullNameUA": "вулиця Сумська, 10"
+  "FullNameUA": "вулиця Сумська, 10",
+  "ChildsIds": []
  },
  {
   "id": 119283,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.2323766176,
   "lati": 49.995273034,
-  "FullNameUA": "вулиця Сумська, 11"
+  "FullNameUA": "вулиця Сумська, 11",
+  "ChildsIds": []
  },
  {
   "id": 119284,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.232610855400004,
+  "longt": 36.2326108554,
   "lati": 49.9957861424,
-  "FullNameUA": "вулиця Сумська, 13"
+  "FullNameUA": "вулиця Сумська, 13",
+  "ChildsIds": []
  },
  {
   "id": 128544,
@@ -346,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2331304778,
-  "lati": 49.995842212300005,
-  "FullNameUA": "вулиця Сумська, 14"
+  "lati": 49.9958422123,
+  "FullNameUA": "вулиця Сумська, 14",
+  "ChildsIds": []
  },
  {
   "id": 119285,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2327639915,
   "lati": 49.996292267,
-  "FullNameUA": "вулиця Сумська, 15"
+  "FullNameUA": "вулиця Сумська, 15",
+  "ChildsIds": []
  },
  {
   "id": 128545,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233353486700004,
-  "lati": 49.996016237700005,
-  "FullNameUA": "вулиця Сумська, 16"
+  "longt": 36.2333534867,
+  "lati": 49.9960162377,
+  "FullNameUA": "вулиця Сумська, 16",
+  "ChildsIds": []
  },
  {
   "id": 119286,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2323976909,
   "lati": 49.9967077378,
-  "FullNameUA": "вулиця Сумська, 17"
+  "FullNameUA": "вулиця Сумська, 17",
+  "ChildsIds": []
  },
  {
   "id": 128546,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.233404466,
   "lati": 49.9965853677,
-  "FullNameUA": "вулиця Сумська, 18/20"
+  "FullNameUA": "вулиця Сумська, 18/20",
+  "ChildsIds": []
  },
  {
   "id": 119288,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "363, 20.02.2012",
   "reg_date": "15.01.2019 10:53:35",
-  "longt": 36.232762634800004,
+  "longt": 36.2327626348,
   "lati": 49.9972545015,
-  "FullNameUA": "вулиця Сумська, 19-В"
+  "FullNameUA": "вулиця Сумська, 19-В",
+  "ChildsIds": []
  },
  {
   "id": 119287,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2332069909,
   "lati": 49.9973461243,
-  "FullNameUA": "вулиця Сумська, 19"
+  "FullNameUA": "вулиця Сумська, 19",
+  "ChildsIds": []
  },
  {
   "id": 119289,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233291331000004,
-  "lati": 49.997635492200004,
-  "FullNameUA": "вулиця Сумська, 21"
+  "longt": 36.233291331,
+  "lati": 49.9976354922,
+  "FullNameUA": "вулиця Сумська, 21",
+  "ChildsIds": []
  },
  {
   "id": 128547,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233494578800006,
+  "longt": 36.2334945788,
   "lati": 49.9969354082,
-  "FullNameUA": "вулиця Сумська, 22"
+  "FullNameUA": "вулиця Сумська, 22",
+  "ChildsIds": []
  },
  {
   "id": 177159,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.2333630838,
   "lati": 49.9979510689,
-  "FullNameUA": "вулиця Сумська, 23"
+  "FullNameUA": "вулиця Сумська, 23",
+  "ChildsIds": []
  },
  {
   "id": 119290,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23339203570001,
+  "longt": 36.2333920357,
   "lati": 49.9977585645,
-  "FullNameUA": "вулиця Сумська, 23/34"
+  "FullNameUA": "вулиця Сумська, 23/34",
+  "ChildsIds": []
  },
  {
   "id": 128548,
@@ -621,8 +645,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2336754505,
-  "lati": 49.997326087000005,
-  "FullNameUA": "вулиця Сумська, 24"
+  "lati": 49.997326087,
+  "FullNameUA": "вулиця Сумська, 24",
+  "ChildsIds": []
  },
  {
   "id": 119291,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2320497743,
   "lati": 49.9991202223,
-  "FullNameUA": "вулиця Сумська, 25"
+  "FullNameUA": "вулиця Сумська, 25",
+  "ChildsIds": []
  },
  {
   "id": 128551,
@@ -670,9 +696,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.233740279200006,
+  "longt": 36.2337402792,
   "lati": 49.9975356741,
-  "FullNameUA": "вулиця Сумська, 26"
+  "FullNameUA": "вулиця Сумська, 26",
+  "ChildsIds": []
  },
  {
   "id": 128553,
@@ -697,7 +724,8 @@
   "reg_date": "15.01.2019 10:57:06",
   "longt": 36.2338526754,
   "lati": 49.9977262846,
-  "FullNameUA": "вулиця Сумська, 28-А"
+  "FullNameUA": "вулиця Сумська, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 128552,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2339659096,
   "lati": 49.9979115593,
-  "FullNameUA": "вулиця Сумська, 28"
+  "FullNameUA": "вулиця Сумська, 28",
+  "ChildsIds": []
  },
  {
   "id": 119292,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "1985, 23.09.2015; 632, 07.10.2015",
   "reg_date": "15.01.2019 11:02:05",
-  "longt": 36.236007496800006,
+  "longt": 36.2360074968,
   "lati": 49.9984336223,
-  "FullNameUA": "вулиця Сумська, 30"
+  "FullNameUA": "вулиця Сумська, 30",
+  "ChildsIds": []
  },
  {
   "id": 119294,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23116187630001,
+  "longt": 36.2311618763,
   "lati": 50.0039316641,
-  "FullNameUA": "вулиця Сумська, 35-А"
+  "FullNameUA": "вулиця Сумська, 35-А",
+  "ChildsIds": []
  },
  {
   "id": 119293,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.228104204299996,
+  "longt": 36.2281042043,
   "lati": 50.0007975537,
-  "FullNameUA": "вулиця Сумська, 35"
+  "FullNameUA": "вулиця Сумська, 35",
+  "ChildsIds": []
  },
  {
   "id": 128554,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23468396090001,
-  "lati": 49.999780042800005,
-  "FullNameUA": "вулиця Сумська, 36/38"
+  "longt": 36.2346839609,
+  "lati": 49.9997800428,
+  "FullNameUA": "вулиця Сумська, 36/38",
+  "ChildsIds": []
  },
  {
   "id": 119295,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2347157653,
   "lati": 50.0035571236,
-  "FullNameUA": "вулиця Сумська, 37"
+  "FullNameUA": "вулиця Сумська, 37",
+  "ChildsIds": []
  },
  {
   "id": 119296,
@@ -870,9 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23536235460001,
+  "longt": 36.2353623546,
   "lati": 50.0053454098,
-  "FullNameUA": "вулиця Сумська, 39"
+  "FullNameUA": "вулиця Сумська, 39",
+  "ChildsIds": []
  },
  {
   "id": 119297,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2356807755,
   "lati": 50.0054028036,
-  "FullNameUA": "вулиця Сумська, 39-Б"
+  "FullNameUA": "вулиця Сумська, 39-Б",
+  "ChildsIds": []
  },
  {
   "id": 119298,
@@ -922,7 +958,8 @@
   "reg_date": "18.06.2014 00:00:00",
   "longt": 36.2358023867,
   "lati": 50.005365449,
-  "FullNameUA": "вулиця Сумська, 39-М"
+  "FullNameUA": "вулиця Сумська, 39-М",
+  "ChildsIds": []
  },
  {
   "id": 128555,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235284377000006,
+  "longt": 36.235284377,
   "lati": 50.0002429728,
-  "FullNameUA": "вулиця Сумська, 40"
+  "FullNameUA": "вулиця Сумська, 40",
+  "ChildsIds": []
  },
  {
   "id": 119299,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236157021800004,
+  "longt": 36.2361570218,
   "lati": 50.0060152533,
-  "FullNameUA": "вулиця Сумська, 41"
+  "FullNameUA": "вулиця Сумська, 41",
+  "ChildsIds": []
  },
  {
   "id": 119300,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23645176990001,
+  "longt": 36.2364517699,
   "lati": 50.0063619417,
-  "FullNameUA": "вулиця Сумська, 43"
+  "FullNameUA": "вулиця Сумська, 43",
+  "ChildsIds": []
  },
  {
   "id": 128556,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.2350536466,
   "lati": 50.0009400774,
-  "FullNameUA": "вулиця Сумська, 44/2"
+  "FullNameUA": "вулиця Сумська, 44/2",
+  "ChildsIds": []
  },
  {
   "id": 119301,
@@ -1047,32 +1088,8 @@
   "reg_date": "",
   "longt": 36.2365238224,
   "lati": 50.0066256554,
-  "FullNameUA": "вулиця Сумська, 45"
- },
- {
-  "id": 128558,
-  "postcode": 61002,
-  "number": 46,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23514814240001,
-  "lati": 50.0014507196,
-  "FullNameUA": "вулиця Сумська, 46/1"
+  "FullNameUA": "вулиця Сумська, 45",
+  "ChildsIds": []
  },
  {
   "id": 128557,
@@ -1097,7 +1114,34 @@
   "reg_date": "",
   "longt": 36.2356525487,
   "lati": 50.0013852207,
-  "FullNameUA": "вулиця Сумська, 46"
+  "FullNameUA": "вулиця Сумська, 46",
+  "ChildsIds": []
+ },
+ {
+  "id": 128558,
+  "postcode": 61002,
+  "number": 46,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2351481424,
+  "lati": 50.0014507196,
+  "FullNameUA": "вулиця Сумська, 46/1",
+  "ChildsIds": []
  },
  {
   "id": 119302,
@@ -1120,9 +1164,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236682313100005,
+  "longt": 36.2366823131,
   "lati": 50.0069511779,
-  "FullNameUA": "вулиця Сумська, 47"
+  "FullNameUA": "вулиця Сумська, 47",
+  "ChildsIds": []
  },
  {
   "id": 128559,
@@ -1147,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.2352288928,
   "lati": 50.001712386,
-  "FullNameUA": "вулиця Сумська, 48"
- },
- {
-  "id": 119303,
-  "postcode": 61058,
-  "number": 49,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.236846058800005,
-  "lati": 50.0072729907,
-  "FullNameUA": "вулиця Сумська, 49"
+  "FullNameUA": "вулиця Сумська, 48",
+  "ChildsIds": []
  },
  {
   "id": 119304,
@@ -1195,9 +1216,36 @@
   "same_adr_comm": "",
   "confrm": "Дзержинський районний суд м. Харкова № 221/1, 11.12.2007",
   "reg_date": "",
-  "longt": 36.23626667720001,
+  "longt": 36.2362666772,
   "lati": 50.007477976,
-  "FullNameUA": "вулиця Сумська, 49-Б"
+  "FullNameUA": "вулиця Сумська, 49-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 119303,
+  "postcode": 61058,
+  "number": 49,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2368460588,
+  "lati": 50.0072729907,
+  "FullNameUA": "вулиця Сумська, 49",
+  "ChildsIds": []
  },
  {
   "id": 128560,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.23643831,
   "lati": 50.0019134701,
-  "FullNameUA": "вулиця Сумська, 50"
+  "FullNameUA": "вулиця Сумська, 50",
+  "ChildsIds": []
  },
  {
   "id": 119305,
@@ -1245,9 +1294,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23713603070001,
+  "longt": 36.2371360307,
   "lati": 50.0074118144,
-  "FullNameUA": "вулиця Сумська, 51"
+  "FullNameUA": "вулиця Сумська, 51",
+  "ChildsIds": []
  },
  {
   "id": 128561,
@@ -1272,32 +1322,8 @@
   "reg_date": "",
   "longt": 36.2354521668,
   "lati": 50.0023527682,
-  "FullNameUA": "вулиця Сумська, 52"
- },
- {
-  "id": 119307,
-  "postcode": 61058,
-  "number": 53,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237512088200006,
-  "lati": 50.0076853665,
-  "FullNameUA": "вулиця Сумська, 53/1"
+  "FullNameUA": "вулиця Сумська, 52",
+  "ChildsIds": []
  },
  {
   "id": 119306,
@@ -1322,7 +1348,34 @@
   "reg_date": "",
   "longt": 36.2371445391,
   "lati": 50.0076984874,
-  "FullNameUA": "вулиця Сумська, 53"
+  "FullNameUA": "вулиця Сумська, 53",
+  "ChildsIds": []
+ },
+ {
+  "id": 119307,
+  "postcode": 61058,
+  "number": 53,
+  "suffix": "/1",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2375120882,
+  "lati": 50.0076853665,
+  "FullNameUA": "вулиця Сумська, 53/1",
+  "ChildsIds": []
  },
  {
   "id": 128562,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235554985200004,
+  "longt": 36.2355549852,
   "lati": 50.0026829725,
-  "FullNameUA": "вулиця Сумська, 54"
+  "FullNameUA": "вулиця Сумська, 54",
+  "ChildsIds": []
  },
  {
   "id": 119308,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.2380975144,
   "lati": 50.0084005391,
-  "FullNameUA": "вулиця Сумська, 55"
+  "FullNameUA": "вулиця Сумська, 55",
+  "ChildsIds": []
  },
  {
   "id": 128563,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.2357187726,
   "lati": 50.0029203778,
-  "FullNameUA": "вулиця Сумська, 56"
+  "FullNameUA": "вулиця Сумська, 56",
+  "ChildsIds": []
  },
  {
   "id": 119310,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.2381667503,
   "lati": 50.0089796751,
-  "FullNameUA": "вулиця Сумська, 57-А"
+  "FullNameUA": "вулиця Сумська, 57-А",
+  "ChildsIds": []
  },
  {
   "id": 119309,
@@ -1445,9 +1502,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238525313000004,
+  "longt": 36.238525313,
   "lati": 50.008789595,
-  "FullNameUA": "вулиця Сумська, 57"
+  "FullNameUA": "вулиця Сумська, 57",
+  "ChildsIds": []
  },
  {
   "id": 119311,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.2390037476,
   "lati": 50.0091040247,
-  "FullNameUA": "вулиця Сумська, 59"
+  "FullNameUA": "вулиця Сумська, 59",
+  "ChildsIds": []
  },
  {
   "id": 128564,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.235852678,
   "lati": 50.0032844704,
-  "FullNameUA": "вулиця Сумська, 60"
+  "FullNameUA": "вулиця Сумська, 60",
+  "ChildsIds": []
  },
  {
   "id": 119312,
@@ -1520,9 +1580,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239293476200004,
+  "longt": 36.2392934762,
   "lati": 50.0097124083,
-  "FullNameUA": "вулиця Сумська, 61"
+  "FullNameUA": "вулиця Сумська, 61",
+  "ChildsIds": []
  },
  {
   "id": 119313,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.2401128327,
   "lati": 50.0099971098,
-  "FullNameUA": "вулиця Сумська, 63"
+  "FullNameUA": "вулиця Сумська, 63",
+  "ChildsIds": []
  },
  {
   "id": 128565,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.2363273703,
   "lati": 50.0041958809,
-  "FullNameUA": "вулиця Сумська, 64"
+  "FullNameUA": "вулиця Сумська, 64",
+  "ChildsIds": []
  },
  {
   "id": 119314,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.2402422535,
   "lati": 50.010209972,
-  "FullNameUA": "вулиця Сумська, 65"
+  "FullNameUA": "вулиця Сумська, 65",
+  "ChildsIds": []
  },
  {
   "id": 119315,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.2404966137,
   "lati": 50.0104406536,
-  "FullNameUA": "вулиця Сумська, 67"
+  "FullNameUA": "вулиця Сумська, 67",
+  "ChildsIds": []
  },
  {
   "id": 128566,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.2363825707,
   "lati": 50.0050619145,
-  "FullNameUA": "вулиця Сумська, 68"
+  "FullNameUA": "вулиця Сумська, 68",
+  "ChildsIds": []
  },
  {
   "id": 119316,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.2403925845,
   "lati": 50.0107483526,
-  "FullNameUA": "вулиця Сумська, 69"
+  "FullNameUA": "вулиця Сумська, 69",
+  "ChildsIds": []
  },
  {
   "id": 177163,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.2371821532,
   "lati": 50.0053376829,
-  "FullNameUA": "вулиця Сумська, 70"
+  "FullNameUA": "вулиця Сумська, 70",
+  "ChildsIds": []
  },
  {
   "id": 119317,
@@ -1720,9 +1788,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240887296400004,
+  "longt": 36.2408872964,
   "lati": 50.010890046,
-  "FullNameUA": "вулиця Сумська, 71"
+  "FullNameUA": "вулиця Сумська, 71",
+  "ChildsIds": []
  },
  {
   "id": 128567,
@@ -1745,34 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236611183700006,
+  "longt": 36.2366111837,
   "lati": 50.0053741932,
-  "FullNameUA": "вулиця Сумська, 72"
- },
- {
-  "id": 119319,
-  "postcode": 61023,
-  "number": 73,
-  "suffix": "/75",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.242131302400004,
-  "lati": 50.011816025799995,
-  "FullNameUA": "вулиця Сумська, 73/75"
+  "FullNameUA": "вулиця Сумська, 72",
+  "ChildsIds": []
  },
  {
   "id": 119318,
@@ -1797,7 +1842,34 @@
   "reg_date": "",
   "longt": 36.2412451195,
   "lati": 50.0112479721,
-  "FullNameUA": "вулиця Сумська, 73"
+  "FullNameUA": "вулиця Сумська, 73",
+  "ChildsIds": []
+ },
+ {
+  "id": 119319,
+  "postcode": 61023,
+  "number": 73,
+  "suffix": "/75",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2421313024,
+  "lati": 50.0118160258,
+  "FullNameUA": "вулиця Сумська, 73/75",
+  "ChildsIds": []
  },
  {
   "id": 128568,
@@ -1820,9 +1892,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236768244500006,
+  "longt": 36.2367682445,
   "lati": 50.0057903998,
-  "FullNameUA": "вулиця Сумська, 74"
+  "FullNameUA": "вулиця Сумська, 74",
+  "ChildsIds": []
  },
  {
   "id": 128569,
@@ -1845,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236826918800006,
+  "longt": 36.2368269188,
   "lati": 50.005976751,
-  "FullNameUA": "вулиця Сумська, 76"
+  "FullNameUA": "вулиця Сумська, 76",
+  "ChildsIds": []
  },
  {
   "id": 119321,
@@ -1871,33 +1945,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2447279819,
-  "lati": 50.014232708899996,
-  "FullNameUA": "вулиця Сумська, 77/79"
- },
- {
-  "id": 180233,
-  "postcode": 61023,
-  "number": 77,
-  "suffix": "/79-В",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив Рішення ХМР № 1231/18 від 17.10.2018, дод. 1, п. 24.1.5.",
-  "reg_date": "",
-  "longt": 36.2433854881,
-  "lati": 50.0129592975,
-  "FullNameUA": "вулиця Сумська, 77/79-В"
+  "lati": 50.0142327089,
+  "FullNameUA": "вулиця Сумська, 77/79",
+  "ChildsIds": []
  },
  {
   "id": 119320,
@@ -1922,7 +1972,34 @@
   "reg_date": "",
   "longt": 36.2424451361,
   "lati": 50.0122405336,
-  "FullNameUA": "вулиця Сумська, 77"
+  "FullNameUA": "вулиця Сумська, 77",
+  "ChildsIds": []
+ },
+ {
+  "id": 180233,
+  "postcode": 61023,
+  "number": 77,
+  "suffix": "/79-В",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив Рішення ХМР № 1231/18 від 17.10.2018, дод. 1, п. 24.1.5.",
+  "reg_date": "",
+  "longt": 36.2433854881,
+  "lati": 50.0129592975,
+  "FullNameUA": "вулиця Сумська, 77/79-В",
+  "ChildsIds": []
  },
  {
   "id": 128571,
@@ -1945,9 +2022,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237478768200006,
+  "longt": 36.2374787682,
   "lati": 50.0059412602,
-  "FullNameUA": "вулиця Сумська, 78-В"
+  "FullNameUA": "вулиця Сумська, 78-В",
+  "ChildsIds": []
  },
  {
   "id": 128570,
@@ -1970,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237116597100005,
+  "longt": 36.2371165971,
   "lati": 50.0061456179,
-  "FullNameUA": "вулиця Сумська, 78"
+  "FullNameUA": "вулиця Сумська, 78",
+  "ChildsIds": []
  },
  {
   "id": 128573,
@@ -1997,7 +2076,8 @@
   "reg_date": "",
   "longt": 36.2375106618,
   "lati": 50.0062724258,
-  "FullNameUA": "вулиця Сумська, 80-А"
+  "FullNameUA": "вулиця Сумська, 80-А",
+  "ChildsIds": []
  },
  {
   "id": 128572,
@@ -2022,7 +2102,8 @@
   "reg_date": "",
   "longt": 36.237262737,
   "lati": 50.0063492798,
-  "FullNameUA": "вулиця Сумська, 80"
+  "FullNameUA": "вулиця Сумська, 80",
+  "ChildsIds": []
  },
  {
   "id": 180776,
@@ -2045,9 +2126,10 @@
   "same_adr_comm": "нежитлова будівля літ. \"РА-2\"",
   "confrm": "",
   "reg_date": "11.05.2019 11:27:42",
-  "longt": 36.239920977900006,
+  "longt": 36.2399209779,
   "lati": 50.0189507424,
-  "FullNameUA": "вулиця Сумська, 81"
+  "FullNameUA": "вулиця Сумська, 81",
+  "ChildsIds": []
  },
  {
   "id": 119322,
@@ -2072,32 +2154,8 @@
   "reg_date": "",
   "longt": 36.2439356621,
   "lati": 50.0156816319,
-  "FullNameUA": "вулиця Сумська, 81"
- },
- {
-  "id": 128575,
-  "postcode": 61002,
-  "number": 82,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237514895000004,
-  "lati": 50.0068850846,
-  "FullNameUA": "вулиця Сумська, 82-А"
+  "FullNameUA": "вулиця Сумська, 81",
+  "ChildsIds": []
  },
  {
   "id": 128574,
@@ -2120,9 +2178,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23740890130001,
+  "longt": 36.2374089013,
   "lati": 50.0065611065,
-  "FullNameUA": "вулиця Сумська, 82"
+  "FullNameUA": "вулиця Сумська, 82",
+  "ChildsIds": []
+ },
+ {
+  "id": 128575,
+  "postcode": 61002,
+  "number": 82,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.237514895,
+  "lati": 50.0068850846,
+  "FullNameUA": "вулиця Сумська, 82-А",
+  "ChildsIds": []
  },
  {
   "id": 128576,
@@ -2147,32 +2232,8 @@
   "reg_date": "",
   "longt": 36.2569218668,
   "lati": 50.025541351,
-  "FullNameUA": "вулиця Сумська, 83"
- },
- {
-  "id": 128577,
-  "postcode": 61002,
-  "number": 84,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237627445600005,
-  "lati": 50.007103275,
-  "FullNameUA": "вулиця Сумська, 84"
+  "FullNameUA": "вулиця Сумська, 83",
+  "ChildsIds": []
  },
  {
   "id": 128578,
@@ -2195,9 +2256,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23801550660001,
+  "longt": 36.2380155066,
   "lati": 50.0068745543,
-  "FullNameUA": "вулиця Сумська, 84/2"
+  "FullNameUA": "вулиця Сумська, 84/2",
+  "ChildsIds": []
+ },
+ {
+  "id": 128577,
+  "postcode": 61002,
+  "number": 84,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2376274456,
+  "lati": 50.007103275,
+  "FullNameUA": "вулиця Сумська, 84",
+  "ChildsIds": []
  },
  {
   "id": 119323,
@@ -2221,8 +2309,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2538055378,
-  "lati": 50.027933739800005,
-  "FullNameUA": "вулиця Сумська, 85"
+  "lati": 50.0279337398,
+  "FullNameUA": "вулиця Сумська, 85",
+  "ChildsIds": []
  },
  {
   "id": 128579,
@@ -2245,9 +2334,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238010962500006,
+  "longt": 36.2380109625,
   "lati": 50.0075397261,
-  "FullNameUA": "вулиця Сумська, 86"
+  "FullNameUA": "вулиця Сумська, 86",
+  "ChildsIds": []
  },
  {
   "id": 128580,
@@ -2270,9 +2360,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23829696520001,
+  "longt": 36.2382969652,
   "lati": 50.0077597696,
-  "FullNameUA": "вулиця Сумська, 88"
+  "FullNameUA": "вулиця Сумська, 88",
+  "ChildsIds": []
  },
  {
   "id": 128581,
@@ -2295,9 +2386,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238697449700005,
+  "longt": 36.2386974497,
   "lati": 50.0080804664,
-  "FullNameUA": "вулиця Сумська, 90"
+  "FullNameUA": "вулиця Сумська, 90",
+  "ChildsIds": []
  },
  {
   "id": 128582,
@@ -2320,9 +2412,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23897465180001,
+  "longt": 36.2389746518,
   "lati": 50.0083959037,
-  "FullNameUA": "вулиця Сумська, 92"
+  "FullNameUA": "вулиця Сумська, 92",
+  "ChildsIds": []
  },
  {
   "id": 128583,
@@ -2345,34 +2438,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.239368915600004,
+  "longt": 36.2393689156,
   "lati": 50.0087233019,
-  "FullNameUA": "вулиця Сумська, 94"
- },
- {
-  "id": 128584,
-  "postcode": 61002,
-  "number": 96,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.239592336600005,
-  "lati": 50.0088895624,
-  "FullNameUA": "вулиця Сумська, 96"
+  "FullNameUA": "вулиця Сумська, 94",
+  "ChildsIds": []
  },
  {
   "id": 128585,
@@ -2395,9 +2464,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239967784300006,
+  "longt": 36.2399677843,
   "lati": 50.0087346186,
-  "FullNameUA": "вулиця Сумська, 96-А"
+  "FullNameUA": "вулиця Сумська, 96-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 128584,
+  "postcode": 61002,
+  "number": 96,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2395923366,
+  "lati": 50.0088895624,
+  "FullNameUA": "вулиця Сумська, 96",
+  "ChildsIds": []
  },
  {
   "id": 128586,
@@ -2420,9 +2516,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239762068900006,
+  "longt": 36.2397620689,
   "lati": 50.0090736935,
-  "FullNameUA": "вулиця Сумська, 98"
+  "FullNameUA": "вулиця Сумська, 98",
+  "ChildsIds": []
  },
  {
   "id": 128587,
@@ -2445,9 +2542,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.239871437000005,
+  "longt": 36.239871437,
   "lati": 50.0092046814,
-  "FullNameUA": "вулиця Сумська, 100"
+  "FullNameUA": "вулиця Сумська, 100",
+  "ChildsIds": []
  },
  {
   "id": 128588,
@@ -2472,7 +2570,8 @@
   "reg_date": "",
   "longt": 36.2406589712,
   "lati": 50.0094928533,
-  "FullNameUA": "вулиця Сумська, 102"
+  "FullNameUA": "вулиця Сумська, 102",
+  "ChildsIds": []
  },
  {
   "id": 128589,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.2407296884,
   "lati": 50.0093134698,
-  "FullNameUA": "вулиця Сумська, 102-А"
+  "FullNameUA": "вулиця Сумська, 102-А",
+  "ChildsIds": []
  },
  {
   "id": 128590,
@@ -2520,9 +2620,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.240665285700004,
+  "longt": 36.2406652857,
   "lati": 50.0097791462,
-  "FullNameUA": "вулиця Сумська, 104"
+  "FullNameUA": "вулиця Сумська, 104",
+  "ChildsIds": []
  },
  {
   "id": 128592,
@@ -2545,9 +2646,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.241278648400005,
+  "longt": 36.2412786484,
   "lati": 50.0098799429,
-  "FullNameUA": "вулиця Сумська, 106-А"
+  "FullNameUA": "вулиця Сумська, 106-А",
+  "ChildsIds": []
  },
  {
   "id": 128591,
@@ -2572,7 +2674,8 @@
   "reg_date": "",
   "longt": 36.2408782403,
   "lati": 50.0101131031,
-  "FullNameUA": "вулиця Сумська, 106"
+  "FullNameUA": "вулиця Сумська, 106",
+  "ChildsIds": []
  },
  {
   "id": 128593,
@@ -2596,8 +2699,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.241207291,
-  "lati": 50.010356277599996,
-  "FullNameUA": "вулиця Сумська, 108"
+  "lati": 50.0103562776,
+  "FullNameUA": "вулиця Сумська, 108",
+  "ChildsIds": []
  },
  {
   "id": 128594,
@@ -2621,8 +2725,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.241632856,
-  "lati": 50.010774860699996,
-  "FullNameUA": "вулиця Сумська, 110"
+  "lati": 50.0107748607,
+  "FullNameUA": "вулиця Сумська, 110",
+  "ChildsIds": []
  },
  {
   "id": 128595,
@@ -2647,7 +2752,8 @@
   "reg_date": "",
   "longt": 36.2418894627,
   "lati": 50.0109959996,
-  "FullNameUA": "вулиця Сумська, 110-А"
+  "FullNameUA": "вулиця Сумська, 110-А",
+  "ChildsIds": []
  },
  {
   "id": 128596,
@@ -2670,9 +2776,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242164178900005,
+  "longt": 36.2421641789,
   "lati": 50.0110901817,
-  "FullNameUA": "вулиця Сумська, 112"
+  "FullNameUA": "вулиця Сумська, 112",
+  "ChildsIds": []
  },
  {
   "id": 128597,
@@ -2695,9 +2802,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242300138400005,
+  "longt": 36.2423001384,
   "lati": 50.0112212698,
-  "FullNameUA": "вулиця Сумська, 114"
+  "FullNameUA": "вулиця Сумська, 114",
+  "ChildsIds": []
  },
  {
   "id": 128598,
@@ -2720,9 +2828,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.242649615000005,
+  "longt": 36.242649615,
   "lati": 50.0114185068,
-  "FullNameUA": "вулиця Сумська, 116"
+  "FullNameUA": "вулиця Сумська, 116",
+  "ChildsIds": []
  },
  {
   "id": 128599,
@@ -2747,7 +2856,8 @@
   "reg_date": "",
   "longt": 36.24303364,
   "lati": 50.0118741725,
-  "FullNameUA": "вулиця Сумська, 118"
+  "FullNameUA": "вулиця Сумська, 118",
+  "ChildsIds": []
  },
  {
   "id": 128600,
@@ -2772,7 +2882,8 @@
   "reg_date": "",
   "longt": 36.2433939598,
   "lati": 50.0121826519,
-  "FullNameUA": "вулиця Сумська, 120"
+  "FullNameUA": "вулиця Сумська, 120",
+  "ChildsIds": []
  },
  {
   "id": 128601,
@@ -2796,8 +2907,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2436108808,
-  "lati": 50.012353115799996,
-  "FullNameUA": "вулиця Сумська, 122"
+  "lati": 50.0123531158,
+  "FullNameUA": "вулиця Сумська, 122",
+  "ChildsIds": []
+ },
+ {
+  "id": 128602,
+  "postcode": 61023,
+  "number": 124,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2442289998,
+  "lati": 50.0129681402,
+  "FullNameUA": "вулиця Сумська, 124",
+  "ChildsIds": []
  },
  {
   "id": 128603,
@@ -2822,32 +2960,8 @@
   "reg_date": "",
   "longt": 36.2446672749,
   "lati": 50.0129265263,
-  "FullNameUA": "вулиця Сумська, 124-А"
- },
- {
-  "id": 128602,
-  "postcode": 61023,
-  "number": 124,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2442289998,
-  "lati": 50.012968140199995,
-  "FullNameUA": "вулиця Сумська, 124"
+  "FullNameUA": "вулиця Сумська, 124-А",
+  "ChildsIds": []
  },
  {
   "id": 128604,
@@ -2872,7 +2986,8 @@
   "reg_date": "",
   "longt": 36.2452852141,
   "lati": 50.0138902399,
-  "FullNameUA": "вулиця Сумська, 126"
+  "FullNameUA": "вулиця Сумська, 126",
+  "ChildsIds": []
  },
  {
   "id": 128605,
@@ -2897,7 +3012,8 @@
   "reg_date": "",
   "longt": 36.247346713,
   "lati": 50.0153837978,
-  "FullNameUA": "вулиця Сумська, 128"
+  "FullNameUA": "вулиця Сумська, 128",
+  "ChildsIds": []
  },
  {
   "id": 128606,
@@ -2920,9 +3036,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.246351714300005,
-  "lati": 50.014798848699996,
-  "FullNameUA": "вулиця Сумська, 128-А"
+  "longt": 36.2463517143,
+  "lati": 50.0147988487,
+  "FullNameUA": "вулиця Сумська, 128-А",
+  "ChildsIds": []
  },
  {
   "id": 128607,
@@ -2945,9 +3062,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.248521837700004,
+  "longt": 36.2485218377,
   "lati": 50.016630972,
-  "FullNameUA": "вулиця Сумська, 128-В"
+  "FullNameUA": "вулиця Сумська, 128-В",
+  "ChildsIds": []
  },
  {
   "id": 128609,
@@ -2972,32 +3090,8 @@
   "reg_date": "",
   "longt": 36.2510919453,
   "lati": 50.0176959066,
-  "FullNameUA": "вулиця Сумська, 130-А"
- },
- {
-  "id": 128608,
-  "postcode": 61023,
-  "number": 130,
-  "suffix": "",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2511967882,
-  "lati": 50.018763516899995,
-  "FullNameUA": "вулиця Сумська, 130"
+  "FullNameUA": "вулиця Сумська, 130-А",
+  "ChildsIds": []
  },
  {
   "id": 178874,
@@ -3022,7 +3116,34 @@
   "reg_date": "26.02.2018 15:10:31",
   "longt": 36.2520986795,
   "lati": 50.0165020818,
-  "FullNameUA": "вулиця Сумська, 130-Г"
+  "FullNameUA": "вулиця Сумська, 130-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 128608,
+  "postcode": 61023,
+  "number": 130,
+  "suffix": "",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2511967882,
+  "lati": 50.0187635169,
+  "FullNameUA": "вулиця Сумська, 130",
+  "ChildsIds": []
  },
  {
   "id": 128610,
@@ -3047,32 +3168,8 @@
   "reg_date": "",
   "longt": 36.2523948604,
   "lati": 50.0197226707,
-  "FullNameUA": "вулиця Сумська, 132"
- },
- {
-  "id": 128612,
-  "postcode": 61023,
-  "number": 134,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4058,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.2480573511,
-  "lati": 50.016275218299995,
-  "FullNameUA": "вулиця Сумська, 134-А"
+  "FullNameUA": "вулиця Сумська, 132",
+  "ChildsIds": []
  },
  {
   "id": 128611,
@@ -3096,7 +3193,34 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2578268692,
-  "lati": 50.02530169360001,
-  "FullNameUA": "вулиця Сумська, 134"
+  "lati": 50.0253016936,
+  "FullNameUA": "вулиця Сумська, 134",
+  "ChildsIds": []
+ },
+ {
+  "id": 128612,
+  "postcode": 61023,
+  "number": 134,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4058,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.2480573511,
+  "lati": 50.0162752183,
+  "FullNameUA": "вулиця Сумська, 134-А",
+  "ChildsIds": []
  }
 ]

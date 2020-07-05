@@ -21,8 +21,9 @@
   "confrm": "Рішення ХМР № 1518, 26.03.2014; Рішення ВК ХМР № 327, 04.06.2014",
   "reg_date": "28.12.2019 11:42:43",
   "longt": 36.3252333921,
-  "lati": 49.940502629899996,
-  "FullNameUA": "вулиця Нансена, 1"
+  "lati": 49.9405026299,
+  "FullNameUA": "вулиця Нансена, 1",
+  "ChildsIds": []
  },
  {
   "id": 169377,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.327815931800004,
+  "longt": 36.3278159318,
   "lati": 49.9398088757,
-  "FullNameUA": "вулиця Нансена, 4"
+  "FullNameUA": "вулиця Нансена, 4",
+  "ChildsIds": []
  },
  {
   "id": 169379,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3276573089,
   "lati": 49.9395612783,
-  "FullNameUA": "вулиця Нансена, 6-А"
+  "FullNameUA": "вулиця Нансена, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 169378,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3273268311,
   "lati": 49.9397545951,
-  "FullNameUA": "вулиця Нансена, 6"
+  "FullNameUA": "вулиця Нансена, 6",
+  "ChildsIds": []
  },
  {
   "id": 169380,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3273126145,
   "lati": 49.9400150516,
-  "FullNameUA": "вулиця Нансена, 8"
+  "FullNameUA": "вулиця Нансена, 8",
+  "ChildsIds": []
  },
  {
   "id": 169381,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3278022924,
   "lati": 49.9400800926,
-  "FullNameUA": "вулиця Нансена, 10"
+  "FullNameUA": "вулиця Нансена, 10",
+  "ChildsIds": []
  },
  {
   "id": 169382,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3262107329,
   "lati": 49.9398325117,
-  "FullNameUA": "вулиця Нансена, 12"
+  "FullNameUA": "вулиця Нансена, 12",
+  "ChildsIds": []
  },
  {
   "id": 169383,
@@ -197,32 +204,8 @@
   "reg_date": "",
   "longt": 36.3266170776,
   "lati": 49.9398035372,
-  "FullNameUA": "вулиця Нансена, 14"
- },
- {
-  "id": 169384,
-  "postcode": 61096,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 3340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3267417008,
-  "lati": 49.9395919533,
-  "FullNameUA": "вулиця Нансена, 16"
+  "FullNameUA": "вулиця Нансена, 14",
+  "ChildsIds": []
  },
  {
   "id": 178753,
@@ -247,7 +230,86 @@
   "reg_date": "",
   "longt": 36.3267863109,
   "lati": 49.9394325762,
-  "FullNameUA": "вулиця Нансена, 16-А"
+  "FullNameUA": "вулиця Нансена, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 169384,
+  "postcode": 61096,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 3340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3267417008,
+  "lati": 49.9395919533,
+  "FullNameUA": "вулиця Нансена, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 180898,
+  "postcode": 61096,
+  "number": 18,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136900:06:011:0062)",
+  "confrm": "",
+  "reg_date": "27.06.2019 15:40:29",
+  "longt": 36.3262039515,
+  "lati": 49.9396630032,
+  "FullNameUA": "вулиця Нансена, 18-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 182560,
+  "postcode": 61096,
+  "number": 18,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3260330071,
+  "lati": 49.9392388033,
+  "FullNameUA": "вулиця Нансена, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 180899,
@@ -272,32 +334,11 @@
   "reg_date": "",
   "longt": 36.3262193775,
   "lati": 49.9394925464,
-  "FullNameUA": "вулиця Нансена, 18"
- },
- {
-  "id": 180898,
-  "postcode": 61096,
-  "number": 18,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136900:06:011:0062)",
-  "confrm": "",
-  "reg_date": "27.06.2019 15:40:29",
-  "longt": 36.3262039515,
-  "lati": 49.939663003199996,
-  "FullNameUA": "вулиця Нансена, 18-Г"
+  "FullNameUA": "вулиця Нансена, 18",
+  "ChildsIds": [
+   180900,
+   180898
+  ]
  },
  {
   "id": 180900,
@@ -321,8 +362,9 @@
   "confrm": "",
   "reg_date": "27.06.2019 15:43:19",
   "longt": 36.326213495,
-  "lati": 49.939578610299996,
-  "FullNameUA": "вулиця Нансена, 18-В"
+  "lati": 49.9395786103,
+  "FullNameUA": "вулиця Нансена, 18-В",
+  "ChildsIds": []
  },
  {
   "id": 178717,
@@ -347,7 +389,8 @@
   "reg_date": "",
   "longt": 36.3258157428,
   "lati": 49.9394698029,
-  "FullNameUA": "вулиця Нансена, 20"
+  "FullNameUA": "вулиця Нансена, 20",
+  "ChildsIds": []
  },
  {
   "id": 181087,
@@ -372,7 +415,8 @@
   "reg_date": "",
   "longt": 36.3253644941,
   "lati": 49.9394526566,
-  "FullNameUA": "вулиця Нансена, 22"
+  "FullNameUA": "вулиця Нансена, 22",
+  "ChildsIds": []
  },
  {
   "id": 169385,
@@ -397,32 +441,8 @@
   "reg_date": "",
   "longt": 36.3252351097,
   "lati": 49.9397102002,
-  "FullNameUA": "вулиця Нансена, 24"
- },
- {
-  "id": 178922,
-  "postcode": 61096,
-  "number": 26,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3340,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "",
-  "longt": 36.3256856074,
-  "lati": 49.940067842,
-  "FullNameUA": "вулиця Нансена, 26-А"
+  "FullNameUA": "вулиця Нансена, 24",
+  "ChildsIds": []
  },
  {
   "id": 178921,
@@ -447,6 +467,33 @@
   "reg_date": "",
   "longt": 36.3257115439,
   "lati": 49.9398135827,
-  "FullNameUA": "вулиця Нансена, 26"
+  "FullNameUA": "вулиця Нансена, 26",
+  "ChildsIds": []
+ },
+ {
+  "id": 178922,
+  "postcode": 61096,
+  "number": 26,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3340,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3256856074,
+  "lati": 49.940067842,
+  "FullNameUA": "вулиця Нансена, 26-А",
+  "ChildsIds": []
  }
 ]

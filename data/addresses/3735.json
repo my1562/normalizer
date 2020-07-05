@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.308567705200005,
+  "longt": 36.3085677052,
   "lati": 50.0020245692,
-  "FullNameUA": "проспект Ювілейний, 1-А"
+  "FullNameUA": "проспект Ювілейний, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 179983,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.304074525800004,
+  "longt": 36.3040745258,
   "lati": 50.0021371573,
-  "FullNameUA": "проспект Ювілейний, 7-А"
+  "FullNameUA": "проспект Ювілейний, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 135134,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307880484900004,
+  "longt": 36.3078804849,
   "lati": 50.0012245292,
-  "FullNameUA": "проспект Ювілейний, 24/88А"
+  "FullNameUA": "проспект Ювілейний, 24/88А",
+  "ChildsIds": []
  },
  {
   "id": 176177,
@@ -97,7 +100,8 @@
   "reg_date": "02.02.2017 14:33:07",
   "longt": 36.3149299058,
   "lati": 49.9982635726,
-  "FullNameUA": "проспект Ювілейний, 26"
+  "FullNameUA": "проспект Ювілейний, 26",
+  "ChildsIds": []
  },
  {
   "id": 135135,
@@ -121,8 +125,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3111489666,
-  "lati": 49.996996033100004,
-  "FullNameUA": "проспект Ювілейний, 28-А"
+  "lati": 49.9969960331,
+  "FullNameUA": "проспект Ювілейний, 28-А",
+  "ChildsIds": []
  },
  {
   "id": 135137,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3176562011,
   "lati": 49.9956595164,
-  "FullNameUA": "проспект Ювілейний, 30-А"
+  "FullNameUA": "проспект Ювілейний, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 135136,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.312188728500004,
-  "lati": 49.996945605200004,
-  "FullNameUA": "проспект Ювілейний, 30"
+  "longt": 36.3121887285,
+  "lati": 49.9969456052,
+  "FullNameUA": "проспект Ювілейний, 30",
+  "ChildsIds": []
  },
  {
   "id": 135141,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3170190545,
-  "lati": 49.997719581400005,
-  "FullNameUA": "проспект Ювілейний, 32/186"
+  "lati": 49.9977195814,
+  "FullNameUA": "проспект Ювілейний, 32/186",
+  "ChildsIds": []
  },
  {
   "id": 179039,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3175201552,
   "lati": 49.997951538,
-  "FullNameUA": "проспект Ювілейний, 32/186В"
+  "FullNameUA": "проспект Ювілейний, 32/186В",
+  "ChildsIds": []
  },
  {
   "id": 178856,
@@ -246,8 +255,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3174349393,
-  "lati": 49.998054035900005,
-  "FullNameUA": "проспект Ювілейний, 32-В"
+  "lati": 49.9980540359,
+  "FullNameUA": "проспект Ювілейний, 32-В",
+  "ChildsIds": []
  },
  {
   "id": 135140,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.317650847100005,
-  "lati": 49.997806766000004,
-  "FullNameUA": "проспект Ювілейний, 32/186А"
+  "longt": 36.3176508471,
+  "lati": 49.997806766,
+  "FullNameUA": "проспект Ювілейний, 32/186А",
+  "ChildsIds": []
  },
  {
   "id": 135139,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.3135553429,
   "lati": 49.9987347987,
-  "FullNameUA": "проспект Ювілейний, 32-Б"
+  "FullNameUA": "проспект Ювілейний, 32-Б",
+  "ChildsIds": []
  },
  {
   "id": 135138,
@@ -322,13 +334,14 @@
   "reg_date": "",
   "longt": 36.3173567738,
   "lati": 49.9971288448,
-  "FullNameUA": "проспект Ювілейний, 32-А"
+  "FullNameUA": "проспект Ювілейний, 32-А",
+  "ChildsIds": []
  },
  {
-  "id": 135145,
+  "id": 135143,
   "postcode": 61153,
   "number": 34,
-  "suffix": "В",
+  "suffix": "А",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -345,15 +358,16 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3194053443,
-  "lati": 49.9965818345,
-  "FullNameUA": "проспект Ювілейний, 34-В"
+  "longt": 36.3180993648,
+  "lati": 49.9968797445,
+  "FullNameUA": "проспект Ювілейний, 34-А",
+  "ChildsIds": []
  },
  {
-  "id": 135147,
+  "id": 135142,
   "postcode": 61153,
   "number": 34,
-  "suffix": "Д",
+  "suffix": "",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3186207302,
-  "lati": 49.9957897615,
-  "FullNameUA": "проспект Ювілейний, 34-Д"
+  "longt": 36.3188728826,
+  "lati": 49.9975814792,
+  "FullNameUA": "проспект Ювілейний, 34",
+  "ChildsIds": []
  },
  {
   "id": 135146,
@@ -397,7 +412,60 @@
   "reg_date": "",
   "longt": 36.3186262772,
   "lati": 49.9963846921,
-  "FullNameUA": "проспект Ювілейний, 34-Г"
+  "FullNameUA": "проспект Ювілейний, 34-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 135147,
+  "postcode": 61153,
+  "number": 34,
+  "suffix": "Д",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3186207302,
+  "lati": 49.9957897615,
+  "FullNameUA": "проспект Ювілейний, 34-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 135145,
+  "postcode": 61153,
+  "number": 34,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3194053443,
+  "lati": 49.9965818345,
+  "FullNameUA": "проспект Ювілейний, 34-В",
+  "ChildsIds": []
  },
  {
   "id": 135144,
@@ -422,57 +490,8 @@
   "reg_date": "",
   "longt": 36.3188814772,
   "lati": 49.9970918964,
-  "FullNameUA": "проспект Ювілейний, 34-Б"
- },
- {
-  "id": 135142,
-  "postcode": 61153,
-  "number": 34,
-  "suffix": "",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.318872882600004,
-  "lati": 49.9975814792,
-  "FullNameUA": "проспект Ювілейний, 34"
- },
- {
-  "id": 135143,
-  "postcode": 61153,
-  "number": 34,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.318099364800005,
-  "lati": 49.9968797445,
-  "FullNameUA": "проспект Ювілейний, 34-А"
+  "FullNameUA": "проспект Ювілейний, 34-Б",
+  "ChildsIds": []
  },
  {
   "id": 135148,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.3204969679,
   "lati": 49.9975010999,
-  "FullNameUA": "проспект Ювілейний, 36"
+  "FullNameUA": "проспект Ювілейний, 36",
+  "ChildsIds": []
  },
  {
   "id": 135149,
@@ -522,32 +542,8 @@
   "reg_date": "",
   "longt": 36.3201187308,
   "lati": 49.9962658445,
-  "FullNameUA": "проспект Ювілейний, 36-А"
- },
- {
-  "id": 135150,
-  "postcode": 61153,
-  "number": 38,
-  "suffix": "",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3221183646,
-  "lati": 49.9973372396,
-  "FullNameUA": "проспект Ювілейний, 38"
+  "FullNameUA": "проспект Ювілейний, 36-А",
+  "ChildsIds": []
  },
  {
   "id": 135155,
@@ -571,8 +567,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3212269821,
-  "lati": 49.995288008500005,
-  "FullNameUA": "проспект Ювілейний, 38-Д"
+  "lati": 49.9952880085,
+  "FullNameUA": "проспект Ювілейний, 38-Д",
+  "ChildsIds": []
  },
  {
   "id": 135154,
@@ -596,58 +593,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3215137098,
-  "lati": 49.995817461200005,
-  "FullNameUA": "проспект Ювілейний, 38-Г"
- },
- {
-  "id": 135151,
-  "postcode": 61153,
-  "number": 38,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3211974522,
-  "lati": 49.996317302200005,
-  "FullNameUA": "проспект Ювілейний, 38-А"
- },
- {
-  "id": 135156,
-  "postcode": 61153,
-  "number": 38,
-  "suffix": "Е",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3206682478,
-  "lati": 49.9942805546,
-  "FullNameUA": "проспект Ювілейний, 38-Е"
+  "lati": 49.9958174612,
+  "FullNameUA": "проспект Ювілейний, 38-Г",
+  "ChildsIds": []
  },
  {
   "id": 135153,
@@ -671,8 +619,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.322308381,
-  "lati": 49.996159533500006,
-  "FullNameUA": "проспект Ювілейний, 38-В"
+  "lati": 49.9961595335,
+  "FullNameUA": "проспект Ювілейний, 38-В",
+  "ChildsIds": []
  },
  {
   "id": 135152,
@@ -697,12 +646,39 @@
   "reg_date": "",
   "longt": 36.3219811943,
   "lati": 49.9966524934,
-  "FullNameUA": "проспект Ювілейний, 38-Б"
+  "FullNameUA": "проспект Ювілейний, 38-Б",
+  "ChildsIds": []
  },
  {
-  "id": 135157,
+  "id": 135151,
   "postcode": 61153,
-  "number": 40,
+  "number": 38,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3211974522,
+  "lati": 49.9963173022,
+  "FullNameUA": "проспект Ювілейний, 38-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135150,
+  "postcode": 61153,
+  "number": 38,
   "suffix": "",
   "block": "",
   "streetid": 3735,
@@ -720,9 +696,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3237762731,
-  "lati": 49.997254068500006,
-  "FullNameUA": "проспект Ювілейний, 40"
+  "longt": 36.3221183646,
+  "lati": 49.9973372396,
+  "FullNameUA": "проспект Ювілейний, 38",
+  "ChildsIds": []
+ },
+ {
+  "id": 135156,
+  "postcode": 61153,
+  "number": 38,
+  "suffix": "Е",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3206682478,
+  "lati": 49.9942805546,
+  "FullNameUA": "проспект Ювілейний, 38-Е",
+  "ChildsIds": []
  },
  {
   "id": 135158,
@@ -747,7 +750,34 @@
   "reg_date": "",
   "longt": 36.3231538418,
   "lati": 49.9958043979,
-  "FullNameUA": "проспект Ювілейний, 40-А"
+  "FullNameUA": "проспект Ювілейний, 40-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135157,
+  "postcode": 61153,
+  "number": 40,
+  "suffix": "",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3237762731,
+  "lati": 49.9972540685,
+  "FullNameUA": "проспект Ювілейний, 40",
+  "ChildsIds": []
  },
  {
   "id": 135159,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.3235889055,
   "lati": 49.995116895,
-  "FullNameUA": "проспект Ювілейний, 40-Б"
+  "FullNameUA": "проспект Ювілейний, 40-Б",
+  "ChildsIds": []
  },
  {
   "id": 135160,
@@ -797,13 +828,14 @@
   "reg_date": "",
   "longt": 36.325385355,
   "lati": 49.9971013384,
-  "FullNameUA": "проспект Ювілейний, 42"
+  "FullNameUA": "проспект Ювілейний, 42",
+  "ChildsIds": []
  },
  {
-  "id": 135163,
+  "id": 135161,
   "postcode": 61153,
   "number": 42,
-  "suffix": "В",
+  "suffix": "А",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -820,9 +852,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.325621665,
-  "lati": 49.9957195208,
-  "FullNameUA": "проспект Ювілейний, 42-В"
+  "longt": 36.3248950538,
+  "lati": 49.9957074826,
+  "FullNameUA": "проспект Ювілейний, 42-А",
+  "ChildsIds": []
  },
  {
   "id": 135162,
@@ -847,13 +880,14 @@
   "reg_date": "",
   "longt": 36.3257235966,
   "lati": 49.9963081067,
-  "FullNameUA": "проспект Ювілейний, 42-Б"
+  "FullNameUA": "проспект Ювілейний, 42-Б",
+  "ChildsIds": []
  },
  {
-  "id": 135161,
+  "id": 135163,
   "postcode": 61153,
   "number": 42,
-  "suffix": "А",
+  "suffix": "В",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -870,34 +904,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3248950538,
-  "lati": 49.995707482600004,
-  "FullNameUA": "проспект Ювілейний, 42-А"
- },
- {
-  "id": 135165,
-  "postcode": 61153,
-  "number": 44,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3265299156,
-  "lati": 49.9962188325,
-  "FullNameUA": "проспект Ювілейний, 44-А"
+  "longt": 36.325621665,
+  "lati": 49.9957195208,
+  "FullNameUA": "проспект Ювілейний, 42-В",
+  "ChildsIds": []
  },
  {
   "id": 135164,
@@ -922,13 +932,14 @@
   "reg_date": "",
   "longt": 36.3269604294,
   "lati": 49.9970099924,
-  "FullNameUA": "проспект Ювілейний, 44"
+  "FullNameUA": "проспект Ювілейний, 44",
+  "ChildsIds": []
  },
  {
-  "id": 135167,
-  "postcode": 61054,
-  "number": 45,
-  "suffix": "В",
+  "id": 135165,
+  "postcode": 61153,
+  "number": 44,
+  "suffix": "А",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -945,9 +956,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3242057261,
-  "lati": 49.9980725818,
-  "FullNameUA": "проспект Ювілейний, 45-В"
+  "longt": 36.3265299156,
+  "lati": 49.9962188325,
+  "FullNameUA": "проспект Ювілейний, 44-А",
+  "ChildsIds": []
  },
  {
   "id": 135166,
@@ -972,7 +984,34 @@
   "reg_date": "",
   "longt": 36.3213148112,
   "lati": 49.9983993684,
-  "FullNameUA": "проспект Ювілейний, 45-А"
+  "FullNameUA": "проспект Ювілейний, 45-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135167,
+  "postcode": 61054,
+  "number": 45,
+  "suffix": "В",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3242057261,
+  "lati": 49.9980725818,
+  "FullNameUA": "проспект Ювілейний, 45-В",
+  "ChildsIds": []
  },
  {
   "id": 135168,
@@ -997,57 +1036,8 @@
   "reg_date": "",
   "longt": 36.3275679503,
   "lati": 49.9983121671,
-  "FullNameUA": "проспект Ювілейний, 47/19"
- },
- {
-  "id": 135169,
-  "postcode": 61153,
-  "number": 48,
-  "suffix": "",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3306039195,
-  "lati": 49.996448877,
-  "FullNameUA": "проспект Ювілейний, 48"
- },
- {
-  "id": 135172,
-  "postcode": 61153,
-  "number": 48,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3301900954,
-  "lati": 49.996276625700006,
-  "FullNameUA": "проспект Ювілейний, 48-Г"
+  "FullNameUA": "проспект Ювілейний, 47/19",
+  "ChildsIds": []
  },
  {
   "id": 135171,
@@ -1072,7 +1062,34 @@
   "reg_date": "",
   "longt": 36.3295647176,
   "lati": 49.9966903324,
-  "FullNameUA": "проспект Ювілейний, 48-Б"
+  "FullNameUA": "проспект Ювілейний, 48-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 135169,
+  "postcode": 61153,
+  "number": 48,
+  "suffix": "",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3306039195,
+  "lati": 49.996448877,
+  "FullNameUA": "проспект Ювілейний, 48",
+  "ChildsIds": []
  },
  {
   "id": 135170,
@@ -1095,9 +1112,62 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.330021576499995,
-  "lati": 49.996640861100005,
-  "FullNameUA": "проспект Ювілейний, 48/1"
+  "longt": 36.3300215765,
+  "lati": 49.9966408611,
+  "FullNameUA": "проспект Ювілейний, 48/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 135172,
+  "postcode": 61153,
+  "number": 48,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3301900954,
+  "lati": 49.9962766257,
+  "FullNameUA": "проспект Ювілейний, 48-Г",
+  "ChildsIds": []
+ },
+ {
+  "id": 135175,
+  "postcode": 61120,
+  "number": 49,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "28.02.2019 09:44:56",
+  "longt": 36.329971938,
+  "lati": 49.997787247,
+  "FullNameUA": "проспект Ювілейний, 49-Б",
+  "ChildsIds": []
  },
  {
   "id": 135173,
@@ -1122,32 +1192,8 @@
   "reg_date": "",
   "longt": 36.3297257515,
   "lati": 49.9982918005,
-  "FullNameUA": "проспект Ювілейний, 49/8"
- },
- {
-  "id": 135175,
-  "postcode": 61120,
-  "number": 49,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "28.02.2019 09:44:56",
-  "longt": 36.329971938,
-  "lati": 49.997787247000005,
-  "FullNameUA": "проспект Ювілейний, 49-Б"
+  "FullNameUA": "проспект Ювілейний, 49/8",
+  "ChildsIds": []
  },
  {
   "id": 135174,
@@ -1166,13 +1212,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 0,
+  "source_id": 1,
   "same_adr_comm": "",
   "confrm": "Розпорядження ВК Московської райради 904, 25.12.1996",
-  "reg_date": "",
+  "reg_date": "21.01.2020 14:28:02",
   "longt": 36.3302349824,
   "lati": 49.9982117213,
-  "FullNameUA": "проспект Ювілейний, 49-А"
+  "FullNameUA": "проспект Ювілейний, 49-А",
+  "ChildsIds": []
  },
  {
   "id": 135177,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.3332848647,
   "lati": 49.9958398352,
-  "FullNameUA": "проспект Ювілейний, 50-А"
+  "FullNameUA": "проспект Ювілейний, 50-А",
+  "ChildsIds": []
  },
  {
   "id": 135176,
@@ -1221,8 +1269,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3323755897,
-  "lati": 49.996340824200004,
-  "FullNameUA": "проспект Ювілейний, 50"
+  "lati": 49.9963408242,
+  "FullNameUA": "проспект Ювілейний, 50",
+  "ChildsIds": []
  },
  {
   "id": 135178,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.3328037516,
   "lati": 49.9979268254,
-  "FullNameUA": "проспект Ювілейний, 51"
+  "FullNameUA": "проспект Ювілейний, 51",
+  "ChildsIds": []
  },
  {
   "id": 135179,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.333775509,
   "lati": 49.9985760438,
-  "FullNameUA": "проспект Ювілейний, 51-А"
+  "FullNameUA": "проспект Ювілейний, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 135180,
@@ -1297,13 +1348,14 @@
   "reg_date": "",
   "longt": 36.3331124077,
   "lati": 49.9990986063,
-  "FullNameUA": "проспект Ювілейний, 51-Б"
+  "FullNameUA": "проспект Ювілейний, 51-Б",
+  "ChildsIds": []
  },
  {
-  "id": 180226,
+  "id": 135181,
   "postcode": 61120,
   "number": 51,
-  "suffix": "Д",
+  "suffix": "В",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -1320,9 +1372,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.3301795198,
-  "lati": 49.997578618700004,
-  "FullNameUA": "проспект Ювілейний, 51-Д"
+  "longt": 36.3341061774,
+  "lati": 49.9993050434,
+  "FullNameUA": "проспект Ювілейний, 51-В",
+  "ChildsIds": []
  },
  {
   "id": 135183,
@@ -1345,9 +1398,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334224657499995,
+  "longt": 36.3342246575,
   "lati": 49.9981318468,
-  "FullNameUA": "проспект Ювілейний, 51-Ж"
+  "FullNameUA": "проспект Ювілейний, 51-Ж",
+  "ChildsIds": []
  },
  {
   "id": 135182,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3322713849,
   "lati": 49.9986786423,
-  "FullNameUA": "проспект Ювілейний, 51-Г"
+  "FullNameUA": "проспект Ювілейний, 51-Г",
+  "ChildsIds": []
  },
  {
   "id": 180261,
@@ -1397,13 +1452,14 @@
   "reg_date": "31.01.2019 15:01:15",
   "longt": 36.3310962813,
   "lati": 49.9983497937,
-  "FullNameUA": "проспект Ювілейний, 51-Д"
+  "FullNameUA": "проспект Ювілейний, 51-Д",
+  "ChildsIds": []
  },
  {
-  "id": 135181,
+  "id": 180226,
   "postcode": 61120,
   "number": 51,
-  "suffix": "В",
+  "suffix": "Д",
   "block": "",
   "streetid": 3735,
   "status_id": 1,
@@ -1420,9 +1476,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.334106177399995,
-  "lati": 49.9993050434,
-  "FullNameUA": "проспект Ювілейний, 51-В"
+  "longt": 36.3301795198,
+  "lati": 49.9975786187,
+  "FullNameUA": "проспект Ювілейний, 51-Д",
+  "ChildsIds": []
  },
  {
   "id": 135185,
@@ -1446,8 +1503,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3331548308,
-  "lati": 49.994806531900004,
-  "FullNameUA": "проспект Ювілейний, 52-А"
+  "lati": 49.9948065319,
+  "FullNameUA": "проспект Ювілейний, 52-А",
+  "ChildsIds": []
  },
  {
   "id": 135184,
@@ -1472,7 +1530,8 @@
   "reg_date": "",
   "longt": 36.3344136199,
   "lati": 49.996180363,
-  "FullNameUA": "проспект Ювілейний, 52"
+  "FullNameUA": "проспект Ювілейний, 52",
+  "ChildsIds": []
  },
  {
   "id": 135186,
@@ -1497,7 +1556,8 @@
   "reg_date": "",
   "longt": 36.3349110784,
   "lati": 49.9987521189,
-  "FullNameUA": "проспект Ювілейний, 53"
+  "FullNameUA": "проспект Ювілейний, 53",
+  "ChildsIds": []
  },
  {
   "id": 135189,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.3343023041,
   "lati": 49.99997783,
-  "FullNameUA": "проспект Ювілейний, 53-Г"
+  "FullNameUA": "проспект Ювілейний, 53-Г",
+  "ChildsIds": []
  },
  {
   "id": 135188,
@@ -1545,9 +1606,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.335803710499995,
+  "longt": 36.3358037105,
   "lati": 50.0001549846,
-  "FullNameUA": "проспект Ювілейний, 53-Б"
+  "FullNameUA": "проспект Ювілейний, 53-Б",
+  "ChildsIds": []
  },
  {
   "id": 135187,
@@ -1571,8 +1633,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3348266544,
-  "lati": 49.999764702200004,
-  "FullNameUA": "проспект Ювілейний, 53-А"
+  "lati": 49.9997647022,
+  "FullNameUA": "проспект Ювілейний, 53-А",
+  "ChildsIds": []
  },
  {
   "id": 135191,
@@ -1597,7 +1660,8 @@
   "reg_date": "",
   "longt": 36.3358602326,
   "lati": 49.9950278565,
-  "FullNameUA": "проспект Ювілейний, 54-А"
+  "FullNameUA": "проспект Ювілейний, 54-А",
+  "ChildsIds": []
  },
  {
   "id": 135192,
@@ -1622,7 +1686,8 @@
   "reg_date": "",
   "longt": 36.3366711852,
   "lati": 49.9945213445,
-  "FullNameUA": "проспект Ювілейний, 54-Б"
+  "FullNameUA": "проспект Ювілейний, 54-Б",
+  "ChildsIds": []
  },
  {
   "id": 135190,
@@ -1647,7 +1712,8 @@
   "reg_date": "",
   "longt": 36.33596772,
   "lati": 49.9960846744,
-  "FullNameUA": "проспект Ювілейний, 54"
+  "FullNameUA": "проспект Ювілейний, 54",
+  "ChildsIds": []
  },
  {
   "id": 135194,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.3365208821,
   "lati": 49.995493486,
-  "FullNameUA": "проспект Ювілейний, 54-Д"
+  "FullNameUA": "проспект Ювілейний, 54-Д",
+  "ChildsIds": []
  },
  {
   "id": 135195,
@@ -1696,8 +1763,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3363738701,
-  "lati": 49.994168600600005,
-  "FullNameUA": "проспект Ювілейний, 54-Ж"
+  "lati": 49.9941686006,
+  "FullNameUA": "проспект Ювілейний, 54-Ж",
+  "ChildsIds": []
  },
  {
   "id": 135193,
@@ -1722,7 +1790,8 @@
   "reg_date": "",
   "longt": 36.3351050019,
   "lati": 49.99349476,
-  "FullNameUA": "проспект Ювілейний, 54-Г"
+  "FullNameUA": "проспект Ювілейний, 54-Г",
+  "ChildsIds": []
  },
  {
   "id": 135197,
@@ -1745,9 +1814,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.339606171199996,
-  "lati": 49.997186073200005,
-  "FullNameUA": "проспект Ювілейний, 55/61"
+  "longt": 36.3396061712,
+  "lati": 49.9971860732,
+  "FullNameUA": "проспект Ювілейний, 55/61",
+  "ChildsIds": []
  },
  {
   "id": 135196,
@@ -1772,7 +1842,8 @@
   "reg_date": "",
   "longt": 36.339182005,
   "lati": 49.9972097308,
-  "FullNameUA": "проспект Ювілейний, 55-А"
+  "FullNameUA": "проспект Ювілейний, 55-А",
+  "ChildsIds": []
  },
  {
   "id": 135199,
@@ -1797,7 +1868,8 @@
   "reg_date": "",
   "longt": 36.336955102,
   "lati": 49.9953718796,
-  "FullNameUA": "проспект Ювілейний, 56-А"
+  "FullNameUA": "проспект Ювілейний, 56-А",
+  "ChildsIds": []
  },
  {
   "id": 135198,
@@ -1821,8 +1893,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3376188194,
-  "lati": 49.995993496400004,
-  "FullNameUA": "проспект Ювілейний, 56"
+  "lati": 49.9959934964,
+  "FullNameUA": "проспект Ювілейний, 56",
+  "ChildsIds": []
  },
  {
   "id": 135201,
@@ -1845,9 +1918,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.342118601100005,
+  "longt": 36.3421186011,
   "lati": 49.9970340232,
-  "FullNameUA": "проспект Ювілейний, 57-А"
+  "FullNameUA": "проспект Ювілейний, 57-А",
+  "ChildsIds": []
  },
  {
   "id": 135200,
@@ -1872,7 +1946,8 @@
   "reg_date": "",
   "longt": 36.3418075916,
   "lati": 49.9976325955,
-  "FullNameUA": "проспект Ювілейний, 57/106"
+  "FullNameUA": "проспект Ювілейний, 57/106",
+  "ChildsIds": []
  },
  {
   "id": 135202,
@@ -1895,9 +1970,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.344186353800005,
-  "lati": 49.997302788300004,
-  "FullNameUA": "проспект Ювілейний, 59"
+  "longt": 36.3441863538,
+  "lati": 49.9973027883,
+  "FullNameUA": "проспект Ювілейний, 59",
+  "ChildsIds": []
  },
  {
   "id": 135203,
@@ -1920,9 +1996,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.343039055400006,
-  "lati": 49.998769476700005,
-  "FullNameUA": "проспект Ювілейний, 59-А"
+  "longt": 36.3430390554,
+  "lati": 49.9987694767,
+  "FullNameUA": "проспект Ювілейний, 59-А",
+  "ChildsIds": []
  },
  {
   "id": 135205,
@@ -1947,7 +2024,8 @@
   "reg_date": "",
   "longt": 36.3435509337,
   "lati": 49.9981184931,
-  "FullNameUA": "проспект Ювілейний, 59-В"
+  "FullNameUA": "проспект Ювілейний, 59-В",
+  "ChildsIds": []
  },
  {
   "id": 135206,
@@ -1970,9 +2048,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34440171200001,
+  "longt": 36.344401712,
   "lati": 49.9987424284,
-  "FullNameUA": "проспект Ювілейний, 59-Г"
+  "FullNameUA": "проспект Ювілейний, 59-Г",
+  "ChildsIds": []
  },
  {
   "id": 135207,
@@ -1996,8 +2075,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3453570846,
-  "lati": 49.998797226200004,
-  "FullNameUA": "проспект Ювілейний, 59-Д"
+  "lati": 49.9987972262,
+  "FullNameUA": "проспект Ювілейний, 59-Д",
+  "ChildsIds": []
  },
  {
   "id": 135204,
@@ -2020,9 +2100,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.34259637900001,
-  "lati": 49.998418849500005,
-  "FullNameUA": "проспект Ювілейний, 59-Б"
+  "longt": 36.342596379,
+  "lati": 49.9984188495,
+  "FullNameUA": "проспект Ювілейний, 59-Б",
+  "ChildsIds": []
  },
  {
   "id": 135208,
@@ -2045,9 +2126,10 @@
   "same_adr_comm": "",
   "confrm": "185, 25.04.1994",
   "reg_date": "",
-  "longt": 36.346579785500005,
+  "longt": 36.3465797855,
   "lati": 49.9973210697,
-  "FullNameUA": "проспект Ювілейний, 61"
+  "FullNameUA": "проспект Ювілейний, 61",
+  "ChildsIds": []
  },
  {
   "id": 135209,
@@ -2070,9 +2152,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346162754000005,
+  "longt": 36.346162754,
   "lati": 49.9979546454,
-  "FullNameUA": "проспект Ювілейний, 61-А"
+  "FullNameUA": "проспект Ювілейний, 61-А",
+  "ChildsIds": []
  },
  {
   "id": 135213,
@@ -2096,8 +2179,9 @@
   "confrm": "797, 12.12.2012",
   "reg_date": "04.03.2019 11:33:12",
   "longt": 36.3462683416,
-  "lati": 49.998913349700004,
-  "FullNameUA": "проспект Ювілейний, 61-Д"
+  "lati": 49.9989133497,
+  "FullNameUA": "проспект Ювілейний, 61-Д",
+  "ChildsIds": []
  },
  {
   "id": 135211,
@@ -2120,9 +2204,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.347889295600005,
+  "longt": 36.3478892956,
   "lati": 49.997975799,
-  "FullNameUA": "проспект Ювілейний, 61-В"
+  "FullNameUA": "проспект Ювілейний, 61-В",
+  "ChildsIds": []
  },
  {
   "id": 135212,
@@ -2145,9 +2230,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.347361760400005,
+  "longt": 36.3473617604,
   "lati": 49.9981545685,
-  "FullNameUA": "проспект Ювілейний, 61-Г"
+  "FullNameUA": "проспект Ювілейний, 61-Г",
+  "ChildsIds": []
  },
  {
   "id": 135210,
@@ -2170,9 +2256,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346835854800005,
+  "longt": 36.3468358548,
   "lati": 49.9979560737,
-  "FullNameUA": "проспект Ювілейний, 61-Б"
+  "FullNameUA": "проспект Ювілейний, 61-Б",
+  "ChildsIds": []
  },
  {
   "id": 135214,
@@ -2195,9 +2282,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348406019500004,
+  "longt": 36.3484060195,
   "lati": 49.9972995935,
-  "FullNameUA": "проспект Ювілейний, 63"
+  "FullNameUA": "проспект Ювілейний, 63",
+  "ChildsIds": []
  },
  {
   "id": 135215,
@@ -2220,9 +2308,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.350451552900005,
+  "longt": 36.3504515529,
   "lati": 49.9973357332,
-  "FullNameUA": "проспект Ювілейний, 63-А"
+  "FullNameUA": "проспект Ювілейний, 63-А",
+  "ChildsIds": []
  },
  {
   "id": 181319,
@@ -2247,7 +2336,8 @@
   "reg_date": "05.09.2019 16:26:35",
   "longt": 36.35256459,
   "lati": 49.9965266807,
-  "FullNameUA": "проспект Ювілейний, 63-Г"
+  "FullNameUA": "проспект Ювілейний, 63-Г",
+  "ChildsIds": []
  },
  {
   "id": 135217,
@@ -2272,7 +2362,8 @@
   "reg_date": "",
   "longt": 36.3502981012,
   "lati": 49.9976101396,
-  "FullNameUA": "проспект Ювілейний, 63-В"
+  "FullNameUA": "проспект Ювілейний, 63-В",
+  "ChildsIds": []
  },
  {
   "id": 179963,
@@ -2297,7 +2388,8 @@
   "reg_date": "23.11.2018 12:56:11",
   "longt": 36.3515850849,
   "lati": 49.9967394275,
-  "FullNameUA": "проспект Ювілейний, 63-Д"
+  "FullNameUA": "проспект Ювілейний, 63-Д",
+  "ChildsIds": []
  },
  {
   "id": 135216,
@@ -2320,9 +2412,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.34915544810001,
+  "longt": 36.3491554481,
   "lati": 49.997694124,
-  "FullNameUA": "проспект Ювілейний, 63-Б"
+  "FullNameUA": "проспект Ювілейний, 63-Б",
+  "ChildsIds": []
  },
  {
   "id": 135218,
@@ -2345,9 +2438,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.341389082400006,
+  "longt": 36.3413890824,
   "lati": 49.9957354668,
-  "FullNameUA": "проспект Ювілейний, 64"
+  "FullNameUA": "проспект Ювілейний, 64",
+  "ChildsIds": []
  },
  {
   "id": 135223,
@@ -2370,9 +2464,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.335577524899996,
-  "lati": 49.998556242300005,
-  "FullNameUA": "проспект Ювілейний, 65-Е"
+  "longt": 36.3355775249,
+  "lati": 49.9985562423,
+  "FullNameUA": "проспект Ювілейний, 65-Е",
+  "ChildsIds": []
  },
  {
   "id": 135219,
@@ -2395,9 +2490,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.354031985700004,
+  "longt": 36.3540319857,
   "lati": 49.9961646359,
-  "FullNameUA": "проспект Ювілейний, 65"
+  "FullNameUA": "проспект Ювілейний, 65",
+  "ChildsIds": []
  },
  {
   "id": 135220,
@@ -2422,7 +2518,8 @@
   "reg_date": "",
   "longt": 36.356333995,
   "lati": 49.9965495228,
-  "FullNameUA": "проспект Ювілейний, 65-Б"
+  "FullNameUA": "проспект Ювілейний, 65-Б",
+  "ChildsIds": []
  },
  {
   "id": 135224,
@@ -2447,7 +2544,8 @@
   "reg_date": "",
   "longt": 36.3531266734,
   "lati": 49.9968522267,
-  "FullNameUA": "проспект Ювілейний, 65-Ж"
+  "FullNameUA": "проспект Ювілейний, 65-Ж",
+  "ChildsIds": []
  },
  {
   "id": 135222,
@@ -2471,8 +2569,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3575845014,
-  "lati": 49.997579356500005,
-  "FullNameUA": "проспект Ювілейний, 65-Г"
+  "lati": 49.9975793565,
+  "FullNameUA": "проспект Ювілейний, 65-Г",
+  "ChildsIds": []
  },
  {
   "id": 135225,
@@ -2497,7 +2596,8 @@
   "reg_date": "",
   "longt": 36.3570144663,
   "lati": 49.9961174175,
-  "FullNameUA": "проспект Ювілейний, 65-З"
+  "FullNameUA": "проспект Ювілейний, 65-З",
+  "ChildsIds": []
  },
  {
   "id": 135221,
@@ -2521,8 +2621,11 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3586998333,
-  "lati": 49.996570643300004,
-  "FullNameUA": "проспект Ювілейний, 65-В"
+  "lati": 49.9965706433,
+  "FullNameUA": "проспект Ювілейний, 65-В",
+  "ChildsIds": [
+   181319
+  ]
  },
  {
   "id": 135226,
@@ -2546,8 +2649,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3434895612,
-  "lati": 49.996001989300005,
-  "FullNameUA": "проспект Ювілейний, 66"
+  "lati": 49.9960019893,
+  "FullNameUA": "проспект Ювілейний, 66",
+  "ChildsIds": []
  },
  {
   "id": 135227,
@@ -2571,8 +2675,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.35615833,
-  "lati": 49.995496921000004,
-  "FullNameUA": "проспект Ювілейний, 67"
+  "lati": 49.995496921,
+  "FullNameUA": "проспект Ювілейний, 67",
+  "ChildsIds": []
  },
  {
   "id": 135229,
@@ -2597,7 +2702,8 @@
   "reg_date": "18.05.2018 11:10:34",
   "longt": 36.3576798141,
   "lati": 49.9963587769,
-  "FullNameUA": "проспект Ювілейний, 67-Б"
+  "FullNameUA": "проспект Ювілейний, 67-Б",
+  "ChildsIds": []
  },
  {
   "id": 135228,
@@ -2622,7 +2728,8 @@
   "reg_date": "",
   "longt": 36.3578788375,
   "lati": 49.996813251,
-  "FullNameUA": "проспект Ювілейний, 67-А"
+  "FullNameUA": "проспект Ювілейний, 67-А",
+  "ChildsIds": []
  },
  {
   "id": 135230,
@@ -2645,9 +2752,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.345098536600005,
+  "longt": 36.3450985366,
   "lati": 49.9961126523,
-  "FullNameUA": "проспект Ювілейний, 68"
+  "FullNameUA": "проспект Ювілейний, 68",
+  "ChildsIds": []
  },
  {
   "id": 135231,
@@ -2672,7 +2780,8 @@
   "reg_date": "",
   "longt": 36.3589940449,
   "lati": 49.9949263409,
-  "FullNameUA": "проспект Ювілейний, 69"
+  "FullNameUA": "проспект Ювілейний, 69",
+  "ChildsIds": []
  },
  {
   "id": 135233,
@@ -2697,7 +2806,8 @@
   "reg_date": "",
   "longt": 36.3614915702,
   "lati": 49.9948885458,
-  "FullNameUA": "проспект Ювілейний, 69-Б"
+  "FullNameUA": "проспект Ювілейний, 69-Б",
+  "ChildsIds": []
  },
  {
   "id": 135234,
@@ -2722,7 +2832,8 @@
   "reg_date": "",
   "longt": 36.3599566363,
   "lati": 49.9943533644,
-  "FullNameUA": "проспект Ювілейний, 69-В"
+  "FullNameUA": "проспект Ювілейний, 69-В",
+  "ChildsIds": []
  },
  {
   "id": 135232,
@@ -2747,7 +2858,34 @@
   "reg_date": "",
   "longt": 36.3603835426,
   "lati": 49.9947966987,
-  "FullNameUA": "проспект Ювілейний, 69-А"
+  "FullNameUA": "проспект Ювілейний, 69-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 135241,
+  "postcode": 61118,
+  "number": 70,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3735,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.346339157,
+  "lati": 49.9955037863,
+  "FullNameUA": "проспект Ювілейний, 70-А",
+  "ChildsIds": []
  },
  {
   "id": 135235,
@@ -2772,7 +2910,8 @@
   "reg_date": "",
   "longt": 36.34719274,
   "lati": 49.9960529911,
-  "FullNameUA": "проспект Ювілейний, 70"
+  "FullNameUA": "проспект Ювілейний, 70",
+  "ChildsIds": []
  },
  {
   "id": 135236,
@@ -2796,8 +2935,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3583627305,
-  "lati": 49.994431498800004,
-  "FullNameUA": "проспект Ювілейний, 71"
+  "lati": 49.9944314988,
+  "FullNameUA": "проспект Ювілейний, 71",
+  "ChildsIds": []
  },
  {
   "id": 135240,
@@ -2822,7 +2962,8 @@
   "reg_date": "",
   "longt": 36.3474871035,
   "lati": 49.9946478819,
-  "FullNameUA": "проспект Ювілейний, 72-В"
+  "FullNameUA": "проспект Ювілейний, 72-В",
+  "ChildsIds": []
  },
  {
   "id": 135237,
@@ -2847,7 +2988,8 @@
   "reg_date": "",
   "longt": 36.3491676744,
   "lati": 49.9959581199,
-  "FullNameUA": "проспект Ювілейний, 72"
+  "FullNameUA": "проспект Ювілейний, 72",
+  "ChildsIds": []
  },
  {
   "id": 135242,
@@ -2872,7 +3014,8 @@
   "reg_date": "",
   "longt": 36.3497405867,
   "lati": 49.995639283,
-  "FullNameUA": "проспект Ювілейний, 72-Д"
+  "FullNameUA": "проспект Ювілейний, 72-Д",
+  "ChildsIds": []
  },
  {
   "id": 135239,
@@ -2895,34 +3038,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.346745842400004,
+  "longt": 36.3467458424,
   "lati": 49.99557064,
-  "FullNameUA": "проспект Ювілейний, 72-Б"
- },
- {
-  "id": 135241,
-  "postcode": 61118,
-  "number": 72,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 3735,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.346339157,
-  "lati": 49.9955037863,
-  "FullNameUA": "проспект Ювілейний, 72-Г"
+  "FullNameUA": "проспект Ювілейний, 72-Б",
+  "ChildsIds": []
  },
  {
   "id": 135238,
@@ -2945,9 +3064,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.348347219900006,
-  "lati": 49.995281669200004,
-  "FullNameUA": "проспект Ювілейний, 72-А"
+  "longt": 36.3483472199,
+  "lati": 49.9952816692,
+  "FullNameUA": "проспект Ювілейний, 72-А",
+  "ChildsIds": []
  },
  {
   "id": 135243,
@@ -2971,8 +3091,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3590115128,
-  "lati": 49.994396782100004,
-  "FullNameUA": "проспект Ювілейний, 73"
+  "lati": 49.9943967821,
+  "FullNameUA": "проспект Ювілейний, 73",
+  "ChildsIds": []
  },
  {
   "id": 135245,
@@ -2996,8 +3117,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.349970679,
-  "lati": 49.995583495800005,
-  "FullNameUA": "проспект Ювілейний, 74-А"
+  "lati": 49.9955834958,
+  "FullNameUA": "проспект Ювілейний, 74-А",
+  "ChildsIds": []
  },
  {
   "id": 135244,
@@ -3022,7 +3144,8 @@
   "reg_date": "",
   "longt": 36.3509451635,
   "lati": 49.9953841521,
-  "FullNameUA": "проспект Ювілейний, 74"
+  "FullNameUA": "проспект Ювілейний, 74",
+  "ChildsIds": []
  },
  {
   "id": 135246,
@@ -3046,8 +3169,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3603219478,
-  "lati": 49.994150598000004,
-  "FullNameUA": "проспект Ювілейний, 75"
+  "lati": 49.994150598,
+  "FullNameUA": "проспект Ювілейний, 75",
+  "ChildsIds": []
  },
  {
   "id": 135248,
@@ -3071,8 +3195,9 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.362297247,
-  "lati": 49.994304388900005,
-  "FullNameUA": "проспект Ювілейний, 75-Б"
+  "lati": 49.9943043889,
+  "FullNameUA": "проспект Ювілейний, 75-Б",
+  "ChildsIds": []
  },
  {
   "id": 135247,
@@ -3097,7 +3222,8 @@
   "reg_date": "",
   "longt": 36.3617190589,
   "lati": 49.9940290889,
-  "FullNameUA": "проспект Ювілейний, 75-А"
+  "FullNameUA": "проспект Ювілейний, 75-А",
+  "ChildsIds": []
  },
  {
   "id": 135250,
@@ -3122,7 +3248,8 @@
   "reg_date": "16.05.2018 10:10:06",
   "longt": 36.3535540389,
   "lati": 49.9948720312,
-  "FullNameUA": "проспект Ювілейний, 76-А"
+  "FullNameUA": "проспект Ювілейний, 76-А",
+  "ChildsIds": []
  },
  {
   "id": 135249,
@@ -3145,9 +3272,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.353101755000004,
+  "longt": 36.353101755,
   "lati": 49.9953684894,
-  "FullNameUA": "проспект Ювілейний, 76"
+  "FullNameUA": "проспект Ювілейний, 76",
+  "ChildsIds": []
  },
  {
   "id": 135251,
@@ -3172,7 +3300,8 @@
   "reg_date": "",
   "longt": 36.359470494,
   "lati": 49.9936450815,
-  "FullNameUA": "проспект Ювілейний, 77"
+  "FullNameUA": "проспект Ювілейний, 77",
+  "ChildsIds": []
  },
  {
   "id": 135252,
@@ -3197,7 +3326,8 @@
   "reg_date": "",
   "longt": 36.3541792034,
   "lati": 49.9944610901,
-  "FullNameUA": "проспект Ювілейний, 78"
+  "FullNameUA": "проспект Ювілейний, 78",
+  "ChildsIds": []
  },
  {
   "id": 135253,
@@ -3222,7 +3352,8 @@
   "reg_date": "",
   "longt": 36.353521959,
   "lati": 49.9947326372,
-  "FullNameUA": "проспект Ювілейний, 78-А"
+  "FullNameUA": "проспект Ювілейний, 78-А",
+  "ChildsIds": []
  },
  {
   "id": 135254,
@@ -3247,7 +3378,8 @@
   "reg_date": "",
   "longt": 36.3601523837,
   "lati": 49.9935667669,
-  "FullNameUA": "проспект Ювілейний, 79"
+  "FullNameUA": "проспект Ювілейний, 79",
+  "ChildsIds": []
  },
  {
   "id": 135255,
@@ -3271,8 +3403,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3551453927,
-  "lati": 49.994650046800004,
-  "FullNameUA": "проспект Ювілейний, 80"
+  "lati": 49.9946500468,
+  "FullNameUA": "проспект Ювілейний, 80",
+  "ChildsIds": []
  },
  {
   "id": 135256,
@@ -3297,7 +3430,8 @@
   "reg_date": "",
   "longt": 36.3614718422,
   "lati": 49.9933348236,
-  "FullNameUA": "проспект Ювілейний, 81"
+  "FullNameUA": "проспект Ювілейний, 81",
+  "ChildsIds": []
  },
  {
   "id": 135257,
@@ -3321,8 +3455,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3628724817,
-  "lati": 49.993219354800004,
-  "FullNameUA": "проспект Ювілейний, 81-А"
+  "lati": 49.9932193548,
+  "FullNameUA": "проспект Ювілейний, 81-А",
+  "ChildsIds": []
  },
  {
   "id": 135259,
@@ -3346,8 +3481,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3554133875,
-  "lati": 49.994100615600004,
-  "FullNameUA": "проспект Ювілейний, 82-А"
+  "lati": 49.9941006156,
+  "FullNameUA": "проспект Ювілейний, 82-А",
+  "ChildsIds": []
  },
  {
   "id": 135258,
@@ -3371,8 +3507,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.355014755,
-  "lati": 49.993905217700004,
-  "FullNameUA": "проспект Ювілейний, 82"
+  "lati": 49.9939052177,
+  "FullNameUA": "проспект Ювілейний, 82",
+  "ChildsIds": []
  },
  {
   "id": 135260,
@@ -3396,8 +3533,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3604319406,
-  "lati": 49.992815032500005,
-  "FullNameUA": "проспект Ювілейний, 83"
+  "lati": 49.9928150325,
+  "FullNameUA": "проспект Ювілейний, 83",
+  "ChildsIds": []
  },
  {
   "id": 135261,
@@ -3422,7 +3560,8 @@
   "reg_date": "",
   "longt": 36.3562316327,
   "lati": 49.9942101475,
-  "FullNameUA": "проспект Ювілейний, 84"
+  "FullNameUA": "проспект Ювілейний, 84",
+  "ChildsIds": []
  },
  {
   "id": 135262,
@@ -3447,7 +3586,8 @@
   "reg_date": "",
   "longt": 36.3612035637,
   "lati": 49.9927560398,
-  "FullNameUA": "проспект Ювілейний, 85"
+  "FullNameUA": "проспект Ювілейний, 85",
+  "ChildsIds": []
  },
  {
   "id": 135263,
@@ -3472,7 +3612,8 @@
   "reg_date": "",
   "longt": 36.3561588928,
   "lati": 49.9933582577,
-  "FullNameUA": "проспект Ювілейний, 86"
+  "FullNameUA": "проспект Ювілейний, 86",
+  "ChildsIds": []
  },
  {
   "id": 135264,
@@ -3497,7 +3638,8 @@
   "reg_date": "",
   "longt": 36.3453040528,
   "lati": 49.9952698756,
-  "FullNameUA": "проспект Ювілейний, 86-Б"
+  "FullNameUA": "проспект Ювілейний, 86-Б",
+  "ChildsIds": []
  },
  {
   "id": 135265,
@@ -3520,9 +3662,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.362539771899996,
+  "longt": 36.3625397719,
   "lati": 49.9925174424,
-  "FullNameUA": "проспект Ювілейний, 87"
+  "FullNameUA": "проспект Ювілейний, 87",
+  "ChildsIds": []
  },
  {
   "id": 135266,
@@ -3546,8 +3689,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3572654928,
-  "lati": 49.993656474800005,
-  "FullNameUA": "проспект Ювілейний, 88"
+  "lati": 49.9936564748,
+  "FullNameUA": "проспект Ювілейний, 88",
+  "ChildsIds": []
  },
  {
   "id": 135267,
@@ -3571,8 +3715,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3614248404,
-  "lati": 49.991939432900004,
-  "FullNameUA": "проспект Ювілейний, 89"
+  "lati": 49.9919394329,
+  "FullNameUA": "проспект Ювілейний, 89",
+  "ChildsIds": []
  },
  {
   "id": 135270,
@@ -3597,7 +3742,8 @@
   "reg_date": "",
   "longt": 36.3589073296,
   "lati": 49.9911946696,
-  "FullNameUA": "проспект Ювілейний, 90-Б"
+  "FullNameUA": "проспект Ювілейний, 90-Б",
+  "ChildsIds": []
  },
  {
   "id": 135269,
@@ -3621,8 +3767,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3567671776,
-  "lati": 49.992368001100004,
-  "FullNameUA": "проспект Ювілейний, 90-А"
+  "lati": 49.9923680011,
+  "FullNameUA": "проспект Ювілейний, 90-А",
+  "ChildsIds": []
  },
  {
   "id": 135268,
@@ -3647,7 +3794,8 @@
   "reg_date": "",
   "longt": 36.3569921193,
   "lati": 49.9927694441,
-  "FullNameUA": "проспект Ювілейний, 90"
+  "FullNameUA": "проспект Ювілейний, 90",
+  "ChildsIds": []
  },
  {
   "id": 135271,
@@ -3672,7 +3820,8 @@
   "reg_date": "",
   "longt": 36.3618412764,
   "lati": 49.9920202631,
-  "FullNameUA": "проспект Ювілейний, 91"
+  "FullNameUA": "проспект Ювілейний, 91",
+  "ChildsIds": []
  },
  {
   "id": 135272,
@@ -3697,7 +3846,8 @@
   "reg_date": "",
   "longt": 36.3582654254,
   "lati": 49.9929655109,
-  "FullNameUA": "проспект Ювілейний, 92"
+  "FullNameUA": "проспект Ювілейний, 92",
+  "ChildsIds": []
  },
  {
   "id": 135273,
@@ -3722,7 +3872,8 @@
   "reg_date": "",
   "longt": 36.3573426563,
   "lati": 49.9921810448,
-  "FullNameUA": "проспект Ювілейний, 94"
+  "FullNameUA": "проспект Ювілейний, 94",
+  "ChildsIds": []
  },
  {
   "id": 135274,
@@ -3747,7 +3898,8 @@
   "reg_date": "",
   "longt": 36.358773608,
   "lati": 49.9921071399,
-  "FullNameUA": "проспект Ювілейний, 96/153"
+  "FullNameUA": "проспект Ювілейний, 96/153",
+  "ChildsIds": []
  },
  {
   "id": 135275,
@@ -3770,8 +3922,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.360201467799996,
+  "longt": 36.3602014678,
   "lati": 49.991583176,
-  "FullNameUA": "проспект Ювілейний, 98"
+  "FullNameUA": "проспект Ювілейний, 98",
+  "ChildsIds": []
  }
 ]

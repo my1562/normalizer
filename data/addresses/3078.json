@@ -1,30 +1,5 @@
 [
  {
-  "id": 141641,
-  "postcode": 61098,
-  "number": 1,
-  "suffix": "",
-  "block": "",
-  "streetid": 3078,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1651740738,
-  "lati": 49.98472958600001,
-  "FullNameUA": "в'їзд Куряжанський, 1"
- },
- {
   "id": 141642,
   "postcode": 61098,
   "number": 1,
@@ -46,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1654001567,
-  "lati": 49.984499249900004,
-  "FullNameUA": "в'їзд Куряжанський, 1-А"
+  "lati": 49.9844992499,
+  "FullNameUA": "в'їзд Куряжанський, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 141643,
@@ -72,7 +48,34 @@
   "reg_date": "",
   "longt": 36.1649813825,
   "lati": 49.9844395649,
-  "FullNameUA": "в'їзд Куряжанський, 1-Б"
+  "FullNameUA": "в'їзд Куряжанський, 1-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 141641,
+  "postcode": 61098,
+  "number": 1,
+  "suffix": "",
+  "block": "",
+  "streetid": 3078,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1651740738,
+  "lati": 49.984729586,
+  "FullNameUA": "в'їзд Куряжанський, 1",
+  "ChildsIds": []
  },
  {
   "id": 141644,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.165897846200004,
+  "longt": 36.1658978462,
   "lati": 49.984601599,
-  "FullNameUA": "в'їзд Куряжанський, 2"
+  "FullNameUA": "в'їзд Куряжанський, 2",
+  "ChildsIds": []
  },
  {
   "id": 141645,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.164899732100004,
+  "longt": 36.1648997321,
   "lati": 49.9849165875,
-  "FullNameUA": "в'їзд Куряжанський, 3"
+  "FullNameUA": "в'їзд Куряжанський, 3",
+  "ChildsIds": []
  },
  {
   "id": 141646,
@@ -146,8 +151,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1656195814,
-  "lati": 49.984818882400006,
-  "FullNameUA": "в'їзд Куряжанський, 4"
+  "lati": 49.9848188824,
+  "FullNameUA": "в'їзд Куряжанський, 4",
+  "ChildsIds": []
+ },
+ {
+  "id": 141648,
+  "postcode": 61098,
+  "number": 5,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3078,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "505, 22.08.2012",
+  "reg_date": "16.01.2020 16:41:11",
+  "longt": 36.1640053554,
+  "lati": 49.9853552929,
+  "FullNameUA": "в'їзд Куряжанський, 5-А",
+  "ChildsIds": []
  },
  {
   "id": 141647,
@@ -171,14 +203,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1646903907,
-  "lati": 49.984942496500004,
-  "FullNameUA": "в'їзд Куряжанський, 5"
+  "lati": 49.9849424965,
+  "FullNameUA": "в'їзд Куряжанський, 5",
+  "ChildsIds": []
  },
  {
-  "id": 141648,
+  "id": 141649,
   "postcode": 61098,
-  "number": 5,
-  "suffix": "А",
+  "number": 6,
+  "suffix": "/1",
   "block": "",
   "streetid": 3078,
   "status_id": 1,
@@ -193,11 +226,12 @@
   "detail_number": "",
   "source_id": 0,
   "same_adr_comm": "",
-  "confrm": "505, 22.08.2012",
+  "confrm": "",
   "reg_date": "",
-  "longt": 36.1640053554,
-  "lati": 49.9853552929,
-  "FullNameUA": "в'їзд Куряжанський, 5-А"
+  "longt": 36.1654914091,
+  "lati": 49.9850046784,
+  "FullNameUA": "в'їзд Куряжанський, 6/1",
+  "ChildsIds": []
  },
  {
   "id": 141650,
@@ -221,58 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1657775631,
-  "lati": 49.98509576040001,
-  "FullNameUA": "в'їзд Куряжанський, 6/2"
- },
- {
-  "id": 141649,
-  "postcode": 61098,
-  "number": 6,
-  "suffix": "/1",
-  "block": "",
-  "streetid": 3078,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.16549140910001,
-  "lati": 49.9850046784,
-  "FullNameUA": "в'їзд Куряжанський, 6/1"
- },
- {
-  "id": 141651,
-  "postcode": 61098,
-  "number": 7,
-  "suffix": "",
-  "block": "",
-  "streetid": 3078,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.16441465610001,
-  "lati": 49.9849801625,
-  "FullNameUA": "в'їзд Куряжанський, 7"
+  "lati": 49.9850957604,
+  "FullNameUA": "в'їзд Куряжанський, 6/2",
+  "ChildsIds": []
  },
  {
   "id": 141652,
@@ -296,8 +281,61 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1643465657,
-  "lati": 49.98565722240001,
-  "FullNameUA": "в'їзд Куряжанський, 7-А"
+  "lati": 49.9856572224,
+  "FullNameUA": "в'їзд Куряжанський, 7-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 182180,
+  "postcode": 61098,
+  "number": 7,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 3078,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1644837121,
+  "lati": 49.9854617174,
+  "FullNameUA": "в'їзд Куряжанський, 7-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 141651,
+  "postcode": 61098,
+  "number": 7,
+  "suffix": "",
+  "block": "",
+  "streetid": 3078,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1644146561,
+  "lati": 49.9849801625,
+  "FullNameUA": "в'їзд Куряжанський, 7",
+  "ChildsIds": []
  },
  {
   "id": 141653,
@@ -321,8 +359,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1653149623,
-  "lati": 49.98514188910001,
-  "FullNameUA": "в'їзд Куряжанський, 8"
+  "lati": 49.9851418891,
+  "FullNameUA": "в'їзд Куряжанський, 8",
+  "ChildsIds": []
  },
  {
   "id": 141654,
@@ -346,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1642989726,
-  "lati": 49.985946905000006,
-  "FullNameUA": "в'їзд Куряжанський, 9"
+  "lati": 49.985946905,
+  "FullNameUA": "в'їзд Куряжанський, 9",
+  "ChildsIds": []
  },
  {
   "id": 141655,
@@ -372,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1651757467,
   "lati": 49.9853321957,
-  "FullNameUA": "в'їзд Куряжанський, 10"
+  "FullNameUA": "в'їзд Куряжанський, 10",
+  "ChildsIds": []
  },
  {
   "id": 141657,
@@ -397,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1649699771,
   "lati": 49.9855128481,
-  "FullNameUA": "в'їзд Куряжанський, 12-А"
+  "FullNameUA": "в'їзд Куряжанський, 12-А",
+  "ChildsIds": []
  },
  {
   "id": 141656,
@@ -421,7 +463,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1647699544,
-  "lati": 49.985727024400006,
-  "FullNameUA": "в'їзд Куряжанський, 12"
+  "lati": 49.9857270244,
+  "FullNameUA": "в'їзд Куряжанський, 12",
+  "ChildsIds": []
  }
 ]

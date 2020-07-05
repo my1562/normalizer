@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.1904314894,
   "lati": 49.9989121937,
-  "FullNameUA": "вулиця Виноградна, 5"
+  "FullNameUA": "вулиця Виноградна, 5",
+  "ChildsIds": []
  },
  {
   "id": 138431,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.190674746199996,
+  "longt": 36.1906747462,
   "lati": 49.9991891947,
-  "FullNameUA": "вулиця Виноградна, 6"
+  "FullNameUA": "вулиця Виноградна, 6",
+  "ChildsIds": []
  },
  {
   "id": 138432,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.190349783799995,
-  "lati": 49.999101307000004,
-  "FullNameUA": "вулиця Виноградна, 7"
+  "longt": 36.1903497838,
+  "lati": 49.999101307,
+  "FullNameUA": "вулиця Виноградна, 7",
+  "ChildsIds": []
  },
  {
   "id": 138433,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.1905794634,
   "lati": 49.9994568058,
-  "FullNameUA": "вулиця Виноградна, 8"
+  "FullNameUA": "вулиця Виноградна, 8",
+  "ChildsIds": []
  },
  {
   "id": 138434,
@@ -122,32 +126,8 @@
   "reg_date": "",
   "longt": 36.1902084917,
   "lati": 49.9992948568,
-  "FullNameUA": "вулиця Виноградна, 9"
- },
- {
-  "id": 138435,
-  "postcode": 61016,
-  "number": 10,
-  "suffix": "",
-  "block": "",
-  "streetid": 2331,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.190441472799996,
-  "lati": 49.9997243503,
-  "FullNameUA": "вулиця Виноградна, 10"
+  "FullNameUA": "вулиця Виноградна, 9",
+  "ChildsIds": []
  },
  {
   "id": 138436,
@@ -171,8 +151,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1905171079,
-  "lati": 49.999572347400004,
-  "FullNameUA": "вулиця Виноградна, 10-А"
+  "lati": 49.9995723474,
+  "FullNameUA": "вулиця Виноградна, 10-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 138435,
+  "postcode": 61016,
+  "number": 10,
+  "suffix": "",
+  "block": "",
+  "streetid": 2331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1904414728,
+  "lati": 49.9997243503,
+  "FullNameUA": "вулиця Виноградна, 10",
+  "ChildsIds": []
  },
  {
   "id": 138437,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.190092205,
   "lati": 49.9994518352,
-  "FullNameUA": "вулиця Виноградна, 11"
+  "FullNameUA": "вулиця Виноградна, 11",
+  "ChildsIds": []
  },
  {
   "id": 138438,
@@ -222,32 +230,8 @@
   "reg_date": "",
   "longt": 36.1903760872,
   "lati": 49.999863675,
-  "FullNameUA": "вулиця Виноградна, 12"
- },
- {
-  "id": 138439,
-  "postcode": 61016,
-  "number": 13,
-  "suffix": "",
-  "block": "",
-  "streetid": 2331,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1900286009,
-  "lati": 49.999646566100004,
-  "FullNameUA": "вулиця Виноградна, 13"
+  "FullNameUA": "вулиця Виноградна, 12",
+  "ChildsIds": []
  },
  {
   "id": 138440,
@@ -272,7 +256,34 @@
   "reg_date": "",
   "longt": 36.1895654802,
   "lati": 49.999723451,
-  "FullNameUA": "вулиця Виноградна, 13-А"
+  "FullNameUA": "вулиця Виноградна, 13-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 138439,
+  "postcode": 61016,
+  "number": 13,
+  "suffix": "",
+  "block": "",
+  "streetid": 2331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1900286009,
+  "lati": 49.9996465661,
+  "FullNameUA": "вулиця Виноградна, 13",
+  "ChildsIds": []
  },
  {
   "id": 138441,
@@ -297,7 +308,8 @@
   "reg_date": "",
   "longt": 36.1903294283,
   "lati": 49.9999872856,
-  "FullNameUA": "вулиця Виноградна, 14"
+  "FullNameUA": "вулиця Виноградна, 14",
+  "ChildsIds": []
  },
  {
   "id": 138442,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.1897333665,
-  "lati": 49.999872349600004,
-  "FullNameUA": "вулиця Виноградна, 15"
+  "lati": 49.9998723496,
+  "FullNameUA": "вулиця Виноградна, 15",
+  "ChildsIds": []
  },
  {
   "id": 138443,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.1902317447,
   "lati": 50.0001509243,
-  "FullNameUA": "вулиця Виноградна, 16"
+  "FullNameUA": "вулиця Виноградна, 16",
+  "ChildsIds": []
  },
  {
   "id": 138444,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.1898608508,
   "lati": 50.0000718365,
-  "FullNameUA": "вулиця Виноградна, 17"
+  "FullNameUA": "вулиця Виноградна, 17",
+  "ChildsIds": []
  },
  {
   "id": 138445,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.1901399272,
   "lati": 50.0003802607,
-  "FullNameUA": "вулиця Виноградна, 18"
+  "FullNameUA": "вулиця Виноградна, 18",
+  "ChildsIds": []
  },
  {
   "id": 138446,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.1893413386,
   "lati": 50.0010725896,
-  "FullNameUA": "вулиця Виноградна, 21"
+  "FullNameUA": "вулиця Виноградна, 21",
+  "ChildsIds": []
  },
  {
   "id": 138447,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.1899145972,
   "lati": 50.000771559,
-  "FullNameUA": "вулиця Виноградна, 22"
+  "FullNameUA": "вулиця Виноградна, 22",
+  "ChildsIds": []
  },
  {
   "id": 138448,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.1892346688,
   "lati": 50.001405807,
-  "FullNameUA": "вулиця Виноградна, 23"
+  "FullNameUA": "вулиця Виноградна, 23",
+  "ChildsIds": []
  },
  {
   "id": 138449,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.1898294176,
   "lati": 50.0010459353,
-  "FullNameUA": "вулиця Виноградна, 24"
+  "FullNameUA": "вулиця Виноградна, 24",
+  "ChildsIds": []
  },
  {
   "id": 177821,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.1895029238,
   "lati": 50.0016948076,
-  "FullNameUA": "вулиця Виноградна, 26"
+  "FullNameUA": "вулиця Виноградна, 26",
+  "ChildsIds": []
  },
  {
   "id": 138450,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.1889228072,
   "lati": 50.001979155,
-  "FullNameUA": "вулиця Виноградна, 27"
+  "FullNameUA": "вулиця Виноградна, 27",
+  "ChildsIds": []
  },
  {
   "id": 138451,
@@ -572,7 +594,8 @@
   "reg_date": "",
   "longt": 36.1893721879,
   "lati": 50.0020213602,
-  "FullNameUA": "вулиця Виноградна, 28"
+  "FullNameUA": "вулиця Виноградна, 28",
+  "ChildsIds": []
  },
  {
   "id": 138452,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.188890627,
   "lati": 50.0020925699,
-  "FullNameUA": "вулиця Виноградна, 29"
+  "FullNameUA": "вулиця Виноградна, 29",
+  "ChildsIds": []
  },
  {
   "id": 138453,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.1894449916,
   "lati": 50.0022150723,
-  "FullNameUA": "вулиця Виноградна, 30"
+  "FullNameUA": "вулиця Виноградна, 30",
+  "ChildsIds": []
  },
  {
   "id": 138454,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.1888007674,
   "lati": 50.0022981023,
-  "FullNameUA": "вулиця Виноградна, 31"
+  "FullNameUA": "вулиця Виноградна, 31",
+  "ChildsIds": []
  },
  {
   "id": 138455,
@@ -672,32 +698,8 @@
   "reg_date": "",
   "longt": 36.1894047734,
   "lati": 50.0023841108,
-  "FullNameUA": "вулиця Виноградна, 32"
- },
- {
-  "id": 138457,
-  "postcode": 61016,
-  "number": 33,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2331,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.1886735482,
-  "lati": 50.0021469501,
-  "FullNameUA": "вулиця Виноградна, 33-А"
+  "FullNameUA": "вулиця Виноградна, 32",
+  "ChildsIds": []
  },
  {
   "id": 138456,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.1887245344,
   "lati": 50.0024216237,
-  "FullNameUA": "вулиця Виноградна, 33"
+  "FullNameUA": "вулиця Виноградна, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 138457,
+  "postcode": 61016,
+  "number": 33,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1886735482,
+  "lati": 50.0021469501,
+  "FullNameUA": "вулиця Виноградна, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 138458,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.1892612669,
   "lati": 50.002517575,
-  "FullNameUA": "вулиця Виноградна, 34"
+  "FullNameUA": "вулиця Виноградна, 34",
+  "ChildsIds": []
  },
  {
   "id": 138459,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.1886554536,
   "lati": 50.0025907078,
-  "FullNameUA": "вулиця Виноградна, 35"
+  "FullNameUA": "вулиця Виноградна, 35",
+  "ChildsIds": []
  },
  {
   "id": 138460,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.1890163831,
   "lati": 50.0026330923,
-  "FullNameUA": "вулиця Виноградна, 36"
+  "FullNameUA": "вулиця Виноградна, 36",
+  "ChildsIds": []
  },
  {
   "id": 138461,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.1885763993,
   "lati": 50.0027064136,
-  "FullNameUA": "вулиця Виноградна, 37"
+  "FullNameUA": "вулиця Виноградна, 37",
+  "ChildsIds": []
  },
  {
   "id": 138462,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.1880313897,
   "lati": 50.0035189975,
-  "FullNameUA": "вулиця Виноградна, 40"
+  "FullNameUA": "вулиця Виноградна, 40",
+  "ChildsIds": []
  },
  {
   "id": 138463,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.1878771158,
   "lati": 50.0036622998,
-  "FullNameUA": "вулиця Виноградна, 42"
+  "FullNameUA": "вулиця Виноградна, 42",
+  "ChildsIds": []
  },
  {
   "id": 138464,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.1876113845,
   "lati": 50.003481693,
-  "FullNameUA": "вулиця Виноградна, 43"
+  "FullNameUA": "вулиця Виноградна, 43",
+  "ChildsIds": []
  },
  {
   "id": 138465,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.1877648377,
   "lati": 50.0032830297,
-  "FullNameUA": "вулиця Виноградна, 43-А"
+  "FullNameUA": "вулиця Виноградна, 43-А",
+  "ChildsIds": []
  },
  {
   "id": 138466,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.1877919432,
   "lati": 50.0038194898,
-  "FullNameUA": "вулиця Виноградна, 44"
+  "FullNameUA": "вулиця Виноградна, 44",
+  "ChildsIds": []
  },
  {
   "id": 138467,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.1874739233,
   "lati": 50.0036440574,
-  "FullNameUA": "вулиця Виноградна, 45"
+  "FullNameUA": "вулиця Виноградна, 45",
+  "ChildsIds": []
  },
  {
   "id": 138468,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.1876934043,
   "lati": 50.0039476027,
-  "FullNameUA": "вулиця Виноградна, 46"
+  "FullNameUA": "вулиця Виноградна, 46",
+  "ChildsIds": []
  },
  {
   "id": 138469,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.1873386316,
   "lati": 50.0038266487,
-  "FullNameUA": "вулиця Виноградна, 47"
+  "FullNameUA": "вулиця Виноградна, 47",
+  "ChildsIds": []
  },
  {
   "id": 138470,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.1875764969,
   "lati": 50.0041106357,
-  "FullNameUA": "вулиця Виноградна, 48"
+  "FullNameUA": "вулиця Виноградна, 48",
+  "ChildsIds": []
  },
  {
   "id": 138471,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.1871899916,
   "lati": 50.003984624,
-  "FullNameUA": "вулиця Виноградна, 49"
+  "FullNameUA": "вулиця Виноградна, 49",
+  "ChildsIds": []
  },
  {
   "id": 138472,
@@ -1097,32 +1140,8 @@
   "reg_date": "",
   "longt": 36.1874622519,
   "lati": 50.0042879172,
-  "FullNameUA": "вулиця Виноградна, 50"
- },
- {
-  "id": 138474,
-  "postcode": 61016,
-  "number": 51,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2331,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.187089295599996,
-  "lati": 50.0040964424,
-  "FullNameUA": "вулиця Виноградна, 51-А"
+  "FullNameUA": "вулиця Виноградна, 50",
+  "ChildsIds": []
  },
  {
   "id": 138473,
@@ -1145,9 +1164,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.186998244499996,
+  "longt": 36.1869982445,
   "lati": 50.0041775102,
-  "FullNameUA": "вулиця Виноградна, 51"
+  "FullNameUA": "вулиця Виноградна, 51",
+  "ChildsIds": []
+ },
+ {
+  "id": 138474,
+  "postcode": 61016,
+  "number": 51,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2331,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.1870892956,
+  "lati": 50.0040964424,
+  "FullNameUA": "вулиця Виноградна, 51-А",
+  "ChildsIds": []
  },
  {
   "id": 138475,
@@ -1172,7 +1218,8 @@
   "reg_date": "",
   "longt": 36.1873033905,
   "lati": 50.0044497447,
-  "FullNameUA": "вулиця Виноградна, 52"
+  "FullNameUA": "вулиця Виноградна, 52",
+  "ChildsIds": []
  },
  {
   "id": 138476,
@@ -1197,7 +1244,8 @@
   "reg_date": "",
   "longt": 36.1869353033,
   "lati": 50.0043135305,
-  "FullNameUA": "вулиця Виноградна, 53"
+  "FullNameUA": "вулиця Виноградна, 53",
+  "ChildsIds": []
  },
  {
   "id": 138477,
@@ -1222,7 +1270,8 @@
   "reg_date": "",
   "longt": 36.187202732,
   "lati": 50.0045713696,
-  "FullNameUA": "вулиця Виноградна, 54"
+  "FullNameUA": "вулиця Виноградна, 54",
+  "ChildsIds": []
  },
  {
   "id": 138478,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.1870818975,
   "lati": 50.0047061367,
-  "FullNameUA": "вулиця Виноградна, 56"
+  "FullNameUA": "вулиця Виноградна, 56",
+  "ChildsIds": []
  },
  {
   "id": 138479,
@@ -1272,7 +1322,8 @@
   "reg_date": "",
   "longt": 36.1866023746,
   "lati": 50.0046612663,
-  "FullNameUA": "вулиця Виноградна, 57"
+  "FullNameUA": "вулиця Виноградна, 57",
+  "ChildsIds": []
  },
  {
   "id": 138480,
@@ -1297,6 +1348,7 @@
   "reg_date": "",
   "longt": 36.1870135367,
   "lati": 50.0048353791,
-  "FullNameUA": "вулиця Виноградна, 58"
+  "FullNameUA": "вулиця Виноградна, 58",
+  "ChildsIds": []
  }
 ]

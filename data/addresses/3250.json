@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3204207784,
   "lati": 50.0092056474,
-  "FullNameUA": "вулиця Василя Стуса, 1-А"
+  "FullNameUA": "вулиця Василя Стуса, 1-А",
+  "ChildsIds": []
  },
  {
   "id": 134468,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3207324673,
   "lati": 50.0091182226,
-  "FullNameUA": "вулиця Василя Стуса, 1"
+  "FullNameUA": "вулиця Василя Стуса, 1",
+  "ChildsIds": []
  },
  {
   "id": 134470,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3256752425,
   "lati": 50.0067218343,
-  "FullNameUA": "вулиця Василя Стуса, 2"
+  "FullNameUA": "вулиця Василя Стуса, 2",
+  "ChildsIds": []
  },
  {
   "id": 179414,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.3255945181,
   "lati": 50.0067601302,
-  "FullNameUA": "вулиця Василя Стуса, 2-В"
+  "FullNameUA": "вулиця Василя Стуса, 2-В",
+  "ChildsIds": []
  },
  {
   "id": 134471,
@@ -122,32 +126,8 @@
   "reg_date": "",
   "longt": 36.3210985183,
   "lati": 50.008996213,
-  "FullNameUA": "вулиця Василя Стуса, 3"
- },
- {
-  "id": 134473,
-  "postcode": 61054,
-  "number": 4,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3250,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "градархив",
-  "reg_date": "01.04.2019 12:27:27",
-  "longt": 36.3250439029,
-  "lati": 50.007079665,
-  "FullNameUA": "вулиця Василя Стуса, 4-А"
+  "FullNameUA": "вулиця Василя Стуса, 3",
+  "ChildsIds": []
  },
  {
   "id": 134472,
@@ -172,7 +152,36 @@
   "reg_date": "",
   "longt": 36.3258481238,
   "lati": 50.0066353996,
-  "FullNameUA": "вулиця Василя Стуса, 4"
+  "FullNameUA": "вулиця Василя Стуса, 4",
+  "ChildsIds": [
+   134473
+  ]
+ },
+ {
+  "id": 134473,
+  "postcode": 61054,
+  "number": 4,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3250,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310137500:07:018:0076)",
+  "confrm": "",
+  "reg_date": "01.04.2019 12:27:27",
+  "longt": 36.3250436885,
+  "lati": 50.0070813145,
+  "FullNameUA": "вулиця Василя Стуса, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 134474,
@@ -197,7 +206,8 @@
   "reg_date": "",
   "longt": 36.3260813463,
   "lati": 50.006523547,
-  "FullNameUA": "вулиця Василя Стуса, 6"
+  "FullNameUA": "вулиця Василя Стуса, 6",
+  "ChildsIds": []
  },
  {
   "id": 134475,
@@ -222,7 +232,8 @@
   "reg_date": "",
   "longt": 36.3217542015,
   "lati": 50.0087846629,
-  "FullNameUA": "вулиця Василя Стуса, 7/2"
+  "FullNameUA": "вулиця Василя Стуса, 7/2",
+  "ChildsIds": []
  },
  {
   "id": 134476,
@@ -245,34 +256,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.326330961800004,
+  "longt": 36.3263309618,
   "lati": 50.006415412,
-  "FullNameUA": "вулиця Василя Стуса, 8"
- },
- {
-  "id": 134478,
-  "postcode": 61054,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3250,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3244119871,
-  "lati": 50.0086944032,
-  "FullNameUA": "вулиця Василя Стуса, 9-А"
+  "FullNameUA": "вулиця Василя Стуса, 8",
+  "ChildsIds": []
  },
  {
   "id": 134477,
@@ -297,7 +284,34 @@
   "reg_date": "",
   "longt": 36.322009842,
   "lati": 50.0086951104,
-  "FullNameUA": "вулиця Василя Стуса, 9"
+  "FullNameUA": "вулиця Василя Стуса, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 134478,
+  "postcode": 61054,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3250,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3244119871,
+  "lati": 50.0086944032,
+  "FullNameUA": "вулиця Василя Стуса, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 134479,
@@ -322,7 +336,34 @@
   "reg_date": "",
   "longt": 36.3267074586,
   "lati": 50.0062014169,
-  "FullNameUA": "вулиця Василя Стуса, 10"
+  "FullNameUA": "вулиця Василя Стуса, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 183041,
+  "postcode": 61170,
+  "number": 11,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3250,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3260060726,
+  "lati": 50.007029159,
+  "FullNameUA": "вулиця Василя Стуса, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 134480,
@@ -347,7 +388,8 @@
   "reg_date": "",
   "longt": 36.3249134862,
   "lati": 50.0079011492,
-  "FullNameUA": "вулиця Василя Стуса, 11"
+  "FullNameUA": "вулиця Василя Стуса, 11",
+  "ChildsIds": []
  },
  {
   "id": 134481,
@@ -372,32 +414,8 @@
   "reg_date": "",
   "longt": 36.3269074986,
   "lati": 50.0060940254,
-  "FullNameUA": "вулиця Василя Стуса, 12"
- },
- {
-  "id": 134483,
-  "postcode": 61054,
-  "number": 13,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3250,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3264944067,
-  "lati": 50.008840406,
-  "FullNameUA": "вулиця Василя Стуса, 13-А"
+  "FullNameUA": "вулиця Василя Стуса, 12",
+  "ChildsIds": []
  },
  {
   "id": 134482,
@@ -422,7 +440,8 @@
   "reg_date": "",
   "longt": 36.3253509884,
   "lati": 50.0088122591,
-  "FullNameUA": "вулиця Василя Стуса, 13"
+  "FullNameUA": "вулиця Василя Стуса, 13",
+  "ChildsIds": []
  },
  {
   "id": 134484,
@@ -447,7 +466,34 @@
   "reg_date": "",
   "longt": 36.3258919171,
   "lati": 50.0076658528,
-  "FullNameUA": "вулиця Василя Стуса, 13/1"
+  "FullNameUA": "вулиця Василя Стуса, 13/1",
+  "ChildsIds": []
+ },
+ {
+  "id": 134483,
+  "postcode": 61054,
+  "number": 13,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3250,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3264944067,
+  "lati": 50.008840406,
+  "FullNameUA": "вулиця Василя Стуса, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 134485,
@@ -472,7 +518,8 @@
   "reg_date": "",
   "longt": 36.3271928768,
   "lati": 50.0059531553,
-  "FullNameUA": "вулиця Василя Стуса, 14"
+  "FullNameUA": "вулиця Василя Стуса, 14",
+  "ChildsIds": []
  },
  {
   "id": 134486,
@@ -497,7 +544,8 @@
   "reg_date": "",
   "longt": 36.3288626663,
   "lati": 50.0084311608,
-  "FullNameUA": "вулиця Василя Стуса, 15"
+  "FullNameUA": "вулиця Василя Стуса, 15",
+  "ChildsIds": []
  },
  {
   "id": 134487,
@@ -522,7 +570,8 @@
   "reg_date": "",
   "longt": 36.3282651029,
   "lati": 50.008513803,
-  "FullNameUA": "вулиця Василя Стуса, 15-А"
+  "FullNameUA": "вулиця Василя Стуса, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 134488,
@@ -547,7 +596,8 @@
   "reg_date": "",
   "longt": 36.327441251,
   "lati": 50.0058088973,
-  "FullNameUA": "вулиця Василя Стуса, 16"
+  "FullNameUA": "вулиця Василя Стуса, 16",
+  "ChildsIds": []
  },
  {
   "id": 134489,
@@ -572,7 +622,8 @@
   "reg_date": "",
   "longt": 36.3279473331,
   "lati": 50.0055899694,
-  "FullNameUA": "вулиця Василя Стуса, 18"
+  "FullNameUA": "вулиця Василя Стуса, 18",
+  "ChildsIds": []
  },
  {
   "id": 134490,
@@ -597,7 +648,8 @@
   "reg_date": "",
   "longt": 36.32826671,
   "lati": 50.0054187061,
-  "FullNameUA": "вулиця Василя Стуса, 20"
+  "FullNameUA": "вулиця Василя Стуса, 20",
+  "ChildsIds": []
  },
  {
   "id": 134491,
@@ -622,7 +674,8 @@
   "reg_date": "18.05.2018 10:59:06",
   "longt": 36.3288281122,
   "lati": 50.0057431985,
-  "FullNameUA": "вулиця Василя Стуса, 21"
+  "FullNameUA": "вулиця Василя Стуса, 21",
+  "ChildsIds": []
  },
  {
   "id": 134492,
@@ -647,7 +700,8 @@
   "reg_date": "",
   "longt": 36.3284826279,
   "lati": 50.0052885517,
-  "FullNameUA": "вулиця Василя Стуса, 22"
+  "FullNameUA": "вулиця Василя Стуса, 22",
+  "ChildsIds": []
  },
  {
   "id": 134493,
@@ -672,7 +726,8 @@
   "reg_date": "",
   "longt": 36.3286569715,
   "lati": 50.0051825317,
-  "FullNameUA": "вулиця Василя Стуса, 24"
+  "FullNameUA": "вулиця Василя Стуса, 24",
+  "ChildsIds": []
  },
  {
   "id": 134494,
@@ -697,7 +752,8 @@
   "reg_date": "",
   "longt": 36.328843385,
   "lati": 50.0051109896,
-  "FullNameUA": "вулиця Василя Стуса, 26"
+  "FullNameUA": "вулиця Василя Стуса, 26",
+  "ChildsIds": []
  },
  {
   "id": 134495,
@@ -722,7 +778,8 @@
   "reg_date": "",
   "longt": 36.3290399838,
   "lati": 50.0050139777,
-  "FullNameUA": "вулиця Василя Стуса, 28"
+  "FullNameUA": "вулиця Василя Стуса, 28",
+  "ChildsIds": []
  },
  {
   "id": 134496,
@@ -747,7 +804,8 @@
   "reg_date": "",
   "longt": 36.3291793764,
   "lati": 50.004957538,
-  "FullNameUA": "вулиця Василя Стуса, 30"
+  "FullNameUA": "вулиця Василя Стуса, 30",
+  "ChildsIds": []
  },
  {
   "id": 134497,
@@ -772,7 +830,8 @@
   "reg_date": "",
   "longt": 36.3293614318,
   "lati": 50.0048691648,
-  "FullNameUA": "вулиця Василя Стуса, 32"
+  "FullNameUA": "вулиця Василя Стуса, 32",
+  "ChildsIds": []
  },
  {
   "id": 134498,
@@ -797,7 +856,8 @@
   "reg_date": "",
   "longt": 36.3295793927,
   "lati": 50.0047452527,
-  "FullNameUA": "вулиця Василя Стуса, 34"
+  "FullNameUA": "вулиця Василя Стуса, 34",
+  "ChildsIds": []
  },
  {
   "id": 134499,
@@ -822,6 +882,7 @@
   "reg_date": "",
   "longt": 36.3269698422,
   "lati": 50.0067826173,
-  "FullNameUA": "вулиця Василя Стуса, 43В-41А"
+  "FullNameUA": "вулиця Василя Стуса, 43В-41А",
+  "ChildsIds": []
  }
 ]

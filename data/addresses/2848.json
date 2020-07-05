@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.165884197500006,
+  "longt": 36.1658841975,
   "lati": 49.9777255414,
-  "FullNameUA": "вулиця Кашуби, 2"
+  "FullNameUA": "вулиця Кашуби, 2",
+  "ChildsIds": []
  },
  {
   "id": 140487,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.1669567279,
   "lati": 49.9781183913,
-  "FullNameUA": "вулиця Кашуби, 2/1"
+  "FullNameUA": "вулиця Кашуби, 2/1",
+  "ChildsIds": []
  },
  {
   "id": 181793,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.16725857030001,
-  "lati": 49.977941002099996,
-  "FullNameUA": "вулиця Кашуби, 2/1-Б"
+  "longt": 36.1672585703,
+  "lati": 49.9779410021,
+  "FullNameUA": "вулиця Кашуби, 2/1-Б",
+  "ChildsIds": []
  },
  {
   "id": 140488,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.165183080800006,
+  "longt": 36.1651830808,
   "lati": 49.9775159772,
-  "FullNameUA": "вулиця Кашуби, 3"
+  "FullNameUA": "вулиця Кашуби, 3",
+  "ChildsIds": []
  },
  {
   "id": 179037,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.164603459800006,
+  "longt": 36.1646034598,
   "lati": 49.977583999,
-  "FullNameUA": "вулиця Кашуби, 3-А"
+  "FullNameUA": "вулиця Кашуби, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 140489,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.1655588013,
   "lati": 49.9780106869,
-  "FullNameUA": "вулиця Кашуби, 4"
+  "FullNameUA": "вулиця Кашуби, 4",
+  "ChildsIds": []
  },
  {
   "id": 140490,
@@ -172,7 +178,8 @@
   "reg_date": "",
   "longt": 36.164451403,
   "lati": 49.978205888,
-  "FullNameUA": "вулиця Кашуби, 5"
+  "FullNameUA": "вулиця Кашуби, 5",
+  "ChildsIds": []
  },
  {
   "id": 140491,
@@ -195,34 +202,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.164660125400005,
+  "longt": 36.1646601254,
   "lati": 49.9788383259,
-  "FullNameUA": "вулиця Кашуби, 6"
- },
- {
-  "id": 178588,
-  "postcode": 61098,
-  "number": 7,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2848,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "адреса юр. особи",
-  "reg_date": "",
-  "longt": 36.164006888900005,
-  "lati": 49.9785735945,
-  "FullNameUA": "вулиця Кашуби, 7-А"
+  "FullNameUA": "вулиця Кашуби, 6",
+  "ChildsIds": []
  },
  {
   "id": 140492,
@@ -247,7 +230,8 @@
   "reg_date": "",
   "longt": 36.1637728663,
   "lati": 49.9788003332,
-  "FullNameUA": "вулиця Кашуби, 7"
+  "FullNameUA": "вулиця Кашуби, 7",
+  "ChildsIds": []
  },
  {
   "id": 140493,
@@ -270,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.164220988800004,
+  "longt": 36.1642209888,
   "lati": 49.9793265816,
-  "FullNameUA": "вулиця Кашуби, 9"
+  "FullNameUA": "вулиця Кашуби, 9",
+  "ChildsIds": []
  },
  {
   "id": 140494,
@@ -295,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.163636257200004,
-  "lati": 49.980758385600005,
-  "FullNameUA": "вулиця Кашуби, 10"
+  "longt": 36.1636362572,
+  "lati": 49.9807583856,
+  "FullNameUA": "вулиця Кашуби, 10",
+  "ChildsIds": []
  },
  {
   "id": 140495,
@@ -322,7 +308,8 @@
   "reg_date": "",
   "longt": 36.164803419,
   "lati": 49.9795745204,
-  "FullNameUA": "вулиця Кашуби, 11"
+  "FullNameUA": "вулиця Кашуби, 11",
+  "ChildsIds": []
  },
  {
   "id": 140496,
@@ -345,8 +332,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.165645657800006,
-  "lati": 49.979925368399996,
-  "FullNameUA": "вулиця Кашуби, 13"
+  "longt": 36.1656456578,
+  "lati": 49.9799253684,
+  "FullNameUA": "вулиця Кашуби, 13",
+  "ChildsIds": []
  }
 ]

@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2875022086,
-  "lati": 49.944766861199994,
-  "FullNameUA": "вулиця Моцарта, 1"
+  "lati": 49.9447668612,
+  "FullNameUA": "вулиця Моцарта, 1",
+  "ChildsIds": []
  },
  {
   "id": 169305,
@@ -46,8 +47,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2873082056,
-  "lati": 49.945020436099995,
-  "FullNameUA": "вулиця Моцарта, 2"
+  "lati": 49.9450204361,
+  "FullNameUA": "вулиця Моцарта, 2",
+  "ChildsIds": []
  },
  {
   "id": 169306,
@@ -70,9 +72,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287206317700004,
+  "longt": 36.2872063177,
   "lati": 49.9453361429,
-  "FullNameUA": "вулиця Моцарта, 2-А"
+  "FullNameUA": "вулиця Моцарта, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 169307,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2872290891,
   "lati": 49.9447721445,
-  "FullNameUA": "вулиця Моцарта, 3"
+  "FullNameUA": "вулиця Моцарта, 3",
+  "ChildsIds": []
  },
  {
   "id": 169308,
@@ -121,8 +125,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2875691504,
-  "lati": 49.944678754899996,
-  "FullNameUA": "вулиця Моцарта, 3-А"
+  "lati": 49.9446787549,
+  "FullNameUA": "вулиця Моцарта, 3-А",
+  "ChildsIds": []
  },
  {
   "id": 169309,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2868918829,
   "lati": 49.9453530518,
-  "FullNameUA": "вулиця Моцарта, 4"
+  "FullNameUA": "вулиця Моцарта, 4",
+  "ChildsIds": []
  },
  {
   "id": 169310,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286847868900004,
-  "lati": 49.944778233899996,
-  "FullNameUA": "вулиця Моцарта, 5"
+  "longt": 36.2868478689,
+  "lati": 49.9447782339,
+  "FullNameUA": "вулиця Моцарта, 5",
+  "ChildsIds": []
  },
  {
   "id": 169311,
@@ -196,8 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2869317531,
-  "lati": 49.945019397399996,
-  "FullNameUA": "вулиця Моцарта, 6"
+  "lati": 49.9450193974,
+  "FullNameUA": "вулиця Моцарта, 6",
+  "ChildsIds": []
  },
  {
   "id": 169312,
@@ -222,7 +230,8 @@
   "reg_date": "",
   "longt": 36.2865338172,
   "lati": 49.9447830219,
-  "FullNameUA": "вулиця Моцарта, 7"
+  "FullNameUA": "вулиця Моцарта, 7",
+  "ChildsIds": []
  },
  {
   "id": 169313,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2866974926,
   "lati": 49.9450099232,
-  "FullNameUA": "вулиця Моцарта, 8"
+  "FullNameUA": "вулиця Моцарта, 8",
+  "ChildsIds": []
  },
  {
   "id": 169314,
@@ -272,32 +282,8 @@
   "reg_date": "",
   "longt": 36.2862858696,
   "lati": 49.9448733343,
-  "FullNameUA": "вулиця Моцарта, 9"
- },
- {
-  "id": 169316,
-  "postcode": 61105,
-  "number": 10,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3315,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.286505935,
-  "lati": 49.945260473699996,
-  "FullNameUA": "вулиця Моцарта, 10-А"
+  "FullNameUA": "вулиця Моцарта, 9",
+  "ChildsIds": []
  },
  {
   "id": 169315,
@@ -322,7 +308,34 @@
   "reg_date": "",
   "longt": 36.2864740036,
   "lati": 49.9455138032,
-  "FullNameUA": "вулиця Моцарта, 10"
+  "FullNameUA": "вулиця Моцарта, 10",
+  "ChildsIds": []
+ },
+ {
+  "id": 169316,
+  "postcode": 61105,
+  "number": 10,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3315,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.286505935,
+  "lati": 49.9452604737,
+  "FullNameUA": "вулиця Моцарта, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 169317,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2861999063,
   "lati": 49.9451295934,
-  "FullNameUA": "вулиця Моцарта, 11"
+  "FullNameUA": "вулиця Моцарта, 11",
+  "ChildsIds": []
  },
  {
   "id": 169318,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2866966032,
   "lati": 49.9455679696,
-  "FullNameUA": "вулиця Моцарта, 12"
+  "FullNameUA": "вулиця Моцарта, 12",
+  "ChildsIds": []
  },
  {
   "id": 169319,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2861266349,
   "lati": 49.9452899224,
-  "FullNameUA": "вулиця Моцарта, 13"
+  "FullNameUA": "вулиця Моцарта, 13",
+  "ChildsIds": []
  },
  {
   "id": 178307,
@@ -421,8 +437,9 @@
   "confrm": "Довідка_ХМБТІ",
   "reg_date": "",
   "longt": 36.2884052637,
-  "lati": 49.945474049199994,
-  "FullNameUA": "вулиця Моцарта, 13-А"
+  "lati": 49.9454740492,
+  "FullNameUA": "вулиця Моцарта, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 169320,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2869296941,
   "lati": 49.9456338982,
-  "FullNameUA": "вулиця Моцарта, 14"
+  "FullNameUA": "вулиця Моцарта, 14",
+  "ChildsIds": []
  },
  {
   "id": 169321,
@@ -470,9 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286036422900004,
+  "longt": 36.2860364229,
   "lati": 49.9455079102,
-  "FullNameUA": "вулиця Моцарта, 15"
+  "FullNameUA": "вулиця Моцарта, 15",
+  "ChildsIds": []
  },
  {
   "id": 169322,
@@ -496,8 +515,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2872233484,
-  "lati": 49.945739152099996,
-  "FullNameUA": "вулиця Моцарта, 16"
+  "lati": 49.9457391521,
+  "FullNameUA": "вулиця Моцарта, 16",
+  "ChildsIds": []
  },
  {
   "id": 169323,
@@ -521,33 +541,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2861235016,
-  "lati": 49.945672531599996,
-  "FullNameUA": "вулиця Моцарта, 17"
- },
- {
-  "id": 169325,
-  "postcode": 61105,
-  "number": 18,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3315,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2876505191,
-  "lati": 49.945865028899995,
-  "FullNameUA": "вулиця Моцарта, 18-А"
+  "lati": 49.9456725316,
+  "FullNameUA": "вулиця Моцарта, 17",
+  "ChildsIds": []
  },
  {
   "id": 169324,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.2874315188,
   "lati": 49.9457909268,
-  "FullNameUA": "вулиця Моцарта, 18"
+  "FullNameUA": "вулиця Моцарта, 18",
+  "ChildsIds": []
+ },
+ {
+  "id": 169325,
+  "postcode": 61105,
+  "number": 18,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3315,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2876505191,
+  "lati": 49.9458650289,
+  "FullNameUA": "вулиця Моцарта, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 169326,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286420178200004,
+  "longt": 36.2864201782,
   "lati": 49.9457614244,
-  "FullNameUA": "вулиця Моцарта, 19"
+  "FullNameUA": "вулиця Моцарта, 19",
+  "ChildsIds": []
  },
  {
   "id": 169327,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.288074244,
   "lati": 49.9458808669,
-  "FullNameUA": "вулиця Моцарта, 20"
+  "FullNameUA": "вулиця Моцарта, 20",
+  "ChildsIds": []
  },
  {
   "id": 169328,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.2865619948,
   "lati": 49.9459101044,
-  "FullNameUA": "вулиця Моцарта, 21"
+  "FullNameUA": "вулиця Моцарта, 21",
+  "ChildsIds": []
  },
  {
   "id": 169329,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2881650495,
   "lati": 49.9457493886,
-  "FullNameUA": "вулиця Моцарта, 22"
+  "FullNameUA": "вулиця Моцарта, 22",
+  "ChildsIds": []
  },
  {
   "id": 169330,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2867796086,
   "lati": 49.945876983,
-  "FullNameUA": "вулиця Моцарта, 23"
+  "FullNameUA": "вулиця Моцарта, 23",
+  "ChildsIds": []
  },
  {
   "id": 169331,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.2883247522,
   "lati": 49.9455848662,
-  "FullNameUA": "вулиця Моцарта, 24"
+  "FullNameUA": "вулиця Моцарта, 24",
+  "ChildsIds": []
  },
  {
   "id": 169332,
@@ -747,7 +776,8 @@
   "reg_date": "",
   "longt": 36.287199833,
   "lati": 49.9460033286,
-  "FullNameUA": "вулиця Моцарта, 25"
+  "FullNameUA": "вулиця Моцарта, 25",
+  "ChildsIds": []
  },
  {
   "id": 169333,
@@ -772,7 +802,8 @@
   "reg_date": "",
   "longt": 36.2884030237,
   "lati": 49.9454692973,
-  "FullNameUA": "вулиця Моцарта, 26"
+  "FullNameUA": "вулиця Моцарта, 26",
+  "ChildsIds": []
  },
  {
   "id": 169334,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2874708115,
   "lati": 49.9460726325,
-  "FullNameUA": "вулиця Моцарта, 27"
+  "FullNameUA": "вулиця Моцарта, 27",
+  "ChildsIds": []
  },
  {
   "id": 169335,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2885246746,
   "lati": 49.9452629229,
-  "FullNameUA": "вулиця Моцарта, 28"
+  "FullNameUA": "вулиця Моцарта, 28",
+  "ChildsIds": []
  },
  {
   "id": 169336,
@@ -847,7 +880,8 @@
   "reg_date": "",
   "longt": 36.2877868203,
   "lati": 49.9461531753,
-  "FullNameUA": "вулиця Моцарта, 29"
+  "FullNameUA": "вулиця Моцарта, 29",
+  "ChildsIds": []
  },
  {
   "id": 169337,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2886747463,
   "lati": 49.9450510365,
-  "FullNameUA": "вулиця Моцарта, 30"
+  "FullNameUA": "вулиця Моцарта, 30",
+  "ChildsIds": []
  },
  {
   "id": 169338,
@@ -896,8 +931,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2880696625,
-  "lati": 49.946202282799995,
-  "FullNameUA": "вулиця Моцарта, 31"
+  "lati": 49.9462022828,
+  "FullNameUA": "вулиця Моцарта, 31",
+  "ChildsIds": []
  },
  {
   "id": 169339,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2883296278,
-  "lati": 49.946067881299996,
-  "FullNameUA": "вулиця Моцарта, 33"
+  "lati": 49.9460678813,
+  "FullNameUA": "вулиця Моцарта, 33",
+  "ChildsIds": []
  },
  {
   "id": 169340,
@@ -946,8 +983,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2886472668,
-  "lati": 49.945873114899996,
-  "FullNameUA": "вулиця Моцарта, 35"
+  "lati": 49.9458731149,
+  "FullNameUA": "вулиця Моцарта, 35",
+  "ChildsIds": []
  },
  {
   "id": 169341,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.2886085107,
   "lati": 49.945690319,
-  "FullNameUA": "вулиця Моцарта, 37"
+  "FullNameUA": "вулиця Моцарта, 37",
+  "ChildsIds": []
  },
  {
   "id": 169342,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2889214511,
   "lati": 49.9454881139,
-  "FullNameUA": "вулиця Моцарта, 39"
+  "FullNameUA": "вулиця Моцарта, 39",
+  "ChildsIds": []
  },
  {
   "id": 169343,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.288955543200004,
+  "longt": 36.2889555432,
   "lati": 49.945252862,
-  "FullNameUA": "вулиця Моцарта, 41"
+  "FullNameUA": "вулиця Моцарта, 41",
+  "ChildsIds": []
  },
  {
   "id": 169344,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2891418016,
   "lati": 49.9450367041,
-  "FullNameUA": "вулиця Моцарта, 43"
+  "FullNameUA": "вулиця Моцарта, 43",
+  "ChildsIds": []
  },
  {
   "id": 169345,
@@ -1071,8 +1113,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2892778712,
-  "lati": 49.944829573099994,
-  "FullNameUA": "вулиця Моцарта, 45"
+  "lati": 49.9448295731,
+  "FullNameUA": "вулиця Моцарта, 45",
+  "ChildsIds": []
  },
  {
   "id": 169346,
@@ -1097,7 +1140,8 @@
   "reg_date": "",
   "longt": 36.2889689168,
   "lati": 49.9447659279,
-  "FullNameUA": "вулиця Моцарта, 47"
+  "FullNameUA": "вулиця Моцарта, 47",
+  "ChildsIds": []
  },
  {
   "id": 169347,
@@ -1122,7 +1166,8 @@
   "reg_date": "",
   "longt": 36.2886881299,
   "lati": 49.9447690492,
-  "FullNameUA": "вулиця Моцарта, 49"
+  "FullNameUA": "вулиця Моцарта, 49",
+  "ChildsIds": []
  },
  {
   "id": 169348,
@@ -1147,7 +1192,8 @@
   "reg_date": "",
   "longt": 36.2883793356,
   "lati": 49.9447811723,
-  "FullNameUA": "вулиця Моцарта, 51"
+  "FullNameUA": "вулиця Моцарта, 51",
+  "ChildsIds": []
  },
  {
   "id": 169349,
@@ -1171,7 +1217,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2879739849,
-  "lati": 49.944770329899995,
-  "FullNameUA": "вулиця Моцарта, 53"
+  "lati": 49.9447703299,
+  "FullNameUA": "вулиця Моцарта, 53",
+  "ChildsIds": []
  }
 ]

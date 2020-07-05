@@ -22,7 +22,8 @@
   "reg_date": "",
   "longt": 36.3129765396,
   "lati": 49.9734601618,
-  "FullNameUA": "вулиця Клубна, 3"
+  "FullNameUA": "вулиця Клубна, 3",
+  "ChildsIds": []
  },
  {
   "id": 102476,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.3131797678,
   "lati": 49.9739263695,
-  "FullNameUA": "вулиця Клубна, 4"
+  "FullNameUA": "вулиця Клубна, 4",
+  "ChildsIds": []
  },
  {
   "id": 102477,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3132846306,
   "lati": 49.9737358259,
-  "FullNameUA": "вулиця Клубна, 4-А"
+  "FullNameUA": "вулиця Клубна, 4-А",
+  "ChildsIds": []
  },
  {
   "id": 102478,
@@ -97,7 +100,34 @@
   "reg_date": "",
   "longt": 36.3126363903,
   "lati": 49.9737896672,
-  "FullNameUA": "вулиця Клубна, 5-А"
+  "FullNameUA": "вулиця Клубна, 5-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 182922,
+  "postcode": 61044,
+  "number": 5,
+  "suffix": "",
+  "block": "",
+  "streetid": 2896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.3128429359,
+  "lati": 49.9737196401,
+  "FullNameUA": "вулиця Клубна, 5",
+  "ChildsIds": []
  },
  {
   "id": 102479,
@@ -122,7 +152,8 @@
   "reg_date": "",
   "longt": 36.3130624812,
   "lati": 49.9741216773,
-  "FullNameUA": "вулиця Клубна, 6"
+  "FullNameUA": "вулиця Клубна, 6",
+  "ChildsIds": []
  },
  {
   "id": 102480,
@@ -147,7 +178,8 @@
   "reg_date": "",
   "longt": 36.3127111248,
   "lati": 49.9739326052,
-  "FullNameUA": "вулиця Клубна, 7"
+  "FullNameUA": "вулиця Клубна, 7",
+  "ChildsIds": []
  },
  {
   "id": 102481,
@@ -171,33 +203,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3129241508,
-  "lati": 49.974344734199995,
-  "FullNameUA": "вулиця Клубна, 8"
- },
- {
-  "id": 102483,
-  "postcode": 61044,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2896,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.312462022000005,
-  "lati": 49.9742889403,
-  "FullNameUA": "вулиця Клубна, 9-А"
+  "lati": 49.9743447342,
+  "FullNameUA": "вулиця Клубна, 8",
+  "ChildsIds": []
  },
  {
   "id": 102482,
@@ -222,7 +230,34 @@
   "reg_date": "",
   "longt": 36.312579649,
   "lati": 49.974145743,
-  "FullNameUA": "вулиця Клубна, 9"
+  "FullNameUA": "вулиця Клубна, 9",
+  "ChildsIds": []
+ },
+ {
+  "id": 102483,
+  "postcode": 61044,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2896,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.312462022,
+  "lati": 49.9742889403,
+  "FullNameUA": "вулиця Клубна, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 102484,
@@ -247,7 +282,8 @@
   "reg_date": "",
   "longt": 36.3127901821,
   "lati": 49.9745961247,
-  "FullNameUA": "вулиця Клубна, 10"
+  "FullNameUA": "вулиця Клубна, 10",
+  "ChildsIds": []
  },
  {
   "id": 102485,
@@ -272,7 +308,8 @@
   "reg_date": "",
   "longt": 36.312317327,
   "lati": 49.9745269398,
-  "FullNameUA": "вулиця Клубна, 11"
+  "FullNameUA": "вулиця Клубна, 11",
+  "ChildsIds": []
  },
  {
   "id": 102486,
@@ -296,7 +333,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3122341953,
-  "lati": 49.974726096299996,
-  "FullNameUA": "вулиця Клубна, 13"
+  "lati": 49.9747260963,
+  "FullNameUA": "вулиця Клубна, 13",
+  "ChildsIds": []
  }
 ]

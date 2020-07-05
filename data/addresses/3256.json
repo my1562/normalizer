@@ -21,8 +21,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.233924201,
-  "lati": 49.922467684400004,
-  "FullNameUA": "вулиця Микитенка, 1"
+  "lati": 49.9224676844,
+  "FullNameUA": "вулиця Микитенка, 1",
+  "ChildsIds": []
  },
  {
   "id": 163566,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2338688756,
   "lati": 49.9221464838,
-  "FullNameUA": "вулиця Микитенка, 2-А"
+  "FullNameUA": "вулиця Микитенка, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 163567,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2340358821,
   "lati": 49.9223628319,
-  "FullNameUA": "вулиця Микитенка, 3"
+  "FullNameUA": "вулиця Микитенка, 3",
+  "ChildsIds": []
  },
  {
   "id": 163568,
@@ -95,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234017356100004,
+  "longt": 36.2340173561,
   "lati": 49.9219734018,
-  "FullNameUA": "вулиця Микитенка, 4"
+  "FullNameUA": "вулиця Микитенка, 4",
+  "ChildsIds": []
  },
  {
   "id": 163569,
@@ -122,7 +126,8 @@
   "reg_date": "",
   "longt": 36.2342895442,
   "lati": 49.9220696896,
-  "FullNameUA": "вулиця Микитенка, 5"
+  "FullNameUA": "вулиця Микитенка, 5",
+  "ChildsIds": []
  },
  {
   "id": 163570,
@@ -147,7 +152,8 @@
   "reg_date": "",
   "longt": 36.2343544542,
   "lati": 49.9215453905,
-  "FullNameUA": "вулиця Микитенка, 6"
+  "FullNameUA": "вулиця Микитенка, 6",
+  "ChildsIds": []
  },
  {
   "id": 163571,
@@ -170,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23680728510001,
+  "longt": 36.2368072851,
   "lati": 49.91942471,
-  "FullNameUA": "вулиця Микитенка, 6-А"
+  "FullNameUA": "вулиця Микитенка, 6-А",
+  "ChildsIds": []
  },
  {
   "id": 163572,
@@ -197,7 +204,8 @@
   "reg_date": "",
   "longt": 36.2343028936,
   "lati": 49.9219755838,
-  "FullNameUA": "вулиця Микитенка, 7"
+  "FullNameUA": "вулиця Микитенка, 7",
+  "ChildsIds": []
  },
  {
   "id": 163574,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.23716092630001,
-  "lati": 49.919961874900004,
-  "FullNameUA": "вулиця Микитенка, 8-А"
+  "longt": 36.2371609263,
+  "lati": 49.9199618749,
+  "FullNameUA": "вулиця Микитенка, 8-А",
+  "ChildsIds": []
  },
  {
   "id": 163573,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236325583900005,
-  "lati": 49.920346314300005,
-  "FullNameUA": "вулиця Микитенка, 8"
+  "longt": 36.2363255839,
+  "lati": 49.9203463143,
+  "FullNameUA": "вулиця Микитенка, 8",
+  "ChildsIds": []
  },
  {
   "id": 163575,
@@ -270,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234460513500004,
+  "longt": 36.2344605135,
   "lati": 49.9218324084,
-  "FullNameUA": "вулиця Микитенка, 9"
+  "FullNameUA": "вулиця Микитенка, 9",
+  "ChildsIds": []
  },
  {
   "id": 163576,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2362731579,
-  "lati": 49.920509486600004,
-  "FullNameUA": "вулиця Микитенка, 10"
+  "lati": 49.9205094866,
+  "FullNameUA": "вулиця Микитенка, 10",
+  "ChildsIds": []
  },
  {
   "id": 163579,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.235520849500006,
-  "lati": 49.921056348600004,
-  "FullNameUA": "вулиця Микитенка, 11-Б"
+  "longt": 36.2355208495,
+  "lati": 49.9210563486,
+  "FullNameUA": "вулиця Микитенка, 11-Б",
+  "ChildsIds": []
  },
  {
   "id": 163578,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23516529210001,
+  "longt": 36.2351652921,
   "lati": 49.921193475,
-  "FullNameUA": "вулиця Микитенка, 11-А"
+  "FullNameUA": "вулиця Микитенка, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 163577,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.234663791200006,
+  "longt": 36.2346637912,
   "lati": 49.9216126744,
-  "FullNameUA": "вулиця Микитенка, 11"
+  "FullNameUA": "вулиця Микитенка, 11",
+  "ChildsIds": []
  },
  {
   "id": 178748,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.234998225300004,
+  "longt": 36.2349982253,
   "lati": 49.9208952592,
-  "FullNameUA": "вулиця Микитенка, 11-В"
+  "FullNameUA": "вулиця Микитенка, 11-В",
+  "ChildsIds": []
  },
  {
   "id": 163580,
@@ -422,32 +438,8 @@
   "reg_date": "",
   "longt": 36.2366818798,
   "lati": 49.9206685957,
-  "FullNameUA": "вулиця Микитенка, 12"
- },
- {
-  "id": 163582,
-  "postcode": 61109,
-  "number": 13,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3256,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.235729017400004,
-  "lati": 49.920977511800004,
-  "FullNameUA": "вулиця Микитенка, 13-А"
+  "FullNameUA": "вулиця Микитенка, 12",
+  "ChildsIds": []
  },
  {
   "id": 178749,
@@ -472,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2353751857,
   "lati": 49.9207556824,
-  "FullNameUA": "вулиця Микитенка, 13-В"
+  "FullNameUA": "вулиця Микитенка, 13-В",
+  "ChildsIds": []
  },
  {
   "id": 163581,
@@ -496,8 +489,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2359758795,
-  "lati": 49.920845746000005,
-  "FullNameUA": "вулиця Микитенка, 13"
+  "lati": 49.920845746,
+  "FullNameUA": "вулиця Микитенка, 13",
+  "ChildsIds": []
+ },
+ {
+  "id": 163582,
+  "postcode": 61109,
+  "number": 13,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2357290174,
+  "lati": 49.9209775118,
+  "FullNameUA": "вулиця Микитенка, 13-А",
+  "ChildsIds": []
  },
  {
   "id": 163583,
@@ -522,7 +542,8 @@
   "reg_date": "",
   "longt": 36.2369315863,
   "lati": 49.920888993,
-  "FullNameUA": "вулиця Микитенка, 14"
+  "FullNameUA": "вулиця Микитенка, 14",
+  "ChildsIds": []
  },
  {
   "id": 163584,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236464198200004,
-  "lati": 49.920848182200004,
-  "FullNameUA": "вулиця Микитенка, 15"
+  "longt": 36.2364641982,
+  "lati": 49.9208481822,
+  "FullNameUA": "вулиця Микитенка, 15",
+  "ChildsIds": []
  },
  {
   "id": 163585,
@@ -570,9 +592,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23706240640001,
+  "longt": 36.2370624064,
   "lati": 49.9210465083,
-  "FullNameUA": "вулиця Микитенка, 16"
+  "FullNameUA": "вулиця Микитенка, 16",
+  "ChildsIds": []
+ },
+ {
+  "id": 163587,
+  "postcode": 61109,
+  "number": 17,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2368067025,
+  "lati": 49.9211303065,
+  "FullNameUA": "вулиця Микитенка, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 163586,
@@ -597,13 +646,14 @@
   "reg_date": "",
   "longt": 36.2367199655,
   "lati": 49.9210443093,
-  "FullNameUA": "вулиця Микитенка, 17"
+  "FullNameUA": "вулиця Микитенка, 17",
+  "ChildsIds": []
  },
  {
-  "id": 163587,
+  "id": 163588,
   "postcode": 61109,
-  "number": 17,
-  "suffix": "А",
+  "number": 18,
+  "suffix": "",
   "block": "",
   "streetid": 3256,
   "status_id": 1,
@@ -620,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236806702500004,
-  "lati": 49.921130306500004,
-  "FullNameUA": "вулиця Микитенка, 17-А"
+  "longt": 36.2373056777,
+  "lati": 49.9212617158,
+  "FullNameUA": "вулиця Микитенка, 18",
+  "ChildsIds": []
  },
  {
   "id": 163589,
@@ -647,32 +698,8 @@
   "reg_date": "",
   "longt": 36.23719401,
   "lati": 49.9211153081,
-  "FullNameUA": "вулиця Микитенка, 18-А"
- },
- {
-  "id": 163588,
-  "postcode": 61109,
-  "number": 18,
-  "suffix": "",
-  "block": "",
-  "streetid": 3256,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23730567770001,
-  "lati": 49.9212617158,
-  "FullNameUA": "вулиця Микитенка, 18"
+  "FullNameUA": "вулиця Микитенка, 18-А",
+  "ChildsIds": []
  },
  {
   "id": 163590,
@@ -695,9 +722,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.236928057300005,
-  "lati": 49.921247599400004,
-  "FullNameUA": "вулиця Микитенка, 19"
+  "longt": 36.2369280573,
+  "lati": 49.9212475994,
+  "FullNameUA": "вулиця Микитенка, 19",
+  "ChildsIds": []
  },
  {
   "id": 163591,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237480017100005,
-  "lati": 49.921397826900005,
-  "FullNameUA": "вулиця Микитенка, 20"
+  "longt": 36.2374800171,
+  "lati": 49.9213978269,
+  "FullNameUA": "вулиця Микитенка, 20",
+  "ChildsIds": []
  },
  {
   "id": 163592,
@@ -746,33 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2371415555,
-  "lati": 49.921421091300004,
-  "FullNameUA": "вулиця Микитенка, 21"
- },
- {
-  "id": 163593,
-  "postcode": 61109,
-  "number": 22,
-  "suffix": "",
-  "block": "",
-  "streetid": 3256,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.23765006160001,
-  "lati": 49.9216147826,
-  "FullNameUA": "вулиця Микитенка, 22"
+  "lati": 49.9214210913,
+  "FullNameUA": "вулиця Микитенка, 21",
+  "ChildsIds": []
  },
  {
   "id": 163594,
@@ -796,8 +801,35 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2375687683,
-  "lati": 49.921521634200005,
-  "FullNameUA": "вулиця Микитенка, 22-А"
+  "lati": 49.9215216342,
+  "FullNameUA": "вулиця Микитенка, 22-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 163593,
+  "postcode": 61109,
+  "number": 22,
+  "suffix": "",
+  "block": "",
+  "streetid": 3256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2376500616,
+  "lati": 49.9216147826,
+  "FullNameUA": "вулиця Микитенка, 22",
+  "ChildsIds": []
  },
  {
   "id": 163595,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.2372577566,
   "lati": 49.921538806,
-  "FullNameUA": "вулиця Микитенка, 23"
+  "FullNameUA": "вулиця Микитенка, 23",
+  "ChildsIds": []
  },
  {
   "id": 163596,
@@ -846,8 +879,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.237806003,
-  "lati": 49.921749310500005,
-  "FullNameUA": "вулиця Микитенка, 24"
+  "lati": 49.9217493105,
+  "FullNameUA": "вулиця Микитенка, 24",
+  "ChildsIds": []
  },
  {
   "id": 163597,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2373495897,
   "lati": 49.9216453723,
-  "FullNameUA": "вулиця Микитенка, 25"
+  "FullNameUA": "вулиця Микитенка, 25",
+  "ChildsIds": []
  },
  {
   "id": 163598,
@@ -895,9 +930,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23800807560001,
+  "longt": 36.2380080756,
   "lati": 49.9219146244,
-  "FullNameUA": "вулиця Микитенка, 26"
+  "FullNameUA": "вулиця Микитенка, 26",
+  "ChildsIds": []
  },
  {
   "id": 163599,
@@ -921,8 +957,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.23754472,
-  "lati": 49.921797763600004,
-  "FullNameUA": "вулиця Микитенка, 27"
+  "lati": 49.9217977636,
+  "FullNameUA": "вулиця Микитенка, 27",
+  "ChildsIds": []
  },
  {
   "id": 163600,
@@ -945,9 +982,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23816733180001,
+  "longt": 36.2381673318,
   "lati": 49.9220777497,
-  "FullNameUA": "вулиця Микитенка, 28"
+  "FullNameUA": "вулиця Микитенка, 28",
+  "ChildsIds": []
  },
  {
   "id": 163601,
@@ -970,9 +1008,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23773087320001,
+  "longt": 36.2377308732,
   "lati": 49.921960953,
-  "FullNameUA": "вулиця Микитенка, 29"
+  "FullNameUA": "вулиця Микитенка, 29",
+  "ChildsIds": []
  },
  {
   "id": 163602,
@@ -996,8 +1035,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.23741864,
-  "lati": 49.921963762800004,
-  "FullNameUA": "вулиця Микитенка, 29-А"
+  "lati": 49.9219637628,
+  "FullNameUA": "вулиця Микитенка, 29-А",
+  "ChildsIds": []
  },
  {
   "id": 163603,
@@ -1020,9 +1060,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.238453303700005,
+  "longt": 36.2384533037,
   "lati": 49.9225249018,
-  "FullNameUA": "вулиця Микитенка, 30"
+  "FullNameUA": "вулиця Микитенка, 30",
+  "ChildsIds": []
  },
  {
   "id": 163604,
@@ -1045,9 +1086,10 @@
   "same_adr_comm": "",
   "confrm": "фото гугл-карта",
   "reg_date": "",
-  "longt": 36.238360291700005,
+  "longt": 36.2383602917,
   "lati": 49.9223419312,
-  "FullNameUA": "вулиця Микитенка, 30-А"
+  "FullNameUA": "вулиця Микитенка, 30-А",
+  "ChildsIds": []
  },
  {
   "id": 163605,
@@ -1070,9 +1112,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23789166980001,
+  "longt": 36.2378916698,
   "lati": 49.9221769724,
-  "FullNameUA": "вулиця Микитенка, 31"
+  "FullNameUA": "вулиця Микитенка, 31",
+  "ChildsIds": []
  },
  {
   "id": 163606,
@@ -1096,33 +1139,9 @@
   "confrm": "карта М1:2000",
   "reg_date": "",
   "longt": 36.2387228373,
-  "lati": 49.922640904800005,
-  "FullNameUA": "вулиця Микитенка, 32"
- },
- {
-  "id": 163608,
-  "postcode": 61109,
-  "number": 33,
-  "suffix": "А",
-  "block": "",
-  "streetid": 3256,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.237863109500005,
-  "lati": 49.9223910063,
-  "FullNameUA": "вулиця Микитенка, 33-А"
+  "lati": 49.9226409048,
+  "FullNameUA": "вулиця Микитенка, 32",
+  "ChildsIds": []
  },
  {
   "id": 163607,
@@ -1145,9 +1164,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.237987230200005,
+  "longt": 36.2379872302,
   "lati": 49.9222967086,
-  "FullNameUA": "вулиця Микитенка, 33"
+  "FullNameUA": "вулиця Микитенка, 33",
+  "ChildsIds": []
+ },
+ {
+  "id": 163608,
+  "postcode": 61109,
+  "number": 33,
+  "suffix": "А",
+  "block": "",
+  "streetid": 3256,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2378631095,
+  "lati": 49.9223910063,
+  "FullNameUA": "вулиця Микитенка, 33-А",
+  "ChildsIds": []
  },
  {
   "id": 163609,
@@ -1170,9 +1216,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.238129775500006,
+  "longt": 36.2381297755,
   "lati": 49.9225696322,
-  "FullNameUA": "вулиця Микитенка, 35"
+  "FullNameUA": "вулиця Микитенка, 35",
+  "ChildsIds": []
  },
  {
   "id": 163610,
@@ -1195,9 +1242,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.23819363690001,
+  "longt": 36.2381936369,
   "lati": 49.9226904023,
-  "FullNameUA": "вулиця Микитенка, 37"
+  "FullNameUA": "вулиця Микитенка, 37",
+  "ChildsIds": []
  },
  {
   "id": 163611,
@@ -1221,7 +1269,8 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2382009413,
-  "lati": 49.922819085600004,
-  "FullNameUA": "вулиця Микитенка, 39"
+  "lati": 49.9228190856,
+  "FullNameUA": "вулиця Микитенка, 39",
+  "ChildsIds": []
  }
 ]

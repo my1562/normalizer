@@ -1,30 +1,5 @@
 [
  {
-  "id": 143085,
-  "postcode": 61052,
-  "number": 9,
-  "suffix": "",
-  "block": "",
-  "streetid": 3562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.209695641500005,
-  "lati": 50.0008418299,
-  "FullNameUA": "вулиця Копиловська, 9"
- },
- {
   "id": 143086,
   "postcode": 61052,
   "number": 9,
@@ -45,9 +20,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209212361300004,
+  "longt": 36.2092123613,
   "lati": 50.0006785208,
-  "FullNameUA": "вулиця Копиловська, 9-А"
+  "FullNameUA": "вулиця Копиловська, 9-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 143085,
+  "postcode": 61052,
+  "number": 9,
+  "suffix": "",
+  "block": "",
+  "streetid": 3562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2096956415,
+  "lati": 50.0008418299,
+  "FullNameUA": "вулиця Копиловська, 9",
+  "ChildsIds": []
  },
  {
   "id": 143087,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.2095286878,
   "lati": 50.0010000524,
-  "FullNameUA": "вулиця Копиловська, 10"
+  "FullNameUA": "вулиця Копиловська, 10",
+  "ChildsIds": []
  },
  {
   "id": 143088,
@@ -97,7 +100,8 @@
   "reg_date": "",
   "longt": 36.2093882189,
   "lati": 50.0009017414,
-  "FullNameUA": "вулиця Копиловська, 10-А"
+  "FullNameUA": "вулиця Копиловська, 10-А",
+  "ChildsIds": []
  },
  {
   "id": 143090,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209071489900005,
+  "longt": 36.2090714899,
   "lati": 50.000968774,
-  "FullNameUA": "вулиця Копиловська, 11-А"
+  "FullNameUA": "вулиця Копиловська, 11-А",
+  "ChildsIds": []
  },
  {
   "id": 143089,
@@ -145,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.209373423900004,
+  "longt": 36.2093734239,
   "lati": 50.0011660044,
-  "FullNameUA": "вулиця Копиловська, 11"
+  "FullNameUA": "вулиця Копиловська, 11",
+  "ChildsIds": []
  },
  {
   "id": 143091,
@@ -172,7 +178,34 @@
   "reg_date": "",
   "longt": 36.2093194785,
   "lati": 50.0012187033,
-  "FullNameUA": "вулиця Копиловська, 11-Б"
+  "FullNameUA": "вулиця Копиловська, 11-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 143092,
+  "postcode": 61052,
+  "number": 12,
+  "suffix": "",
+  "block": "",
+  "streetid": 3562,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2090032367,
+  "lati": 50.0015042396,
+  "FullNameUA": "вулиця Копиловська, 12",
+  "ChildsIds": []
  },
  {
   "id": 143093,
@@ -197,32 +230,8 @@
   "reg_date": "",
   "longt": 36.2091197876,
   "lati": 50.001234007,
-  "FullNameUA": "вулиця Копиловська, 12-Б"
- },
- {
-  "id": 143092,
-  "postcode": 61052,
-  "number": 12,
-  "suffix": "",
-  "block": "",
-  "streetid": 3562,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.209003236700006,
-  "lati": 50.0015042396,
-  "FullNameUA": "вулиця Копиловська, 12"
+  "FullNameUA": "вулиця Копиловська, 12-Б",
+  "ChildsIds": []
  },
  {
   "id": 143094,
@@ -247,7 +256,8 @@
   "reg_date": "",
   "longt": 36.2087384662,
   "lati": 50.0014263824,
-  "FullNameUA": "вулиця Копиловська, 13"
+  "FullNameUA": "вулиця Копиловська, 13",
+  "ChildsIds": []
  },
  {
   "id": 143095,
@@ -272,7 +282,34 @@
   "reg_date": "",
   "longt": 36.2083982564,
   "lati": 50.0013092408,
-  "FullNameUA": "вулиця Копиловська, 14"
+  "FullNameUA": "вулиця Копиловська, 14",
+  "ChildsIds": []
+ },
+ {
+  "id": 143096,
+  "postcode": 61052,
+  "number": 15,
+  "suffix": "",
+  "block": "",
+  "streetid": 3562,
+  "status_id": 3,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.208204329,
+  "lati": 50.0012497129,
+  "FullNameUA": "вулиця Копиловська, 15",
+  "ChildsIds": []
  },
  {
   "id": 143097,
@@ -297,32 +334,8 @@
   "reg_date": "",
   "longt": 36.2083348775,
   "lati": 50.0009623491,
-  "FullNameUA": "вулиця Копиловська, 15-А"
- },
- {
-  "id": 143096,
-  "postcode": 61052,
-  "number": 15,
-  "suffix": "",
-  "block": "",
-  "streetid": 3562,
-  "status_id": 3,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.208204329000004,
-  "lati": 50.0012497129,
-  "FullNameUA": "вулиця Копиловська, 15"
+  "FullNameUA": "вулиця Копиловська, 15-А",
+  "ChildsIds": []
  },
  {
   "id": 143098,
@@ -345,9 +358,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.207917751900005,
+  "longt": 36.2079177519,
   "lati": 50.0011549855,
-  "FullNameUA": "вулиця Копиловська, 16"
+  "FullNameUA": "вулиця Копиловська, 16",
+  "ChildsIds": []
  },
  {
   "id": 143099,
@@ -372,7 +386,8 @@
   "reg_date": "02.04.2019 09:26:01",
   "longt": 36.2075311512,
   "lati": 50.0010143938,
-  "FullNameUA": "вулиця Копиловська, 17"
+  "FullNameUA": "вулиця Копиловська, 17",
+  "ChildsIds": []
  },
  {
   "id": 143100,
@@ -395,9 +410,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ВК Ленінської райради 64_26, 16.04.1968",
   "reg_date": "02.04.2019 09:26:22",
-  "longt": 36.207881408400006,
+  "longt": 36.2078814084,
   "lati": 50.0008577109,
-  "FullNameUA": "вулиця Копиловська, 17-А"
+  "FullNameUA": "вулиця Копиловська, 17-А",
+  "ChildsIds": []
  },
  {
   "id": 143101,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.20789731,
   "lati": 50.0006935561,
-  "FullNameUA": "вулиця Копиловська, 18"
+  "FullNameUA": "вулиця Копиловська, 18",
+  "ChildsIds": []
  },
  {
   "id": 143102,
@@ -447,7 +464,8 @@
   "reg_date": "",
   "longt": 36.2082899659,
   "lati": 50.0006084084,
-  "FullNameUA": "вулиця Копиловська, 19"
+  "FullNameUA": "вулиця Копиловська, 19",
+  "ChildsIds": []
  },
  {
   "id": 143103,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.2083107152,
   "lati": 50.0002860585,
-  "FullNameUA": "вулиця Копиловська, 20"
+  "FullNameUA": "вулиця Копиловська, 20",
+  "ChildsIds": []
  },
  {
   "id": 143104,
@@ -497,7 +516,8 @@
   "reg_date": "",
   "longt": 36.2075740283,
   "lati": 50.0001779589,
-  "FullNameUA": "вулиця Копиловська, 27"
+  "FullNameUA": "вулиця Копиловська, 27",
+  "ChildsIds": []
  },
  {
   "id": 143105,
@@ -520,8 +540,9 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.208920441400004,
+  "longt": 36.2089204414,
   "lati": 50.0020187818,
-  "FullNameUA": "вулиця Копиловська, 31"
+  "FullNameUA": "вулиця Копиловська, 31",
+  "ChildsIds": []
  }
 ]

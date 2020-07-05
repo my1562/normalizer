@@ -21,8 +21,9 @@
   "confrm": "Рішення ВК ХМР № 322, 11.05.2018 (кв.)",
   "reg_date": "",
   "longt": 36.3475182652,
-  "lati": 50.035330202000004,
-  "FullNameUA": "вулиця Дружби Народів, 202"
+  "lati": 50.035330202,
+  "FullNameUA": "вулиця Дружби Народів, 202",
+  "ChildsIds": []
  },
  {
   "id": 122631,
@@ -45,9 +46,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349285167000005,
+  "longt": 36.349285167,
   "lati": 50.0366959973,
-  "FullNameUA": "вулиця Дружби Народів, 203"
+  "FullNameUA": "вулиця Дружби Народів, 203",
+  "ChildsIds": []
  },
  {
   "id": 133291,
@@ -72,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3472540948,
   "lati": 50.0351753038,
-  "FullNameUA": "вулиця Дружби Народів, 204"
+  "FullNameUA": "вулиця Дружби Народів, 204",
+  "ChildsIds": []
  },
  {
   "id": 122632,
@@ -95,34 +98,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349713031600004,
+  "longt": 36.3497130316,
   "lati": 50.0364303173,
-  "FullNameUA": "вулиця Дружби Народів, 205"
- },
- {
-  "id": 181790,
-  "postcode": 61184,
-  "number": 206,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3477628174,
-  "lati": 50.0340787745,
-  "FullNameUA": "вулиця Дружби Народів, 206-А"
+  "FullNameUA": "вулиця Дружби Народів, 205",
+  "ChildsIds": []
  },
  {
   "id": 133292,
@@ -147,7 +126,34 @@
   "reg_date": "",
   "longt": 36.348614578,
   "lati": 50.0351939784,
-  "FullNameUA": "вулиця Дружби Народів, 206"
+  "FullNameUA": "вулиця Дружби Народів, 206",
+  "ChildsIds": []
+ },
+ {
+  "id": 181790,
+  "postcode": 61184,
+  "number": 206,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3477628174,
+  "lati": 50.0340787745,
+  "FullNameUA": "вулиця Дружби Народів, 206-А",
+  "ChildsIds": []
  },
  {
   "id": 122633,
@@ -170,34 +176,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.349992439000005,
+  "longt": 36.349992439,
   "lati": 50.0361836629,
-  "FullNameUA": "вулиця Дружби Народів, 207"
- },
- {
-  "id": 133293,
-  "postcode": 61184,
-  "number": 208,
-  "suffix": "",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.349224317200004,
-  "lati": 50.034387948,
-  "FullNameUA": "вулиця Дружби Народів, 208"
+  "FullNameUA": "вулиця Дружби Народів, 207",
+  "ChildsIds": []
  },
  {
   "id": 133294,
@@ -220,9 +202,36 @@
   "same_adr_comm": "багатоповерховий житловий будинок ",
   "confrm": "",
   "reg_date": "26.02.2019 16:44:56",
-  "longt": 36.348426600900005,
+  "longt": 36.3484266009,
   "lati": 50.0339478117,
-  "FullNameUA": "вулиця Дружби Народів, 208-А"
+  "FullNameUA": "вулиця Дружби Народів, 208-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133293,
+  "postcode": 61184,
+  "number": 208,
+  "suffix": "",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3492243172,
+  "lati": 50.034387948,
+  "FullNameUA": "вулиця Дружби Народів, 208",
+  "ChildsIds": []
  },
  {
   "id": 122634,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3504305831,
-  "lati": 50.037000014200004,
-  "FullNameUA": "вулиця Дружби Народів, 209"
+  "lati": 50.0370000142,
+  "FullNameUA": "вулиця Дружби Народів, 209",
+  "ChildsIds": []
  },
  {
   "id": 122635,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3513147358,
-  "lati": 50.036355497100004,
-  "FullNameUA": "вулиця Дружби Народів, 211"
+  "lati": 50.0363554971,
+  "FullNameUA": "вулиця Дружби Народів, 211",
+  "ChildsIds": []
  },
  {
   "id": 122636,
@@ -295,9 +306,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.351578029900004,
+  "longt": 36.3515780299,
   "lati": 50.0357836221,
-  "FullNameUA": "вулиця Дружби Народів, 213"
+  "FullNameUA": "вулиця Дружби Народів, 213",
+  "ChildsIds": []
  },
  {
   "id": 122637,
@@ -322,7 +334,8 @@
   "reg_date": "",
   "longt": 36.3526162969,
   "lati": 50.0355458498,
-  "FullNameUA": "вулиця Дружби Народів, 215"
+  "FullNameUA": "вулиця Дружби Народів, 215",
+  "ChildsIds": []
  },
  {
   "id": 122638,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.353650706,
   "lati": 50.0362714355,
-  "FullNameUA": "вулиця Дружби Народів, 217"
+  "FullNameUA": "вулиця Дружби Народів, 217",
+  "ChildsIds": []
  },
  {
   "id": 133295,
@@ -370,9 +384,10 @@
   "same_adr_comm": "",
   "confrm": "497, 11.10.1993",
   "reg_date": "",
-  "longt": 36.349864309900006,
+  "longt": 36.3498643099,
   "lati": 50.0335044759,
-  "FullNameUA": "вулиця Дружби Народів, 218"
+  "FullNameUA": "вулиця Дружби Народів, 218",
+  "ChildsIds": []
  },
  {
   "id": 122639,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.3524424401,
   "lati": 50.036541092,
-  "FullNameUA": "вулиця Дружби Народів, 219"
+  "FullNameUA": "вулиця Дружби Народів, 219",
+  "ChildsIds": []
  },
  {
   "id": 122640,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.3531809431,
   "lati": 50.0372284881,
-  "FullNameUA": "вулиця Дружби Народів, 221"
+  "FullNameUA": "вулиця Дружби Народів, 221",
+  "ChildsIds": []
  },
  {
   "id": 122641,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.352919007000004,
+  "longt": 36.352919007,
   "lati": 50.0380145463,
-  "FullNameUA": "вулиця Дружби Народів, 223"
+  "FullNameUA": "вулиця Дружби Народів, 223",
+  "ChildsIds": []
  },
  {
   "id": 122642,
@@ -472,7 +490,8 @@
   "reg_date": "",
   "longt": 36.3545063545,
   "lati": 50.0374012076,
-  "FullNameUA": "вулиця Дружби Народів, 225"
+  "FullNameUA": "вулиця Дружби Народів, 225",
+  "ChildsIds": []
  },
  {
   "id": 122643,
@@ -497,32 +516,8 @@
   "reg_date": "",
   "longt": 36.3552506834,
   "lati": 50.0367708711,
-  "FullNameUA": "вулиця Дружби Народів, 227"
- },
- {
-  "id": 133297,
-  "postcode": 61183,
-  "number": 228,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "284, 06.05.2008",
-  "reg_date": "",
-  "longt": 36.3502554486,
-  "lati": 50.0342384861,
-  "FullNameUA": "вулиця Дружби Народів, 228-А"
+  "FullNameUA": "вулиця Дружби Народів, 227",
+  "ChildsIds": []
  },
  {
   "id": 133298,
@@ -545,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.351040962700004,
-  "lati": 50.033822820400005,
-  "FullNameUA": "вулиця Дружби Народів, 228-Б"
+  "longt": 36.3510409627,
+  "lati": 50.0338228204,
+  "FullNameUA": "вулиця Дружби Народів, 228-Б",
+  "ChildsIds": []
  },
  {
   "id": 133296,
@@ -572,7 +568,34 @@
   "reg_date": "",
   "longt": 36.3519079348,
   "lati": 50.033794624,
-  "FullNameUA": "вулиця Дружби Народів, 228"
+  "FullNameUA": "вулиця Дружби Народів, 228",
+  "ChildsIds": []
+ },
+ {
+  "id": 133297,
+  "postcode": 61183,
+  "number": 228,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "284, 06.05.2008",
+  "reg_date": "",
+  "longt": 36.3502554486,
+  "lati": 50.0342384861,
+  "FullNameUA": "вулиця Дружби Народів, 228-А",
+  "ChildsIds": []
  },
  {
   "id": 122644,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.3549639291,
   "lati": 50.0359715866,
-  "FullNameUA": "вулиця Дружби Народів, 229"
+  "FullNameUA": "вулиця Дружби Народів, 229",
+  "ChildsIds": []
  },
  {
   "id": 122645,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3548322158,
   "lati": 50.0350480003,
-  "FullNameUA": "вулиця Дружби Народів, 231"
+  "FullNameUA": "вулиця Дружби Народів, 231",
+  "ChildsIds": []
  },
  {
   "id": 122646,
@@ -645,9 +670,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.353714096000004,
+  "longt": 36.353714096,
   "lati": 50.0353183851,
-  "FullNameUA": "вулиця Дружби Народів, 231-А"
+  "FullNameUA": "вулиця Дружби Народів, 231-А",
+  "ChildsIds": []
  },
  {
   "id": 133299,
@@ -672,32 +698,8 @@
   "reg_date": "",
   "longt": 36.3529736942,
   "lati": 50.0336089721,
-  "FullNameUA": "вулиця Дружби Народів, 232-А"
- },
- {
-  "id": 133301,
-  "postcode": 61183,
-  "number": 232,
-  "suffix": "В",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3529975859,
-  "lati": 50.0323229078,
-  "FullNameUA": "вулиця Дружби Народів, 232-В"
+  "FullNameUA": "вулиця Дружби Народів, 232-А",
+  "ChildsIds": []
  },
  {
   "id": 133300,
@@ -722,7 +724,34 @@
   "reg_date": "",
   "longt": 36.3529114845,
   "lati": 50.0330448261,
-  "FullNameUA": "вулиця Дружби Народів, 232-Б"
+  "FullNameUA": "вулиця Дружби Народів, 232-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 133301,
+  "postcode": 61183,
+  "number": 232,
+  "suffix": "В",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3529975859,
+  "lati": 50.0323229078,
+  "FullNameUA": "вулиця Дружби Народів, 232-В",
+  "ChildsIds": []
  },
  {
   "id": 122647,
@@ -747,7 +776,34 @@
   "reg_date": "",
   "longt": 36.3565206086,
   "lati": 50.0346640278,
-  "FullNameUA": "вулиця Дружби Народів, 233"
+  "FullNameUA": "вулиця Дружби Народів, 233",
+  "ChildsIds": []
+ },
+ {
+  "id": 133302,
+  "postcode": 61183,
+  "number": 234,
+  "suffix": "",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3541032467,
+  "lati": 50.033430569,
+  "FullNameUA": "вулиця Дружби Народів, 234",
+  "ChildsIds": []
  },
  {
   "id": 133303,
@@ -772,32 +828,8 @@
   "reg_date": "",
   "longt": 36.3539958412,
   "lati": 50.0325829944,
-  "FullNameUA": "вулиця Дружби Народів, 234-А"
- },
- {
-  "id": 133302,
-  "postcode": 61183,
-  "number": 234,
-  "suffix": "",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3541032467,
-  "lati": 50.033430569000004,
-  "FullNameUA": "вулиця Дружби Народів, 234"
+  "FullNameUA": "вулиця Дружби Народів, 234-А",
+  "ChildsIds": []
  },
  {
   "id": 122648,
@@ -822,32 +854,8 @@
   "reg_date": "",
   "longt": 36.3573030759,
   "lati": 50.0354569943,
-  "FullNameUA": "вулиця Дружби Народів, 235"
- },
- {
-  "id": 133304,
-  "postcode": 61183,
-  "number": 236,
-  "suffix": "",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3518483794,
-  "lati": 50.0331353148,
-  "FullNameUA": "вулиця Дружби Народів, 236"
+  "FullNameUA": "вулиця Дружби Народів, 235",
+  "ChildsIds": []
  },
  {
   "id": 133305,
@@ -872,7 +880,34 @@
   "reg_date": "",
   "longt": 36.3509411614,
   "lati": 50.0330500504,
-  "FullNameUA": "вулиця Дружби Народів, 236-А"
+  "FullNameUA": "вулиця Дружби Народів, 236-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133304,
+  "postcode": 61183,
+  "number": 236,
+  "suffix": "",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3518483794,
+  "lati": 50.0331353148,
+  "FullNameUA": "вулиця Дружби Народів, 236",
+  "ChildsIds": []
  },
  {
   "id": 122649,
@@ -897,32 +932,8 @@
   "reg_date": "",
   "longt": 36.3561016882,
   "lati": 50.0356042689,
-  "FullNameUA": "вулиця Дружби Народів, 237"
- },
- {
-  "id": 133306,
-  "postcode": 61183,
-  "number": 238,
-  "suffix": "",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "1255, 05.12.2007",
-  "reg_date": "",
-  "longt": 36.3538263893,
-  "lati": 50.0340480305,
-  "FullNameUA": "вулиця Дружби Народів, 238"
+  "FullNameUA": "вулиця Дружби Народів, 237",
+  "ChildsIds": []
  },
  {
   "id": 133307,
@@ -947,7 +958,8 @@
   "reg_date": "",
   "longt": 36.3515013456,
   "lati": 50.0345609551,
-  "FullNameUA": "вулиця Дружби Народів, 238-А"
+  "FullNameUA": "вулиця Дружби Народів, 238-А",
+  "ChildsIds": []
  },
  {
   "id": 178891,
@@ -972,7 +984,34 @@
   "reg_date": "",
   "longt": 36.3539923861,
   "lati": 50.0345345924,
-  "FullNameUA": "вулиця Дружби Народів, 238-Д"
+  "FullNameUA": "вулиця Дружби Народів, 238-Д",
+  "ChildsIds": []
+ },
+ {
+  "id": 133306,
+  "postcode": 61183,
+  "number": 238,
+  "suffix": "",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "1255, 05.12.2007",
+  "reg_date": "",
+  "longt": 36.3538263893,
+  "lati": 50.0340480305,
+  "FullNameUA": "вулиця Дружби Народів, 238",
+  "ChildsIds": []
  },
  {
   "id": 122650,
@@ -995,9 +1034,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.356631239100004,
+  "longt": 36.3566312391,
   "lati": 50.0362022001,
-  "FullNameUA": "вулиця Дружби Народів, 239"
+  "FullNameUA": "вулиця Дружби Народів, 239",
+  "ChildsIds": []
  },
  {
   "id": 133308,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.3551964161,
   "lati": 50.032882185,
-  "FullNameUA": "вулиця Дружби Народів, 240"
+  "FullNameUA": "вулиця Дружби Народів, 240",
+  "ChildsIds": []
  },
  {
   "id": 122651,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.3581042945,
   "lati": 50.0361856197,
-  "FullNameUA": "вулиця Дружби Народів, 241"
+  "FullNameUA": "вулиця Дружби Народів, 241",
+  "ChildsIds": []
  },
  {
   "id": 133309,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.3564006577,
   "lati": 50.0335000902,
-  "FullNameUA": "вулиця Дружби Народів, 242"
+  "FullNameUA": "вулиця Дружби Народів, 242",
+  "ChildsIds": []
  },
  {
   "id": 122652,
@@ -1096,8 +1139,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3581830719,
-  "lati": 50.035498897400004,
-  "FullNameUA": "вулиця Дружби Народів, 243"
+  "lati": 50.0354988974,
+  "FullNameUA": "вулиця Дружби Народів, 243",
+  "ChildsIds": []
  },
  {
   "id": 133310,
@@ -1120,9 +1164,36 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.356116417900004,
+  "longt": 36.3561164179,
   "lati": 50.032958485,
-  "FullNameUA": "вулиця Дружби Народів, 244"
+  "FullNameUA": "вулиця Дружби Народів, 244",
+  "ChildsIds": []
+ },
+ {
+  "id": 180424,
+  "postcode": 61183,
+  "number": 245,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:15:001:0003)",
+  "confrm": "",
+  "reg_date": "20.03.2019 10:40:38",
+  "longt": 36.3580145658,
+  "lati": 50.0341394479,
+  "FullNameUA": "вулиця Дружби Народів, 245-А",
+  "ChildsIds": []
  },
  {
   "id": 122653,
@@ -1146,14 +1217,15 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3580333131,
-  "lati": 50.034614120600004,
-  "FullNameUA": "вулиця Дружби Народів, 245"
+  "lati": 50.0346141206,
+  "FullNameUA": "вулиця Дружби Народів, 245",
+  "ChildsIds": []
  },
  {
-  "id": 180424,
+  "id": 133311,
   "postcode": 61183,
-  "number": 245,
-  "suffix": "А",
+  "number": 246,
+  "suffix": "",
   "block": "",
   "streetid": 2620,
   "status_id": 1,
@@ -1166,13 +1238,14 @@
   "detail": "",
   "detail_ua": "",
   "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "земельна ділянка (кадастровий номер 6310136600:15:001:0003)",
+  "source_id": 0,
+  "same_adr_comm": "",
   "confrm": "",
-  "reg_date": "20.03.2019 10:40:38",
-  "longt": 36.358014565800005,
-  "lati": 50.0341394479,
-  "FullNameUA": "вулиця Дружби Народів, 245-А"
+  "reg_date": "",
+  "longt": 36.3573698252,
+  "lati": 50.033165903,
+  "FullNameUA": "вулиця Дружби Народів, 246",
+  "ChildsIds": []
  },
  {
   "id": 133313,
@@ -1197,32 +1270,8 @@
   "reg_date": "",
   "longt": 36.3581375791,
   "lati": 50.0336489362,
-  "FullNameUA": "вулиця Дружби Народів, 246-В"
- },
- {
-  "id": 133311,
-  "postcode": 61183,
-  "number": 246,
-  "suffix": "",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3573698252,
-  "lati": 50.033165903000004,
-  "FullNameUA": "вулиця Дружби Народів, 246"
+  "FullNameUA": "вулиця Дружби Народів, 246-В",
+  "ChildsIds": []
  },
  {
   "id": 133312,
@@ -1247,7 +1296,8 @@
   "reg_date": "",
   "longt": 36.3591260858,
   "lati": 50.0331585904,
-  "FullNameUA": "вулиця Дружби Народів, 246-А"
+  "FullNameUA": "вулиця Дружби Народів, 246-А",
+  "ChildsIds": []
  },
  {
   "id": 176540,
@@ -1272,7 +1322,8 @@
   "reg_date": "24.02.2017 09:56:42",
   "longt": 36.3600681612,
   "lati": 50.0327896752,
-  "FullNameUA": "вулиця Дружби Народів, 246-Г"
+  "FullNameUA": "вулиця Дружби Народів, 246-Г",
+  "ChildsIds": []
  },
  {
   "id": 176516,
@@ -1297,7 +1348,8 @@
   "reg_date": "",
   "longt": 36.3604709743,
   "lati": 50.0327812635,
-  "FullNameUA": "вулиця Дружби Народів, 248"
+  "FullNameUA": "вулиця Дружби Народів, 248",
+  "ChildsIds": []
  },
  {
   "id": 122654,
@@ -1322,7 +1374,8 @@
   "reg_date": "",
   "longt": 36.3607015612,
   "lati": 50.0338151132,
-  "FullNameUA": "вулиця Дружби Народів, 249"
+  "FullNameUA": "вулиця Дружби Народів, 249",
+  "ChildsIds": []
  },
  {
   "id": 122655,
@@ -1347,7 +1400,8 @@
   "reg_date": "",
   "longt": 36.3622607019,
   "lati": 50.0333714621,
-  "FullNameUA": "вулиця Дружби Народів, 253"
+  "FullNameUA": "вулиця Дружби Народів, 253",
+  "ChildsIds": []
  },
  {
   "id": 122656,
@@ -1372,7 +1426,8 @@
   "reg_date": "",
   "longt": 36.3623909326,
   "lati": 50.0339906705,
-  "FullNameUA": "вулиця Дружби Народів, 255"
+  "FullNameUA": "вулиця Дружби Народів, 255",
+  "ChildsIds": []
  },
  {
   "id": 122657,
@@ -1397,7 +1452,8 @@
   "reg_date": "",
   "longt": 36.3631794433,
   "lati": 50.0341034738,
-  "FullNameUA": "вулиця Дружби Народів, 257"
+  "FullNameUA": "вулиця Дружби Народів, 257",
+  "ChildsIds": []
  },
  {
   "id": 122658,
@@ -1422,7 +1478,8 @@
   "reg_date": "",
   "longt": 36.3643898282,
   "lati": 50.0330736006,
-  "FullNameUA": "вулиця Дружби Народів, 259"
+  "FullNameUA": "вулиця Дружби Народів, 259",
+  "ChildsIds": []
  },
  {
   "id": 122659,
@@ -1447,7 +1504,8 @@
   "reg_date": "",
   "longt": 36.3643983765,
   "lati": 50.0343002455,
-  "FullNameUA": "вулиця Дружби Народів, 261"
+  "FullNameUA": "вулиця Дружби Народів, 261",
+  "ChildsIds": []
  },
  {
   "id": 122660,
@@ -1471,8 +1529,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3650166508,
-  "lati": 50.033638625900004,
-  "FullNameUA": "вулиця Дружби Народів, 263"
+  "lati": 50.0336386259,
+  "FullNameUA": "вулиця Дружби Народів, 263",
+  "ChildsIds": []
  },
  {
   "id": 122661,
@@ -1496,8 +1555,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3665734697,
-  "lati": 50.032398641600004,
-  "FullNameUA": "вулиця Дружби Народів, 267"
+  "lati": 50.0323986416,
+  "FullNameUA": "вулиця Дружби Народів, 267",
+  "ChildsIds": []
  },
  {
   "id": 122662,
@@ -1522,7 +1582,8 @@
   "reg_date": "",
   "longt": 36.3662353057,
   "lati": 50.0331301154,
-  "FullNameUA": "вулиця Дружби Народів, 269"
+  "FullNameUA": "вулиця Дружби Народів, 269",
+  "ChildsIds": []
  },
  {
   "id": 122663,
@@ -1547,7 +1608,8 @@
   "reg_date": "",
   "longt": 36.3666624822,
   "lati": 50.033819534,
-  "FullNameUA": "вулиця Дружби Народів, 271"
+  "FullNameUA": "вулиця Дружби Народів, 271",
+  "ChildsIds": []
  },
  {
   "id": 122664,
@@ -1572,7 +1634,8 @@
   "reg_date": "",
   "longt": 36.3671416545,
   "lati": 50.0331086701,
-  "FullNameUA": "вулиця Дружби Народів, 273"
+  "FullNameUA": "вулиця Дружби Народів, 273",
+  "ChildsIds": []
  },
  {
   "id": 122665,
@@ -1597,32 +1660,8 @@
   "reg_date": "",
   "longt": 36.3688322549,
   "lati": 50.0326733004,
-  "FullNameUA": "вулиця Дружби Народів, 277"
- },
- {
-  "id": 122667,
-  "postcode": 61183,
-  "number": 279,
-  "suffix": "А",
-  "block": "",
-  "streetid": 2620,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.3685301516,
-  "lati": 50.0320025505,
-  "FullNameUA": "вулиця Дружби Народів, 279-А"
+  "FullNameUA": "вулиця Дружби Народів, 277",
+  "ChildsIds": []
  },
  {
   "id": 122666,
@@ -1647,7 +1686,34 @@
   "reg_date": "",
   "longt": 36.3685391494,
   "lati": 50.0334003005,
-  "FullNameUA": "вулиця Дружби Народів, 279"
+  "FullNameUA": "вулиця Дружби Народів, 279",
+  "ChildsIds": []
+ },
+ {
+  "id": 122667,
+  "postcode": 61183,
+  "number": 279,
+  "suffix": "А",
+  "block": "",
+  "streetid": 2620,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.3685301516,
+  "lati": 50.0320025505,
+  "FullNameUA": "вулиця Дружби Народів, 279-А",
+  "ChildsIds": []
  },
  {
   "id": 180022,
@@ -1672,7 +1738,8 @@
   "reg_date": "",
   "longt": 36.3695496854,
   "lati": 50.0328863035,
-  "FullNameUA": "вулиця Дружби Народів, 281-А"
+  "FullNameUA": "вулиця Дружби Народів, 281-А",
+  "ChildsIds": []
  },
  {
   "id": 122668,
@@ -1697,7 +1764,8 @@
   "reg_date": "",
   "longt": 36.3688975914,
   "lati": 50.0340972396,
-  "FullNameUA": "вулиця Дружби Народів, 281"
+  "FullNameUA": "вулиця Дружби Народів, 281",
+  "ChildsIds": []
  },
  {
   "id": 122669,
@@ -1722,6 +1790,7 @@
   "reg_date": "09.01.2020 11:54:17",
   "longt": 36.370294166,
   "lati": 50.0310725565,
-  "FullNameUA": "вулиця Дружби Народів, 287"
+  "FullNameUA": "вулиця Дружби Народів, 287",
+  "ChildsIds": []
  }
 ]

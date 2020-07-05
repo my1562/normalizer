@@ -20,9 +20,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30444361720001,
+  "longt": 36.3044436172,
   "lati": 50.0393293428,
-  "FullNameUA": "вулиця Чистякової, 2"
+  "FullNameUA": "вулиця Чистякової, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 182902,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4901,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "градархив",
+  "reg_date": "",
+  "longt": 36.304355175,
+  "lati": 50.0395532227,
+  "FullNameUA": "вулиця Чистякової, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 131321,
@@ -47,7 +74,8 @@
   "reg_date": "",
   "longt": 36.3044940818,
   "lati": 50.0391329694,
-  "FullNameUA": "вулиця Чистякової, 4"
+  "FullNameUA": "вулиця Чистякової, 4",
+  "ChildsIds": []
  },
  {
   "id": 131322,
@@ -70,9 +98,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304544357900006,
+  "longt": 36.3045443579,
   "lati": 50.0389068631,
-  "FullNameUA": "вулиця Чистякової, 6"
+  "FullNameUA": "вулиця Чистякової, 6",
+  "ChildsIds": []
  },
  {
   "id": 131323,
@@ -97,7 +126,8 @@
   "reg_date": "",
   "longt": 36.3047355455,
   "lati": 50.0380409995,
-  "FullNameUA": "вулиця Чистякової, 8"
+  "FullNameUA": "вулиця Чистякової, 8",
+  "ChildsIds": []
  },
  {
   "id": 131324,
@@ -120,9 +150,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30484504540001,
-  "lati": 50.037836145600004,
-  "FullNameUA": "вулиця Чистякової, 10"
+  "longt": 36.3048450454,
+  "lati": 50.0378361456,
+  "FullNameUA": "вулиця Чистякової, 10",
+  "ChildsIds": []
  },
  {
   "id": 178643,
@@ -145,9 +176,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.304953678800004,
+  "longt": 36.3049536788,
   "lati": 50.0376598674,
-  "FullNameUA": "вулиця Чистякової, 12"
+  "FullNameUA": "вулиця Чистякової, 12",
+  "ChildsIds": []
  },
  {
   "id": 178821,
@@ -172,7 +204,8 @@
   "reg_date": "",
   "longt": 36.3050180652,
   "lati": 50.037163474,
-  "FullNameUA": "вулиця Чистякової, 14"
+  "FullNameUA": "вулиця Чистякової, 14",
+  "ChildsIds": []
  },
  {
   "id": 178822,
@@ -197,7 +230,8 @@
   "reg_date": "",
   "longt": 36.3053101228,
   "lati": 50.0368609661,
-  "FullNameUA": "вулиця Чистякової, 16"
+  "FullNameUA": "вулиця Чистякової, 16",
+  "ChildsIds": []
  },
  {
   "id": 178645,
@@ -222,7 +256,8 @@
   "reg_date": "",
   "longt": 36.305538513,
   "lati": 50.0367021002,
-  "FullNameUA": "вулиця Чистякової, 18"
+  "FullNameUA": "вулиця Чистякової, 18",
+  "ChildsIds": []
  },
  {
   "id": 178644,
@@ -245,9 +280,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.305884497600005,
+  "longt": 36.3058844976,
   "lati": 50.0365180306,
-  "FullNameUA": "вулиця Чистякової, 20"
+  "FullNameUA": "вулиця Чистякової, 20",
+  "ChildsIds": []
  },
  {
   "id": 179478,
@@ -270,8 +306,9 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.305558057000006,
+  "longt": 36.305558057,
   "lati": 50.0363888387,
-  "FullNameUA": "вулиця Чистякової, 20-А"
+  "FullNameUA": "вулиця Чистякової, 20-А",
+  "ChildsIds": []
  }
 ]

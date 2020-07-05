@@ -1,9 +1,9 @@
 [
  {
-  "id": 123039,
+  "id": 133500,
   "postcode": 61161,
   "number": 2,
-  "suffix": "",
+  "suffix": "А",
   "block": "",
   "streetid": 2740,
   "status_id": 1,
@@ -20,9 +20,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2892715773,
-  "lati": 49.9970574639,
-  "FullNameUA": "вулиця З'єднана, 2"
+  "longt": 36.2913895085,
+  "lati": 49.9956664134,
+  "FullNameUA": "вулиця З'єднана, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 133501,
@@ -47,7 +48,8 @@
   "reg_date": "",
   "longt": 36.2908935973,
   "lati": 49.9960368777,
-  "FullNameUA": "вулиця З'єднана, 2-Б"
+  "FullNameUA": "вулиця З'єднана, 2-Б",
+  "ChildsIds": []
  },
  {
   "id": 133502,
@@ -71,8 +73,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2910509493,
-  "lati": 49.995902475200005,
-  "FullNameUA": "вулиця З'єднана, 2-В"
+  "lati": 49.9959024752,
+  "FullNameUA": "вулиця З'єднана, 2-В",
+  "ChildsIds": []
  },
  {
   "id": 133503,
@@ -97,13 +100,14 @@
   "reg_date": "",
   "longt": 36.2912124118,
   "lati": 49.9958090761,
-  "FullNameUA": "вулиця З'єднана, 2Б/2"
+  "FullNameUA": "вулиця З'єднана, 2Б/2",
+  "ChildsIds": []
  },
  {
-  "id": 133500,
+  "id": 123039,
   "postcode": 61161,
   "number": 2,
-  "suffix": "А",
+  "suffix": "",
   "block": "",
   "streetid": 2740,
   "status_id": 1,
@@ -120,9 +124,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.2913895085,
-  "lati": 49.9956664134,
-  "FullNameUA": "вулиця З'єднана, 2-А"
+  "longt": 36.2892715773,
+  "lati": 49.9970574639,
+  "FullNameUA": "вулиця З'єднана, 2",
+  "ChildsIds": []
  },
  {
   "id": 123041,
@@ -147,57 +152,8 @@
   "reg_date": "",
   "longt": 36.2888691761,
   "lati": 49.9969041542,
-  "FullNameUA": "вулиця З'єднана, 3"
- },
- {
-  "id": 133505,
-  "postcode": 61161,
-  "number": 4,
-  "suffix": "Б",
-  "block": "",
-  "streetid": 2740,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2906608058,
-  "lati": 49.9961378037,
-  "FullNameUA": "вулиця З'єднана, 4-Б"
- },
- {
-  "id": 123042,
-  "postcode": 61161,
-  "number": 4,
-  "suffix": "",
-  "block": "",
-  "streetid": 2740,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2890125774,
-  "lati": 49.997244154200004,
-  "FullNameUA": "вулиця З'єднана, 4"
+  "FullNameUA": "вулиця З'єднана, 3",
+  "ChildsIds": []
  },
  {
   "id": 133504,
@@ -222,7 +178,60 @@
   "reg_date": "",
   "longt": 36.2906869592,
   "lati": 49.9963267101,
-  "FullNameUA": "вулиця З'єднана, 4-А"
+  "FullNameUA": "вулиця З'єднана, 4-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 133505,
+  "postcode": 61161,
+  "number": 4,
+  "suffix": "Б",
+  "block": "",
+  "streetid": 2740,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2906608058,
+  "lati": 49.9961378037,
+  "FullNameUA": "вулиця З'єднана, 4-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 123042,
+  "postcode": 61161,
+  "number": 4,
+  "suffix": "",
+  "block": "",
+  "streetid": 2740,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2890125774,
+  "lati": 49.9972441542,
+  "FullNameUA": "вулиця З'єднана, 4",
+  "ChildsIds": []
  },
  {
   "id": 123043,
@@ -246,8 +255,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2888528107,
-  "lati": 49.997449332900004,
-  "FullNameUA": "вулиця З'єднана, 6"
+  "lati": 49.9974493329,
+  "FullNameUA": "вулиця З'єднана, 6",
+  "ChildsIds": []
  },
  {
   "id": 178426,
@@ -271,8 +281,9 @@
   "confrm": "xml",
   "reg_date": "",
   "longt": 36.2882016099,
-  "lati": 49.997386582400004,
-  "FullNameUA": "вулиця З'єднана, 7-А"
+  "lati": 49.9973865824,
+  "FullNameUA": "вулиця З'єднана, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 123044,
@@ -296,8 +307,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2884611076,
-  "lati": 49.997678861000004,
-  "FullNameUA": "вулиця З'єднана, 8"
+  "lati": 49.997678861,
+  "FullNameUA": "вулиця З'єднана, 8",
+  "ChildsIds": []
  },
  {
   "id": 123045,
@@ -321,8 +333,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.288125592,
-  "lati": 49.997483267700005,
-  "FullNameUA": "вулиця З'єднана, 9"
+  "lati": 49.9974832677,
+  "FullNameUA": "вулиця З'єднана, 9",
+  "ChildsIds": []
  },
  {
   "id": 123046,
@@ -347,7 +360,8 @@
   "reg_date": "",
   "longt": 36.2882415186,
   "lati": 49.9979342194,
-  "FullNameUA": "вулиця З'єднана, 10"
+  "FullNameUA": "вулиця З'єднана, 10",
+  "ChildsIds": []
  },
  {
   "id": 123047,
@@ -372,7 +386,8 @@
   "reg_date": "",
   "longt": 36.2877576079,
   "lati": 49.9977232856,
-  "FullNameUA": "вулиця З'єднана, 11"
+  "FullNameUA": "вулиця З'єднана, 11",
+  "ChildsIds": []
  },
  {
   "id": 123048,
@@ -397,7 +412,8 @@
   "reg_date": "",
   "longt": 36.2878270387,
   "lati": 49.9980586294,
-  "FullNameUA": "вулиця З'єднана, 12"
+  "FullNameUA": "вулиця З'єднана, 12",
+  "ChildsIds": []
  },
  {
   "id": 179607,
@@ -422,7 +438,8 @@
   "reg_date": "",
   "longt": 36.2874615002,
   "lati": 49.9980209606,
-  "FullNameUA": "вулиця З'єднана, 13/97"
+  "FullNameUA": "вулиця З'єднана, 13/97",
+  "ChildsIds": []
  },
  {
   "id": 123049,
@@ -445,9 +462,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.287688911000004,
+  "longt": 36.287688911,
   "lati": 49.9982484863,
-  "FullNameUA": "вулиця З'єднана, 14"
+  "FullNameUA": "вулиця З'єднана, 14",
+  "ChildsIds": []
  },
  {
   "id": 123050,
@@ -470,34 +488,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287231367800004,
+  "longt": 36.2872313678,
   "lati": 49.9981624674,
-  "FullNameUA": "вулиця З'єднана, 15"
- },
- {
-  "id": 123051,
-  "postcode": 61161,
-  "number": 16,
-  "suffix": "",
-  "block": "",
-  "streetid": 2740,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 0,
-  "same_adr_comm": "",
-  "confrm": "",
-  "reg_date": "",
-  "longt": 36.2875175722,
-  "lati": 49.998311899200004,
-  "FullNameUA": "вулиця З'єднана, 16"
+  "FullNameUA": "вулиця З'єднана, 15",
+  "ChildsIds": []
  },
  {
   "id": 123052,
@@ -522,7 +516,34 @@
   "reg_date": "",
   "longt": 36.2871238195,
   "lati": 49.9986926522,
-  "FullNameUA": "вулиця З'єднана, 16-А"
+  "FullNameUA": "вулиця З'єднана, 16-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 123051,
+  "postcode": 61161,
+  "number": 16,
+  "suffix": "",
+  "block": "",
+  "streetid": 2740,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 0,
+  "same_adr_comm": "",
+  "confrm": "",
+  "reg_date": "",
+  "longt": 36.2875175722,
+  "lati": 49.9983118992,
+  "FullNameUA": "вулиця З'єднана, 16",
+  "ChildsIds": []
  },
  {
   "id": 133506,
@@ -547,7 +568,8 @@
   "reg_date": "",
   "longt": 36.2913504963,
   "lati": 49.9954082678,
-  "FullNameUA": "вулиця З'єднана, 16/11"
+  "FullNameUA": "вулиця З'єднана, 16/11",
+  "ChildsIds": []
  },
  {
   "id": 123053,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.287091088400004,
-  "lati": 49.998266053900004,
-  "FullNameUA": "вулиця З'єднана, 17"
+  "longt": 36.2870910884,
+  "lati": 49.9982660539,
+  "FullNameUA": "вулиця З'єднана, 17",
+  "ChildsIds": []
  },
  {
   "id": 123054,
@@ -597,7 +620,8 @@
   "reg_date": "",
   "longt": 36.2867150646,
   "lati": 49.9989440649,
-  "FullNameUA": "вулиця З'єднана, 18"
+  "FullNameUA": "вулиця З'єднана, 18",
+  "ChildsIds": []
  },
  {
   "id": 123055,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.2865698824,
   "lati": 49.9990716656,
-  "FullNameUA": "вулиця З'єднана, 20"
+  "FullNameUA": "вулиця З'єднана, 20",
+  "ChildsIds": []
  },
  {
   "id": 123056,
@@ -646,8 +671,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2867004011,
-  "lati": 49.999228933400005,
-  "FullNameUA": "вулиця З'єднана, 22"
+  "lati": 49.9992289334,
+  "FullNameUA": "вулиця З'єднана, 22",
+  "ChildsIds": []
  },
  {
   "id": 123057,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.2862618447,
   "lati": 49.99889822,
-  "FullNameUA": "вулиця З'єднана, 23"
+  "FullNameUA": "вулиця З'єднана, 23",
+  "ChildsIds": []
  },
  {
   "id": 123058,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.2863883622,
   "lati": 49.999242445,
-  "FullNameUA": "вулиця З'єднана, 24"
+  "FullNameUA": "вулиця З'єднана, 24",
+  "ChildsIds": []
  },
  {
   "id": 123059,
@@ -720,9 +748,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.286269025100005,
+  "longt": 36.2862690251,
   "lati": 49.9993728744,
-  "FullNameUA": "вулиця З'єднана, 26"
+  "FullNameUA": "вулиця З'єднана, 26",
+  "ChildsIds": []
  },
  {
   "id": 123060,
@@ -746,8 +775,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.2856153584,
-  "lati": 49.999564466100004,
-  "FullNameUA": "вулиця З'єднана, 27"
+  "lati": 49.9995644661,
+  "FullNameUA": "вулиця З'єднана, 27",
+  "ChildsIds": []
  },
  {
   "id": 123061,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285551591200004,
+  "longt": 36.2855515912,
   "lati": 50.000064972,
-  "FullNameUA": "вулиця З'єднана, 30"
+  "FullNameUA": "вулиця З'єднана, 30",
+  "ChildsIds": []
  },
  {
   "id": 123062,
@@ -797,7 +828,8 @@
   "reg_date": "",
   "longt": 36.2850773566,
   "lati": 49.9999522956,
-  "FullNameUA": "вулиця З'єднана, 31"
+  "FullNameUA": "вулиця З'єднана, 31",
+  "ChildsIds": []
  },
  {
   "id": 123063,
@@ -822,7 +854,8 @@
   "reg_date": "",
   "longt": 36.28507838,
   "lati": 50.0001247913,
-  "FullNameUA": "вулиця З'єднана, 31/20"
+  "FullNameUA": "вулиця З'єднана, 31/20",
+  "ChildsIds": []
  },
  {
   "id": 123064,
@@ -845,9 +878,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.285357680800004,
+  "longt": 36.2853576808,
   "lati": 50.0002531933,
-  "FullNameUA": "вулиця З'єднана, 32"
+  "FullNameUA": "вулиця З'єднана, 32",
+  "ChildsIds": []
  },
  {
   "id": 123065,
@@ -872,7 +906,8 @@
   "reg_date": "",
   "longt": 36.2852019077,
   "lati": 50.0004110419,
-  "FullNameUA": "вулиця З'єднана, 34"
+  "FullNameUA": "вулиця З'єднана, 34",
+  "ChildsIds": []
  },
  {
   "id": 123066,
@@ -897,7 +932,8 @@
   "reg_date": "",
   "longt": 36.2846900727,
   "lati": 50.0005652879,
-  "FullNameUA": "вулиця З'єднана, 35"
+  "FullNameUA": "вулиця З'єднана, 35",
+  "ChildsIds": []
  },
  {
   "id": 123067,
@@ -922,7 +958,8 @@
   "reg_date": "",
   "longt": 36.2851505689,
   "lati": 50.000538511,
-  "FullNameUA": "вулиця З'єднана, 36"
+  "FullNameUA": "вулиця З'єднана, 36",
+  "ChildsIds": []
  },
  {
   "id": 123068,
@@ -947,7 +984,8 @@
   "reg_date": "",
   "longt": 36.2850619843,
   "lati": 50.0007016482,
-  "FullNameUA": "вулиця З'єднана, 38"
+  "FullNameUA": "вулиця З'єднана, 38",
+  "ChildsIds": []
  },
  {
   "id": 123069,
@@ -972,7 +1010,8 @@
   "reg_date": "",
   "longt": 36.284119528,
   "lati": 50.0011636737,
-  "FullNameUA": "вулиця З'єднана, 39"
+  "FullNameUA": "вулиця З'єднана, 39",
+  "ChildsIds": []
  },
  {
   "id": 123070,
@@ -997,7 +1036,8 @@
   "reg_date": "",
   "longt": 36.2837339326,
   "lati": 50.0009922573,
-  "FullNameUA": "вулиця З'єднана, 39-А"
+  "FullNameUA": "вулиця З'єднана, 39-А",
+  "ChildsIds": []
  },
  {
   "id": 123071,
@@ -1022,7 +1062,8 @@
   "reg_date": "",
   "longt": 36.284877341,
   "lati": 50.0007829383,
-  "FullNameUA": "вулиця З'єднана, 40"
+  "FullNameUA": "вулиця З'єднана, 40",
+  "ChildsIds": []
  },
  {
   "id": 123072,
@@ -1047,7 +1088,8 @@
   "reg_date": "",
   "longt": 36.2847348413,
   "lati": 50.000929165,
-  "FullNameUA": "вулиця З'єднана, 42"
+  "FullNameUA": "вулиця З'єднана, 42",
+  "ChildsIds": []
  },
  {
   "id": 123073,
@@ -1072,7 +1114,8 @@
   "reg_date": "",
   "longt": 36.2845812851,
   "lati": 50.0010470579,
-  "FullNameUA": "вулиця З'єднана, 44"
+  "FullNameUA": "вулиця З'єднана, 44",
+  "ChildsIds": []
  },
  {
   "id": 123074,
@@ -1097,6 +1140,7 @@
   "reg_date": "",
   "longt": 36.2844621008,
   "lati": 50.0012232894,
-  "FullNameUA": "вулиця З'єднана, 46"
+  "FullNameUA": "вулиця З'єднана, 46",
+  "ChildsIds": []
  }
 ]

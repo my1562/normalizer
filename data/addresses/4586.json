@@ -1,5 +1,57 @@
 [
  {
+  "id": 130912,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4586,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\"",
+  "confrm": "813, 23.12.2015; 32, 23.12.2015",
+  "reg_date": "31.01.2019 12:01:14",
+  "longt": 36.3064577403,
+  "lati": 50.0381192542,
+  "FullNameUA": "вулиця Курбаса, 1-А",
+  "ChildsIds": []
+ },
+ {
+  "id": 130915,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "Г",
+  "block": "",
+  "streetid": 4586,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ. \"А-2\"",
+  "confrm": "816, 23.12.2015; 32, 23.12.2015",
+  "reg_date": "31.01.2019 12:50:04",
+  "longt": 36.3065537281,
+  "lati": 50.0383005548,
+  "FullNameUA": "вулиця Курбаса, 1-Г",
+  "ChildsIds": []
+ },
+ {
   "id": 175778,
   "postcode": 61107,
   "number": 1,
@@ -20,9 +72,36 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.306594451100004,
+  "longt": 36.3065944511,
   "lati": 50.0384686413,
-  "FullNameUA": "вулиця Курбаса, 1"
+  "FullNameUA": "вулиця Курбаса, 1",
+  "ChildsIds": []
+ },
+ {
+  "id": 130914,
+  "postcode": 61107,
+  "number": 1,
+  "suffix": "В",
+  "block": "",
+  "streetid": 4586,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "815, 23.12.2015; 32, 23.12.2015",
+  "reg_date": "31.01.2019 12:28:46",
+  "longt": 36.306527657,
+  "lati": 50.0382403999,
+  "FullNameUA": "вулиця Курбаса, 1-В",
+  "ChildsIds": []
  },
  {
   "id": 130913,
@@ -47,107 +126,8 @@
   "reg_date": "31.01.2019 12:22:00",
   "longt": 36.3064932308,
   "lati": 50.0381833917,
-  "FullNameUA": "вулиця Курбаса, 1-Б"
- },
- {
-  "id": 130915,
-  "postcode": 61107,
-  "number": 1,
-  "suffix": "Г",
-  "block": "",
-  "streetid": 4586,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\"",
-  "confrm": "816, 23.12.2015; 32, 23.12.2015",
-  "reg_date": "31.01.2019 12:50:04",
-  "longt": 36.306553728100006,
-  "lati": 50.0383005548,
-  "FullNameUA": "вулиця Курбаса, 1-Г"
- },
- {
-  "id": 130912,
-  "postcode": 61107,
-  "number": 1,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4586,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ. \"А-2\"",
-  "confrm": "813, 23.12.2015; 32, 23.12.2015",
-  "reg_date": "31.01.2019 12:01:14",
-  "longt": 36.306457740300004,
-  "lati": 50.0381192542,
-  "FullNameUA": "вулиця Курбаса, 1-А"
- },
- {
-  "id": 130914,
-  "postcode": 61107,
-  "number": 1,
-  "suffix": "В",
-  "block": "",
-  "streetid": 4586,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "815, 23.12.2015; 32, 23.12.2015",
-  "reg_date": "31.01.2019 12:28:46",
-  "longt": 36.306527657000004,
-  "lati": 50.0382403999,
-  "FullNameUA": "вулиця Курбаса, 1-В"
- },
- {
-  "id": 176172,
-  "postcode": 61107,
-  "number": 2,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4586,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ХМР № 453_16, 21.12.2016, дод. 3, п. 3",
-  "reg_date": "31.01.2019 12:55:09",
-  "longt": 36.30751344790001,
-  "lati": 50.0383210405,
-  "FullNameUA": "вулиця Курбаса, 2-А"
+  "FullNameUA": "вулиця Курбаса, 1-Б",
+  "ChildsIds": []
  },
  {
   "id": 130916,
@@ -171,8 +151,35 @@
   "confrm": "градархив",
   "reg_date": "",
   "longt": 36.3072604652,
-  "lati": 50.038385353500004,
-  "FullNameUA": "вулиця Курбаса, 2"
+  "lati": 50.0383853535,
+  "FullNameUA": "вулиця Курбаса, 2",
+  "ChildsIds": []
+ },
+ {
+  "id": 176172,
+  "postcode": 61107,
+  "number": 2,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4586,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ХМР № 453_16, 21.12.2016, дод. 3, п. 3",
+  "reg_date": "31.01.2019 12:55:09",
+  "longt": 36.3075134479,
+  "lati": 50.0383210405,
+  "FullNameUA": "вулиця Курбаса, 2-А",
+  "ChildsIds": []
  },
  {
   "id": 130917,
@@ -195,9 +202,10 @@
   "same_adr_comm": "житловий будинок літ. \"А-2\"",
   "confrm": "583, 16.09.2015",
   "reg_date": "31.01.2019 14:08:44",
-  "longt": 36.306810306100004,
-  "lati": 50.038677328300004,
-  "FullNameUA": "вулиця Курбаса, 3"
+  "longt": 36.3068103061,
+  "lati": 50.0386773283,
+  "FullNameUA": "вулиця Курбаса, 3",
+  "ChildsIds": []
  },
  {
   "id": 130918,
@@ -220,9 +228,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307514954000006,
+  "longt": 36.307514954,
   "lati": 50.0385730304,
-  "FullNameUA": "вулиця Курбаса, 4"
+  "FullNameUA": "вулиця Курбаса, 4",
+  "ChildsIds": []
  },
  {
   "id": 175779,
@@ -245,9 +254,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30687064200001,
+  "longt": 36.306870642,
   "lati": 50.0389202026,
-  "FullNameUA": "вулиця Курбаса, 5"
+  "FullNameUA": "вулиця Курбаса, 5",
+  "ChildsIds": []
  },
  {
   "id": 130919,
@@ -271,8 +281,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3076202883,
-  "lati": 50.038758291200004,
-  "FullNameUA": "вулиця Курбаса, 6"
+  "lati": 50.0387582912,
+  "FullNameUA": "вулиця Курбаса, 6",
+  "ChildsIds": []
  },
  {
   "id": 130922,
@@ -297,7 +308,8 @@
   "reg_date": "31.01.2019 14:41:35",
   "longt": 36.3070182191,
   "lati": 50.0391828045,
-  "FullNameUA": "вулиця Курбаса, 7-Б"
+  "FullNameUA": "вулиця Курбаса, 7-Б",
+  "ChildsIds": []
  },
  {
   "id": 130920,
@@ -320,9 +332,10 @@
   "same_adr_comm": "",
   "confrm": "1735, 24.12.2014",
   "reg_date": "31.01.2019 14:33:46",
-  "longt": 36.306899071400004,
+  "longt": 36.3068990714,
   "lati": 50.0390580306,
-  "FullNameUA": "вулиця Курбаса, 7"
+  "FullNameUA": "вулиця Курбаса, 7",
+  "ChildsIds": []
  },
  {
   "id": 130921,
@@ -347,7 +360,8 @@
   "reg_date": "31.01.2019 14:37:11",
   "longt": 36.3069685063,
   "lati": 50.0391187054,
-  "FullNameUA": "вулиця Курбаса, 7-А"
+  "FullNameUA": "вулиця Курбаса, 7-А",
+  "ChildsIds": []
  },
  {
   "id": 130923,
@@ -371,8 +385,9 @@
   "confrm": "",
   "reg_date": "",
   "longt": 36.3077303947,
-  "lati": 50.038996345600005,
-  "FullNameUA": "вулиця Курбаса, 8"
+  "lati": 50.0389963456,
+  "FullNameUA": "вулиця Курбаса, 8",
+  "ChildsIds": []
  },
  {
   "id": 177883,
@@ -397,32 +412,8 @@
   "reg_date": "",
   "longt": 36.3070678711,
   "lati": 50.0393157885,
-  "FullNameUA": "вулиця Курбаса, 9"
- },
- {
-  "id": 130924,
-  "postcode": 61107,
-  "number": 9,
-  "suffix": "А",
-  "block": "",
-  "streetid": 4586,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "житловий будинок літ.\"А-2\"",
-  "confrm": "293, 28.04.2016; 182, 20.04.2016",
-  "reg_date": "31.01.2019 14:48:54",
-  "longt": 36.307116818000004,
-  "lati": 50.0392967252,
-  "FullNameUA": "вулиця Курбаса, 9-А"
+  "FullNameUA": "вулиця Курбаса, 9",
+  "ChildsIds": []
  },
  {
   "id": 130926,
@@ -447,7 +438,8 @@
   "reg_date": "31.01.2019 15:21:03",
   "longt": 36.3069898166,
   "lati": 50.0393404059,
-  "FullNameUA": "вулиця Курбаса, 9-В"
+  "FullNameUA": "вулиця Курбаса, 9-В",
+  "ChildsIds": []
  },
  {
   "id": 130925,
@@ -470,9 +462,36 @@
   "same_adr_comm": "житловий будинок літ. \"А-2\"",
   "confrm": "293, 28.04.2016; 182, 20.04.2016",
   "reg_date": "31.01.2019 15:16:52",
-  "longt": 36.307126364000005,
+  "longt": 36.307126364,
   "lati": 50.0393454695,
-  "FullNameUA": "вулиця Курбаса, 9-Б"
+  "FullNameUA": "вулиця Курбаса, 9-Б",
+  "ChildsIds": []
+ },
+ {
+  "id": 130924,
+  "postcode": 61107,
+  "number": 9,
+  "suffix": "А",
+  "block": "",
+  "streetid": 4586,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "житловий будинок літ.\"А-2\"",
+  "confrm": "293, 28.04.2016; 182, 20.04.2016",
+  "reg_date": "31.01.2019 14:48:54",
+  "longt": 36.307116818,
+  "lati": 50.0392967252,
+  "FullNameUA": "вулиця Курбаса, 9-А",
+  "ChildsIds": []
  },
  {
   "id": 130927,
@@ -495,9 +514,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.307780209300006,
+  "longt": 36.3077802093,
   "lati": 50.039231706,
-  "FullNameUA": "вулиця Курбаса, 10"
+  "FullNameUA": "вулиця Курбаса, 10",
+  "ChildsIds": []
  },
  {
   "id": 130928,
@@ -520,9 +540,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30720375440001,
+  "longt": 36.3072037544,
   "lati": 50.0395910885,
-  "FullNameUA": "вулиця Курбаса, 11"
+  "FullNameUA": "вулиця Курбаса, 11",
+  "ChildsIds": []
  },
  {
   "id": 130929,
@@ -545,9 +566,10 @@
   "same_adr_comm": "",
   "confrm": "",
   "reg_date": "",
-  "longt": 36.30794794090001,
+  "longt": 36.3079479409,
   "lati": 50.0394710346,
-  "FullNameUA": "вулиця Курбаса, 12"
+  "FullNameUA": "вулиця Курбаса, 12",
+  "ChildsIds": []
  },
  {
   "id": 130930,
@@ -570,9 +592,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30732929610001,
+  "longt": 36.3073292961,
   "lati": 50.0398337464,
-  "FullNameUA": "вулиця Курбаса, 13"
+  "FullNameUA": "вулиця Курбаса, 13",
+  "ChildsIds": []
  },
  {
   "id": 130931,
@@ -595,9 +618,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.30815376060001,
+  "longt": 36.3081537606,
   "lati": 50.0396252993,
-  "FullNameUA": "вулиця Курбаса, 14"
+  "FullNameUA": "вулиця Курбаса, 14",
+  "ChildsIds": []
  },
  {
   "id": 130932,
@@ -622,7 +646,8 @@
   "reg_date": "",
   "longt": 36.3074783989,
   "lati": 50.0400116799,
-  "FullNameUA": "вулиця Курбаса, 15"
+  "FullNameUA": "вулиця Курбаса, 15",
+  "ChildsIds": []
  },
  {
   "id": 130933,
@@ -647,7 +672,8 @@
   "reg_date": "",
   "longt": 36.3082653963,
   "lati": 50.0398437338,
-  "FullNameUA": "вулиця Курбаса, 16"
+  "FullNameUA": "вулиця Курбаса, 16",
+  "ChildsIds": []
  },
  {
   "id": 130934,
@@ -672,7 +698,8 @@
   "reg_date": "",
   "longt": 36.3076084587,
   "lati": 50.0402127213,
-  "FullNameUA": "вулиця Курбаса, 17"
+  "FullNameUA": "вулиця Курбаса, 17",
+  "ChildsIds": []
  },
  {
   "id": 130935,
@@ -697,7 +724,8 @@
   "reg_date": "",
   "longt": 36.3083748119,
   "lati": 50.0400440835,
-  "FullNameUA": "вулиця Курбаса, 18"
+  "FullNameUA": "вулиця Курбаса, 18",
+  "ChildsIds": []
  },
  {
   "id": 175786,
@@ -722,7 +750,8 @@
   "reg_date": "",
   "longt": 36.3077603616,
   "lati": 50.0403485459,
-  "FullNameUA": "вулиця Курбаса, 19"
+  "FullNameUA": "вулиця Курбаса, 19",
+  "ChildsIds": []
  },
  {
   "id": 178843,
@@ -745,9 +774,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.308535066900006,
-  "lati": 50.040248633299996,
-  "FullNameUA": "вулиця Курбаса, 20"
+  "longt": 36.3085350669,
+  "lati": 50.0402486333,
+  "FullNameUA": "вулиця Курбаса, 20",
+  "ChildsIds": []
  },
  {
   "id": 175787,
@@ -770,9 +800,10 @@
   "same_adr_comm": "",
   "confrm": "градархив",
   "reg_date": "",
-  "longt": 36.307862030500004,
+  "longt": 36.3078620305,
   "lati": 50.0406140845,
-  "FullNameUA": "вулиця Курбаса, 21"
+  "FullNameUA": "вулиця Курбаса, 21",
+  "ChildsIds": []
  },
  {
   "id": 175780,
@@ -795,9 +826,10 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 7",
   "reg_date": "24.01.2018 16:29:17",
-  "longt": 36.308661102900004,
+  "longt": 36.3086611029,
   "lati": 50.0404008444,
-  "FullNameUA": "вулиця Курбаса, 22"
+  "FullNameUA": "вулиця Курбаса, 22",
+  "ChildsIds": []
  },
  {
   "id": 178699,
@@ -820,8 +852,9 @@
   "same_adr_comm": "",
   "confrm": "Рішення ХМР № 859, 20.12.2017, дод. 2, п. 7",
   "reg_date": "24.01.2018 16:32:59",
-  "longt": 36.308677169400006,
-  "lati": 50.040511546699996,
-  "FullNameUA": "вулиця Курбаса, 22-А"
+  "longt": 36.3086771694,
+  "lati": 50.0405115467,
+  "FullNameUA": "вулиця Курбаса, 22-А",
+  "ChildsIds": []
  }
 ]

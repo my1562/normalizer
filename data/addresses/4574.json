@@ -1,5 +1,31 @@
 [
  {
+  "id": 107583,
+  "postcode": 61099,
+  "number": 1,
+  "suffix": "М",
+  "block": "",
+  "streetid": 4574,
+  "status_id": 1,
+  "detail_type_index": 0,
+  "AddressDetailType": {
+   "id": 0,
+   "t_ru": " ",
+   "t_ukr": " "
+  },
+  "detail": "",
+  "detail_ua": "",
+  "detail_number": "",
+  "source_id": 1,
+  "same_adr_comm": "",
+  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
+  "reg_date": "18.06.2014 00:00:00",
+  "longt": 36.3595367993,
+  "lati": 49.9592907641,
+  "FullNameUA": "вулиця Лосівська, 1-М",
+  "ChildsIds": []
+ },
+ {
   "id": 113747,
   "postcode": 61046,
   "number": 1,
@@ -22,32 +48,8 @@
   "reg_date": "30.01.2019 12:27:48",
   "longt": 36.3993647437,
   "lati": 49.9467371659,
-  "FullNameUA": "вулиця Лосівська, 1"
- },
- {
-  "id": 107583,
-  "postcode": 61099,
-  "number": 1,
-  "suffix": "М",
-  "block": "",
-  "streetid": 4574,
-  "status_id": 1,
-  "detail_type_index": 0,
-  "AddressDetailType": {
-   "id": 0,
-   "t_ru": " ",
-   "t_ukr": " "
-  },
-  "detail": "",
-  "detail_ua": "",
-  "detail_number": "",
-  "source_id": 1,
-  "same_adr_comm": "",
-  "confrm": "Рішення ВК ХМР № 367, 18.06.2014",
-  "reg_date": "18.06.2014 00:00:00",
-  "longt": 36.3595367993,
-  "lati": 49.959290764100004,
-  "FullNameUA": "вулиця Лосівська, 1-М"
+  "FullNameUA": "вулиця Лосівська, 1",
+  "ChildsIds": []
  },
  {
   "id": 107584,
@@ -72,7 +74,8 @@
   "reg_date": "28.02.2019 11:39:43",
   "longt": 36.3615664478,
   "lati": 49.9584512985,
-  "FullNameUA": "вулиця Лосівська, 2-В"
+  "FullNameUA": "вулиця Лосівська, 2-В",
+  "ChildsIds": []
  },
  {
   "id": 107585,
@@ -97,6 +100,7 @@
   "reg_date": "",
   "longt": 36.3584561393,
   "lati": 49.9596337855,
-  "FullNameUA": "вулиця Лосівська, 4"
+  "FullNameUA": "вулиця Лосівська, 4",
+  "ChildsIds": []
  }
 ]
