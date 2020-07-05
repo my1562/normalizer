@@ -20,33 +20,8 @@
     "arStreetID": null
   },
   {
-    "id": 340,
-    "name": "вул. Верхнєгиївська",
-    "arStreetID": null
-  },
-  {
-    "id": 1631,
-    "name": "вул. Визволення",
-    "arStreetID": null
-  },
-  {
-    "id": 1630,
-    "name": "пров. Визволення",
-    "arStreetID": null
-  },
-  {
     "id": 2816,
     "name": "пров. Волосний (Ногіна (Жовтн.))",
-    "arStreetID": null
-  },
-  {
-    "id": 1377,
-    "name": "вул. Гідроркова (Міліціонера)",
-    "arStreetID": null
-  },
-  {
-    "id": 439,
-    "name": "вул. Гаркуші",
     "arStreetID": null
   },
   {
@@ -95,18 +70,8 @@
     "arStreetID": null
   },
   {
-    "id": 694,
-    "name": "пр-д Жихорський (Желєзнякова)",
-    "arStreetID": null
-  },
-  {
     "id": 716,
     "name": "в-д Журавлівський 1-й",
-    "arStreetID": null
-  },
-  {
-    "id": 745,
-    "name": "пос. Зарічне",
     "arStreetID": null
   },
   {
@@ -115,23 +80,8 @@
     "arStreetID": null
   },
   {
-    "id": 2886,
-    "name": "в-д Карамзина",
-    "arStreetID": null
-  },
-  {
     "id": 888,
     "name": "вул. Кар’єрна",
-    "arStreetID": null
-  },
-  {
-    "id": 889,
-    "name": "пров. Кар’єрний",
-    "arStreetID": null
-  },
-  {
-    "id": 731,
-    "name": "пр-д Кедровий (Загорський пров.)",
     "arStreetID": null
   },
   {
@@ -145,33 +95,8 @@
     "arStreetID": null
   },
   {
-    "id": 2882,
-    "name": "вул. Кирпичова (Червонопрапорна буд. 16 17А 21)",
-    "arStreetID": null
-  },
-  {
-    "id": 2855,
-    "name": "пров. КОЛОНТАЙ",
-    "arStreetID": null
-  },
-  {
     "id": 2842,
     "name": "пос. Коммунист",
-    "arStreetID": null
-  },
-  {
-    "id": 1033,
-    "name": "пр-д Корсиківський (Косіора пров.)",
-    "arStreetID": null
-  },
-  {
-    "id": 2827,
-    "name": "вул. Косарєва (Соколова (Ордж.))",
-    "arStreetID": null
-  },
-  {
-    "id": 847,
-    "name": "пров. Костянтина Калініна (Калініна 2-й в-д)",
     "arStreetID": null
   },
   {
@@ -182,11 +107,6 @@
   {
     "id": 2858,
     "name": "пров. КРАСНОМАЯЦКИЙ",
-    "arStreetID": null
-  },
-  {
-    "id": 2925,
-    "name": "вул. Кремечуцька",
     "arStreetID": null
   },
   {
@@ -537,6 +457,11 @@
   {
     "id": 2104,
     "name": "пров. Симонівський",
+    "arStreetID": null
+  },
+  {
+    "id": 2121,
+    "name": "пос. Скурідіна Дача",
     "arStreetID": null
   },
   {
